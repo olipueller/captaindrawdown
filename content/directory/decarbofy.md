@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://decarbofy.com/" target="_blank" rel="noopener">https://decarbofy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbofy/" target="_blank" rel="noopener">decarbofy</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,13 +30,9 @@ Decarbofy is an early-stage Argentinean biochar project developer that presented
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://decarbofy.com/ ([source](https://www.cdr.fyi/supplier/decarbofy))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decarbofy))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/decarbofy))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/decarbofy))
 
 ---
 

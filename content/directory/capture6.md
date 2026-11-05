@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://capture6.org/" target="_blank" rel="noopener">https://capture6.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture6/" target="_blank" rel="noopener">capture6</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,19 +35,15 @@ Capture6 is a California- and New Zealand-based direct air capture supplier that
 
 ## History
 
-- **2026-10-15** — news mention: Capture6: Project Tortuga is live in Western Australia. Yesterday, we officially opened our… ([source](https://www.linkedin.com/company/capture6/#post-8c84a9d40edc))
-- **2026-10-15** — refresh: coresignal
-- **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
-- **2026-10-14** — news mention: Capture6 Officially Launches Project Tortuga In Western Australia ([source](https://carbonherald.com/capture6-officially-launches-project-tortuga-in-western-australia/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-officially-launches-project-tortuga-in-western-australia))
-- **2026-10-13** — news mention: Capture6 Launches Project Tortuga in Western Australia, Demonstrating Scalable Water Recovery and… ([source](https://www.prnewswire.com/news-releases/capture6-launches-project-tortuga-in-western-australia-demonstrating-scalable-water-recovery-and-carbon-removal-302906585.html))
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-22** — news mention: Capture6 Prepares For Phase 2 Of Monarch With Newly Secured Project-Level Financing ([source](https://carbonherald.com/capture6-prepares-for-phase-2-of-monarch-with-newly-secured-project-level-financing/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-prepares-for-phase-2-of-monarch-with-newly-secured-project-level-financing))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://capture6.com/news/capture6-completes-27-5-million-series-a-and-project-funding-round/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — News: Capture6: Project Tortuga is live in Western Australia. Yesterday, we officially opened our… ([source](https://www.linkedin.com/company/capture6/#post-8c84a9d40edc))
+- **2026-10-14** — News: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
+- **2026-10-14** — News: Capture6 Officially Launches Project Tortuga In Western Australia ([source](https://carbonherald.com/capture6-officially-launches-project-tortuga-in-western-australia/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-officially-launches-project-tortuga-in-western-australia))
+- **2026-10-13** — News: Capture6 Launches Project Tortuga in Western Australia, Demonstrating Scalable Water Recovery and… ([source](https://www.prnewswire.com/news-releases/capture6-launches-project-tortuga-in-western-australia-demonstrating-scalable-water-recovery-and-carbon-removal-302906585.html))
+- **2026-04-22** — News: Capture6 Prepares For Phase 2 Of Monarch With Newly Secured Project-Level Financing ([source](https://carbonherald.com/capture6-prepares-for-phase-2-of-monarch-with-newly-secured-project-level-financing/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-prepares-for-phase-2-of-monarch-with-newly-secured-project-level-financing))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://capture6.com/news/capture6-completes-27-5-million-series-a-and-project-funding-round/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://carbonherald.com/capture6-teams-up-with-isometric-to-issue-dac-carbon-credits/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

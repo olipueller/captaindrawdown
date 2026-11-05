@@ -2,7 +2,7 @@
 title: "Circonomy"
 layout: "single"
 type: "directory"
-description: "Circonomy develops biochar carbon removal projects with smallholder farmers in Asia (India, Malaysia, Laos) using Kon-Tiki kilns and its own digital MRV system endorsed by Carbon Standards"
+description: "Circonomy develops biochar carbon removal projects with smallholder farmers in Asia (India, Malaysia, Laos) using Kon-Tiki kilns and its own digital MRV system endorsed by Carbon Standards…"
 url: "/directory/circonomy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.circonomy.co/" target="_blank" rel="noopener">https://www.circonomy.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circonomy/" target="_blank" rel="noopener">circonomy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,24 +35,15 @@ Circonomy is a Singapore-based climate tech startup specialized in carbon remova
 
 ## History
 
-- **2026-10-26** — news mention: Circonomy: Introducing the first biochar standard with real-time digital monitoring. Today, Carbon… ([source](https://www.linkedin.com/company/circonomy/#post-59df8384859d))
-- **2026-10-15** — refresh: screenshot
-- **2026-08-21** — news mention: Circonomy Pte. Ltd.: The Kongolo Biochar Project in Kenya is officially certified. We built this… ([source](https://www.linkedin.com/company/circonomy/#post-6ee9d68c358b))
-- **2026-08-14** — news mention: Circonomy: The Kongolo Biochar Project in Kenya is officially certified. We built this with our… ([source](https://www.linkedin.com/company/circonomy/#post-d87258ea63c4))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.circonomy.co/))
-- **2026-04-19** — merged 1 duplicate(s): Circonomy Pte. Ltd.
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.circonomy.co/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.circonomy.co ([source](https://www.cdr.fyi/supplier/circonomy))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/circonomy))
-- **** — merged duplicate: Circonomy Pte. Ltd. (slug=circonomy-pte-ltd)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.circonomy.co/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.circonomy.co/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-26** — News: Circonomy: Introducing the first biochar standard with real-time digital monitoring. Today, Carbon… ([source](https://www.linkedin.com/company/circonomy/#post-59df8384859d))
+- **2026-08-21** — News: Circonomy Pte. Ltd.: The Kongolo Biochar Project in Kenya is officially certified. We built this… ([source](https://www.linkedin.com/company/circonomy/#post-6ee9d68c358b))
+- **2026-08-14** — News: Circonomy: The Kongolo Biochar Project in Kenya is officially certified. We built this with our… ([source](https://www.linkedin.com/company/circonomy/#post-d87258ea63c4))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.circonomy.co/))
+- **2026-04-19** — Merged a duplicate entry: Circonomy Pte. Ltd
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/circonomy))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/circonomy))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.circonomy.co/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

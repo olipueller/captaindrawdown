@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.angloamerican.com" target="_blank" rel="noopener">https://www.angloamerican.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anglo-american/" target="_blank" rel="noopener">anglo-american</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -39,16 +39,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-19** — news mention: Ocean pHix: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a… ([source](https://www.linkedin.com/company/exponential-hq/#post-c4c4f281fdfa))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-12** — news mention: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary… ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=side_business liveliness= Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness= Active ([source](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=division liveliness= Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-19** — News: Ocean pHix: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary ([source](https://www.linkedin.com/company/exponential-hq/#post-c4c4f281fdfa))
+- **2026-08-12** — News: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary… ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
+- **2026-04-19** — Classified as Enhanced Weathering, side business, 🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
+- **2026-04-19** — Classified as Enhanced Weathering, division, 🟢 Active ([source](https://www.angloamerican.com/our-stories/healthy-environment/turning-waste-into-a-climate-solution-with-enhanced-rock-weathering))
+- **2026-04-18** — Classified as Enhanced Weathering, division, 🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Carbonsate"
 layout: "single"
 type: "directory"
-description: "Harvests woody biomass (e.g. encroaching bush) and seals it in engineered, oxygen-free underground pits with sensor-based MRV for >100-year carbon storage, certified under Puro.earth's Terrestrial"
+description: "Harvests woody biomass (e.g. encroaching bush) and seals it in engineered, oxygen-free underground pits with sensor-based MRV for >100-year carbon storage, certified under Puro.earth's Terrestrial…"
 url: "/directory/carbonsate/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsate.com/" target="_blank" rel="noopener">https://www.carbonsate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-12-31</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2029-12-31</small></td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -43,36 +43,32 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-22** — news mention: Last Friday, we marked the opening of our third biomass storage chamber in Namibia, joined by Hon.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7518665500814422016/))
-- **2026-10-15** — refresh: coresignal
-- **2026-10-15** — refresh: coresignal
-- **2026-09-28** — news mention: A lot can happen in 3 years. ([source](https://www.linkedin.com/feed/update/urn:li:share:7510281826712858624/))
-- **2026-09-28** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-26** — news mention: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
-- **2026-08-24** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
-- **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
-- **2026-08-22** — news mention: Senken Signs 50,000-Tonne Biomass Carbon Removal Deal with Carbonsate in Namibia ([source](https://carboncredits.com/senken-signs-50000-tonne-biomass-carbon-removal-deal-with-carbonsate-in-namibia/))
-- **2026-08-22** — news mention: Carbon Drawdown Initiative: Now we need to deliver! Three years ago, biomass storage was still a… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-197d8cb91c25))
-- **2026-08-21** — news mention: Protos energy-from-waste facility begins operations with carbon capture - Bioenergy Insight… ([source](https://www.bioenergy-news.com/news/protos-energy-from-waste-facility-begins-operations-with-carbon-capture/))
-- **2026-08-20** — news mention: Europe's largest biomass burial carbon removal deal signed - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/europes-largest-biomass-burial-carbon-removal-deal-signed/))
-- **2026-08-20** — news mention: Senken: Senken and Carbonsate signed Europe's largest biomass storage deal to date The agreement… ([source](https://www.linkedin.com/company/senken/#post-e1d3f04c90d8))
-- **2026-08-19** — news mention: Senken signs 50,000-tonne carbon removal deal with Carbonsate - BioEnergy Times ([source](https://bioenergytimes.com/senken-signs-50000-tonne-carbon-removal-deal-with-carbonsate/))
-- **2026-08-18** — news mention: Senken and Carbonsate Sign Europe's Largest Biomass Storage Deal ([source](https://www.renewableenergymagazine.com/biomass/senken-and-carbonsate-sign-europe-s-largest-20260818))
-- **2026-08-18** — news mention: Senken and Carbonsate Sign 50,000-Tonne Biomass Storage Deal in Namibia ([source](https://igrownews.com/senken-latest-news/))
-- **2026-08-18** — news mention: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon removal. ([source](https://www.linkedin.com/feed/update/urn:li:share:7495020333285138432/))
-- **2026-08-17** — news mention: Senken and Carbonsate Sign EU's Largest Biomass Storage Deal: 50,000 Tonnes of Permanent Carbon… ([source](https://uk.advfn.com/stock-market/share-news/Senken-and-Carbonsate-Sign-EUs-Largest-Biomass-Sto/99133239))
-- **2026-08-17** — news mention: Senken et Carbonsate signent le plus important contrat de stockage de biomasse de l'Union… ([source](https://www.prnewswire.com/news-releases/senken-et-carbonsate-signent-le-plus-important-contrat-de-stockage-de-biomasse-de-lunion-europeenne--50-000-tonnes-de-carbone-eliminees-de-maniere-permanente-302851879.html))
-- **2026-08-17** — news mention: Senken und Carbonsate unterzeichnen Europas größten Deal für Biomasse-Speicherung: 50.000 Tonnen… ([source](https://www.prnewswire.com/news-releases/senken-und-carbonsate-unterzeichnen-europas-groWten-deal-fur-biomasse-speicherung-50-000-tonnen-permanentes-co2-removal-302851903.html))
-- **2026-08-17** — news mention: Senken And Carbonsate Ink Europe’s Largest Biomass Storage Deal To Date ([source](https://carbonherald.com/senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-03** — news mention: Carbonsate: Carbonsate is part of the Carbon Business Council’s Direct Biomass Storage Coalition… ([source](https://www.linkedin.com/company/carbonsate/#post-c6dbd5ade4d8))
-- **2026-07-27** — news mention: Carbonsate: Carbonsate is part of the Carbon Business Councilâs Direct Biomass Storage… ([source](https://www.linkedin.com/company/carbonsate/#post-c15606779150))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-06-24** — news mention: #vivatech #carbonremoval #climatetech #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474808390699909121/))
-- **2026-06-24** — news mention: #gitexeurope #climatetech #carbonremoval #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474819543136362496/))
-- **2026-06-15** — refresh: coresignal
+- **2026-10-22** — News: Last Friday, we marked the opening of our third biomass storage chamber in Namibia, joined by Hon.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7518665500814422016/))
+- **2026-09-28** — News: A lot can happen in 3 years. You can start a company. You can turn a new carbon removal methodolog ([source](https://www.linkedin.com/feed/update/urn:li:share:7510281826712858624/))
+- **2026-09-28** — News: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
+- **2026-08-26** — News: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-24** — News: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
+- **2026-08-24** — News: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
+- **2026-08-22** — News: Senken Signs 50,000-Tonne Biomass Carbon Removal Deal with Carbonsate in Namibia ([source](https://carboncredits.com/senken-signs-50000-tonne-biomass-carbon-removal-deal-with-carbonsate-in-namibia/))
+- **2026-08-22** — News: Carbon Drawdown Initiative: Now we need to deliver! Three years ago, biomass storage was still a… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-197d8cb91c25))
+- **2026-08-21** — News: Protos energy-from-waste facility begins operations with carbon capture - Bioenergy Insight… ([source](https://www.bioenergy-news.com/news/protos-energy-from-waste-facility-begins-operations-with-carbon-capture/))
+- **2026-08-20** — News: Europe's largest biomass burial carbon removal deal signed - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/europes-largest-biomass-burial-carbon-removal-deal-signed/))
+- **2026-08-20** — News: Senken: Senken and Carbonsate signed Europe's largest biomass storage deal to date The agreement… ([source](https://www.linkedin.com/company/senken/#post-e1d3f04c90d8))
+- **2026-08-19** — News: Senken signs 50,000-tonne carbon removal deal with Carbonsate - BioEnergy Times ([source](https://bioenergytimes.com/senken-signs-50000-tonne-carbon-removal-deal-with-carbonsate/))
+- **2026-08-18** — News: Senken and Carbonsate Sign Europe's Largest Biomass Storage Deal ([source](https://www.renewableenergymagazine.com/biomass/senken-and-carbonsate-sign-europe-s-largest-20260818))
+- **2026-08-18** — News: Senken and Carbonsate Sign 50,000-Tonne Biomass Storage Deal in Namibia ([source](https://igrownews.com/senken-latest-news/))
+- **2026-08-18** — News: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon removal. Carbons ([source](https://www.linkedin.com/feed/update/urn:li:share:7495020333285138432/))
+- **2026-08-17** — News: Senken and Carbonsate Sign EU's Largest Biomass Storage Deal: 50,000 Tonnes of Permanent Carbon… ([source](https://uk.advfn.com/stock-market/share-news/Senken-and-Carbonsate-Sign-EUs-Largest-Biomass-Sto/99133239))
+- **2026-08-17** — News: Senken et Carbonsate signent le plus important contrat de stockage de biomasse de l'Union… ([source](https://www.prnewswire.com/news-releases/senken-et-carbonsate-signent-le-plus-important-contrat-de-stockage-de-biomasse-de-lunion-europeenne--50-000-tonnes-de-carbone-eliminees-de-maniere-permanente-302851879.html))
+- **2026-08-17** — News: Senken und Carbonsate unterzeichnen Europas größten Deal für Biomasse-Speicherung: 50.000 Tonnen… ([source](https://www.prnewswire.com/news-releases/senken-und-carbonsate-unterzeichnen-europas-groWten-deal-fur-biomasse-speicherung-50-000-tonnen-permanentes-co2-removal-302851903.html))
+- **2026-08-17** — News: Senken And Carbonsate Ink Europe’s Largest Biomass Storage Deal To Date ([source](https://carbonherald.com/senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date))
+- **2026-08-03** — News: Carbonsate: Carbonsate is part of the Carbon Business Council’s Direct Biomass Storage Coalition… ([source](https://www.linkedin.com/company/carbonsate/#post-c6dbd5ade4d8))
+- **2026-07-27** — News: Carbonsate: Carbonsate is part of the Carbon Business Councilâs Direct Biomass Storage Coalition, ([source](https://www.linkedin.com/company/carbonsate/#post-c15606779150))
+- **2026-06-24** — News: #vivatech #carbonremoval #climatetech #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474808390699909121/))
+- **2026-06-24** — News: #gitexeurope #climatetech #carbonremoval #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474819543136362496/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

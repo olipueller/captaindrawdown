@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://recoal.net/" target="_blank" rel="noopener">https://recoal.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recoal-net/" target="_blank" rel="noopener">recoal-net</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,16 +30,12 @@ Recoal AG is a Zurich-based CDR startup founded in 2023 that converts wet-waste 
 
 ## History
 
-- **2026-10-30** — news mention: CDR Momentum, Edition IV ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
-- **2026-10-19** — news mention: Recoal: REACT-2 has arrived! REACT, short for Recoal Advanced Carbonization Technology, is the… ([source](https://www.linkedin.com/company/recoal-net/#post-587cb3373594))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://recoal.net/en/recoal-rainbow-standard/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://recoal.net/en/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://recoal.net/en/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-30** — News: CDR Momentum, Edition IV NEP members are at the heart of this month’s carbon removal highlights. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
+- **2026-10-19** — News: Recoal: REACT-2 has arrived! REACT, short for Recoal Advanced Carbonization Technology, is the… ([source](https://www.linkedin.com/company/recoal-net/#post-587cb3373594))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://recoal.net/en/recoal-rainbow-standard/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://recoal.net/en/))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://recoal.net/en/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

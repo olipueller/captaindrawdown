@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.beetleregen.com/" target="_blank" rel="noopener">https://www.beetleregen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beetle-regen-solutions/" target="_blank" rel="noopener">beetle-regen-solutions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,17 +31,14 @@ Beetle Regen Solutions is an India-based regenerative agriculture startup founde
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-19** — news mention: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a… ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
-- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
-- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://thebetterindia.com/startup/agri-startup/beetle-regen-solutions-amol-mishra-hemant-rajput-regenerative-farming-india-farmers-10486138))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.beetleregen.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.beetleregen.com/ ([source](https://www.cdr.fyi/supplier/beetle-regen-solutions))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/beetle-regen-solutions))
+- **2026-09-19** — News: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a new ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
+- **2026-09-07** — News: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — News: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-02** — News: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://thebetterindia.com/startup/agri-startup/beetle-regen-solutions-amol-mishra-hemant-rajput-regenerative-farming-india-farmers-10486138))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.beetleregen.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/beetle-regen-solutions))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/beetle-regen-solutions))
 
 ---
 

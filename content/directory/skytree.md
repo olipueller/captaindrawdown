@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://skytree.tech/" target="_blank" rel="noopener">https://skytree.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skytree/" target="_blank" rel="noopener">skytree</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,31 +34,26 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
-- **2026-10-23** — news mention: Skytree, Galetech, And Mwahera Partner On Direct Air Capture For E-Fuel Production In Kenya ([source](https://carbonherald.com/skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya))
-- **2026-10-07** — news mention: Skytree To Develop Its First Skypark In Iceland With New $1.1M Loan From Invest International ([source](https://carbonherald.com/skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international))
-- **2026-10-07** — news mention: Skytree secures €1 million development loan from Invest ... ([source](https://skytree.tech/en-en/news/skytree-secures-1-million-development-loan-from-invest-international-for-its-first-skypark-co-as-a-service-project-in-iceland))
-- **2026-10-06** — news mention: Skytree secures €1 million development loan ([source](https://www.hortidaily.com/article/9880468/skytree-secures-eur1-million-development-loan/))
-- **2026-10-06** — news mention: Skytree secures €1m Dutch development loan for Iceland DAC project | Carbon Dioxide ([source](https://www.gasworld.com/story/skytree-secures-e1m-dutch-development-loan-for-iceland-dac-project/2261282.article.article/))
-- **2026-10-01** — news mention: Skytree: Glastuinbouw Nederland has announced that a group of Dutch greenhouse projects secured… ([source](https://www.linkedin.com/company/skytree/#post-5634d9665ff3))
-- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-26** — news mention: Skytree: Skytree’s Chief Product Officer, Bjørn Utgård , is joining industry leaders at ONS 2026… ([source](https://www.linkedin.com/company/skytree/#post-09915724f7cc))
-- **2026-07-22** — news mention: Skytree: Skytree has achieved ISO 9001:2015 and ISO/IEC 27001:2022 certifications, confirming our… ([source](https://www.linkedin.com/company/skytree/#post-b3ab9a91c924))
-- **2026-06-08** — news mention: Trade-off analysis matters. Most CDR pathways have land, water, energy, or air-quality footprints… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnrjvi5ukl2h))
-- **2026-06-06** — news mention: Skytree Launches First Commercial Skytree Stratus System at Lingezegen Energy to Provide… ([source](https://skytree.tech/en-en/news/skytree-launches-first-commercial-skytree-stratus-system-at-lingezegen-energy))
-- **2026-06-06** — news mention: Within the Sustainable Systems Engineering program, students engage directly with topics like… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnmqrrillk27))
-- **2026-06-06** — news mention: Skytree Secures First Commercial Deployment Of Stratus DAC System Skytree has announced the first… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnmcj7ljpt2d))
-- **2026-06-06** — news mention: https://www.captaindrawdown.com/posts/captains-cdr-log-157/ ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv3akgpq2c))
-- **2026-06-05** — news mention: Skytree Secures First Commercial Deployment Of Stratus DAC System ([source](https://carbonherald.com/skytree-secures-first-commercial-deployment-of-stratus-dac-system/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-secures-first-commercial-deployment-of-stratus-dac-system))
-- **2026-06-05** — news mention: Skytree en Lingezegen Energy kondigen gezamenlijke ambitie aan om Skytree Stratus Direct Air… ([source](https://skytree.tech/nl-nl/nieuws/skytree-kondigt-lancering-aan-van-eerste-skytree-stratus-direct-air-capture-systeem-bij-lingezegen-energy-voor-fossielvrije-glastuinbouw))
-- **2026-06-05** — news mention: Skytree to deploy direct air capture system for Dutch greenhouse CO2 supply | Carbon Capture |… ([source](https://www.gasworld.com/story/skytree-to-deploy-direct-air-capture-system-for-dutch-greenhouse-co2-supply/2251367.article/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://skytree.tech/en-en/newsroom))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://skytree.tech/en-en/newsroom))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.skytree.eu/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-23** — News: Skytree, Galetech, And Mwahera Partner On Direct Air Capture For E-Fuel Production In Kenya ([source](https://carbonherald.com/skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya))
+- **2026-10-07** — News: Skytree To Develop Its First Skypark In Iceland With New $1.1M Loan From Invest International ([source](https://carbonherald.com/skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international))
+- **2026-10-07** — News: Skytree secures €1 million development loan from Invest ... ([source](https://skytree.tech/en-en/news/skytree-secures-1-million-development-loan-from-invest-international-for-its-first-skypark-co-as-a-service-project-in-iceland))
+- **2026-10-06** — News: Skytree secures €1 million development loan ([source](https://www.hortidaily.com/article/9880468/skytree-secures-eur1-million-development-loan/))
+- **2026-10-06** — News: Skytree secures €1m Dutch development loan for Iceland DAC project | Carbon Dioxide ([source](https://www.gasworld.com/story/skytree-secures-e1m-dutch-development-loan-for-iceland-dac-project/2261282.article.article/))
+- **2026-10-01** — News: Skytree: Glastuinbouw Nederland has announced that a group of Dutch greenhouse projects secured the ([source](https://www.linkedin.com/company/skytree/#post-5634d9665ff3))
+- **2026-09-25** — News: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-08-26** — News: Skytree: Skytree’s Chief Product Officer, Bjørn Utgård , is joining industry leaders at ONS 2026 to ([source](https://www.linkedin.com/company/skytree/#post-09915724f7cc))
+- **2026-07-22** — News: Skytree: Skytree has achieved ISO 9001:2015 and ISO/IEC 27001:2022 certifications, confirming our… ([source](https://www.linkedin.com/company/skytree/#post-b3ab9a91c924))
+- **2026-06-08** — News: Trade-off analysis matters. Most CDR pathways have land, water, energy, or air-quality footprints… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnrjvi5ukl2h))
+- **2026-06-06** — News: Skytree Launches First Commercial Skytree Stratus System at Lingezegen Energy to Provide… ([source](https://skytree.tech/en-en/news/skytree-launches-first-commercial-skytree-stratus-system-at-lingezegen-energy))
+- **2026-06-06** — News: Within the Sustainable Systems Engineering program, students engage directly with topics like… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnmqrrillk27))
+- **2026-06-06** — News: Skytree Secures First Commercial Deployment Of Stratus DAC System Skytree has announced the first c ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnmcj7ljpt2d))
+- **2026-06-06** — News: https://www.captaindrawdown.com/posts/captains-cdr-log-157/ ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv3akgpq2c))
+- **2026-06-05** — News: Skytree Secures First Commercial Deployment Of Stratus DAC System ([source](https://carbonherald.com/skytree-secures-first-commercial-deployment-of-stratus-dac-system/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-secures-first-commercial-deployment-of-stratus-dac-system))
+- **2026-06-05** — News: Skytree en Lingezegen Energy kondigen gezamenlijke ambitie aan om Skytree Stratus Direct Air… ([source](https://skytree.tech/nl-nl/nieuws/skytree-kondigt-lancering-aan-van-eerste-skytree-stratus-direct-air-capture-systeem-bij-lingezegen-energy-voor-fossielvrije-glastuinbouw))
+- **2026-06-05** — News: Skytree to deploy direct air capture system for Dutch greenhouse CO2 supply | Carbon Capture |… ([source](https://www.gasworld.com/story/skytree-to-deploy-direct-air-capture-system-for-dutch-greenhouse-co2-supply/2251367.article/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://skytree.tech/en-en/newsroom))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.skytree.eu/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

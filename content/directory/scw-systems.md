@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.scwsystems.com/" target="_blank" rel="noopener">https://www.scwsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,30 +31,23 @@ SCW Systems is a Dutch energy-services company in Alkmaar that operates an indus
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-04** — news mention: SCW Systems: For the past years, SCW Systems has been building quietly. Now, we are ready to share… ([source](https://www.linkedin.com/company/scw-systems/#post-3347ef9aa658))
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
-- **2026-07-30** — news mention: SCW Systems: PFAS pollution is one of the most pressing environmental challenges of our… ([source](https://www.linkedin.com/company/scw-systems/#post-289e343bdf45))
-- **2026-07-23** — news mention: SCW Systems B.V.: Steel CleanUp selected for funding from the EU Innovation Fund! Steel CleanUp… ([source](https://www.linkedin.com/company/scw-systems/#post-edf084a41ee3))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.scwsystems.com/))
-- **2026-04-19** — merged 1 duplicate(s): SCW Systems B.V.
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.scwsystems.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://scwsystems.com/ ([source](https://www.cdr.fyi/supplier/scw-systems))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/scw-systems))
-- **** — merged duplicate: SCW Systems B.V. (slug=scw-systems-bv)
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.scwsystems.com/co2-cleanup))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.scwsystems.com/co2-cleanup))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.scwsystems.com/co2-cleanup))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-04** — News: SCW Systems: For the past years, SCW Systems has been building quietly. Now, we are ready to share… ([source](https://www.linkedin.com/company/scw-systems/#post-3347ef9aa658))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
+- **2026-07-30** — News: SCW Systems: PFAS pollution is one of the most pressing environmental challenges of our… ([source](https://www.linkedin.com/company/scw-systems/#post-289e343bdf45))
+- **2026-07-23** — News: SCW Systems B.V.: Steel CleanUp selected for funding from the EU Innovation Fund! Steel CleanUp ha ([source](https://www.linkedin.com/company/scw-systems/#post-edf084a41ee3))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.scwsystems.com/))
+- **2026-04-19** — Merged a duplicate entry: SCW Systems B.V
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.scwsystems.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/scw-systems))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/scw-systems))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.scwsystems.com/co2-cleanup))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
+- **2026-04-18** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.scwsystems.com/co2-cleanup))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

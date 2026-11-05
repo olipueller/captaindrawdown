@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.nordiccarbon.dk/" target="_blank" rel="noopener">https://www.nordiccarbon.dk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordic-carbon/" target="_blank" rel="noopener">nordic-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,29 +29,23 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
-- **2026-10-05** — news mention: Skyrenu: 250 million allowances is not the same as 250 million tonnes removed. In July, the… ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-46fd8a853546))
-- **2026-10-03** — news mention: Policy Summit takeaways: Unlocking corporate demand for carbon removal starts with clear guidance… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510998925823172609/))
-- **2026-09-28** — news mention: Nordic Carbon: We're preparing to commission our project in Ghana. Once operational, the facility… ([source](https://www.linkedin.com/company/nordic-carbon/#post-1b430fa45953))
-- **2026-09-25** — news mention: Negative Emissions Platform: As MEP Peter Liese publishes his draft report on the EU ETS, the… ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-312a139b4ed5))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-02** — news mention: Now is the time to enter Europe’s carbon removal market. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500493306318086144/))
-- **2026-08-16** — news mention: Nordic Carbon: From delivery to deployment — installation underway in Drobonso! Our pyrolysis… ([source](https://www.linkedin.com/company/nordic-carbon/#post-1fa605783dc0))
-- **2026-08-02** — news mention: Nordic Carbon: Transparency is foundational to credible carbon removal — which is why the public… ([source](https://www.linkedin.com/company/nordic-carbon/#post-24933099e92b))
-- **2026-07-25** — news mention: Nordic Carbon: ð¥ From delivery to deployment â installation underway in Drobonso! Our… ([source](https://www.linkedin.com/company/nordic-carbon/#post-2d2551818095))
-- **2026-07-25** — news mention: Nordic Carbon: Transparency is foundational to credible carbon removal â which is why the public… ([source](https://www.linkedin.com/company/nordic-carbon/#post-f734de67301b))
-- **2026-05-22** — news mention: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
-- **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon… ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nordiccarbon.dk/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.nordiccarbon.dk/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.nordiccarbon.dk/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.nordiccarbon.dk/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-05** — News: Skyrenu: 250 million allowances is not the same as 250 million tonnes removed. In July, the Europe ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-46fd8a853546))
+- **2026-10-03** — News: Policy Summit takeaways: Unlocking corporate demand for carbon removal starts with clear guidance | ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510998925823172609/))
+- **2026-09-28** — News: Nordic Carbon: We're preparing to commission our project in Ghana. Once operational, the facility… ([source](https://www.linkedin.com/company/nordic-carbon/#post-1b430fa45953))
+- **2026-09-25** — News: Negative Emissions Platform: As MEP Peter Liese publishes his draft report on the EU ETS, the… ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-312a139b4ed5))
+- **2026-09-02** — News: Now is the time to enter Europe’s carbon removal market. The business case has never been stronger ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500493306318086144/))
+- **2026-08-16** — News: Nordic Carbon: From delivery to deployment — installation underway in Drobonso! Our pyrolysis… ([source](https://www.linkedin.com/company/nordic-carbon/#post-1fa605783dc0))
+- **2026-08-02** — News: Nordic Carbon: Transparency is foundational to credible carbon removal — which is why the public… ([source](https://www.linkedin.com/company/nordic-carbon/#post-24933099e92b))
+- **2026-07-25** — News: Nordic Carbon: ð¥ From delivery to deployment â installation underway in Drobonso! Our… ([source](https://www.linkedin.com/company/nordic-carbon/#post-2d2551818095))
+- **2026-07-25** — News: Nordic Carbon: Transparency is foundational to credible carbon removal â which is why the public… ([source](https://www.linkedin.com/company/nordic-carbon/#post-f734de67301b))
+- **2026-05-22** — News: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
+- **2026-05-20** — News: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon… ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.nordiccarbon.dk/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.nordiccarbon.dk/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vgridenergy.com/" target="_blank" rel="noopener">https://vgridenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vgrid-energy-systems/" target="_blank" rel="noopener">vgrid-energy-systems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via puro issuance on 2026-03-23</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— verified via puro issuance on 2026-03-23</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-03-23)</small></td></tr>
@@ -41,17 +41,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://vgridenergy.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://vgridenergy.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://vgridenergy.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://vgridenergy.com/))
+- **2026-04-19** — Status Active → Suspect ([source](https://tracxn.com/d/companies/vgrid-energy-systems/__20sNMytyR040TanyeM8j9NQOUWvwGtPgzjWBNiFzWZc))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://vgridenergy.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

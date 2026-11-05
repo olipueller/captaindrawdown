@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.korall.cc/" target="_blank" rel="noopener">https://www.korall.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/korallcc/" target="_blank" rel="noopener">korallcc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,16 +31,10 @@ KORALL is a Swedish DAC startup whose liquid Direct Air Carbon Capture plant dyn
 
 ## History
 
-- **2026-08-30** — news mention: KORALL: Major Milestone for European Carbon Markets: What the EU ETS Revision Proposal Means for… ([source](https://www.linkedin.com/company/korallcc/#post-5be83d9a00dd))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-25** — news mention: KORALL: Major Milestone for European Carbon Markets: What the EU ETS Revision Proposal Means for… ([source](https://www.linkedin.com/company/korallcc/#post-da53dca82c21))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.korall.cc/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.korall.cc/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.korall.cc/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-30** — News: KORALL: Major Milestone for European Carbon Markets: What the EU ETS Revision Proposal Means for… ([source](https://www.linkedin.com/company/korallcc/#post-5be83d9a00dd))
+- **2026-07-25** — News: KORALL: Major Milestone for European Carbon Markets: What the EU ETS Revision Proposal Means for… ([source](https://www.linkedin.com/company/korallcc/#post-da53dca82c21))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.korall.cc/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

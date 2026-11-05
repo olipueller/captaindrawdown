@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://goal300.earth/" target="_blank" rel="noopener">https://goal300.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/goal300/" target="_blank" rel="noopener">goal300</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,17 +30,11 @@ Goal 300 focuses on removing legacy greenhouse gas emissions through Enhanced Ro
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://goal300.earth/carbon-buyers/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://goal300.earth/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://goal300.earth/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://goal300.earth/carbon-buyers/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://goal300.earth/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://goal300.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://goal300.earth/carbon-buyers/))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟡 Moderate ([source](https://goal300.earth/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://goal300.earth/carbon-buyers/))
+- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟡 Moderate ([source](https://goal300.earth/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

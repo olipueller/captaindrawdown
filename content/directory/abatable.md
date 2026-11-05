@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.abatable.com/" target="_blank" rel="noopener">https://www.abatable.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/abatable/" target="_blank" rel="noopener">abatable</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -34,34 +34,25 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-01** — news mention: Abatable: The EU's Empowering Consumers for the Green Transition Directive came into force over… ([source](https://www.linkedin.com/company/abatable/#post-7381730c31e5))
-- **2026-09-21** — news mention: The carbon credits debate is finally shifting from 'whether' to invest to 'how' | BusinessGreen… ([source](https://www.businessgreen.com/opinion/4535998/carbon-credits-debate-finally-shifting-invest))
-- **2026-09-18** — news mention: Google inks its 'largest ever' carbon and methane removal deal | BusinessGreen News ([source](https://www.businessgreen.com/news/4535889/google-inks-largest-carbon-methane-removal-deal))
-- **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D… ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
-- **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility… ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
-- **2026-08-27** — news mention: Carbon Business Council: New open calls for carbon removal are currently accepting applications.… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-7cc8111b5ce2))
-- **2026-08-19** — news mention: CDR.fyi: This week key developments in durable CDR, as Google launched a $6M R&amp;D funding… ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
-- **2026-08-15** — news mention: VodafoneThree Partners with Abatable to Launch Carbon Removal RFP Sourcing 24,000 Tonnes &#8211… ([source](https://biochartoday.com/news/vodafonethree-partners-with-abatable-to-launch-carbon-removal-rfp-sourcing-24000-tonnes/))
-- **2026-08-15** — news mention: Ground Up: This week key developments in durable CDR, as Google launched a $6M R&amp;D funding… ([source](https://www.linkedin.com/company/ground-up-in/#post-0640bb086bc2))
-- **2026-08-13** — news mention: In A New RFP, VodafoneThree Is Seeking UK Tech And Nature-Based Removals Via Abatable ([source](https://carbonherald.com/in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable))
-- **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications. ([source](https://www.linkedin.com/feed/update/urn:li:share:7493335365731176448/))
-- **2026-08-12** — news mention: Blog | VodafoneThree launches UK carbon removals RFP with Abatable | Abatable ([source](https://abatable.com/blog/vodafonethree-partners-with-abatable))
-- **2026-08-12** — news mention: Zero Imprint Limited: The Science Based Targets initiative just quietly created a guaranteed… ([source](https://www.linkedin.com/company/abatable/#post-9a007cb6e0ea))
-- **2026-07-29** — news mention: Blog | EU ETS reform: carbon removals and Article 6 credits | Abatable ([source](https://abatable.com/blog/what-do-the-eu-ets-reforms-mean-for-carbon-credit-markets))
-- **2026-07-10** — news mention: Greenhouses in hot-desert climates deliver high yields with minimal water and land footprint but… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqchlbizt22k))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — merged 1 duplicate(s): Zero Imprint Limited
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://abatable.com/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zero-imprint-limited))
-- **** — merged duplicate: Zero Imprint Limited (slug=zero-imprint-limited)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://abatable.com/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://abatable.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-01** — News: Abatable: The EU's Empowering Consumers for the Green Transition Directive came into force over… ([source](https://www.linkedin.com/company/abatable/#post-7381730c31e5))
+- **2026-09-21** — News: The carbon credits debate is finally shifting from 'whether' to invest to 'how' | BusinessGreen… ([source](https://www.businessgreen.com/opinion/4535998/carbon-credits-debate-finally-shifting-invest))
+- **2026-09-18** — News: Google inks its 'largest ever' carbon and methane removal deal | BusinessGreen News ([source](https://www.businessgreen.com/news/4535889/google-inks-largest-carbon-methane-removal-deal))
+- **2026-08-30** — News: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
+- **2026-08-30** — News: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility… ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
+- **2026-08-27** — News: Carbon Business Council: New open calls for carbon removal are currently accepting applications.… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-7cc8111b5ce2))
+- **2026-08-19** — News: CDR.fyi: This week key developments in durable CDR, as Google launched a $6M R&amp;D funding… ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
+- **2026-08-15** — News: VodafoneThree Partners with Abatable to Launch Carbon Removal RFP Sourcing 24,000 Tonnes &#8211… ([source](https://biochartoday.com/news/vodafonethree-partners-with-abatable-to-launch-carbon-removal-rfp-sourcing-24000-tonnes/))
+- **2026-08-15** — News: Ground Up: This week key developments in durable CDR, as Google launched a $6M R&amp;D funding… ([source](https://www.linkedin.com/company/ground-up-in/#post-0640bb086bc2))
+- **2026-08-13** — News: In A New RFP, VodafoneThree Is Seeking UK Tech And Nature-Based Removals Via Abatable ([source](https://carbonherald.com/in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable))
+- **2026-08-13** — News: New open calls for carbon removal are currently accepting applications. Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:li:share:7493335365731176448/))
+- **2026-08-12** — News: Blog | VodafoneThree launches UK carbon removals RFP with Abatable | Abatable ([source](https://abatable.com/blog/vodafonethree-partners-with-abatable))
+- **2026-08-12** — News: Zero Imprint Limited: The Science Based Targets initiative just quietly created a guaranteed carbon ([source](https://www.linkedin.com/company/abatable/#post-9a007cb6e0ea))
+- **2026-07-29** — News: Blog | EU ETS reform: carbon removals and Article 6 credits | Abatable ([source](https://abatable.com/blog/what-do-the-eu-ets-reforms-mean-for-carbon-credit-markets))
+- **2026-07-10** — News: Greenhouses in hot-desert climates deliver high yields with minimal water and land footprint but… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqchlbizt22k))
+- **2026-04-19** — Merged a duplicate entry: Zero Imprint Limited
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://abatable.com/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/zero-imprint-limited))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

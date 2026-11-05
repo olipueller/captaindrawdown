@@ -2,7 +2,7 @@
 title: "Rock Flour Company"
 layout: "single"
 type: "directory"
-description: "Harvests naturally ultra-fine glacial rock flour from Greenlandic fjord deltas and applies it to croplands in warmer climates, where it weathers rapidly to sequester CO2 as bicarbonate while also"
+description: "Harvests naturally ultra-fine glacial rock flour from Greenlandic fjord deltas and applies it to croplands in warmer climates, where it weathers rapidly to sequester CO2 as bicarbonate while also…"
 url: "/directory/rock-flour-company/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,36 +34,32 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
-- **2026-10-20** — news mention: Rock Flour Company in the EBC AgTech Catalogue 2026 | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518247467411476480/))
-- **2026-10-15** — refresh: coresignal
-- **2026-10-15** — refresh: coresignal
-- **2026-10-14** — news mention: We have the best partners ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516064537654050816/))
-- **2026-10-08** — news mention: #cdr #erw #enhancedrockweathering #carbonremoval #soilhealth #agriculture #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513602709120479232/))
-- **2026-09-26** — news mention: From rockets to rock flour ([source](https://www.linkedin.com/feed/update/urn:li:share:7508464906589913089/))
-- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-09** — news mention: #cdr #ccus #enhancedweathering #carbonremoval #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:share:7503111531782406145/))
-- **2026-09-02** — news mention: #soilhealth #agriculture #nitrogen #climatetech #agtech #erw #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500914886521155585/))
-- **2026-08-26** — news mention: Come say hello to Eliot Booth and Emma Petri Petersen this afternoon at TechBBQ - we&amp;#39;re… ([source](https://www.linkedin.com/feed/update/urn:li:share:7498300192505380865/))
-- **2026-08-25** — news mention: #grf #greenland #nuuk #erw #cdr #agriculture #carbonremoval | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497643557348884481/))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
-- **2026-07-26** — news mention: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
-- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
-- **2026-07-24** — news mention: The Rock Flour Company ApS: Finally, we can share some exciting news we got just before Christmas… ([source](https://www.linkedin.com/company/rockflourcompany/#post-183a403ad3a8))
-- **2026-07-24** — news mention: Rock Flour Company: Finally, we can share some exciting news we got just before Christmas last… ([source](https://www.linkedin.com/company/itinnera-solutions/#post-183a403ad3a8))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-04** — news mention: We spent the day in conversation with farmers and advisors about what Glacial Rock Flour (GRF)… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468266088091402240/))
-- **2026-05-14** — news mention: #biosolutions #glacialrockflour #euagriculture #strategicautonomy #climateaction | Rock Flour… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460308197099106305/))
-- **2026-05-07** — news mention: David Oldcorn, our GHG scientist, is just back from EGU26 in Vienna. ([source](https://www.linkedin.com/feed/update/urn:li:share:7458077853725708288/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.rockflour.co/))
+- **2026-10-20** — News: Rock Flour Company in the EBC AgTech Catalogue 2026 | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518247467411476480/))
+- **2026-10-14** — News: We have the best partners Last week the GreenLandbrug consortium, funded by GUDP - Grønt Udviklin ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516064537654050816/))
+- **2026-10-08** — News: #cdr #erw #enhancedrockweathering #carbonremoval #soilhealth #agriculture #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513602709120479232/))
+- **2026-09-26** — News: From rockets to rock flour We&amp;#39;re very happy to welcome Jop Nijenhuis as Head of Enginee ([source](https://www.linkedin.com/feed/update/urn:li:share:7508464906589913089/))
+- **2026-09-22** — News: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
+- **2026-09-09** — News: #cdr #ccus #enhancedweathering #carbonremoval #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:share:7503111531782406145/))
+- **2026-09-02** — News: #soilhealth #agriculture #nitrogen #climatetech #agtech #erw #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500914886521155585/))
+- **2026-08-26** — News: Come say hello to Eliot Booth and Emma Petri Petersen this afternoon at TechBBQ - we&amp;#39;re h ([source](https://www.linkedin.com/feed/update/urn:li:share:7498300192505380865/))
+- **2026-08-25** — News: #grf #greenland #nuuk #erw #cdr #agriculture #carbonremoval | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497643557348884481/))
+- **2026-08-01** — News: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
+- **2026-07-26** — News: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
+- **2026-07-25** — News: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
+- **2026-07-24** — News: The Rock Flour Company ApS: Finally, we can share some exciting news we got just before Christmas… ([source](https://www.linkedin.com/company/rockflourcompany/#post-183a403ad3a8))
+- **2026-07-24** — News: Rock Flour Company: Finally, we can share some exciting news we got just before Christmas last year ([source](https://www.linkedin.com/company/itinnera-solutions/#post-183a403ad3a8))
+- **2026-06-04** — News: We spent the day in conversation with farmers and advisors about what Glacial Rock Flour (GRF)… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468266088091402240/))
+- **2026-05-14** — News: #biosolutions #glacialrockflour #euagriculture #strategicautonomy #climateaction | Rock Flour… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460308197099106305/))
+- **2026-05-07** — News: David Oldcorn, our GHG scientist, is just back from EGU26 in Vienna. He shared findings from acros ([source](https://www.linkedin.com/feed/update/urn:li:share:7458077853725708288/))
+- **2026-05-01** — Status Suspect → Active ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
+- **2026-05-01** — Status Active → Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://www.rockflour.co/))
+- **2026-04-19** — Merged a duplicate entry: The Rock Flour Company ApS
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/the-rock-flour-company))
+- **2026-04-19** — Status Active → Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
+- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://www.rockflour.co/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

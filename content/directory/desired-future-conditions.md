@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.dfconditions.com/" target="_blank" rel="noopener">https://www.dfconditions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/desired-future-conditions/" target="_blank" rel="noopener">desired-future-conditions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,20 +29,14 @@ Desired Future Conditions, PBC (DFC) is a U.S. public benefit corporation produc
 
 ## History
 
-- **2026-09-01** — news mention: Desired Future Conditions: BeZero Carbon just published ex ante risk ratings on 14 carbon removal… ([source](https://www.linkedin.com/company/desired-future-conditions/#post-34f936a86852))
-- **2026-08-17** — news mention: Desired Future Conditions: 5 million tonnes of carbon. Going up in smoke. Every single year.… ([source](https://www.linkedin.com/company/desired-future-conditions/#post-937bfe40ad59))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.dfconditions.com/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.dfconditions.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.dfconditions.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.dfconditions.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.dfconditions.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.dfconditions.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.dfconditions.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-01** — News: Desired Future Conditions: BeZero Carbon just published ex ante risk ratings on 14 carbon removal… ([source](https://www.linkedin.com/company/desired-future-conditions/#post-34f936a86852))
+- **2026-08-17** — News: Desired Future Conditions: 5 million tonnes of carbon. Going up in smoke. Every single year. That's ([source](https://www.linkedin.com/company/desired-future-conditions/#post-937bfe40ad59))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://www.dfconditions.com/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.dfconditions.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.dfconditions.com/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.dfconditions.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.dfconditions.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

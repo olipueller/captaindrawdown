@@ -2,7 +2,7 @@
 title: "Freres Lumber"
 layout: "single"
 type: "directory"
-description: "Produces biochar as a byproduct of a 100%-biomass-fired rotary bed cogeneration boiler at its Evergreen BioPower facility, with the biochar landfilled or recycled for permanent carbon storage and"
+description: "Produces biochar as a byproduct of a 100%-biomass-fired rotary bed cogeneration boiler at its Evergreen BioPower facility, with the biochar landfilled or recycled for permanent carbon storage and…"
 url: "/directory/freres-lumber/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://frereswood.com" target="_blank" rel="noopener">https://frereswood.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/freres-engineered-wood/" target="_blank" rel="noopener">freres-engineered-wood</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Freres Engineered Wood (formerly Freres Lumber Co.) is a family-owned Oregon wood products manufacturer founded in 1922 that produces plywood, veneers, lumber, and Mass Ply panels with ~450 employees. Biochar is generated as a byproduct of its Evergreen BioPower 100%-biomass-fired cogeneration boiler and was certified under the Puro.earth Biochar Methodology, with credits sold to Microsoft via ACT Commodities. The wood products business is the primary activity; CDR credits are an adjacent revenue stream.
+Biochar is generated as a byproduct of its Evergreen BioPower 100%-biomass-fired cogeneration boiler and was certified under the Puro.earth Biochar Methodology, with credits sold to Microsoft via ACT Commodities. The wood products business is the primary activity; CDR credits are an adjacent revenue stream.
 
 ![Freres Lumber website](/screenshots/freres-lumber.png)
 
@@ -33,29 +33,20 @@ Freres Engineered Wood (formerly Freres Lumber Co.) is a family-owned Oregon woo
 
 ## History
 
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://frereswood.com/blog/biochar/))
-- **2026-04-19** — merged 1 duplicate(s): Freres Biochar
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://frereswood.com/blog/biochar/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://frereswood.com/ ([source](https://www.cdr.fyi/supplier/freres-biochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://frereswood.com/blog/biochar/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/freres-biochar))
-- **** — merged duplicate: Freres Biochar (slug=freres-biochar)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/133206))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://frereswood.com/blog/biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/133206))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/133206))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://frereswood.com/blog/biochar/))
+- **2026-04-19** — Merged a duplicate entry: Freres Biochar
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://frereswood.com/blog/biochar/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/freres-biochar))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/freres-biochar))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://registry.puro.earth/projects/133206))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://shc.foundation/donor-spotlight/freres-engineered-wood/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://registry.puro.earth/projects/133206))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

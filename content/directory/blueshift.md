@@ -2,7 +2,7 @@
 title: "BlueShift"
 layout: "single"
 type: "directory"
-description: "Membrane-free redox electrochemical process that processes alkaline industrial waste and seawater to extract critical minerals/REEs while mineralizing dissolved CO2 into carbonates, returning"
+description: "Membrane-free redox electrochemical process that processes alkaline industrial waste and seawater to extract critical minerals/REEs while mineralizing dissolved CO2 into carbonates, returning…"
 url: "/directory/blueshift/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.buildblueshift.com/" target="_blank" rel="noopener">https://www.buildblueshift.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/buildblueshift/" target="_blank" rel="noopener">buildblueshift</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,17 +35,12 @@ BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a mem
 
 ## History
 
-- **2026-09-06** — news mention: BlueShift: We’re deploying. It’s been a high-velocity few months at BlueShift hitting milestones… ([source](https://www.linkedin.com/company/buildblueshift/#post-40d1f186752f))
-- **2026-08-23** — news mention: BlueShift: Weâre deploying. Itâs been a high-velocity few months at BlueShift hitting… ([source](https://www.linkedin.com/company/buildblueshift/#post-a43ce0a2ce49))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-25** — news mention: BlueShift: We’re deploying. It’s been a high-velocity few months at BlueShift hitting milestones… ([source](https://www.linkedin.com/company/buildblueshift/#post-41eda444489f))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.buildblueshift.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.buildblueshift.com/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.buildblueshift.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-06** — News: BlueShift: We’re deploying. It’s been a high-velocity few months at BlueShift hitting milestones… ([source](https://www.linkedin.com/company/buildblueshift/#post-40d1f186752f))
+- **2026-08-23** — News: BlueShift: Weâre deploying. Itâs been a high-velocity few months at BlueShift hitting… ([source](https://www.linkedin.com/company/buildblueshift/#post-a43ce0a2ce49))
+- **2026-07-25** — News: BlueShift: We’re deploying. It’s been a high-velocity few months at BlueShift hitting milestones… ([source](https://www.linkedin.com/company/buildblueshift/#post-41eda444489f))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.buildblueshift.com/))
+- **2026-04-18** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.buildblueshift.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

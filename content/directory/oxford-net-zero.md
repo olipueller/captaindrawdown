@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://netzeroclimate.org/" target="_blank" rel="noopener">https://netzeroclimate.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oxfordnetzero/" target="_blank" rel="noopener">oxfordnetzero</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,20 +30,17 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-02** — news mention: Oxford Net Zero: Climate standards are increasingly shaping regulation, investment and corporate… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-f09ae02e08b3))
-- **2026-08-26** — news mention: Oxford Net Zero: Out today: a new briefing from our Net Zero Aviation project team on how to… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-d26f81127332))
-- **2026-08-24** — news mention: A High-Integrity Route for CORSIA: Integrating Geologically Balanced Fuels - Net Zero Climate ([source](https://netzeroclimate.org/publications/a-high-integrity-route-for-corsia-integrating-geologically-balanced-fuels/))
-- **2026-08-12** — news mention: Oxford Net Zero: Our latest Net Zero Tracker blog explores the new opportunities opened up by a… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-6f1102f47b2f))
-- **2026-07-22** — news mention: Oxford Net Zero: What can we learn from a decade of net zero commitments? The new Net Zero Tracker… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-a5966727475b))
-- **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://netzeroclimate.org/about-us/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.netzeroclimate.org/ ([source](https://www.cdr.fyi/marketplace/oxford-net-zero))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/oxford-net-zero))
+- **2026-09-02** — News: Oxford Net Zero: Climate standards are increasingly shaping regulation, investment and corporate… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-f09ae02e08b3))
+- **2026-08-26** — News: Oxford Net Zero: Out today: a new briefing from our Net Zero Aviation project team on how to… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-d26f81127332))
+- **2026-08-24** — News: A High-Integrity Route for CORSIA: Integrating Geologically Balanced Fuels - Net Zero Climate ([source](https://netzeroclimate.org/publications/a-high-integrity-route-for-corsia-integrating-geologically-balanced-fuels/))
+- **2026-08-12** — News: Oxford Net Zero: Our latest Net Zero Tracker blog explores the new opportunities opened up by a… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-6f1102f47b2f))
+- **2026-07-22** — News: Oxford Net Zero: What can we learn from a decade of net zero commitments? The new Net Zero Tracker… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-a5966727475b))
+- **2026-05-12** — News: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://netzeroclimate.org/about-us/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/oxford-net-zero))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/oxford-net-zero))
 
 ---
 

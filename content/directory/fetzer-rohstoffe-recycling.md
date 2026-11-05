@@ -13,7 +13,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.moola-pflanzenkohle.de" target="_blank" rel="noopener">https://www.moola-pflanzenkohle.de</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,28 +30,19 @@ FETZER Rohstoffe + Recycling GmbH is a recycling company in Eislingen, Germany, 
 
 ## History
 
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://fyi-pk-big.de/fetzer-rohstoffe-recycling-gmbh/))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Biochar Zero (biochar-zero.com) is a biochar industry platform/directory that lists…
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.moola-pflanzenkohle.de/))
-- **2026-04-19** — merged 2 duplicate(s): Moola Pflanzenkohle, Fetzer Rohstoffe
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.moola-pflanzenkohle.de/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.moola-pflanzenkohle.de/ ([source](https://www.cdr.fyi/supplier/fetzerrohstoffe))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/fetzerrohstoffe))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.moola-pflanzenkohle.de/ueber-uns))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.moola-pflanzenkohle.de/ueber-uns))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Fetzer Rohstoffe (slug=fetzer-rohstoffe)
-- **** — merged duplicate: Moola Pflanzenkohle (slug=moola-pflanzenkohle)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.moola-pflanzenkohle.de/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://fyi-pk-big.de/fetzer-rohstoffe-recycling-gmbh/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.moola-pflanzenkohle.de/kontakt))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.klimate.co/project/fetzer-rohstoffe-moola-biochar))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://fyi-pk-big.de/fetzer-rohstoffe-recycling-gmbh/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.moola-pflanzenkohle.de/))
+- **2026-04-19** — Merged duplicate entries: Moola Pflanzenkohle, Fetzer Rohstoffe
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.moola-pflanzenkohle.de/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/fetzerrohstoffe))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/fetzerrohstoffe))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.moola-pflanzenkohle.de/ueber-uns))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.moola-pflanzenkohle.de/ueber-uns))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://fyi-pk-big.de/fetzer-rohstoffe-recycling-gmbh/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.moola-pflanzenkohle.de/kontakt))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.klimate.co/project/fetzer-rohstoffe-moola-biochar))
 
 ---
 

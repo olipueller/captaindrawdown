@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/egrw/" target="_blank" rel="noopener">egrw</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,19 +30,12 @@ liveliness: "🟡 Moderate"
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: EGRW (Entsorgergemeinschaft Regionaler Wirtschaftsverkehr e.V.) is a Frankfurt-based…
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/ ([source](https://www.cdr.fyi/supplier/okt-offenhausen))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/okt-offenhausen))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/okt-offenhausen))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/okt-offenhausen))
 
 ---
 

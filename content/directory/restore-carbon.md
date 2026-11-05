@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://restorecarbon.eu/" target="_blank" rel="noopener">https://restorecarbon.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-store-carbon/" target="_blank" rel="noopener">re-store-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,15 +31,12 @@ Restore Carbon is a Netherlands-based CDR startup developing a patented peatland
 
 ## History
 
-- **2026-10-18** — news mention: Weathering-derived calcium supports carbon storage in grassland soils ([source](https://doi.org/10.1038/s43247-026-04142-2))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://restorecarbon.eu/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://restorecarbon.eu/))
-- **2026-04-19** — url added from cdr.fyi supplier page: http://www.restorecarbon.eu ([source](https://www.cdr.fyi/supplier/restore-carbon))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/restore-carbon))
+- **2026-10-18** — News: Weathering-derived calcium supports carbon storage in grassland soils ([source](https://doi.org/10.1038/s43247-026-04142-2))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://restorecarbon.eu/))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://restorecarbon.eu/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/restore-carbon))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/restore-carbon))
 
 ---
 

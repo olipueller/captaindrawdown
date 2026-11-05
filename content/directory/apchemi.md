@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.apchemi.com/" target="_blank" rel="noopener">https://www.apchemi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apchemi/" target="_blank" rel="noopener">apchemi</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,18 +30,14 @@ APChemi is a Navi Mumbai-based pyrolysis technology company that designs and del
 
 ## History
 
-- **2026-09-19** — news mention: APChemi: Driving #CircularInnovation : reinforcing DRIIV’s commitment to bridge innovators… ([source](https://www.linkedin.com/company/apchemi/#post-ab00236c6110))
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
-- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.apchemi.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.apchemi.com/biomass-pyrolysis-biochar))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.apchemi.com/biomass-pyrolysis-biochar))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-19** — News: APChemi: Driving #CircularInnovation : reinforcing DRIIV’s commitment to bridge innovators… ([source](https://www.linkedin.com/company/apchemi/#post-ab00236c6110))
+- **2026-09-07** — News: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — News: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-02** — News: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.apchemi.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.apchemi.com/biomass-pyrolysis-biochar))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.apchemi.com/biomass-pyrolysis-biochar))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

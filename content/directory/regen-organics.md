@@ -2,7 +2,7 @@
 title: "Regen Organics"
 layout: "single"
 type: "directory"
-description: "Pyrolysis of agro-processing waste (bagasse, mango/avocado residues) into biochar, blended into their EverGrow organic fertilizer; alongside a larger non-CDR circular-economy business of organic"
+description: "Pyrolysis of agro-processing waste (bagasse, mango/avocado residues) into biochar, blended into their EverGrow organic fertilizer; alongside a larger non-CDR circular-economy business of organic…"
 url: "/directory/regen-organics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.regenorganics.co/" target="_blank" rel="noopener">https://www.regenorganics.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenorganics/" target="_blank" rel="noopener">regenorganics</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,19 +30,14 @@ Regen Organics is a Nairobi-based social venture and founding member of The Sane
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Suspect → Active ([source](https://www.regenorganics.co/))
-- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.regenorganics.co/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.regenorganics.co/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.regenorganics.co/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.regenorganics.co/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.regenorganics.co/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.regenorganics.co/products/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.regenorganics.co/products/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Suspect → Active ([source](https://www.regenorganics.co/))
+- **2026-06-15** — Status Active → Suspect ([source](https://www.regenorganics.co/))
+- **2026-05-01** — Status Suspect → Active ([source](https://www.regenorganics.co/))
+- **2026-05-01** — Status Active → Suspect ([source](https://www.regenorganics.co/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.regenorganics.co/))
+- **2026-04-19** — Status Active → Suspect ([source](https://www.regenorganics.co/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.regenorganics.co/products/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

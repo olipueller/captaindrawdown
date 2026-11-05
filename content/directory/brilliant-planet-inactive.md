@@ -2,7 +2,7 @@
 title: "Brilliant Planet | Inactive"
 layout: "single"
 type: "directory"
-description: "Grew local marine microalgae strains in open-air seawater raceway ponds in coastal desert Morocco, spray-dried the biomass into hypersaline flakes, and buried it underground in engineered dry-tomb"
+description: "Grew local marine microalgae strains in open-air seawater raceway ponds in coastal desert Morocco, spray-dried the biomass into hypersaline flakes, and buried it underground in engineered dry-tomb…"
 url: "/directory/brilliant-planet-inactive/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.brilliantplanet.com" target="_blank" rel="noopener">https://www.brilliantplanet.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brilliantplanet/" target="_blank" rel="noopener">brilliantplanet</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,20 +31,15 @@ Brilliant Planet was a London-headquartered startup (founded 2013) that grew mar
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: Moderate → Active
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Likely Dead → Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Likely Dead ([source](https://below280.com/project/independent-assessment-of-the-brilliant-planet-microalgae-carbon-capture-facility-in-morocco/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Likely Dead → Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Likely Dead ([source](https://find-and-update.company-information.service.gov.uk/company/08491368))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.brilliantplanet.com/ ([source](https://www.cdr.fyi/supplier/brilliant-planet))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/brilliant-planet))
+- **2026-10-15** — Status Moderate → Active
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-05-01** — Status Likely Dead → Moderate
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🔴 Likely Dead ([source](https://below280.com/project/independent-assessment-of-the-brilliant-planet-microalgae-carbon-capture-facility-in-morocco/))
+- **2026-04-19** — Status Likely Dead → Moderate
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🔴 Likely Dead ([source](https://find-and-update.company-information.service.gov.uk/company/08491368))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/brilliant-planet))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/brilliant-planet))
 
 ---
 

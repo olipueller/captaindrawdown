@@ -2,7 +2,7 @@
 title: "Liquid Trees"
 layout: "single"
 type: "directory"
-description: "Researches and advocates for ocean iron fertilization (OIF) in high-nutrient, low-chlorophyll ocean regions, and has deployed diatom-based bioremediation in rivers and microalgae photobioreactors"
+description: "Researches and advocates for ocean iron fertilization (OIF) in high-nutrient, low-chlorophyll ocean regions, and has deployed diatom-based bioremediation in rivers and microalgae photobioreactors…"
 url: "/directory/liquid-trees/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.liquidtrees.org/" target="_blank" rel="noopener">https://www.liquidtrees.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liquidtrees/" target="_blank" rel="noopener">liquidtrees</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,16 +35,8 @@ Liquid Trees is a seed-stage CDR company founded in 2022 by Daniel Neetzel, head
 
 ## History
 
-- **2026-09-27** — quarantined Coresignal headcount 1345 — headcount 1,345 would be 71% of Ocean CDR (1,891 FTE across the pathway) and is not corroborated by…
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug '1010so' clearly not the same company; employee count 1549 inflated
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.liquidtrees.org/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.liquidtrees.org/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.liquidtrees.org/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.liquidtrees.org/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

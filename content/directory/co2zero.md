@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://co2zero.online/" target="_blank" rel="noopener">https://co2zero.online/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co%E2%82%82zero/" target="_blank" rel="noopener">co%E2%82%82zero</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,17 +30,12 @@ CO₂Zero positions itself as the first open-innovation DAC integrator, offering
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://yesdelft.com/startups/co%E2%82%82zero/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://co2zero.online/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://co2zero.online/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://yesdelft.com/startups/co%E2%82%82zero/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://co2zero.online/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://co2zero.online/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://yesdelft.com/startups/co%E2%82%82zero/))
+- **2026-04-19** — Classified as DAC, supplier, 🟡 Moderate ([source](https://co2zero.online/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://yesdelft.com/startups/co%E2%82%82zero/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://co2zero.online/))
+- **2026-04-18** — Classified as DAC, supplier, 🟡 Moderate ([source](https://co2zero.online/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

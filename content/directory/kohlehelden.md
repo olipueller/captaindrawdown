@@ -13,7 +13,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://kohlehelden.de/" target="_blank" rel="noopener">https://kohlehelden.de/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,18 +27,12 @@ KohleHelden is a family-run biochar producer in Zierenberg (North Hesse, Germany
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Moderate → Suspect ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://kohlehelden.de/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://kohlehelden.de/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://kohlehelden.de/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Moderate → Suspect ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://kohlehelden.de/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.moebel.de/garten/pflanzen?data-sheet=4b59640ca1afc9d6bd6b8af3adec86ed))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://kohlehelden.de/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

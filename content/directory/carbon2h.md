@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon2h.com/" target="_blank" rel="noopener">https://www.carbon2h.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,17 +28,11 @@ Based in Berlin, Germany, Carbon2H specializes in advanced biomass gasification 
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.carbon2h.com/blog/how-biomass-gasification-can-help-companies-reduce-pollution))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbon2h.com/about))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbon2h.com/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.carbon2h.com/blog/how-biomass-gasification-can-help-companies-reduce-pollution))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbon2h.com/about))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbon2h.com/about))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.carbon2h.com/blog/how-biomass-gasification-can-help-companies-reduce-pollution))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.carbon2h.com/about))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.carbon2h.com/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.carbon2h.com/blog/how-biomass-gasification-can-help-companies-reduce-pollution))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

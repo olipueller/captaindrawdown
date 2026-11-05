@@ -2,7 +2,7 @@
 title: "Alt Carbon"
 layout: "single"
 type: "directory"
-description: "Spreads waste basalt rock dust from Rajmahal Traps on tea and rice farmland in eastern India, where it reacts with rainwater to form bicarbonate ions that eventually store carbon in oceans for"
+description: "Spreads waste basalt rock dust from Rajmahal Traps on tea and rice farmland in eastern India, where it reacts with rainwater to form bicarbonate ions that eventually store carbon in oceans for…"
 url: "/directory/alt-carbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://altcarbon.com/" target="_blank" rel="noopener">https://altcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alt-carbon/" target="_blank" rel="noopener">alt-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -44,35 +44,30 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-05** — news mention: Microsoft ↔ Alt Carbon — erw-ag ([source](https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-36920-tons-of-carbon-removal-credits-from-erw-firm-alt-carbon-in-darjeeling-india))
-- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
-- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
-- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
-- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
-- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
-- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
-- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
-- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
-- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-06-06** — news mention: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit… ([source](https://x.com/CaptainDrawdown/status/2063125718515491149))
-- **2026-06-06** — news mention: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv2ymiqm2b))
-- **2026-06-04** — news mention: Alt Carbon Makes The World’s Largest ERW Issuance With Nearly 10,000t Of Removed CO2 ([source](https://carbonherald.com/alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2/?utm_source=rss&utm_medium=rss&utm_campaign=alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology The Cynthia and George Mitchell Foundation… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
-- **2026-05-18** — news mention: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weathering… ([source](https://podcasters.spotify.com/pod/show/reefroundup/episodes/Dr--Sambuddha-Misra-Drinking-Tea-to-Save-Coral-Reefs--The-Mechanics-of-Enhanced-Rock-Weathering-in-Darjeeling--S5E5-e3hsh58))
-- **2026-05-18** — news mention: Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock… ([source](https://captaindrawdown.com/posts/podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01/))
-- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal The CEO of Climeworks argues in Heatmap News that carbon removal… ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-05** — News: Microsoft ↔ Alt Carbon — erw-ag ([source](https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-36920-tons-of-carbon-removal-credits-from-erw-firm-alt-carbon-in-darjeeling-india))
+- **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-25** — News: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-09-06** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-08-30** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-13** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-01** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-30** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-07-25** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-07-24** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
+- **2026-07-22** — News: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
+- **2026-06-06** — News: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit… ([source](https://x.com/CaptainDrawdown/status/2063125718515491149))
+- **2026-06-06** — News: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv2ymiqm2b))
+- **2026-06-04** — News: Alt Carbon Makes The World’s Largest ERW Issuance With Nearly 10,000t Of Removed CO2 ([source](https://carbonherald.com/alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2/?utm_source=rss&utm_medium=rss&utm_campaign=alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2))
+- **2026-05-21** — News: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — News: Foundation Opens Consultation On CCS EACs Methodology The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-18** — News: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weathering in ([source](https://podcasters.spotify.com/pod/show/reefroundup/episodes/Dr--Sambuddha-Misra-Drinking-Tea-to-Save-Coral-Reefs--The-Mechanics-of-Enhanced-Rock-Weathering-in-Darjeeling--S5E5-e3hsh58))
+- **2026-05-18** — News: Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock… ([source](https://captaindrawdown.com/posts/podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01/))
+- **2026-05-18** — News: The AI Boom Needs Carbon Removal The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
+- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

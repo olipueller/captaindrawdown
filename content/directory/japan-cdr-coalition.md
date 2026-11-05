@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://icf.mri.co.jp/j-cdr/" target="_blank" rel="noopener">https://icf.mri.co.jp/j-cdr/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,13 +29,10 @@ The Japan CDR Coalition (J-CDR) is a multi-stakeholder platform launched in Sept
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.mri.co.jp/en/news/20250806.html))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://icf.mri.co.jp/j-cdr/ ([source](https://www.cdr.fyi/marketplace/japan-cdr-coalition))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/japan-cdr-coalition))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.mri.co.jp/en/news/20250806.html))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/japan-cdr-coalition))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/japan-cdr-coalition))
 
 ---
 

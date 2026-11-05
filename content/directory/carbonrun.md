@@ -2,7 +2,7 @@
 title: "CarbonRun"
 layout: "single"
 type: "directory"
-description: "Adds crushed limestone to acidified rivers (River Alkalinity Enhancement), converting CO2 to bicarbonate that is transported to the ocean for multi-millennial storage while simultaneously restoring"
+description: "Adds crushed limestone to acidified rivers (River Alkalinity Enhancement), converting CO2 to bicarbonate that is transported to the ocean for multi-millennial storage while simultaneously restoring…"
 url: "/directory/carbonrun/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonrun.io/" target="_blank" rel="noopener">https://www.carbonrun.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonrun/" target="_blank" rel="noopener">carbonrun</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-01-20</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— verified via isometric issuance on 2026-01-20</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-01-20)</small></td></tr>
@@ -43,36 +43,32 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-13** — news mention: #rae #rae #cdrcoffeetalk | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515489465713291267/))
-- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
-- **2026-10-03** — news mention: CarbonRun: In June 2025, we paid CarbonRun for 450 tons of river alkalinity credits that hadn't… ([source](https://www.linkedin.com/company/carbonrun/#post-b5edb88e0020))
-- **2026-09-29** — news mention: #rae #cdr #rae | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:share:7510520098177204224/))
-- **2026-09-17** — news mention: Quantified Carbon Dioxide Removal from an Alkalinity Addition Field Trial in the Kvina River… ([source](https://cdrxiv.org/preprint/557))
-- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
-- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
-- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
-- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
-- **2026-08-16** — news mention: alterBiota: Today we issued a press release outlining our push into commercializing deltaC… ([source](https://www.linkedin.com/company/alterbiotainc/#post-0b6563a1ae96))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
-- **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity… ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
-- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
-- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
-- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology The Cynthia and George Mitchell Foundation… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.carbonrun.io/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://isometric.com/writing-articles/the-worlds-first-river-alkalinity-enhancement-credits))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://carbonherald.com/carbonrun-issues-worlds-first-river-alkalinity-enhancement-credits/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-13** — News: #rae #rae #cdrcoffeetalk | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515489465713291267/))
+- **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-10-03** — News: CarbonRun: In June 2025, we paid CarbonRun for 450 tons of river alkalinity credits that hadn't… ([source](https://www.linkedin.com/company/carbonrun/#post-b5edb88e0020))
+- **2026-09-29** — News: #rae #cdr #rae | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:share:7510520098177204224/))
+- **2026-09-17** — News: Quantified Carbon Dioxide Removal from an Alkalinity Addition Field Trial in the Kvina River… ([source](https://cdrxiv.org/preprint/557))
+- **2026-09-06** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-08-30** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-16** — News: alterBiota: Today we issued a press release outlining our push into commercializing deltaC… ([source](https://www.linkedin.com/company/alterbiotainc/#post-0b6563a1ae96))
+- **2026-08-13** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-01** — News: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity… ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
+- **2026-08-01** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-30** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-07-25** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-07-24** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
+- **2026-07-22** — News: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
+- **2026-05-21** — News: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-05-21** — News: Foundation Opens Consultation On CCS EACs Methodology The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
+- **2026-05-01** — Status Moderate → Active ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
+- **2026-05-01** — Status Active → Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://www.carbonrun.io/))
+- **2026-04-19** — Status Active → Moderate ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://isometric.com/writing-articles/the-worlds-first-river-alkalinity-enhancement-credits))
+- **2026-04-18** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://carbonherald.com/carbonrun-issues-worlds-first-river-alkalinity-enhancement-credits/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

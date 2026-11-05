@@ -2,7 +2,7 @@
 title: "Emergent Waste Solution"
 layout: "single"
 type: "directory"
-description: "Operates a proprietary pyrolysis (\"Advanced Thermolysis System\") platform that converts diverse waste feedstocks into multiple products, with biomass-derived biochar being the CDR-relevant output,"
+description: "Operates a proprietary pyrolysis (\"Advanced Thermolysis System\") platform that converts diverse waste feedstocks into multiple products, with biomass-derived biochar being the CDR-relevant output…"
 url: "/directory/emergent-waste-solution/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.ewscanada.com/" target="_blank" rel="noopener">https://www.ewscanada.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/emergent-waste-solutions/" target="_blank" rel="noopener">emergent-waste-solutions</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,16 +30,11 @@ Emergent Waste Solutions (EWS) is a British Columbia–based private company tha
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.ewscanada.com/about))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.ewscanada.com/about))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.ewscanada.com/ ([source](https://www.cdr.fyi/supplier/emergent-waste-solutions))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/emergent-waste-solutions))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.ewscanada.com/about))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.ewscanada.com/about))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/emergent-waste-solutions))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/emergent-waste-solutions))
 
 ---
 

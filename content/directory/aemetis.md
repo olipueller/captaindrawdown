@@ -2,7 +2,7 @@
 title: "Aemetis"
 layout: "single"
 type: "directory"
-description: "Aemetis Carbon Capture subsidiary is developing Class VI CO2 injection wells in California's Central Valley to sequester CO2 from parent Aemetis' ethanol plant, dairy RNG digesters, and planned"
+description: "Aemetis Carbon Capture subsidiary is developing Class VI CO2 injection wells in California's Central Valley to sequester CO2 from parent Aemetis' ethanol plant, dairy RNG digesters, and planned…"
 url: "/directory/aemetis/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.aemetis.com" target="_blank" rel="noopener">https://www.aemetis.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aemetis/" target="_blank" rel="noopener">aemetis</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,17 +29,13 @@ Aemetis (NASDAQ: AMTX) is a Cupertino, California-based renewable natural gas, e
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-09-19** — news mention: Aemetis: This week, weâre installing six 3,500-horsepower turbofans for the mechanical vapor… ([source](https://www.linkedin.com/company/aemetis/#post-0032a81c842a))
-- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO2. It integrates with data centers… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
-- **2026-08-13** — news mention: Aemetis: Progress on our mechanical vapor recompression system at the Keyes, California, ethanol… ([source](https://www.linkedin.com/company/aemetis/#post-599f11e96d6a))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.aemetis.com/products/carbon-capture/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.aemetis.com/aemetis-awarded-the-first-co2-sequestration-characterization-well-permit-issued-by-the-state-of-california/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.aemetis.com/products/carbon-capture/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-19** — News: Aemetis: This week, weâre installing six 3,500-horsepower turbofans for the mechanical vapor… ([source](https://www.linkedin.com/company/aemetis/#post-0032a81c842a))
+- **2026-09-03** — News: Avnos’ HDAC technology produces water while capturing CO2. It integrates with data centers… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-08-13** — News: Aemetis: Progress on our mechanical vapor recompression system at the Keyes, California, ethanol… ([source](https://www.linkedin.com/company/aemetis/#post-599f11e96d6a))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.aemetis.com/products/carbon-capture/))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://www.aemetis.com/aemetis-awarded-the-first-co2-sequestration-characterization-well-permit-issued-by-the-state-of-california/))
+- **2026-04-18** — Classified as BECCS, division, 🟢 Active ([source](https://www.aemetis.com/products/carbon-capture/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

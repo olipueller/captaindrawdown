@@ -2,7 +2,7 @@
 title: "ACT Group"
 layout: "single"
 type: "directory"
-description: "Environmental commodities brokerage and carbon project development firm that sources, trades, and facilitates sales of carbon credits (including biochar CDR) alongside EACs, biofuels, and compliance"
+description: "Environmental commodities brokerage and carbon project development firm that sources, trades, and facilitates sales of carbon credits (including biochar CDR) alongside EACs, biofuels, and compliance…"
 url: "/directory/act-group/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.actgroup.com/" target="_blank" rel="noopener">https://www.actgroup.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/actgroup/" target="_blank" rel="noopener">actgroup</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,30 +34,20 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 
 ## History
 
-- **2026-09-12** — news mention: ACT Group: Brimex Energy® emite el primer certificado de biometano de México para Norteamérica… ([source](https://www.linkedin.com/company/actgroup/#post-b7ef658e7aa9))
-- **2026-09-04** — news mention: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African… ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Moderate → Active ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — merged 1 duplicate(s): ACT
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.actcommodities.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness= Active ([source](https://www.actcommodities.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: ACT (slug=act)
-- **2026-04-19** — merged 1 duplicate(s): ACT Commodities
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness= Active ([source](https://www.actgroup.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.actgroup.com/ ([source](https://www.cdr.fyi/supplier/act-commodities))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/act-commodities))
-- **** — merged duplicate: ACT Commodities (slug=act-commodities)
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.actgroup.com/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.actgroup.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-12** — News: ACT Group: Brimex Energy® emite el primer certificado de biometano de México para Norteamérica Br ([source](https://www.linkedin.com/company/actgroup/#post-b7ef658e7aa9))
+- **2026-09-04** — News: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African… ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
+- **2026-08-15** — Status Moderate → Active ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
+- **2026-04-19** — Merged a duplicate entry: ACT
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.actcommodities.com/))
+- **2026-04-18** — Classified as Enabling Tech, buyer excluded, 🟢 Active ([source](https://www.actcommodities.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Merged a duplicate entry: ACT Commodities
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, buyer excluded, 🟢 Active ([source](https://www.actgroup.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/act-commodities))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/act-commodities))
+- **2026-04-19** — Status Active → Moderate ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.actgroup.com/))
 
 ---
 

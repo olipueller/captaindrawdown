@@ -13,7 +13,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ragris.com/" target="_blank" rel="noopener">https://www.ragris.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,17 +27,13 @@ Regen Agri-Source is a small Missouri-based agricultural retailer in Stover, MO 
 
 ## History
 
-- **2026-09-15** — refresh: screenshot, liveliness
-- **2026-09-15** — liveliness: Suspect → Likely Dead ([source](https://www.ragris.com/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.ragris.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.ragris.com/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.ragris.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ragris.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ragris.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Suspect → Likely Dead ([source](https://www.ragris.com/))
+- **2026-05-01** — Status Active → Suspect ([source](https://www.ragris.com/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.ragris.com/))
+- **2026-04-19** — Status Active → Suspect ([source](https://www.ragris.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.ragris.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.ragris.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

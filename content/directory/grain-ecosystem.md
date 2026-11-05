@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grainecosystem.com/" target="_blank" rel="noopener">https://grainecosystem.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grain-ecosystem/" target="_blank" rel="noopener">grain-ecosystem</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,21 +30,16 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-10-02** — news mention: Grain Ecosystem: Today, weâre proud to share an important update in the Grain journey.… ([source](https://www.linkedin.com/company/grain-ecosystem/#post-0f744574a362))
-- **2026-08-15** — liveliness: Moderate → Active
-- **2026-07-23** — news mention: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey. Mangrove… ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
-- **2026-07-22** — news mention: CDR.fyi: The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the… ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Likely Dead → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Likely Dead ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness= Suspect ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
-- **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
+- **2026-10-02** — News: Grain Ecosystem: Today, weâre proud to share an important update in the Grain journey. Mangrove ([source](https://www.linkedin.com/company/grain-ecosystem/#post-0f744574a362))
+- **2026-08-15** — Status Moderate → Active
+- **2026-07-23** — News: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey. Mangrove Sy ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
+- **2026-07-22** — News: CDR.fyi: The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the… ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Likely Dead → Moderate
+- **2026-04-19** — Classified as Biochar, ecosystem, 🔴 Likely Dead ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
+- **2026-04-18** — Classified as Biochar, ecosystem, 🟠 Suspect ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
+- **2026-04-18** — Added to the directory ([source](https://carbonherald.com/in-a-strategic-biochar-move-mangrove-systems-acquires-grain-ecosystem/))
 
 ---
 

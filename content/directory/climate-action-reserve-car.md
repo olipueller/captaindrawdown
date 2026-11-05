@@ -2,7 +2,7 @@
 title: "Climate Action Reserve (CAR)"
 layout: "single"
 type: "directory"
-description: "Nonprofit carbon offset registry that develops crediting protocols, oversees third-party verification, and issues/tracks carbon credits (Climate Reserve Tonnes) for voluntary and California"
+description: "Nonprofit carbon offset registry that develops crediting protocols, oversees third-party verification, and issues/tracks carbon credits (Climate Reserve Tonnes) for voluntary and California…"
 url: "/directory/climate-action-reserve-car/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.climateactionreserve.org/" target="_blank" rel="noopener">https://www.climateactionreserve.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climate-action-reserve/" target="_blank" rel="noopener">climate-action-reserve</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,16 +31,13 @@ Climate Action Reserve (CAR) is a Los Angeles-based environmental nonprofit carb
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: Moderate → Active
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://climateactionreserve.org/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.climateactionreserve.org/ ([source](https://www.cdr.fyi/marketplace/climate-action-reserve))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climate-action-reserve))
+- **2026-10-15** — Status Moderate → Active
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://climateactionreserve.org/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/climate-action-reserve))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/climate-action-reserve))
 
 ---
 

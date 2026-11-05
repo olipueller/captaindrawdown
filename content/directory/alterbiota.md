@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://alterbiota.com/" target="_blank" rel="noopener">https://alterbiota.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alterbiotainc/" target="_blank" rel="noopener">alterbiotainc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,18 +31,14 @@ alterBiota is a Nova Scotia-based cleantech startup that makes deltaC (∆C), a 
 
 ## History
 
-- **2026-08-16** — news mention: alterBiota: Today we issued a press release outlining our push into commercializing deltaC… ([source](https://www.linkedin.com/company/alterbiotainc/#post-0b6563a1ae96))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-09** — news mention: alterBiota: alterBiota has entered the commercialization phase with DeltaC, a liquid biochar… ([source](https://www.linkedin.com/company/alterbiotainc/#post-9c3ee051f976))
-- **2026-08-02** — news mention: alterBiota: Exciting day for alterBiota and ÎC! Our engineered liquid biochar admixture has been… ([source](https://www.linkedin.com/company/alterbiotainc/#post-37c18058f2d5))
-- **2026-07-25** — news mention: alterBiota: Exciting day for alterBiota and ΔC! Our engineered liquid biochar admixture has been… ([source](https://www.linkedin.com/company/alterbiotainc/#post-6f06a9994a1f))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.newswire.ca/news-releases/alterbiota-enters-commercialization-phase-with-deltac-a-liquid-biochar-admixture-transforming-concrete-832873178.html))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://alterbiota.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://betakit.com/alterbiota-closes-4-million-seed-round-in-mission-to-decarbonize-concrete/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-16** — News: alterBiota: Today we issued a press release outlining our push into commercializing deltaC… ([source](https://www.linkedin.com/company/alterbiotainc/#post-0b6563a1ae96))
+- **2026-08-09** — News: alterBiota: alterBiota has entered the commercialization phase with DeltaC, a liquid biochar… ([source](https://www.linkedin.com/company/alterbiotainc/#post-9c3ee051f976))
+- **2026-08-02** — News: alterBiota: Exciting day for alterBiota and ÎC! Our engineered liquid biochar admixture has been… ([source](https://www.linkedin.com/company/alterbiotainc/#post-37c18058f2d5))
+- **2026-07-25** — News: alterBiota: Exciting day for alterBiota and ΔC! Our engineered liquid biochar admixture has been… ([source](https://www.linkedin.com/company/alterbiotainc/#post-6f06a9994a1f))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.newswire.ca/news-releases/alterbiota-enters-commercialization-phase-with-deltac-a-liquid-biochar-admixture-transforming-concrete-832873178.html))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://alterbiota.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://betakit.com/alterbiota-closes-4-million-seed-round-in-mission-to-decarbonize-concrete/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

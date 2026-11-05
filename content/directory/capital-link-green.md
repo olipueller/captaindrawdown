@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://www.capital.link/" target="_blank" rel="noopener">https://www.capital.link/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -37,18 +37,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.capital.link/))
-- **2026-04-19** — merged 1 duplicate(s): Capital Link
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.capital.link/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.capital.link/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Capital Link (slug=capital-link)
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.capital.link/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.capital.link/ ([source](https://www.cdr.fyi/supplier/capital-link-green))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/capital-link-green))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.capital.link/))
+- **2026-04-19** — Merged a duplicate entry: Capital Link
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.capital.link/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/capital-link-green))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/capital-link-green))
 
 ---
 

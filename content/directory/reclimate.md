@@ -2,7 +2,7 @@
 title: "Reclimate"
 layout: "single"
 type: "directory"
-description: "Biochar project developer that partners with farmers and agricultural operators across Southeast/South Asia to convert agri-waste (rice straw, bamboo, lemon myrtle, coconut residues) into biochar,"
+description: "Biochar project developer that partners with farmers and agricultural operators across Southeast/South Asia to convert agri-waste (rice straw, bamboo, lemon myrtle, coconut residues) into biochar…"
 url: "/directory/reclimate/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://www.reclimate.earth/" target="_blank" rel="noopener">https://www.reclimate.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reclimateglobal/" target="_blank" rel="noopener">reclimateglobal</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,17 +29,12 @@ Reclimate has several biochar projects in its portfolio, working with farmers an
 
 ## History
 
-- **2026-10-26** — news mention: Reclimate: A milestone for Reclimate in Indonesia We’re pleased to announce that the Nusantara… ([source](https://www.linkedin.com/company/reclimateglobal/#post-b340abbc5fa6))
-- **2026-09-20** — news mention: Reclimate: Reclimate and iPAGE Global Inc., through its Bangladesh-based agricultural intelligence… ([source](https://www.linkedin.com/company/reclimateglobal/#post-0b46db830d5f))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — news mention: Reclimate: What was once left behind now has a new purpose. We’re excited to introduce the… ([source](https://www.linkedin.com/company/reclimateglobal/#post-2d8f92d498ce))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.reclimate.earth/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.reclimate.earth/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.reclimate.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-26** — News: Reclimate: A milestone for Reclimate in Indonesia We’re pleased to announce that the Nusantara… ([source](https://www.linkedin.com/company/reclimateglobal/#post-b340abbc5fa6))
+- **2026-09-20** — News: Reclimate: Reclimate and iPAGE Global Inc., through its Bangladesh-based agricultural intelligence… ([source](https://www.linkedin.com/company/reclimateglobal/#post-0b46db830d5f))
+- **2026-08-15** — News: Reclimate: What was once left behind now has a new purpose. We’re excited to introduce the Blora ([source](https://www.linkedin.com/company/reclimateglobal/#post-2d8f92d498ce))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.reclimate.earth/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.reclimate.earth/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonway.org/" target="_blank" rel="noopener">https://www.carbonway.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonwayorg/" target="_blank" rel="noopener">carbonwayorg</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,26 +31,20 @@ Carbonway is a France-based CDR project developer focused on mineralizing biogen
 
 ## History
 
-- **2026-08-23** — news mention: Stack Carbon: This week saw some huge developments in durable CDR, as Microsoft bought 23,602… ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
-- **2026-08-16** — news mention: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602… ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.carbonway.org/news))
-- **2026-08-13** — news mention: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway . At… ([source](https://www.linkedin.com/company/cdr-accelerator/#post-818d569495e0))
-- **2026-08-12** — news mention: CDR.fyi: This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes… ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
-- **2026-08-09** — news mention: Carbonway: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway .… ([source](https://www.linkedin.com/company/carbonwayorg/#post-9feebbc7ae67))
-- **2026-08-09** — news mention: Carbonway: Thrilled to share that remove has signed a pre-purchase agreement for Carbonway’s… ([source](https://www.linkedin.com/company/carbonwayorg/#post-06f39b1cf783))
-- **2026-07-26** — news mention: Carbonway: [Communiqué de presse FR] - Carbonaide et Carbonway ont conclu un partenariat pour… ([source](https://www.linkedin.com/company/carbonwayorg/#post-588f6dc5efd3))
-- **2026-07-26** — news mention: Carbonway: [Industrie] Le rennais Carbonway veut aider les industriels à piéger leurs émissions de… ([source](https://www.linkedin.com/company/carbonwayorg/#post-ba56b6dfaf36))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.carbonway.org/news))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carbonway.org/what-we-do))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carbonway.org/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.carbonway.org/news))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carbonway.org/what-we-do))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carbonway.org/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-23** — News: Stack Carbon: This week saw some huge developments in durable CDR, as Microsoft bought 23,602… ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
+- **2026-08-16** — News: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602… ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://www.carbonway.org/news))
+- **2026-08-13** — News: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway . At… ([source](https://www.linkedin.com/company/cdr-accelerator/#post-818d569495e0))
+- **2026-08-12** — News: CDR.fyi: This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes… ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
+- **2026-08-09** — News: Carbonway: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway .… ([source](https://www.linkedin.com/company/carbonwayorg/#post-9feebbc7ae67))
+- **2026-08-09** — News: Carbonway: Thrilled to share that remove has signed a pre-purchase agreement for Carbonway’s carbon ([source](https://www.linkedin.com/company/carbonwayorg/#post-06f39b1cf783))
+- **2026-07-26** — News: Carbonway: [Communiqué de presse FR] - Carbonaide et Carbonway ont conclu un partenariat pour… ([source](https://www.linkedin.com/company/carbonwayorg/#post-588f6dc5efd3))
+- **2026-07-26** — News: Carbonway: [Industrie] Le rennais Carbonway veut aider les industriels à piéger leurs émissions de… ([source](https://www.linkedin.com/company/carbonwayorg/#post-ba56b6dfaf36))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.carbonway.org/news))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.carbonway.org/what-we-do))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.carbonway.org/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.carbonway.org/news))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

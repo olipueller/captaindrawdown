@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.orbitalmaterials.com" target="_blank" rel="noopener">https://www.orbitalmaterials.com</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,21 +29,16 @@ Orbital Materials is an AI-for-materials company founded in late 2022, headquart
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-06-15** — refresh: liveliness
-- **2026-06-15** — liveliness: Moderate → Suspect ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://press.aboutamazon.com/2024/12/orbital-materials-and-aws-enter-strategic-partnership-to-develop-and-pilot-technologies-for-data-center-decarbonization-and-efficiency))
-- **2026-04-19** — reactivated — screenshot succeeded in reshoot3
-- **2026-04-19** — deactivated — URL https://www.orbitalmaterials.com returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.globenewswire.com/news-release/2025/04/09/3058782/0/en/Orbital-Materials-Partners-with-Civo-to-Pilot-Data-Center-Integrated-Carbon-Removal-Technology.html))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.semafor.com/article/04/09/2025/data-center-in-uk-becomes-proving-ground-for-new-carbon-capture-technology-from-startup-orbital))
-- **2026-04-18** — reclassified: pathway=DAC focus=review_needed liveliness= Active ([source](https://www.crunchbase.com/organization/orbital-materials))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-06-15** — Status Moderate → Suspect ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
+- **2026-05-01** — Status Active → Moderate ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://press.aboutamazon.com/2024/12/orbital-materials-and-aws-enter-strategic-partnership-to-develop-and-pilot-technologies-for-data-center-decarbonization-and-efficiency))
+- **2026-04-19** — Reactivated: website reachable again
+- **2026-04-19** — Deactivated: website unreachable
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.globenewswire.com/news-release/2025/04/09/3058782/0/en/Orbital-Materials-Partners-with-Civo-to-Pilot-Data-Center-Integrated-Carbon-Removal-Technology.html))
+- **2026-04-19** — Status Active → Moderate ([source](https://tracxn.com/d/companies/orbital-materials/__BnXe7XTnvbT8EtTO5E13os14IjecGZGmscLm-cFWR3Q))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.semafor.com/article/04/09/2025/data-center-in-uk-becomes-proving-ground-for-new-carbon-capture-technology-from-startup-orbital))
+- **2026-04-18** — Classified as DAC, review needed, 🟢 Active ([source](https://www.crunchbase.com/organization/orbital-materials))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

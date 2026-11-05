@@ -2,7 +2,7 @@
 title: "Jeevan Climate Solutions"
 layout: "single"
 type: "directory"
-description: "Solid-sorbent DAC using a novel Cu(II)-coordinated chelating weak-base ion exchange resin (DeCarbonHIX) that adsorbs CO2 from air and releases it via low-temperature heat or seawater regeneration,"
+description: "Solid-sorbent DAC using a novel Cu(II)-coordinated chelating weak-base ion exchange resin (DeCarbonHIX) that adsorbs CO2 from air and releases it via low-temperature heat or seawater regeneration…"
 url: "/directory/jeevan-climate-solutions/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://jeevanclimate.com/" target="_blank" rel="noopener">https://jeevanclimate.com/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,18 +29,13 @@ Jeevan Climate Solutions (also operating as Jeevan Technology) is a U.S. DAC sta
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-06-15** — refresh: liveliness
-- **2026-06-15** — liveliness: Moderate → Suspect ([source](https://startup-seeker.com/company/jeevanclimate~com))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://jeevanclimate.com/news))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://jeevanclimate.com/news))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://jeevanclimate.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-06-15** — Status Moderate → Suspect ([source](https://startup-seeker.com/company/jeevanclimate~com))
+- **2026-05-01** — Status Active → Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://jeevanclimate.com/news))
+- **2026-04-19** — Status Suspect → Moderate ([source](https://startup-seeker.com/company/jeevanclimate~com))
+- **2026-04-19** — Classified as DAC, supplier, 🟠 Suspect ([source](https://jeevanclimate.com/news))
+- **2026-04-18** — Classified as DAC, supplier, 🟡 Moderate ([source](https://jeevanclimate.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

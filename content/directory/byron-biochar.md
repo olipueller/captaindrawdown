@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://byronbiochar.com.au/" target="_blank" rel="noopener">https://byronbiochar.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/byron-biochar/" target="_blank" rel="noopener">byron-biochar</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,13 +29,10 @@ Byron Biochar is a small Australian social enterprise founded and operated by ho
 
 ## History
 
-- **2026-11-01** — news mention: Byron Biochar: Pleased to see pecan-shell biochar supplied through Byron Biochar used in new… ([source](https://www.linkedin.com/company/byron-biochar/#post-04fb7b6499d1))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.byronbiochar.com.au/about-us/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://byronbiochar.com.au/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/byron-biochar))
+- **2026-11-01** — News: Byron Biochar: Pleased to see pecan-shell biochar supplied through Byron Biochar used in new… ([source](https://www.linkedin.com/company/byron-biochar/#post-04fb7b6499d1))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.byronbiochar.com.au/about-us/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://byronbiochar.com.au/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/byron-biochar))
 
 ---
 

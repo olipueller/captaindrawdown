@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://below2.earth/" target="_blank" rel="noopener">https://below2.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/below2/" target="_blank" rel="noopener">below2</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,13 +30,10 @@ BELOW2 Inc. is a San Francisco-based startup (with German founders) that operate
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Suspect → Active
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://below2.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://below2.earth/ ([source](https://www.cdr.fyi/supplier/below2-inc))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/below2-inc))
+- **2026-04-19** — Status Suspect → Active
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟠 Suspect ([source](https://below2.earth/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/below2-inc))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/below2-inc))
 
 ---
 

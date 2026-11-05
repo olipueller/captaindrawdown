@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontostone.com/" target="_blank" rel="noopener">https://carbontostone.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-to-stone/" target="_blank" rel="noopener">carbon-to-stone</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,17 +31,13 @@ Carbon To Stone (CTS) is a Cornell University spinout in Ithaca, New York, comme
 
 ## History
 
-- **2026-08-30** — news mention: Carbon To Stone: We are thrilled to share that Carbon To Stone has been awarded funding by… ([source](https://www.linkedin.com/company/carbon-to-stone/#post-ef3f95c3791b))
-- **2026-08-16** — news mention: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and… ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))
-- **2026-08-08** — news mention: Carbon To Stone: Carbon To Stone is now Revora Materials. Our new name more accurately reflects… ([source](https://www.linkedin.com/company/carbon-to-stone/#post-a3e2f77236af))
-- **2026-08-08** — news mention: Carbon To Stone: Revora Materials is pleased to announce a strategic Memorandum of Understanding… ([source](https://www.linkedin.com/company/carbon-to-stone/#post-31d699b440d1))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbontostone.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbontostone.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbontostone.com/our-tech/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-30** — News: Carbon To Stone: We are thrilled to share that Carbon To Stone has been awarded funding by Carbont ([source](https://www.linkedin.com/company/carbon-to-stone/#post-ef3f95c3791b))
+- **2026-08-16** — News: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and the ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))
+- **2026-08-08** — News: Carbon To Stone: Carbon To Stone is now Revora Materials. Our new name more accurately reflects our ([source](https://www.linkedin.com/company/carbon-to-stone/#post-a3e2f77236af))
+- **2026-08-08** — News: Carbon To Stone: Revora Materials is pleased to announce a strategic Memorandum of Understanding… ([source](https://www.linkedin.com/company/carbon-to-stone/#post-31d699b440d1))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://carbontostone.com/))
+- **2026-04-18** — Classified as Mineralization, supplier, 🟢 Active ([source](https://carbontostone.com/our-tech/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Pyrocal"
 layout: "single"
 type: "directory"
-description: "Designs and manufactures proprietary Continuous Carbonisation Technology (CCT) pyrolysis systems that convert biosolids and organic biomass into biochar, generating Puro.earth-certified carbon"
+description: "Designs and manufactures proprietary Continuous Carbonisation Technology (CCT) pyrolysis systems that convert biosolids and organic biomass into biochar, generating Puro.earth-certified carbon…"
 url: "/directory/pyrocal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrocal.com.au" target="_blank" rel="noopener">https://www.pyrocal.com.au</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrocal/" target="_blank" rel="noopener">pyrocal</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2026-12-31</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2026-12-31</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2026-12-31)</small></td></tr>
@@ -42,23 +42,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-01** — news mention: Pyrocal - Wellcamp - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/pyrocal-wellcamp/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-05** — news mention: Pyrocal: Canada just put federal money behind biochar infrastructure â and it's coming from… ([source](https://www.linkedin.com/company/pyrocal/#post-ccec5b0d8103))
-- **2026-08-30** — news mention: Big Benefits: How Carbonisation and Biochar Deliver for People, Planet, and Business - Pyrocal ([source](https://www.pyrocal.com.au/big-benefits-how-carbonisation-and-biochar-deliver-for-people-planet-and-business/))
-- **2026-08-14** — news mention: Pyrocal: PROJECT VIDEO // Inside Stahmann Webster’s new carbonisation facility in Leeton, NSW.… ([source](https://www.linkedin.com/company/pyrocal/#post-79849c5e84fa))
-- **2026-08-07** — news mention: Pyrocal: Canada just put federal money behind biochar infrastructure — and it's coming from… ([source](https://www.linkedin.com/company/pyrocal/#post-c824f2c12283))
-- **2026-08-06** — news mention: GECA Environnement: Canada just put federal money behind biochar infrastructure â and it's… ([source](https://www.linkedin.com/company/geca-environnement/#post-ccec5b0d8103))
-- **2026-08-06** — news mention: GECA Environment: Canada just put federal money behind biochar infrastructure — and it's coming… ([source](https://www.linkedin.com/company/geca-environnement/#post-c824f2c12283))
-- **2026-07-31** — news mention: Pyrocal: We’re incredibly proud to announce the successful installation of a new Continuous… ([source](https://www.linkedin.com/company/pyrocal/#post-647125ea52e9))
-- **2026-07-17** — news mention: Pyrocal And Canada&#039;s Capital Regional District Team Up On Biochar Production ([source](https://carbonherald.com/pyrocalcanadas-capital-regional-district-team-biochar-production/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pyrocal.com.au/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pyrocal.com.au/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pyrocal.com.au/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-01** — News: Pyrocal - Wellcamp - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/pyrocal-wellcamp/))
+- **2026-09-05** — News: Pyrocal: Canada just put federal money behind biochar infrastructure â and it's coming from… ([source](https://www.linkedin.com/company/pyrocal/#post-ccec5b0d8103))
+- **2026-08-30** — News: Big Benefits: How Carbonisation and Biochar Deliver for People, Planet, and Business - Pyrocal ([source](https://www.pyrocal.com.au/big-benefits-how-carbonisation-and-biochar-deliver-for-people-planet-and-business/))
+- **2026-08-14** — News: Pyrocal: PROJECT VIDEO // Inside Stahmann Webster’s new carbonisation facility in Leeton, NSW.… ([source](https://www.linkedin.com/company/pyrocal/#post-79849c5e84fa))
+- **2026-08-07** — News: Pyrocal: Canada just put federal money behind biochar infrastructure — and it's coming from… ([source](https://www.linkedin.com/company/pyrocal/#post-c824f2c12283))
+- **2026-08-06** — News: GECA Environnement: Canada just put federal money behind biochar infrastructure â and it's coming ([source](https://www.linkedin.com/company/geca-environnement/#post-ccec5b0d8103))
+- **2026-08-06** — News: GECA Environment: Canada just put federal money behind biochar infrastructure — and it's coming… ([source](https://www.linkedin.com/company/geca-environnement/#post-c824f2c12283))
+- **2026-07-31** — News: Pyrocal: We’re incredibly proud to announce the successful installation of a new Continuous… ([source](https://www.linkedin.com/company/pyrocal/#post-647125ea52e9))
+- **2026-07-17** — News: Pyrocal And Canada&#039;s Capital Regional District Team Up On Biochar Production ([source](https://carbonherald.com/pyrocalcanadas-capital-regional-district-team-biochar-production/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.pyrocal.com.au/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

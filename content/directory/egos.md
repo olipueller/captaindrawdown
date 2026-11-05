@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.pflanzenkohle24.de/" target="_blank" rel="noopener">https://www.pflanzenkohle24.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/3-1-2-egos-productions/" target="_blank" rel="noopener">3-1-2-egos-productions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,23 +30,15 @@ EGoS was founded in 2002 by Theo Houy and has been based at its current site in 
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, liveliness
-- **2026-10-15** — liveliness: Likely Dead → Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
-- **2026-09-15** — refresh: screenshot
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Active → Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
-- **2026-05-11** — liveliness: Likely Dead → Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
-- **2026-05-10** — news mention: Plugging Away at the Millions of Derelict Oil and Gas Wells in the US ([source](https://insideclimatenews.org/news/10052026/well-done-foundation-plugging-abandoned-oil-gas-wells/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.pflanzenkohle24.de/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — Status Likely Dead → Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-08-15** — Status Active → Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-05-11** — Status Likely Dead → Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-05-10** — News: Plugging Away at the Millions of Derelict Oil and Gas Wells in the US ([source](https://insideclimatenews.org/news/10052026/well-done-foundation-plugging-abandoned-oil-gas-wells/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.pflanzenkohle24.de/info/Anlagentechnik.html))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.pflanzenkohle24.de/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

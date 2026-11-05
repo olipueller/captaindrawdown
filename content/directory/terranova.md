@@ -2,7 +2,7 @@
 title: "Terranova"
 layout: "single"
 type: "directory"
-description: "Autonomous subsurface injection of wood-waste slurry 40-60 ft underground, creating anoxic biomass burial chambers that both elevate flood-prone terrain and durably sequester biogenic carbon"
+description: "Autonomous subsurface injection of wood-waste slurry 40-60 ft underground, creating anoxic biomass burial chambers that both elevate flood-prone terrain and durably sequester biogenic carbon…"
 url: "/directory/terranova/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.terranova.inc/" target="_blank" rel="noopener">https://www.terranova.inc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terranova-inc/" target="_blank" rel="noopener">terranova-inc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,26 +31,22 @@ Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming rob
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-31** — news mention: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage… ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
-- **2026-08-31** — news mention: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))
-- **2026-08-16** — news mention: TerraNova Energy: How can we transform the waste from one of the world's largest landfills - from… ([source](https://www.linkedin.com/company/terranova-energy/#post-8f5068c9dabf))
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://terranovacorp.com/))
-- **2026-08-01** — news mention: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNova®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-e348192c7e07))
-- **2026-07-25** — news mention: TerraNova Energy: TerraNova®ultra HTC plant receives Japanese JS certification for sewage sludge… ([source](https://www.linkedin.com/company/terranova-energy/#post-6ab96cc860f8))
-- **2026-07-22** — news mention: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure… ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://terranovacorp.com/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://terranovacorp.com/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://terranovacorp.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness= Active ([source](https://www.terranova.inc/press/terranova-funding))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.terranova.inc/press/terranova-funding))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://terranovacorp.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.terranova.inc/technology))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-31** — News: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage… ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
+- **2026-08-31** — News: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))
+- **2026-08-16** — News: TerraNova Energy: How can we transform the waste from one of the world's largest landfills - from… ([source](https://www.linkedin.com/company/terranova-energy/#post-8f5068c9dabf))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://terranovacorp.com/))
+- **2026-08-01** — News: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNova®ultra process ([source](https://www.linkedin.com/company/terranova-energy/#post-e348192c7e07))
+- **2026-07-25** — News: TerraNova Energy: TerraNova®ultra HTC plant receives Japanese JS certification for sewage sludge… ([source](https://www.linkedin.com/company/terranova-energy/#post-6ab96cc860f8))
+- **2026-07-22** — News: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure… ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://terranovacorp.com/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://terranovacorp.com/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://terranovacorp.com/))
+- **2026-04-19** — Classified as Biomass Burial, side business, 🟢 Active ([source](https://www.terranova.inc/press/terranova-funding))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.terranova.inc/press/terranova-funding))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://terranovacorp.com/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.terranova.inc/technology))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carbex.one/" target="_blank" rel="noopener">https://carbex.one/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbex-gmbh/" target="_blank" rel="noopener">carbex-gmbh</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,17 +28,11 @@ Carbex GmbH is a German biochar producer based in Dischingen, Baden-Württemberg
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://carbex.one/side-facts))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbex.one/kontakt))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbex.one/kontakt))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://carbex.one/side-facts))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbex.one/kontakt))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochar-zero.com/company/carbex-gmbh/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://carbex.one/side-facts))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbex.one/kontakt))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://carbex.one/side-facts))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://biochar-zero.com/company/carbex-gmbh/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

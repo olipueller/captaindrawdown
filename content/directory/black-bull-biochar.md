@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.blackbullbiochar.com/" target="_blank" rel="noopener">https://www.blackbullbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/black-bull-biochar-ltd/" target="_blank" rel="noopener">black-bull-biochar-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -42,17 +42,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-21** — news mention: Black Bull Biochar: Black Bull Biochar is back at #Groundswell ! Come find us at Stand E9.… ([source](https://www.linkedin.com/company/black-bull-biochar-ltd/#post-962d8f05940e))
-- **2026-08-21** — news mention: Black Bull Biochar: I'm really thrilled to show you some great validation regarding biochar and… ([source](https://www.linkedin.com/company/black-bull-biochar-ltd/#post-338803ee8a1c))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-01** — news mention: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all… ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.blackbullbiochar.com/about-us))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-21** — News: Black Bull Biochar: Black Bull Biochar is back at #Groundswell ! Come find us at Stand E9. Daniel ([source](https://www.linkedin.com/company/black-bull-biochar-ltd/#post-962d8f05940e))
+- **2026-08-21** — News: Black Bull Biochar: I'm really thrilled to show you some great validation regarding biochar and its ([source](https://www.linkedin.com/company/black-bull-biochar-ltd/#post-338803ee8a1c))
+- **2026-08-01** — News: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all… ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.bioenergy-news.com/news/black-bull-biochar-secures-4-million-for-biochar-expansion/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.blackbullbiochar.com/about-us))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

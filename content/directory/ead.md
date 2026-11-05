@@ -13,14 +13,14 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://ead.darmstadt.de/" target="_blank" rel="noopener">https://ead.darmstadt.de/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal waste management utility of Darmstadt, Germany, with ~248 employees handling waste collection, recycling, composting, and street cleaning. Since August 2022 EAD has operated a CTS two-retort carbonization plant at Sensfelderweg that converts ~4,000 t/yr of urban green cuttings into ~1,000 t/yr of EBC-certified biochar, partly funded by a Bloomberg Philanthropies Mayors Challenge grant. Waste management remains the overwhelmingly dominant activity; biochar is an adjacent climate-action project.
+Since August 2022 EAD has operated a CTS two-retort carbonization plant at Sensfelderweg that converts ~4,000 t/yr of urban green cuttings into ~1,000 t/yr of EBC-certified biochar, partly funded by a Bloomberg Philanthropies Mayors Challenge grant. Waste management remains the overwhelmingly dominant activity; biochar is an adjacent climate-action project.
 
 ![EAD website](/screenshots/ead.png)
 
@@ -28,16 +28,11 @@ EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.hortidaily.com/article/9662190/ead-and-icba-forge-new-partnership-to-bolster-abu-dhabi-s-sustainability-goals/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The LinkedIn slug "wissenschaftsstadt-darmstadt" represents the entire City of…
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.hortidaily.com/article/9662190/ead-and-icba-forge-new-partnership-to-bolster-abu-dhabi-s-sustainability-goals/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
+- **2026-04-19** — Classified as Biochar, division, 🟢 Active ([source](https://ead.darmstadt.de/aktuelles/detail/bodenverbesserer-tierfutter-duengemittel-darmstaedter-pflanzenkohle-erhaelt-internationale-zertifika/))
+- **2026-04-18** — Classified as Biochar, division, 🟢 Active ([source](https://biochar-zero.com/company/eigenbetrieb-fur-kommunale-aufgaben-und-dienstleistungen-ead/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

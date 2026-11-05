@@ -2,7 +2,7 @@
 title: "The Carbon Removers"
 layout: "single"
 type: "directory"
-description: "Captures biogenic CO₂ from fermentation (whisky distilleries) and biogas/biomethane plants via modular cryogenic capture units, then transports it to mineralisation (recycled limestone → carbonate"
+description: "Captures biogenic CO₂ from fermentation (whisky distilleries) and biogas/biomethane plants via modular cryogenic capture units, then transports it to mineralisation (recycled limestone → carbonate…"
 url: "/directory/the-carbon-removers/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://thecarbonremovers.com/" target="_blank" rel="noopener">https://thecarbonremovers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonremovers/" target="_blank" rel="noopener">thecarbonremovers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,32 +30,24 @@ The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR company
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: Sunstones: Hos Sunstones er vi glade og stolte over at vÃ¦re en del af LOCASH-projektet som er en… ([source](https://www.linkedin.com/company/sunstones-aps/#post-30168dd4f8eb))
-- **2026-08-15** — news mention: Sunstones: Hos Sunstones er vi glade og stolte over at være en del af LOCASH-projektet som er en… ([source](https://www.linkedin.com/company/sunstones-aps/#post-d142c2d1bf5f))
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
-- **2026-08-13** — news mention: The Carbon Removers: Hos Sunstones er vi glade og stolte over at vÃ¦re en del af LOCASH-projektet… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-30168dd4f8eb))
-- **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
-- **2026-07-23** — news mention: The Carbon Removers Limited: Hos Sunstones er vi glade og stolte over at være en del af… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-d142c2d1bf5f))
-- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
-- **2026-06-15** — liveliness: Active → Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://thecarbonremovers.com/))
-- **2026-04-19** — merged 1 duplicate(s): The Carbon Removers Limited
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://thecarbonremovers.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://thecarbonremovers.com/ ([source](https://www.cdr.fyi/marketplace/thecarbonremovers))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/thecarbonremovers))
-- **** — merged duplicate: The Carbon Removers Limited (slug=the-carbon-removers-limited)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://thecarbonremovers.com/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://thecarbonremovers.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-07** — News: Sunstones: Hos Sunstones er vi glade og stolte over at vÃ¦re en del af LOCASH-projektet som er en… ([source](https://www.linkedin.com/company/sunstones-aps/#post-30168dd4f8eb))
+- **2026-08-15** — News: Sunstones: Hos Sunstones er vi glade og stolte over at være en del af LOCASH-projektet som er en… ([source](https://www.linkedin.com/company/sunstones-aps/#post-d142c2d1bf5f))
+- **2026-08-15** — Status Suspect → Active ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
+- **2026-08-13** — News: The Carbon Removers: Hos Sunstones er vi glade og stolte over at vÃ¦re en del af LOCASH-projektet… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-30168dd4f8eb))
+- **2026-08-06** — News: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
+- **2026-07-23** — News: The Carbon Removers Limited: Hos Sunstones er vi glade og stolte over at være en del af… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-d142c2d1bf5f))
+- **2026-07-15** — Status Moderate → Suspect ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
+- **2026-06-15** — Status Active → Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
+- **2026-05-01** — Status Moderate → Active ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
+- **2026-05-01** — Status Active → Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://thecarbonremovers.com/))
+- **2026-04-19** — Merged a duplicate entry: The Carbon Removers Limited
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/thecarbonremovers))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/thecarbonremovers))
+- **2026-04-19** — Status Active → Moderate ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
+- **2026-04-18** — Classified as BECCS, supplier, 🟢 Active ([source](https://thecarbonremovers.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

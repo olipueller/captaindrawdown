@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://capclean.com/" target="_blank" rel="noopener">https://capclean.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,16 +28,12 @@ Cap Clean Energy Corp. is a Calgary, Alberta-based clean energy development star
 
 ## History
 
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Cap Clean Energy Corp. is a Calgary-based biofuel developer, while…
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://capclean.com/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Active ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://capclean.com/))
+- **2026-04-19** — Status Moderate → Active ([source](https://advancedbiofuelsusa.info/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟡 Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
+- **2026-04-18** — Classified as BECCS, supplier, 🟡 Moderate ([source](https://ravensr.com/raven-sr-and-cap-clean-energy-to-collaborate-on-canadian-saf-and-renewable-diesel-projects/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

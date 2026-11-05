@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.restorationbio.com/" target="_blank" rel="noopener">https://www.restorationbio.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restoration-bioproducts-llc/" target="_blank" rel="noopener">restoration-bioproducts-llc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,15 +29,10 @@ Restoration Bioproducts is a Virginia-based pyrolysis company that converts low-
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-31** — news mention: $10M Biochar plant opens in Waverly - Virginia Business ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.restorationbio.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-07-31** — News: $10M Biochar plant opens in Waverly - Virginia Business ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.restorationbio.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

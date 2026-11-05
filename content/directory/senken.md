@@ -2,7 +2,7 @@
 title: "Senken"
 layout: "single"
 type: "directory"
-description: "Carbon credit marketplace and procurement platform with a proprietary 600+ data-point quality vetting framework (Sustainability Integrity Index), offering forward purchase agreements via acquired Ivy"
+description: "Carbon credit marketplace and procurement platform with a proprietary 600+ data-point quality vetting framework (Sustainability Integrity Index), offering forward purchase agreements via acquired Ivy…"
 url: "/directory/senken/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.senken.io/" target="_blank" rel="noopener">https://www.senken.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/senken/" target="_blank" rel="noopener">senken</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,36 +30,36 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-05** — news mention: CarStorCon: Neugründung der „Allianz für CO2-Entnahme im Bau“ Am 23.9. haben wir gemeinsam mit… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
-- **2026-09-28** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
-- **2026-08-26** — news mention: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
-- **2026-08-24** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
-- **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
-- **2026-08-22** — news mention: Senken Signs 50,000-Tonne Biomass Carbon Removal Deal with Carbonsate in Namibia ([source](https://carboncredits.com/senken-signs-50000-tonne-biomass-carbon-removal-deal-with-carbonsate-in-namibia/))
-- **2026-08-22** — news mention: Carbon Drawdown Initiative: Now we need to deliver! Three years ago, biomass storage was still a… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-197d8cb91c25))
-- **2026-08-21** — news mention: Senken、Carbonsateと欧州最大規模のバイオマス貯留契約を締結 5万トンの恒久的炭素除去を調達 - ESG Journal ([source](https://esgjournaljapan.com/world-news/55137))
-- **2026-08-21** — news mention: Protos energy-from-waste facility begins operations with carbon capture - Bioenergy Insight… ([source](https://www.bioenergy-news.com/news/protos-energy-from-waste-facility-begins-operations-with-carbon-capture/))
-- **2026-08-20** — news mention: Europe's largest biomass burial carbon removal deal signed - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/europes-largest-biomass-burial-carbon-removal-deal-signed/))
-- **2026-08-20** — news mention: Senken: Senken and Carbonsate signed Europe's largest biomass storage deal to date The agreement… ([source](https://www.linkedin.com/company/senken/#post-e1d3f04c90d8))
-- **2026-08-19** — news mention: Senken signs 50,000-tonne carbon removal deal with Carbonsate - BioEnergy Times ([source](https://bioenergytimes.com/senken-signs-50000-tonne-carbon-removal-deal-with-carbonsate/))
-- **2026-08-18** — news mention: Senken Secures 50,000-Tonne Carbon Removal Deal - ESG News ([source](https://esgnews.com/senken-secures-50000-tonne-carbon-removal-deal/))
-- **2026-08-18** — news mention: Senken and Carbonsate Sign Europe's Largest Biomass Storage Deal ([source](https://www.renewableenergymagazine.com/biomass/senken-and-carbonsate-sign-europe-s-largest-20260818))
-- **2026-08-18** — news mention: Senken and Carbonsate Sign 50,000-Tonne Biomass Storage Deal in Namibia ([source](https://igrownews.com/senken-latest-news/))
-- **2026-08-18** — news mention: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon removal. ([source](https://www.linkedin.com/feed/update/urn:li:share:7495020333285138432/))
-- **2026-08-17** — news mention: Senken and Carbonsate Sign EU's Largest Biomass Storage Deal: 50,000 Tonnes of Permanent Carbon… ([source](https://uk.advfn.com/stock-market/share-news/Senken-and-Carbonsate-Sign-EUs-Largest-Biomass-Sto/99133239))
-- **2026-08-17** — news mention: Senken et Carbonsate signent le plus important contrat de stockage de biomasse de l'Union… ([source](https://www.prnewswire.com/news-releases/senken-et-carbonsate-signent-le-plus-important-contrat-de-stockage-de-biomasse-de-lunion-europeenne--50-000-tonnes-de-carbone-eliminees-de-maniere-permanente-302851879.html))
-- **2026-08-17** — news mention: Senken und Carbonsate unterzeichnen Europas größten Deal für Biomasse-Speicherung: 50.000 Tonnen… ([source](https://www.prnewswire.com/news-releases/senken-und-carbonsate-unterzeichnen-europas-groWten-deal-fur-biomasse-speicherung-50-000-tonnen-permanentes-co2-removal-302851903.html))
-- **2026-08-17** — news mention: Senken And Carbonsate Ink Europe’s Largest Biomass Storage Deal To Date ([source](https://carbonherald.com/senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date))
-- **2026-08-07** — news mention: Welcome, senken! | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490262133469986816/))
-- **2026-08-06** — news mention: Senken: Senken is partnering with Envoria to bring high-quality carbon credits directly to… ([source](https://www.linkedin.com/company/senken/#post-00e8aee51158))
-- **2026-07-22** — news mention: Senken: Most corporate net zero targets are a press release with a date attached, or not? ISO just… ([source](https://www.linkedin.com/company/senken/#post-a0a72af1e879))
-- **2026-07-22** — news mention: Senken: "Can we still afford carbon removals in 2031?" Your board should be asking this question… ([source](https://www.linkedin.com/company/senken/#post-a539b38bd296))
-- **2026-06-10** — news mention: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
-- **2026-05-24** — news mention: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
-- **2026-05-22** — news mention: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate… ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
-- **2026-05-22** — news mention: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
-- **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa… ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
+- **2026-10-05** — News: CarStorCon: Neugründung der „Allianz für CO2-Entnahme im Bau“ Am 23.9. haben wir gemeinsam mit… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
+- **2026-09-28** — News: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
+- **2026-08-26** — News: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-24** — News: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
+- **2026-08-24** — News: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
+- **2026-08-22** — News: Senken Signs 50,000-Tonne Biomass Carbon Removal Deal with Carbonsate in Namibia ([source](https://carboncredits.com/senken-signs-50000-tonne-biomass-carbon-removal-deal-with-carbonsate-in-namibia/))
+- **2026-08-22** — News: Carbon Drawdown Initiative: Now we need to deliver! Three years ago, biomass storage was still a… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-197d8cb91c25))
+- **2026-08-21** — News: Senken、Carbonsateと欧州最大規模のバイオマス貯留契約を締結 5万トンの恒久的炭素除去を調達 - ESG Journal ([source](https://esgjournaljapan.com/world-news/55137))
+- **2026-08-21** — News: Protos energy-from-waste facility begins operations with carbon capture - Bioenergy Insight… ([source](https://www.bioenergy-news.com/news/protos-energy-from-waste-facility-begins-operations-with-carbon-capture/))
+- **2026-08-20** — News: Europe's largest biomass burial carbon removal deal signed - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/europes-largest-biomass-burial-carbon-removal-deal-signed/))
+- **2026-08-20** — News: Senken: Senken and Carbonsate signed Europe's largest biomass storage deal to date The agreement… ([source](https://www.linkedin.com/company/senken/#post-e1d3f04c90d8))
+- **2026-08-19** — News: Senken signs 50,000-tonne carbon removal deal with Carbonsate - BioEnergy Times ([source](https://bioenergytimes.com/senken-signs-50000-tonne-carbon-removal-deal-with-carbonsate/))
+- **2026-08-18** — News: Senken Secures 50,000-Tonne Carbon Removal Deal - ESG News ([source](https://esgnews.com/senken-secures-50000-tonne-carbon-removal-deal/))
+- **2026-08-18** — News: Senken and Carbonsate Sign Europe's Largest Biomass Storage Deal ([source](https://www.renewableenergymagazine.com/biomass/senken-and-carbonsate-sign-europe-s-largest-20260818))
+- **2026-08-18** — News: Senken and Carbonsate Sign 50,000-Tonne Biomass Storage Deal in Namibia ([source](https://igrownews.com/senken-latest-news/))
+- **2026-08-18** — News: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon removal. Carbons ([source](https://www.linkedin.com/feed/update/urn:li:share:7495020333285138432/))
+- **2026-08-17** — News: Senken and Carbonsate Sign EU's Largest Biomass Storage Deal: 50,000 Tonnes of Permanent Carbon… ([source](https://uk.advfn.com/stock-market/share-news/Senken-and-Carbonsate-Sign-EUs-Largest-Biomass-Sto/99133239))
+- **2026-08-17** — News: Senken et Carbonsate signent le plus important contrat de stockage de biomasse de l'Union… ([source](https://www.prnewswire.com/news-releases/senken-et-carbonsate-signent-le-plus-important-contrat-de-stockage-de-biomasse-de-lunion-europeenne--50-000-tonnes-de-carbone-eliminees-de-maniere-permanente-302851879.html))
+- **2026-08-17** — News: Senken und Carbonsate unterzeichnen Europas größten Deal für Biomasse-Speicherung: 50.000 Tonnen… ([source](https://www.prnewswire.com/news-releases/senken-und-carbonsate-unterzeichnen-europas-groWten-deal-fur-biomasse-speicherung-50-000-tonnen-permanentes-co2-removal-302851903.html))
+- **2026-08-17** — News: Senken And Carbonsate Ink Europe’s Largest Biomass Storage Deal To Date ([source](https://carbonherald.com/senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date))
+- **2026-08-07** — News: Welcome, senken! | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490262133469986816/))
+- **2026-08-06** — News: Senken: Senken is partnering with Envoria to bring high-quality carbon credits directly to… ([source](https://www.linkedin.com/company/senken/#post-00e8aee51158))
+- **2026-07-22** — News: Senken: Most corporate net zero targets are a press release with a date attached, or not? ISO just… ([source](https://www.linkedin.com/company/senken/#post-a0a72af1e879))
+- **2026-07-22** — News: Senken: "Can we still afford carbon removals in 2031?" Your board should be asking this question… ([source](https://www.linkedin.com/company/senken/#post-a539b38bd296))
+- **2026-06-10** — News: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
+- **2026-05-24** — News: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
+- **2026-05-22** — News: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate… ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
+- **2026-05-22** — News: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
+- **2026-05-22** — News: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa… ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
+- **2026-05-21** — News: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
 
 ---
 

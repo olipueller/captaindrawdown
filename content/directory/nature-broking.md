@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.naturebroking.com/" target="_blank" rel="noopener">https://www.naturebroking.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nature-broking/" target="_blank" rel="noopener">nature-broking</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,15 +31,12 @@ Nature Broking is a UK-based natural capital brokerage that builds and manages t
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-29** — news mention: Nature Broking: CCP approval covers 95% of the market. Real progress, although not a substitute… ([source](https://www.linkedin.com/company/nature-broking/#post-a9f693da1c3c))
-- **2026-07-24** — news mention: Nature Broking: Last week we announced the QBE Buyers Club, and in 48 hours the coverage reached… ([source](https://www.linkedin.com/company/nature-broking/#post-11b7e6ae4a98))
-- **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.naturebroking.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.naturebroking.com/ ([source](https://www.cdr.fyi/marketplace/nature-broking))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/nature-broking))
+- **2026-08-29** — News: Nature Broking: CCP approval covers 95% of the market. Real progress, although not a substitute for ([source](https://www.linkedin.com/company/nature-broking/#post-a9f693da1c3c))
+- **2026-07-24** — News: Nature Broking: Last week we announced the QBE Buyers Club, and in 48 hours the coverage reached… ([source](https://www.linkedin.com/company/nature-broking/#post-11b7e6ae4a98))
+- **2026-06-27** — News: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.naturebroking.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/nature-broking))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/nature-broking))
 
 ---
 

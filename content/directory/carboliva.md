@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboliva.es/" target="_blank" rel="noopener">https://www.carboliva.es/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/" target="_blank" rel="noopener">carboliva-biocarb%C3%B3n-sostenible</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,31 +29,23 @@ Carboliva is a Spanish company based in Osuna (Seville), led by Álvaro Espuny, 
 
 ## History
 
-- **2026-11-04** — news mention: Carboliva: −76 %. Esa es la meta: reducir hasta un 76 % las emisiones de CO2 de aceras y calzadas… ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-b4b90ee17de3))
-- **2026-09-27** — news mention: Carboliva: Â¡Ahora tambiÃ©n somos abono! La normativa europea es implacable con los abonos: no… ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-464c79c6add2))
-- **2026-08-22** — news mention: CARBOLIVA SLU: ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-a3ca5c7fe524))
-- **2026-08-22** — news mention: CARBOLIVA SLU: El centro tecnológico CIRCE - Centro Tecnológico coordina el nuevo Grupo… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-f598ae6360e0))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Moderate → Active ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
-- **2026-08-08** — news mention: CARBOLIVA SLU: ð Â¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-c8ee202c91ca))
-- **2026-07-31** — news mention: Carboliva: ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-581454be7d9b))
-- **2026-06-15** — liveliness: Active → Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboliva.es/en/))
-- **2026-04-19** — merged 1 duplicate(s): CARBOLIVA SLU
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboliva.es/en/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carboliva))
-- **** — merged duplicate: CARBOLIVA SLU (slug=carboliva-slu)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboliva.es/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboliva.es/en/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-04** — News: Carboliva: −76 %. Esa es la meta: reducir hasta un 76 % las emisiones de CO2 de aceras y calzadas… ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-b4b90ee17de3))
+- **2026-09-27** — News: Carboliva: Â¡Ahora tambiÃ©n somos abono! La normativa europea es implacable con los abonos: no… ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-464c79c6add2))
+- **2026-08-22** — News: CARBOLIVA SLU: ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-a3ca5c7fe524))
+- **2026-08-22** — News: CARBOLIVA SLU: El centro tecnológico CIRCE - Centro Tecnológico coordina el nuevo Grupo Operativo ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-f598ae6360e0))
+- **2026-08-15** — Status Moderate → Active ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
+- **2026-08-08** — News: CARBOLIVA SLU: ð Â¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-c8ee202c91ca))
+- **2026-07-31** — News: Carboliva: ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-581454be7d9b))
+- **2026-06-15** — Status Active → Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.carboliva.es/en/))
+- **2026-04-19** — Merged a duplicate entry: CARBOLIVA SLU
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/carboliva))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.carboliva.es/investigadores-de-la-universidad-de-jaen-y-carboliva-desarrollan-nuevos-materiales-ceramicos-con-biochar-para-la-construccion))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.carboliva.es/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

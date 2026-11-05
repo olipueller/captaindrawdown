@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsequestration-inc.com/" target="_blank" rel="noopener">https://www.carbonsequestration-inc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-sequestration-inc/" target="_blank" rel="noopener">carbon-sequestration-inc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-04-23</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2028-04-23</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-04-23)</small></td></tr>
@@ -40,18 +40,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-11** — liveliness: Likely Dead → Active ([source](registry_activity))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.carbonsequestration-inc.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.carbonsequestration-inc.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.carbonsequestration-inc.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.carbonsequestration-inc.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-11** — Status Likely Dead → Active ([source](registry_activity))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](registry_activity))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://www.carbonsequestration-inc.com/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](registry_activity))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

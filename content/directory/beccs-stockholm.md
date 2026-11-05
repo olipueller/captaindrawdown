@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://beccs.se/" target="_blank" rel="noopener">https://beccs.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beccs-stockholm/" target="_blank" rel="noopener">beccs-stockholm</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,28 +30,23 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
-- **2026-11-05** — news mention: BECCS Stockholm — beccs ([source](https://newenergy-today.com/news/inside-stockholm-exergis-harborfront-project-aiming-to-remove-more-co2-than-the-citys-entire-road-network))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-08** — news mention: Stockholm Exergi: Grunden är klar – nu växer Beccs Stockholm fram Efter drygt ett år av… ([source](https://www.linkedin.com/company/stockholm-exergi/#post-3007a6cb8aa3))
-- **2026-10-02** — news mention: Beccs Stockholm: We're proud to announce that Granitor has signed a long-term agreement to… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-1a29d065821d))
-- **2026-08-28** — news mention: Beccs Stockholm: When others slow down, we keep building. While many talk about investments… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-5e5d1d245dac))
-- **2026-08-21** — news mention: Beccs Stockholm: Cement with near-zero climate impact? Yes, with carbon capture this is now… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-bf255eaedc84))
-- **2026-08-21** — news mention: Beccs Stockholm: A significant milestone for Beccs Stockholm and Stockholm Exergi Over the past… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-4b32526d4bac))
-- **2026-08-13** — news mention: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS.… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
-- **2026-05-14** — news mention: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
-- **2026-05-12** — news mention: Mammoet décroche le levage lourd du projet Beccs Stockholm ([source](https://jdlgroupe.com/2026/05/11/mammoet-decroche-le-levage-lourd-du-projet-beccs-stockholm/))
-- **2026-05-12** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm | AJOT.COM ([source](https://www.ajot.com/news/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm))
-- **2026-05-11** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm - theenergyst.com ([source](https://theenergyst.com/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-23** — news mention: The pipe bridge in place – a milestone in our largest climate initiative - Stockholm Exergi ([source](https://www.stockholmexergi.se/nyheter/the-pipe-bridge-in-place-a-milestone-in-our-largest-climate-initiative/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.stockholmexergi.se/en/beccs/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.stockholmexergi.se/en/beccs/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://beccs.se/about-beccs-stockholm/))
-- **2026-04-18** — discovered via: exa ([source](https://beccs.se/))
+- **2026-11-05** — News: BECCS Stockholm — beccs ([source](https://newenergy-today.com/news/inside-stockholm-exergis-harborfront-project-aiming-to-remove-more-co2-than-the-citys-entire-road-network))
+- **2026-10-08** — News: Stockholm Exergi: Grunden är klar – nu växer Beccs Stockholm fram Efter drygt ett år av rivnings-, ([source](https://www.linkedin.com/company/stockholm-exergi/#post-3007a6cb8aa3))
+- **2026-10-02** — News: Beccs Stockholm: We're proud to announce that Granitor has signed a long-term agreement to purchase ([source](https://www.linkedin.com/company/beccs-stockholm/#post-1a29d065821d))
+- **2026-08-28** — News: Beccs Stockholm: When others slow down, we keep building. While many talk about investments… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-5e5d1d245dac))
+- **2026-08-21** — News: Beccs Stockholm: Cement with near-zero climate impact? Yes, with carbon capture this is now… ([source](https://www.linkedin.com/company/beccs-stockholm/#post-bf255eaedc84))
+- **2026-08-21** — News: Beccs Stockholm: A significant milestone for Beccs Stockholm and Stockholm Exergi Over the past few ([source](https://www.linkedin.com/company/beccs-stockholm/#post-4b32526d4bac))
+- **2026-08-13** — News: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS. We ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
+- **2026-05-14** — News: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
+- **2026-05-12** — News: Mammoet décroche le levage lourd du projet Beccs Stockholm ([source](https://jdlgroupe.com/2026/05/11/mammoet-decroche-le-levage-lourd-du-projet-beccs-stockholm/))
+- **2026-05-12** — News: Mammoet awarded heavy-lift scope for Beccs Stockholm | AJOT.COM ([source](https://www.ajot.com/news/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm))
+- **2026-05-11** — News: Mammoet awarded heavy-lift scope for Beccs Stockholm - theenergyst.com ([source](https://theenergyst.com/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm/))
+- **2026-04-23** — News: The pipe bridge in place – a milestone in our largest climate initiative - Stockholm Exergi ([source](https://www.stockholmexergi.se/nyheter/the-pipe-bridge-in-place-a-milestone-in-our-largest-climate-initiative/))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://beccs.se/about-beccs-stockholm/))
+- **2026-04-18** — Added to the directory ([source](https://beccs.se/))
 
 ---
 

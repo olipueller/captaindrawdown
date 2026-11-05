@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocharfarmer.com/" target="_blank" rel="noopener">https://www.biocharfarmer.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocharfarmer/" target="_blank" rel="noopener">biocharfarmer</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Biochar Energy Sustainable Technologies (BEST) is a US-based biochar producer that uses pyrolysis to convert biomass into biochar, marketed under the OptiBiomass and Pyroltix/Pyrolytix AI brands. The company positions itself around biomass-to-biochar pyrolysis and the market for high-quality biochar and certified carbon credits. It is a small-team operation (around 3 employees per LinkedIn) targeting both soil/agriculture and voluntary CDR markets.
+Biochar Energy Sustainable Technologies (BEST) is a US-based biochar producer that uses pyrolysis to convert biomass into biochar, marketed under the OptiBiomass and Pyroltix/Pyrolytix AI brands. The company positions itself around biomass-to-biochar pyrolysis and the market for high-quality biochar and certified carbon credits.
 
 ![Biochar Energy Sustainable Technologies website](/screenshots/biochar-energy-sustainable-technologies.png)
 
@@ -30,17 +30,12 @@ Biochar Energy Sustainable Technologies (BEST) is a US-based biochar producer th
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.biocharfarmer.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Suspect → Active
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://www.biocharfarmer.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: http://biocharfarmer.com ([source](https://www.cdr.fyi/supplier/biochar-energy-sustainable-technologies))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biochar-energy-sustainable-technologies))
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.biocharfarmer.com/))
+- **2026-04-19** — Status Suspect → Active
+- **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://www.biocharfarmer.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/biochar-energy-sustainable-technologies))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/biochar-energy-sustainable-technologies))
 
 ---
 

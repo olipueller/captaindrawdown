@@ -2,7 +2,7 @@
 title: "Meva Energy"
 layout: "single"
 type: "directory"
-description: "Entrained-flow biomass gasification of fine-fraction wood/agricultural residues producing biosyngas (primary product) plus biochar as a stable-carbon by-product usable as soil amendment or"
+description: "Entrained-flow biomass gasification of fine-fraction wood/agricultural residues producing biosyngas (primary product) plus biochar as a stable-carbon by-product usable as soil amendment or…"
 url: "/directory/meva-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://mevaenergy.com/" target="_blank" rel="noopener">https://mevaenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meva-energy/" target="_blank" rel="noopener">meva-energy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,26 +30,20 @@ Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that bu
 
 ## History
 
-- **2026-09-19** — news mention: Meva Energy: Meva Energy's biochar verified for carbon credits! Meva Energy’s #biochar has been… ([source](https://www.linkedin.com/company/meva-energy/#post-41d948b61194))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-30** — news mention: Meva Energy AB: How IKEA’s furniture waste is becoming biochar At this year’s Biochar Summit… ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://mevaenergy.com/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://mevaenergy.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://mevaenergy.com/technology/))
-- **2026-04-19** — merged 1 duplicate(s): Meva Energy AB
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.eib.org/en/press/all/2025-410-eib-backs-swedish-cleantech-pioneer-meva-energy-with-eur40-million-for-biogas-innovation))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://mevaenergy.com/ ([source](https://www.cdr.fyi/supplier/meva-energy))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/meva-energy))
-- **** — merged duplicate: Meva Energy AB (slug=meva-energy-ab)
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://mevaenergy.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://mevaenergy.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://mevaenergy.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-19** — News: Meva Energy: Meva Energy's biochar verified for carbon credits! Meva Energy’s #biochar has been… ([source](https://www.linkedin.com/company/meva-energy/#post-41d948b61194))
+- **2026-07-30** — News: Meva Energy AB: How IKEA’s furniture waste is becoming biochar At this year’s Biochar Summit… ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
+- **2026-05-01** — Status Moderate → Active ([source](https://mevaenergy.com/))
+- **2026-05-01** — Status Active → Moderate ([source](https://mevaenergy.com/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://mevaenergy.com/technology/))
+- **2026-04-19** — Merged a duplicate entry: Meva Energy AB
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.eib.org/en/press/all/2025-410-eib-backs-swedish-cleantech-pioneer-meva-energy-with-eur40-million-for-biogas-innovation))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/meva-energy))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/meva-energy))
+- **2026-04-19** — Status Active → Moderate ([source](https://mevaenergy.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://mevaenergy.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://mevaenergy.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://german-biochar.org/" target="_blank" rel="noopener">https://german-biochar.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/" target="_blank" rel="noopener">fachverband-pflanzenkohle-e-v</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,25 +30,21 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
-- **2026-10-23** — news mention: Tagung_Stadtgrün-Schwammstadt-Pflanzenkohle | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518989733637763072/))
-- **2026-10-20** — news mention: proFagus | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518221688711458816/))
-- **2026-10-15** — refresh: screenshot
-- **2026-10-03** — news mention: German Biochar Association: The Minister of Environment going all in on biochar. Imagine if… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-f9a95cc11fbd))
-- **2026-09-30** — news mention: #biochar #carbonremoval #euets #crcf #pflanzenkohle #klimaschutz #germanbiochar… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510683798964187136/))
-- **2026-09-25** — news mention: #germanbiochar #pflanzenkohle #biochar #carbonremoval #cdr #co2entnahme #nachhaltigesbauen… ([source](https://www.linkedin.com/feed/update/urn:li:share:7508902684205445121/))
-- **2026-08-14** — news mention: #biochar #pflanzenkohle #carbonremoval #cdr #pyrolysis #climatetech #innovation #research | German… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493595775680143360/))
-- **2026-07-30** — news mention: German Biochar Association: Concrete and asphalt account for nearly half of embodied carbon in… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-79e5c1b7a79f))
-- **2026-07-23** — news mention: German Biochar Association: Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))
-- **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen… ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
-- **2026-07-01** — news mention: German Biochar e.V. (German Biochar Association): Mitgliedervorstellung: @[Arbeit in… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476272902544289792/))
-- **2026-06-24** — news mention: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
-- **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://german-biochar.org/en/homepage/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://fachverbandpflanzenkohle.org/ ([source](https://www.cdr.fyi/marketplace/german-biochar-association))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://german-biochar.org/en/homepage/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/german-biochar-association))
+- **2026-10-23** — News: Tagung_Stadtgrün-Schwammstadt-Pflanzenkohle | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518989733637763072/))
+- **2026-10-20** — News: proFagus | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518221688711458816/))
+- **2026-10-03** — News: German Biochar Association: The Minister of Environment going all in on biochar. Imagine if… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-f9a95cc11fbd))
+- **2026-09-30** — News: #biochar #carbonremoval #euets #crcf #pflanzenkohle #klimaschutz #germanbiochar… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510683798964187136/))
+- **2026-09-25** — News: #germanbiochar #pflanzenkohle #biochar #carbonremoval #cdr #co2entnahme #nachhaltigesbauen… ([source](https://www.linkedin.com/feed/update/urn:li:share:7508902684205445121/))
+- **2026-08-14** — News: #biochar #pflanzenkohle #carbonremoval #cdr #pyrolysis #climatetech #innovation #research | German… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493595775680143360/))
+- **2026-07-30** — News: German Biochar Association: Concrete and asphalt account for nearly half of embodied carbon in… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-79e5c1b7a79f))
+- **2026-07-23** — News: German Biochar Association: Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))
+- **2026-07-02** — News: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen… ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
+- **2026-07-01** — News: German Biochar e.V. (German Biochar Association): Mitgliedervorstellung: @[Arbeit in… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476272902544289792/))
+- **2026-06-24** — News: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
+- **2026-06-10** — News: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://german-biochar.org/en/homepage/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/german-biochar-association))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/german-biochar-association))
 
 ---
 

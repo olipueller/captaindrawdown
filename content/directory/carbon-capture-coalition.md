@@ -2,7 +2,7 @@
 title: "Carbon Capture Coalition"
 layout: "single"
 type: "directory"
-description: "A US policy advocacy coalition of companies, unions, and NGOs that lobbies for federal policy and tax-credit support (notably 45Q) for carbon capture, removal, transport, and storage — it does not"
+description: "A US policy advocacy coalition of companies, unions, and NGOs that lobbies for federal policy and tax-credit support (notably 45Q) for carbon capture, removal, transport, and storage — it does not…"
 url: "/directory/carbon-capture-coalition/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecoalition.org/" target="_blank" rel="noopener">https://carboncapturecoalition.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-coalition/" target="_blank" rel="noopener">carbon-capture-coalition</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,23 +31,20 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 
 ## History
 
-- **2026-10-29** — news mention: How to Foster a Direct Air Capture Cost ‘Miracle’: What DAC Can Learn from Solar ([source](https://kleinmanenergy.upenn.edu/research/publications/how-to-foster-a-direct-air-capture-cost-miracle-what-dac-can-learn-from-solar/))
-- **2026-10-10** — news mention: Carbon Capture Coalition: ADM is preparing to enter the voluntary carbon removal market with a new… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-ee7de7609525))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-04** — news mention: Carbon Capture Coalition: Project Brighton is now operational. Our largest operating deployment to… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-89daccec66c0))
-- **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
-- **2026-08-21** — news mention: Carbon Capture Coalition: ICYM the Summer Friday news drop... Treasury and IRS Announce… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-59e295048db9))
-- **2026-08-15** — liveliness: Moderate → Active
-- **2026-08-13** — news mention: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
-- **2026-07-30** — news mention: Carbon Capture Coalition: Entergy and Mitsubishi Heavy Industries Group companies have signed a… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-aeda0ed0ba54))
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carboncapturecoalition.org/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://carboncapturecoalition.org/ ([source](https://www.cdr.fyi/marketplace/carbon-capture-coalition))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-capture-coalition))
+- **2026-10-29** — News: How to Foster a Direct Air Capture Cost ‘Miracle’: What DAC Can Learn from Solar ([source](https://kleinmanenergy.upenn.edu/research/publications/how-to-foster-a-direct-air-capture-cost-miracle-what-dac-can-learn-from-solar/))
+- **2026-10-10** — News: Carbon Capture Coalition: ADM is preparing to enter the voluntary carbon removal market with a new… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-ee7de7609525))
+- **2026-09-04** — News: Carbon Capture Coalition: Project Brighton is now operational. Our largest operating deployment to… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-89daccec66c0))
+- **2026-09-04** — News: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
+- **2026-08-21** — News: Carbon Capture Coalition: ICYM the Summer Friday news drop... Treasury and IRS Announce… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-59e295048db9))
+- **2026-08-15** — Status Moderate → Active
+- **2026-08-13** — News: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
+- **2026-07-30** — News: Carbon Capture Coalition: Entergy and Mitsubishi Heavy Industries Group companies have signed a… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-aeda0ed0ba54))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://carboncapturecoalition.org/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/carbon-capture-coalition))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/carbon-capture-coalition))
 
 ---
 

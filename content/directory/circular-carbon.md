@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://circular-carbon.com/en/" target="_blank" rel="noopener">https://circular-carbon.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circular-carbon/" target="_blank" rel="noopener">circular-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -33,19 +33,14 @@ Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiar
 
 ## History
 
-- **2026-10-18** — news mention: Carbon Support–Alkali Interplay Controls CO2 Slip during Direct Air Capture and Methanation over… ([source](https://doi.org/10.21203/rs.3.rs-11152786/v1))
-- **2026-09-01** — news mention: Conversations around carbon storage are important - but seeing it in practice brings a whole new… ([source](https://www.linkedin.com/feed/update/urn:li:share:7500172799345594368/))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-13** — news mention: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
-- **2026-07-15** — news mention: Toward Circular Carbon Systems: A Comprehensive Review of Bioenergy with Carbon Capture… ([source](https://www.mdpi.com/2227-9717/14/14/2297))
-- **2026-05-28** — news mention: D-CRBN Raises €17.5 Million to Scale Plasma Technology Converting Industrial CO2 into Circular… ([source](https://onestopesg.com/esg-news/d-crbn-plasma-co2-circular-carbon-funding))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://circular-carbon.com/en/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://circular-carbon.com/en/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://circular-carbon.com/en/carbonhubs/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-18** — News: Carbon Support–Alkali Interplay Controls CO2 Slip during Direct Air Capture and Methanation over… ([source](https://doi.org/10.21203/rs.3.rs-11152786/v1))
+- **2026-09-01** — News: Conversations around carbon storage are important - but seeing it in practice brings a whole new… ([source](https://www.linkedin.com/feed/update/urn:li:share:7500172799345594368/))
+- **2026-08-13** — News: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
+- **2026-07-15** — News: Toward Circular Carbon Systems: A Comprehensive Review of Bioenergy with Carbon Capture… ([source](https://www.mdpi.com/2227-9717/14/14/2297))
+- **2026-05-28** — News: D-CRBN Raises €17.5 Million to Scale Plasma Technology Converting Industrial CO2 into Circular… ([source](https://onestopesg.com/esg-news/d-crbn-plasma-co2-circular-carbon-funding))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://circular-carbon.com/en/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://circular-carbon.com/en/carbonhubs/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

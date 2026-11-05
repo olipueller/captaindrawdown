@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.airbuildinc.com/" target="_blank" rel="noopener">https://www.airbuildinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airbuild/" target="_blank" rel="noopener">airbuild</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,15 +30,9 @@ Airbuild is a US climate tech startup (San Diego / Troy, NY) developing self-pow
 
 ## History
 
-- **2026-11-03** — news mention: Airbuild: Airbuild Inc has secured a carbon removal pre-purchase with Terraset . Terraset is one… ([source](https://www.linkedin.com/company/airbuild/#post-ef56a791cb74))
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.airbuildinc.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.airbuildinc.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.airbuildinc.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-03** — News: Airbuild: Airbuild Inc has secured a carbon removal pre-purchase with Terraset . Terraset is one of ([source](https://www.linkedin.com/company/airbuild/#post-ef56a791cb74))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.airbuildinc.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

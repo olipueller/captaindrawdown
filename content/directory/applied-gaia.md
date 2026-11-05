@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://appliedgaia.com/" target="_blank" rel="noopener">https://appliedgaia.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appliedgaia-corporation/" target="_blank" rel="noopener">appliedgaia-corporation</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,18 +29,13 @@ Applied Gaia Corporation is a Houston, Texas-based pyrolysis technology manufact
 
 ## History
 
-- **2026-11-02** — news mention: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for… ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-15** — liveliness: Suspect → Likely Dead ([source](https://greentownlabs.com/members/applied-gaia/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://greentownlabs.com/members/applied-gaia/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://appliedgaia.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Suspect ([source](https://greentownlabs.com/members/applied-gaia/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://appliedgaia.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://appliedgaia.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-02** — News: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for… ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
+- **2026-07-15** — Status Suspect → Likely Dead ([source](https://greentownlabs.com/members/applied-gaia/))
+- **2026-05-01** — Status Active → Suspect ([source](https://greentownlabs.com/members/applied-gaia/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://appliedgaia.com/))
+- **2026-04-19** — Status Moderate → Suspect ([source](https://greentownlabs.com/members/applied-gaia/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://appliedgaia.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

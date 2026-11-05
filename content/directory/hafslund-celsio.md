@@ -2,7 +2,7 @@
 title: "Hafslund Celsio"
 layout: "single"
 type: "directory"
-description: "Amine-based (SLB Capturi Just Catch) post-combustion capture retrofit on a municipal waste-to-energy plant, with liquefied CO2 shipped via Oslo harbour to Northern Lights for sub-seabed storage; ~50%"
+description: "Amine-based (SLB Capturi Just Catch) post-combustion capture retrofit on a municipal waste-to-energy plant, with liquefied CO2 shipped via Oslo harbour to Northern Lights for sub-seabed storage; ~50%…"
 url: "/directory/hafslund-celsio/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs" target="_blank" rel="noopener">https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslund/" target="_blank" rel="noopener">hafslund</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,18 +29,14 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 
 ## History
 
-- **2026-10-24** — news mention: Hafslund Celsio: Se Oslos karbonfangstanlegg ta form! Du har kanskje fått med deg at vi… ([source](https://www.linkedin.com/company/hafslund/#post-20b3e05ba135))
-- **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition. ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-29** — news mention: Northern Lights: Today, Northern Lights is permanently storing CO2 captured by Heidelberg… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
-- **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://kommunikasjon.ntb.no/pressemelding/18583528/hafslund-celsio-announces-a-10-year-carbon-removal-agreement-with-microsoft))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-24** — News: Hafslund Celsio: Se Oslos karbonfangstanlegg ta form! Du har kanskje fått med deg at vi bygger ([source](https://www.linkedin.com/company/hafslund/#post-20b3e05ba135))
+- **2026-08-18** — News: Europe’s carbon removal market will develop alongside its industrial transition. At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
+- **2026-07-29** — News: Northern Lights: Today, Northern Lights is permanently storing CO2 captured by Heidelberg Materials ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
+- **2026-05-28** — News: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://kommunikasjon.ntb.no/pressemelding/18583528/hafslund-celsio-announces-a-10-year-carbon-removal-agreement-with-microsoft))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
+- **2026-04-18** — Classified as BECCS, division, 🟢 Active ([source](https://www.slb.com/news-and-insights/newsroom/press-release/2025/slb-capturi-and-aker-solutions-win-contract-to-deliver-carbon-capture-solution-for-hafslund-celsio))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

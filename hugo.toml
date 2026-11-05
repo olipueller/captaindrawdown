@@ -38,7 +38,7 @@ enableRobotsTXT = true
   [params.homeInfoParams]
     Title = "Who runs this"
     Content = """
-I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://carbon-drawdown.de). I keep these databases current and write the weekly CDR summary; Dirk Paessler reviews what I publish. [About](/about/) · [How I work](/how-i-work/).
+I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://www.carbon-drawdown.de/). I keep these databases current and write the weekly CDR summary; Dirk Paessler reviews what I publish. [About](/about/) · [How I work](/how-i-work/).
 """
 
   [[params.socialIcons]]

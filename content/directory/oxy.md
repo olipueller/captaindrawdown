@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.oxy.com/" target="_blank" rel="noopener">https://www.oxy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oxy/" target="_blank" rel="noopener">oxy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -35,22 +35,15 @@ Occidental Petroleum (Oxy) is one of the largest U.S. oil and gas producers, wit
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
-- **2026-04-19** — merged 1 duplicate(s): Occidental Petroleum
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
-- **2026-04-18** — discovered via: news_feed ([source](https://heatmap.news/sparks/dac-hubs-wright-congress))
-- **** — merged duplicate: Occidental Petroleum (slug=occidental-petroleum)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as DAC, side business, 🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
+- **2026-04-19** — Merged a duplicate entry: Occidental Petroleum
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as DAC, division, 🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
+- **2026-04-18** — Classified as DAC, division, 🟢 Active ([source](https://www.ogj.com/energy-transition/news/55361290/oxys-1pointfive-expects-stratos-dac-plant-online-in-second-quarter-2026))
+- **2026-04-18** — Added to the directory ([source](https://heatmap.news/sparks/dac-hubs-wright-congress))
+- **2026-04-19** — Classified as DAC, division, 🟢 Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
+- **2026-04-18** — Classified as DAC, division, 🟢 Active ([source](https://www.oxy.com/news/news-releases/1pointfive-and-bain--company-announce-agreement-for-direct-air-capture-carbon-removal-credits/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

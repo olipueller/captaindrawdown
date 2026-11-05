@@ -2,7 +2,7 @@
 title: "LightNET Carbon Capture"
 layout: "single"
 type: "directory"
-description: "Ex-situ accelerated CO2 mineralization using nanotechnology-enhanced materials (CO2atings coating mortars and CO2rallite ceramics) that fix CO2 from point-source and DAC streams into stable"
+description: "Ex-situ accelerated CO2 mineralization using nanotechnology-enhanced materials (CO2atings coating mortars and CO2rallite ceramics) that fix CO2 from point-source and DAC streams into stable…"
 url: "/directory/lightnet-carbon-capture/"
 pathway: "Mineralization"
 liveliness: "🟠 Suspect"
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.lightnetcc.com/en" target="_blank" rel="noopener">https://www.lightnetcc.com/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lightnetcc/" target="_blank" rel="noopener">lightnetcc</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,17 +31,13 @@ LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off that deve
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-06-15** — liveliness: Moderate → Suspect ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.lightnetcc.com/en))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-06-15** — Status Moderate → Suspect ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
+- **2026-05-01** — Status Active → Moderate ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
+- **2026-04-19** — Status Active → Moderate ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.lightnetcc.com/en))
+- **2026-04-18** — Classified as Mineralization, supplier, 🟢 Active ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

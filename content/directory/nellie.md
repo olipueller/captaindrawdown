@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.nellie.tech/" target="_blank" rel="noopener">https://www.nellie.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nellie-tech/" target="_blank" rel="noopener">nellie-tech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,23 +30,16 @@ Nellie Technologies is a UK pure-play CDR supplier operating a pilot site at Mwy
 
 ## History
 
-- **2026-11-05** — news mention: Nellie Mwyndy Cross - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/nellie-mwyndy-cross/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-01** — news mention: Nellie Technologies: Today, on #EarthDay 2026, weâve switched on something important. Nellie has… ([source](https://www.linkedin.com/company/nellie-tech/#post-0683373a71ab))
-- **2026-07-25** — news mention: Nellie: Today, on #EarthDay 2026, we’ve switched on something important. Nellie has deployed its… ([source](https://www.linkedin.com/company/nellie-tech/#post-55b617ca06fb))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nellie.tech/))
-- **2026-04-19** — merged 1 duplicate(s): Nellie Technologies
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nellie.tech/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.nellie.tech/ ([source](https://www.cdr.fyi/supplier/nellie-technologies))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/nellie-technologies))
-- **** — merged duplicate: Nellie Technologies (slug=nellie-technologies)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nellie.tech/technology))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.esgtoday.com/zurich-signs-17500-ton-carbon-removal-deal-with-climate-solutions-provider-nellie-technologies/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-05** — News: Nellie Mwyndy Cross - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/nellie-mwyndy-cross/))
+- **2026-08-01** — News: Nellie Technologies: Today, on #EarthDay 2026, weâve switched on something important. Nellie has… ([source](https://www.linkedin.com/company/nellie-tech/#post-0683373a71ab))
+- **2026-07-25** — News: Nellie: Today, on #EarthDay 2026, we’ve switched on something important. Nellie has deployed its… ([source](https://www.linkedin.com/company/nellie-tech/#post-55b617ca06fb))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.nellie.tech/))
+- **2026-04-19** — Merged a duplicate entry: Nellie Technologies
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/nellie-technologies))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/nellie-technologies))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.nellie.tech/technology))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.esgtoday.com/zurich-signs-17500-ton-carbon-removal-deal-with-climate-solutions-provider-nellie-technologies/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

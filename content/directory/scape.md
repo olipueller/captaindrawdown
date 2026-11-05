@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.scapecarbon.com/" target="_blank" rel="noopener">https://www.scapecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scapecarbon/" target="_blank" rel="noopener">scapecarbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,16 +31,11 @@ Scape Carbon is a Los Angeles startup founded in 2022 developing modular coastal
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Suspect ([source](https://www.scapecarbon.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://www.scapecarbon.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.scapecarbon.com/ ([source](https://www.cdr.fyi/supplier/scape))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/scape))
+- **2026-05-01** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟠 Suspect ([source](https://www.scapecarbon.com/))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟡 Moderate ([source](https://www.scapecarbon.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/scape))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/scape))
 
 ---
 

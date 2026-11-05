@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Website</th><td><a href="https://vcm.sa" target="_blank" rel="noopener">https://vcm.sa</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/voluntarycarbonmarket/" target="_blank" rel="noopener">voluntarycarbonmarket</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,13 +30,10 @@ The Regional Voluntary Carbon Market Company (RVCMC/VCM) is a Riyadh-based carbo
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-19** — news mention: Regional Voluntary Carbon Market Company: Saudi Arabia’s voluntary carbon market ranks among the… ([source](https://www.linkedin.com/company/voluntarycarbonmarket/#post-5fcff15ca2c4))
-- **2026-08-19** — news mention: Regional Voluntary Carbon Market Company: يأتي #سوق_الكربون_الطوعي في السعودية ضمن أكبر ثلاثة… ([source](https://www.linkedin.com/company/voluntarycarbonmarket/#post-4470f4cc54e0))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://vcm.sa/en/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/regional-voluntary-carbon-market-company))
+- **2026-08-19** — News: Regional Voluntary Carbon Market Company: Saudi Arabia’s voluntary carbon market ranks among the… ([source](https://www.linkedin.com/company/voluntarycarbonmarket/#post-5fcff15ca2c4))
+- **2026-08-19** — News: Regional Voluntary Carbon Market Company: يأتي #سوق_الكربون_الطوعي في السعودية ضمن أكبر ثلاثة أسواق ([source](https://www.linkedin.com/company/voluntarycarbonmarket/#post-4470f4cc54e0))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://vcm.sa/en/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/regional-voluntary-carbon-market-company))
 
 ---
 

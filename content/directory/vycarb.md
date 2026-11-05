@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vy-carb.com/" target="_blank" rel="noopener">https://www.vy-carb.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vycarb/" target="_blank" rel="noopener">vycarb</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,24 +31,18 @@ Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 
 
 ## History
 
-- **2026-10-15** — news mention: Vycarb: We’ve demonstrated something that could change CCS entirely: permanently storing… ([source](https://www.linkedin.com/company/vycarb/#post-3f3d973aa7c8))
-- **2026-10-15** — refresh: coresignal, liveliness
-- **2026-10-15** — liveliness: Suspect → Active ([source](https://pitchbook.com/profiles/company/515320-12))
-- **2026-09-19** — news mention: Vycarb Successfully Stores Low-Purity CO2 In Seawater - CleanTechnica ([source](https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/))
-- **2026-09-19** — news mention: Biochar applications can help mitigate climate change, improve soil health and support a circular… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvvkvwe6rs2c))
-- **2026-09-15** — refresh: screenshot, liveliness
-- **2026-09-15** — liveliness: Moderate → Suspect ([source](https://pitchbook.com/profiles/company/515320-12))
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Active → Moderate ([source](https://pitchbook.com/profiles/company/515320-12))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-27** — news mention: Opinion: Beyond CDR: The Unexpected Legacy of Early Market-Makers ([source](https://carbonherald.com/opinion-beyond-cdr-the-unexpected-legacy-of-early-market-makers/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-beyond-cdr-the-unexpected-legacy-of-early-market-makers))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://oceanvisions.org/fieldtrials-vycarb/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://pitchbook.com/profiles/company/515320-12))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.vy-carb.com/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://vycarb.com/press))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — News: Vycarb: We’ve demonstrated something that could change CCS entirely: permanently storing low-purity ([source](https://www.linkedin.com/company/vycarb/#post-3f3d973aa7c8))
+- **2026-10-15** — Status Suspect → Active ([source](https://pitchbook.com/profiles/company/515320-12))
+- **2026-09-19** — News: Vycarb Successfully Stores Low-Purity CO2 In Seawater - CleanTechnica ([source](https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/))
+- **2026-09-19** — News: Biochar applications can help mitigate climate change, improve soil health and support a circular… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvvkvwe6rs2c))
+- **2026-09-15** — Status Moderate → Suspect ([source](https://pitchbook.com/profiles/company/515320-12))
+- **2026-08-15** — Status Active → Moderate ([source](https://pitchbook.com/profiles/company/515320-12))
+- **2026-04-27** — News: Opinion: Beyond CDR: The Unexpected Legacy of Early Market-Makers ([source](https://carbonherald.com/opinion-beyond-cdr-the-unexpected-legacy-of-early-market-makers/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-beyond-cdr-the-unexpected-legacy-of-early-market-makers))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://oceanvisions.org/fieldtrials-vycarb/))
+- **2026-04-19** — Status Active → Moderate ([source](https://pitchbook.com/profiles/company/515320-12))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.vy-carb.com/))
+- **2026-04-18** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://vycarb.com/press))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

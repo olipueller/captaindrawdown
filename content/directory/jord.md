@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.jord.one/" target="_blank" rel="noopener">https://www.jord.one/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jordab/" target="_blank" rel="noopener">jordab</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,22 +30,16 @@ Jord AB (formerly Skymining) is a Swedish company founded in 2017 and headquarte
 
 ## History
 
-- **2026-10-05** — news mention: OBIO: Det er svært positivt å se at både Bondeorganisasjonene og Statsforvaltere i 5 fylker velger… ([source](https://www.linkedin.com/company/obio-norge/#post-e6d176589867))
-- **2026-09-03** — news mention: Oplandske Bioenergi (OBIO): Det er svÃ¦rt positivt Ã¥ se at bÃ¥de Bondeorganisasjonene og… ([source](https://www.linkedin.com/company/obio-norge/#post-79e1921bbc30))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.jord.one/news/jord-secures-300-hectares-for-flagship-biofuel-project-in-senegal))
-- **2026-04-19** — merged 1 duplicate(s): Jord. AB
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.jord.one/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.jord.one/ ([source](https://www.cdr.fyi/supplier/jord))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/jord))
-- **** — merged duplicate: Jord. AB (slug=jord-ab)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.jord.one/biochar))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.jord.one/about))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-05** — News: OBIO: Det er svært positivt å se at både Bondeorganisasjonene og Statsforvaltere i 5 fylker velger… ([source](https://www.linkedin.com/company/obio-norge/#post-e6d176589867))
+- **2026-09-03** — News: Oplandske Bioenergi (OBIO): Det er svÃ¦rt positivt Ã¥ se at bÃ¥de Bondeorganisasjonene og… ([source](https://www.linkedin.com/company/obio-norge/#post-79e1921bbc30))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.jord.one/news/jord-secures-300-hectares-for-flagship-biofuel-project-in-senegal))
+- **2026-04-19** — Merged a duplicate entry: Jord. AB
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.jord.one/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/jord))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/jord))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.jord.one/biochar))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.jord.one/about))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

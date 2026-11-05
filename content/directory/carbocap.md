@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://carbocap.earth/" target="_blank" rel="noopener">https://carbocap.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbocapglobal/" target="_blank" rel="noopener">carbocapglobal</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,12 +30,9 @@ CarboCap is an unfunded company based in Delhi, India, founded in 2023 by Mayur 
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://carbocap.earth/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbocap))
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟠 Suspect ([source](https://carbocap.earth/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/carbocap))
 
 ---
 

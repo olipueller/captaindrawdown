@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://nulifegreentech.com/" target="_blank" rel="noopener">https://nulifegreentech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nulife-greentech/" target="_blank" rel="noopener">nulife-greentech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2025-09-30</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— verified via isometric issuance on 2025-09-30</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-09-30)</small></td></tr>
@@ -43,21 +43,16 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
-- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
-- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-25** — news mention: NULIFE GreenTech: Who would have thought that a bunch of pipes in a snowy Canadian winter equals… ([source](https://www.linkedin.com/company/nulife-greentech/#post-8b0b35e7d985))
-- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
-- **2026-05-23** — news mention: In 2024, Frontier buyers became NULIFE GreenTech&amp;#39;s first customers, signing a prepurchase… ([source](https://www.linkedin.com/feed/update/urn:li:share:7463622319115063296/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://nulifegreentech.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.nulifegreentech.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://nulifegreentech.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-06** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-08-30** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-01** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-25** — News: NULIFE GreenTech: Who would have thought that a bunch of pipes in a snowy Canadian winter equals… ([source](https://www.linkedin.com/company/nulife-greentech/#post-8b0b35e7d985))
+- **2026-07-25** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-05-23** — News: In 2024, Frontier buyers became NULIFE GreenTech&amp;#39;s first customers, signing a prepurchase… ([source](https://www.linkedin.com/feed/update/urn:li:share:7463622319115063296/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://nulifegreentech.com/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.nulifegreentech.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

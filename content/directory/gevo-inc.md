@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://gevo.com" target="_blank" rel="noopener">https://gevo.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gevo/" target="_blank" rel="noopener">gevo</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -34,35 +34,21 @@ Gevo, Inc. (NASDAQ: GEVO) is a US renewable fuels and chemicals company headquar
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
-- **2026-04-19** — merged 1 duplicate(s): Gevo (Red Trail Energy)
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.globenewswire.com/news-release/2026/01/21/3222854/23976/en/Gevo-Achieves-Industry-Milestone-500-000-High-Quality-Carbon-Removal-Credits-Issued-from-Gevo-North-Dakota-Plant.html))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Gevo (Red Trail Energy) (slug=gevo-red-trail-energy)
-- **2026-04-19** — merged 1 duplicate(s): Gevo
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-executes-deal-biorecro-accelerate-multi-year-carbon-credit))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://gevo.com/product/carbon-dioxide-removal/))
-- **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/gevo-drops-doe-loan-bid-eyes-alternative-funding-for-saf-project/))
-- **** — merged duplicate: Gevo (slug=gevo)
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/gevo))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
+- **2026-04-19** — Merged a duplicate entry: Gevo (Red Trail Energy)
+- **2026-04-19** — Status Active → Moderate ([source](https://www.globenewswire.com/news-release/2026/01/21/3222854/23976/en/Gevo-Achieves-Industry-Milestone-500-000-High-Quality-Carbon-Removal-Credits-Issued-from-Gevo-North-Dakota-Plant.html))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-completes-acquisition-red-trail-energy-assets-north-dakota))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Merged a duplicate entry: Gevo
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-achieves-industry-milestone-500000-high-quality-carbon))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-executes-deal-biorecro-accelerate-multi-year-carbon-credit))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://gevo.com/product/carbon-dioxide-removal/))
+- **2026-04-18** — Added to the directory ([source](https://carbonherald.com/gevo-drops-doe-loan-bid-eyes-alternative-funding-for-saf-project/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/gevo))
 
 ---
 

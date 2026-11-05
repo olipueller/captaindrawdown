@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Romania</td></tr>
   <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biogekka/" target="_blank" rel="noopener">biogekka</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,17 +30,12 @@ Explocom GK SRL is a Romanian company based in Cristuru Secuiesc that started pr
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://gekka.bio/en/about-us/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.retorte.ro/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.retorte.ro/en/home/ ([source](https://www.cdr.fyi/supplier/explocom))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/explocom))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://gekka.bio/en/about-us/))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.retorte.ro/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/explocom))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/explocom))
 
 ---
 

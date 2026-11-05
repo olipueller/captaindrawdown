@@ -2,7 +2,7 @@
 title: "TerraNova Energy"
 layout: "single"
 type: "directory"
-description: "Licenses HTC \"wet pyrolysis\" technology that carbonizes dewatered sewage sludge and biowaste at ~180–200°C and 20+ bar into lignite-like hydrochar, storing >90% of feedstock carbon in a form claimed"
+description: "Licenses HTC \"wet pyrolysis\" technology that carbonizes dewatered sewage sludge and biowaste at ~180–200°C and 20+ bar into lignite-like hydrochar, storing >90% of feedstock carbon in a form claimed…"
 url: "/directory/terranova-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.terranova-energy.com/" target="_blank" rel="noopener">https://www.terranova-energy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terranova-energy/" target="_blank" rel="noopener">terranova-energy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,23 +30,19 @@ TerraNova Energy is a Düsseldorf-based technology provider and licensor that bu
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-31** — news mention: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage… ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
-- **2026-08-31** — news mention: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))
-- **2026-08-16** — news mention: TerraNova Energy: How can we transform the waste from one of the world's largest landfills - from… ([source](https://www.linkedin.com/company/terranova-energy/#post-8f5068c9dabf))
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.terranova-energy.com/en/applications/))
-- **2026-08-01** — news mention: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNova®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-e348192c7e07))
-- **2026-07-25** — news mention: TerraNova Energy: TerraNova®ultra HTC plant receives Japanese JS certification for sewage sludge… ([source](https://www.linkedin.com/company/terranova-energy/#post-6ab96cc860f8))
-- **2026-05-11** — liveliness: Moderate → Suspect ([source](https://www.terranova-energy.com/en/applications/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.terranova-energy.com/en/applications/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.terranova-energy.com/en/applications/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.terranova-energy.com/en/applications/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.terranova-energy.com/en/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.terranova-energy.com/en/applications/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-31** — News: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage… ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
+- **2026-08-31** — News: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))
+- **2026-08-16** — News: TerraNova Energy: How can we transform the waste from one of the world's largest landfills - from… ([source](https://www.linkedin.com/company/terranova-energy/#post-8f5068c9dabf))
+- **2026-08-15** — Status Suspect → Active ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-08-01** — News: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNova®ultra process ([source](https://www.linkedin.com/company/terranova-energy/#post-e348192c7e07))
+- **2026-07-25** — News: TerraNova Energy: TerraNova®ultra HTC plant receives Japanese JS certification for sewage sludge… ([source](https://www.linkedin.com/company/terranova-energy/#post-6ab96cc860f8))
+- **2026-05-11** — Status Moderate → Suspect ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.terranova-energy.com/en/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.terranova-energy.com/en/applications/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

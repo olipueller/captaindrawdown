@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://taranis.eu" target="_blank" rel="noopener">https://taranis.eu</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/taranis-investment/" target="_blank" rel="noopener">taranis-investment</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,19 +30,14 @@ Taranis is a France-based investment and asset management company owned by the P
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-09-15** — news mention: Climate Tech Market Analysis Highlights Growth To $97.99 Billion By 2030 At 24.9% CAGR ([source](https://www.openpr.com/news/4631745/climate-tech-market-analysis-highlights-growth-to-97-99))
-- **2026-09-04** — news mention: Taranis: ð£ Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal… ([source](https://www.linkedin.com/company/taranis-investment/#post-f06f4c0f89e5))
-- **2026-08-27** — news mention: Taranis: Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal… ([source](https://www.linkedin.com/company/taranis-investment/#post-2f09089c5794))
-- **2026-07-23** — news mention: Taranis: Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal… ([source](https://www.linkedin.com/company/taranis-investment/#post-2aa412da5923))
-- **2026-05-09** — news mention: Venture capital firm, Taranis, joins NEP ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://taranis.eu/carbon-ventures/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://taranis.eu/))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
+- **2026-09-15** — News: Climate Tech Market Analysis Highlights Growth To $97.99 Billion By 2030 At 24.9% CAGR ([source](https://www.openpr.com/news/4631745/climate-tech-market-analysis-highlights-growth-to-97-99))
+- **2026-09-04** — News: Taranis: ð£ Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal… ([source](https://www.linkedin.com/company/taranis-investment/#post-f06f4c0f89e5))
+- **2026-08-27** — News: Taranis: Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal… ([source](https://www.linkedin.com/company/taranis-investment/#post-2f09089c5794))
+- **2026-07-23** — News: Taranis: Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal… ([source](https://www.linkedin.com/company/taranis-investment/#post-2aa412da5923))
+- **2026-05-09** — News: Venture capital firm, Taranis, joins NEP ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://taranis.eu/carbon-ventures/))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://taranis.eu/))
+- **2026-04-18** — Added to the directory ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
 
 ---
 

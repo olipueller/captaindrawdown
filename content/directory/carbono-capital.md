@@ -13,7 +13,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Chile</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbono.capital/" target="_blank" rel="noopener">https://www.carbono.capital/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -36,16 +36,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Moderate → Suspect ([source](https://www.carbono.capital/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.carbono.capital/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbono.capital/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Moderate → Suspect ([source](https://www.carbono.capital/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.carbono.capital/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.carbono.capital/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

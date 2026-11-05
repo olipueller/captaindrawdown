@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://timberfinance.ch/" target="_blank" rel="noopener">https://timberfinance.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/timberfinancesolutions/" target="_blank" rel="noopener">timberfinancesolutions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -35,22 +35,14 @@ Timber Finance (Timber Finance Management AG) is a Zurich-based competence cente
 
 ## History
 
-- **2026-10-31** — news mention: Timber Finance: Today, our carbon business launches as an independent company. What started as… ([source](https://www.linkedin.com/company/timberfinancesolutions/#post-501c2a967106))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-14** — news mention: Timber Finance: 20 Wohnbauprojekte, jedes mit einem Zwillingsgebäude in der anderen Bauweise… ([source](https://www.linkedin.com/company/timberfinance/#post-cd233a300da4))
-- **2026-08-07** — news mention: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in… ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — merged 1 duplicate(s): Timber Carbon
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness= Active ([source](https://timberfinance.ch/en/carbon/))
-- **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
-- **** — merged duplicate: Timber Carbon (slug=timber-carbon)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness= Active ([source](https://timberfinance.ch/en/carbon/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=ecosystem liveliness= Active ([source](https://timberfinance.ch/en/carbon/randd/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-31** — News: Timber Finance: Today, our carbon business launches as an independent company. What started as… ([source](https://www.linkedin.com/company/timberfinancesolutions/#post-501c2a967106))
+- **2026-08-14** — News: Timber Finance: 20 Wohnbauprojekte, jedes mit einem Zwillingsgebäude in der anderen Bauweise… ([source](https://www.linkedin.com/company/timberfinance/#post-cd233a300da4))
+- **2026-08-07** — News: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in… ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
+- **2026-04-19** — Merged a duplicate entry: Timber Carbon
+- **2026-04-19** — Classified as Biomass Burial, ecosystem, 🟢 Active ([source](https://timberfinance.ch/en/carbon/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdrjobs.earth/job-board))
+- **2026-04-19** — Classified as Biomass Burial, ecosystem, 🟢 Active ([source](https://timberfinance.ch/en/carbon/randd/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

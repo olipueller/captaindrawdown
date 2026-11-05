@@ -2,7 +2,7 @@
 title: "Emral Carbon"
 layout: "single"
 type: "directory"
-description: "Carbon market brokerage and project finance advisory firm intermediating between carbon project developers and buyers across compliance and voluntary markets including CDR-relevant frameworks (EU"
+description: "Carbon market brokerage and project finance advisory firm intermediating between carbon project developers and buyers across compliance and voluntary markets including CDR-relevant frameworks (EU…"
 url: "/directory/emral-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://emralcarbon.com" target="_blank" rel="noopener">https://emralcarbon.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/emral-carbon/" target="_blank" rel="noopener">emral-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,14 +30,10 @@ Emral Carbon is a UK-based carbon market brokerage, project finance, and advisor
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://emralcarbon.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://emralcarbon.com ([source](https://www.cdr.fyi/marketplace/emral-carbon))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/emral-carbon))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://emralcarbon.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/emral-carbon))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/emral-carbon))
 
 ---
 

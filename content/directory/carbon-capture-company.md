@@ -2,7 +2,7 @@
 title: "Carbon Capture Company"
 layout: "single"
 type: "directory"
-description: "Operates a certification scheme and registry that issues forest-carbon credits to Swedish forest owners who increase standing timber stock, using National Forest Inventory data and ISO 14064-aligned"
+description: "Operates a certification scheme and registry that issues forest-carbon credits to Swedish forest owners who increase standing timber stock, using National Forest Inventory data and ISO 14064-aligned…"
 url: "/directory/carbon-capture-company/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecompany.se/" target="_blank" rel="noopener">https://carboncapturecompany.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapturecompany/" target="_blank" rel="noopener">carboncapturecompany</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,16 +31,11 @@ Carbon Capture Company (CCC) is a Swedish certification body that developed the 
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-19** — news mention: Mantel And Wood Partner To Scale High-Temperature Carbon Capture ([source](https://carbonherald.com/mantel-and-wood-partner-to-scale-high-temperature-carbon-capture/?utm_source=rss&utm_medium=rss&utm_campaign=mantel-and-wood-partner-to-scale-high-temperature-carbon-capture))
-- **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carboncapturecompany.se/en/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carboncapturecompany.se/en/about-us/))
-- **2026-04-18** — discovered via: exa ([source](https://carboncapturecompany.se/))
+- **2026-05-19** — News: Mantel And Wood Partner To Scale High-Temperature Carbon Capture ([source](https://carbonherald.com/mantel-and-wood-partner-to-scale-high-temperature-carbon-capture/?utm_source=rss&utm_medium=rss&utm_campaign=mantel-and-wood-partner-to-scale-high-temperature-carbon-capture))
+- **2026-05-16** — News: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://carboncapturecompany.se/en/))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://carboncapturecompany.se/en/about-us/))
+- **2026-04-18** — Added to the directory ([source](https://carboncapturecompany.se/))
 
 ---
 

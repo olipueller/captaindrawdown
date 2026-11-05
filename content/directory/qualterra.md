@@ -2,7 +2,7 @@
 title: "Qualterra"
 layout: "single"
 type: "directory"
-description: "Qualterra operates patented Biomass Processing Units that pyrolyze agricultural waste (wheat straw, wood shavings, etc.) into biochar soil amendment while capturing renewable energy, with carbon"
+description: "Qualterra operates patented Biomass Processing Units that pyrolyze agricultural waste (wheat straw, wood shavings, etc.) into biochar soil amendment while capturing renewable energy, with carbon…"
 url: "/directory/qualterra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.qualterraag.com/" target="_blank" rel="noopener">https://www.qualterraag.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/qualterra/" target="_blank" rel="noopener">qualterra</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,22 +30,17 @@ Qualterra is a Washington State-based agricultural technology company that produ
 
 ## History
 
-- **2026-09-15** — news mention: Qualterra: ð± Weâre thrilled to share that Qualterra and Plantd have joined forces to advance… ([source](https://www.linkedin.com/company/qualterra/#post-55a5ba9b385c))
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Suspect → Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
-- **2026-08-16** — news mention: Qualterra: We’re thrilled to share that Qualterra and Plantd have joined forces to advance a… ([source](https://www.linkedin.com/company/nuphyplants/#post-aa67391de600))
-- **2026-08-16** — news mention: Qualterra: We want to thank our partners at the College of Agriculture, Food, and Natural… ([source](https://www.linkedin.com/company/nuphyplants/#post-cff00b2062cd))
-- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.qualterraag.com/qualterra-achieves-climate-action-reserve-car-listing-for-biochar-project-in-cheney-washington/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.qualterraag.com/qualterra-achieves-climate-action-reserve-car-listing-for-biochar-project-in-cheney-washington/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.qualterraag.com/qualterra-inc-and-prairie-view-am-university-implement-new-biomass-processing-and-biochar-production-site-in-texas/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — News: Qualterra: ð± Weâre thrilled to share that Qualterra and Plantd have joined forces to advance a ([source](https://www.linkedin.com/company/qualterra/#post-55a5ba9b385c))
+- **2026-09-15** — Status Suspect → Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-08-16** — News: Qualterra: We’re thrilled to share that Qualterra and Plantd have joined forces to advance a true ([source](https://www.linkedin.com/company/nuphyplants/#post-aa67391de600))
+- **2026-08-16** — News: Qualterra: We want to thank our partners at the College of Agriculture, Food, and Natural Resources ([source](https://www.linkedin.com/company/nuphyplants/#post-cff00b2062cd))
+- **2026-06-15** — Status Active → Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-05-01** — Status Suspect → Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-05-01** — Status Active → Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.qualterraag.com/qualterra-achieves-climate-action-reserve-car-listing-for-biochar-project-in-cheney-washington/))
+- **2026-04-19** — Status Active → Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.qualterraag.com/qualterra-inc-and-prairie-view-am-university-implement-new-biomass-processing-and-biochar-production-site-in-texas/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

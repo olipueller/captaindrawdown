@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.standardbiocarbon.com/" target="_blank" rel="noopener">https://www.standardbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/standardbiocarbon/" target="_blank" rel="noopener">standardbiocarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,16 +29,10 @@ Standard Biocarbon is a Maine-based biochar manufacturer operating a Pyreg-techn
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-22** — news mention: Standard Biocarbon: Standard Biocarbon and Black Earth Compost are excited to announce our… ([source](https://www.linkedin.com/company/carbonx-llc/#post-5df00497230d))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Standard Biocarbon has its own LinkedIn page…
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.standardbiocarbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.standardbiocarbon.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.standardbiocarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-22** — News: Standard Biocarbon: Standard Biocarbon and Black Earth Compost are excited to announce our… ([source](https://www.linkedin.com/company/carbonx-llc/#post-5df00497230d))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.standardbiocarbon.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.standardbiocarbon.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

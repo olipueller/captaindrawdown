@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.emissol.com/" target="_blank" rel="noopener">https://www.emissol.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/emissol/" target="_blank" rel="noopener">emissol</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,17 +31,12 @@ Emissol is a small R&D firm founded in 2013 and headquartered in Bothell (Mill C
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://www.emissol.com/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.emissol.com/dac-contactor))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.emissol.com/ ([source](https://www.cdr.fyi/supplier/emissol))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/emissol))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as DAC, side business, 🟢 Active ([source](https://www.emissol.com/))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.emissol.com/dac-contactor))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/emissol))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/emissol))
 
 ---
 

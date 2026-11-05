@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biokol.se/" target="_blank" rel="noopener">https://www.biokol.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biokol-se/" target="_blank" rel="noopener">biokol-se</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified via puro issuance on 2024-03-31</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100) <small>— verified via puro issuance on 2024-03-31</small></td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
@@ -41,36 +41,23 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-11** — liveliness: Likely Dead → Active ([source](https://www.hjelmsater.se/egendom/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.hjelmsater.se/egendom/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.biokol.se/))
-- **2026-04-19** — merged 3 duplicate(s): Biokol, BC Trading AB, Biokol.se
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://zeromission.se/en/biokol-kolsanka-som-forenar-klimatnytta-med-lonsamt-lantbruk/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biokol-se))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biokol.se/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.biokol.se/ ([source](https://www.cdr.fyi/supplier/bc-trading-ab))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bc-trading-ab))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochartoday.com/news/swedish-biochar-project-biokol-validated-for-1000-year-carbon-credits/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.biokol.se/vad-ar-biokol/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biokol.se/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.rainbowstandard.io/projects/RIV-2025-PROJ-104?mechanism=REMOVAL))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Biokol.se (slug=biokolse)
-- **** — merged duplicate: BC Trading AB (slug=bc-trading-ab)
-- **** — merged duplicate: Biokol (slug=biokol)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biokol.se/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.hjelmsater.se/egendom/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/hjelmsaters-egendom))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-in-sweden-hjelmsaeters-egendom-100026))
+- **2026-05-11** — Status Likely Dead → Active ([source](https://www.hjelmsater.se/egendom/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.hjelmsater.se/egendom/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.biokol.se/))
+- **2026-04-19** — Merged duplicate entries: Biokol, BC Trading AB, Biokol.se
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://zeromission.se/en/biokol-kolsanka-som-forenar-klimatnytta-med-lonsamt-lantbruk/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/biokol-se))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.biokol.se/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/bc-trading-ab))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/bc-trading-ab))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://biochartoday.com/news/swedish-biochar-project-biokol-validated-for-1000-year-carbon-credits/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.biokol.se/vad-ar-biokol/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://registry.rainbowstandard.io/projects/RIV-2025-PROJ-104?mechanism=REMOVAL))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.hjelmsater.se/egendom/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/hjelmsaters-egendom))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-in-sweden-hjelmsaeters-egendom-100026))
 
 ---
 

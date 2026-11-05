@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://biocharbyte.com/" target="_blank" rel="noopener">https://biocharbyte.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-byte-agtech-pvt-ltd/" target="_blank" rel="noopener">biochar-byte-agtech-pvt-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,19 +29,14 @@ Biochar Byte AgTech Pvt Ltd is an early-stage Pune-based Indian startup incorpor
 
 ## History
 
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
-- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/biochar-byte/__oGsOjgGJIIi-WRbeNbFFekm8Hs7wmYdLOM02gKb7fAs))
-- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
-- **2026-05-11** — liveliness: Moderate → Suspect ([source](https://tracxn.com/d/companies/biochar-byte/__oGsOjgGJIIi-WRbeNbFFekm8Hs7wmYdLOM02gKb7fAs))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biocharbyte.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biocharbyte.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biocharbyte.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-07** — News: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — News: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-15** — Status Suspect → Active ([source](https://tracxn.com/d/companies/biochar-byte/__oGsOjgGJIIi-WRbeNbFFekm8Hs7wmYdLOM02gKb7fAs))
+- **2026-08-02** — News: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-05-11** — Status Moderate → Suspect ([source](https://tracxn.com/d/companies/biochar-byte/__oGsOjgGJIIi-WRbeNbFFekm8Hs7wmYdLOM02gKb7fAs))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://biocharbyte.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://biocharbyte.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

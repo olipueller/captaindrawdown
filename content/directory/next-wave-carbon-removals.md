@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://nextwavecr.com/" target="_blank" rel="noopener">https://nextwavecr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/next-wave-cr/" target="_blank" rel="noopener">next-wave-cr</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,16 +29,12 @@ Next Wave Carbon Removal is a US-based (Des Moines, Iowa) joint venture combinin
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://nextwavecr.com/shop/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://nextwavecr.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://nextwavecr.com/shop/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://nextwavecr.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://nextwavecr.com/our-product-biochar/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-07-15** — Status Moderate → Suspect ([source](https://nextwavecr.com/shop/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://nextwavecr.com/))
+- **2026-04-19** — Status Active → Moderate ([source](https://nextwavecr.com/shop/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://nextwavecr.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://nextwavecr.com/our-product-biochar/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

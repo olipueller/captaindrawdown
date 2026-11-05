@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.sylvera.com/" target="_blank" rel="noopener">https://www.sylvera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sylveracarbon/" target="_blank" rel="noopener">sylveracarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -34,36 +34,36 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
-- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in… ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
-- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-14** — news mention: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5… ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
-- **2026-10-07** — news mention: Sylvera: Our Q3 2026 carbon market data Retirements fell 9% YoY to 30.6M, but market value… ([source](https://www.linkedin.com/company/sylveracarbon/#post-5c381b2ea635))
-- **2026-10-02** — news mention: Planboo: Nara Climate’s Community Biochar Project has been assigned a Sylvera A Rating, as of… ([source](https://www.linkedin.com/company/planboo/#post-1ce2eb482d98))
-- **2026-09-25** — news mention: Equilibrium: Two for two on the A's. Swiftgreen, developed with GreenCollar , has earned a Sylvera… ([source](https://www.linkedin.com/company/equilibrium-earth/#post-bee64d2443f6))
-- **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the… ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
-- **2026-09-07** — news mention: Sylvera’s First Rating ([source](https://a.example/1))
-- **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk.… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
-- **2026-09-04** — news mention: Deep Sky One Secures AAA-A Rating for DAC Project - ESG News ([source](https://esgnews.com/deep-sky-one-secures-aaa-a-rating-for-dac-project/))
-- **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera&#039;s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/))
-- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO2. It integrates with data centers… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
-- **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera’s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating))
-- **2026-09-02** — news mention: Sylvera: Market Commentary: Weekly Carbon Update Article 6.2 reporting is maturing - here's… ([source](https://www.linkedin.com/company/sylveracarbon/#post-3a97e2e5aac2))
-- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
-- **2026-08-30** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in… ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
-- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
-- **2026-08-16** — news mention: Carbon Capital: Weâre excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-8f2a1817afd8))
-- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
-- **2026-08-11** — news mention: Sylvera: As BioCarbon Standard launched BCR0010 (IFM &amp; APFC), they brought in Sylvera to… ([source](https://www.linkedin.com/company/sylveracarbon/#post-2ad058ba364d))
-- **2026-08-09** — news mention: Tapovanam: At Tapovanam Biochar, we are proud to announce... a major milestone in our commitment to… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-cd8ff1c1ea0e))
-- **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is… ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
-- **2026-08-06** — news mention: Planboo: What does it take to prove your premium in an emerging CDR category? Planboo is… ([source](https://www.linkedin.com/company/planboo/#post-78e99cad652e))
-- **2026-08-04** — news mention: Sylvera: Today is Earth Overshoot Day, the day humanity's used up what nature can regenerate this… ([source](https://www.linkedin.com/company/sylveracarbon/#post-9cf34604b259))
-- **2026-08-04** — news mention: Sylvera: Alternate Wetting and Drying (AWD) reduces methane emissions and water consumption… ([source](https://www.linkedin.com/company/sylveracarbon/#post-d06eb1d1a2d7))
-- **2026-07-31** — news mention: Sylvera Launches First-Of-Its-Kind Open Carbon Data Project Backed By The Rockefeller Foundation… ([source](https://carbonherald.com/sylvera-launches-first-of-its-kind-open-carbon-data-project-backed-by-the-rockefeller-foundation-and-meta/?utm_source=rss&utm_medium=rss&utm_campaign=sylvera-launches-first-of-its-kind-open-carbon-data-project-backed-by-the-rockefeller-foundation-and-meta))
-- **2026-07-31** — news mention: Tera Carbon Pte Ltd: An exciting update as we focus on transparency and quality as an impact… ([source](https://www.linkedin.com/company/teracarbon/#post-9db35c156663))
-- **2026-07-30** — news mention: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
-- **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera… ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
+- **2026-10-22** — News: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in… ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
+- **2026-10-15** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
+- **2026-10-14** — News: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5… ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
+- **2026-10-07** — News: Sylvera: Our Q3 2026 carbon market data Retirements fell 9% YoY to 30.6M, but market value rose ([source](https://www.linkedin.com/company/sylveracarbon/#post-5c381b2ea635))
+- **2026-10-02** — News: Planboo: Nara Climate’s Community Biochar Project has been assigned a Sylvera A Rating, as of… ([source](https://www.linkedin.com/company/planboo/#post-1ce2eb482d98))
+- **2026-09-25** — News: Equilibrium: Two for two on the A's. Swiftgreen, developed with GreenCollar , has earned a Sylvera… ([source](https://www.linkedin.com/company/equilibrium-earth/#post-bee64d2443f6))
+- **2026-09-09** — News: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the… ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
+- **2026-09-07** — News: Sylvera’s First Rating ([source](https://a.example/1))
+- **2026-09-06** — News: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk.… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
+- **2026-09-04** — News: Deep Sky One Secures AAA-A Rating for DAC Project - ESG News ([source](https://esgnews.com/deep-sky-one-secures-aaa-a-rating-for-dac-project/))
+- **2026-09-03** — News: Deep Sky One Labeled AAA-A In Sylvera&#039;s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/))
+- **2026-09-03** — News: Avnos’ HDAC technology produces water while capturing CO2. It integrates with data centers… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-09-03** — News: Deep Sky One Labeled AAA-A In Sylvera’s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating))
+- **2026-09-02** — News: Sylvera: Market Commentary: Weekly Carbon Update Article 6.2 reporting is maturing - here's… ([source](https://www.linkedin.com/company/sylveracarbon/#post-3a97e2e5aac2))
+- **2026-08-31** — News: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
+- **2026-08-30** — News: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in… ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
+- **2026-08-28** — News: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
+- **2026-08-16** — News: Carbon Capital: Weâre excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-8f2a1817afd8))
+- **2026-08-16** — News: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
+- **2026-08-11** — News: Sylvera: As BioCarbon Standard launched BCR0010 (IFM &amp; APFC), they brought in Sylvera to assess ([source](https://www.linkedin.com/company/sylveracarbon/#post-2ad058ba364d))
+- **2026-08-09** — News: Tapovanam: At Tapovanam Biochar, we are proud to announce... a major milestone in our commitment to… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-cd8ff1c1ea0e))
+- **2026-08-07** — News: Native, A public benefit corporation: One of the extraordinary things about the carbon market is… ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
+- **2026-08-06** — News: Planboo: What does it take to prove your premium in an emerging CDR category? Planboo is converting ([source](https://www.linkedin.com/company/planboo/#post-78e99cad652e))
+- **2026-08-04** — News: Sylvera: Today is Earth Overshoot Day, the day humanity's used up what nature can regenerate this… ([source](https://www.linkedin.com/company/sylveracarbon/#post-9cf34604b259))
+- **2026-08-04** — News: Sylvera: Alternate Wetting and Drying (AWD) reduces methane emissions and water consumption through ([source](https://www.linkedin.com/company/sylveracarbon/#post-d06eb1d1a2d7))
+- **2026-07-31** — News: Sylvera Launches First-Of-Its-Kind Open Carbon Data Project Backed By The Rockefeller Foundation… ([source](https://carbonherald.com/sylvera-launches-first-of-its-kind-open-carbon-data-project-backed-by-the-rockefeller-foundation-and-meta/?utm_source=rss&utm_medium=rss&utm_campaign=sylvera-launches-first-of-its-kind-open-carbon-data-project-backed-by-the-rockefeller-foundation-and-meta))
+- **2026-07-31** — News: Tera Carbon Pte Ltd: An exciting update as we focus on transparency and quality as an impact… ([source](https://www.linkedin.com/company/teracarbon/#post-9db35c156663))
+- **2026-07-30** — News: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
+- **2026-07-29** — News: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera… ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
+- **2026-07-28** — News: Sylvera: Abandoned oil and gas wells leak methane - one of the most potent greenhouse gases on the… ([source](https://www.linkedin.com/company/sylveracarbon/#post-57234dbbe5a0))
 
 ---
 

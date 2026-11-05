@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://biopowertana.no" target="_blank" rel="noopener">https://biopowertana.no</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biopower-tana/" target="_blank" rel="noopener">biopower-tana</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,17 +29,12 @@ Biopower Tana AS is a Norwegian biochar developer founded in 2020, based in Aust
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biopower-tana-113))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biopower-tana-113))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://biochar-international.org/news/this-is-biochar-harnessing-biomass-to-power-a-circular-economy/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biopower-tana-113))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biopower-tana-113))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

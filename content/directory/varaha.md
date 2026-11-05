@@ -2,7 +2,7 @@
 title: "Varaha"
 layout: "single"
 type: "directory"
-description: "Develops large-scale biochar projects via industrial gasification reactors processing agricultural biomass (e.g. Prosopis Juliflora, cotton stalks, corn shanks) with smallholder farmers, plus soil"
+description: "Develops large-scale biochar projects via industrial gasification reactors processing agricultural biomass (e.g."
 url: "/directory/varaha/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varaha-carbontech/" target="_blank" rel="noopener">varaha-carbontech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro · verra crediting window through 2030-02-07</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro · verra crediting window through 2030-02-07</small></td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth · Verra (VCS) <small>(active crediting window through 2030-02-07)</small></td></tr>
@@ -47,36 +47,36 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-05** — news mention: Microsoft ↔ Varaha — biochar ([source](https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-100000-tons-of-carbon-removal-credits-from-indian-biochar-firm-varaha))
-- **2026-11-03** — news mention: GSK ↔ Varaha — soil-carbon ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india))
-- **2026-10-06** — news mention: Project Finance Manager at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/eb89b039-ae3e-4640-8712-0cd11a87486b))
-- **2026-10-06** — news mention: Manager/Senior Manager - Business Development, Biochar at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/f62d17b4-4cf9-4190-81e8-1537054e7462))
-- **2026-10-01** — news mention: Top Environment tech Companies in Tamil Nadu (2026): List of 188 Environment tech Companies by… ([source](https://fliarbi.com/companies/best-environment-tech-companies-in-tamil-nadu-india/))
-- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
-- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
-- **2026-09-22** — news mention: Could Geothermal Be the Next U.S. Power Breakout? DOE Pours $99M Into 21 Projects • Carbon Credits ([source](https://carboncredits.com/could-geothermal-be-the-next-u-s-power-breakout-doe-pours-99m-into-21-projects/))
-- **2026-09-22** — news mention: GSK Signs 8-Year Carbon Removal Deal With Varaha to Scale Regenerative Farming in India ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india/))
-- **2026-09-15** — news mention: GSK Signs Carbon Removal Deal with Varaha | ESG News.earth ([source](https://www.esgnews.earth/latest-news/gsk-signs-carbon-removal-deal-with-varaha/21927.html?doing_wp_cron=1789457570.1009469032287597656250))
-- **2026-09-15** — news mention: GSK Signs 500,000-Tonne Carbon Removal Deal in India ([source](https://samcorporate.com/gsk-carbon-removal-regenerative-agriculture-india/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-11** — news mention: GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha - ESG Today ([source](https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/))
-- **2026-09-09** — news mention: Earthly: For GSK , reducing our environmental impact is fundamental to our business resilience and… ([source](https://www.linkedin.com/company/projectearthly/#post-e2f24c018457))
-- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical.… ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
-- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
-- **2026-08-04** — news mention: Varaha Climate AG: Google . PayPal . Airbnb . And now, Varaha has been named a 2026 Technology… ([source](https://www.linkedin.com/company/meta-carbontech/#post-ab2dc39d21c7))
-- **2026-08-03** — news mention: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))
-- **2026-07-29** — news mention: The Startup Turning Healthy Soil Into Extra Income for 2 Lakh Farmers ([source](https://thebetterindia.com/farming/varaha-carbon-credits-farmers-regenerative-agriculture-india-12208537))
-- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy… ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
-- **2026-06-27** — news mention: Varaha - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn ([source](https://tracxn.com/d/companies/varaha/__pYFx2Y2zYxhtWNdCQOl7mG7XezdedBAk4yh8CL6v_3g))
-- **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
-- **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization… ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
-- **2026-05-18** — news mention: Varaha & SAF Bangladesh Mark The Country’s First Agroforestry Credits Issued Under Verra’s… ([source](https://carbonherald.com/varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard/?utm_source=rss&utm_medium=rss&utm_campaign=varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard))
-- **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
-- **2026-05-09** — news mention: January 15, 2026 Mega CDR Deal Alert! Varaha <> MicrosoftDeal Alerts ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-01-15))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-22** — news mention: 5 Indian Sustainability Startups Leading the Way on World Earth Day - Newspatrolling.com ([source](https://newspatrolling.com/5-indian-sustainability-startups-leading-the-way-on-world-earth-day/))
-- **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'meta-carbontech' clearly not the same company; employee count 281 inflated
+- **2026-11-05** — News: Microsoft ↔ Varaha — biochar ([source](https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-100000-tons-of-carbon-removal-credits-from-indian-biochar-firm-varaha))
+- **2026-11-03** — News: GSK ↔ Varaha — soil-carbon ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india))
+- **2026-10-06** — News: Project Finance Manager at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/eb89b039-ae3e-4640-8712-0cd11a87486b))
+- **2026-10-06** — News: Manager/Senior Manager - Business Development, Biochar at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/f62d17b4-4cf9-4190-81e8-1537054e7462))
+- **2026-10-01** — News: Top Environment tech Companies in Tamil Nadu (2026): List of 188 Environment tech Companies by… ([source](https://fliarbi.com/companies/best-environment-tech-companies-in-tamil-nadu-india/))
+- **2026-09-27** — News: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-09-25** — News: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-09-22** — News: Could Geothermal Be the Next U.S. Power Breakout? DOE Pours $99M Into 21 Projects • Carbon Credits ([source](https://carboncredits.com/could-geothermal-be-the-next-u-s-power-breakout-doe-pours-99m-into-21-projects/))
+- **2026-09-22** — News: GSK Signs 8-Year Carbon Removal Deal With Varaha to Scale Regenerative Farming in India ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india/))
+- **2026-09-15** — News: GSK Signs Carbon Removal Deal with Varaha | ESG News.earth ([source](https://www.esgnews.earth/latest-news/gsk-signs-carbon-removal-deal-with-varaha/21927.html?doing_wp_cron=1789457570.1009469032287597656250))
+- **2026-09-15** — News: GSK Signs 500,000-Tonne Carbon Removal Deal in India ([source](https://samcorporate.com/gsk-carbon-removal-regenerative-agriculture-india/))
+- **2026-09-11** — News: GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha - ESG Today ([source](https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/))
+- **2026-09-09** — News: Earthly: For GSK , reducing our environmental impact is fundamental to our business resilience and… ([source](https://www.linkedin.com/company/projectearthly/#post-e2f24c018457))
+- **2026-08-15** — News: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
+- **2026-08-10** — News: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-04** — News: Varaha Climate AG: Google . PayPal . Airbnb . And now, Varaha has been named a 2026 Technology… ([source](https://www.linkedin.com/company/meta-carbontech/#post-ab2dc39d21c7))
+- **2026-08-03** — News: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))
+- **2026-07-29** — News: The Startup Turning Healthy Soil Into Extra Income for 2 Lakh Farmers ([source](https://thebetterindia.com/farming/varaha-carbon-credits-farmers-regenerative-agriculture-india-12208537))
+- **2026-07-25** — News: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy… ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
+- **2026-06-27** — News: Varaha - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn ([source](https://tracxn.com/d/companies/varaha/__pYFx2Y2zYxhtWNdCQOl7mG7XezdedBAk4yh8CL6v_3g))
+- **2026-05-22** — News: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
+- **2026-05-20** — News: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization… ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
+- **2026-05-18** — News: Varaha & SAF Bangladesh Mark The Country’s First Agroforestry Credits Issued Under Verra’s Verified ([source](https://carbonherald.com/varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard/?utm_source=rss&utm_medium=rss&utm_campaign=varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard))
+- **2026-05-12** — News: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
+- **2026-05-09** — News: January 15, 2026 Mega CDR Deal Alert! Varaha <> MicrosoftDeal Alerts ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-01-15))
+- **2026-04-22** — News: 5 Indian Sustainability Startups Leading the Way on World Earth Day - Newspatrolling.com ([source](https://newspatrolling.com/5-indian-sustainability-startups-leading-the-way-on-world-earth-day/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
+- **2026-04-19** — Merged a duplicate entry: Varaha Climate AG
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.varaha.earth/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdrjobs.earth/job-board))
 
 ---
 

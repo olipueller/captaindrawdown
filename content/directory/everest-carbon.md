@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.everestcarbon.com/" target="_blank" rel="noopener">https://www.everestcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everest-carbon/" target="_blank" rel="noopener">everest-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -36,20 +36,12 @@ Everest Carbon is a San Francisco- and Linz, Austria-based company that develops
 
 ## History
 
-- **2026-10-06** — news mention: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are… ([source](https://www.linkedin.com/company/everest-carbon/#post-d13f1c562b55))
-- **2026-09-15** — refresh: screenshot
-- **2026-08-03** — news mention: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are… ([source](https://www.linkedin.com/company/everest-carbon/#post-7231fccaf6c4))
-- **2026-07-21** — news mention: Direct In Situ Measurement of Alkalinity Export for Real-Time Enhanced Weathering MRV ([source](https://cdrxiv.org/preprint/456))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness= Active ([source](https://www.everestcarbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness= Active ([source](https://www.everestcarbon.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness= Active ([source](https://www.everestcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-06** — News: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are… ([source](https://www.linkedin.com/company/everest-carbon/#post-d13f1c562b55))
+- **2026-08-03** — News: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are… ([source](https://www.linkedin.com/company/everest-carbon/#post-7231fccaf6c4))
+- **2026-07-21** — News: Direct In Situ Measurement of Alkalinity Export for Real-Time Enhanced Weathering MRV ([source](https://cdrxiv.org/preprint/456))
+- **2026-04-19** — Classified as Enabling Tech, supplier, 🟢 Active ([source](https://www.everestcarbon.com/))
+- **2026-04-18** — Classified as Enabling Tech, supplier, 🟢 Active ([source](https://www.everestcarbon.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

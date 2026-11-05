@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.ekovilla.com" target="_blank" rel="noopener">https://www.ekovilla.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ekovilla-oy/" target="_blank" rel="noopener">ekovilla-oy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,14 +33,10 @@ Ekovilla is the thermal insulation brand of Finnish circular-economy company Eco
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=side_business liveliness= Active ([source](https://ekovilla.com/en/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=division liveliness= Active ([source](https://ecoup.fi/en/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://registry.puro.earth/carbon-sequestration/projects/Wooden-Building-Element/Ekovilla-2-Kuusankoski/643002406801000053))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Biomass Burial, side business, 🟢 Active ([source](https://ekovilla.com/en/))
+- **2026-04-19** — Classified as Biomass Burial, division, 🟢 Active ([source](https://ecoup.fi/en/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://registry.puro.earth/carbon-sequestration/projects/Wooden-Building-Element/Ekovilla-2-Kuusankoski/643002406801000053))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://oncra.org" target="_blank" rel="noopener">https://oncra.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oncra/" target="_blank" rel="noopener">oncra</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,16 +31,13 @@ Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-08-30** — news mention: Scature: Q2 2026 just became the biggest quarter carbon removal has ever seen. 2.1 million tonnes… ([source](https://www.linkedin.com/company/scature/#post-9b16d4fa6d95))
-- **2026-08-16** — news mention: Oncra: 466 tonnes of COâ sequestered in Dutch soil. ð¦ Arlande , together with Coppa… ([source](https://www.linkedin.com/company/oncra/#post-cb798760feba))
-- **2026-07-25** — news mention: Oncra: 466 tonnes of CO2 sequestered in Dutch soil. Arlande , together with Coppa , Hospitality… ([source](https://www.linkedin.com/company/oncra/#post-fc3522cbed2c))
-- **2026-07-25** — news mention: Scature: A CO2 offset isn't a receipt. It's a farm you can walk through. This year, Coppa Group… ([source](https://www.linkedin.com/company/scature/#post-baf58356f492))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://oncra.org/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://oncra.org ([source](https://www.cdr.fyi/marketplace/oncra))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/oncra))
+- **2026-08-30** — News: Scature: Q2 2026 just became the biggest quarter carbon removal has ever seen. 2.1 million tonnes… ([source](https://www.linkedin.com/company/scature/#post-9b16d4fa6d95))
+- **2026-08-16** — News: Oncra: 466 tonnes of COâ sequestered in Dutch soil. ð¦ Arlande , together with Coppa… ([source](https://www.linkedin.com/company/oncra/#post-cb798760feba))
+- **2026-07-25** — News: Oncra: 466 tonnes of CO2 sequestered in Dutch soil. Arlande , together with Coppa , Hospitality… ([source](https://www.linkedin.com/company/oncra/#post-fc3522cbed2c))
+- **2026-07-25** — News: Scature: A CO2 offset isn't a receipt. It's a farm you can walk through. This year, Coppa Group and ([source](https://www.linkedin.com/company/scature/#post-baf58356f492))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://oncra.org/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/oncra))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/oncra))
 
 ---
 

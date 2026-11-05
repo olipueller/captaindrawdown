@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cdrjobs.earth" target="_blank" rel="noopener">https://www.cdrjobs.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrjobs/" target="_blank" rel="noopener">cdrjobs</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,20 +30,17 @@ CDRjobs is a dedicated jobs board and industry-insights platform for the carbon 
 
 ## History
 
-- **2026-10-24** — news mention: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-10** — news mention: CDRjobs: We're excited to announce our partnership with atmosfair gGmbH This marks Atmosfair's… ([source](https://www.linkedin.com/company/cdrjobs/#post-cb9a19e874cc))
-- **2026-08-15** — liveliness: Moderate → Active
-- **2026-08-06** — news mention: CDRjobs: Today, we’re excited to announce that the European Innovation Council has selected Paebbl… ([source](https://www.linkedin.com/company/cdrjobs/#post-4ecf1d949537))
-- **2026-08-06** — news mention: CDRjobs: Congratulations to Paebbl ! Paebbl has been selected by the European Innovation Council… ([source](https://www.linkedin.com/company/cdrjobs/#post-fce70b881854))
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.cdrjobs.earth))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.cdrjobs.earth/ ([source](https://www.cdr.fyi/marketplace/cdrjobs))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cdrjobs))
+- **2026-10-24** — News: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
+- **2026-09-10** — News: CDRjobs: We're excited to announce our partnership with atmosfair gGmbH This marks Atmosfair's… ([source](https://www.linkedin.com/company/cdrjobs/#post-cb9a19e874cc))
+- **2026-08-15** — Status Moderate → Active
+- **2026-08-06** — News: CDRjobs: Today, we’re excited to announce that the European Innovation Council has selected Paebbl… ([source](https://www.linkedin.com/company/cdrjobs/#post-4ecf1d949537))
+- **2026-08-06** — News: CDRjobs: Congratulations to Paebbl ! Paebbl has been selected by the European Innovation Council… ([source](https://www.linkedin.com/company/cdrjobs/#post-fce70b881854))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.cdrjobs.earth))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/cdrjobs))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/cdrjobs))
 
 ---
 

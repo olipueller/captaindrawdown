@@ -2,7 +2,7 @@
 title: "Residual Carbon"
 layout: "single"
 type: "directory"
-description: "Carbon project developer that designs, structures, and documents biochar and BECCS carbon removal projects for industrial biomass asset owners, handling methodology, MRV, ratings readiness, and buyer"
+description: "Carbon project developer that designs, structures, and documents biochar and BECCS carbon removal projects for industrial biomass asset owners, handling methodology, MRV, ratings readiness, and buyer…"
 url: "/directory/residual-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.residualcarbon.com/" target="_blank" rel="noopener">https://www.residualcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/residualcarbon/" target="_blank" rel="noopener">residualcarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,19 +31,15 @@ Residual is a UK-based carbon project developer that partners with industrials t
 
 ## History
 
-- **2026-10-06** — news mention: Residual Opens Carbon Removal Buyer Portal With 25 Major Buyers Signed Up ([source](https://carbonherald.com/residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up/?utm_source=rss&utm_medium=rss&utm_campaign=residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up))
-- **2026-09-30** — news mention: Agricultural liming is a carbon sink in the Mississippi River Basin ([source](https://doi.org/10.1038/s41586-026-11040-2))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-12** — news mention: Residual Carbon: Our second Residual quality framework is out - this time for ARR, following our… ([source](https://www.linkedin.com/company/residualcarbon/#post-ad600515d117))
-- **2026-08-31** — news mention: Trade-driven diffusion of carbon dioxide removal exacerbates the decrease in global health… ([source](https://doi.org/10.21203/rs.3.rs-10722747/v1))
-- **2026-08-20** — news mention: CUR8: ð¦ ̧ð ̈ Superpollutants drive roughly 45% of current warming. Yet, they account for less… ([source](https://www.linkedin.com/company/cur8earth/#post-a508190dc37b))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-30** — news mention: Climeworks partners with NTT DATA Group ([source](https://climeworks.com/press-release/climeworks-partners-with-ntt-data-group))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.residualcarbon.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.residualcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-06** — News: Residual Opens Carbon Removal Buyer Portal With 25 Major Buyers Signed Up ([source](https://carbonherald.com/residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up/?utm_source=rss&utm_medium=rss&utm_campaign=residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up))
+- **2026-09-30** — News: Agricultural liming is a carbon sink in the Mississippi River Basin ([source](https://doi.org/10.1038/s41586-026-11040-2))
+- **2026-09-12** — News: Residual Carbon: Our second Residual quality framework is out - this time for ARR, following our… ([source](https://www.linkedin.com/company/residualcarbon/#post-ad600515d117))
+- **2026-08-31** — News: Trade-driven diffusion of carbon dioxide removal exacerbates the decrease in global health… ([source](https://doi.org/10.21203/rs.3.rs-10722747/v1))
+- **2026-08-20** — News: CUR8: ð¦ ̧ð ̈ Superpollutants drive roughly 45% of current warming. Yet, they account for less… ([source](https://www.linkedin.com/company/cur8earth/#post-a508190dc37b))
+- **2026-04-30** — News: Climeworks partners with NTT DATA Group ([source](https://climeworks.com/press-release/climeworks-partners-with-ntt-data-group))
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://www.residualcarbon.com/))
+- **2026-04-18** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://www.residualcarbon.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

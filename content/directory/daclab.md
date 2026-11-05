@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.daclab.us" target="_blank" rel="noopener">https://www.daclab.us</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/daclab-us/" target="_blank" rel="noopener">daclab-us</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,33 +30,29 @@ DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorb
 
 ## History
 
-- **2026-11-02** — news mention: DACLAB: Ctrl+Alt+DAC 2026 — scaling from a modular product to an industrial plant. Last week, we… ([source](https://www.linkedin.com/company/daclab-us/#post-ee0772bdb3b2))
-- **2026-10-15** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
-- **2026-10-12** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
-- **2026-10-01** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-c3b6fbfa0655))
-- **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
-- **2026-08-31** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-3744a19beb75))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
-- **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
-- **2026-08-10** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
-- **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
-- **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
-- **2026-08-02** — news mention: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
-- **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
-- **2026-07-29** — news mention: Deep Sky: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower… ([source](https://www.linkedin.com/company/deep-sky-climate/#post-7ebecf20a082))
-- **2026-07-29** — news mention: Deep Sky: BientÃ ́t Ã Deep Sky Alpha. Deep Sky Alpha accueillera bientÃ ́t DACLAB et sa Kelvin… ([source](https://www.linkedin.com/company/deep-sky-climate/#post-abac5cee2d4a))
-- **2026-07-26** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-7a62db6e2cf4))
-- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.daclab.us/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.daclab.us/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-02** — News: DACLAB: Ctrl+Alt+DAC 2026 — scaling from a modular product to an industrial plant. Last week, we… ([source](https://www.linkedin.com/company/daclab-us/#post-ee0772bdb3b2))
+- **2026-10-15** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
+- **2026-10-12** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
+- **2026-10-01** — News: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-c3b6fbfa0655))
+- **2026-09-10** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
+- **2026-08-31** — News: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-3744a19beb75))
+- **2026-08-15** — Status Suspect → Active ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
+- **2026-08-10** — News: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
+- **2026-08-10** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
+- **2026-08-03** — News: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
+- **2026-08-03** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
+- **2026-08-02** — News: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
+- **2026-07-29** — News: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
+- **2026-07-29** — News: Deep Sky: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a ([source](https://www.linkedin.com/company/deep-sky-climate/#post-7ebecf20a082))
+- **2026-07-29** — News: Deep Sky: BientÃ ́t Ã Deep Sky Alpha. Deep Sky Alpha accueillera bientÃ ́t DACLAB et sa Kelvin Tower, ([source](https://www.linkedin.com/company/deep-sky-climate/#post-abac5cee2d4a))
+- **2026-07-26** — News: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-7a62db6e2cf4))
+- **2026-07-15** — Status Moderate → Suspect ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
+- **2026-05-01** — Status Active → Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.daclab.us/))
+- **2026-04-19** — Status Active → Moderate ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.daclab.us/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

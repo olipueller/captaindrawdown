@@ -115,7 +115,7 @@ All files of release 2026-11.4 on GitHub: [folder `v1/2026-11.4/`](https://githu
 - **country, country_code, region**: head office; ISO 3166-1 alpha-2; region as used in our EU-versus-world tables.
 - **pathway_primary, pathway_secondary, category, cdr_focus**: what the company does; cdr_focus is supplier, division, ecosystem or side_business.
 - **liveliness_tier, liveliness_score**: Active, Moderate, Suspect or Likely Dead, with a 0 to 100 score from public signals (news, hiring, registry issuance, website). An estimate, not a verified fact.
-- **size_class**: EU SME staff class (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from the company's LinkedIn size band and headcount signals. Exact headcounts are not published.
+- **size_class**: EU SME staff class (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from the company's LinkedIn size band and headcount signals.
 - **registries, puro_issued_tco2, offsetsdb_issued_tco2**: registry presence and issued tonnes where we ingest the registry.
 - **last_evidence_date, date_added, date_updated**: when we last saw evidence, when the row entered, when it last changed.
 - **description, description_source**: a short description; `ai_generated` means it was written by a model from public web pages and may contain errors.

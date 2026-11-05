@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.rewind.earth/" target="_blank" rel="noopener">https://www.rewind.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rewindearth/" target="_blank" rel="noopener">rewindearth</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-05-01</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— verified via isometric issuance on 2026-05-01</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-05-01)</small></td></tr>
@@ -40,28 +40,21 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet… ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
-- **2026-08-22** — news mention: Rewind.earth: SBTi released V2.0 of their net-zero standard. Most of the conversation has been… ([source](https://www.linkedin.com/company/rewindearth/#post-a8cc88f1b060))
-- **2026-08-17** — news mention: The feasibility loop is the killer. Deeper overshoot means degraded soils, stressed forests, and… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtbkvzsmky2u))
-- **2026-07-31** — news mention: Rewind.earth: Mines need to be reclaimed. Carbon needs to come out of the atmosphere. For most of… ([source](https://www.linkedin.com/company/rewindearth/#post-e2bac283212e))
-- **2026-07-24** — news mention: Rewind: World's first Deep Mine Storage CDR credits are here! 6 months ago we announced our… ([source](https://www.linkedin.com/company/rewindearth/#post-2323d0d6e9e9))
-- **2026-07-14** — news mention: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted.… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
-- **2026-07-14** — news mention: The 650k-tonne BioCirc deal was signed in May, weeks after the reported pause. The real story… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql2yjswkl2b))
-- **2026-05-13** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? ([source](https://theconversation.com/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the-sea-the-answer-282361))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.rewind.earth/))
-- **2026-04-19** — merged 1 duplicate(s): Rewind.earth
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.rewind.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.rewind.earth/ ([source](https://www.cdr.fyi/supplier/rewind-earth))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/rewind-earth))
-- **** — merged duplicate: Rewind.earth (slug=rewindearth)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://carbonherald.com/rewind-launches-worlds-first-deep-mine-carbon-storage-project-in-georgia/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://carbonherald.com/rewind-launches-worlds-first-deep-mine-carbon-storage-project-in-georgia/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-06** — News: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet… ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
+- **2026-08-22** — News: Rewind.earth: SBTi released V2.0 of their net-zero standard. Most of the conversation has been… ([source](https://www.linkedin.com/company/rewindearth/#post-a8cc88f1b060))
+- **2026-08-17** — News: The feasibility loop is the killer. Deeper overshoot means degraded soils, stressed forests, and… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtbkvzsmky2u))
+- **2026-07-31** — News: Rewind.earth: Mines need to be reclaimed. Carbon needs to come out of the atmosphere. For most of… ([source](https://www.linkedin.com/company/rewindearth/#post-e2bac283212e))
+- **2026-07-24** — News: Rewind: World's first Deep Mine Storage CDR credits are here! 6 months ago we announced our… ([source](https://www.linkedin.com/company/rewindearth/#post-2323d0d6e9e9))
+- **2026-07-14** — News: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted.… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
+- **2026-07-14** — News: The 650k-tonne BioCirc deal was signed in May, weeks after the reported pause. The real story: when ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql2yjswkl2b))
+- **2026-05-13** — News: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? ([source](https://theconversation.com/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the-sea-the-answer-282361))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.rewind.earth/))
+- **2026-04-19** — Merged a duplicate entry: Rewind.earth
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/rewind-earth))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/rewind-earth))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://carbonherald.com/rewind-launches-worlds-first-deep-mine-carbon-storage-project-in-georgia/))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://carbonherald.com/rewind-launches-worlds-first-deep-mine-carbon-storage-project-in-georgia/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

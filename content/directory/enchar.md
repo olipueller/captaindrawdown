@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://enchar.co/" target="_blank" rel="noopener">https://enchar.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enchar/" target="_blank" rel="noopener">enchar</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,12 +31,9 @@ Enchar is a B2B biochar market-maker with a biochar supply database and expertis
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Moderate ([source](https://enchar.co/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://enchar.co/ ([source](https://www.cdr.fyi/marketplace/enchar))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/enchar))
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟡 Moderate ([source](https://enchar.co/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/enchar))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/enchar))
 
 ---
 

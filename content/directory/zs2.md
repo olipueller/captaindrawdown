@@ -2,7 +2,7 @@
 title: "ZS2"
 layout: "single"
 type: "directory"
-description: "Manufactures magnesium-oxide cement building products (boards, panels, sheathing, tiles) that mineralize CO2, and is developing a proprietary solid-sorbent DAC unit to feed captured CO2 into the"
+description: "Manufactures magnesium-oxide cement building products (boards, panels, sheathing, tiles) that mineralize CO2, and is developing a proprietary solid-sorbent DAC unit to feed captured CO2 into the…"
 url: "/directory/zs2/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://zs2technologies.com/" target="_blank" rel="noopener">https://zs2technologies.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zs2-technologies/" target="_blank" rel="noopener">zs2-technologies</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -34,24 +34,17 @@ ZS2 Technologies is a Calgary-based building-materials manufacturer whose core b
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness= Active ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
-- **2026-04-19** — merged 1 duplicate(s): ZS2 Technologies
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://zs2technologies.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://zs2technologies.com/ ([source](https://www.cdr.fyi/supplier/zs2-technologies))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/zs2-technologies))
-- **** — merged duplicate: ZS2 Technologies (slug=zs2-technologies)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://zs2technologies.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://zs2technologies.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Suspect → Active ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
+- **2026-05-01** — Status Active → Suspect ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
+- **2026-04-19** — Classified as Mineralization, side business, 🟢 Active ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
+- **2026-04-19** — Merged a duplicate entry: ZS2 Technologies
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://zs2technologies.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/zs2-technologies))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/zs2-technologies))
+- **2026-04-19** — Status Active → Suspect ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
+- **2026-04-18** — Classified as Mineralization, supplier, 🟢 Active ([source](https://zs2technologies.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

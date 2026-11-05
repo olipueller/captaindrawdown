@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://prattenergy.com/" target="_blank" rel="noopener">https://prattenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pratt-energy-llc/" target="_blank" rel="noopener">pratt-energy-llc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,16 +29,12 @@ Pratt Energy, LLC operates a corn and milo fuel ethanol plant in Pratt, Kansas. 
 
 ## History
 
-- **2026-10-05** — news mention: Antora and Pratt Energy announce nearly 6 GWh thermal battery project to deliver affordable energy… ([source](https://ethanolproducer.com/articles/antora-and-pratt-energy-announce-nearly-6-gwh-thermal-battery-project-to-deliver-affordable-energy-and-strengthen-kansas-economy))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://prattenergy.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Active ([source](https://carbonherald.com/two-ethanol-firms-seek-permission-for-carbon-sequestration-projects-in-kansas/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Suspect ([source](https://www.kcur.org/news/2024-02-20/these-ethanol-plants-want-to-bury-co2-in-kansas-to-cut-their-carbon-footprints))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Suspect ([source](https://prattenergy.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-05** — News: Antora and Pratt Energy announce nearly 6 GWh thermal battery project to deliver affordable energy… ([source](https://ethanolproducer.com/articles/antora-and-pratt-energy-announce-nearly-6-gwh-thermal-battery-project-to-deliver-affordable-energy-and-strengthen-kansas-economy))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://prattenergy.com/))
+- **2026-04-19** — Status Suspect → Active ([source](https://carbonherald.com/two-ethanol-firms-seek-permission-for-carbon-sequestration-projects-in-kansas/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟠 Suspect ([source](https://www.kcur.org/news/2024-02-20/these-ethanol-plants-want-to-bury-co2-in-kansas-to-cut-their-carbon-footprints))
+- **2026-04-19** — Classified as BECCS, supplier, 🟠 Suspect ([source](https://prattenergy.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

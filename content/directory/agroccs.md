@@ -2,7 +2,7 @@
 title: "AgroCCS"
 layout: "single"
 type: "directory"
-description: "Pyrolyzes agricultural residues (rice husk/straw) into biochar using Beston pyrolysis units, then applies biochar as soil amendment on smallholder farmland across India and other Global South"
+description: "Pyrolyzes agricultural residues (rice husk/straw) into biochar using Beston pyrolysis units, then applies biochar as soil amendment on smallholder farmland across India and other Global South…"
 url: "/directory/agroccs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://agroccs.com/" target="_blank" rel="noopener">https://agroccs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/agro-ccs/" target="_blank" rel="noopener">agro-ccs</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,15 +29,10 @@ AgroCCS B.V. is a Dutch biochar project developer running pyrolysis-based carbon
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://agroccs.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Active ([source](https://www.linkedin.com/posts/agro-ccs_agroccs-carbonremoval-biochar-activity-7307710950319550465-f8pS))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://agroccs.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://agroccs.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://agroccs.com/))
+- **2026-04-19** — Status Moderate → Active ([source](https://www.linkedin.com/posts/agro-ccs_agroccs-carbonremoval-biochar-activity-7307710950319550465-f8pS))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://agroccs.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

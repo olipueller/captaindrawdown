@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://sowbiochar.com/" target="_blank" rel="noopener">https://sowbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southwest-biochar-products/" target="_blank" rel="noopener">southwest-biochar-products</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,17 +29,12 @@ Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer in 
 
 ## History
 
-- **2026-10-15** — liveliness: Suspect → Likely Dead ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sowbiochar.com/about/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sowbiochar.com/about/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sowbiochar.com/about/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — Status Suspect → Likely Dead ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
+- **2026-05-01** — Status Active → Suspect ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://sowbiochar.com/about/))
+- **2026-04-19** — Status Active → Suspect ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://sowbiochar.com/about/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

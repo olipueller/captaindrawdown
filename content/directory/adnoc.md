@@ -2,7 +2,7 @@
 title: "ADNOC"
 layout: "single"
 type: "directory"
-description: "State-owned oil & gas major investing in and co-developing megaton-scale DAC facilities (with Occidental/1PointFive) in the UAE and South Texas, with CO2 stored in saline aquifers via ADNOC's"
+description: "State-owned oil & gas major investing in and co-developing megaton-scale DAC facilities (with Occidental/1PointFive) in the UAE and South Texas, with CO2 stored in saline aquifers via ADNOC's…"
 url: "/directory/adnoc/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Website</th><td><a href="https://www.adnoc.ae" target="_blank" rel="noopener">https://www.adnoc.ae</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adnoc/" target="_blank" rel="noopener">adnoc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,23 +31,17 @@ ADNOC (Abu Dhabi National Oil Company) is the UAE's state-owned oil, gas, and pe
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-08-18** — news mention: Holcim: Marking a milestone in industrial decarbonization, Holcim UAE and carbon storage innovator… ([source](https://www.linkedin.com/company/lafargeholcim/#post-25cc7b80c6d0))
-- **2026-08-15** — liveliness: Moderate → Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
-- **2026-08-04** — news mention: ADNOC: Beneath Abu Dhabi’s desert sits a carbonate formation so thick that, in places, it exceeds… ([source](https://www.linkedin.com/company/adnoc/#post-fa0cb4d0ad0a))
-- **2026-06-15** — liveliness: Active → Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub/))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.esgtoday.com/oxy-adnoc-explore-500-million-dac-carbon-removal-project-in-texas/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-18** — News: Holcim: Marking a milestone in industrial decarbonization, Holcim UAE and carbon storage innovator… ([source](https://www.linkedin.com/company/lafargeholcim/#post-25cc7b80c6d0))
+- **2026-08-15** — Status Moderate → Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
+- **2026-08-04** — News: ADNOC: Beneath Abu Dhabi’s desert sits a carbonate formation so thick that, in places, it exceeds… ([source](https://www.linkedin.com/company/adnoc/#post-fa0cb4d0ad0a))
+- **2026-06-15** — Status Active → Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
+- **2026-04-19** — Classified as DAC, side business, 🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
+- **2026-04-19** — Classified as DAC, division, 🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-and-adnocs-xrg-agree-to-evaluate-joint-venture-to-develop-south-texas-direct-air-capture-hub/))
+- **2026-04-18** — Classified as DAC, division, 🟢 Active ([source](https://www.esgtoday.com/oxy-adnoc-explore-500-million-dac-carbon-removal-project-in-texas/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -12,7 +12,7 @@ liveliness: "🔴 Likely Dead"
 <table class="company-facts">
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -24,12 +24,10 @@ Biocarbon Tech Asia is a biochar carbon removal supplier listed on Puro.earth, t
 
 ## History
 
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Suspect → Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Suspect → Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-04-18** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

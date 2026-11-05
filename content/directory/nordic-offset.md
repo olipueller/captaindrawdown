@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://nordicoffset.fi/" target="_blank" rel="noopener">https://nordicoffset.fi/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,11 +29,9 @@ Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consul
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://nordicoffset.fi/en/carbon-offsetting/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://nordicoffset.fi/ ([source](https://www.cdr.fyi/marketplace/nordic-offset))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/nordic-offset))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://nordicoffset.fi/en/carbon-offsetting/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/nordic-offset))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/nordic-offset))
 
 ---
 

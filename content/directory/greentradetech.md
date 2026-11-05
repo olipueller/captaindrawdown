@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://greentrade.tech/" target="_blank" rel="noopener">https://greentrade.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greentradetech/" target="_blank" rel="noopener">greentradetech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,15 +31,12 @@ GreenTrade (GreenTrade Impact GmbH) is a Berlin-based marketplace founded in 202
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: Moderate → Active
-- **2026-10-12** — news mention: greentrade.tech: Special Edition: Science Based Targets initiative releases… ([source](https://www.linkedin.com/company/greentradetech/#post-4719ae54e14c))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://greentrade.tech/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://greentrade.tech/ ([source](https://www.cdr.fyi/marketplace/greentrade.tech))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://greentrade.tech/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/greentrade.tech))
+- **2026-10-15** — Status Moderate → Active
+- **2026-10-12** — News: greentrade.tech: Special Edition: Science Based Targets initiative releases… ([source](https://www.linkedin.com/company/greentradetech/#post-4719ae54e14c))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://greentrade.tech/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/greentrade.tech))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟠 Suspect ([source](https://greentrade.tech/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/greentrade.tech))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "ECM | Environmental Commodities Marketplace"
 layout: "single"
 type: "directory"
-description: "Digital marketplace and trading terminal for carbon credits and Renewable Energy Certificates connecting end buyers directly with project developers, with portfolio management, ratings, and custodial"
+description: "Digital marketplace and trading terminal for carbon credits and Renewable Energy Certificates connecting end buyers directly with project developers, with portfolio management, ratings, and custodial…"
 url: "/directory/ecm-environmental-commodities-marketplace/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Turkey</td></tr>
   <tr><th>Website</th><td><a href="https://www.erguvan.co/" target="_blank" rel="noopener">https://www.erguvan.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/erguvan/" target="_blank" rel="noopener">erguvan</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,19 +30,14 @@ ECM (Environmental Commodities Marketplace) is the flagship platform of Erguvan,
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-21** — news mention: ECM | Environmental Commodities Marketplace: EUA dropped to EUR 66.65 on March 20 — an 11-month… ([source](https://www.linkedin.com/company/erguvan/#post-783e7a863991))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — merged 1 duplicate(s): Erguvan
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://www.erguvan.co/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/erguvan))
-- **** — merged duplicate: Erguvan (slug=erguvan)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.erguvan.co/ecm))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.erguvan.co/ ([source](https://www.cdr.fyi/marketplace/ecm.erguvan.co))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecm.erguvan.co))
+- **2026-08-21** — News: ECM | Environmental Commodities Marketplace: EUA dropped to EUR 66.65 on March 20 — an 11-month low ([source](https://www.linkedin.com/company/erguvan/#post-783e7a863991))
+- **2026-04-19** — Merged a duplicate entry: Erguvan
+- **2026-04-19** — Status Moderate → Active
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://www.erguvan.co/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/erguvan))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.erguvan.co/ecm))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/ecm.erguvan.co))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/ecm.erguvan.co))
 
 ---
 

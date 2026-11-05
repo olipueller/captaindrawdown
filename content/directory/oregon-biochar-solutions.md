@@ -2,7 +2,7 @@
 title: "Oregon Biochar Solutions"
 layout: "single"
 type: "directory"
-description: "Operates an industrial-scale pyrolysis facility in White City, Oregon, producing Rogue Biochar from Pacific Northwest wood/logging residuals, sold as a soil amendment and generating Puro.earth"
+description: "Operates an industrial-scale pyrolysis facility in White City, Oregon, producing Rogue Biochar from Pacific Northwest wood/logging residuals, sold as a soil amendment and generating Puro.earth…"
 url: "/directory/oregon-biochar-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.chardirect.com/" target="_blank" rel="noopener">https://www.chardirect.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oregon-biochar-solutions/" target="_blank" rel="noopener">oregon-biochar-solutions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-09-30)</small></td></tr>
@@ -41,17 +41,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-23** — news mention: Verde Resources: Waste Biochar Roads Carbon sinks Verde has finalized a key supply and… ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-b6ece6dae5b1))
-- **2026-07-25** — news mention: Oregon Biochar Solutions: Roads that remove carbon? That future is closer. Verde Resources Inc.… ([source](https://www.linkedin.com/company/oregon-biochar-solutions/#post-2f24e6aab591))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.chardirect.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.chardirect.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/753518))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-08-23** — News: Verde Resources: Waste Biochar Roads Carbon sinks Verde has finalized a key supply and carbon ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-b6ece6dae5b1))
+- **2026-07-25** — News: Oregon Biochar Solutions: Roads that remove carbon? That future is closer. Verde Resources Inc.… ([source](https://www.linkedin.com/company/oregon-biochar-solutions/#post-2f24e6aab591))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.chardirect.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://registry.puro.earth/projects/753518))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

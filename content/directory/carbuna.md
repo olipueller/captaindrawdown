@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carbuna.com/" target="_blank" rel="noopener">https://carbuna.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbuna/" target="_blank" rel="noopener">carbuna</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,20 +29,14 @@ Carbuna AG is a Memmingen, Germany-based biochar processing and trading company 
 
 ## History
 
-- **2026-10-15** — liveliness: Active → Suspect ([source](https://www.compensate.com/projects/carbuna-biochar/))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.compensate.com/projects/carbuna-biochar/))
-- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.compensate.com/projects/carbuna-biochar/))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.compensate.com/projects/carbuna-biochar/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.compensate.com/projects/carbuna-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbuna.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.compensate.com/projects/carbuna-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbuna.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbuna.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — Status Active → Suspect ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-08-15** — Status Suspect → Active ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-06-15** — Status Active → Suspect ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbuna.com/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.compensate.com/projects/carbuna-biochar/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

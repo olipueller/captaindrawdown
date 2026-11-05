@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://originbiochar.com/" target="_blank" rel="noopener">https://originbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/originbiochar/" target="_blank" rel="noopener">originbiochar</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,19 +29,13 @@ Origin Biochar is a biochar product brand of R&S Biomass Equipment Ltd, a Northe
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://originbiochar.com/))
-- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So… ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://originbiochar.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Moderate ([source](https://originbiochar.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://originbiochar.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://originbiochar.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://originbiochar.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://originbiochar.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Likely Dead → Active ([source](https://originbiochar.com/))
+- **2026-08-28** — News: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So… ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://originbiochar.com/))
+- **2026-04-19** — Classified as Biochar, side business, 🟡 Moderate ([source](https://originbiochar.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://originbiochar.com/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://originbiochar.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

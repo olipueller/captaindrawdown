@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://zerocertified.com/" target="_blank" rel="noopener">https://zerocertified.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,12 +28,9 @@ ZEROCertified was a Netherlands-based voluntary carbon market consultancy and me
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Likely Dead → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Likely Dead ([source](https://zerocertified.com/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zerocertified))
+- **2026-04-19** — Status Likely Dead → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🔴 Likely Dead ([source](https://zerocertified.com/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/zerocertified))
 
 ---
 

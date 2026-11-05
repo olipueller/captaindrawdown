@@ -14,14 +14,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.roblumco.com/" target="_blank" rel="noopener">https://www.roblumco.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/roblumco/" target="_blank" rel="noopener">roblumco</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
 ## About
 
-Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesale wood products business headquartered in New Orleans, Louisiana, with approximately 100 employees and customers in 70+ countries. The company's core business is international hardwood and softwood lumber wholesale, manufacturing and distribution (roughly $100M annual revenue), and in 2025 it launched a biochar initiative converting waste wood from its lumber operations into biochar with the intent to sell carbon credits on the voluntary market.
+The company's core business is international hardwood and softwood lumber wholesale, manufacturing and distribution (roughly $100M annual revenue), and in 2025 it launched a biochar initiative converting waste wood from its lumber operations into biochar with the intent to sell carbon credits on the voluntary market.
 
 ![Robinson Lumber website](/screenshots/robinson-lumber.png)
 
@@ -29,22 +29,19 @@ Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesa
 
 ## History
 
-- **2026-11-05** — news mention: New Orleans company, Robinson Carbon, to invest $16M in biochar facility in central Louisiana ([source](https://www.nola.com/news/business/new-orleans-company-robinson-carbon-to-invest-16m-in-biochar-facility-in-central-louisiana/article_127295cb-02d1-4119-a23c-d1452bc820f1.html))
-- **2026-10-13** — news mention: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver… ([source](https://www.linkedin.com/company/roblumco/#post-90d95d476026))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
-- **2026-07-24** — news mention: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver… ([source](https://www.linkedin.com/company/robinson-lumber-company-inc-/#post-90d95d476026))
-- **2026-06-15** — liveliness: Active → Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-05** — News: Robinson Carbon To Build New $16.3M Biochar Facility In Louisiana ([source](https://carbonherald.com/robinson-carbon-to-build-new-16-3m-biochar-facility-in-louisiana/?utm_source=rss&utm_medium=rss&utm_campaign=robinson-carbon-to-build-new-16-3m-biochar-facility-in-louisiana))
+- **2026-11-05** — News: New Orleans company, Robinson Carbon, to invest $16M in biochar facility in central Louisiana ([source](https://www.nola.com/news/business/new-orleans-company-robinson-carbon-to-invest-16m-in-biochar-facility-in-central-louisiana/article_127295cb-02d1-4119-a23c-d1452bc820f1.html))
+- **2026-10-13** — News: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver Creek ([source](https://www.linkedin.com/company/roblumco/#post-90d95d476026))
+- **2026-08-15** — Status Suspect → Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
+- **2026-07-24** — News: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver Creek ([source](https://www.linkedin.com/company/robinson-lumber-company-inc-/#post-90d95d476026))
+- **2026-06-15** — Status Active → Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
+- **2026-05-01** — Status Suspect → Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
+- **2026-05-01** — Status Active → Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
+- **2026-04-19** — Status Active → Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.nola.com/news/business/innovation/this-south-louisiana-family-owned-business-is-going-strong-after-132-years/article_a4757320-2615-4b9b-a845-c432ec0b2f69.html))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Tomorrow's Air"
 layout: "single"
 type: "directory"
-description: "Travel-industry CDR marketplace/aggregator that channels traveler and travel-business contributions to DAC, biochar, and enhanced weathering suppliers, with blockchain-backed Digital Product"
+description: "Travel-industry CDR marketplace/aggregator that channels traveler and travel-business contributions to DAC, biochar, and enhanced weathering suppliers, with blockchain-backed Digital Product…"
 url: "/directory/tomorrows-air/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.tomorrowsair.com/" target="_blank" rel="noopener">https://www.tomorrowsair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tomorrows-air/" target="_blank" rel="noopener">tomorrows-air</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,13 +31,10 @@ Tomorrow's Air is a carbon removal collective and marketplace for the travel ind
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.tomorrowsair.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.tomorrowsair.com/ ([source](https://www.cdr.fyi/marketplace/tomorrows-air))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/tomorrows-air))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.tomorrowsair.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/tomorrows-air))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/tomorrows-air))
 
 ---
 

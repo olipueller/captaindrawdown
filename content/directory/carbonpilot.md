@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.valorizesystems.com" target="_blank" rel="noopener">https://www.valorizesystems.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/valorizesystems/" target="_blank" rel="noopener">valorizesystems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,14 +31,11 @@ CarbonPilot (now Valorize Systems) is a software platform that helps biochar and
 
 ## History
 
-- **2026-09-15** — liveliness: Moderate → Active
-- **2026-08-22** — news mention: CarbonPilot: It's Biochar Trial Tuesday and we're excited for this one: 52% less ammonia in the… ([source](https://www.linkedin.com/company/valorizesystems/#post-33d3ebabde6c))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.valorizesystems.com))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonpilot))
+- **2026-09-15** — Status Moderate → Active
+- **2026-08-22** — News: CarbonPilot: It's Biochar Trial Tuesday and we're excited for this one: 52% less ammonia in the… ([source](https://www.linkedin.com/company/valorizesystems/#post-33d3ebabde6c))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.valorizesystems.com))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/carbonpilot))
 
 ---
 

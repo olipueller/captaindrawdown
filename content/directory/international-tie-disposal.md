@@ -13,7 +13,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://tiedisposal.com/" target="_blank" rel="noopener">https://tiedisposal.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -27,17 +27,13 @@ International Tie Disposal (ITD) is a subsidiary of Polivka International, a Nor
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.wbtv.com/2024/03/27/nc-community-battles-against-controversial-railroad-project/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://tiedisposal.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://tiedisposal.com/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://www.wbtv.com/2024/03/27/nc-community-battles-against-controversial-railroad-project/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=review_needed liveliness= Suspect ([source](https://www.deq.nc.gov/news/press-releases/2021/04/13/release-air-permit-issued-international-tie-disposal-llc-richmond-county))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://tiedisposal.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.wbtv.com/2024/03/27/nc-community-battles-against-controversial-railroad-project/))
+- **2026-04-19** — Classified as Biochar, division, 🟢 Active ([source](https://tiedisposal.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://tiedisposal.com/))
+- **2026-04-19** — Status Suspect → Likely Dead ([source](https://www.wbtv.com/2024/03/27/nc-community-battles-against-controversial-railroad-project/))
+- **2026-04-19** — Classified as Biochar, review needed, 🟠 Suspect ([source](https://www.deq.nc.gov/news/press-releases/2021/04/13/release-air-permit-issued-international-tie-disposal-llc-richmond-county))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://tiedisposal.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

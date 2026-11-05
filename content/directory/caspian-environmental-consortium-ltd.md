@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Kazakhstan</td></tr>
   <tr><th>Website</th><td><a href="https://www.caspian.eco/" target="_blank" rel="noopener">https://www.caspian.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/caspian-environmental-consortium-ltd/" target="_blank" rel="noopener">caspian-environmental-consortium-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,17 +31,12 @@ Caspian Environmental Consortium Ltd. is a Kazakhstan-based bio-economy research
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.caspian.eco/projects/caspiancdr))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.caspian.eco/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.caspian.eco/ ([source](https://www.cdr.fyi/supplier/caspian-environmental-consortium))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/caspian-environmental-consortium))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.caspian.eco/projects/caspiancdr))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.caspian.eco/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/caspian-environmental-consortium))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/caspian-environmental-consortium))
 
 ---
 

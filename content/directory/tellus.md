@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://tellusbiocarbon.com/" target="_blank" rel="noopener">https://tellusbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tellusbiocarbon/" target="_blank" rel="noopener">tellusbiocarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,22 +29,16 @@ Tellus is a Brazilian climate-tech company transforming biomass residues into bi
 
 ## History
 
-- **2026-08-15** — news mention: Tellus: Tellus is pleased to partner with Climeworks, a global leader in high-integrity carbon… ([source](https://www.linkedin.com/company/tellusbiocarbon/#post-d845015f5c01))
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://cdr30.org/member/tellus/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Suspect ([source](https://cdr30.org/member/tellus/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://cdr30.org/member/tellus/))
-- **2026-04-19** — merged 1 duplicate(s): Tellus Biocarbon
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://tellusbiocarbon.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://tellusbiocarbon.com/ ([source](https://www.cdr.fyi/supplier/tellus))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tellus))
-- **** — merged duplicate: Tellus Biocarbon (slug=tellus-biocarbon)
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://cdr30.org/member/tellus/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://tellusbiocarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — News: Tellus: Tellus is pleased to partner with Climeworks, a global leader in high-integrity carbon… ([source](https://www.linkedin.com/company/tellusbiocarbon/#post-d845015f5c01))
+- **2026-08-15** — Status Suspect → Active ([source](https://cdr30.org/member/tellus/))
+- **2026-05-01** — Status Moderate → Suspect ([source](https://cdr30.org/member/tellus/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://cdr30.org/member/tellus/))
+- **2026-04-19** — Merged a duplicate entry: Tellus Biocarbon
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://tellusbiocarbon.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/tellus))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/tellus))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://tellusbiocarbon.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

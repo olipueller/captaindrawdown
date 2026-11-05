@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.fluxcarbon.earth/" target="_blank" rel="noopener">https://www.fluxcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,36 +31,36 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
-- **2026-10-30** — news mention: Settling-driven Rayleigh–Taylor instability in a pre-existing turbulent field ([source](https://doi.org/10.31223/x5jj8x))
-- **2026-10-26** — news mention: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based… ([source](https://cdrxiv.org/preprint/568))
-- **2026-10-24** — news mention: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency… ([source](https://doi.org/10.5194/egusphere-2026-5784))
-- **2026-10-15** — refresh: coresignal
-- **2026-10-15** — refresh: coresignal
-- **2026-10-12** — news mention: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in… ([source](https://doi.org/10.5281/zenodo.20088387))
-- **2026-10-12** — news mention: Measuring large-scale mCDR using a novel Atmospheric CO2 Perimeter Flux (ACPF) method ([source](https://doi.org/10.3389/fclim.2026.1941538))
-- **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
-- **2026-10-07** — news mention: UK Centre for Ecology & Hydrology: Protecting saltmarsh is vital for coastline communities. Great… ([source](https://www.linkedin.com/company/uk-centre-for-ecology-hydrology/#post-5501c43d879b))
-- **2026-10-06** — news mention: Frontiers | Measuring large-scale mCDR using a novel Atmospheric CO2 Perimeter Flux (ACPF) method ([source](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1941538/full))
-- **2026-10-05** — news mention: Flux Carbon: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners… ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-12** — news mention: Technical Methodology & Geothermal Formulation Specification: Bio-Encapsulated Dual-Action Ocean… ([source](https://doi.org/10.5281/zenodo.22393029))
-- **2026-09-12** — news mention: Laboratoire de Météorologie Dynamique: Is the global land carbon sink recovering after the… ([source](https://www.linkedin.com/company/laboratoire-des-sciences-du-climat-et-de-l-environnement/#post-acd75d081fe2))
-- **2026-09-06** — news mention: Comment on egusphere-2026-4781 ([source](https://doi.org/10.5194/egusphere-2026-4781-rc1))
-- **2026-09-06** — news mention: Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting ([source](https://doi.org/10.70212/cdrxiv.2026533.v2))
-- **2026-09-05** — news mention: PyroCCS: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
-- **2026-09-05** — news mention: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
-- **2026-08-31** — news mention: Comment on egusphere-2026-4194 ([source](https://doi.org/10.5194/egusphere-2026-4194-rc1))
-- **2026-08-31** — news mention: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering… ([source](https://doi.org/10.31223/x58b8c))
-- **2026-08-29** — news mention: Flux: Year-on-year improvements in crop yields for smallholder farmers In 2024, Flux applied… ([source](https://www.linkedin.com/company/flux-carbon/#post-e5a8e4834581))
-- **2026-08-29** — news mention: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
-- **2026-08-29** — news mention: Flux: Big things are happening across the Global South. In the past week alone: Kenya's… ([source](https://www.linkedin.com/company/flux-carbon/#post-52e2184f265a))
-- **2026-08-27** — news mention: Carbon Gap: Big news for ocean alkalinity enhancement (OAE): the Carbon to Sea Initiative has… ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-64171bebdfd1))
-- **2026-08-26** — news mention: Flux Carbon: Excited to announce that Flux has signed as a carbon removal supplier with… ([source](https://www.linkedin.com/company/flux-earth/#post-6a1ed2446405))
-- **2026-08-25** — news mention: Supplementary material to "A comparison of metrics for CO 2 uptake efficiency of regional ocean… ([source](https://doi.org/10.5194/egusphere-2026-4781-supplement))
-- **2026-08-25** — news mention: A comparison of metrics for CO 2 uptake efficiency of regional ocean alkalinity enhancement in an… ([source](https://doi.org/10.5194/egusphere-2026-4781))
-- **2026-08-22** — news mention: Emilia Jankowska just published the first field trial dosing live oysters with olivine for marine… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtnivj7tey2z))
-- **2026-08-22** — news mention: The Swiss Carbon Removal Platform: Big news for ocean alkalinity enhancement (OAE): the Carbon… ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-b3d591bbc5ef))
-- **2026-08-19** — news mention: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried… ([source](https://bsky.app/profile/dpaessler.bsky.social/post/3mtgruuzq4s2a))
+- **2026-10-30** — News: Settling-driven Rayleigh–Taylor instability in a pre-existing turbulent field ([source](https://doi.org/10.31223/x5jj8x))
+- **2026-10-26** — News: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based… ([source](https://cdrxiv.org/preprint/568))
+- **2026-10-24** — News: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency… ([source](https://doi.org/10.5194/egusphere-2026-5784))
+- **2026-10-12** — News: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in… ([source](https://doi.org/10.5281/zenodo.20088387))
+- **2026-10-12** — News: Measuring large-scale mCDR using a novel Atmospheric CO2 Perimeter Flux (ACPF) method ([source](https://doi.org/10.3389/fclim.2026.1941538))
+- **2026-10-10** — News: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
+- **2026-10-07** — News: UK Centre for Ecology & Hydrology: Protecting saltmarsh is vital for coastline communities. Great… ([source](https://www.linkedin.com/company/uk-centre-for-ecology-hydrology/#post-5501c43d879b))
+- **2026-10-06** — News: Frontiers | Measuring large-scale mCDR using a novel Atmospheric CO2 Perimeter Flux (ACPF) method ([source](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1941538/full))
+- **2026-10-05** — News: Flux Carbon: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners… ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
+- **2026-09-12** — News: Technical Methodology & Geothermal Formulation Specification: Bio-Encapsulated Dual-Action Ocean… ([source](https://doi.org/10.5281/zenodo.22393029))
+- **2026-09-12** — News: Laboratoire de Météorologie Dynamique: Is the global land carbon sink recovering after the 2023–2 ([source](https://www.linkedin.com/company/laboratoire-des-sciences-du-climat-et-de-l-environnement/#post-acd75d081fe2))
+- **2026-09-06** — News: Comment on egusphere-2026-4781 ([source](https://doi.org/10.5194/egusphere-2026-4781-rc1))
+- **2026-09-06** — News: Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting ([source](https://doi.org/10.70212/cdrxiv.2026533.v2))
+- **2026-09-05** — News: PyroCCS: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
+- **2026-09-05** — News: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
+- **2026-08-31** — News: Comment on egusphere-2026-4194 ([source](https://doi.org/10.5194/egusphere-2026-4194-rc1))
+- **2026-08-31** — News: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering… ([source](https://doi.org/10.31223/x58b8c))
+- **2026-08-29** — News: Flux: Year-on-year improvements in crop yields for smallholder farmers In 2024, Flux applied rock ([source](https://www.linkedin.com/company/flux-carbon/#post-e5a8e4834581))
+- **2026-08-29** — News: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
+- **2026-08-29** — News: Flux: Big things are happening across the Global South. In the past week alone: Kenya's Octavia ([source](https://www.linkedin.com/company/flux-carbon/#post-52e2184f265a))
+- **2026-08-27** — News: Carbon Gap: Big news for ocean alkalinity enhancement (OAE): the Carbon to Sea Initiative has… ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-64171bebdfd1))
+- **2026-08-26** — News: Flux Carbon: Excited to announce that Flux has signed as a carbon removal supplier with… ([source](https://www.linkedin.com/company/flux-earth/#post-6a1ed2446405))
+- **2026-08-25** — News: Supplementary material to "A comparison of metrics for CO 2 uptake efficiency of regional ocean… ([source](https://doi.org/10.5194/egusphere-2026-4781-supplement))
+- **2026-08-25** — News: A comparison of metrics for CO 2 uptake efficiency of regional ocean alkalinity enhancement in an… ([source](https://doi.org/10.5194/egusphere-2026-4781))
+- **2026-08-22** — News: Emilia Jankowska just published the first field trial dosing live oysters with olivine for marine… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtnivj7tey2z))
+- **2026-08-22** — News: The Swiss Carbon Removal Platform: Big news for ocean alkalinity enhancement (OAE): the Carbon to ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-b3d591bbc5ef))
+- **2026-08-19** — News: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried… ([source](https://bsky.app/profile/dpaessler.bsky.social/post/3mtgruuzq4s2a))
+- **2026-08-16** — News: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
+- **2026-08-15** — News: Tamu group: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
+- **2026-08-14** — News: PyroCCS: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled… ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
 
 ---
 

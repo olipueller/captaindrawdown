@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Czech Republic</td></tr>
   <tr><th>Website</th><td><a href="https://www.microchar.eu/" target="_blank" rel="noopener">https://www.microchar.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/microchar/" target="_blank" rel="noopener">microchar</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,19 +28,10 @@ MicroCHAR is a microgranular biochar-based soil conditioner/fertilizer developed
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.microchar.eu/en/microchar-en/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.microchar.eu/en/microchar-en/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.microchar.eu/en/microchar-en/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.microchar.eu/en/microchar-en/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.microchar.eu/en/microchar-en/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.microchar.eu/en/microchar-en/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

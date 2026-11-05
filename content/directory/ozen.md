@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Website</th><td><a href="https://ozen.pl/en/homepage/" target="_blank" rel="noopener">https://ozen.pl/en/homepage/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ozen-overseas/" target="_blank" rel="noopener">ozen-overseas</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,24 +30,17 @@ OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer in Wałcz operatin
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://nowa.ozen.pl/wp-content/uploads/2022/11/EBC-C-Sink_2021_OZEN.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://ozen.pl/en/homepage/))
-- **2026-04-19** — merged 1 duplicate(s): OZEN Sp. z o.o.
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=buyer_excluded liveliness= Suspect ([source](https://ozen.pl/en/homepage/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ozen-sp-z-o-o))
-- **** — merged duplicate: OZEN Sp. z o.o. (slug=ozen-sp-z-oo)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://ozen.pl/en/offer/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://nowa.ozen.pl/wp-content/uploads/2022/11/EBC-C-Sink_2021_OZEN.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://ozen.pl/en/homepage/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://ozen.pl/en/homepage/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://nowa.ozen.pl/wp-content/uploads/2022/11/EBC-C-Sink_2021_OZEN.pdf))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://ozen.pl/en/homepage/))
+- **2026-04-19** — Merged a duplicate entry: OZEN Sp. z o.o
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Biochar, buyer excluded, 🟠 Suspect ([source](https://ozen.pl/en/homepage/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/ozen-sp-z-o-o))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://ozen.pl/en/offer/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://nowa.ozen.pl/wp-content/uploads/2022/11/EBC-C-Sink_2021_OZEN.pdf))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://ozen.pl/en/homepage/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://ozen.pl/en/homepage/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Carba"
 layout: "single"
 type: "directory"
-description: "Carba uses a patented autothermal low-temperature pyrolysis (torrefaction) reactor to convert waste biomass into stable biochar, then buries it anoxically in landfills as alternate daily cover for"
+description: "Carba uses a patented autothermal low-temperature pyrolysis (torrefaction) reactor to convert waste biomass into stable biochar, then buries it anoxically in landfills as alternate daily cover for…"
 url: "/directory/carba/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carba.com/" target="_blank" rel="noopener">https://carba.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbainc/" target="_blank" rel="noopener">carbainc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -44,23 +44,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-01** — news mention: U.S. Bank ↔ Carba — biochar ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
-- **2026-10-10** — news mention: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's… ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
-- **2026-10-01** — news mention: Milkywire: Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes… ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
-- **2026-09-12** — news mention: As I understand it, Carba sold the biochar based CORCs to U.S. Bank for less than $100/tonne of… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvdarhk2j22n))
-- **2026-09-07** — news mention: Carba Inaugurates Molten Salt Reactor in Minnesota to Boost Biochar Efficiency and Yields &#8211… ([source](https://biochartoday.com/news/carba-inaugurates-molten-salt-reactor-in-minnesota-to-boost-biochar-efficiency-and-yields/))
-- **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
-- **2026-09-07** — news mention: U.S. Bank Makes Its First CDR Investment, Backing Carba’s Biochar Approach ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
-- **2026-09-05** — news mention: Carba: Carba is excited to share a carbon removal first with U.S. Bank . We are transforming urban… ([source](https://www.linkedin.com/company/carbainc/#post-e22be91dfa15))
-- **2026-09-05** — news mention: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-01** — News: U.S. Bank ↔ Carba — biochar ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
+- **2026-10-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's… ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
+- **2026-10-01** — News: Milkywire: Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes… ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-09-12** — News: As I understand it, Carba sold the biochar based CORCs to U.S. Bank for less than $100/tonne of… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvdarhk2j22n))
+- **2026-09-07** — News: Carba Inaugurates Molten Salt Reactor in Minnesota to Boost Biochar Efficiency and Yields &#8211… ([source](https://biochartoday.com/news/carba-inaugurates-molten-salt-reactor-in-minnesota-to-boost-biochar-efficiency-and-yields/))
+- **2026-09-07** — News: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry. Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
+- **2026-09-07** — News: U.S. Bank Makes Its First CDR Investment, Backing Carba’s Biochar Approach ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
+- **2026-09-05** — News: Carba: Carba is excited to share a carbon removal first with U.S. Bank . We are transforming urban… ([source](https://www.linkedin.com/company/carbainc/#post-e22be91dfa15))
+- **2026-09-05** — News: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carba.com/press/carba-announces-5-year-carbon-removal-credit-purchase-agreement-with-microsoft))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://carba.com/press/carba-raises-6m-investment-round))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

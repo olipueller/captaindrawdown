@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonity.ca/" target="_blank" rel="noopener">https://carbonity.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonity/" target="_blank" rel="noopener">carbonity</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,20 +29,14 @@ Carbonity is a joint venture equally owned by Airex Energy, Groupe Rémabec, and
 
 ## History
 
-- **2026-10-15** — liveliness: Suspect → Active ([source](https://airex-energy.com/carbonity-plant/))
-- **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
-- **2026-10-08** — news mention: Biochar Fertilizer Market to Reach USD 8.9 Billion by 2036, Australia - CAGR 17.0%, UK - CAGR… ([source](https://www.openpr.com/news/4655430/biochar-fertilizer-market-to-reach-usd-8-9-billion-by-2036))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-22** — liveliness: Moderate → Suspect ([source](https://airex-energy.com/carbonity-plant/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://airex-energy.com/carbonity-plant/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://airex-energy.com/carbonity-plant/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — Status Suspect → Active ([source](https://airex-energy.com/carbonity-plant/))
+- **2026-10-12** — News: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
+- **2026-10-08** — News: Biochar Fertilizer Market to Reach USD 8.9 Billion by 2036, Australia - CAGR 17.0%, UK - CAGR… ([source](https://www.openpr.com/news/4655430/biochar-fertilizer-market-to-reach-usd-8-9-billion-by-2036))
+- **2026-05-22** — Status Moderate → Suspect ([source](https://airex-energy.com/carbonity-plant/))
+- **2026-05-01** — Status Active → Moderate ([source](https://airex-energy.com/carbonity-plant/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
+- **2026-04-19** — Status Active → Moderate ([source](https://airex-energy.com/carbonity-plant/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

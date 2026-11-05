@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/salient-doc/" target="_blank" rel="noopener">salient-doc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -27,13 +27,11 @@ Salient Direct Ocean Capture (Salient DOC) is an early-stage startup pioneering 
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, liveliness
-- **2026-10-15** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://www.linkedin.com/company/salient-doc))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Suspect ([source](https://www.linkedin.com/in/arsalana/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/salient-doc))
+- **2026-10-15** — Status Moderate → Active
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟡 Moderate ([source](https://www.linkedin.com/company/salient-doc))
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟠 Suspect ([source](https://www.linkedin.com/in/arsalana/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/salient-doc))
 
 ---
 

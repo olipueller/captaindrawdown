@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocareprojects.com/" target="_blank" rel="noopener">https://www.biocareprojects.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocare-projects/" target="_blank" rel="noopener">biocare-projects</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -42,19 +42,15 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-06** — news mention: Biocare: Iâm proud to share our new publication, Quantifying Inertinite Carbon in Biochar… ([source](https://www.linkedin.com/company/biocare-projects/#post-50041fc3192d))
-- **2026-08-30** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in… ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-25** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in… ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))
-- **2026-07-25** — news mention: Biocare: I’m proud to share our new publication, Quantifying Inertinite Carbon in Biochar… ([source](https://www.linkedin.com/company/biocare-projects/#post-27ff7aa000b7))
-- **2026-07-25** — news mention: Biocare: Advancing Climate Solutions in Argentina Biocare Projects, in partnership with GMF… ([source](https://www.linkedin.com/company/biocare-projects/#post-214ddba4f507))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biocareprojects.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biocareprojects.com/post/biocare-launches-flagship-biochar-cdr-initiative-in-vietnam-s-mekong-delta))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biocareprojects.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-06** — News: Biocare: Iâm proud to share our new publication, Quantifying Inertinite Carbon in Biochar… ([source](https://www.linkedin.com/company/biocare-projects/#post-50041fc3192d))
+- **2026-08-30** — News: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in… ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
+- **2026-07-25** — News: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in… ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))
+- **2026-07-25** — News: Biocare: I’m proud to share our new publication, Quantifying Inertinite Carbon in Biochar… ([source](https://www.linkedin.com/company/biocare-projects/#post-27ff7aa000b7))
+- **2026-07-25** — News: Biocare: Advancing Climate Solutions in Argentina Biocare Projects, in partnership with GMF Natur ([source](https://www.linkedin.com/company/biocare-projects/#post-214ddba4f507))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.biocareprojects.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.biocareprojects.com/post/biocare-launches-flagship-biochar-cdr-initiative-in-vietnam-s-mekong-delta))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.biocareprojects.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

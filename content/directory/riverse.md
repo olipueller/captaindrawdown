@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.riverse.io/" target="_blank" rel="noopener">https://www.riverse.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riversetech/" target="_blank" rel="noopener">riversetech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,20 +30,15 @@ Riverse (rebranded as Rainbow Standard in 2025) is a French carbon credit certif
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-09-15** — refresh: screenshot
-- **2026-09-03** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is… ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
-- **2026-08-28** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200… ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))
-- **2026-08-22** — news mention: Climitra: remove continues its streak of CDR deals with a new pre-purchase agreement with… ([source](https://www.linkedin.com/company/climitra/#post-2f59fcf48eac))
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Moderate → Active
-- **2026-08-13** — news mention: Planboo: New Milestone alert! We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's… ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carbonherald.com/riverse-secures-5-6%D0%BC-%D1%82%D0%BE-expand-carbon-credit-platform/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.riverse.io/ ([source](https://www.cdr.fyi/supplier/riverse))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/riverse))
+- **2026-09-03** — News: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is… ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
+- **2026-08-28** — News: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200… ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))
+- **2026-08-22** — News: Climitra: remove continues its streak of CDR deals with a new pre-purchase agreement with… ([source](https://www.linkedin.com/company/climitra/#post-2f59fcf48eac))
+- **2026-08-15** — Status Moderate → Active
+- **2026-08-13** — News: Planboo: New Milestone alert! We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's… ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://carbonherald.com/riverse-secures-5-6%D0%BC-%D1%82%D0%BE-expand-carbon-credit-platform/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/riverse))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/riverse))
 
 ---
 

@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carboverte.de/" target="_blank" rel="noopener">https://carboverte.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboverte-gmbh/" target="_blank" rel="noopener">carboverte-gmbh</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,17 +29,13 @@ CarboVerte GmbH is a trading company of biochar-based products located in Eibens
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://carboverte.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carboverte.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carboverte.de/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://carboverte.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carboverte.de/kontakt))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biochar-zero.com/company/carboverte-gmbh/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://carboverte.de/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://carboverte.de/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carboverte.de/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://carboverte.de/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://carboverte.de/kontakt))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://biochar-zero.com/company/carboverte-gmbh/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

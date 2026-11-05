@@ -2,7 +2,7 @@
 title: "POET"
 layout: "single"
 type: "directory"
-description: "Captures biogenic CO2 from corn-ethanol fermentation at its bioprocessing plants and hands it off to third-party CO2 pipelines (Summit Carbon Solutions, Tallgrass Trailblazer) for permanent geologic"
+description: "Captures biogenic CO2 from corn-ethanol fermentation at its bioprocessing plants and hands it off to third-party CO2 pipelines (Summit Carbon Solutions, Tallgrass Trailblazer) for permanent geologic…"
 url: "/directory/poet/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://poet.com/" target="_blank" rel="noopener">https://poet.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/poet/" target="_blank" rel="noopener">poet</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,18 +29,14 @@ POET LLC is the world's largest bioethanol producer, headquartered in Sioux Fall
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-24** — news mention: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but… ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
-- **2026-07-02** — news mention: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
-- **2026-05-29** — news mention: It must be painful to share a story about a biofuels decarbonization project, but I know what a… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))
-- **2026-05-27** — news mention: The hidden innovation behind Antora’s massive new heat battery ([source](https://www.canarymedia.com/articles/energy-storage/innovation-antora-massive-heat-battery))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://poet.com/pr/poet-and-summit-carbon-solutions-announce-carbon-capture-partnership))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://poet.com/pr/poet-and-tallgrass-announce-collaboration-on-carbon-capture-project))
-- **2026-04-18** — reclassified: pathway=BECCS focus=review_needed liveliness= Active ([source](https://poet.com/sustainability))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-07-24** — News: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but… ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
+- **2026-07-02** — News: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
+- **2026-05-29** — News: It must be painful to share a story about a biofuels decarbonization project, but I know what a big ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))
+- **2026-05-27** — News: The hidden innovation behind Antora’s massive new heat battery ([source](https://www.canarymedia.com/articles/energy-storage/innovation-antora-massive-heat-battery))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://poet.com/pr/poet-and-summit-carbon-solutions-announce-carbon-capture-partnership))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://poet.com/pr/poet-and-tallgrass-announce-collaboration-on-carbon-capture-project))
+- **2026-04-18** — Classified as BECCS, review needed, 🟢 Active ([source](https://poet.com/sustainability))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

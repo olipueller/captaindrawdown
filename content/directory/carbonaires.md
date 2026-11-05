@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbonaires.com/" target="_blank" rel="noopener">https://carbonaires.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaires/" target="_blank" rel="noopener">carbonaires</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,22 +31,19 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has… ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
-- **2026-07-29** — news mention: Carbonaires: An Important Step on the Net Zero Journey: Shoosmiths commits to long term carbon… ([source](https://www.linkedin.com/company/carbonaires/#post-3edd310c1265))
-- **2026-07-22** — news mention: Carbonaires: Carbonaires has signed a five-year forward offtake agreement with Shoosmiths and HUSK… ([source](https://www.linkedin.com/company/carbonaires/#post-c8d95b52ff28))
-- **2026-07-22** — news mention: Carbonaires: Shoosmiths has signed a five-year agreement with Carbonaires to pre-purchase biochar… ([source](https://www.linkedin.com/company/carbonaires/#post-e0d88d0b6880))
-- **2026-07-10** — news mention: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
-- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year… ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
-- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
-- **2026-05-02** — news mention: This Week in CDR - May 1, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455979489584619520/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-30** — news mention: In A New RFP, Carbonaires To Bring Offtake-Backed Financing Into High-Quality Removals ([source](https://carbonherald.com/in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://carbonaires.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://carbonaires.com/ ([source](https://www.cdr.fyi/marketplace/carbonaires))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonaires))
+- **2026-07-29** — News: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has… ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
+- **2026-07-29** — News: Carbonaires: An Important Step on the Net Zero Journey: Shoosmiths commits to long term carbon… ([source](https://www.linkedin.com/company/carbonaires/#post-3edd310c1265))
+- **2026-07-22** — News: Carbonaires: Carbonaires has signed a five-year forward offtake agreement with Shoosmiths and HUSK… ([source](https://www.linkedin.com/company/carbonaires/#post-c8d95b52ff28))
+- **2026-07-22** — News: Carbonaires: Shoosmiths has signed a five-year agreement with Carbonaires to pre-purchase biochar… ([source](https://www.linkedin.com/company/carbonaires/#post-e0d88d0b6880))
+- **2026-07-10** — News: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
+- **2026-05-03** — News: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year… ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
+- **2026-05-03** — News: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
+- **2026-05-02** — News: This Week in CDR - May 1, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455979489584619520/))
+- **2026-04-30** — News: In A New RFP, Carbonaires To Bring Offtake-Backed Financing Into High-Quality Removals ([source](https://carbonherald.com/in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-carbonaires-to-bring-offtake-backed-financing-into-high-quality-removals))
+- **2026-04-19** — Status Moderate → Active
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://carbonaires.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/carbonaires))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/carbonaires))
 
 ---
 

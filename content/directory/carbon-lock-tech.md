@@ -2,7 +2,7 @@
 title: "Carbon Lock Tech"
 layout: "single"
 type: "directory"
-description: "Operates a patented continuous pyrolysis reactor that converts biomass and organic waste (food scraps, wood chips, cattails, crop residues) into stable biochar for sequestration and applications in"
+description: "Operates a patented continuous pyrolysis reactor that converts biomass and organic waste (food scraps, wood chips, cattails, crop residues) into stable biochar for sequestration and applications in…"
 url: "/directory/carbon-lock-tech/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonlocktech.com" target="_blank" rel="noopener">https://carbonlocktech.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonlocktech/" target="_blank" rel="noopener">carbonlocktech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,13 +30,9 @@ Carbon Lock Tech is a Manitoba-based cleantech start-up developing systems and p
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonlocktech.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonlocktech.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://carbonlocktech.com ([source](https://www.cdr.fyi/supplier/carbon-lock-tech))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-lock-tech))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbonlocktech.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/carbon-lock-tech))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/carbon-lock-tech))
 
 ---
 

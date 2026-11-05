@@ -2,7 +2,7 @@
 title: "Husk"
 layout: "single"
 type: "directory"
-description: "HUSK operates pyrolysis plants co-located with rice mills in Cambodia and Vietnam that convert rice-husk residue into EBC-certified biochar, which is formulated into carbon-based fertilizers for"
+description: "HUSK operates pyrolysis plants co-located with rice mills in Cambodia and Vietnam that convert rice-husk residue into EBC-certified biochar, which is formulated into carbon-based fertilizers for…"
 url: "/directory/husk/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.huskventures.com/" target="_blank" rel="noopener">https://www.huskventures.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/huskventures/" target="_blank" rel="noopener">huskventures</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,35 +29,30 @@ HUSK is a biochar producer headquartered in Singapore with operations in Cambodi
 
 ## History
 
-- **2026-10-24** — news mention: Pyrolysis temperature-induced changes in physicochemical properties of rice husk-derived biochar… ([source](https://doi.org/10.3389/feart.2026.1894009))
-- **2026-10-12** — news mention: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
-- **2026-10-07** — news mention: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))
-- **2026-10-04** — news mention: Safi Organics: We’re pleased to share that Safi Organics Ltd has registered with Isometric . Our… ([source](https://www.linkedin.com/company/safi-organics-ltd/#post-ef5e57b17308))
-- **2026-09-14** — news mention: Boosting Bean Yields: Coffee Husk Biochar and Fertilizer Benefits ([source](https://biochartoday.com/news/combining-five-tons-of-coffee-husk-biochar-with-one-hundred-fifty-kilograms-of-blended-fertilizer-boosts-common-bean-yields-by-seventy-six-percent/))
-- **2026-09-11** — news mention: How To Achieve Rice Hull Biochar Continuous Production ([source](https://www.pyrolysismachine.com/rice-hull-biochar-continuous-production/))
-- **2026-09-10** — news mention: Researchers at the Bangladesh Institute of Nuclear Agriculture (BINA) have introduced a new… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mv6hgc3mck2z))
-- **2026-09-10** — news mention: Boost Soil Health and Crop Yield with Rice Husk Biochar ([source](https://biochartoday.com/news/optimizing-rice-husk-biochar-application-rates-enhances-soil-carbon-sequestration-and-increases-wheat-yield-by-up-to-sixty-four-percent/?utm_source=bluesky&utm_medium=jetpack_social))
-- **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk.… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
-- **2026-08-31** — news mention: Physicochemical characteristics and carbon sequestration potential of biochar derived from… ([source](https://doi.org/10.14456/kaj.2026.66))
-- **2026-08-31** — news mention: Physicochemical Characterization of Biochar Derived from Agricultural Wastes for Sustainable… ([source](https://doi.org/10.5281/zenodo.22123730))
-- **2026-08-19** — news mention: Black Gold from the Fields: Obtaining Pyrolytic Biochar from Agricultural Wastes at Various… ([source](https://doi.org/10.46488/nept.2026.v25i03.b4409))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice… ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
-- **2026-08-05** — news mention: #biochar #carbonremoval #cdr #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7490393545430843394/))
-- **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has… ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
-- **2026-07-29** — news mention: Carbonaires: An Important Step on the Net Zero Journey: Shoosmiths commits to long term carbon… ([source](https://www.linkedin.com/company/carbonaires/#post-3edd310c1265))
-- **2026-07-22** — news mention: Carbonaires: Carbonaires has signed a five-year forward offtake agreement with Shoosmiths and HUSK… ([source](https://www.linkedin.com/company/carbonaires/#post-c8d95b52ff28))
-- **2026-07-22** — news mention: Carbonaires: Shoosmiths has signed a five-year agreement with Carbonaires to pre-purchase biochar… ([source](https://www.linkedin.com/company/carbonaires/#post-e0d88d0b6880))
-- **2026-07-19** — news mention: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and… ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
-- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
-- **2026-07-10** — news mention: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.atmosfair.de/en/cambodia-biochar-rice-husks/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.huskventures.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.huskventures.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-24** — News: Pyrolysis temperature-induced changes in physicochemical properties of rice husk-derived biochar… ([source](https://doi.org/10.3389/feart.2026.1894009))
+- **2026-10-12** — News: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
+- **2026-10-07** — News: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))
+- **2026-10-04** — News: Safi Organics: We’re pleased to share that Safi Organics Ltd has registered with Isometric . Our… ([source](https://www.linkedin.com/company/safi-organics-ltd/#post-ef5e57b17308))
+- **2026-09-14** — News: Boosting Bean Yields: Coffee Husk Biochar and Fertilizer Benefits ([source](https://biochartoday.com/news/combining-five-tons-of-coffee-husk-biochar-with-one-hundred-fifty-kilograms-of-blended-fertilizer-boosts-common-bean-yields-by-seventy-six-percent/))
+- **2026-09-11** — News: How To Achieve Rice Hull Biochar Continuous Production ([source](https://www.pyrolysismachine.com/rice-hull-biochar-continuous-production/))
+- **2026-09-10** — News: Researchers at the Bangladesh Institute of Nuclear Agriculture (BINA) have introduced a new biochar ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mv6hgc3mck2z))
+- **2026-09-10** — News: Boost Soil Health and Crop Yield with Rice Husk Biochar ([source](https://biochartoday.com/news/optimizing-rice-husk-biochar-application-rates-enhances-soil-carbon-sequestration-and-increases-wheat-yield-by-up-to-sixty-four-percent/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-06** — News: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk.… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
+- **2026-08-31** — News: Physicochemical characteristics and carbon sequestration potential of biochar derived from… ([source](https://doi.org/10.14456/kaj.2026.66))
+- **2026-08-31** — News: Physicochemical Characterization of Biochar Derived from Agricultural Wastes for Sustainable… ([source](https://doi.org/10.5281/zenodo.22123730))
+- **2026-08-19** — News: Black Gold from the Fields: Obtaining Pyrolytic Biochar from Agricultural Wastes at Various… ([source](https://doi.org/10.46488/nept.2026.v25i03.b4409))
+- **2026-08-07** — News: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice… ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
+- **2026-08-05** — News: #biochar #carbonremoval #cdr #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7490393545430843394/))
+- **2026-07-29** — News: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has… ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
+- **2026-07-29** — News: Carbonaires: An Important Step on the Net Zero Journey: Shoosmiths commits to long term carbon… ([source](https://www.linkedin.com/company/carbonaires/#post-3edd310c1265))
+- **2026-07-22** — News: Carbonaires: Carbonaires has signed a five-year forward offtake agreement with Shoosmiths and HUSK… ([source](https://www.linkedin.com/company/carbonaires/#post-c8d95b52ff28))
+- **2026-07-22** — News: Carbonaires: Shoosmiths has signed a five-year agreement with Carbonaires to pre-purchase biochar… ([source](https://www.linkedin.com/company/carbonaires/#post-e0d88d0b6880))
+- **2026-07-19** — News: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and… ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
+- **2026-07-13** — News: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
+- **2026-07-10** — News: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.atmosfair.de/en/cambodia-biochar-rice-husks/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.huskventures.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

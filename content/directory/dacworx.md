@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://dacworx.eu/" target="_blank" rel="noopener">https://dacworx.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dacworx/" target="_blank" rel="noopener">dacworx</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,27 +29,18 @@ DACworx is an Austrian direct air capture technology developer that co-designed 
 
 ## History
 
-- **2026-10-15** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-12** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
-- **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
-- **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
-- **2026-08-10** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
-- **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
-- **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dacworx.eu/))
-- **2026-04-19** — merged 1 duplicate(s): DACworx Engineering
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dacworx.eu/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/dacworx-engineering))
-- **** — merged duplicate: DACworx Engineering (slug=dacworx-engineering)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dacworx.eu/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://dacworx.eu/))
-- **2026-04-18** — discovered via: exa ([source](https://dacworx.eu/))
+- **2026-10-15** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
+- **2026-10-12** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
+- **2026-09-10** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
+- **2026-08-10** — News: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
+- **2026-08-10** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
+- **2026-08-03** — News: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
+- **2026-08-03** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://dacworx.eu/))
+- **2026-04-19** — Merged a duplicate entry: DACworx Engineering
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/dacworx-engineering))
+- **2026-04-18** — Classified as DAC, supplier, 🟡 Moderate ([source](https://dacworx.eu/))
+- **2026-04-18** — Added to the directory ([source](https://dacworx.eu/))
 
 ---
 

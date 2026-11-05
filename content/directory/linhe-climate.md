@@ -2,7 +2,7 @@
 title: "Linhe Climate"
 layout: "single"
 type: "directory"
-description: "Humidity-swing DAC using proprietary MSCCM ion-exchange resin (DABCO-based quaternary ammonium) plus modular flue-gas capture, with CO2 routed to utilization (greenhouse agriculture, EOR) and"
+description: "Humidity-swing DAC using proprietary MSCCM ion-exchange resin (DABCO-based quaternary ammonium) plus modular flue-gas capture, with CO2 routed to utilization (greenhouse agriculture, EOR) and…"
 url: "/directory/linhe-climate/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2loop.com" target="_blank" rel="noopener">https://www.co2loop.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/linhe-climate-science-technology-co-ltd/" target="_blank" rel="noopener">linhe-climate-science-technology-co-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,16 +31,11 @@ Linhe Climate Technology (霖和气候科技, Carbon Loop / co2loop) is a Beijin
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://thenextchina.com/beijing-based-climate-tech-startup-linhe-climate-technology-secures-multimillion-rmb-pre-series-a-funding/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.crunchbase.com/organization/linhe-climate-technology))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.co2loop.com/sy ([source](https://www.cdr.fyi/supplier/linhe))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/linhe))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://thenextchina.com/beijing-based-climate-tech-startup-linhe-climate-technology-secures-multimillion-rmb-pre-series-a-funding/))
+- **2026-04-19** — Classified as DAC, supplier, 🟡 Moderate ([source](https://www.crunchbase.com/organization/linhe-climate-technology))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/linhe))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/linhe))
 
 ---
 

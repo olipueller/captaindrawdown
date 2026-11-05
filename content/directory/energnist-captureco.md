@@ -2,7 +2,7 @@
 title: "Energnist CaptureCo"
 layout: "single"
 type: "directory"
-description: "Post-combustion amine-based CO2 capture retrofit on a municipal-waste incinerator, with pipeline transport, liquefaction at Esbjerg Harbour, and geological storage in the North Sea — the biogenic"
+description: "Post-combustion amine-based CO2 capture retrofit on a municipal-waste incinerator, with pipeline transport, liquefaction at Esbjerg Harbour, and geological storage in the North Sea — the biogenic…"
 url: "/directory/energnist-captureco/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://energnist.dk" target="_blank" rel="noopener">https://energnist.dk</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energnist/" target="_blank" rel="noopener">energnist</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -30,16 +30,10 @@ Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist,
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-07-25** — news mention: Energnist CaptureCo: Energnist har bestået den indledende vurdering hos Puro.earth ! Vi er stolte… ([source](https://www.linkedin.com/company/energnist/#post-1416cbf894ed))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
-- **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+- **2026-07-25** — News: Energnist CaptureCo: Energnist har bestået den indledende vurdering hos Puro.earth ! Vi er stolte… ([source](https://www.linkedin.com/company/energnist/#post-1416cbf894ed))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+- **2026-04-18** — Classified as BECCS, division, 🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+- **2026-04-18** — Added to the directory ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 
 ---
 

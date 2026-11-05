@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://norlights.com" target="_blank" rel="noopener">https://norlights.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -31,36 +31,36 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
-- **2026-10-29** — news mention: Northern Lights: The European CCS market continues to progress Last week, Sweden announced… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-14** — news mention: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
-- **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i… ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
-- **2026-09-23** — news mention: Northern Lights: Phase 2 update! Both Integrated Satellite Structures (ISS) for our Phase 2… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-01410c533921))
-- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
-- **2026-09-15** — news mention: Alfa Laval to supply heat exchangers for Swedish BECCS facility ([source](https://www.energymonitor.ai/news/alfa-laval-supply-heat-exchangers-beccs/))
-- **2026-09-04** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu Today… ([source](https://www.linkedin.com/company/sirona-technologies/#post-5123ad5ad006))
-- **2026-09-03** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-9f7f11b59ecd))
-- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãatre dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
-- **2026-08-19** — news mention: Northern Lights: Two new subsea satellite structures for Northern Lights are ready to leave Aker… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-2edd0005770a))
-- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
-- **2026-08-07** — news mention: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands?… ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
-- **2026-08-05** — news mention: Northern Lights: The CO2 carrier Northern Purpose has arrived in Norway! With the arrival we have… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
-- **2026-07-30** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu ð… ([source](https://www.linkedin.com/company/sirona-technologies/#post-d38e0fce9cd8))
-- **2026-07-29** — news mention: Northern Lights: A pleasure to welcome CINEA to Øygarden! Just over a year after Northern Lights… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-ba76027e3acb))
-- **2026-07-29** — news mention: Northern Lights: Today, Northern Lights is permanently storing CO2 captured by Heidelberg… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
-- **2026-07-28** — news mention: Bordet: Puro.earth has certified the world's first permanent carbon removal from biogas… ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-5254139ed902))
-- **2026-07-28** — news mention: Puro: Puro.earth has certified the world's first permanent carbon removal from biogas production.… ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-95f4c6dcebac))
-- **2026-07-27** — news mention: Inherit: We have delivered 1,000 tonnes of CO2 to Northern Lights JV for permanent storage under… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-95c1548d5aa9))
-- **2026-07-27** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e756bfd2d05b))
-- **2026-07-25** — news mention: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
-- **2026-07-24** — news mention: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
-- **2026-07-22** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu Today… ([source](https://www.linkedin.com/company/sirona-technologies/#post-5a5429a47743))
-- **2026-07-21** — news mention: Northern Lights: This short timelapse captures the progress of Northern Lights Phase 2 in… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-6fdc01174fbb))
-- **2026-06-04** — news mention: MISC And K LINE Secure Second Northern Lights Charter For CO2 Carrier ([source](https://carbonherald.com/misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
+- **2026-10-29** — News: Northern Lights: The European CCS market continues to progress Last week, Sweden announced SEK ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
+- **2026-10-14** — News: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
+- **2026-10-06** — News: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallands ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
+- **2026-09-23** — News: Northern Lights: Phase 2 update! Both Integrated Satellite Structures (ISS) for our Phase 2… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-01410c533921))
+- **2026-09-19** — News: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
+- **2026-09-15** — News: Alfa Laval to supply heat exchangers for Swedish BECCS facility ([source](https://www.energymonitor.ai/news/alfa-laval-supply-heat-exchangers-beccs/))
+- **2026-09-04** — News: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu Today… ([source](https://www.linkedin.com/company/sirona-technologies/#post-5123ad5ad006))
+- **2026-09-03** — News: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-9f7f11b59ecd))
+- **2026-08-23** — News: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãatre dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
+- **2026-08-19** — News: Northern Lights: Two new subsea satellite structures for Northern Lights are ready to leave Aker… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-2edd0005770a))
+- **2026-08-16** — News: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
+- **2026-08-07** — News: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
+- **2026-08-05** — News: Northern Lights: The CO2 carrier Northern Purpose has arrived in Norway! With the arrival we have… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
+- **2026-07-30** — News: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu ð… ([source](https://www.linkedin.com/company/sirona-technologies/#post-d38e0fce9cd8))
+- **2026-07-29** — News: Northern Lights: A pleasure to welcome CINEA to Øygarden! Just over a year after Northern Lights… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-ba76027e3acb))
+- **2026-07-29** — News: Northern Lights: Today, Northern Lights is permanently storing CO2 captured by Heidelberg Materials ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
+- **2026-07-28** — News: Bordet: Puro.earth has certified the world's first permanent carbon removal from biogas production. ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-5254139ed902))
+- **2026-07-28** — News: Puro: Puro.earth has certified the world's first permanent carbon removal from biogas production.… ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-95f4c6dcebac))
+- **2026-07-27** — News: Inherit: We have delivered 1,000 tonnes of CO2 to Northern Lights JV for permanent storage under… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-95c1548d5aa9))
+- **2026-07-27** — News: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e756bfd2d05b))
+- **2026-07-25** — News: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
+- **2026-07-24** — News: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
+- **2026-07-22** — News: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu Today… ([source](https://www.linkedin.com/company/sirona-technologies/#post-5a5429a47743))
+- **2026-07-21** — News: Northern Lights: This short timelapse captures the progress of Northern Lights Phase 2 in Øygarden. ([source](https://www.linkedin.com/company/northern-lights-jv/#post-6fdc01174fbb))
+- **2026-06-04** — News: MISC And K LINE Secure Second Northern Lights Charter For CO2 Carrier ([source](https://carbonherald.com/misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier))
+- **2026-04-24** — News: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
+- **2026-04-24** — News: Northern Lights Expands CO2 Shipping Fleet With Third Carrier https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
+- **2026-04-24** — News: The pivot: buyers needing hard-to-abate residual tonnes are routing around the cracked layer.… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7qslll7d2u))
+- **2026-04-23** — News: Northern Lights Expands CO2 Shipping Fleet With Third Carrier ([source](https://carbonherald.com/northern-lights-expands-co2-shipping-fleet-with-third-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-expands-co2-shipping-fleet-with-third-carrier))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://www.equinor.com/news/20250825-first-co2-volumes-stored-at-northern-lights))
 
 ---
 

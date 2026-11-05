@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://alcomcm.com" target="_blank" rel="noopener">https://alcomcm.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcom-pte-ltd/" target="_blank" rel="noopener">alcom-pte-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-06-09</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2027-06-09</small></td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-06-09)</small></td></tr>
@@ -44,26 +44,18 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-10-12** — news mention: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
-- **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk.… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://alcomcm.com/project/nuevachar/))
-- **2026-04-19** — merged 1 duplicate(s): Alcom
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://cleantechnica.com/2026/02/09/altitude-partners-with-alcom-for-360-000t-carbon-removals/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.alcomsg.com/carbon-removal))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.alcomsg.com/carbon-removal))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Alcom (slug=alcom)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://alcomcm.com/about/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://alcomcm.com ([source](https://www.cdr.fyi/supplier/alcom-carbon-markets))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/alcom-carbon-markets))
+- **2026-10-12** — News: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
+- **2026-09-06** — News: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk.… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
+- **2026-05-01** — Status Moderate → Active
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://alcomcm.com/project/nuevachar/))
+- **2026-04-19** — Merged a duplicate entry: Alcom
+- **2026-04-19** — Status Active → Moderate ([source](https://cleantechnica.com/2026/02/09/altitude-partners-with-alcom-for-360-000t-carbon-removals/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.alcomsg.com/carbon-removal))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://alcomcm.com/about/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/alcom-carbon-markets))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/alcom-carbon-markets))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Ocean Frontier Institute"
 layout: "single"
 type: "directory"
-description: "Academic research institute running marine CDR science programs (CONVERGE CDR, North Atlantic Carbon Observatory) covering ocean alkalinity enhancement, iron fertilization, seaweed, and direct ocean"
+description: "Academic research institute running marine CDR science programs (CONVERGE CDR, North Atlantic Carbon Observatory) covering ocean alkalinity enhancement, iron fertilization, seaweed, and direct ocean…"
 url: "/directory/ocean-frontier-institute/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.ofi.ca/" target="_blank" rel="noopener">https://www.ofi.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-frontier-institute/" target="_blank" rel="noopener">ocean-frontier-institute</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -35,14 +35,8 @@ The Ocean Frontier Institute (OFI) is a non-profit research and higher education
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness= Active ([source](https://www.ofi.ca/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness= Active ([source](https://www.ofi.ca/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Ocean CDR, ecosystem, 🟢 Active ([source](https://www.ofi.ca/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

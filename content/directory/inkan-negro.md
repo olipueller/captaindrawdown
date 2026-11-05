@@ -2,7 +2,7 @@
 title: "Inkan Negro"
 layout: "single"
 type: "directory"
-description: "Produces biochar soil amendments by pyrolyzing urban green and agricultural biomass waste in custom-designed kilns, applied for soil fertility, water/fertilizer efficiency, and heavy-metal"
+description: "Produces biochar soil amendments by pyrolyzing urban green and agricultural biomass waste in custom-designed kilns, applied for soil fertility, water/fertilizer efficiency, and heavy-metal…"
 url: "/directory/inkan-negro/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Peru</td></tr>
   <tr><th>Website</th><td><a href="https://inkannegro.com/" target="_blank" rel="noopener">https://inkannegro.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkan-negro/" target="_blank" rel="noopener">inkan-negro</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-09-30</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2027-09-30</small></td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-09-30)</small></td></tr>
@@ -38,18 +38,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-11** — liveliness: Likely Dead → Active ([source](https://www.biocareprojects.com/post/inkan-negro))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.biocareprojects.com/post/inkan-negro))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://inkannegro.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://inkannegro.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.biocareprojects.com/post/inkan-negro))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://inkannegro.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://inkannegro.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-11** — Status Likely Dead → Active ([source](https://www.biocareprojects.com/post/inkan-negro))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.biocareprojects.com/post/inkan-negro))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://inkannegro.com/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.biocareprojects.com/post/inkan-negro))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://inkannegro.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

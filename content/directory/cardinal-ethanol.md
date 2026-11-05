@@ -2,7 +2,7 @@
 title: "Cardinal Ethanol"
 layout: "single"
 type: "directory"
-description: "Corn-ethanol plant whose biogenic fermentation CO2 will be captured and injected into a deep saline formation (Mt. Simon Sandstone) via a Class VI well operated by the Vault 44.01 JV, One Carbon"
+description: "Corn-ethanol plant whose biogenic fermentation CO2 will be captured and injected into a deep saline formation (Mt."
 url: "/directory/cardinal-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cardinalethanol.com/" target="_blank" rel="noopener">https://www.cardinalethanol.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cardinal-ethanol-llc/" target="_blank" rel="noopener">cardinal-ethanol-llc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,15 +29,11 @@ Cardinal Ethanol is an Indiana-based corn ethanol producer (roughly 135-140 mill
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-07-04** — news mention: First Indiana Carbon Capture And Storage Project Approved, 44.01 Begins Development ([source](https://carbonherald.com/first-indiana-carbon-capture-and-storage-project-approved/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.epa.gov/newsreleases/epa-approves-carbon-storage-permit-randolph-county-indiana))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-07-04** — News: First Indiana Carbon Capture And Storage Project Approved, 44.01 Begins Development ([source](https://carbonherald.com/first-indiana-carbon-capture-and-storage-project-approved/))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.epa.gov/newsreleases/epa-approves-carbon-storage-permit-randolph-county-indiana))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ebbcarbon.com/" target="_blank" rel="noopener">https://www.ebbcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebb-carbon/" target="_blank" rel="noopener">ebb-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,23 +30,19 @@ Ebb Carbon is a South San Francisco-based marine CDR pure-play that integrates b
 
 ## History
 
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-08-31** — news mention: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models… ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
-- **2026-08-27** — news mention: Ebb Carbon: New research in Frontiers in Climate, led by Monash University's Water Studies Centre… ([source](https://www.linkedin.com/company/ebb-carbon/#post-19ea1d489ee5))
-- **2026-08-25** — news mention: New Study Maps Out Suitable OAE Deployment Sites In Australia ([source](https://carbonherald.com/new-study-maps-out-suitable-oae-deployment-sites-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=new-study-maps-out-suitable-oae-deployment-sites-in-australia))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals EU consultation on… ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
-- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that… ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
-- **2026-05-01** — liveliness: Moderate → Active ([source](registry_activity))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20251210046603/en/Ebb-signs-initial-carbon-removal-offtake-agreement-with-Google-to-accelerate-innovation-for-ocean-alkalinity-enhancement))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.ebbcarbon.com/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20251210046603/en/Ebb-signs-initial-carbon-removal-offtake-agreement-with-Google-to-accelerate-innovation-for-ocean-alkalinity-enhancement))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-08-31** — News: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models… ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
+- **2026-08-27** — News: Ebb Carbon: New research in Frontiers in Climate, led by Monash University's Water Studies Centre… ([source](https://www.linkedin.com/company/ebb-carbon/#post-19ea1d489ee5))
+- **2026-08-25** — News: New Study Maps Out Suitable OAE Deployment Sites In Australia ([source](https://carbonherald.com/new-study-maps-out-suitable-oae-deployment-sites-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=new-study-maps-out-suitable-oae-deployment-sites-in-australia))
+- **2026-05-11** — News: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
+- **2026-05-11** — News: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that… ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
+- **2026-05-01** — Status Moderate → Active ([source](registry_activity))
+- **2026-05-01** — Status Active → Moderate ([source](registry_activity))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.businesswire.com/news/home/20251210046603/en/Ebb-signs-initial-carbon-removal-offtake-agreement-with-Google-to-accelerate-innovation-for-ocean-alkalinity-enhancement))
+- **2026-04-19** — Status Active → Moderate ([source](registry_activity))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.ebbcarbon.com/))
+- **2026-04-18** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.businesswire.com/news/home/20251210046603/en/Ebb-signs-initial-carbon-removal-offtake-agreement-with-Google-to-accelerate-innovation-for-ocean-alkalinity-enhancement))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

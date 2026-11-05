@@ -2,7 +2,7 @@
 title: "Arigna Fuels"
 layout: "single"
 type: "directory"
-description: "Operates a ~70,000 tpa pyrolysis plant in Co. Roscommon producing biochar from biomass feedstocks, used both as soil amendment/carbon sequestration and as input to their Harvest Flame renewable solid"
+description: "Operates a ~70,000 tpa pyrolysis plant in Co. Roscommon producing biochar from biomass feedstocks, used both as soil amendment/carbon sequestration and as input to their Harvest Flame renewable solid…"
 url: "/directory/arigna-fuels/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
@@ -13,7 +13,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://arignafuels.ie/" target="_blank" rel="noopener">https://arignafuels.ie/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,18 +27,13 @@ Arigna Fuels is a fifth-generation Irish family-run solid fuel manufacturer (par
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-22** — refresh: liveliness
-- **2026-05-22** — liveliness: Moderate → Suspect ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://arignafuels.ie/biochar/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://arigna-group.com/transitioning-from-black-to-green/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://arignafuels.ie/biochar/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-22** — Status Moderate → Suspect ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://arignafuels.ie/biochar/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://arigna-group.com/transitioning-from-black-to-green/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://arignafuels.ie/biochar/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://cquestr8.com/" target="_blank" rel="noopener">https://cquestr8.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,16 +29,12 @@ Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-base
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: Suspect → Likely Dead ([source](https://tracxn.com/d/companies/cquestr8/__-CnabcR4rjj-Os9fSTPr1Y5FIO4CZhqgFxcA9mJMs3Q))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Suspect ([source](https://tracxn.com/d/companies/cquestr8/__-CnabcR4rjj-Os9fSTPr1Y5FIO4CZhqgFxcA9mJMs3Q))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Moderate ([source](https://cquestr8.com/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Suspect → Likely Dead ([source](https://tracxn.com/d/companies/cquestr8/__-CnabcR4rjj-Os9fSTPr1Y5FIO4CZhqgFxcA9mJMs3Q))
+- **2026-05-01** — Status Moderate → Suspect ([source](https://tracxn.com/d/companies/cquestr8/__-CnabcR4rjj-Os9fSTPr1Y5FIO4CZhqgFxcA9mJMs3Q))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟡 Moderate ([source](https://cquestr8.com/))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
+- **2026-04-18** — Classified as Mineralization, supplier, 🟠 Suspect ([source](https://find-and-update.company-information.service.gov.uk/company/12990074))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

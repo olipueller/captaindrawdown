@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.remova.earth/" target="_blank" rel="noopener">https://www.remova.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remova-carbon-systems/" target="_blank" rel="noopener">remova-carbon-systems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,30 +29,23 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
-- **2026-10-16** — news mention: Ceezer: CEEZER is supporting Gevo, Inc. in its first multi-year supply agreement for its BECCS… ([source](https://www.linkedin.com/company/ceezer/#post-f95293c64f99))
-- **2026-10-04** — news mention: Remova: Today weâre announcing that Frontier has raised an additional $915M for carbon removal… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e06a045ec830))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-03** — news mention: Remova: We want to sincerely congratulate the team at Frontier for the hard work and foresight… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-98e9d1dfa5de))
-- **2026-07-27** — news mention: Remova: Today we’re announcing that Frontier has raised an additional $915M for carbon removal… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e3e7a0ff2985))
-- **2026-07-26** — news mention: Canadian Wollastonite: Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5… ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
-- **2026-07-22** — news mention: Carbon Business Council: Today, the European Commission released its landmark EU ETS reform, and… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-8502f867e04a))
-- **2026-07-15** — liveliness: Moderate → Active
-- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://decarbonfuse.com/posts/remova-selects-mangrove-systems-for-digital-mrv-to-support-alberta-beccs-facility))
-- **2026-04-19** — merged 1 duplicate(s): Remova Carbon Systems
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Moderate ([source](https://www.remova.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.remova.earth ([source](https://www.cdr.fyi/supplier/remova-carbon-systems))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/remova-carbon-systems))
-- **** — merged duplicate: Remova Carbon Systems (slug=remova-carbon-systems)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://decarbonfuse.com/posts/remova-selects-mangrove-systems-for-digital-mrv-to-support-alberta-beccs-facility))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.remova.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-16** — News: Ceezer: CEEZER is supporting Gevo, Inc. in its first multi-year supply agreement for its BECCS… ([source](https://www.linkedin.com/company/ceezer/#post-f95293c64f99))
+- **2026-10-04** — News: Remova: Today weâre announcing that Frontier has raised an additional $915M for carbon removal… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e06a045ec830))
+- **2026-08-03** — News: Remova: We want to sincerely congratulate the team at Frontier for the hard work and foresight… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-98e9d1dfa5de))
+- **2026-07-27** — News: Remova: Today we’re announcing that Frontier has raised an additional $915M for carbon removal… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e3e7a0ff2985))
+- **2026-07-26** — News: Canadian Wollastonite: Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5… ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
+- **2026-07-22** — News: Carbon Business Council: Today, the European Commission released its landmark EU ETS reform, and… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-8502f867e04a))
+- **2026-07-15** — Status Moderate → Active
+- **2026-06-24** — News: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://decarbonfuse.com/posts/remova-selects-mangrove-systems-for-digital-mrv-to-support-alberta-beccs-facility))
+- **2026-04-19** — Merged a duplicate entry: Remova Carbon Systems
+- **2026-04-19** — Classified as BECCS, supplier, 🟡 Moderate ([source](https://www.remova.earth/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/remova-carbon-systems))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/remova-carbon-systems))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-18** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.remova.earth/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

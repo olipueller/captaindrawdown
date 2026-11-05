@@ -2,7 +2,7 @@
 title: "Atmoz Restore AB"
 layout: "single"
 type: "directory"
-description: "Carbon-credit brokerage/reseller: curates a portfolio of third-party removal and avoidance projects (biochar, boreal forestry, cookstoves) and retires credits on behalf of corporate clients through"
+description: "Carbon-credit brokerage/reseller: curates a portfolio of third-party removal and avoidance projects (biochar, boreal forestry, cookstoves) and retires credits on behalf of corporate clients through…"
 url: "/directory/atmoz-restore-ab/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.atmozrestore.earth/" target="_blank" rel="noopener">https://www.atmozrestore.earth/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,11 +29,9 @@ Atmoz Restore AB is the carbon-credit/offset arm of the Swedish Atmoz group (par
 
 ## History
 
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.atmozrestore.earth/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/atmoz-restore-ab))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.atmozrestore.earth/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/atmoz-restore-ab))
 
 ---
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbon.co.kr/en/" target="_blank" rel="noopener">https://www.lowcarbon.co.kr/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8/" target="_blank" rel="noopener">%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,22 +31,18 @@ LowCarbon is a South Korean climate-tech company founded in 2016 in Gangjin Coun
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
-- **2026-07-22** — news mention: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science… ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
-- **2026-07-22** — news mention: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete… ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.lowcarbon.co.kr/en/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.koreaherald.com/article/10570835))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.lowcarbon.co.kr/en/business/weather/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://daccoalition.org/dac-company-members-directory/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
+- **2026-07-22** — News: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science… ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
+- **2026-07-22** — News: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete… ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.lowcarbon.co.kr/en/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.koreaherald.com/article/10570835))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.lowcarbon.co.kr/en/business/weather/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://daccoalition.org/dac-company-members-directory/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

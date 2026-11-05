@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.oceanidmrv.com/" target="_blank" rel="noopener">https://www.oceanidmrv.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,11 +29,10 @@ Oceanid MRV (Oceanid Climate and Carbon Solutions) is a US-based public benefit 
 
 ## History
 
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://www.oceanidmrv.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.oceanidccs.com/ ([source](https://www.cdr.fyi/marketplace/oceanid-mrv))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/oceanid-mrv))
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟠 Suspect ([source](https://www.oceanidmrv.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/oceanid-mrv))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/oceanid-mrv))
 
 ---
 

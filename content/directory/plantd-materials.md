@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.plantdmaterials.com/" target="_blank" rel="noopener">https://www.plantdmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/plantdmaterials/" target="_blank" rel="noopener">plantdmaterials</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,18 +34,12 @@ Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivate
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-03** — news mention: Plantd Materials: Today, Plantd is expanding beyond structural building panels with the launch of… ([source](https://www.linkedin.com/company/plantdmaterials/#post-62837e807e09))
-- **2026-08-20** — news mention: Plantd Materials: Plantd built a fully electric production line that turns fast-growing grass into… ([source](https://www.linkedin.com/company/plantdmaterials/#post-4fac16a1e079))
-- **2026-07-22** — news mention: Plantd Materials: Eight townhomes in #Charlotte will be a proof point for strategic relationships… ([source](https://www.linkedin.com/company/plantdmaterials/#post-4ad9357a19f9))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.plantdmaterials.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-03** — News: Plantd Materials: Today, Plantd is expanding beyond structural building panels with the launch of… ([source](https://www.linkedin.com/company/plantdmaterials/#post-62837e807e09))
+- **2026-08-20** — News: Plantd Materials: Plantd built a fully electric production line that turns fast-growing grass into… ([source](https://www.linkedin.com/company/plantdmaterials/#post-4fac16a1e079))
+- **2026-07-22** — News: Plantd Materials: Eight townhomes in #Charlotte will be a proof point for strategic relationships… ([source](https://www.linkedin.com/company/plantdmaterials/#post-4ad9357a19f9))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.plantdmaterials.com/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.ncbiotech.org/news/plantd-raises-22m-develop-green-building-materials))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

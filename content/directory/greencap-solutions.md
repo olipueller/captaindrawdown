@@ -2,7 +2,7 @@
 title: "GreenCap Solutions"
 layout: "single"
 type: "directory"
-description: "Patented zeolite solid-sorbent adsorption DAC with physical (non-chemical) CO₂ capture, using dehumidified air and heat-driven desorption, applied to greenhouses, industrial CO₂-free air, and"
+description: "Patented zeolite solid-sorbent adsorption DAC with physical (non-chemical) CO₂ capture, using dehumidified air and heat-driven desorption, applied to greenhouses, industrial CO₂-free air, and…"
 url: "/directory/greencap-solutions/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://greencap-solutions.com/" target="_blank" rel="noopener">https://greencap-solutions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencap-solutions-as/" target="_blank" rel="noopener">greencap-solutions-as</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,22 +33,15 @@ GreenCap Solutions AS is a Norwegian environmental technology company developing
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-08-07** — news mention: GreenCap Solutions AS: Off we go into the outside world! ð ð¢ GreenCap Solutions AS Solutions… ([source](https://www.linkedin.com/company/greencap-solutions-as/#post-2e19614d0558))
-- **2026-07-24** — news mention: GreenCap Solutions AS: Off we go into the outside world! GreenCap Solutions AS Solutions has… ([source](https://www.linkedin.com/company/greencap-solutions-as/#post-64881037baf0))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://greencap-solutions.com/))
-- **2026-04-19** — merged 1 duplicate(s): GreenCap Solutions AS
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://greencap-solutions.com/direct-air-capture/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://greencap-solutions.com/ ([source](https://www.cdr.fyi/supplier/greencap-solutions-as))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/greencap-solutions-as))
-- **** — merged duplicate: GreenCap Solutions AS (slug=greencap-solutions-as)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://greencap-solutions.com/direct-air-capture/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.gasworld.com/story/norway-demo-explores-carbon-capture-in-aluminium-production/2164258.article/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-07** — News: GreenCap Solutions AS: Off we go into the outside world! ð ð¢ GreenCap Solutions AS Solutions… ([source](https://www.linkedin.com/company/greencap-solutions-as/#post-2e19614d0558))
+- **2026-07-24** — News: GreenCap Solutions AS: Off we go into the outside world! GreenCap Solutions AS Solutions has… ([source](https://www.linkedin.com/company/greencap-solutions-as/#post-64881037baf0))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://greencap-solutions.com/))
+- **2026-04-19** — Merged a duplicate entry: GreenCap Solutions AS
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://greencap-solutions.com/direct-air-capture/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/greencap-solutions-as))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/greencap-solutions-as))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.gasworld.com/story/norway-demo-explores-carbon-capture-in-aluminium-production/2164258.article/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

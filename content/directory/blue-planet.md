@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueplanetsystems.com/" target="_blank" rel="noopener">https://www.blueplanetsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueplanetsystems/" target="_blank" rel="noopener">blueplanetsystems</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,36 +30,30 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 
 ## History
 
-- **2026-11-02** — news mention: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-fccf424abe30))
-- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
-- **2026-10-10** — news mention: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanetsystems/#post-6cf3bbf0cee5))
-- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business… ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
-- **2026-09-19** — news mention: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-7e7f4ea7b09b))
-- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-09-05** — news mention: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanetsystems/#post-769a77036cc1))
-- **2026-09-04** — news mention: International Carbon Registry (ICR): We’re pleased to announce the launch of the public… ([source](https://www.linkedin.com/company/international-carbon-registry/#post-be4427b81b39))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-07** — news mention: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-769a77036cc1))
-- **2026-07-31** — news mention: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-fd4056435ef4))
-- **2026-07-15** — liveliness: Moderate → Active ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
-- **2026-07-02** — news mention: In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Carbon Dioxide (CO2)… ([source](https://www.openpr.com/news/4566422/in-depth-examination-of-segments-industry-trends-and-key))
-- **2026-06-15** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.blueplanetsystems.com/news))
-- **2026-04-19** — merged 1 duplicate(s): Blue Planet Systems
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.blueplanetsystems.com))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/blue-planet-systems))
-- **** — merged duplicate: Blue Planet Systems (slug=blue-planet-systems)
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.blueplanetsystems.com/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.blueplanetsystems.com/))
+- **2026-11-02** — News: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-fccf424abe30))
+- **2026-10-27** — News: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-10** — News: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanetsystems/#post-6cf3bbf0cee5))
+- **2026-09-22** — News: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business… ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
+- **2026-09-19** — News: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-7e7f4ea7b09b))
+- **2026-09-18** — News: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-09-05** — News: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanetsystems/#post-769a77036cc1))
+- **2026-09-04** — News: International Carbon Registry (ICR): We’re pleased to announce the launch of the public… ([source](https://www.linkedin.com/company/international-carbon-registry/#post-be4427b81b39))
+- **2026-08-07** — News: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-769a77036cc1))
+- **2026-07-31** — News: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-fd4056435ef4))
+- **2026-07-15** — Status Moderate → Active ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
+- **2026-07-02** — News: In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Carbon Dioxide (CO2)… ([source](https://www.openpr.com/news/4566422/in-depth-examination-of-segments-industry-trends-and-key))
+- **2026-06-15** — Status Active → Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
+- **2026-05-01** — Status Moderate → Active ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
+- **2026-05-01** — Status Active → Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.blueplanetsystems.com/news))
+- **2026-04-19** — Merged a duplicate entry: Blue Planet Systems
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.blueplanetsystems.com))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/blue-planet-systems))
+- **2026-04-19** — Status Active → Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.blueplanetsystems.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

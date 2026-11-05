@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.a-p-d.ch/" target="_blank" rel="noopener">https://www.a-p-d.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apd-auen-pflege-dienst-ag/" target="_blank" rel="noopener">apd-auen-pflege-dienst-ag</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,23 +28,16 @@ APD (Auen Pflege Dienst AG) is a Swiss landscape-services company in Flaach, Zü
 
 ## History
 
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.a-p-d.ch/pflanzenkohle))
-- **2026-04-19** — merged 1 duplicate(s): Auen Pflege Dienst APD Flaach
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.a-p-d.ch/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.a-p-d.ch/ ([source](https://www.cdr.fyi/supplier/auen-pflege-dienst-apd-flaach))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/auen-pflege-dienst-apd-flaach))
-- **** — merged duplicate: Auen Pflege Dienst APD Flaach (slug=auen-pflege-dienst-apd-flaach)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.a-p-d.ch/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.a-p-d.ch/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.a-p-d.ch/pflanzenkohle))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.a-p-d.ch/pflanzenkohle))
+- **2026-04-19** — Merged a duplicate entry: Auen Pflege Dienst APD Flaach
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.a-p-d.ch/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/auen-pflege-dienst-apd-flaach))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/auen-pflege-dienst-apd-flaach))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.a-p-d.ch/pflanzenkohle))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.cler-verts.fr" target="_blank" rel="noopener">https://www.cler-verts.fr</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cler-verts/" target="_blank" rel="noopener">cler-verts</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,22 +30,18 @@ CLER VERTS is an organic waste valorization group established in Occitanie, Fran
 
 ## History
 
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
-- **2026-08-14** — news mention: Cler-Verts: Une nouvelle avancée pour notre filière biochar ! Notre unité de production de… ([source](https://www.linkedin.com/company/cler-verts/#post-78924112fe52))
-- **2026-08-07** — news mention: Cler-Verts: ð£ðð§ð ð§ð ̈ð®ð ̄ðð¥ð¥ð ðð ̄ðð§ððÌð… ([source](https://www.linkedin.com/company/cler-verts/#post-59cdd4500e4f))
-- **2026-07-31** — news mention: Cler-Verts: ðï ̧ ðð§ð ð§ð ̈ð®ð ̄ðð¥ð¥ð ðð ̄ðð§ððÌð… ([source](https://www.linkedin.com/company/cler-verts/#post-c30dbcab7b30))
-- **2026-06-15** — liveliness: Active → Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.cler-verts.fr/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.cler-verts.fr/actualites-liste/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.cler-verts.fr/actualites-liste/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Suspect → Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-08-14** — News: Cler-Verts: Une nouvelle avancée pour notre filière biochar ! Notre unité de production de… ([source](https://www.linkedin.com/company/cler-verts/#post-78924112fe52))
+- **2026-08-07** — News: Cler-Verts: ð£ðð§ð ð§ð ̈ð®ð ̄ðð¥ð¥ð ðð ̄ðð§ððÌð… ([source](https://www.linkedin.com/company/cler-verts/#post-59cdd4500e4f))
+- **2026-07-31** — News: Cler-Verts: ðï ̧ ðð§ð ð§ð ̈ð®ð ̄ðð¥ð¥ð ðð ̄ðð§ððÌð… ([source](https://www.linkedin.com/company/cler-verts/#post-c30dbcab7b30))
+- **2026-06-15** — Status Active → Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-05-01** — Status Suspect → Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-05-01** — Status Active → Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.cler-verts.fr/))
+- **2026-04-19** — Status Active → Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.cler-verts.fr/actualites-liste/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.cler-verts.fr/actualites-liste/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

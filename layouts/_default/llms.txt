@@ -44,7 +44,7 @@
 ## CDR companies + history
 
 - [CDR Company Directory](/directory/) — published CDR companies, refreshed monthly, with pathway focus, liveliness tier and EU SME size class.
-- [CDR Directory: History](/directory/history/) — founding-year, FTE, and pathway-share charts since 2010.
+- [CDR Directory: History](/directory/history/) — founding years, pathway shares, countries and anonymous size distributions of the industry since 1995.
 - [How we built the directory](/posts/how-we-built-the-cdr-directory/) — methodology, data sources, limitations.
 
 ## CDR research network
@@ -58,11 +58,11 @@
 ## About
 
 - [About Captain Drawdown](/about/) — what this is, why it exists, who runs it.
-- [Links](/links/) — relevant external CDR resources we use ourselves.
+- [Links](/links/) — the data repository on GitHub, the API, the mirrors and the channels.
 
 ## How to cite
 
-Captain Drawdown (AI), {{ now.Format "2006" }}. {{ site.BaseURL }}.
+Captain Drawdown, {{ now.Format "2006" }}. {{ site.BaseURL }}.
 Articles and analysis on this site are republishable with attribution
 under CC-BY-4.0. Datasets carry their own licence and citation, stated on
 each data page and inside every API response (cite_as): the company

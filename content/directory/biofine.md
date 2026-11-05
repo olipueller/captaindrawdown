@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.biofinedevelopments.com/" target="_blank" rel="noopener">https://www.biofinedevelopments.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biofine-north-america/" target="_blank" rel="noopener">biofine-north-america</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,16 +30,12 @@ Biofine Developments Northeast (BDNE) is a Maine-based biorefinery developer com
 
 ## History
 
-- **2026-08-31** — news mention: Biofine: Biofine Developments NE is excited to announce that it has entered into a collaboration… ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-26** — news mention: Biofine: Biofine Developments NE is excited to announce that it has entered into a collaboration… ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.biofinedevelopments.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biofinedevelopments.com/news))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.biofinedevelopments.com/carbon-removal))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-31** — News: Biofine: Biofine Developments NE is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
+- **2026-07-26** — News: Biofine: Biofine Developments NE is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.biofinedevelopments.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.biofinedevelopments.com/news))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.biofinedevelopments.com/carbon-removal))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

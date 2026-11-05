@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ambiochar.com/" target="_blank" rel="noopener">https://ambiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/american-biochar/" target="_blank" rel="noopener">american-biochar</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,17 +28,12 @@ American BioChar Company is a Michigan-based biochar soil amendment blender and 
 
 ## History
 
-- **2026-09-15** — liveliness: Moderate → Suspect ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://ambiochar.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://ambiochar.com/biochar-critiques-explained/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://ambiochar.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Moderate → Suspect ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
+- **2026-05-01** — Status Active → Moderate ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://ambiochar.com/))
+- **2026-04-19** — Status Active → Moderate ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://ambiochar.com/biochar-critiques-explained/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Forge Minerals"
 layout: "single"
 type: "directory"
-description: "Low-energy continuous reactor that converts waste CO2 into high-purity carbonate minerals (starting with magnesium carbonate) for use in flame retardants, pharmaceuticals, and supplements,"
+description: "Low-energy continuous reactor that converts waste CO2 into high-purity carbonate minerals (starting with magnesium carbonate) for use in flame retardants, pharmaceuticals, and supplements…"
 url: "/directory/forge-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://forgeminerals.com/" target="_blank" rel="noopener">https://forgeminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forge-minerals/" target="_blank" rel="noopener">forge-minerals</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,22 +30,16 @@ Forge Minerals is an Edinburgh-based deep-tech startup incorporated in June 2024
 
 ## History
 
-- **2026-08-30** — news mention: Forge Minerals: We’ve closed our pre-seed round and are getting straight back to work. Our focus… ([source](https://www.linkedin.com/company/forge-minerals/#post-65c0087eb0f7))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-01** — news mention: Forge Minerals Limited: We’ve just closed a £1m pre-seed round, co-led by Sustainable Ventures and… ([source](https://www.linkedin.com/company/forge-minerals/#post-a5f2647129ee))
-- **2026-07-25** — news mention: Forge Minerals: We’ve just closed a £1m pre-seed round, co-led by Sustainable Ventures and The… ([source](https://www.linkedin.com/company/forge-minerals/#post-70ae841e146a))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.scottish-enterprise-mediacentre.com/news/forge-minerals-completes-gbp-1m-pre-seed-funding-round-and-opens-first-laboratory-in-edinburgh))
-- **2026-04-19** — merged 1 duplicate(s): Forge Minerals Limited
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=review_needed liveliness= Active ([source](https://forgeminerals.com))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/forge-minerals))
-- **** — merged duplicate: Forge Minerals Limited (slug=forge-minerals-limited)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://forgeminerals.com))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://forgeminerals.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-30** — News: Forge Minerals: We’ve closed our pre-seed round and are getting straight back to work. Our focus… ([source](https://www.linkedin.com/company/forge-minerals/#post-65c0087eb0f7))
+- **2026-08-01** — News: Forge Minerals Limited: We’ve just closed a £1m pre-seed round, co-led by Sustainable Ventures and… ([source](https://www.linkedin.com/company/forge-minerals/#post-a5f2647129ee))
+- **2026-07-25** — News: Forge Minerals: We’ve just closed a £1m pre-seed round, co-led by Sustainable Ventures and The… ([source](https://www.linkedin.com/company/forge-minerals/#post-70ae841e146a))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.scottish-enterprise-mediacentre.com/news/forge-minerals-completes-gbp-1m-pre-seed-funding-round-and-opens-first-laboratory-in-edinburgh))
+- **2026-04-19** — Merged a duplicate entry: Forge Minerals Limited
+- **2026-04-19** — Classified as Mineralization, review needed, 🟢 Active ([source](https://forgeminerals.com))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/forge-minerals))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://forgeminerals.com))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://forgeminerals.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.mastreforest.com/" target="_blank" rel="noopener">https://www.mastreforest.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mast-reforest/" target="_blank" rel="noopener">mast-reforest</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-03-31</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2030-03-31</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-03-31)</small></td></tr>
@@ -44,21 +44,16 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. Bain… ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
-- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
-- **2026-05-22** — news mention: EFM, Anew Climate And Mast Reforestation Issue Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))
-- **2026-05-15** — news mention: TOCW Flagship Event - Carbon Solutions: Canada’s Competitive Edge · Luma ([source](https://luma.com/cpz1cjy8?tk=J9B3Hx))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.mastreforest.com/insights/mast-sells-and-delivers))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.mastreforest.com/insights/mast-sells-and-delivers))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-out-mt1-biomass-burial-credits-with-bain--company-and-bmo-joining-as-buyers-302742040.html))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-02** — News: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. Bain… ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
+- **2026-05-29** — News: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
+- **2026-05-22** — News: EFM, Anew Climate And Mast Reforestation Issue Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))
+- **2026-05-15** — News: TOCW Flagship Event - Carbon Solutions: Canada’s Competitive Edge · Luma ([source](https://luma.com/cpz1cjy8?tk=J9B3Hx))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.mastreforest.com/insights/mast-sells-and-delivers))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-and-delivers-market-first-biomass-burial-credits-to-royal-bank-of-canada-cnaught-and-others-302673476.html))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.prnewswire.com/news-releases/mast-reforestation-sells-out-mt1-biomass-burial-credits-with-bain--company-and-bmo-joining-as-buyers-302742040.html))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

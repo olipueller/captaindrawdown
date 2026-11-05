@@ -2,7 +2,7 @@
 title: "Ceal"
 layout: "single"
 type: "directory"
-description: "Electrochemical cell installed on seawater-cooled power plants that applies a gentle current to crystallize dissolved calcium and carbon as calcium carbonate (PCC), simultaneously preventing scale"
+description: "Electrochemical cell installed on seawater-cooled power plants that applies a gentle current to crystallize dissolved calcium and carbon as calcium carbonate (PCC), simultaneously preventing scale…"
 url: "/directory/ceal/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://ceal.earth/" target="_blank" rel="noopener">https://ceal.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceal-minerals/" target="_blank" rel="noopener">ceal-minerals</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,20 +31,12 @@ Ceal (Ceal Minerals) is an Israeli climate-tech startup founded in April 2024, s
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://ceal.earth/))
-- **2026-04-19** — merged 1 duplicate(s): Ceal Minerals Ltd.
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://ceal.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://ceal.earth/ ([source](https://www.cdr.fyi/supplier/ceal-minerals))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ceal-minerals))
-- **** — merged duplicate: Ceal Minerals Ltd. (slug=ceal-minerals-ltd)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://ceal.earth/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://ceal.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://ceal.earth/))
+- **2026-04-19** — Merged a duplicate entry: Ceal Minerals Ltd
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://ceal.earth/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/ceal-minerals))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/ceal-minerals))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

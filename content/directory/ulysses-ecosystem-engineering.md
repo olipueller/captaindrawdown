@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ulysses.eco" target="_blank" rel="noopener">https://ulysses.eco</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,17 +29,12 @@ Ulysses Ecosystem Engineering is a San Francisco-based marine robotics startup f
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.barrierreef.org/news/news/robot-a-new-era-in-seagrass-restoration))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://ulysses.eco/ ([source](https://www.cdr.fyi/supplier/ulysses-ecosystem-engineering))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ulysses-ecosystem-engineering))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.barrierreef.org/news/news/robot-a-new-era-in-seagrass-restoration))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/ulysses-ecosystem-engineering))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/ulysses-ecosystem-engineering))
 
 ---
 

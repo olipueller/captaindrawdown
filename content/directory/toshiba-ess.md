@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.global.toshiba/ww/products-solutions/energy.html" target="_blank" rel="noopener">https://www.global.toshiba/ww/products-solutions/energy.html</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/toshiba-corporation/" target="_blank" rel="noopener">toshiba-corporation</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,14 +29,10 @@ Toshiba Energy Systems & Solutions (Toshiba ESS) is the energy-systems arm of To
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Moderate ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
+- **2026-04-18** — Classified as BECCS, division, 🟡 Moderate ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

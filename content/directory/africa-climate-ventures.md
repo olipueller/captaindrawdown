@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Rwanda</td></tr>
   <tr><th>Website</th><td><a href="https://africaclimateventures.com/" target="_blank" rel="noopener">https://africaclimateventures.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/africa-climate-ventures/" target="_blank" rel="noopener">africa-climate-ventures</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,16 +31,13 @@ Africa Climate Ventures (ACV) is a Kigali-based venture builder and early-stage 
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Moderate → Active
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://africaclimateventures.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://africaclimateventures.com/ ([source](https://www.cdr.fyi/marketplace/africa-climate-ventures))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/africa-climate-ventures))
+- **2026-09-15** — Status Moderate → Active
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://africaclimateventures.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/africa-climate-ventures))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/africa-climate-ventures))
 
 ---
 

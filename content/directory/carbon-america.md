@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonamerica.com/" target="_blank" rel="noopener">https://www.carbonamerica.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonamerica/" target="_blank" rel="noopener">carbonamerica</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,19 +30,15 @@ Carbon America is a Colorado-based vertically integrated CCS developer that fina
 
 ## History
 
-- **2026-10-15** — liveliness: Active → Suspect ([source](https://www.climatory.com/company/carbon-america))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-22** — news mention: Carbon America - 2026 Funding Rounds & List of Investors - Tracxn ([source](https://tracxn.com/d/companies/carbonamerica/__TikgzqtJoFKisRM45W8vT_YZTNwpyzOF6JQ-aCbiiIM/funding-and-investors))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.climatory.com/company/carbon-america))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.climatory.com/company/carbon-america))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.carbonamerica.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.climatory.com/company/carbon-america))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.carbonamerica.com/news/carbon-americas-frostcc-technology-demostrates-ultraclean-carbon-capture))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Moderate ([source](https://www.carbonamerica.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — Status Active → Suspect ([source](https://www.climatory.com/company/carbon-america))
+- **2026-05-22** — News: Carbon America - 2026 Funding Rounds & List of Investors - Tracxn ([source](https://tracxn.com/d/companies/carbonamerica/__TikgzqtJoFKisRM45W8vT_YZTNwpyzOF6JQ-aCbiiIM/funding-and-investors))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.climatory.com/company/carbon-america))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.climatory.com/company/carbon-america))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.carbonamerica.com/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.climatory.com/company/carbon-america))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.carbonamerica.com/news/carbon-americas-frostcc-technology-demostrates-ultraclean-carbon-capture))
+- **2026-04-19** — Classified as BECCS, supplier, 🟡 Moderate ([source](https://www.carbonamerica.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

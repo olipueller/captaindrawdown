@@ -2,7 +2,7 @@
 title: "Stiesdal"
 layout: "single"
 type: "directory"
-description: "Stiesdal SkyClean designs and operates 20 MW updraft pyrolysis plants that convert agricultural and forestry residues into biochar (permanent CO2 storage) plus bio-oil and syngas for"
+description: "Stiesdal SkyClean designs and operates 20 MW updraft pyrolysis plants that convert agricultural and forestry residues into biochar (permanent CO2 storage) plus bio-oil and syngas for…"
 url: "/directory/stiesdal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.stiesdal.com/skyclean/" target="_blank" rel="noopener">https://www.stiesdal.com/skyclean/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stiesdal/" target="_blank" rel="noopener">stiesdal</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,22 +29,17 @@ Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish climate-tech
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-26** — news mention: Stiesdal: The Stiesdal Offshore team is officially kicking off a great H2 2026 for floating… ([source](https://www.linkedin.com/company/stiesdal/#post-6eebdcc028b0))
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
-- **2026-08-05** — news mention: Stiesdal: We are pleased to introduce our new 6.5 MW HydroGen Electrolyser. The new unit nearly… ([source](https://www.linkedin.com/company/stiesdal/#post-9c494754d652))
-- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
-- **2026-06-15** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.stiesdal.com/skyclean/the-skyclean-technology-explained/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.stiesdal.com/skyclean/the-skyclean-technology-explained/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.stiesdal.com/skyclean/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-26** — News: Stiesdal: The Stiesdal Offshore team is officially kicking off a great H2 2026 for floating… ([source](https://www.linkedin.com/company/stiesdal/#post-6eebdcc028b0))
+- **2026-08-15** — Status Suspect → Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-08-05** — News: Stiesdal: We are pleased to introduce our new 6.5 MW HydroGen Electrolyser. The new unit nearly… ([source](https://www.linkedin.com/company/stiesdal/#post-9c494754d652))
+- **2026-07-15** — Status Moderate → Suspect ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-06-15** — Status Active → Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-05-01** — Status Moderate → Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-05-01** — Status Active → Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-04-19** — Classified as Biochar, division, 🟢 Active ([source](https://www.stiesdal.com/skyclean/the-skyclean-technology-explained/))
+- **2026-04-19** — Status Active → Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-04-18** — Classified as Biochar, division, 🟢 Active ([source](https://www.stiesdal.com/skyclean/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

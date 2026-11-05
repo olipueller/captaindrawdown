@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://towing.co.jp/" target="_blank" rel="noopener">https://towing.co.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/towing-co-ltd/" target="_blank" rel="noopener">towing-co-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -33,28 +33,23 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops and
 
 ## History
 
-- **2026-10-08** — news mention: Zayed Sustainability Prize Unveils 2027 Finalists Following Record-Breaking Global Entry | ESG Mena ([source](https://esgmena.com/zayed-sustainability-prize-unveils-2027-finalists-following-record-breaking-global-entry/))
-- **2026-09-30** — news mention: Investors back Cotierra’s bid to scale biochar across tropical agriculture ([source](https://www.agnavigator.com/Article/2026/09/30/investors-back-cotierras-bid-to-scale-biochar-across-tropical-agriculture/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
-- **2026-08-16** — news mention: Towing: Some updates regarding TOWING's recent initiatives! 1. Collaboration with Suntory (Tea and… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-6b2ec4a8d076))
-- **2026-08-08** — news mention: Towing: At Suntory, we believe innovation can help create a more sustainable future. Today, we’re… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-065881eac92b))
-- **2026-08-08** — news mention: Towing: 農林水産省「みどり加速化GXプラン」の事例としてTOWINGが紹介されました。 TOWING has been featured as a case study in the… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-22b6ed456bd8))
-- **2026-08-06** — news mention: TOWING Unveils Japan’s Largest Production Facility to Convert 10,000 Tonnes of Livestock Biomass… ([source](https://biochartoday.com/news/towing-unveils-japans-largest-production-facility-to-convert-10000-tonnes-of-livestock-biomass-into-biochar/))
-- **2026-08-06** — news mention: Electricity grids that deploy a lot of energy storage can become more like "bank accounts" but of… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msggw2yh2s2o))
-- **2026-08-06** — news mention: Utilising the underutilised: TOWING opens largest Japan production site with 10,000-tonne biochar… ([source](https://www.agnavigator.com/Article/2026/08/05/utilising-the-underutilised-towing-opens-largest-japan-production-site-with-10000-tonne-biochar-facility/))
-- **2026-08-01** — news mention: Towing: TOWINGとサントリー、飲料製造残渣を活用した高機能バイオ炭を本格製造開始 https://lnkd.in/g6a8vEie… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-2b36b97fd90c))
-- **2026-08-01** — news mention: Towing: TOWINGとアイシン高丘、インドネシアでパーム残さ由来のバイオ炭を活用したカーボンクレジット創出に向けた事業性評価(FS)を開始 https://lnkd.in/gaSzg5TV… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-ff7edea1318b))
-- **2026-07-25** — news mention: Towing: 「宙炭」の海外供給へ向け、米国子会社とタイ製造拠点を設立 https://lnkd.in/guJ_9ctw… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-a9d793f22eb1))
-- **2026-07-06** — news mention: By 1850 New England was probably 80% deforested, and in some places 90% and 100%, but then they… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpy62yyqws2h))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-28** — news mention: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.suntory.com/news/article/14813E.html))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.suntory.com/news/article/14813E.html))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.suntory.com/news/article/14813E.html))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-08** — News: Zayed Sustainability Prize Unveils 2027 Finalists Following Record-Breaking Global Entry | ESG Mena ([source](https://esgmena.com/zayed-sustainability-prize-unveils-2027-finalists-following-record-breaking-global-entry/))
+- **2026-09-30** — News: Investors back Cotierra’s bid to scale biochar across tropical agriculture ([source](https://www.agnavigator.com/Article/2026/09/30/investors-back-cotierras-bid-to-scale-biochar-across-tropical-agriculture/))
+- **2026-08-16** — News: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
+- **2026-08-16** — News: Towing: Some updates regarding TOWING's recent initiatives! 1. Collaboration with Suntory (Tea and… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-6b2ec4a8d076))
+- **2026-08-08** — News: Towing: At Suntory, we believe innovation can help create a more sustainable future. Today, we’re… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-065881eac92b))
+- **2026-08-08** — News: Towing: 農林水産省「みどり加速化GXプラン」の事例としてTOWINGが紹介されました。 TOWING has been featured as a case study in the… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-22b6ed456bd8))
+- **2026-08-06** — News: TOWING Unveils Japan’s Largest Production Facility to Convert 10,000 Tonnes of Livestock Biomass… ([source](https://biochartoday.com/news/towing-unveils-japans-largest-production-facility-to-convert-10000-tonnes-of-livestock-biomass-into-biochar/))
+- **2026-08-06** — News: Electricity grids that deploy a lot of energy storage can become more like "bank accounts" but of… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msggw2yh2s2o))
+- **2026-08-06** — News: Utilising the underutilised: TOWING opens largest Japan production site with 10,000-tonne biochar… ([source](https://www.agnavigator.com/Article/2026/08/05/utilising-the-underutilised-towing-opens-largest-japan-production-site-with-10000-tonne-biochar-facility/))
+- **2026-08-01** — News: Towing: TOWINGとサントリー、飲料製造残渣を活用した高機能バイオ炭を本格製造開始 https://lnkd.in/g6a8vEie… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-2b36b97fd90c))
+- **2026-08-01** — News: Towing: TOWINGとアイシン高丘、インドネシアでパーム残さ由来のバイオ炭を活用したカーボンクレジット創出に向けた事業性評価(FS)を開始 https://lnkd.in/gaSzg5TV… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-ff7edea1318b))
+- **2026-07-25** — News: Towing: 「宙炭」の海外供給へ向け、米国子会社とタイ製造拠点を設立 https://lnkd.in/guJ_9ctw… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-a9d793f22eb1))
+- **2026-07-06** — News: By 1850 New England was probably 80% deforested, and in some places 90% and 100%, but then they… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpy62yyqws2h))
+- **2026-04-28** — News: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.suntory.com/news/article/14813E.html))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

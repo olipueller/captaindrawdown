@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbofex.fi/" target="_blank" rel="noopener">https://carbofex.fi/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbofex/" target="_blank" rel="noopener">carbofex</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-08-30</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2027-08-30</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-08-30)</small></td></tr>
@@ -41,22 +41,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-11** — news mention: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am… ([source](https://www.linkedin.com/company/carbofex/#post-d2faff1ce861))
-- **2026-09-05** — news mention: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am… ([source](https://www.linkedin.com/company/carbofex/#post-608526007ca4))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbofex.fi/))
-- **2026-04-19** — merged 1 duplicate(s): Carbofex
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbofex.fi/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbofex.fi/ ([source](https://www.cdr.fyi/supplier/carbofex))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbofex))
-- **** — merged duplicate: Carbofex (slug=carbofex)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbofex.fi/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbofex.fi/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-11** — News: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am… ([source](https://www.linkedin.com/company/carbofex/#post-d2faff1ce861))
+- **2026-09-05** — News: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am… ([source](https://www.linkedin.com/company/carbofex/#post-608526007ca4))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbofex.fi/))
+- **2026-04-19** — Merged a duplicate entry: Carbofex
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/carbofex))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/carbofex))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

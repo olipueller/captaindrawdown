@@ -5,7 +5,7 @@ url: "/cdr-researcher-census/lookup/"
 wide: false
 ---
 
-Search covers the researchers in the public top lists of the [CDR Researcher Census](/cdr-researcher-census/): the 100 most active and the 100 most cited per pathway worldwide and the 50 of each in Europe, about 1,030 people with a profile page. Everyone else in the census is counted in aggregates only ([data](/data/researchers/)). Names, institutions and metrics come from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/); corrections and removal: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Census%20correction) ([privacy notice](/privacy/)).
+Search covers the researchers in the public top lists of the [CDR Researcher Census](/cdr-researcher-census/): the 100 most active and the 100 most cited per pathway worldwide and the 50 of each in Europe, about 1,000 people with a profile page. Everyone else in the census is counted in aggregates only ([data](/data/researchers/)). Names, institutions and metrics come from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/); corrections and removal: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Census%20correction) ([privacy notice](/privacy/)).
 
 <div class="cd-lookup">
 <label class="cd-lookup-label" for="searchInput">Name</label>

@@ -2,7 +2,7 @@
 title: "BLOCK"
 layout: "single"
 type: "directory"
-description: "Pyrolyzes regional wood chips, landscape-care residues, and reed from rewetted moors in a Carbo Force reactor to produce EBC-AgroOrganic certified biochar, with process heat supplied to a local"
+description: "Pyrolyzes regional wood chips, landscape-care residues, and reed from rewetted moors in a Carbo Force reactor to produce EBC-AgroOrganic certified biochar, with process heat supplied to a local…"
 url: "/directory/block/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://block-pflanzenkohle.de/" target="_blank" rel="noopener">https://block-pflanzenkohle.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/block-pflanzenkohle/" target="_blank" rel="noopener">block-pflanzenkohle</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,36 +29,36 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
-- **2026-09-19** — news mention: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a… ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
-- **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
-- **2026-09-04** — news mention: Underserved Communities Again Ask Courts to Restore Justice Grant Funding ([source](https://insideclimatenews.org/news/04092026/communities-sue-again-over-termination-of-environmental-justice-grants/))
-- **2026-09-03** — news mention: New Trump Rules Would Limit State Power to Block Pipelines, Energy Projects ([source](https://insideclimatenews.org/news/03092026/epa-clean-water-act-provision-would-limit-state-power/))
-- **2026-09-02** — news mention: Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands ([source](https://insideclimatenews.org/news/02092026/argentina-challenges-british-israeli-oil-project-near-disputed-falkland-islands/))
-- **2026-09-02** — news mention: No Relief for Maui Wildfire Survivors Losing Thousands to Contractors ([source](https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/))
-- **2026-08-25** — news mention: As Ohio grapples with fake comments on clean energy, some want crackdown ([source](https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy))
-- **2026-08-21** — news mention: Lawsuit Seeks to Block Closure of Top Federal Climate Research Center ([source](https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/))
-- **2026-08-19** — news mention: Originally developed to power Captura’s Direct Ocean Capture systems, the BMED technology is now… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtgwephlq22j))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop… ([source](https://doi.org/10.3389/fsoil.2026.1880824))
-- **2026-08-11** — news mention: Corpus Christi Seeks to Block Referendum on Industrial Water Charge ([source](https://insideclimatenews.org/news/11082026/corpus-christi-fair-water-amendment-industrial-charge/))
-- **2026-08-08** — news mention: Your support for the opposition to solar, wind, and new transmission lines by communities and… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mslhl62ews23))
-- **2026-08-02** — news mention: BECCS power plants should be run as seasonal energy storage facilities on some solar-dominated… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ms436swlrk2x))
-- **2026-07-31** — news mention: Why did the fossil fuel lie and bribe politicians to block climate action? This is why ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mrx4rllvt22x))
-- **2026-07-26** — news mention: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
-- **2026-07-26** — news mention: On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications… ([source](https://cdrxiv.org/preprint/489))
-- **2026-07-24** — news mention: Federal Judge Orders EPA to Administer Environmental Justice Grants ([source](https://insideclimatenews.org/news/24072026/epa-ordered-to-release-environmental-justice-funds/))
-- **2026-07-23** — news mention: To Block Renewable Energy Projects, Texas Republicans Have Weaponized Conservation Concerns ([source](https://insideclimatenews.org/news/23072026/texas-republicans-weaponize-conservation-to-block-clean-energy/))
-- **2026-07-19** — news mention: What Will It Take To End the Slaughter of Dolphins in the Faroe Islands? ([source](https://insideclimatenews.org/news/18072026/activists-fight-to-end-faroe-islands-dolphin-hunts/))
-- **2026-07-13** — news mention: Brussels adopts first EU carbon farming certification methodologies - H2 Bulletin ([source](https://h2bulletin.com/brussels-adopts-first-eu-carbon-farming-certification-methodologies/))
-- **2026-07-09** — news mention: The rest of the U.S. was on target to catch up to California where over 1 in 20 vehicles on the… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mq7tubcaek2k))
-- **2026-07-02** — news mention: In Ohio, solar is no big threat to farmland ([source](https://www.canarymedia.com/articles/solar/ohio-land-use-farm-data-seia))
-- **2026-07-01** — news mention: Happy Ground: Building Block \#9 of 30 Building Blocks from the Last Year of Building Happy… ([source](https://www.linkedin.com/feed/update/urn:li:share:7477605006498697216/))
-- **2026-06-27** — news mention: Needle Flame Test Equipment: IEC 60695 Compliance Guide ([source](https://www.ledphotometer.com/blogs/needle-flame-test-equipment-a-comprehensive-guide-to-iec-60695-compliance-and-fire-safety-testing/))
-- **2026-06-26** — news mention: Nice picture of your booth at #LCAW /s Wondering whether you'd be interested in reaching out to… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp7hvz7vl22q))
-- **2026-06-24** — news mention: Investment in Carbon Dioxide Removal has had USD 1.1 Billion of investments made over last year… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp2e43qj7c27))
-- **2026-06-24** — news mention: Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
-- **2026-06-24** — news mention: Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
-- **2026-06-24** — news mention: Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
+- **2026-09-19** — News: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a new ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
+- **2026-09-07** — News: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry. Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
+- **2026-09-04** — News: Underserved Communities Again Ask Courts to Restore Justice Grant Funding ([source](https://insideclimatenews.org/news/04092026/communities-sue-again-over-termination-of-environmental-justice-grants/))
+- **2026-09-03** — News: New Trump Rules Would Limit State Power to Block Pipelines, Energy Projects ([source](https://insideclimatenews.org/news/03092026/epa-clean-water-act-provision-would-limit-state-power/))
+- **2026-09-02** — News: Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands ([source](https://insideclimatenews.org/news/02092026/argentina-challenges-british-israeli-oil-project-near-disputed-falkland-islands/))
+- **2026-09-02** — News: No Relief for Maui Wildfire Survivors Losing Thousands to Contractors ([source](https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/))
+- **2026-08-25** — News: As Ohio grapples with fake comments on clean energy, some want crackdown ([source](https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy))
+- **2026-08-21** — News: Lawsuit Seeks to Block Closure of Top Federal Climate Research Center ([source](https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/))
+- **2026-08-19** — News: Originally developed to power Captura’s Direct Ocean Capture systems, the BMED technology is now… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtgwephlq22j))
+- **2026-08-13** — News: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop… ([source](https://doi.org/10.3389/fsoil.2026.1880824))
+- **2026-08-11** — News: Corpus Christi Seeks to Block Referendum on Industrial Water Charge ([source](https://insideclimatenews.org/news/11082026/corpus-christi-fair-water-amendment-industrial-charge/))
+- **2026-08-08** — News: Your support for the opposition to solar, wind, and new transmission lines by communities and… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mslhl62ews23))
+- **2026-08-02** — News: BECCS power plants should be run as seasonal energy storage facilities on some solar-dominated… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ms436swlrk2x))
+- **2026-07-31** — News: Why did the fossil fuel lie and bribe politicians to block climate action? This is why ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mrx4rllvt22x))
+- **2026-07-26** — News: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
+- **2026-07-26** — News: On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for ([source](https://cdrxiv.org/preprint/489))
+- **2026-07-24** — News: Federal Judge Orders EPA to Administer Environmental Justice Grants ([source](https://insideclimatenews.org/news/24072026/epa-ordered-to-release-environmental-justice-funds/))
+- **2026-07-23** — News: To Block Renewable Energy Projects, Texas Republicans Have Weaponized Conservation Concerns ([source](https://insideclimatenews.org/news/23072026/texas-republicans-weaponize-conservation-to-block-clean-energy/))
+- **2026-07-19** — News: What Will It Take To End the Slaughter of Dolphins in the Faroe Islands? ([source](https://insideclimatenews.org/news/18072026/activists-fight-to-end-faroe-islands-dolphin-hunts/))
+- **2026-07-13** — News: Brussels adopts first EU carbon farming certification methodologies - H2 Bulletin ([source](https://h2bulletin.com/brussels-adopts-first-eu-carbon-farming-certification-methodologies/))
+- **2026-07-09** — News: The rest of the U.S. was on target to catch up to California where over 1 in 20 vehicles on the… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mq7tubcaek2k))
+- **2026-07-02** — News: In Ohio, solar is no big threat to farmland ([source](https://www.canarymedia.com/articles/solar/ohio-land-use-farm-data-seia))
+- **2026-07-01** — News: Happy Ground: Building Block \#9 of 30 Building Blocks from the Last Year of Building Happy… ([source](https://www.linkedin.com/feed/update/urn:li:share:7477605006498697216/))
+- **2026-06-27** — News: Needle Flame Test Equipment: IEC 60695 Compliance Guide ([source](https://www.ledphotometer.com/blogs/needle-flame-test-equipment-a-comprehensive-guide-to-iec-60695-compliance-and-fire-safety-testing/))
+- **2026-06-26** — News: Nice picture of your booth at #LCAW /s Wondering whether you'd be interested in reaching out to Sun ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp7hvz7vl22q))
+- **2026-06-24** — News: Investment in Carbon Dioxide Removal has had USD 1.1 Billion of investments made over last year… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp2e43qj7c27))
+- **2026-06-24** — News: Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground Building far ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
+- **2026-06-24** — News: Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground Building mea ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
+- **2026-06-24** — News: Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground Building far ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
+- **2026-06-10** — News: Energy-hungry aluminum plant is swept up in Oklahoma governor’s race ([source](https://www.canarymedia.com/articles/clean-aluminum/aluminum-plant-oklahoma-governor-race))
 
 ---
 

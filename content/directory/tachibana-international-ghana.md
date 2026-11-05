@@ -2,7 +2,7 @@
 title: "Tachibana International Ghana"
 layout: "single"
 type: "directory"
-description: "Operates 1,500L Kon-Tiki flame kilns that carbonize cacao pod husks and other agricultural residues into biochar, which is applied to cocoa farm soils while generating biochar carbon removal credits"
+description: "Operates 1,500L Kon-Tiki flame kilns that carbonize cacao pod husks and other agricultural residues into biochar, which is applied to cocoa farm soils while generating biochar carbon removal credits…"
 url: "/directory/tachibana-international-ghana/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -25,14 +25,11 @@ Tachibana International Ghana is a cocoa and ingredients trading company that ru
 
 ## History
 
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tachibana))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/tachibana))
 
 ---
 

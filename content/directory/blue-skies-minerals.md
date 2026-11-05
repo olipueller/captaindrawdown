@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueskiesminerals.com/" target="_blank" rel="noopener">https://www.blueskiesminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueskiesminerals/" target="_blank" rel="noopener">blueskiesminerals</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,17 +30,12 @@ Blue Skies Minerals is a Berlin-based startup developing the Carbonated Tailings
 
 ## History
 
-- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Moderate ([source](https://www.blueskiesminerals.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Moderate ([source](https://www.blueskiesminerals.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.blueskiesminerals.com/ ([source](https://www.cdr.fyi/supplier/blue-skies-minerals))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/blue-skies-minerals))
+- **2026-09-18** — News: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Classified as Mineralization, supplier, 🟡 Moderate ([source](https://www.blueskiesminerals.com/))
+- **2026-04-19** — Status Moderate → Active
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/blue-skies-minerals))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/blue-skies-minerals))
 
 ---
 

@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbons.fi/en/home/" target="_blank" rel="noopener">https://carbons.fi/en/home/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbons-finland-oy/" target="_blank" rel="noopener">carbons-finland-oy</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,17 +32,13 @@ Carbons Finland Oy is a micro-enterprise in Kouvola, Finland, founded in 2014, p
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carbons.fi/en/the-company/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carbons.fi/en/home/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://carbons.fi/en/home/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://carbons.fi/en/the-company/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://carbons.fi/en/the-company/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://carbons.fi/en/home/))
+- **2026-04-19** — Status Suspect → Likely Dead ([source](https://www.sitra.fi/en/cases/biochar-enhances-nutrient-recycling-carbon-sequestration/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://carbons.fi/en/home/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://carbons.fi/en/the-company/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

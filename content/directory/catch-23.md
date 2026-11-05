@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://catch23.se/" target="_blank" rel="noopener">https://catch23.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/catch-23se/" target="_blank" rel="noopener">catch-23se</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,18 +31,13 @@ Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), 
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-04** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed… ([source](https://www.linkedin.com/company/catch-23se/#post-54c56eac8ff8))
-- **2026-09-02** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed… ([source](https://www.linkedin.com/company/catch-23se/#post-d1f013eec339))
-- **2026-07-26** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed… ([source](https://www.linkedin.com/company/catch-23se/#post-1e035614cb2b))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Active
-- **2026-04-19** — reclassified: pathway=BECCS focus=ecosystem liveliness= Moderate ([source](https://www.catch23.se/home-eng))
-- **2026-04-18** — reclassified: pathway=BECCS focus=ecosystem liveliness= Active ([source](https://www.catch23.se/news-1))
-- **2026-04-18** — discovered via: exa ([source](https://catch23.se/))
+- **2026-10-04** — News: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed… ([source](https://www.linkedin.com/company/catch-23se/#post-54c56eac8ff8))
+- **2026-09-02** — News: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed… ([source](https://www.linkedin.com/company/catch-23se/#post-d1f013eec339))
+- **2026-07-26** — News: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed… ([source](https://www.linkedin.com/company/catch-23se/#post-1e035614cb2b))
+- **2026-04-19** — Status Moderate → Active
+- **2026-04-19** — Classified as BECCS, ecosystem, 🟡 Moderate ([source](https://www.catch23.se/home-eng))
+- **2026-04-18** — Classified as BECCS, ecosystem, 🟢 Active ([source](https://www.catch23.se/news-1))
+- **2026-04-18** — Added to the directory ([source](https://catch23.se/))
 
 ---
 

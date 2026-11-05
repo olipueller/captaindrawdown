@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.bioflux.earth/" target="_blank" rel="noopener">https://www.bioflux.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioflux-eu/" target="_blank" rel="noopener">bioflux-eu</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -35,17 +35,11 @@ BioFlux is a consultancy focused on biochar carbon removal project development. 
 
 ## History
 
-- **2026-10-17** — news mention: #carbonremoval #carbonmarkets #enhancedrockweathering #brusselsclimateweek | Mati Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516726775444361216/))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-12** — news mention: EU’s Carbon Removal Push Opens New Opportunities In Emerging Markets ([source](https://carbonherald.com/eus-carbon-removal-push-opens-new-opportunities-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=eus-carbon-removal-push-opens-new-opportunities-emerging-markets))
-- **2026-09-01** — news mention: IDH, reVive, and BioFlux Publish Report on In-Setting Biochar Applications Across Agricultural… ([source](https://biochartoday.com/news/idh-revive-and-bioflux-publish-report-on-in-setting-biochar-applications-across-agricultural-supply-chains/?utm_source=bluesky&utm_medium=jetpack_social))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.bioflux.earth/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.bioflux.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-17** — News: #carbonremoval #carbonmarkets #enhancedrockweathering #brusselsclimateweek | Mati Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516726775444361216/))
+- **2026-10-12** — News: EU’s Carbon Removal Push Opens New Opportunities In Emerging Markets ([source](https://carbonherald.com/eus-carbon-removal-push-opens-new-opportunities-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=eus-carbon-removal-push-opens-new-opportunities-emerging-markets))
+- **2026-09-01** — News: IDH, reVive, and BioFlux Publish Report on In-Setting Biochar Applications Across Agricultural… ([source](https://biochartoday.com/news/idh-revive-and-bioflux-publish-report-on-in-setting-biochar-applications-across-agricultural-supply-chains/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://www.bioflux.earth/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

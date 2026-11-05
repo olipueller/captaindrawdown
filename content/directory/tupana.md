@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.tupana.earth/" target="_blank" rel="noopener">https://www.tupana.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tupana-earth/" target="_blank" rel="noopener">tupana-earth</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,15 +30,11 @@ Tupana (Tupana RGN) is a Brazilian climate-tech startup producing biochar from a
 
 ## History
 
-- **2026-10-15** — liveliness: Moderate → Active
-- **2026-09-15** — news mention: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon… ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.tupana.earth/))
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.tupana.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.tupana.earth/ ([source](https://www.cdr.fyi/supplier/tupana))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tupana))
+- **2026-10-15** — Status Moderate → Active
+- **2026-09-15** — News: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon… ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.tupana.earth/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/tupana))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/tupana))
 
 ---
 

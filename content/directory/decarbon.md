@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.decarbon.tech/" target="_blank" rel="noopener">https://www.decarbon.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbontek/" target="_blank" rel="noopener">decarbontek</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,28 +31,23 @@ Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Y
 
 ## History
 
-- **2026-11-05** — news mention: Decarbon: Another milestone reached! Decarbontek has successfully completed parametric testing… ([source](https://www.linkedin.com/company/decarbontek/#post-ac6a1076e07b))
-- **2026-09-28** — news mention: Decarbon: Another milestone reached! Decarbontek has successfully completed parametric testing… ([source](https://www.linkedin.com/company/decarbontek/#post-632b3a443edd))
-- **2026-09-17** — news mention: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing… ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-f29efe144e74))
-- **2026-09-02** — news mention: DeCarbon Tech: PROJECT LICHUN | FROM AIR TO VALUE Capturing COâ from the air is only the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-c2c8058641e0))
-- **2026-08-25** — news mention: DeCarbon Technology: Isometric has signed its first project developers in China, providing the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-fb194392fed1))
-- **2026-08-25** — news mention: DeCarbon Technology: PROJECT LICHUN | FROM AIR TO VALUE Capturing CO2 from the air is only the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-0cb36cb2a269))
-- **2026-08-18** — news mention: DeCarbon Tech: Isometric has signed its first carbon removal projects in China, expanding its… ([source](https://www.linkedin.com/company/decarbon-tech/#post-64be3b1f8bd3))
-- **2026-08-18** — news mention: DeCarbon Tech: “We partnered with Isometric because of its rigorous, science-based approach and… ([source](https://www.linkedin.com/company/decarbon-tech/#post-911918bfc406))
-- **2026-08-15** — news mention: Decarbon: A significant milestone for our team. We’re at the National Carbon Capture Center… ([source](https://www.linkedin.com/company/decarbontek/#post-518b81487b4f))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-12** — news mention: Isometric Signs Tongao Greenchar, Vastwing Energy, and DeCarbon Tech to Certify First Chinese… ([source](https://biochartoday.com/news/isometric-signs-tongao-greenchar-vastwing-energy-and-decarbon-tech-to-certify-first-chinese-carbon-removals/?utm_source=bluesky&utm_medium=jetpack_social))
-- **2026-08-10** — news mention: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing… ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-fb194392fed1))
-- **2026-08-10** — news mention: DeCarbon Tech: We’re pleased to share that DeCarbon Tech has signed a long-term agreement with… ([source](https://www.linkedin.com/company/decarbon-tech/#post-54f6dae2ea24))
-- **2026-08-10** — news mention: DeCarbon Tech: Isometric has signed its first project developers in China, providing the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-647d1f3027df))
-- **2026-08-05** — news mention: Ocean pHix: Isometric has signed its first project developers in China, providing the high-quality… ([source](https://www.linkedin.com/company/exponential-hq/#post-534c1e6db434))
-- **2026-07-27** — news mention: DeCarbon Technology: Proud to have joined Ecosperity Week 2026 in Singapore — one of the world's… ([source](https://www.linkedin.com/company/decarbon-tech/#post-eba4cf42f7f5))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.decarbon.tech/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.decarbon.tech/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-05** — News: Decarbon: Another milestone reached! Decarbontek has successfully completed parametric testing of ([source](https://www.linkedin.com/company/decarbontek/#post-ac6a1076e07b))
+- **2026-09-28** — News: Decarbon: Another milestone reached! Decarbontek has successfully completed parametric testing of ([source](https://www.linkedin.com/company/decarbontek/#post-632b3a443edd))
+- **2026-09-17** — News: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing… ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-f29efe144e74))
+- **2026-09-02** — News: DeCarbon Tech: PROJECT LICHUN | FROM AIR TO VALUE Capturing COâ from the air is only the starting ([source](https://www.linkedin.com/company/decarbon-tech/#post-c2c8058641e0))
+- **2026-08-25** — News: DeCarbon Technology: Isometric has signed its first project developers in China, providing the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-fb194392fed1))
+- **2026-08-25** — News: DeCarbon Technology: PROJECT LICHUN | FROM AIR TO VALUE Capturing CO2 from the air is only the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-0cb36cb2a269))
+- **2026-08-18** — News: DeCarbon Tech: Isometric has signed its first carbon removal projects in China, expanding its… ([source](https://www.linkedin.com/company/decarbon-tech/#post-64be3b1f8bd3))
+- **2026-08-18** — News: DeCarbon Tech: “We partnered with Isometric because of its rigorous, science-based approach and its ([source](https://www.linkedin.com/company/decarbon-tech/#post-911918bfc406))
+- **2026-08-15** — News: Decarbon: A significant milestone for our team. We’re at the National Carbon Capture Center… ([source](https://www.linkedin.com/company/decarbontek/#post-518b81487b4f))
+- **2026-08-12** — News: Isometric Signs Tongao Greenchar, Vastwing Energy, and DeCarbon Tech to Certify First Chinese… ([source](https://biochartoday.com/news/isometric-signs-tongao-greenchar-vastwing-energy-and-decarbon-tech-to-certify-first-chinese-carbon-removals/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-08-10** — News: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing… ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-fb194392fed1))
+- **2026-08-10** — News: DeCarbon Tech: We’re pleased to share that DeCarbon Tech has signed a long-term agreement with… ([source](https://www.linkedin.com/company/decarbon-tech/#post-54f6dae2ea24))
+- **2026-08-10** — News: DeCarbon Tech: Isometric has signed its first project developers in China, providing the… ([source](https://www.linkedin.com/company/decarbon-tech/#post-647d1f3027df))
+- **2026-08-05** — News: Ocean pHix: Isometric has signed its first project developers in China, providing the high-quality… ([source](https://www.linkedin.com/company/exponential-hq/#post-534c1e6db434))
+- **2026-07-27** — News: DeCarbon Technology: Proud to have joined Ecosperity Week 2026 in Singapore — one of the world's… ([source](https://www.linkedin.com/company/decarbon-tech/#post-eba4cf42f7f5))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.decarbon.tech/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

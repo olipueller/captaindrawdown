@@ -2,7 +2,7 @@
 title: "Carbon Bank"
 layout: "single"
 type: "directory"
-description: "Develops enhanced rock weathering projects spreading basalt dust on UK farmland (Northumberland), verified under the Isometric Standard, alongside nature-based afforestation projects using the"
+description: "Develops enhanced rock weathering projects spreading basalt dust on UK farmland (Northumberland), verified under the Isometric Standard, alongside nature-based afforestation projects using the…"
 url: "/directory/carbon-bank/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonbank.co.uk/" target="_blank" rel="noopener">https://www.carbonbank.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonbank/" target="_blank" rel="noopener">thecarbonbank</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -31,20 +31,15 @@ Carbon Bank is a UK CDR project developer based in Stroud, Gloucestershire and p
 
 ## History
 
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.carbonbank.co.uk/))
-- **2026-07-29** — news mention: Our revolving fund as a model for a national carbon bank ([source](https://terraset.substack.com/p/our-revolving-fund-as-a-model-for))
-- **2026-06-15** — refresh: liveliness
-- **2026-06-15** — liveliness: Moderate → Suspect ([source](https://www.carbonbank.co.uk/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.carbonbank.co.uk/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness= Active ([source](https://www.carbonbank.co.uk/about-us/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.carbonbank.co.uk/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=division liveliness= Active ([source](https://www.carbonbank.co.uk/what-we-do/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.carbonbank.co.uk/what-we-do/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Suspect → Active ([source](https://www.carbonbank.co.uk/))
+- **2026-07-29** — News: Our revolving fund as a model for a national carbon bank ([source](https://terraset.substack.com/p/our-revolving-fund-as-a-model-for))
+- **2026-06-15** — Status Moderate → Suspect ([source](https://www.carbonbank.co.uk/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.carbonbank.co.uk/))
+- **2026-04-19** — Classified as Enhanced Weathering, division, 🟢 Active ([source](https://www.carbonbank.co.uk/about-us/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.carbonbank.co.uk/))
+- **2026-04-19** — Classified as Enhanced Weathering, division, 🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))
+- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://www.carbonbank.co.uk/what-we-do/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

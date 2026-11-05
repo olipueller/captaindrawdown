@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://marble.studio/" target="_blank" rel="noopener">https://marble.studio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,15 +31,12 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-09** — news mention: Marble: ð©ðað¥ ̈ We've signed a project with SPRIND - Bundesagentur fÃ1⁄4r Sprunginnovationen ð¥… ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
-- **2026-07-29** — news mention: Marble: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen… ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
-- **2026-07-26** — news mention: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO2 pressure on… ([source](https://doi.org/10.1007/s11356-026-38071-6))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://marble.studio/about))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://marble.studio/ ([source](https://www.cdr.fyi/marketplace/marble))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/marble))
+- **2026-09-09** — News: Marble: ð©ðað¥ ̈ We've signed a project with SPRIND - Bundesagentur fÃ1⁄4r Sprunginnovationen ð¥… ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
+- **2026-07-29** — News: Marble: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen Germany's ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
+- **2026-07-26** — News: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO2 pressure on carbonate ([source](https://doi.org/10.1007/s11356-026-38071-6))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://marble.studio/about))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/marble))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/marble))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://planetsavers.earth/" target="_blank" rel="noopener">https://planetsavers.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetsavers/" target="_blank" rel="noopener">planetsavers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,22 +34,17 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 
 ## History
 
-- **2026-09-28** — news mention: Durable Carbon Dioxide Removal (CDR) Market to Reach US$36.27 Billion by 2035: 48.14% CAGR, Growth… ([source](https://www.openpr.com/news/4645451/durable-carbon-dioxide-removal-cdr-market-to-reach-us-36-27))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-08** — news mention: Asset Finance & Alternatives in APAC & Beyond - by Huiling ([source](https://www.insights.beyondhorizons.sg/p/asset-finance-and-alternatives-in-65f))
-- **2026-08-30** — news mention: Planet Savers: We are pleased to announce that Planet Savers株式会社 has been selected for the… ([source](https://www.linkedin.com/company/planetsavers/#post-d1f56ddbe150))
-- **2026-07-25** — news mention: Planet Savers: Europe may be approaching a structural shift in the market for durable carbon… ([source](https://www.linkedin.com/company/planetsavers/#post-d86813e190a7))
-- **2026-07-25** — news mention: Planet Savers: New National Public Polling: Only 12% of Japanese adults say they fully or mostly… ([source](https://www.linkedin.com/company/planetsavers/#post-d4ce27da684b))
-- **2026-07-25** — news mention: Planet Savers: 日本におけるCO2除去技術(CDR)に対する理解は、まだこれからです。… ([source](https://www.linkedin.com/company/planetsavers/#post-9155f48639b5))
-- **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech.… ([source](https://x.com/geoengineering1/status/2056116633303912735))
-- **2026-05-16** — news mention: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://planetsavers.earth/Home-en))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://planetsavers.earth/Home-en))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.nedo.go.jp/english/activities/startups/company77.html))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-28** — News: Durable Carbon Dioxide Removal (CDR) Market to Reach US$36.27 Billion by 2035: 48.14% CAGR, Growth… ([source](https://www.openpr.com/news/4645451/durable-carbon-dioxide-removal-cdr-market-to-reach-us-36-27))
+- **2026-09-08** — News: Asset Finance & Alternatives in APAC & Beyond - by Huiling ([source](https://www.insights.beyondhorizons.sg/p/asset-finance-and-alternatives-in-65f))
+- **2026-08-30** — News: Planet Savers: We are pleased to announce that Planet Savers株式会社 has been selected for the Ministry ([source](https://www.linkedin.com/company/planetsavers/#post-d1f56ddbe150))
+- **2026-07-25** — News: Planet Savers: Europe may be approaching a structural shift in the market for durable carbon… ([source](https://www.linkedin.com/company/planetsavers/#post-d86813e190a7))
+- **2026-07-25** — News: Planet Savers: New National Public Polling: Only 12% of Japanese adults say they fully or mostly… ([source](https://www.linkedin.com/company/planetsavers/#post-d4ce27da684b))
+- **2026-07-25** — News: Planet Savers: 日本におけるCO2除去技術(CDR)に対する理解は、まだこれからです。 一方で、正しく説明されることで、多くの人がその必要性と可能性を支持することが明らかになりました。 ([source](https://www.linkedin.com/company/planetsavers/#post-9155f48639b5))
+- **2026-05-17** — News: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj ([source](https://x.com/geoengineering1/status/2056116633303912735))
+- **2026-05-16** — News: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://planetsavers.earth/Home-en))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.nedo.go.jp/english/activities/startups/company77.html))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

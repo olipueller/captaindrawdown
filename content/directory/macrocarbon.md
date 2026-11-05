@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.macrocarbon.world/" target="_blank" rel="noopener">https://www.macrocarbon.world/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/macrocarbon/" target="_blank" rel="noopener">macrocarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,21 +31,17 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup spun out of Germany's Alfr
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-22** — news mention: Macrocarbon: We have completed our NEOTEC 2024 Project! We are glad to announce the successful… ([source](https://www.linkedin.com/company/macrocarbon/#post-02335664bef2))
-- **2026-08-15** — liveliness: Moderate → Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
-- **2026-07-24** — news mention: Macrocarbon: Sargassum to SAF Validation ongoing !!! MacroCarbon has secured financial support… ([source](https://www.linkedin.com/company/macrocarbon/#post-6456ebdda12a))
-- **2026-06-15** — liveliness: Active → Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.macrocarbon.world/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://green.simpliflying.com/p/dr-mar-fernandez-mendez-macrocarbon))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://green.simpliflying.com/p/dr-mar-fernandez-mendez-macrocarbon))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-22** — News: Macrocarbon: We have completed our NEOTEC 2024 Project! We are glad to announce the successful… ([source](https://www.linkedin.com/company/macrocarbon/#post-02335664bef2))
+- **2026-08-15** — Status Moderate → Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
+- **2026-07-24** — News: Macrocarbon: Sargassum to SAF Validation ongoing !!! MacroCarbon has secured financial support… ([source](https://www.linkedin.com/company/macrocarbon/#post-6456ebdda12a))
+- **2026-06-15** — Status Active → Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
+- **2026-05-01** — Status Moderate → Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
+- **2026-05-01** — Status Active → Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://www.macrocarbon.world/))
+- **2026-04-19** — Status Active → Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://green.simpliflying.com/p/dr-mar-fernandez-mendez-macrocarbon))
+- **2026-04-18** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://green.simpliflying.com/p/dr-mar-fernandez-mendez-macrocarbon))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Ecoera"
 layout: "single"
 type: "directory"
-description: "Produces biochar via pyrolysis of pelletized agricultural residues using PYREG P500/P1500 systems at a facility in Hammenhög, Sweden, selling CORCs verified under the European Biochar Certificate and"
+description: "Produces biochar via pyrolysis of pelletized agricultural residues using PYREG P500/P1500 systems at a facility in Hammenhög, Sweden, selling CORCs verified under the European Biochar Certificate and…"
 url: "/directory/ecoera/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://ecoera.se/" target="_blank" rel="noopener">https://ecoera.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoera-ab/" target="_blank" rel="noopener">ecoera-ab</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
@@ -41,24 +41,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
-- **2026-08-15** — refresh: coresignal
-- **2026-06-24** — news mention: In 2009, ECOERA AB started one of Europe&amp;#39;s earliest industrial biochar projects. ([source](https://www.linkedin.com/feed/update/urn:li:share:7474748029082894336/))
-- **2026-05-11** — liveliness: Moderate → Active ([source](https://puro.earth/marketplace/ecoera))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://ecoera.se/))
-- **2026-04-19** — merged 1 duplicate(s): Ecoera AB
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://ecoera.se/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecoera-ab))
-- **** — merged duplicate: Ecoera AB (slug=ecoera-ab)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://puro.earth/marketplace/ecoera))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://ecoera.se/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://ecoera.se/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-27** — News: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-06-24** — News: In 2009, ECOERA AB started one of Europe&amp;#39;s earliest industrial biochar projects. Their firs ([source](https://www.linkedin.com/feed/update/urn:li:share:7474748029082894336/))
+- **2026-05-11** — Status Moderate → Active ([source](https://puro.earth/marketplace/ecoera))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://ecoera.se/))
+- **2026-04-19** — Merged a duplicate entry: Ecoera AB
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://ecoera.se/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/ecoera-ab))
+- **2026-04-19** — Status Active → Moderate ([source](https://puro.earth/marketplace/ecoera))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://ecoera.se/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

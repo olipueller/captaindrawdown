@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tivano-carbon.com/" target="_blank" rel="noopener">https://www.tivano-carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tivano-carbon/" target="_blank" rel="noopener">tivano-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-04-30</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2030-04-30</small></td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-04-30)</small></td></tr>
@@ -39,16 +39,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-16** — news mention: Tivano Carbon: Tivano applies Swiss expertise to carbon dioxide removal (CDR) and underground… ([source](https://www.linkedin.com/company/tivano-carbon/#post-68db978754a5))
-- **2026-10-14** — news mention: Startup & venture capital news | Dealroom.co ([source](https://dealroom.co/news/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.tivano-carbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.tivano-carbon.com/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.tivano-carbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-16** — News: Tivano Carbon: Tivano applies Swiss expertise to carbon dioxide removal (CDR) and underground… ([source](https://www.linkedin.com/company/tivano-carbon/#post-68db978754a5))
+- **2026-10-14** — News: Startup & venture capital news | Dealroom.co ([source](https://dealroom.co/news/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.tivano-carbon.com/))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.tivano-carbon.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

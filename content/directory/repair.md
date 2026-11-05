@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.repair-carbon.com/" target="_blank" rel="noopener">https://www.repair-carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,29 +30,24 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
-- **2026-10-30** — news mention: Earth Repair Global: A year ago, we commissioned Alithic's demonstration facility in Madison… ([source](https://www.linkedin.com/company/earth-repair/#post-e14b14926baa))
-- **2026-10-01** — news mention: RepAir: Our technology has been peer-reviewed in Nature Energy, published yesterday with the… ([source](https://www.linkedin.com/company/repair-carbon/#post-4a25ca326399))
-- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
-- **2026-09-24** — news mention: Good news in terms of the scale-up of Direct Air Capture deployment: RepAir Carbon published… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwbhboxtyc2v))
-- **2026-09-24** — news mention: New Paper Shows RepAir’s Battery Design Could Enable Electrochemical DAC Below US$100 tCO2 ([source](https://carbonherald.com/new-paper-shows-repairs-battery-design-could-enable-electrochemical-dac-below-us100-tco2/?utm_source=rss&utm_medium=rss&utm_campaign=new-paper-shows-repairs-battery-design-could-enable-electrochemical-dac-below-us100-tco2))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-14** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores COâ, and has a nameplate… ([source](https://www.linkedin.com/company/earth-repair/#post-fa14aaf407b9))
-- **2026-08-08** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores CO2, and has a nameplate capacity… ([source](https://www.linkedin.com/company/earth-repair/#post-05c7fec3bb5c))
-- **2026-07-22** — news mention: RepAir: We're taking the heat out of carbon capture. Our Managing Director, Europe Jean-Philippe… ([source](https://www.linkedin.com/company/repair-carbon/#post-7f8934e54093))
-- **2026-07-20** — news mention: Massachusetts bill would end a costly gas pipeline repair program ([source](https://www.canarymedia.com/articles/utilities/massachusetts-gas-pipeline-repair-program))
-- **2026-07-09** — news mention: New Tasmania Natural Asset Trust To Invest $142M In Sustainable Forestry Plantations ([source](https://carbonherald.com/new-tasmania-natural-asset-trust-to-invest-142m-in-sustainable-forestry-plantations/))
-- **2026-07-08** — news mention: Federal Register :: Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission… ([source](https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines))
-- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
-- **2026-05-08** — news mention: War Harms the Environment. Can a Peace Treaty Repair the Damage? ([source](https://insideclimatenews.org/news/04052026/kurdish-fighters-turkey-peace-talks-environmental-impact/))
-- **2026-05-04** — news mention: True to a certain extent for now, but the framing matters. Wind and solar cut emissions. DAC… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzuh52v7323))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-20** — news mention: The Living Climate - Sierra Club Canada ([source](https://www.sierraclub.ca/living-climate-lynn-jones-ole-hendrickson/?utm_source=rss&utm_medium=rss&utm_campaign=living-climate-lynn-jones-ole-hendrickson))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.repair-carbon.com/press-posts/repair-unveils-direct-air-capture-field-prototype))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-30** — News: Earth Repair Global: A year ago, we commissioned Alithic's demonstration facility in Madison… ([source](https://www.linkedin.com/company/earth-repair/#post-e14b14926baa))
+- **2026-10-01** — News: RepAir: Our technology has been peer-reviewed in Nature Energy, published yesterday with the… ([source](https://www.linkedin.com/company/repair-carbon/#post-4a25ca326399))
+- **2026-09-25** — News: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-24** — News: Good news in terms of the scale-up of Direct Air Capture deployment: RepAir Carbon published peer-r ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwbhboxtyc2v))
+- **2026-09-24** — News: New Paper Shows RepAir’s Battery Design Could Enable Electrochemical DAC Below US$100 tCO2 ([source](https://carbonherald.com/new-paper-shows-repairs-battery-design-could-enable-electrochemical-dac-below-us100-tco2/?utm_source=rss&utm_medium=rss&utm_campaign=new-paper-shows-repairs-battery-design-could-enable-electrochemical-dac-below-us100-tco2))
+- **2026-09-14** — News: Earth Repair Global: Our one-year-old eats mineral waste, stores COâ, and has a nameplate… ([source](https://www.linkedin.com/company/earth-repair/#post-fa14aaf407b9))
+- **2026-08-08** — News: Earth Repair Global: Our one-year-old eats mineral waste, stores CO2, and has a nameplate capacity… ([source](https://www.linkedin.com/company/earth-repair/#post-05c7fec3bb5c))
+- **2026-07-22** — News: RepAir: We're taking the heat out of carbon capture. Our Managing Director, Europe Jean-Philippe… ([source](https://www.linkedin.com/company/repair-carbon/#post-7f8934e54093))
+- **2026-07-20** — News: Massachusetts bill would end a costly gas pipeline repair program ([source](https://www.canarymedia.com/articles/utilities/massachusetts-gas-pipeline-repair-program))
+- **2026-07-09** — News: New Tasmania Natural Asset Trust To Invest $142M In Sustainable Forestry Plantations ([source](https://carbonherald.com/new-tasmania-natural-asset-trust-to-invest-142m-in-sustainable-forestry-plantations/))
+- **2026-07-08** — News: Federal Register :: Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission… ([source](https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines))
+- **2026-05-28** — News: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-08** — News: War Harms the Environment. Can a Peace Treaty Repair the Damage? ([source](https://insideclimatenews.org/news/04052026/kurdish-fighters-turkey-peace-talks-environmental-impact/))
+- **2026-05-04** — News: True to a certain extent for now, but the framing matters. Wind and solar cut emissions. DAC remov ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzuh52v7323))
+- **2026-04-20** — News: The Living Climate - Sierra Club Canada ([source](https://www.sierraclub.ca/living-climate-lynn-jones-ole-hendrickson/?utm_source=rss&utm_medium=rss&utm_campaign=living-climate-lynn-jones-ole-hendrickson))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-carbon-raises-15m-to-commercialize-breakthrough-technology))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.repair-carbon.com/press-posts/repair-unveils-direct-air-capture-field-prototype))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

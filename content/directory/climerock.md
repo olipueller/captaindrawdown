@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://climerock.com/" target="_blank" rel="noopener">https://climerock.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climerock/" target="_blank" rel="noopener">climerock</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,18 +30,13 @@ ClimeRock is a French startup that spreads basalt rock powder onto farming field
 
 ## History
 
-- **2026-09-07** — news mention: ClimeRock: Notre projet "Rock net ZÃ©ro" parmi les laurÃ©ats de la Fondation d'entreprise FEREC en… ([source](https://www.linkedin.com/company/climerock/#post-4abb1a620dd2))
-- **2026-08-23** — news mention: ClimeRock: â ̈ Heureux dâannoncer que le projet RockNetZero, portÃ© par ClimeRock avec notre… ([source](https://www.linkedin.com/company/climerock/#post-5f456fc64ac2))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-08** — news mention: ClimeRock: Notre projet "Rock net Zéro" parmi les lauréats de la Fondation d'entreprise FEREC en… ([source](https://www.linkedin.com/company/climerock/#post-77d870d70c3d))
-- **2026-07-25** — news mention: ClimeRock: Heureux d’annoncer que le projet RockNetZero, porté par ClimeRock avec notre… ([source](https://www.linkedin.com/company/climerock/#post-706fbac71563))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://climerock.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://climerock.com/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://climerock.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-07** — News: ClimeRock: Notre projet "Rock net ZÃ©ro" parmi les laurÃ©ats de la Fondation d'entreprise FEREC en… ([source](https://www.linkedin.com/company/climerock/#post-4abb1a620dd2))
+- **2026-08-23** — News: ClimeRock: â ̈ Heureux dâannoncer que le projet RockNetZero, portÃ© par ClimeRock avec notre… ([source](https://www.linkedin.com/company/climerock/#post-5f456fc64ac2))
+- **2026-08-08** — News: ClimeRock: Notre projet "Rock net Zéro" parmi les lauréats de la Fondation d'entreprise FEREC en… ([source](https://www.linkedin.com/company/climerock/#post-77d870d70c3d))
+- **2026-07-25** — News: ClimeRock: Heureux d’annoncer que le projet RockNetZero, porté par ClimeRock avec notre… ([source](https://www.linkedin.com/company/climerock/#post-706fbac71563))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://climerock.com/))
+- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://climerock.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

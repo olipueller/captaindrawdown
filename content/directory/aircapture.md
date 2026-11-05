@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.aircapture.com/" target="_blank" rel="noopener">https://www.aircapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aircapture-llc/" target="_blank" rel="noopener">aircapture-llc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,33 +35,29 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 
 ## History
 
-- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
-- **2026-10-15** — refresh: screenshot
-- **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
-- **2026-10-05** — news mention: Flux Carbon: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners… ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
-- **2026-09-05** — news mention: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
-- **2026-09-02** — news mention: CDR.fyi: This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement… ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
-- **2026-08-29** — news mention: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
-- **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
-- **2026-08-27** — news mention: Aircapture And NGK Launch New DAC Demonstration Project In Japan ([source](https://carbonherald.com/aircapture-and-ngk-launch-new-dac-demonstration-project-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=aircapture-and-ngk-launch-new-dac-demonstration-project-in-japan))
-- **2026-08-20** — news mention: Aircapture: In a new feature, The Brewer Magazine takes a closer look at how Almanac is bringing… ([source](https://www.linkedin.com/company/aircapture-llc/#post-34101a64d964))
-- **2026-08-14** — news mention: PyroCCS: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled… ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
-- **2026-08-03** — news mention: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
-- **2026-07-31** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of… ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
-- **2026-07-27** — news mention: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-earth/#post-8e9257525ee9))
-- **2026-07-24** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for ð°ða Kenya!! ð¢ Tencent has announced the… ([source](https://www.linkedin.com/company/pyroccs/#post-94e66063f6cb))
-- **2026-07-23** — news mention: Aircapture: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are… ([source](https://www.linkedin.com/company/aircapture-llc/#post-cab7b79b16ad))
-- **2026-07-23** — news mention: Aircapture: CDR.fyi broke down Tencent ’s CarbonX 2.0 program: • 16 winners • 660 applicants • 54… ([source](https://www.linkedin.com/company/aircapture-llc/#post-3c9a31ad6a40))
-- **2026-07-23** — news mention: Aircapture: The Carbon Herald recently covered Aircapture’s selection as a winner in Tencent ’s… ([source](https://www.linkedin.com/company/aircapture-llc/#post-83b23b021fab))
-- **2026-06-25** — news mention: Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award ([source](https://www.prnewswire.com/news-releases/aircaptures-patented-microwave-direct-air-capture-technology-wins-tencent-carbonx-2-0-award-302809973.html))
-- **2026-05-12** — news mention: Aircapture and Almanac Beer Co. Launch World&#039;s First Commercial Beer Carbonated with CO2… ([source](https://renewable-carbon.eu/news/?p=176646))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.eznewswire.com/newsroom/aircapture-raises-50-million-in-series-a-financing-to-scale-modular-profitable-direct-air-capture-solution))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.esgtoday.com/direct-air-capture-startup-aircapture-raises-50-million-to-remove-and-re-use-co2-at-industrial-sites/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://carbonherald.com/aircapture-secures-50m-in-series-a-funding-to-scale-its-modular-dac-tech/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-27** — News: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-10** — News: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
+- **2026-10-05** — News: Flux Carbon: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners… ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
+- **2026-09-05** — News: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
+- **2026-09-02** — News: CDR.fyi: This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement… ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
+- **2026-08-29** — News: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
+- **2026-08-27** — News: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
+- **2026-08-27** — News: Aircapture And NGK Launch New DAC Demonstration Project In Japan ([source](https://carbonherald.com/aircapture-and-ngk-launch-new-dac-demonstration-project-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=aircapture-and-ngk-launch-new-dac-demonstration-project-in-japan))
+- **2026-08-20** — News: Aircapture: In a new feature, The Brewer Magazine takes a closer look at how Almanac is bringing… ([source](https://www.linkedin.com/company/aircapture-llc/#post-34101a64d964))
+- **2026-08-14** — News: PyroCCS: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled… ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
+- **2026-08-03** — News: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
+- **2026-07-31** — News: PyroCCS: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of… ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
+- **2026-07-27** — News: Flux: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of its… ([source](https://www.linkedin.com/company/flux-earth/#post-8e9257525ee9))
+- **2026-07-24** — News: PyroCCS: Direct Air Capture (DAC) wins big for ð°ða Kenya!! ð¢ Tencent has announced the… ([source](https://www.linkedin.com/company/pyroccs/#post-94e66063f6cb))
+- **2026-07-23** — News: Aircapture: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are… ([source](https://www.linkedin.com/company/aircapture-llc/#post-cab7b79b16ad))
+- **2026-07-23** — News: Aircapture: CDR.fyi broke down Tencent ’s CarbonX 2.0 program: • 16 winners • 660 applicants • 54… ([source](https://www.linkedin.com/company/aircapture-llc/#post-3c9a31ad6a40))
+- **2026-07-23** — News: Aircapture: The Carbon Herald recently covered Aircapture’s selection as a winner in Tencent ’s… ([source](https://www.linkedin.com/company/aircapture-llc/#post-83b23b021fab))
+- **2026-06-25** — News: Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award ([source](https://www.prnewswire.com/news-releases/aircaptures-patented-microwave-direct-air-capture-technology-wins-tencent-carbonx-2-0-award-302809973.html))
+- **2026-05-12** — News: Aircapture and Almanac Beer Co. Launch World&#039;s First Commercial Beer Carbonated with CO2… ([source](https://renewable-carbon.eu/news/?p=176646))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.eznewswire.com/newsroom/aircapture-raises-50-million-in-series-a-financing-to-scale-modular-profitable-direct-air-capture-solution))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.esgtoday.com/direct-air-capture-startup-aircapture-raises-50-million-to-remove-and-re-use-co2-at-industrial-sites/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://carbonherald.com/aircapture-secures-50m-in-series-a-funding-to-scale-its-modular-dac-tech/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

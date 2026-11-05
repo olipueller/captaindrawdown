@@ -1,6 +1,7 @@
 ---
 title: "Directory — Internal Review Queue"
 url: "/directory/_review/"
+draft: true   # internal April 2026 queue, not for the public site (review 2026-11-05)
 noindex: true
 robotsNoIndex: true
 sitemap: {disable: true}

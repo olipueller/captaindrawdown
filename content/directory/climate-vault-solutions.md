@@ -2,7 +2,7 @@
 title: "Climate Vault Solutions"
 layout: "single"
 type: "directory"
-description: "Climate Vault Solutions is a Chicago-based CDR portfolio manager and reseller that vaults compliance-market allowances and curates a portfolio of vetted CDR credits sourced via its Tech Chamber RFP"
+description: "Climate Vault Solutions is a Chicago-based CDR portfolio manager and reseller that vaults compliance-market allowances and curates a portfolio of vetted CDR credits sourced via its Tech Chamber RFP…"
 url: "/directory/climate-vault-solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://climatevault.com" target="_blank" rel="noopener">https://climatevault.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatevault/" target="_blank" rel="noopener">climatevault</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,21 +30,16 @@ Climate Vault Solutions, Inc. is the commercial/sales arm of the University of C
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-12** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by… ([source](https://www.linkedin.com/company/climatevault/#post-fe23a3d53744))
-- **2026-08-15** — liveliness: Moderate → Active
-- **2026-07-31** — news mention: Climate Vault Solutions: What happens when a Wyoming company turns sugar beet molasses and… ([source](https://www.linkedin.com/company/climatevault/#post-ac281c83884c))
-- **2026-07-31** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by… ([source](https://www.linkedin.com/company/climatevault/#post-7e2940befcf2))
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://climatevault.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://climatevault.com/))
-- **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/cowboy-clean-fuels-selected-to-join-climate-vault-solutions-premium-cdr-supplier-portfolio/))
+- **2026-09-12** — News: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by… ([source](https://www.linkedin.com/company/climatevault/#post-fe23a3d53744))
+- **2026-08-15** — Status Moderate → Active
+- **2026-07-31** — News: Climate Vault Solutions: What happens when a Wyoming company turns sugar beet molasses and… ([source](https://www.linkedin.com/company/climatevault/#post-ac281c83884c))
+- **2026-07-31** — News: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by… ([source](https://www.linkedin.com/company/climatevault/#post-7e2940befcf2))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://climatevault.com/))
+- **2026-04-18** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://climatevault.com/))
+- **2026-04-18** — Added to the directory ([source](https://carbonherald.com/cowboy-clean-fuels-selected-to-join-climate-vault-solutions-premium-cdr-supplier-portfolio/))
 
 ---
 

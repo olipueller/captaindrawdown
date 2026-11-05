@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Website</th><td><a href="https://adsorb.co.za/" target="_blank" rel="noopener">https://adsorb.co.za/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adsorb-technologies-pty-ltd/" target="_blank" rel="noopener">adsorb-technologies-pty-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,21 +29,13 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://adsorb.co.za/))
-- **2026-07-19** — news mention: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and… ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://adsorb.co.za/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://adsorb.co.za/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.context.news/just-transition/biochar-boom-south-africa-bets-on-super-charcoal-for-green-jobs))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://adsorb.co.za/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.context.news/just-transition/biochar-boom-south-africa-bets-on-super-charcoal-for-green-jobs))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://adsorb.co.za/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://adsorb.co.za/))
+- **2026-07-19** — News: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and… ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://adsorb.co.za/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://adsorb.co.za/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.context.news/just-transition/biochar-boom-south-africa-bets-on-super-charcoal-for-green-jobs))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://adsorb.co.za/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

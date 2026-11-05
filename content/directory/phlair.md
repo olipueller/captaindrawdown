@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://phlair.com/" target="_blank" rel="noopener">https://phlair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phlair/" target="_blank" rel="noopener">phlair</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>10 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,20 +34,15 @@ Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup f
 
 ## History
 
-- **2026-09-17** — news mention: Phlair: At Phlair, we’re building Direct Air Capture technology using an energy-efficient… ([source](https://www.linkedin.com/company/phlair/#post-f8a5c6297f92))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important… ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
-- **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for… ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
-- **2026-07-22** — news mention: Phlair: WISAG has kept buildings clean for 60 years. Now they're turning to the CO2 in the air.… ([source](https://www.linkedin.com/company/phlair/#post-4d7db5390021))
-- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
-- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://phlair.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://phlair.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://phlair.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-17** — News: Phlair: At Phlair, we’re building Direct Air Capture technology using an energy-efficient… ([source](https://www.linkedin.com/company/phlair/#post-f8a5c6297f92))
+- **2026-08-06** — News: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important… ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
+- **2026-08-06** — News: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for… ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
+- **2026-07-22** — News: Phlair: WISAG has kept buildings clean for 60 years. Now they're turning to the CO2 in the air.… ([source](https://www.linkedin.com/company/phlair/#post-4d7db5390021))
+- **2026-06-24** — News: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
+- **2026-05-28** — News: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://phlair.com/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://phlair.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

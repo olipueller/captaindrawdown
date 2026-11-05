@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.recapcarbon.com/" target="_blank" rel="noopener">https://www.recapcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recap-carbon/" target="_blank" rel="noopener">recap-carbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,34 +30,29 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
-- **2026-10-19** — news mention: Recap: Today was the final decommission of our 2nd Generation yardwaste-to-biochar pyrolysis pilot… ([source](https://www.linkedin.com/company/recap-carbon/#post-73cc17c3afa3))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-06** — news mention: Durable CDR Market Recap: September 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2026))
-- **2026-10-06** — news mention: Let that sink in: the Carbon Gap CDR recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7512870406601457664/))
-- **2026-09-25** — news mention: Durable CDR Market Recap: July 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-2026))
-- **2026-09-25** — news mention: Durable CDR Market Recap: August 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2026))
-- **2026-09-20** — news mention: Kalp Climate Tech: In June we showed up on a global list. AlliedOffsets named us among the top… ([source](https://www.linkedin.com/company/krishe-carbon/#post-a848c547ba0c))
-- **2026-07-23** — news mention: CO2Re: Today UK Government published its response to the Independent Review of Greenhouse Gas… ([source](https://www.linkedin.com/company/co2re/#post-fe9500f60e19))
-- **2026-07-08** — news mention: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi Isometric raised <strong>$40… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
-- **2026-07-07** — news mention: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))
-- **2026-07-07** — news mention: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
-- **2026-07-04** — news mention: Svante – Weekly Recap - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/svante-weekly-recap-3))
-- **2026-06-24** — news mention: CRRA recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475122909817217024/))
-- **2026-06-09** — news mention: Reading about carbon removal is one thing. Seeing it firsthand is another. Thanks to Climate… ([source](https://x.com/CharmIndustrial/status/2064346783246155824))
-- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
-- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends CDR.fyi's April 2026 recap logs… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
-- **2026-05-12** — news mention: Durable CDR Market Recap: April 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-april-2026))
-- **2026-05-11** — liveliness: Moderate → Active
-- **2026-05-09** — news mention: Durable CDR Market Recap: February 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-february-2026))
-- **2026-05-09** — news mention: Durable CDR Market Recap: March 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-march-2026))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.recapcarbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.recapcarbon.com/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/recap))
+- **2026-10-19** — News: Recap: Today was the final decommission of our 2nd Generation yardwaste-to-biochar pyrolysis pilot… ([source](https://www.linkedin.com/company/recap-carbon/#post-73cc17c3afa3))
+- **2026-10-06** — News: Durable CDR Market Recap: September 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2026))
+- **2026-10-06** — News: Let that sink in: the Carbon Gap CDR recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7512870406601457664/))
+- **2026-09-25** — News: Durable CDR Market Recap: July 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-2026))
+- **2026-09-25** — News: Durable CDR Market Recap: August 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2026))
+- **2026-09-20** — News: Kalp Climate Tech: In June we showed up on a global list. AlliedOffsets named us among the top… ([source](https://www.linkedin.com/company/krishe-carbon/#post-a848c547ba0c))
+- **2026-07-23** — News: CO2Re: Today UK Government published its response to the Independent Review of Greenhouse Gas… ([source](https://www.linkedin.com/company/co2re/#post-fe9500f60e19))
+- **2026-07-08** — News: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi Isometric raised <strong>$40 mil ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
+- **2026-07-07** — News: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))
+- **2026-07-07** — News: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
+- **2026-07-04** — News: Svante – Weekly Recap - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/svante-weekly-recap-3))
+- **2026-06-24** — News: CRRA recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475122909817217024/))
+- **2026-06-09** — News: Reading about carbon removal is one thing. Seeing it firsthand is another. Thanks to Climate Impact ([source](https://x.com/CharmIndustrial/status/2064346783246155824))
+- **2026-05-13** — News: Bedrock Initiative | Cascade Climate https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
+- **2026-05-13** — News: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
+- **2026-05-12** — News: Durable CDR Market Recap: April 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-april-2026))
+- **2026-05-11** — Status Moderate → Active
+- **2026-05-09** — News: Durable CDR Market Recap: February 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-february-2026))
+- **2026-05-09** — News: Durable CDR Market Recap: March 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-march-2026))
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.recapcarbon.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.recapcarbon.com/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/recap))
 
 ---
 

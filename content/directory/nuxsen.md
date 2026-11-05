@@ -15,14 +15,14 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://nuxsen.com/" target="_blank" rel="noopener">https://nuxsen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuxsen/" target="_blank" rel="noopener">nuxsen</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Nūxsen is a New York-based direct air capture startup founded in 2022 developing electrochemical DAC reactors with a voltage-activated sorbent instead of thermal regeneration. It was a Phase 1 semifinalist in the DOE Direct Air Capture Pre-Commercial Technology Prize and tested its sorbent at the NETL DAC Center in Pittsburgh, capturing ~2.6 g CO2 at lab scale. The company remains small (~5 employees), unfunded as of mid-2025, and has shown limited public activity since late 2024.
+Nūxsen is a New York-based direct air capture startup founded in 2022 developing electrochemical DAC reactors with a voltage-activated sorbent instead of thermal regeneration. It was a Phase 1 semifinalist in the DOE Direct Air Capture Pre-Commercial Technology Prize and tested its sorbent at the NETL DAC Center in Pittsburgh, capturing ~2.6 g CO2 at lab scale.
 
 ![Nuxsen website](/screenshots/nuxsen.png)
 
@@ -30,26 +30,17 @@ Nūxsen is a New York-based direct air capture startup founded in 2022 developin
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://nuxsen.com/news/))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://nuxsen.com/news/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://nuxsen.com/news/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Suspect → Likely Dead ([source](https://nuxsen.com/news/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://nuxsen.com/news/))
-- **2026-04-19** — merged 1 duplicate(s): Nūxsen
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://nuxsen.com/news/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://nuxsen.com/ ([source](https://www.cdr.fyi/supplier/nuxsen))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/nuxsen))
-- **** — merged duplicate: Nūxsen (slug=nūxsen)
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://nuxsen.com/news/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://nuxsen.com/news/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://nuxsen.com/news/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://nuxsen.com/news/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Likely Dead → Active ([source](https://nuxsen.com/news/))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://nuxsen.com/news/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://nuxsen.com/news/))
+- **2026-05-01** — Status Suspect → Likely Dead ([source](https://nuxsen.com/news/))
+- **2026-04-19** — Classified as DAC, supplier, 🟠 Suspect ([source](https://nuxsen.com/news/))
+- **2026-04-19** — Merged a duplicate entry: Nūxsen
+- **2026-04-19** — Classified as DAC, supplier, 🟡 Moderate ([source](https://nuxsen.com/news/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/nuxsen))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/nuxsen))
+- **2026-04-19** — Status Suspect → Likely Dead ([source](https://nuxsen.com/news/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

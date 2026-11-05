@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://bluefieldrenewable.com/" target="_blank" rel="noopener">https://bluefieldrenewable.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluefieldrenewable/" target="_blank" rel="noopener">bluefieldrenewable</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,19 +29,14 @@ Bluefield Renewable Energy (BRE) was founded in 2014 and is headquartered in Sin
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://bluefieldrenewable.com/))
-- **2026-08-01** — news mention: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all… ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
-- **2026-05-01** — refresh: coresignal
-- **2026-05-01** — refresh: coresignal, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://bluefieldrenewable.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://bluefieldrenewable.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://bluefieldrenewable.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://bluefieldrenewable.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://bluefieldrenewable.com/about-us/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://bluefieldrenewable.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://bluefieldrenewable.com/))
+- **2026-08-01** — News: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all… ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://bluefieldrenewable.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://bluefieldrenewable.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://bluefieldrenewable.com/))
+- **2026-04-19** — Status Suspect → Likely Dead ([source](https://bluefieldrenewable.com/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://bluefieldrenewable.com/about-us/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

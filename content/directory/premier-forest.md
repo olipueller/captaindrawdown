@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://premierforest.co.uk/" target="_blank" rel="noopener">https://premierforest.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/premier-forest-products-ltd/" target="_blank" rel="noopener">premier-forest-products-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -34,15 +34,11 @@ Premier Forest Products is a Newport (South Wales) based timber importer, sawmil
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://premierforest.co.uk/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Active ([source](https://www.regreener.earth/blog/the-5-best-biochar-carbon-credit-and-offset-projects-of-2026))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-corcs-from-premier-forest-wales-100136))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://premierforest.co.uk/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://premierforest.co.uk/))
+- **2026-04-19** — Status Moderate → Active ([source](https://www.regreener.earth/blog/the-5-best-biochar-carbon-credit-and-offset-projects-of-2026))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-corcs-from-premier-forest-wales-100136))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://premierforest.co.uk/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

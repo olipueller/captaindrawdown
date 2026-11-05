@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.atalantaclimate.co/" target="_blank" rel="noopener">https://www.atalantaclimate.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atalanta-climate/" target="_blank" rel="noopener">atalanta-climate</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,15 +31,10 @@ Atalanta Climate is a Vancouver-based startup co-founded by Sally Chen and Lucas
 
 ## History
 
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Active → Suspect ([source](https://atalantaclimate.co/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.atalantaclimate.co/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.atalantaclimate.co/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.atalantaclimate.co/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Active → Suspect ([source](https://atalantaclimate.co/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.atalantaclimate.co/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.atalantaclimate.co/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

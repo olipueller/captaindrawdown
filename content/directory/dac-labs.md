@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.daclaboratories.com/" target="_blank" rel="noopener">https://www.daclaboratories.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dac-laboratories/" target="_blank" rel="noopener">dac-laboratories</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,25 +31,16 @@ Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a low-c
 
 ## History
 
-- **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.daclaboratories.com/media))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://www.daclaboratories.com/media))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://www.daclaboratories.com/media))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.daclaboratories.com/media))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.daclaboratories.com/))
-- **2026-04-19** — merged 1 duplicate(s): Dac Laboratories
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.daclaboratories.com/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/dac-laboratories))
-- **** — merged duplicate: Dac Laboratories (slug=dac-laboratories)
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.daclaboratories.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.daclaboratories.com/media))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.daclaboratories.com/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.daclaboratories.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-15** — Status Likely Dead → Active ([source](https://www.daclaboratories.com/media))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://www.daclaboratories.com/media))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://www.daclaboratories.com/media))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.daclaboratories.com/media))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.daclaboratories.com/))
+- **2026-04-19** — Merged a duplicate entry: Dac Laboratories
+- **2026-04-19** — Classified as DAC, supplier, 🟡 Moderate ([source](https://www.daclaboratories.com/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/dac-laboratories))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.daclaboratories.com/media))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

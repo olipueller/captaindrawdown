@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="http://www.yuanchutech.cn/en/" target="_blank" rel="noopener">http://www.yuanchutech.cn/en/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,17 +29,12 @@ Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 tha
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](http://www.yuanchutech.cn/en/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](http://www.yuanchutech.cn/en/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.yuanchutech.com/en/sys-nd/67.html))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](http://www.yuanchutech.cn/en/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-18** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.yuanchutech.com/en/sys-nd/67.html))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

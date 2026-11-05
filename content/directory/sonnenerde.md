@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.sonnenerde.at" target="_blank" rel="noopener">https://www.sonnenerde.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
@@ -41,18 +41,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-05** — news mention: Sonnenerde: 85% efficiency That is what our EU LIFE demonstration plant delivered — day after… ([source](https://www.linkedin.com/company/sonnenerde/#post-b940fee2f909))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-11** — liveliness: Suspect → Active ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-05** — News: Sonnenerde: 85% efficiency That is what our EU LIFE demonstration plant delivered — day after… ([source](https://www.linkedin.com/company/sonnenerde/#post-b940fee2f909))
+- **2026-05-11** — Status Suspect → Active ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
+- **2026-05-01** — Status Active → Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
+- **2026-04-19** — Status Active → Suspect ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.sonnenerde.at/en/climate-protection/sonnenerde-biochar-plant))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

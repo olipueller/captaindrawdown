@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://wellplanet.pro/" target="_blank" rel="noopener">https://wellplanet.pro/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wellplanetpro/" target="_blank" rel="noopener">wellplanetpro</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,17 +30,11 @@ WellPlanet is a direct air capture and sequestration company partnering with org
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://wellplanet.pro/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://wellplanet.pro/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://wellplanet.pro/ ([source](https://www.cdr.fyi/supplier/wellplanet-project))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/wellplanet-project))
+- **2026-05-01** — Status Suspect → Moderate
+- **2026-04-19** — Classified as DAC, supplier, 🟠 Suspect ([source](https://wellplanet.pro/))
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/wellplanet-project))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/wellplanet-project))
 
 ---
 

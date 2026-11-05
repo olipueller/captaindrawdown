@@ -2,7 +2,7 @@
 title: "Greenlyte Carbon Technologies"
 layout: "single"
 type: "directory"
-description: "Liquid-sorbent low-temperature DAC process that captures CO2 from air while co-producing green hydrogen via alkaline electrolysis, with outputs used for both carbon removal and e-fuel synthesis"
+description: "Liquid-sorbent low-temperature DAC process that captures CO2 from air while co-producing green hydrogen via alkaline electrolysis, with outputs used for both carbon removal and e-fuel synthesis…"
 url: "/directory/greenlyte-carbon-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.greenlyte.tech/" target="_blank" rel="noopener">https://www.greenlyte.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenlyte-carbon-technologies/" target="_blank" rel="noopener">greenlyte-carbon-technologies</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,17 +34,12 @@ Greenlyte Carbon Technologies is a German DAC startup founded in 2022 and headqu
 
 ## History
 
-- **2026-10-08** — news mention: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-6ce18673a40a))
-- **2026-09-03** — news mention: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-a76640f9153a))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-22** — news mention: Greenlyte Carbon Technologies: Scaling LiquidSolarTM from demonstration to a bankable technology… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-c250ab3e831a))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.greenlyte.tech/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.greenlyte.tech/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.hydrocarbonprocessing.com/news/2025/11/greenlyte-launches-world-s-first-liquidsolar-efuel-plant/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-08** — News: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-6ce18673a40a))
+- **2026-09-03** — News: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-a76640f9153a))
+- **2026-07-22** — News: Greenlyte Carbon Technologies: Scaling LiquidSolarTM from demonstration to a bankable technology… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-c250ab3e831a))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.greenlyte.tech/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.hydrocarbonprocessing.com/news/2025/11/greenlyte-launches-world-s-first-liquidsolar-efuel-plant/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

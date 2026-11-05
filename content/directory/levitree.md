@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.levitree.com/" target="_blank" rel="noopener">https://www.levitree.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,18 +30,14 @@ Levitree is a California-based startup (founded 2021, Berkeley/San Rafael) that 
 
 ## History
 
-- **2026-10-15** — liveliness: Suspect → Likely Dead ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
-- **2026-09-15** — refresh: screenshot
-- **2026-06-15** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.levitree.com/technology))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://bakarlabs.berkeley.edu/levitree-lifting-cities-out-of-flood-danger-with-robots/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.levitree.com/technology))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — Status Suspect → Likely Dead ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
+- **2026-06-15** — Status Active → Suspect ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
+- **2026-05-01** — Status Suspect → Active ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
+- **2026-05-01** — Status Active → Suspect ([source](https://tracxn.com/d/companies/levitree/__plZdKRJIcopt8QBpbShVpTfBjzz3g1ekNnqbdDxOys0))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.levitree.com/technology))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://bakarlabs.berkeley.edu/levitree-lifting-cities-out-of-flood-danger-with-robots/))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.levitree.com/technology))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

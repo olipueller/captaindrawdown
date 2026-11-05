@@ -2,7 +2,7 @@
 title: "Accend"
 layout: "single"
 type: "directory"
-description: "Accend is a Norway-based CDR consultancy and project developer providing ISO-compliant LCA services, Puro.earth CORC certification support, and credit brokerage for biochar and bio-based construction"
+description: "Accend is a Norway-based CDR consultancy and project developer providing ISO-compliant LCA services, Puro.earth CORC certification support, and credit brokerage for biochar and bio-based construction…"
 url: "/directory/accend/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.accend.earth/" target="_blank" rel="noopener">https://www.accend.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/accend-conusulting/" target="_blank" rel="noopener">accend-conusulting</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-11-30</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2029-11-30</small></td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-11-30)</small></td></tr>
@@ -40,29 +40,20 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility… ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
-- **2026-08-29** — news mention: Brodie Biomass: Like many others, we are sure, it has been an incredibly busy few months and there… ([source](https://www.linkedin.com/company/brodiebiomass/#post-fbb821afd66f))
-- **2026-08-13** — news mention: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
-- **2026-04-19** — merged 1 duplicate(s): Accend AS
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.accend.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.accend.earth/ ([source](https://www.cdr.fyi/supplier/Accend-as))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/Accend-as))
-- **** — merged duplicate: Accend AS (slug=accend-as)
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.accend.earth/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.accend.earth/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://puro.earth/blog/partners/accend))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-08-30** — News: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility… ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
+- **2026-08-29** — News: Brodie Biomass: Like many others, we are sure, it has been an incredibly busy few months and there… ([source](https://www.linkedin.com/company/brodiebiomass/#post-fbb821afd66f))
+- **2026-08-13** — News: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
+- **2026-04-19** — Merged a duplicate entry: Accend AS
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.accend.earth/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/Accend-as))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/Accend-as))
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://www.accend.earth/))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
+- **2026-04-18** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://puro.earth/blog/partners/accend))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

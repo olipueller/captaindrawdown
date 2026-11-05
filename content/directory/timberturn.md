@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://timberturn.ca/" target="_blank" rel="noopener">https://timberturn.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-safe/" target="_blank" rel="noopener">wood-safe</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,24 +29,15 @@ TimberTurn is a Calgary, Alberta-based carbon removal startup that buries non-me
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.instagram.com/timber.turn/))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: TimberTurn is a Calgary-based carbon removal startup burying waste wood for carbon…
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://timberturn.ca/))
-- **2026-04-19** — merged 1 duplicate(s): Timber Turn Storage Inc
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.pollutiononline.com/doc/direct-storage-of-biomass-coalition-launches-to-advance-carbon-removal-pathway-0001))
-- **2026-04-19** — url added from cdr.fyi supplier page: http://timberturn.ca ([source](https://www.cdr.fyi/supplier/timber-turn-storage))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/timber-turn-storage))
-- **** — merged duplicate: Timber Turn Storage Inc (slug=timber-turn-storage-inc)
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://timberturn.ca/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.instagram.com/timber.turn/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://timberturn.ca/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Suspect ([source](https://timberturn.ca/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.instagram.com/timber.turn/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://timberturn.ca/))
+- **2026-04-19** — Merged a duplicate entry: Timber Turn Storage Inc
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://www.pollutiononline.com/doc/direct-storage-of-biomass-coalition-launches-to-advance-carbon-removal-pathway-0001))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/timber-turn-storage))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/timber-turn-storage))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.instagram.com/timber.turn/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟠 Suspect ([source](https://timberturn.ca/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

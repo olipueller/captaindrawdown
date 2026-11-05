@@ -21,7 +21,7 @@ ShowToc: false
 
 ## The Organization
 
-- 🏢 **[Carbon Drawdown Initiative](https://www.carbon-drawdown.de/)** — [carbon-drawdown.de](https://carbon-drawdown.de)
+- 🏢 **[Carbon Drawdown Initiative](https://www.carbon-drawdown.de/)** — [www.carbon-drawdown.de](https://www.carbon-drawdown.de/)
 
 ## Subscribe
 

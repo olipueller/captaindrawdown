@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.aquarry.earth/" target="_blank" rel="noopener">https://www.aquarry.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquarry-inc/" target="_blank" rel="noopener">aquarry-inc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,19 +35,13 @@ Aquarry is a California-based (also listed in Denver) CDR startup founded in 202
 
 ## History
 
-- **2026-11-04** — news mention: Aquarry: We just scaled our hardtech mining technology by 1,000x for $180,000 with a headcount of… ([source](https://www.linkedin.com/company/aquarry-inc/#post-d9b7b9bc810f))
-- **2026-11-02** — news mention: Aquarry Launches Its First Mine Remediation Pilot Site In Wyoming ([source](https://carbonherald.com/aquarry-launches-its-first-mine-remediation-pilot-site-in-wyoming/?utm_source=rss&utm_medium=rss&utm_campaign=aquarry-launches-its-first-mine-remediation-pilot-site-in-wyoming))
-- **2026-10-24** — news mention: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
-- **2026-09-20** — news mention: Aquarry: Mining wastes and infrastructure could help permanently remove more than 1 billion tons… ([source](https://www.linkedin.com/company/aquarry-inc/#post-e58488609e9a))
-- **2026-08-15** — news mention: Aquarry: Mining wastes and infrastructure could help permanently remove more than 1 billion tons… ([source](https://www.linkedin.com/company/aquarry-inc/#post-3c7024ffad6e))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.aquarry.earth/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.aquarry.earth/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.aquarry.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-02** — News: Aquarry Launches Its First Mine Remediation Pilot Site In Wyoming ([source](https://carbonherald.com/aquarry-launches-its-first-mine-remediation-pilot-site-in-wyoming/?utm_source=rss&utm_medium=rss&utm_campaign=aquarry-launches-its-first-mine-remediation-pilot-site-in-wyoming))
+- **2026-10-24** — News: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
+- **2026-09-20** — News: Aquarry: Mining wastes and infrastructure could help permanently remove more than 1 billion tons of ([source](https://www.linkedin.com/company/aquarry-inc/#post-e58488609e9a))
+- **2026-08-15** — News: Aquarry: Mining wastes and infrastructure could help permanently remove more than 1 billion tons of ([source](https://www.linkedin.com/company/aquarry-inc/#post-3c7024ffad6e))
+- **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://www.aquarry.earth/))
+- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://www.aquarry.earth/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

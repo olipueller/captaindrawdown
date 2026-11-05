@@ -2,7 +2,7 @@
 title: "Aperam"
 layout: "single"
 type: "directory"
-description: "Pyrolyzes eucalyptus-wood byproducts from its charcoal-for-steel operation into biochar, which is applied to its own FSC-certified plantation soils and sold as Puro.earth CORC biochar carbon-removal"
+description: "Pyrolyzes eucalyptus-wood byproducts from its charcoal-for-steel operation into biochar, which is applied to its own FSC-certified plantation soils and sold as Puro.earth CORC biochar carbon-removal…"
 url: "/directory/aperam/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://aperambioenergia.com.br/en/biochar/" target="_blank" rel="noopener">https://aperambioenergia.com.br/en/biochar/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda.</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,28 +33,22 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 
 ## History
 
-- **2026-10-05** — news mention: Inspiratus Technology: Biochar in Latin America will not scale through isolated projects alone.… ([source](https://www.linkedin.com/company/inspiratus-tech/#post-8a15371071ec))
-- **2026-09-29** — news mention: Aperam BioEnergia - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/aperam-bioenergia/))
-- **2026-09-21** — news mention: Dry Streams in an Ocean of Eucalyptus: new report calls for Aperam expansion to be halted… ([source](https://environmentalpaper.org/2026/09/dry-streams-in-an-ocean-of-eucalyptus-new-report-calls-for-aperam-expansion-to-be-halted/))
-- **2026-08-15** — refresh: coresignal
-- **2026-06-11** — news mention: Aperam Site Visit | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470409314663337984/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/aperam-bioenergia))
-- **2026-04-19** — merged 1 duplicate(s): Aperam BioEnergia
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/aperam-bioenergia))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://aperambioenergia.com ([source](https://www.cdr.fyi/supplier/aperam-bioenergia))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aperam-bioenergia))
-- **** — merged duplicate: Aperam BioEnergia (slug=aperam-bioenergia)
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://aperambioenergia.com.br/en/biochar/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-05** — News: Inspiratus Technology: Biochar in Latin America will not scale through isolated projects alone. The ([source](https://www.linkedin.com/company/inspiratus-tech/#post-8a15371071ec))
+- **2026-09-29** — News: Aperam BioEnergia - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/aperam-bioenergia/))
+- **2026-09-21** — News: Dry Streams in an Ocean of Eucalyptus: new report calls for Aperam expansion to be halted… ([source](https://environmentalpaper.org/2026/09/dry-streams-in-an-ocean-of-eucalyptus-new-report-calls-for-aperam-expansion-to-be-halted/))
+- **2026-06-11** — News: Aperam Site Visit | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470409314663337984/))
+- **2026-05-01** — Status Suspect → Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
+- **2026-05-01** — Status Active → Suspect ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/aperam-bioenergia))
+- **2026-04-19** — Merged a duplicate entry: Aperam BioEnergia
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, division, 🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/aperam-bioenergia))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/aperam-bioenergia))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/aperam-bioenergia))
+- **2026-04-19** — Status Active → Suspect ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
+- **2026-04-19** — Classified as Biochar, division, 🟢 Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
+- **2026-04-18** — Classified as Biochar, division, 🟢 Active ([source](https://aperambioenergia.com.br/en/biochar/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

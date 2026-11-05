@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://www.removecarbontoday.com/" target="_blank" rel="noopener">https://www.removecarbontoday.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remove-carbon-today/" target="_blank" rel="noopener">remove-carbon-today</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,18 +30,14 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
-- **2026-09-10** — news mention: Meet Our Partners ([source](https://www.removecarbontoday.com/pages/partners))
-- **2026-08-15** — news mention: Remove Carbon Today: One million CORCs retired in the Puro Registry. Today, Puro.earth marks a… ([source](https://www.linkedin.com/company/remove-carbon-today/#post-ca91ef45ac40))
-- **2026-08-15** — refresh: coresignal
-- **2026-06-27** — news mention: Carbon Removal Tracker ([source](https://www.removecarbontoday.com/pages/carbon-removal-tracker))
-- **2026-05-22** — refresh: liveliness
-- **2026-05-22** — liveliness: Moderate → Active
-- **2026-05-12** — news mention: New Platform Lets Individuals Buy Verified Carbon Removal With Registry Proof ([source](https://carbonherald.com/platform-individuals-buy-verified-carbon-removal-registry-proof/?utm_source=rss&utm_medium=rss&utm_campaign=platform-individuals-buy-verified-carbon-removal-registry-proof))
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://www.removecarbontoday.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: http://www.removecarbontoday.com ([source](https://www.cdr.fyi/marketplace/remove-carbon-today))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/remove-carbon-today))
+- **2026-09-10** — News: Meet Our Partners ([source](https://www.removecarbontoday.com/pages/partners))
+- **2026-08-15** — News: Remove Carbon Today: One million CORCs retired in the Puro Registry. Today, Puro.earth marks a… ([source](https://www.linkedin.com/company/remove-carbon-today/#post-ca91ef45ac40))
+- **2026-06-27** — News: Carbon Removal Tracker ([source](https://www.removecarbontoday.com/pages/carbon-removal-tracker))
+- **2026-05-22** — Status Moderate → Active
+- **2026-05-12** — News: New Platform Lets Individuals Buy Verified Carbon Removal With Registry Proof ([source](https://carbonherald.com/platform-individuals-buy-verified-carbon-removal-registry-proof/?utm_source=rss&utm_medium=rss&utm_campaign=platform-individuals-buy-verified-carbon-removal-registry-proof))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://www.removecarbontoday.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/remove-carbon-today))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/remove-carbon-today))
 
 ---
 

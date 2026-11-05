@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://revatacarbon.com/" target="_blank" rel="noopener">https://revatacarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revatacarbon/" target="_blank" rel="noopener">revatacarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,25 +30,19 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-12** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-02c5345c9e8b))
-- **2026-09-06** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-7148b98e5abf))
-- **2026-08-30** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-7676ae6221ad))
-- **2026-08-15** — liveliness: Moderate → Active
-- **2026-07-24** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-3ee1b295c80e))
-- **2026-07-24** — news mention: Revata Carbon PTE LTD: Our first bulk biomass export vessel has sailed. A milestone for Revata… ([source](https://www.linkedin.com/company/revatacarbon/#post-ba374b1957f0))
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://revatacarbon.com/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://revatacarbon.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://revatacarbon.com/ ([source](https://www.cdr.fyi/supplier/revata-carbon))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/revata-carbon))
+- **2026-10-12** — News: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-02c5345c9e8b))
+- **2026-09-06** — News: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-7148b98e5abf))
+- **2026-08-30** — News: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-7676ae6221ad))
+- **2026-08-15** — Status Moderate → Active
+- **2026-07-24** — News: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production… ([source](https://www.linkedin.com/company/revatacarbon/#post-3ee1b295c80e))
+- **2026-07-24** — News: Revata Carbon PTE LTD: Our first bulk biomass export vessel has sailed. A milestone for Revata… ([source](https://www.linkedin.com/company/revatacarbon/#post-ba374b1957f0))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-05-01** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://revatacarbon.com/))
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/revata-carbon))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/revata-carbon))
 
 ---
 

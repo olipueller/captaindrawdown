@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.zeodac.com/" target="_blank" rel="noopener">https://www.zeodac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeodac-inc/" target="_blank" rel="noopener">zeodac-inc</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,15 +30,10 @@ ZeoDAC is a Caltech/Georgia Tech spinout founded in June 2023 by Professors Chri
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-25** — news mention: ZeoDAC: We are proud to share that ZeoDAC has been issued two new U.S. patents protecting our… ([source](https://www.linkedin.com/company/zeodac-inc/#post-e1d8c3614fd2))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.zeodac.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.zeodac.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.zeodac.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-07-25** — News: ZeoDAC: We are proud to share that ZeoDAC has been issued two new U.S. patents protecting our… ([source](https://www.linkedin.com/company/zeodac-inc/#post-e1d8c3614fd2))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.zeodac.com/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.zeodac.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

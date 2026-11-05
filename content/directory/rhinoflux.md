@@ -2,7 +2,7 @@
 title: "Rhinoflux"
 layout: "single"
 type: "directory"
-description: "Rhinoflux's \"hydro/wet chemical looping\" technology uses redox reactions of metal-ion solutions to convert biomass into clean electricity and >99.9% purity CO2 without combustion, integrating BECCS"
+description: "Rhinoflux's \"hydro/wet chemical looping\" technology uses redox reactions of metal-ion solutions to convert biomass into clean electricity and >99.9% purity CO2 without combustion, integrating BECCS…"
 url: "/directory/rhinoflux/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://rhinoflux.com" target="_blank" rel="noopener">https://rhinoflux.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rhinoflux/" target="_blank" rel="noopener">rhinoflux</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,18 +30,15 @@ Rhinoflux is a seed-stage company based in Kyoto, Japan, founded in 2024, that o
 
 ## History
 
-- **2026-10-03** — news mention: Rhinoflux: Sludge was always the target. Today we’re running a PoC on it. Too wet to burn well… ([source](https://www.linkedin.com/company/rhinoflux/#post-deea2735a089))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-01** — news mention: Rhinoflux: We just proved it runs. With Sumitomo Forestry â Japanâs largest forestry company… ([source](https://www.linkedin.com/company/rhinoflux/#post-17bc9782b7ce))
-- **2026-09-01** — news mention: Rhinoflux: Sludge was always the target. Today weâre running a PoC on it. Too wet to burn well… ([source](https://www.linkedin.com/company/rhinoflux/#post-1ac928efaaec))
-- **2026-08-10** — news mention: Rhinoflux: We are excited to announce that our pre-commercial demonstration site is officially… ([source](https://www.linkedin.com/company/rhinoflux/#post-f60c15084e65))
-- **2026-07-26** — news mention: Rhinoflux: We just proved it runs. With Sumitomo Forestry — Japan’s largest forestry company… ([source](https://www.linkedin.com/company/rhinoflux/#post-eaefb2815c39))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://beyondnextventures.com/insight/invested-in-rhinoflux))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.shimadzu.com/news/2024/rerin779fc7gg23o.html))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://rhinoflux.com ([source](https://www.cdr.fyi/supplier/rhinoflux))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/rhinoflux))
+- **2026-10-03** — News: Rhinoflux: Sludge was always the target. Today we’re running a PoC on it. Too wet to burn well… ([source](https://www.linkedin.com/company/rhinoflux/#post-deea2735a089))
+- **2026-09-01** — News: Rhinoflux: We just proved it runs. With Sumitomo Forestry â Japanâs largest forestry company… ([source](https://www.linkedin.com/company/rhinoflux/#post-17bc9782b7ce))
+- **2026-09-01** — News: Rhinoflux: Sludge was always the target. Today weâre running a PoC on it. Too wet to burn well… ([source](https://www.linkedin.com/company/rhinoflux/#post-1ac928efaaec))
+- **2026-08-10** — News: Rhinoflux: We are excited to announce that our pre-commercial demonstration site is officially… ([source](https://www.linkedin.com/company/rhinoflux/#post-f60c15084e65))
+- **2026-07-26** — News: Rhinoflux: We just proved it runs. With Sumitomo Forestry — Japan’s largest forestry company… ([source](https://www.linkedin.com/company/rhinoflux/#post-eaefb2815c39))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://beyondnextventures.com/insight/invested-in-rhinoflux))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.shimadzu.com/news/2024/rerin779fc7gg23o.html))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/rhinoflux))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/rhinoflux))
 
 ---
 

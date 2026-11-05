@@ -4,14 +4,14 @@ description: "55,865 researchers who published on carbon dioxide removal since 2
 url: "/cdr-researcher-census/"
 ---
 
-**Who is working on carbon dioxide removal?** The census lists every researcher with at least one CDR-relevant paper or preprint since 2021 on one of 6 pathways, built from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/) (both CC0). Release **2026-11.4** (data as of 2026-11-05): **55,865 researchers listed**, calibrated estimate of the real population **51,946**, from 15,896 papers, 11,015 institutions and 170 countries; 11,214 are based in Europe. The database was last refreshed on 2026-10-11 (1,779 new papers, 2,669 new researchers, 95,329 in total); it refreshes on the 11th of every month and the data release follows around the 15th.
+**Who is working on carbon dioxide removal?** The census lists every researcher with at least one CDR-relevant paper or preprint since 2021 on one of 6 pathways, built from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/) (both CC0). Release **2026-11.4** (data as of 2026-11-05): **55,865 researchers listed**, calibrated estimate of the real population **51,946**, from 15,896 papers, 11,015 institutions and 170 countries; 11,214 are based in Europe. The database was last refreshed on 2026-10-11 (1,779 new papers, 2,669 new researchers in the database); it refreshes on the 11th of every month and the data release follows around the 15th.
 
-<p style="font-size:.9rem;color:var(--secondary)">Names, ORCID iDs, institutions and publication counts come from OpenAlex and ORCID. Person-level data is published only for the researchers in the top lists (1,027 people); everyone else is counted in aggregates. If you are listed and want your entry corrected or removed, write to <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a>; it is done within five working days. Details in the <a href="/privacy/">privacy notice</a>.</p>
+<p style="font-size:.9rem;color:var(--secondary)">Names, ORCID iDs, institutions and publication counts come from OpenAlex and ORCID. Person-level data is published only for the researchers in the top lists (1,026 people); everyone else is counted in aggregates. If you are listed and want your entry corrected or removed, write to <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a>; it is done within five working days. Details in the <a href="/privacy/">privacy notice</a>.</p>
 
 ## Where to look
 
-- **[Top 100 per pathway](/data/researchers/)**: the most productive researchers since 2021 worldwide and the top 50 in Europe, with profile pages, every counted paper linked, and the lists as CSV and JSON.
-- **[Researcher lookup](/cdr-researcher-census/lookup/)**: search the top-list researchers by name, country or pathway.
+- **[Top 100 per pathway](/data/researchers/)**: the most active and the most cited researchers since 2021 worldwide and the top 50 in Europe, with profile pages, every counted paper linked, and the lists as CSV and JSON.
+- **[Researcher lookup](/cdr-researcher-census/lookup/)**: search the top-list researchers by name.
 - **[Collaboration atlas](/cdr-researcher-census/collaboration/)**: who publishes with whom, across pathways and countries.
 - **[Data](/data/researchers/)** and **[API](/api/)**: aggregates by country, pathway and sector, papers per year, the top lists, versioned and citable.
 
@@ -111,11 +111,11 @@ For scale: [Lück et al. (2025)](https://doi.org/10.1038/s41467-025-56166-9) map
 
 ## Versions
 
-The version history of the census (v1 in March 2026 to v3.4 in July 2026, the monthly refreshes and every data release since 2026-11) is kept in one place: the [data changelog](/data/changelog/).
+The version history of the census (v1 in March 2026 to v3.4 in July 2026, the monthly refreshes and every data release since 2026-11.4) is kept in one place: the [data changelog](/data/changelog/).
 
 ---
 
-*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://carbon-drawdown.de). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page).*
+*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://www.carbon-drawdown.de/). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367*
 
 <script>
 document.addEventListener('click', function (e) {

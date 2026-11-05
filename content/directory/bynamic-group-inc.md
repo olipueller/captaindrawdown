@@ -2,7 +2,7 @@
 title: "Bynamic Group Inc."
 layout: "single"
 type: "directory"
-description: "Consultancy and brokerage for voluntary carbon credits (including nature-based removals) and I-REC renewable energy certificates; assists project developers and buyers with transactions and Article 6"
+description: "Consultancy and brokerage for voluntary carbon credits (including nature-based removals) and I-REC renewable energy certificates; assists project developers and buyers with transactions and Article 6…"
 url: "/directory/bynamic-group-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.bynamicgroup.com" target="_blank" rel="noopener">https://www.bynamicgroup.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bynamic-group/" target="_blank" rel="noopener">bynamic-group</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,11 +30,8 @@ Bynamic Group is a Calgary, Canada-based consultancy and carbon-credit trading f
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.bynamicgroup.com))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/bynamic-group))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.bynamicgroup.com))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/bynamic-group))
 
 ---
 

@@ -16,14 +16,14 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://agcarbonsolutions.com/" target="_blank" rel="noopener">https://agcarbonsolutions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/agricultural-fuels-corp./" target="_blank" rel="noopener">agricultural-fuels-corp.</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
 ## About
 
-Ag Carbon Solutions (ACS) is a small family-run Orlando, Florida operator that buries silvicultural residuals and clean organic waste below the water table on agricultural land using their patented Agricultural Production System (U.S. Patent 11,511,325). The process creates what they call Permanent Agricultural Land (PAL) for cattle grazing while sequestering carbon. The firm is very small (~2 employees) with no credit issuances on major registries.
+Ag Carbon Solutions (ACS) is a small family-run Orlando, Florida operator that buries silvicultural residuals and clean organic waste below the water table on agricultural land using their patented Agricultural Production System (U.S. Patent 11,511,325). The process creates what they call Permanent Agricultural Land (PAL) for cattle grazing while sequestering carbon.
 
 ![Ag Carbon Solutions website](/screenshots/ag-carbon-solutions.png)
 
@@ -31,19 +31,11 @@ Ag Carbon Solutions (ACS) is a small family-run Orlando, Florida operator that b
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://agcarbonsolutions.com/wp-content/uploads/2024/03/ACS-THE-Climate-Change-Solution-10-X-Part-I-2020-10-27-Jenny-1.docx-1.pdf))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://agcarbonsolutions.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://agcarbonsolutions.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://agcarbonsolutions.com/wp-content/uploads/2024/03/ACS-THE-Climate-Change-Solution-10-X-Part-I-2020-10-27-Jenny-1.docx-1.pdf))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://agcarbonsolutions.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Suspect ([source](https://agcarbonsolutions.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://agcarbonsolutions.com/wp-content/uploads/2024/03/ACS-THE-Climate-Change-Solution-10-X-Part-I-2020-10-27-Jenny-1.docx-1.pdf))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://agcarbonsolutions.com/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://agcarbonsolutions.com/wp-content/uploads/2024/03/ACS-THE-Climate-Change-Solution-10-X-Part-I-2020-10-27-Jenny-1.docx-1.pdf))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟠 Suspect ([source](https://agcarbonsolutions.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

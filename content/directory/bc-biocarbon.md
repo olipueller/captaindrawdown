@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.bcbiocarbon.com/" target="_blank" rel="noopener">https://www.bcbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bc-biocarbon/" target="_blank" rel="noopener">bc-biocarbon</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -44,18 +44,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-b026aca78ae0))
-- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
-- **2026-10-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
-- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.bcbiocarbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.bcbiocarbon.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.bcbiocarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-05** — News: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-b026aca78ae0))
+- **2026-10-29** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
+- **2026-10-05** — News: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
+- **2026-09-28** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.bcbiocarbon.com/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.bcbiocarbon.com/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

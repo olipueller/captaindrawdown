@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://a-r-c.dk/" target="_blank" rel="noopener">https://a-r-c.dk/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,16 +29,11 @@ ARC (Amager Resource Center) is a Danish inter-municipal waste management compan
 
 ## History
 
-- **2026-09-15** — liveliness: Suspect → Likely Dead ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Suspect → Likely Dead ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
+- **2026-05-01** — Status Active → Suspect ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://bioenergyinternational.com/e-on-and-arc-upgrade-copencapture-partnership/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

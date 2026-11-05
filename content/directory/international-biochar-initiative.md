@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://biochar-international.org/" target="_blank" rel="noopener">https://biochar-international.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-biochar-initiative/" target="_blank" rel="noopener">international-biochar-initiative</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,20 +31,17 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-10-10** — news mention: BlueLayer: The International Biochar Initiative 's recent “Guide to Digital MRV for Biochar”… ([source](https://www.linkedin.com/company/getbluelayer/#post-a8ca5316fa9a))
-- **2026-08-12** — news mention: International Biochar Initiative: The International Biochar Initiative is proud to share that the… ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-c7881325aa52))
-- **2026-08-05** — news mention: International Biochar Initiative: Member Opportunity: Request for Quotation — Industrial… ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-a6870dedc510))
-- **2026-07-29** — news mention: International Biochar Initiative: 930 voices from around the world projected 9.3 million metric… ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-d26f22cc8922))
-- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta… ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
-- **2026-07-14** — news mention: We&amp;#39;re joining the International Biochar Initiative on 21 July for a webinar built for… ([source](https://www.linkedin.com/feed/update/urn:li:share:7482690374163996672/))
-- **2026-06-24** — news mention: Bio360 brought its flagship event to Africa for the first time this week and we were glad to be… ([source](https://www.linkedin.com/feed/update/urn:li:share:7473738964319899649/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-27** — news mention: Introducing the Biochar Operator Course - International Biochar Initiative ([source](https://biochar-international.org/event/introducing-the-biochar-operator-course/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://biochar-international.org/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://biochar-international.org/ ([source](https://www.cdr.fyi/marketplace/international-biochar-initiative))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/international-biochar-initiative))
+- **2026-10-10** — News: BlueLayer: The International Biochar Initiative 's recent “Guide to Digital MRV for Biochar” covers ([source](https://www.linkedin.com/company/getbluelayer/#post-a8ca5316fa9a))
+- **2026-08-12** — News: International Biochar Initiative: The International Biochar Initiative is proud to share that the… ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-c7881325aa52))
+- **2026-08-05** — News: International Biochar Initiative: Member Opportunity: Request for Quotation — Industrial… ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-a6870dedc510))
+- **2026-07-29** — News: International Biochar Initiative: 930 voices from around the world projected 9.3 million metric… ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-d26f22cc8922))
+- **2026-07-27** — News: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta ! ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
+- **2026-07-14** — News: We&amp;#39;re joining the International Biochar Initiative on 21 July for a webinar built for… ([source](https://www.linkedin.com/feed/update/urn:li:share:7482690374163996672/))
+- **2026-06-24** — News: Bio360 brought its flagship event to Africa for the first time this week and we were glad to be… ([source](https://www.linkedin.com/feed/update/urn:li:share:7473738964319899649/))
+- **2026-04-27** — News: Introducing the Biochar Operator Course - International Biochar Initiative ([source](https://biochar-international.org/event/introducing-the-biochar-operator-course/))
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟢 Active ([source](https://biochar-international.org/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/international-biochar-initiative))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/international-biochar-initiative))
 
 ---
 

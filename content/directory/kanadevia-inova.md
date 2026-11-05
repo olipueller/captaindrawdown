@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia-inova.com/" target="_blank" rel="noopener">https://www.kanadevia-inova.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanadevia-inova/" target="_blank" rel="noopener">kanadevia-inova</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,19 +30,14 @@ Kanadevia Inova (formerly Hitachi Zosen Inova) is a Swiss-based Waste-to-Energy 
 
 ## History
 
-- **2026-09-15** — news mention: Kanadevia Inova strengthens Northern European biogas platform with BioValue acquisition - Europe ([source](https://www.europesays.com/europe/138473/))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-01** — news mention: Kanadevia Inova: We competed on a landfill tender with a Waste-to-X solution, and we won on price.… ([source](https://www.linkedin.com/company/kanadevia-inova/#post-8750bb8ab464))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — News: Kanadevia Inova strengthens Northern European biogas platform with BioValue acquisition - Europe ([source](https://www.europesays.com/europe/138473/))
+- **2026-09-01** — News: Kanadevia Inova: We competed on a landfill tender with a Waste-to-X solution, and we won on price.… ([source](https://www.linkedin.com/company/kanadevia-inova/#post-8750bb8ab464))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.rngcoalition.com/news/2026/3/5/kanadevia-inova-breaks-ground-on-minnesotas-first-organic-waste-to-biochar-renewable-gas-facility))
+- **2026-04-19** — Classified as BECCS, division, 🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -7,7 +7,6 @@ draft: false
 tags: ["data-viz", "cdr", "directory"]
 categories: ["data-viz"]
 cover:
-  image: "/charts/directory-workforce-by-pathway.png"
   alt: "directory-workforce-by-pathway"
   hidden: false
 ---

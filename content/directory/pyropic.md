@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pyropic.com" target="_blank" rel="noopener">https://pyropic.com</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,13 +28,9 @@ Pyropic is a US-based pure-play biochar company that deploys integrated, turn-ke
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://pyropic.com/))
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.pyropic.com ([source](https://www.cdr.fyi/supplier/pyropic))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://pyropic.com/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/pyropic))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://pyropic.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/pyropic))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/pyropic))
 
 ---
 

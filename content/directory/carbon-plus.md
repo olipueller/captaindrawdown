@@ -2,7 +2,7 @@
 title: "Carbon Plus"
 layout: "single"
 type: "directory"
-description: "Carbon Plus operates the Bukit Selar Carbon Station in Kelantan, Malaysia, converting biomass (palm kernel shells, bamboo, EFB, wood waste) into biochar via high-temperature gasification (>850°C) for"
+description: "Carbon Plus operates the Bukit Selar Carbon Station in Kelantan, Malaysia, converting biomass (palm kernel shells, bamboo, EFB, wood waste) into biochar via high-temperature gasification (>850°C) for…"
 url: "/directory/carbon-plus/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-plus.org/" target="_blank" rel="noopener">https://carbon-plus.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplus-na/" target="_blank" rel="noopener">carbonplus-na</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,15 +29,10 @@ Carbon Plus is a Malaysia-based biochar project developer operating Malaysia's f
 
 ## History
 
-- **2026-09-23** — news mention: Carbon Plus: From residual biomass to carbon removal. In this Supplier Spotlight, three suppliers… ([source](https://www.linkedin.com/company/carbonplus-na/#post-3e7cd1cf463a))
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbon-plus.org/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbon-plus.org/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carbon-plus.org/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-23** — News: Carbon Plus: From residual biomass to carbon removal. In this Supplier Spotlight, three suppliers… ([source](https://www.linkedin.com/company/carbonplus-na/#post-3e7cd1cf463a))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbon-plus.org/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://carbon-plus.org/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

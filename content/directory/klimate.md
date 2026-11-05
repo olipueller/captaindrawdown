@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.klimate.co/" target="_blank" rel="noopener">https://www.klimate.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimate-co/" target="_blank" rel="noopener">klimate-co</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -35,25 +35,20 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
-- **2026-11-02** — news mention: Evaneos ↔ Klimate — biochar ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
-- **2026-10-05** — news mention: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
-- **2026-10-05** — news mention: Eneco Expands Its Partnership With Klimate To Explore Carbon Removals ([source](https://carbonherald.com/eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals))
-- **2026-09-17** — news mention: Klimate: We are excited to announce that Evaneos is supporting carbon removal through Klimate.… ([source](https://www.linkedin.com/company/klimate-co/#post-575f16e9763a))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-14** — news mention: Evaneos To Support A Portfolio Of High-Quality CDR Via Klimate ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate/?utm_source=rss&utm_medium=rss&utm_campaign=evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
-- **2026-08-12** — news mention: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS)… ([source](https://www.linkedin.com/company/klimate-co/#post-b4535fff04e6))
-- **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO2 - AND BUILDING A BUSINESS… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
-- **2026-08-05** — news mention: Klimate: 4⃣ 4 things you should do to prep for SBTi’s Net Zero Standard 2.0. SBTi released its… ([source](https://www.linkedin.com/company/klimate-co/#post-ad6b76222c0f))
-- **2026-08-05** — news mention: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS)… ([source](https://www.linkedin.com/company/klimate-co/#post-2137b073a1d2))
-- **2026-07-22** — news mention: Klimate: A huge step for durable carbon removal (CDR) development On Friday, the EU Commission… ([source](https://www.linkedin.com/company/klimate-co/#post-d18690533fe1))
-- **2026-06-30** — news mention: 44 data points per batch. 63 validation items. Up to 20 evidence documents per site. ([source](https://www.linkedin.com/feed/update/urn:li:share:7477337611133591552/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.klimate.co))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.klimate.co))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-11-02** — News: Evaneos ↔ Klimate — biochar ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
+- **2026-10-05** — News: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon credits ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
+- **2026-10-05** — News: Eneco Expands Its Partnership With Klimate To Explore Carbon Removals ([source](https://carbonherald.com/eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals))
+- **2026-09-17** — News: Klimate: We are excited to announce that Evaneos is supporting carbon removal through Klimate.… ([source](https://www.linkedin.com/company/klimate-co/#post-575f16e9763a))
+- **2026-09-14** — News: Evaneos To Support A Portfolio Of High-Quality CDR Via Klimate ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate/?utm_source=rss&utm_medium=rss&utm_campaign=evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
+- **2026-08-12** — News: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS)… ([source](https://www.linkedin.com/company/klimate-co/#post-b4535fff04e6))
+- **2026-08-07** — News: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO2 - AND BUILDING A BUSINESS… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
+- **2026-08-05** — News: Klimate: 4⃣ 4 things you should do to prep for SBTi’s Net Zero Standard 2.0. SBTi released its… ([source](https://www.linkedin.com/company/klimate-co/#post-ad6b76222c0f))
+- **2026-08-05** — News: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS)… ([source](https://www.linkedin.com/company/klimate-co/#post-2137b073a1d2))
+- **2026-07-22** — News: Klimate: A huge step for durable carbon removal (CDR) development On Friday, the EU Commission… ([source](https://www.linkedin.com/company/klimate-co/#post-d18690533fe1))
+- **2026-06-30** — News: 44 data points per batch. 63 validation items. Up to 20 evidence documents per site. As Richard Dav ([source](https://www.linkedin.com/feed/update/urn:li:share:7477337611133591552/))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.klimate.co))
+- **2026-04-18** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.klimate.co))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

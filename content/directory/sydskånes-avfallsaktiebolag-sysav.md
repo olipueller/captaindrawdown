@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.sysav.se" target="_blank" rel="noopener">https://www.sysav.se</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sysav/" target="_blank" rel="noopener">sysav</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,13 +31,10 @@ Sysav (Sydskånes avfallsaktiebolag) is a waste management utility owned by 14 m
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.mynewsdesk.com/se/sysav/pressreleases/sysav-och-polykemi-tecknar-avsiktsfoerklaring-foer-permanenta-minusutslaepp-3340257))
-- **2026-04-19** — url added from cdr.fyi supplier page: http://sysav.se ([source](https://www.cdr.fyi/supplier/sysav))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/sysav))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.mynewsdesk.com/se/sysav/pressreleases/sysav-och-polykemi-tecknar-avsiktsfoerklaring-foer-permanenta-minusutslaepp-3340257))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/sysav))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/sysav))
 
 ---
 

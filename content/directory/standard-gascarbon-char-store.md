@@ -2,7 +2,7 @@
 title: "Standard Gas/Carbon Char Store"
 layout: "single"
 type: "directory"
-description: "SG100 Advanced Thermal Cracking (pyrolysis/gasification) plants convert non-recyclable and hazardous wastes into syngas (primary output, for power/hydrogen/fuels) and biochar co-product (~10-15% of"
+description: "SG100 Advanced Thermal Cracking (pyrolysis/gasification) plants convert non-recyclable and hazardous wastes into syngas (primary output, for power/hydrogen/fuels) and biochar co-product (~10-15% of…"
 url: "/directory/standard-gascarbon-char-store/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://standardgas.com/" target="_blank" rel="noopener">https://standardgas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/standardgas/" target="_blank" rel="noopener">standardgas</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,19 +30,12 @@ London-based Standard Gas Technologies is commercialising its carbon-negative en
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://standardgas.com/decarbonisation-solutions/))
-- **2026-04-19** — merged 1 duplicate(s): Standard Gas
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://standardgas.com/sg100-technology/))
-- **2026-04-19** — discovered via: web_search_ai, cdrfyi ([source](https://www.standardgas.co.uk))
-- **** — merged duplicate: Standard Gas (slug=standard-gas)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://standardgas.com/sg100-technology/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://standardgas.com/sg100-technology/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://standardgas.com/decarbonisation-solutions/))
+- **2026-04-19** — Merged a duplicate entry: Standard Gas
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://standardgas.com/sg100-technology/))
+- **2026-04-19** — Added to the directory ([source](https://www.standardgas.co.uk))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://standardgas.com/sg100-technology/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

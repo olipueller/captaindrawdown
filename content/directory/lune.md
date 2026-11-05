@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://lune.co/" target="_blank" rel="noopener">https://lune.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lune-climate/" target="_blank" rel="noopener">lune-climate</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,12 +30,9 @@ Lune (Lune Climate Ltd) is a London-based climate API and platform that helps bu
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://lune.co/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://lune.co/ ([source](https://www.cdr.fyi/marketplace/lune))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/lune))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://lune.co/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/lune))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/lune))
 
 ---
 

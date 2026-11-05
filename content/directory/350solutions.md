@@ -2,7 +2,7 @@
 title: "350solutions"
 layout: "single"
 type: "directory"
-description: "Independent third-party Validation & Verification Body (VVB) providing ISO 14034-based verification and technical due diligence for CDR projects on behalf of registries (Puro.Earth, Isometric) and"
+description: "Independent third-party Validation & Verification Body (VVB) providing ISO 14034-based verification and technical due diligence for CDR projects on behalf of registries (Puro.Earth, Isometric) and…"
 url: "/directory/350solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://350solutions.com/" target="_blank" rel="noopener">https://350solutions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/350solutions/" target="_blank" rel="noopener">350solutions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -34,23 +34,17 @@ liveliness: "🟢 Active"
 
 ## History
 
-- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
-- **2026-08-23** — news mention: 350solutions: ð¥3 Microsoft is excited to share its latest carbon removal purchase agreement with… ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
-- **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently… ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
-- **2026-08-16** — news mention: 350solutions: Microsoft is excited to share its latest carbon removal purchase agreement with… ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))
-- **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity… ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
-- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy… ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://350solutions.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://350solutions.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://350solutions.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness= Active ([source](https://350solutions.com/solutions/carbon-removal-verification/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-29** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
+- **2026-09-28** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
+- **2026-08-23** — News: 350solutions: ð¥3 Microsoft is excited to share its latest carbon removal purchase agreement with… ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
+- **2026-08-16** — News: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently… ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
+- **2026-08-16** — News: 350solutions: Microsoft is excited to share its latest carbon removal purchase agreement with… ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))
+- **2026-08-01** — News: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity… ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
+- **2026-07-25** — News: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy… ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://350solutions.com/))
+- **2026-04-18** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://350solutions.com/))
+- **2026-04-18** — Classified as Enabling Tech, supplier, 🟢 Active ([source](https://350solutions.com/solutions/carbon-removal-verification/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

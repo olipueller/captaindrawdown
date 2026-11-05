@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonconnect.earth/" target="_blank" rel="noopener">https://www.carbonconnect.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonconnectearth/" target="_blank" rel="noopener">carbonconnectearth</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,16 +30,12 @@ CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-13** — news mention: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-ff50139f4b74))
-- **2026-09-06** — news mention: CarbonConnect: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-f4b86980a60b))
-- **2026-07-25** — news mention: CarbonConnect: Dans le cadre de la démarche de contribution carbone volontaire du Festival de… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-e701a094e968))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carbonconnect.earth/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carbonconnect.earth/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonconnect.earth/ ([source](https://www.cdr.fyi/supplier/carbonconnect))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbonconnect))
+- **2026-10-13** — News: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-ff50139f4b74))
+- **2026-09-06** — News: CarbonConnect: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival de ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-f4b86980a60b))
+- **2026-07-25** — News: CarbonConnect: Dans le cadre de la démarche de contribution carbone volontaire du Festival de… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-e701a094e968))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.carbonconnect.earth/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/carbonconnect))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/carbonconnect))
 
 ---
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cormetech.com/" target="_blank" rel="noopener">https://www.cormetech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cormetech/" target="_blank" rel="noopener">cormetech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -35,15 +35,10 @@ CORMETECH is a North Carolina-based manufacturer of Selective Catalytic Reductio
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=side_business liveliness= Active ([source](https://www.cormetech.com/))
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.cormetech.com/carbon-capture/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.cormetech.com/direct-air-capture/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Enabling Tech, side business, 🟢 Active ([source](https://www.cormetech.com/))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.cormetech.com/carbon-capture/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.cormetech.com/direct-air-capture/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

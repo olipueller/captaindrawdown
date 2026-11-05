@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ucaneo.com/" target="_blank" rel="noopener">https://www.ucaneo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ucaneo/" target="_blank" rel="noopener">ucaneo</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,24 +34,19 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 
 ## History
 
-- **2026-09-25** — news mention: Ucaneo: Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what… ([source](https://www.linkedin.com/company/ucaneo/#post-95614e29c79e))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-20** — news mention: Ucaneo: Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what… ([source](https://www.linkedin.com/company/ucaneo/#post-c1c78251f64f))
-- **2026-07-30** — news mention: Ucaneo: Welcome to the CO2 Store of the Future. The world's first place where you can experience… ([source](https://www.linkedin.com/company/ucaneo/#post-85d8f4875d15))
-- **2026-07-23** — news mention: Ucaneo: The EU just signed up to help us build the carbon economy of the future. The European… ([source](https://www.linkedin.com/company/ucaneo/#post-e343b65c3abf))
-- **2026-07-09** — news mention: Ucaneo Inaugurates Germany's Largest DAC Facility ([source](https://www.process-worldwide.com/ucaneo-inaugurates-germanys-largest-dac-facility-a-91443e483c1f5e73a90a0052f81d4a75/))
-- **2026-07-03** — news mention: Ucaneo Inaugurates Germany’s Largest Direct Air Capture Facility • CHEManager is the… ([source](https://chemanager-online.com/en/news/inauguration-of-germanys-largest-direct-air-capture-facility))
-- **2026-07-02** — news mention: Siemens und Ucaneo bringen Direct Air Capture auf kommerzielles Niveau ([source](https://prozesstechnik.industrie.de/dekarbonisierung/siemens-und-ucaneo-bringen-direct-air-capture-auf-kommerzielles-niveau/))
-- **2026-07-02** — news mention: Ucaneo Opens Germany’s Largest DAC Plant ([source](https://carbonherald.com/ucaneo-opens-germanys-largest-dac-plant/?utm_source=rss&utm_medium=rss&utm_campaign=ucaneo-opens-germanys-largest-dac-plant))
-- **2026-06-26** — news mention: Siemens and Ucaneo Partnership to Scale Direct Air Capture ([source](https://www.ien.eu/article/siemens-and-ucaneo-partnership-to-scale-direct-air-capture/))
-- **2026-06-25** — news mention: Siemens and Ucaneo partner to scale direct air capture | Press | Company | Siemens ([source](https://press.siemens.com/global/en/pressrelease/siemens-and-ucaneo-partner-scale-direct-air-capture))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-25** — News: Ucaneo: Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what… ([source](https://www.linkedin.com/company/ucaneo/#post-95614e29c79e))
+- **2026-08-20** — News: Ucaneo: Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what… ([source](https://www.linkedin.com/company/ucaneo/#post-c1c78251f64f))
+- **2026-07-30** — News: Ucaneo: Welcome to the CO2 Store of the Future. The world's first place where you can experience… ([source](https://www.linkedin.com/company/ucaneo/#post-85d8f4875d15))
+- **2026-07-23** — News: Ucaneo: The EU just signed up to help us build the carbon economy of the future. The European… ([source](https://www.linkedin.com/company/ucaneo/#post-e343b65c3abf))
+- **2026-07-09** — News: Ucaneo Inaugurates Germany's Largest DAC Facility ([source](https://www.process-worldwide.com/ucaneo-inaugurates-germanys-largest-dac-facility-a-91443e483c1f5e73a90a0052f81d4a75/))
+- **2026-07-03** — News: Ucaneo Inaugurates Germany’s Largest Direct Air Capture Facility • CHEManager is the market-leading ([source](https://chemanager-online.com/en/news/inauguration-of-germanys-largest-direct-air-capture-facility))
+- **2026-07-02** — News: Siemens und Ucaneo bringen Direct Air Capture auf kommerzielles Niveau ([source](https://prozesstechnik.industrie.de/dekarbonisierung/siemens-und-ucaneo-bringen-direct-air-capture-auf-kommerzielles-niveau/))
+- **2026-07-02** — News: Ucaneo Opens Germany’s Largest DAC Plant ([source](https://carbonherald.com/ucaneo-opens-germanys-largest-dac-plant/?utm_source=rss&utm_medium=rss&utm_campaign=ucaneo-opens-germanys-largest-dac-plant))
+- **2026-06-26** — News: Siemens and Ucaneo Partnership to Scale Direct Air Capture ([source](https://www.ien.eu/article/siemens-and-ucaneo-partnership-to-scale-direct-air-capture/))
+- **2026-06-25** — News: Siemens and Ucaneo partner to scale direct air capture | Press | Company | Siemens ([source](https://press.siemens.com/global/en/pressrelease/siemens-and-ucaneo-partner-scale-direct-air-capture))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

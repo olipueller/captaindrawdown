@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.arboncorp.com/" target="_blank" rel="noopener">https://www.arboncorp.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbon-corp/" target="_blank" rel="noopener">arbon-corp</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 100/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,26 +34,17 @@ Arbon is a Brooklyn-based climate tech startup spun out of Columbia University d
 
 ## History
 
-- **2026-10-16** — news mention: Arbon Earth: Arbon Earth has secured a pioneering permit in Indonesia to expand its seaweed-based… ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-1b406c4eb4a6))
-- **2026-09-30** — news mention: Arbon Earth Secures Pioneering mCDR Permit In Indonesia ([source](https://carbonherald.com/arbon-earth-secures-pioneering-mcdr-permit-in-indonesia/?utm_source=rss&utm_medium=rss&utm_campaign=arbon-earth-secures-pioneering-mcdr-permit-in-indonesia))
-- **2026-08-20** — news mention: Events ([source](https://www.fraunhofer.org/en/media/events.html))
-- **2026-08-15** — refresh: coresignal
-- **2026-07-26** — news mention: Arbon Earth: Stockholm just became the 5th largest buyer of carbon removals in the world! Huge… ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-db7d274fbea4))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.arboncorp.com/))
-- **2026-04-19** — merged 1 duplicate(s): Arbon Earth
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://arbon.earth/about))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://onsets.org/product/arbon-earth/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://arbon.earth/about))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://arbon.earth/about))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Arbon Earth (slug=arbon-earth)
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.arboncorp.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.arboncorp.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-16** — News: Arbon Earth: Arbon Earth has secured a pioneering permit in Indonesia to expand its seaweed-based… ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-1b406c4eb4a6))
+- **2026-09-30** — News: Arbon Earth Secures Pioneering mCDR Permit In Indonesia ([source](https://carbonherald.com/arbon-earth-secures-pioneering-mcdr-permit-in-indonesia/?utm_source=rss&utm_medium=rss&utm_campaign=arbon-earth-secures-pioneering-mcdr-permit-in-indonesia))
+- **2026-08-20** — News: Events ([source](https://www.fraunhofer.org/en/media/events.html))
+- **2026-07-26** — News: Arbon Earth: Stockholm just became the 5th largest buyer of carbon removals in the world! Huge news ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-db7d274fbea4))
+- **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.arboncorp.com/))
+- **2026-04-19** — Merged a duplicate entry: Arbon Earth
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟢 Active ([source](https://arbon.earth/about))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://onsets.org/product/arbon-earth/))
+- **2026-04-19** — Classified as Ocean CDR, supplier, 🟡 Moderate ([source](https://arbon.earth/about))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-18** — Classified as DAC, supplier, 🟢 Active ([source](https://www.arboncorp.com/))
 
 ---
 

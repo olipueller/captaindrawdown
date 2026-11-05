@@ -2,7 +2,7 @@
 title: "InterEarth"
 layout: "single"
 type: "directory"
-description: "Plants native Australian Eucalyptus/Acacia on marginal dryland, harvests above-ground woody biomass via coppicing, and stores it in sealed above-ground \"Dry Stack\" chambers engineered to maintain"
+description: "Plants native Australian Eucalyptus/Acacia on marginal dryland, harvests above-ground woody biomass via coppicing, and stores it in sealed above-ground \"Dry Stack\" chambers engineered to maintain…"
 url: "/directory/interearth/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.inter.earth/" target="_blank" rel="noopener">https://www.inter.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/interearth/" target="_blank" rel="noopener">interearth</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-12-26</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2028-12-26</small></td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-12-26)</small></td></tr>
@@ -43,15 +43,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.inter.earth/whatwedo))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Moderate → Active ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-24))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.inter.earth/whatwedo))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.inter.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.inter.earth/whatwedo))
+- **2026-04-19** — Status Moderate → Active ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-24))
+- **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://www.inter.earth/whatwedo))
+- **2026-04-18** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://www.inter.earth/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

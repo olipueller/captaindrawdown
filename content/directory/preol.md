@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Czech Republic</td></tr>
   <tr><th>Website</th><td><a href="https://www.preol.cz/" target="_blank" rel="noopener">https://www.preol.cz/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspreol/" target="_blank" rel="noopener">aspreol</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,26 +29,19 @@ PREOL, a.s. is the largest Czech rapeseed processor and a member of the AGROFERT
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
-- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://preol.cz/en/))
-- **2026-04-19** — merged 1 duplicate(s): PREOL Biochar
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://preol.cz/en/trade/biochar/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/preol-biochar))
-- **** — merged duplicate: PREOL Biochar (slug=preol-biochar)
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://preol.cz/en/trade/biochar/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://preol.cz/en/trade/biochar/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://preol.cz/en/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Likely Dead → Active ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
+- **2026-05-01** — Status Likely Dead → Active ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
+- **2026-05-01** — Status Active → Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
+- **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://preol.cz/en/))
+- **2026-04-19** — Merged a duplicate entry: PREOL Biochar
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Biochar, division, 🟢 Active ([source](https://preol.cz/en/trade/biochar/))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/preol-biochar))
+- **2026-04-19** — Status Active → Likely Dead ([source](https://uroda.cz/zaostreno-na-snizeni-emisi-z-repky/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://preol.cz/en/trade/biochar/))
+- **2026-04-18** — Classified as Biochar, division, 🟢 Active ([source](https://preol.cz/en/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

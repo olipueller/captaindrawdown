@@ -2,7 +2,7 @@
 title: "ÖKT Offenhausen"
 layout: "single"
 type: "directory"
-description: "Operates two wood-chip pyrolysis units producing EBC Agro-Bio biochar, using waste heat to dry sewage sludge and digestate from an integrated biogas plant; credits issued under Global C-Sink and sold"
+description: "Operates two wood-chip pyrolysis units producing EBC Agro-Bio biochar, using waste heat to dry sewage sludge and digestate from an integrated biogas plant; credits issued under Global C-Sink and sold…"
 url: "/directory/ökt-offenhausen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,27 +29,20 @@ liveliness: "🟢 Active"
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Suspect → Active ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
-- **2026-09-04** — news mention: ÖKT Offenhausen: Big news from Brussels! The EU Member States have agreed on the 90% headline… ([source](https://www.linkedin.com/company/biochar-zero/#post-ba73184358f4))
-- **2026-09-04** — news mention: ÖKT Offenhausen: EU lense: New EU Climate target with changes in CDR demand to come Yesterday… ([source](https://www.linkedin.com/company/biochar-zero/#post-30ab5e2e0cce))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Suspect ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: biochar-zero is a European biochar consulting and trading platform that catalogs 70+…
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
-- **2026-04-19** — merged 1 duplicate(s): Biochar-Zero
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Moderate ([source](https://biochar-zero.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://biochar-zero.com/ ([source](https://www.cdr.fyi/marketplace/biochar-zero))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/biochar-zero))
-- **** — merged duplicate: Biochar-Zero (slug=biochar-zero)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.klimate.co/project/okt-offenhausen))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Suspect → Active ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
+- **2026-09-04** — News: ÖKT Offenhausen: Big news from Brussels! The EU Member States have agreed on the 90% headline… ([source](https://www.linkedin.com/company/biochar-zero/#post-ba73184358f4))
+- **2026-09-04** — News: ÖKT Offenhausen: EU lense: New EU Climate target with changes in CDR demand to come Yesterday… ([source](https://www.linkedin.com/company/biochar-zero/#post-30ab5e2e0cce))
+- **2026-05-01** — Status Moderate → Suspect ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
+- **2026-04-19** — Classified as Biochar, side business, 🟡 Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
+- **2026-04-19** — Merged a duplicate entry: Biochar-Zero
+- **2026-04-19** — Classified as Biochar, ecosystem, 🟡 Moderate ([source](https://biochar-zero.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/biochar-zero))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/biochar-zero))
+- **2026-04-19** — Status Active → Suspect ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/PZ2aXp0K9MProject_Design_Document_GCSP1126_DE.pdf))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.klimate.co/project/okt-offenhausen))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

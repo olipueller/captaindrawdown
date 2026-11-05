@@ -7,7 +7,6 @@ draft: false
 tags: ["data-viz", "cdr", "directory"]
 categories: ["data-viz"]
 cover:
-  image: "/charts/directory-top-companies.png"
   alt: "directory-top-companies"
   hidden: false
 ---

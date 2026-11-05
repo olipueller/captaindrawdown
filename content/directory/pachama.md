@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pachama.com/" target="_blank" rel="noopener">https://pachama.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pachama/" target="_blank" rel="noopener">pachama</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,16 +31,12 @@ Pachama, based in California and launched in 2018, provided digital MRV products
 
 ## History
 
-- **2026-10-15** — news mention: Pachama: We’re thrilled to share that Pachama is joining the Carbon Direct family! Today we’re… ([source](https://www.linkedin.com/company/pachama/#post-8e7fdb5e4a92))
-- **2026-10-15** — refresh: coresignal, liveliness
-- **2026-10-15** — liveliness: Moderate → Active
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://www.carbon-direct.com/press/carbon-direct-acquires-pachama))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://pachama.com/ ([source](https://www.cdr.fyi/marketplace/pachama))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/pachama))
+- **2026-10-15** — News: Pachama: We’re thrilled to share that Pachama is joining the Carbon Direct family! Today we’re… ([source](https://www.linkedin.com/company/pachama/#post-8e7fdb5e4a92))
+- **2026-10-15** — Status Moderate → Active
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟠 Suspect ([source](https://www.carbon-direct.com/press/carbon-direct-acquires-pachama))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/pachama))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/pachama))
 
 ---
 

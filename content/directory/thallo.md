@@ -15,14 +15,14 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.thallo.io/" target="_blank" rel="noopener">https://www.thallo.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thallo-io/" target="_blank" rel="noopener">thallo-io</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
 ## About
 
-Thallo is a London-based climate-tech startup founded in 2021 that provides a blockchain-powered carbon credit marketplace and API connecting project developers with companies pursuing net-zero goals. The company integrates with registries such as Puro.Earth, Gold Standard, BioCarbon Registry, and Socialcarbon, and pioneered a two-way bridge between registries and blockchain. Headcount has reportedly shrunk from ~10 to 2 employees, suggesting the business is winding down or dormant.
+Thallo is a London-based climate-tech startup founded in 2021 that provides a blockchain-powered carbon credit marketplace and API connecting project developers with companies pursuing net-zero goals. The company integrates with registries such as Puro.Earth, Gold Standard, BioCarbon Registry, and Socialcarbon, and pioneered a two-way bridge between registries and blockchain.
 
 ![Thallo website](/screenshots/thallo.png)
 
@@ -30,13 +30,10 @@ Thallo is a London-based climate-tech startup founded in 2021 that provides a bl
 
 ## History
 
-- **2026-10-15** — refresh: coresignal
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Suspect → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://www.thallo.io/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.thallo.io/ ([source](https://www.cdr.fyi/marketplace/thallo))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/thallo))
+- **2026-04-19** — Status Suspect → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟠 Suspect ([source](https://www.thallo.io/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/thallo))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/thallo))
 
 ---
 

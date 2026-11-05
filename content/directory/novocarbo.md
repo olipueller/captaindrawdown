@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.novocarbo.com/" target="_blank" rel="noopener">https://www.novocarbo.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/novocarbo/" target="_blank" rel="noopener">novocarbo</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-02-10</small></td></tr>
+  <tr><th>Status</th><td>Active (score: 80/100) <small>— in active puro crediting window through 2029-02-10</small></td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-02-10)</small></td></tr>
@@ -41,24 +41,20 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-29** — news mention: Novocarbo: European cities are counting on carbon removal #CDR to compensate for a fifth of their… ([source](https://www.linkedin.com/company/novocarbo/#post-801575a0833b))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in… ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
-- **2026-07-29** — news mention: Novocarbo: Böden rücken als Kohlenstoffspeicher zunehmend in den klimapolitischen Fokus. Je nach… ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-e5cd3168fea1))
-- **2026-07-22** — news mention: Novocarbo: !! Just a few moments ago, the European Commission took a major step towards a… ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-266cf5372549))
-- **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
-- **2026-06-02** — news mention: Novocarbo Rhine - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/novocarbo-rhine/))
-- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.novocarbo.com/biochar/green-construction/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.novocarbo.com/news/turning-asphalt-into-a-climate-solution/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-29** — News: Novocarbo: European cities are counting on carbon removal #CDR to compensate for a fifth of their… ([source](https://www.linkedin.com/company/novocarbo/#post-801575a0833b))
+- **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-08-05** — News: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt. ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
+- **2026-07-29** — News: Novocarbo: Böden rücken als Kohlenstoffspeicher zunehmend in den klimapolitischen Fokus. Je nach… ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-e5cd3168fea1))
+- **2026-07-22** — News: Novocarbo: !! Just a few moments ago, the European Commission took a major step towards a… ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-266cf5372549))
+- **2026-06-10** — News: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
+- **2026-06-02** — News: Novocarbo Rhine - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/novocarbo-rhine/))
+- **2026-05-01** — Status Moderate → Active ([source](https://www.novocarbo.com/biochar/green-construction/))
+- **2026-05-01** — Status Active → Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.novocarbo.com/news/turning-asphalt-into-a-climate-solution/))
+- **2026-04-19** — Status Active → Moderate ([source](https://www.novocarbo.com/biochar/green-construction/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbonherald.com/novocarbo-and-stadtwerke-dessau-sign-new-biochar-and-renewable-heat-partnership/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

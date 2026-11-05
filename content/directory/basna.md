@@ -13,7 +13,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Serbia</td></tr>
   <tr><th>Website</th><td><a href="https://www.basna.net/" target="_blank" rel="noopener">https://www.basna.net/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,23 +30,16 @@ Basna d.o.o. is a small Swiss-owned, family-run company founded in 2010 and head
 
 ## History
 
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://cordmagazine.com/equality/vesna-baur-basna-biochar-protects-our-planet/))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: "biochar-zero" is a separate biochar industry platform/directory (biochar-zero.com)…
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.basna.net/))
-- **2026-04-19** — merged 1 duplicate(s): Basna d.o.o.
-- **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.basna.net/strane/o-nama-1.html))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.basna.net/ ([source](https://www.cdr.fyi/supplier/basna-doo))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/basna-doo))
-- **** — merged duplicate: Basna d.o.o. (slug=basna-doo)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.basna.net/))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://cordmagazine.com/equality/vesna-baur-basna-biochar-protects-our-planet/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biochar-zero.com/company/basna-d-o-o/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.basna.net/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Moderate → Likely Dead ([source](https://cordmagazine.com/equality/vesna-baur-basna-biochar-protects-our-planet/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.basna.net/))
+- **2026-04-19** — Merged a duplicate entry: Basna d.o.o
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.basna.net/strane/o-nama-1.html))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/basna-doo))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/basna-doo))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://cordmagazine.com/equality/vesna-baur-basna-biochar-protects-our-planet/))
+- **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://biochar-zero.com/company/basna-d-o-o/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.basna.net/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

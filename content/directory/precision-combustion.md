@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pci.energy/" target="_blank" rel="noopener">https://pci.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/precision-combustion-inc./" target="_blank" rel="noopener">precision-combustion-inc.</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,19 +31,15 @@ Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm whos
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://pci.energy/about-pci/pci-in-the-news/))
-- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://pci.energy/about-pci/pci-in-the-news/))
-- **2026-05-01** — liveliness: Suspect → Active ([source](https://pci.energy/about-pci/pci-in-the-news/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: Active → Suspect ([source](https://pci.energy/about-pci/pci-in-the-news/))
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://pci.energy/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Suspect ([source](https://pci.energy/about-pci/pci-in-the-news/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))
-- **2026-04-19** — reclassified: pathway=DAC focus=review_needed liveliness= Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-15** — Status Likely Dead → Active ([source](https://pci.energy/about-pci/pci-in-the-news/))
+- **2026-06-15** — Status Active → Likely Dead ([source](https://pci.energy/about-pci/pci-in-the-news/))
+- **2026-05-01** — Status Suspect → Active ([source](https://pci.energy/about-pci/pci-in-the-news/))
+- **2026-05-01** — Status Active → Suspect ([source](https://pci.energy/about-pci/pci-in-the-news/))
+- **2026-04-19** — Classified as DAC, side business, 🟢 Active ([source](https://pci.energy/))
+- **2026-04-19** — Status Moderate → Suspect ([source](https://pci.energy/about-pci/pci-in-the-news/))
+- **2026-04-19** — Classified as DAC, supplier, 🟡 Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))
+- **2026-04-19** — Classified as DAC, review needed, 🟡 Moderate ([source](https://www.precision-combustion.com/about-pci/press-releases-pci/168-pci-doe-project-carbondioxide-direct-air-capture))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

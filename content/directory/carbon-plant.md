@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Isle of Man</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-plant.com/" target="_blank" rel="noopener">https://carbon-plant.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-plant/" target="_blank" rel="noopener">carbon-plant</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,19 +30,16 @@ Carbon Plant is an Isle of Man-based, FSA-registered carbon credit exchange that
 
 ## History
 
-- **2026-10-15** — refresh: screenshot
-- **2026-10-13** — news mention: South Africa Biochar Market Size to Reach USD 37.51 Million by 2034, Growing at a CAGR of 9.31% ([source](https://www.openpr.com/news/4659916/south-africa-biochar-market-size-to-reach-usd-37-51-million))
-- **2026-09-23** — news mention: Carbon Plant: CNC Recycling runs a nationwide uPVC recovery network, with processing at its… ([source](https://www.linkedin.com/company/carbon-plant/#post-d3570bb921be))
-- **2026-09-15** — liveliness: Moderate → Active
-- **2026-08-17** — news mention: Carbon Plant: CNC Recycling runs a nationwide uPVC recovery network, with processing at its… ([source](https://www.linkedin.com/company/carbon-plant/#post-83c659d48f80))
-- **2026-06-15** — liveliness: Active → Moderate
-- **2026-05-01** — liveliness: Moderate → Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: Active → Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carbon-plant.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://carbon-plant.com/ ([source](https://www.cdr.fyi/marketplace/carbon-plant))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-plant))
+- **2026-10-13** — News: South Africa Biochar Market Size to Reach USD 37.51 Million by 2034, Growing at a CAGR of 9.31% ([source](https://www.openpr.com/news/4659916/south-africa-biochar-market-size-to-reach-usd-37-51-million))
+- **2026-09-23** — News: Carbon Plant: CNC Recycling runs a nationwide uPVC recovery network, with processing at its… ([source](https://www.linkedin.com/company/carbon-plant/#post-d3570bb921be))
+- **2026-09-15** — Status Moderate → Active
+- **2026-08-17** — News: Carbon Plant: CNC Recycling runs a nationwide uPVC recovery network, with processing at its… ([source](https://www.linkedin.com/company/carbon-plant/#post-83c659d48f80))
+- **2026-06-15** — Status Active → Moderate
+- **2026-05-01** — Status Moderate → Active
+- **2026-04-19** — Status Active → Moderate
+- **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://carbon-plant.com/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/marketplace/carbon-plant))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/marketplace/carbon-plant))
 
 ---
 

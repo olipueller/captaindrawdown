@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.vantaanenergia.fi/en/" target="_blank" rel="noopener">https://www.vantaanenergia.fi/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vantaan-energia-oy/" target="_blank" rel="noopener">vantaan-energia-oy</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,16 +30,13 @@ Vantaan Energia is a Finnish municipal energy utility majority-owned by the City
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-24** — news mention: Vantaan Energia: The EU ETS is not just a compliance cost for Waste-to-Energy. It is the… ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-7153a96489e8))
-- **2026-07-29** — news mention: Vantaan Energia: Rakennamme parhaillaan Vantaan Kuusikonmäkeen Varantoa, maailman suurinta lämmön… ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-06ef4d483475))
-- **2026-07-29** — news mention: Vantaan Energia: Suomen suurimman pakastevaraston hukkalämpö lämmittää nyt vantaalaisia koteja ja… ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-d038b5f7b10a))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/ ([source](https://www.cdr.fyi/supplier/vantaan-energia))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/vantaan-energia))
+- **2026-09-24** — News: Vantaan Energia: The EU ETS is not just a compliance cost for Waste-to-Energy. It is the instrument ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-7153a96489e8))
+- **2026-07-29** — News: Vantaan Energia: Rakennamme parhaillaan Vantaan Kuusikonmäkeen Varantoa, maailman suurinta lämmön… ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-06ef4d483475))
+- **2026-07-29** — News: Vantaan Energia: Suomen suurimman pakastevaraston hukkalämpö lämmittää nyt vantaalaisia koteja ja… ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-d038b5f7b10a))
+- **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))
+- **2026-04-19** — Website address added (from the CDR.fyi supplier page) ([source](https://www.cdr.fyi/supplier/vantaan-energia))
+- **2026-04-19** — Added to the directory ([source](https://www.cdr.fyi/supplier/vantaan-energia))
 
 ---
 

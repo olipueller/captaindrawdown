@@ -2,7 +2,7 @@
 title: "Phoenix Energy"
 layout: "single"
 type: "directory"
-description: "Develops and operates community-scale biomass gasification plants that convert forestry and agricultural waste into renewable electricity, heat, and biochar, with the solid carbon sequestered as a"
+description: "Develops and operates community-scale biomass gasification plants that convert forestry and agricultural waste into renewable electricity, heat, and biochar, with the solid carbon sequestered as a…"
 url: "/directory/phoenix-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.phoenixenergy.net/" target="_blank" rel="noopener">https://www.phoenixenergy.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phoenix-energy-1/" target="_blank" rel="noopener">phoenix-energy-1</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,18 +30,14 @@ Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbo
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-06** — news mention: Phoenix Energy: Hey look at that! Three cheers to CA Wildfire &amp; Forest Resilience Task Force… ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-3a7f17556ac7))
-- **2026-07-24** — news mention: Phoenix Energy: ICYMI: USDA allocated $61.24 million to three California companies through its… ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-a4d56a97551f))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-24** — news mention: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.phoenixenergy.net/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: Active → Suspect ([source](https://carbonherald.com/podcast-beccs-is-the-way-forward-greg-stangl-phoenix-energy-ceo/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.phoenixenergy.net/project-sites))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.phoenixenergy.net/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-09-06** — News: Phoenix Energy: Hey look at that! Three cheers to CA Wildfire &amp; Forest Resilience Task Force… ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-3a7f17556ac7))
+- **2026-07-24** — News: Phoenix Energy: ICYMI: USDA allocated $61.24 million to three California companies through its… ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-a4d56a97551f))
+- **2026-04-24** — News: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.phoenixenergy.net/))
+- **2026-04-19** — Status Active → Suspect ([source](https://carbonherald.com/podcast-beccs-is-the-way-forward-greg-stangl-phoenix-energy-ceo/))
+- **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.phoenixenergy.net/project-sites))
+- **2026-04-18** — Classified as BECCS, supplier, 🟢 Active ([source](https://www.phoenixenergy.net/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

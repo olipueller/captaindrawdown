@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.climatecarbon.de/" target="_blank" rel="noopener">https://www.climatecarbon.de/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,17 +28,12 @@ ClimateCarbon Eberswalde GmbH & Co. KG is a dedicated biochar subsidiary/SPV of 
 
 ## History
 
-- **2026-09-15** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: Suspect → Likely Dead ([source](https://www.climatecarbon.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.climatecarbon.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Moderate ([source](https://www.climatecarbon.de/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.climatecarbon.de/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-05-01** — Status Suspect → Likely Dead ([source](https://www.climatecarbon.de/))
+- **2026-04-19** — Classified as Biochar, division, 🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
+- **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.climatecarbon.de/))
+- **2026-04-19** — Classified as Biochar, division, 🟡 Moderate ([source](https://www.climatecarbon.de/))
+- **2026-04-18** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.climatecarbon.de/))
+- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
