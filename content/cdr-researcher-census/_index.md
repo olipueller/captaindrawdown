@@ -89,7 +89,7 @@ CDR-relevant papers and preprints in the census by publication year. The last tw
 3. **Institution.** The institution that appears most often on the researcher's own papers 2024–2026 (from the OpenAlex authorships, or from the affiliation text when OpenAlex has no match), else the ORCID employment, else the OpenAlex author profile. The top lists say which source applies (`institution_source`).
 4. **Ranking.** Top lists count CDR papers and preprints 2021–2026 per pathway; the citation rank orders the same people by citations to those papers. Both ranks are in every list.
 5. **Calibration.** A March 2026 sample measured per-country precision and recall of the OpenAlex attribution; the calibrated estimate scales the listed counts accordingly.
-6. **Refresh.** The database refreshes on the 11th of every month; the release around the 15th freezes the files under `/data/v1/<version>/`.
+6. **Refresh.** The database refreshes on the 11th of every month; the release around the 15th publishes the files under `/data/v1/<version>/`.
 
 ## Known limitations
 
