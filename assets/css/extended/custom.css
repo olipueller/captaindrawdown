@@ -361,7 +361,7 @@ hr { border-color: var(--line); }
 
 /* — homepage hero band — */
 .cd-hero-band { margin: 0 0 var(--space-5); border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: var(--surface-1); }
-.cd-hero-band img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.cd-hero-band img { display: block; width: 100%; height: auto; }   /* the band keeps the image's own ratio (21:9 since 2026-11-05) */
 
 /* — chart lightbox (Dirk 2026-11-05: full size in an overlay, not a new tab) — */
 .cd-zoom { cursor: zoom-in; display: block; }
