@@ -48,4 +48,4 @@ rank,rank_by_citations,activity_score,name,orcid,institution,institution_source,
 47,118,3.18,Anthony Patt,https://orcid.org/0000-0001-8428-8707,ETH Zurich,works,CH,Europe (non-EU),5,0,0,1,3,1,0,107,56,https://captaindrawdown.com/cdr-researcher-census/researchers/anthony-patt-a5064781/,https://openalex.org/A5064781473
 48,119,3.18,Christian Moretti,https://orcid.org/0000-0001-5682-287X,Paul Scherrer Institute,orcid,CH,Europe (non-EU),5,0,0,1,3,1,0,107,31,https://captaindrawdown.com/cdr-researcher-census/researchers/christian-moretti-a5027325/,https://openalex.org/A5027325818
 49,261,3.18,Lara Meuleneers,,RWTH Aachen University,works,DE,EU27,5,0,0,1,3,1,0,48,3,https://captaindrawdown.com/cdr-researcher-census/researchers/lara-meuleneers-a5104453/,https://openalex.org/A5104453151
-50,658,3.17,Paul de Joannis,,Centre National de la Recherche Scientifique,openalex,FR,EU27,4,0,0,0,0,4,0,5,3,,https://openalex.org/A5114757003
+50,658,3.17,Paul de Joannis,,Centre National de la Recherche Scientifique,openalex,FR,EU27,4,0,0,0,0,4,0,5,3,https://captaindrawdown.com/cdr-researcher-census/researchers/paul-de-joannis-a5114757/,https://openalex.org/A5114757003
