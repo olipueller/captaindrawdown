@@ -33,11 +33,11 @@ Perivoli Climate Trust is a Namibia-domiciled not-for-profit (company limited by
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://perivoliclimate.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://perivoliclimate.com/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://perivoliclimate.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://perivoliclimate.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://perivoliclimate.com/ ([source](https://www.cdr.fyi/supplier/perivoli-climate-trust))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/perivoli-climate-trust))
 

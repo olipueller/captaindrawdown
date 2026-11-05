@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://beaverlakerenewable.com/" target="_blank" rel="noopener">https://beaverlakerenewable.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beaver-lake-renewable-energy/" target="_blank" rel="noopener">beaver-lake-renewable-energy</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -34,11 +34,11 @@ Beaver Lake Renewable Energy LLC is a wholly-owned subsidiary of SunGas Renewabl
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://beaverlakerenewable.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://beaverlakerenewable.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://beaverlakerenewable.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://beaverlakerenewable.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://beaverlakerenewable.com/ ([source](https://www.cdr.fyi/supplier/beaver-lake-renewable-energy))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/beaver-lake-renewable-energy))
 

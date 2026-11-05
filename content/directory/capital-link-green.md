@@ -39,14 +39,14 @@ Independently verified by carbon-credit registries:
 
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.capital.link/))
 - **2026-04-19** — merged 1 duplicate(s): Capital Link
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.capital.link/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.capital.link/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.capital.link/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Capital Link (slug=capital-link)
 - **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.capital.link/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.capital.link/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.capital.link/ ([source](https://www.cdr.fyi/supplier/capital-link-green))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/capital-link-green))
 

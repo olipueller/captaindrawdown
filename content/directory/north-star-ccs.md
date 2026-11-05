@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonalpha.com/northstar" target="_blank" rel="noopener">https://www.carbonalpha.com/northstar</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-alpha/" target="_blank" rel="noopener">carbon-alpha</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,26 +30,26 @@ North Star Carbon Solutions LP is a dedicated BECCS project joint venture betwee
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-29** — news mention: North Star CCS: ð ð¡ð²ð ððµð®ð½ðð²ð¿ ð³ð¼ð¿ ðð®ð¿ð¯ð¼ð» ([source](https://www.linkedin.com/company/carbon-alpha/#post-7d83a9f1a71e))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-14** — news mention: North Star CCS: A New Chapter for Carbon Alpha: Joining Forces with Svante! 🚀 We are thrilled to ann ([source](https://www.linkedin.com/company/carbon-alpha/#post-529edf72eeb8))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-29** — news mention: North Star CCS: ð ð¡ð2ð ððμð®ð1⁄2ðð2ð¿ ð3ð1⁄4ð¿ ðð®ð¿ð… ([source](https://www.linkedin.com/company/carbon-alpha/#post-7d83a9f1a71e))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-14** — news mention: North Star CCS: A New Chapter for Carbon Alpha: Joining Forces with Svante! We are thrilled to… ([source](https://www.linkedin.com/company/carbon-alpha/#post-529edf72eeb8))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260406630377/en/Svante-Meadow-Lake-Tribal-Council-Partnership-Agrees-to-Sell-Microsoft-626000-Tonnes-of-Carbon-Removal-Credits))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.businesswire.com/news/home/20260406630377/en/Svante-Meadow-Lake-Tribal-Council-Partnership-Agrees-to-Sell-Microsoft-626000-Tonnes-of-Carbon-Removal-Credits))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Alpha
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260304605629/en/Svante-Acquires-Carbon-Dioxide-Removal-Project-Developer-Carbon-Alpha-Corp.))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.businesswire.com/news/home/20260304605629/en/Svante-Acquires-Carbon-Dioxide-Removal-Project-Developer-Carbon-Alpha-Corp.))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonalpha.com/ ([source](https://www.cdr.fyi/supplier/carbon-alpha))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-alpha))
 - **** — merged duplicate: Carbon Alpha (slug=carbon-alpha)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbonalpha.com/northstar))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.carbonalpha.com/northstar))
 - **2026-04-19** — discovered via: news_feed ([source](https://www.gasworld.com/story/microsoft-signs-15-year-beccs-credit-deal-in-canada/2244832.article/))
 
 ---

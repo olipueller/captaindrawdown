@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://inkoh.swiss/" target="_blank" rel="noopener">https://inkoh.swiss/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkoh-biochar-and-beyond/" target="_blank" rel="noopener">inkoh-biochar-and-beyond</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,24 +29,24 @@ Inkoh AG is a Swiss biochar producer headquartered in Maienfeld, Graubünden, an
 
 ## History
 
-- **2026-10-13** — news mention: Inkoh: Fifth site, different equipment manufacturers, same software stack 𝘐𝘯𝘬𝘰𝘩 𝘰𝘱𝘦𝘯𝘦𝘥 𝘓𝘢𝘯𝘥𝘲𝘶𝘢𝘳𝘵 𝘺𝘦𝘴 ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-04a6f1b63e4e))
-- **2026-10-11** — news mention: Cula: Fifth site, different equipment manufacturers, same software stack 𝘐𝘯𝘬𝘰𝘩 𝘰𝘱𝘦𝘯𝘦𝘥 𝘓𝘢𝘯𝘥𝘲𝘶𝘢𝘳𝘵 𝘺𝘦𝘴𝘵 ([source](https://www.linkedin.com/company/cula-technologies/#post-01ddd67b2dca))
+- **2026-10-13** — news mention: Inkoh: Fifth site, different equipment manufacturers, same software stack Inkoh opened Landquart… ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-04a6f1b63e4e))
+- **2026-10-11** — news mention: Cula: Fifth site, different equipment manufacturers, same software stack Inkoh opened Landquart… ([source](https://www.linkedin.com/company/cula-technologies/#post-01ddd67b2dca))
 - **2026-10-06** — news mention: Inkoh Opens New Biochar HQ In Switzerland, Supported By Cula & Next Generation Elements Tech ([source](https://carbonherald.com/inkoh-opens-new-biochar-hq-in-switzerland-supported-by-cula-next-generation-elements-tech/?utm_source=rss&utm_medium=rss&utm_campaign=inkoh-opens-new-biochar-hq-in-switzerland-supported-by-cula-next-generation-elements-tech))
-- **2026-08-30** — news mention: CarStorConTechnologies: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch!  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-dacc971960cc))
-- **2026-08-23** — news mention: Inkoh: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen uns, einen wichtigen Meilenste ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-9852bceaf97f))
-- **2026-08-23** — news mention: CarStorCon: Gemeinsam für die CO₂-Entnahme in der Schweiz: Holcim investiert in die Inkoh AG 🚀 Wir m ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-6cdeea8de3be))
-- **2026-08-23** — news mention: CarStorCon: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch! 💫 Wir freuen ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-4a391685f756))
-- **2026-08-22** — news mention: The Swiss Carbon Removal Platform: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen un ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-20523ea64a10))
+- **2026-08-30** — news mention: CarStorConTechnologies: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-dacc971960cc))
+- **2026-08-23** — news mention: Inkoh: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen uns, einen wichtigen… ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-9852bceaf97f))
+- **2026-08-23** — news mention: CarStorCon: Gemeinsam für die CO2-Entnahme in der Schweiz: Holcim investiert in die Inkoh AG Wir… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-6cdeea8de3be))
+- **2026-08-23** — news mention: CarStorCon: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch! Wir… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-4a391685f756))
+- **2026-08-22** — news mention: The Swiss Carbon Removal Platform: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen… ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-20523ea64a10))
 - **2026-08-15** — refresh: coresignal
-- **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
-- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
-- **2026-05-05** — news mention: Okay, I see.  Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in abou ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
+- **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
+- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week… ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
+- **2026-05-05** — news mention: Okay, I see. Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inkoh.swiss/ueber-uns/standorte/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://inkoh.swiss/ueber-uns/standorte/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://inkoh.swiss/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firstclimate.com/projektpartnerschaft/biochar-partner:-inkoh?lang=en))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://inkoh.swiss/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.firstclimate.com/projektpartnerschaft/biochar-partner:-inkoh?lang=en))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

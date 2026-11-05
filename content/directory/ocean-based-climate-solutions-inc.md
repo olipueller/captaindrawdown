@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://ocean-based.com/" target="_blank" rel="noopener">https://ocean-based.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-based-climate-solutions-inc/" target="_blank" rel="noopener">ocean-based-climate-solutions-inc</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,9 +32,9 @@ Ocean-based Climate Solutions, Inc. (now rebranded as The Sea Upwelling Company 
 
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://ocean-based.com/about-us/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://ocean-based.com/about-us/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://climatebase.org/company/1759/the-sea-upwelling-company-formerly-ocean-based-climate-solutions))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://climatebase.org/company/1759/the-sea-upwelling-company-formerly-ocean-based-climate-solutions))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ocean-based-climate-solutions,-inc-))
 
 ---

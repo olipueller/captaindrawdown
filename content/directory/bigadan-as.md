@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan/" target="_blank" rel="noopener">bigadan</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -39,36 +39,36 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-15** — news mention: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio co ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
+- **2026-10-15** — news mention: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio… ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-04** — news mention: Bigadan A/S: THREE CO₂ PLANTS IN THREE YEARS – AND WE’RE JUST GETTING STARTED That was the message f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-848d5c39b765))
-- **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ¸det. Men hvordan gÃ¥r vi fra deb ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
-- **2026-08-28** — news mention: Bigadan A/S: NÃ R SAMARBEJDER BLIVER TIL GODE RELATIONER I gÃ¥r var vi med til at indvie biogasanlÃ¦ ([source](https://www.linkedin.com/company/bigadan-a-s/#post-623e30ba695b))
-- **2026-08-21** — news mention: Bigadan A/S: NÅR SAMARBEJDER BLIVER TIL GODE RELATIONER I går var vi med til at indvie biogasanlægge ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4c7485584770))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-14** — news mention: Bigadan A/S: SÅDAN GÅR DET NOGLE GANGE MED STORE MILEPÆLE… I går indviede vi vores nye CO₂-anlæg i K ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4275408bd7b1))
-- **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO₂ - AND BUILDING A BUSINESS A ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
-- **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO₂ storage in the North Sea – an important milestone f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
-- **2026-07-30** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first CO₂ to INEOS' CO₂ storage faciliti ([source](https://www.linkedin.com/company/bigadan-a-s/#post-9bda8c25b7b2))
-- **2026-07-30** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project — bioenergy  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-62c2d51f44f2))
-- **2026-07-30** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÆG. HVAD HAR DET MED FOLKEMØDET AT GØRE? Det her 👇 e ([source](https://www.linkedin.com/company/bigadan-a-s/#post-53666c3fc344))
-- **2026-07-30** — news mention: Bigadan A/S: FOLKEMØDE 🎧 Der blev talt meget om CCS på Folkemødet. Men hvordan går vi fra debat til  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-5e6933c5f13f))
-- **2026-07-23** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first COâ to INEOS' COâ storage faci ([source](https://www.linkedin.com/company/bigadan-a-s/#post-166a985df98e))
-- **2026-07-23** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project â bioenerg ([source](https://www.linkedin.com/company/bigadan-a-s/#post-3b6c8dd59f0c))
-- **2026-07-23** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÃG. HVAD HAR DET MED FOLKEMÃDET AT GÃRE? Det her  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ffb80e391913))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-04** — news mention: Bigadan A/S: THREE CO2 PLANTS IN THREE YEARS – AND WE’RE JUST GETTING STARTED That was the message… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-848d5c39b765))
+- **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ ̧det. Men hvordan gÃ¥r vi fra… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
+- **2026-08-28** — news mention: Bigadan A/S: NÃ R SAMARBEJDER BLIVER TIL GODE RELATIONER I gÃ¥r var vi med til at indvie… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-623e30ba695b))
+- **2026-08-21** — news mention: Bigadan A/S: NÅR SAMARBEJDER BLIVER TIL GODE RELATIONER I går var vi med til at indvie… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4c7485584770))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-14** — news mention: Bigadan A/S: SÅDAN GÅR DET NOGLE GANGE MED STORE MILEPÆLE... I går indviede vi vores nye CO2-anlæg i… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4275408bd7b1))
+- **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO2 - AND BUILDING A BUSINESS… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
+- **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO2 storage in the North Sea – an important milestone… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
+- **2026-07-30** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first CO2 to INEOS' CO2 storage… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-9bda8c25b7b2))
+- **2026-07-30** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-62c2d51f44f2))
+- **2026-07-30** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÆG. HVAD HAR DET MED FOLKEMØDET AT GØRE? Det her… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-53666c3fc344))
+- **2026-07-30** — news mention: Bigadan A/S: FOLKEMØDE Der blev talt meget om CCS på Folkemødet. Men hvordan går vi fra debat… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-5e6933c5f13f))
+- **2026-07-23** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first COâ to INEOS' COâ storage… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-166a985df98e))
+- **2026-07-23** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project â… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-3b6c8dd59f0c))
+- **2026-07-23** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÃG. HVAD HAR DET MED FOLKEMÃDET AT GÃRE? Det… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ffb80e391913))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.renewableenergymagazine.com/biogas/arjun-increases-stake-in-the-danish-biogas-20251029))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.renewableenergymagazine.com/biogas/arjun-increases-stake-in-the-danish-biogas-20251029))
 - **2026-04-19** — merged 1 duplicate(s): Bioman
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://bigadan.com/bioman-bliver-en-del-af-bigadan))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://bigadan.com/bioman-bliver-en-del-af-bigadan))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://theprint.in/environment/how-governments-can-finance-build-and-scale-the-carbon-dioxide-removal-industry/2163884/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://theprint.in/environment/how-governments-can-finance-build-and-scale-the-carbon-dioxide-removal-industry/2163884/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
+- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
 
 ---
 

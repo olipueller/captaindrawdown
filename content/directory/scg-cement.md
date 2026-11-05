@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/" target="_blank" rel="noopener">https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scg-international/" target="_blank" rel="noopener">scg-international</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-05-02</small></td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-05-02)</small></td></tr>
 </table>
@@ -41,16 +41,16 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in Th ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in… ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/scg-cement))
 
 ---

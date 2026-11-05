@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonremovalalliance.org/" target="_blank" rel="noopener">https://www.carbonremovalalliance.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-alliance/" target="_blank" rel="noopener">carbon-removal-alliance</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,20 +30,20 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 
 ## History
 
-- **2026-10-10** — news mention: Carbon Removal Alliance: BIG News! Today Terradot and Google are announcing the world’s first megato ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-271059d94826))
+- **2026-10-10** — news mention: Carbon Removal Alliance: BIG News! Today Terradot and Google are announcing the world’s first… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-271059d94826))
 - **2026-09-22** — news mention: The Carbon Removal Crowd Is Feeling Cautiously Optimistic ([source](https://heatmap.news/daily/carbon-removal-climate-week))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
-- **2026-09-05** — news mention: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are tr ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))
-- **2026-08-07** — news mention: Carbon Removal Alliance: CREW has signed a long-term CO2 removal offtake agreement with Microsoft !  ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-6efaf88068c2))
-- **2026-08-07** — news mention: Carbon Removal Alliance: CREW is working with Microsoft on our latest carbon removal offtake, announ ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-c0aeedb271f8))
-- **2026-07-31** — news mention: Carbon Removal Alliance: U.S. mines produce more than 1.8 billion tons of waste every year. With the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-26ba708a33a7))
-- **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
-- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
-- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
+- **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
+- **2026-09-05** — news mention: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))
+- **2026-08-07** — news mention: Carbon Removal Alliance: CREW has signed a long-term CO2 removal offtake agreement with Microsoft… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-6efaf88068c2))
+- **2026-08-07** — news mention: Carbon Removal Alliance: CREW is working with Microsoft on our latest carbon removal offtake… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-c0aeedb271f8))
+- **2026-07-31** — news mention: Carbon Removal Alliance: U.S. mines produce more than 1.8 billion tons of waste every year. With… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-26ba708a33a7))
+- **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
+- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
+- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age. Deal sizes are climbing into… ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonremovalalliance.org/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.carbonremovalalliance.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonremovalalliance.org/ ([source](https://www.cdr.fyi/marketplace/carbon-removal-alliance))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removal-alliance))
 

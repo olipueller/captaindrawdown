@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.rirc.it" target="_blank" rel="noopener">https://www.rirc.it</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rirc/" target="_blank" rel="noopener">rirc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,20 +30,20 @@ The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is I
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-10-06** — news mention: Italian Carbon Removal Network: 🏭 E se la rimozione di CO₂ non fosse un'attività a sé, ma un passagg ([source](https://www.linkedin.com/company/rirc/#post-6229d7595317))
-- **2026-09-04** — news mention: Italian Carbon Removal Network: 🇪🇺 La rimozione del carbonio entra nell'EU ETS: la proposta ora è su ([source](https://www.linkedin.com/company/rirc/#post-f0f21bfdeccd))
-- **2026-08-27** — news mention: Italian Carbon Removal Network: ðªðº La rimozione del carbonio entra nell'EU ETS: la proposta or ([source](https://www.linkedin.com/company/rirc/#post-ae23002610b9))
-- **2026-07-27** — news mention: Italian Carbon Removal Network: 🇪🇺 La rimozione del carbonio entra nell'EU ETS: la proposta ora è su ([source](https://www.linkedin.com/company/rirc/#post-fdeeca569ff5))
+- **2026-10-06** — news mention: Italian Carbon Removal Network: E se la rimozione di CO2 non fosse un'attività a sé, ma un… ([source](https://www.linkedin.com/company/rirc/#post-6229d7595317))
+- **2026-09-04** — news mention: Italian Carbon Removal Network: La rimozione del carbonio entra nell'EU ETS: la proposta ora è… ([source](https://www.linkedin.com/company/rirc/#post-f0f21bfdeccd))
+- **2026-08-27** — news mention: Italian Carbon Removal Network: ðaðo La rimozione del carbonio entra nell'EU ETS: la proposta… ([source](https://www.linkedin.com/company/rirc/#post-ae23002610b9))
+- **2026-07-27** — news mention: Italian Carbon Removal Network: La rimozione del carbonio entra nell'EU ETS: la proposta ora è… ([source](https://www.linkedin.com/company/rirc/#post-fdeeca569ff5))
 - **2026-06-15** — refresh: coresignal
 - **2026-05-22** — refresh: liveliness
-- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-22** — liveliness: Moderate → Active
 - **2026-05-15** — news mention: The Italian Carbon Removal Network is live ([source](https://www.negative-emissions.org/updates/the-italian-carbon-removal-network-is-live))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonherald.com/italy-is-launching-its-first-dedicated-carbon-removals-network/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonherald.com/italy-is-launching-its-first-dedicated-carbon-removals-network/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carbonherald.com/italy-is-launching-its-first-dedicated-carbon-removals-network/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carbonherald.com/italy-is-launching-its-first-dedicated-carbon-removals-network/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.negative-emissions.org/updates/the-italian-carbon-removal-network-is-live))
 
 ---

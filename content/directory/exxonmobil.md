@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://lowcarbon.exxonmobil.com/" target="_blank" rel="noopener">https://lowcarbon.exxonmobil.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -36,32 +36,32 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 - **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-22** — news mention: ExxonMobil: Another #CCS project starts up this year! We’ve started operations at Nucor Corporation  ([source](https://www.linkedin.com/company/exxonmobil/#post-1fa4c581a6c1))
-- **2026-09-19** — news mention: Fidelis: Weâre thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2  ([source](https://www.linkedin.com/company/fidelisenergy/#post-ffcff4aa994b))
-- **2026-08-23** — news mention: Cadmium contaminated soils would seem to be a particularly good candidate for a place to permanently ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtquwnlh4c23))
+- **2026-09-22** — news mention: ExxonMobil: Another #CCS project starts up this year! We’ve started operations at Nucor… ([source](https://www.linkedin.com/company/exxonmobil/#post-1fa4c581a6c1))
+- **2026-09-19** — news mention: Fidelis: Weâre thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for… ([source](https://www.linkedin.com/company/fidelisenergy/#post-ffcff4aa994b))
+- **2026-08-23** — news mention: Cadmium contaminated soils would seem to be a particularly good candidate for a place to… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtquwnlh4c23))
 - **2026-08-21** — news mention: ExxonMobil Among Buyers Hit By German Carbon Credit Revocations ([source](https://carbonherald.com/exxonmobil-among-buyers-hit-by-german-carbon-credit-revocations/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-among-buyers-hit-by-german-carbon-credit-revocations))
-- **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2 tr ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
+- **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2… ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
 - **2026-08-11** — news mention: ExxonMobil Challenges EU Carbon Storage Mandates In International Dispute ([source](https://carbonherald.com/exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute))
 - **2026-08-07** — news mention: Carbon Capture's New Advantage Is Now Execution Speed - Environment+Energy Leader ([source](https://environmentenergyleader.com/stories/carbon-captures-new-advantage-is-now-execution-speed,135375))
-- **2026-08-05** — news mention:  Puro.earth has had a 4.7-fold increase in credit retirement buyers between 2020 and 2025, while ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msdnjtm6zk2o))
+- **2026-08-05** — news mention: Puro.earth has had a 4.7-fold increase in credit retirement buyers between 2020 and 2025, while… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msdnjtm6zk2o))
 - **2026-07-29** — news mention: ExxonMobil Adds Williams To Expanding Carbon Capture Portfolio ([source](https://carbonherald.com/exxonmobil-adds-williams-to-expanding-carbon-capture-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-adds-williams-to-expanding-carbon-capture-portfolio))
 - **2026-07-29** — news mention: ExxonMobil Uses Corporate Arbitration System to Challenge Climate Solution It Promotes ([source](https://insideclimatenews.org/news/28072026/exxonmobil-isds-challenge-eu-carbon-capture/))
-- **2026-07-04** — news mention: Yes, rooftop solar is expensive, but one of the anti-PV crowds' favorite argument they use against i ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptc54c3ps2h))
-- **2026-07-03** — news mention: Why CDR folks should read NOAA climate.gov's explainer: 1997's record El Niño still brought a near-n ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpqaes3jww25))
+- **2026-07-04** — news mention: Yes, rooftop solar is expensive, but one of the anti-PV crowds' favorite argument they use against… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptc54c3ps2h))
+- **2026-07-03** — news mention: Why CDR folks should read NOAA climate.gov's explainer: 1997's record El Niño still brought a… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpqaes3jww25))
 - **2026-07-03** — news mention: ExxonMobil Surrenders 850,000 Acres of Gulf Carbon Storage Leases ([source](https://carbonherald.com/exxonmobil-surrenders-850000-acres-of-gulf-carbon-storage-leases/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-surrenders-850000-acres-of-gulf-carbon-storage-leases))
-- **2026-07-02** — news mention: Norwegian fertilizer producer Yara International agreed to buy an ammonia production facility in Tex ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpoxbzpng22z))
-- **2026-06-27** — news mention: This article provides one of the best data-based explanations I've ever read of why carbon capture a ([source](https://x.com/DoctorVive/status/2070847063873429616))
-- **2026-06-01** — news mention: I was lucky enough to have not any other options by the fifth row on today's #Wordle 1,808 5/6*  ⬜⬜⬜ ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mn7zdveewk2l))
+- **2026-07-02** — news mention: Norwegian fertilizer producer Yara International agreed to buy an ammonia production facility in… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpoxbzpng22z))
+- **2026-06-27** — news mention: This article provides one of the best data-based explanations I've ever read of why carbon capture… ([source](https://x.com/DoctorVive/status/2070847063873429616))
+- **2026-06-01** — news mention: I was lucky enough to have not any other options by the fifth row on today's #Wordle 1,808 5/6*… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mn7zdveewk2l))
 - **2026-05-06** — news mention: Air Products Carbon Capture 2026, 5M Ton Project, ExxonMobil ([source](https://enkiai.com/carbon-capture/air-products-ccs-port-arthur/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA ha ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
-- **2026-04-22** — news mention: Future of Carbon Capture Technology Market (2026-2035) | Market Set for Strong Growth US$ 8.30 billi ([source](https://www.openpr.com/news/4484181/future-of-carbon-capture-technology-market-2026-2035-market))
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://lowcarbon.exxonmobil.com/))
+- **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
+- **2026-04-22** — news mention: Future of Carbon Capture Technology Market (2026-2035) | Market Set for Strong Growth US$ 8.30… ([source](https://www.openpr.com/news/4484181/future-of-carbon-capture-technology-market-2026-2035-market))
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://lowcarbon.exxonmobil.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology/insights-from-our-direct-air-capture-pilot))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology/insights-from-our-direct-air-capture-pilot))
+- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/direct-air-capture-technology))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

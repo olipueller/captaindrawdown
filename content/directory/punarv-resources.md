@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.punarv.com" target="_blank" rel="noopener">https://www.punarv.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/punarv-resources-pvt-ltd/" target="_blank" rel="noopener">punarv-resources-pvt-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,16 +31,16 @@ Punarv Resources Pvt Ltd is an Indian biochar producer based in Raipur, Chhattis
 ## History
 
 - **2026-10-15** — refresh: coresignal, liveliness
-- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-15** — liveliness: Moderate → Active
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.linkedin.com/in/nitin-agrawal-40068a27/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.linkedin.com/in/nitin-agrawal-40068a27/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.linkedin.com/in/nitin-agrawal-40068a27/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.linkedin.com/in/nitin-agrawal-40068a27/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/punarv-resources))
 
 ---

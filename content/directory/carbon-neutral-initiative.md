@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbon-neutral-initiative.com/" target="_blank" rel="noopener">https://carbon-neutral-initiative.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-neutral-initiative/" target="_blank" rel="noopener">carbon-neutral-initiative</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,25 +30,25 @@ Carbon Neutral Initiative (CNI) is a Dutch company founded by Robert van der Lui
 
 ## History
 
-- **2026-10-12** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-105204fa223b))
-- **2026-09-06** — news mention: Carbon Neutral Initiative: NEW PAPER - Assessing urban green roofs for CO2 removal via enhanced rock ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-59751e1b90c3))
-- **2026-09-06** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues f ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-7650e0654274))
-- **2026-09-06** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-a10bc24b04e8))
+- **2026-10-12** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-105204fa223b))
+- **2026-09-06** — news mention: Carbon Neutral Initiative: NEW PAPER - Assessing urban green roofs for CO2 removal via enhanced… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-59751e1b90c3))
+- **2026-09-06** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-7650e0654274))
+- **2026-09-06** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-a10bc24b04e8))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbon-neutral-initiative.com/))
-- **2026-08-01** — news mention: Carbon Neutral Initiative: 📢 Nieuw methodologiedocument gepubliceerd Stichting Nationale Koolstofmar ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-b3ffcd31b011))
-- **2026-07-25** — news mention: Carbon Neutral Initiative: 📢 New methodology published: Carbon sequestration via enhanced rock weath ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-4c2d5676043b))
-- **2026-07-25** — news mention: Carbon Neutral Initiative: NEW PAPER - Assessing urban green roofs for CO2 removal via enhanced rock ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-10d11c4cf1fc))
-- **2026-07-25** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues f ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-4eada96ffcc6))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://carbon-neutral-initiative.com/))
+- **2026-08-01** — news mention: Carbon Neutral Initiative: Nieuw methodologiedocument gepubliceerd Stichting Nationale… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-b3ffcd31b011))
+- **2026-07-25** — news mention: Carbon Neutral Initiative: New methodology published: Carbon sequestration via enhanced rock… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-4c2d5676043b))
+- **2026-07-25** — news mention: Carbon Neutral Initiative: NEW PAPER - Assessing urban green roofs for CO2 removal via enhanced… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-10d11c4cf1fc))
+- **2026-07-25** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues… ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-4eada96ffcc6))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbon-neutral-initiative.com/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://carbon-neutral-initiative.com/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://carbon-neutral-initiative.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://carbon-neutral-initiative.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://carbon-neutral-initiative.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://carbon-neutral-initiative.com/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://remineralize.org/2024/10/unlocking-urban-rooftops-for-carbon-capture-in-the-netherlands/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://carbon-neutral-initiative.com/))
+- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://carbon-neutral-initiative.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://remineralize.org/2024/10/unlocking-urban-rooftops-for-carbon-capture-in-the-netherlands/))
+- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://carbon-neutral-initiative.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

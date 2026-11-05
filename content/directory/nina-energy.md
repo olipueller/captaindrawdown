@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://nina.energy/en/" target="_blank" rel="noopener">https://nina.energy/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nina-energy/" target="_blank" rel="noopener">nina-energy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,13 +30,13 @@ Nina Energy Limited is an Ecuadorian startup (founded 2021, formerly Andes Bioen
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-14** — news mention: Nina Energy: On 3 February 2026, the EU did something no regulator had done before: define by law wh ([source](https://www.linkedin.com/company/nina-energy/#post-da39de2c64ec))
+- **2026-09-14** — news mention: Nina Energy: On 3 February 2026, the EU did something no regulator had done before: define by law… ([source](https://www.linkedin.com/company/nina-energy/#post-da39de2c64ec))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://nina.energy/en/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://nina.energy/en/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://nina.energy/en/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

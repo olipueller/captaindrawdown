@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://bio-c.com/" target="_blank" rel="noopener">https://bio-c.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioc-global/" target="_blank" rel="noopener">bioc-global</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,33 +31,33 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 ## History
 
 - **2026-08-15** — refresh: coresignal
-- **2026-08-01** — news mention: Ibero Massa Florestal, S.A.: Novo artigo científico publicado pela equipa de I&amp;D da Ibero Massa  ([source](https://www.linkedin.com/company/imflorestal/#post-3a5156800d05))
-- **2026-07-30** — news mention: Meva Energy AB: How IKEA’s furniture waste is becoming biochar🪑🪨 At this year’s Biochar Summit, you’ ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
-- **2026-07-25** — news mention: Ibero Massa Florestal: Novo artigo científico publicado pela equipa de I&amp;D da Ibero Massa Flores ([source](https://www.linkedin.com/company/imflorestal/#post-eabb17791263))
-- **2026-07-09** — news mention: We absolutely need to eat less meat and dairy, but it won't happen overnight and we risk alienating  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa5lj2s4s2k))
-- **2026-07-09** — news mention: Results showed a 10% reduction in methane emissions resulting from improved feed conversion when 0.8 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa4zmwsns2k))
-- **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our chil ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
-- **2026-05-25** — news mention: Fortescue is headed towards becoming our first net-zero mining company. I hope that they are able to ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmokvnslhs2f))
-- **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))
-- **2026-05-23** — news mention: Want to know one of the most important things that makes me so angry about how academia ignored bioc ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmjljxazfk2s))
-- **2026-05-19** — news mention: In an entirely predictable move, Republicans have relaxed Environmental Protections to protect the p ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mm7j2ik5tc2b))
-- **2026-05-16** — news mention: Why do so few climate action activists promote more biochar use?  I suppose it is because so many pe ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlxuy4eg3222))
-- **2026-05-14** — news mention: Nine percent of fossil fuel is used for air travel. Eighty percent of air travel is recreational by  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsvhnqehk22))
-- **2026-05-14** — news mention: There are a couple of spots east of the Mississippi that have pockets of hot rocks so those may be f ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsoortw6c22))
-- **2026-05-12** — news mention: Zero, one, two, three, five for today's #Wordle 1,788 5/6*  ⬜⬜⬜⬜⬜ 🟨⬜⬜⬜⬜ ⬜🟩🟩⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩🟩🟩 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlnnyfkwdk2p))
-- **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))
-- **2026-05-03** — news mention: I'm pretty well convinced that Grassley was in on the treason planned for J6 and I hope that even if ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxjdhyhb223))
+- **2026-08-01** — news mention: Ibero Massa Florestal, S.A.: Novo artigo científico publicado pela equipa de I&amp;D da Ibero… ([source](https://www.linkedin.com/company/imflorestal/#post-3a5156800d05))
+- **2026-07-30** — news mention: Meva Energy AB: How IKEA’s furniture waste is becoming biochar At this year’s Biochar Summit… ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
+- **2026-07-25** — news mention: Ibero Massa Florestal: Novo artigo científico publicado pela equipa de I&amp;D da Ibero Massa… ([source](https://www.linkedin.com/company/imflorestal/#post-eabb17791263))
+- **2026-07-09** — news mention: We absolutely need to eat less meat and dairy, but it won't happen overnight and we risk… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa5lj2s4s2k))
+- **2026-07-09** — news mention: Results showed a 10% reduction in methane emissions resulting from improved feed conversion when… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa4zmwsns2k))
+- **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
+- **2026-05-25** — news mention: Fortescue is headed towards becoming our first net-zero mining company. I hope that they are able… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmokvnslhs2f))
+- **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))
+- **2026-05-23** — news mention: Want to know one of the most important things that makes me so angry about how academia ignored… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmjljxazfk2s))
+- **2026-05-19** — news mention: In an entirely predictable move, Republicans have relaxed Environmental Protections to protect the… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mm7j2ik5tc2b))
+- **2026-05-16** — news mention: Why do so few climate action activists promote more biochar use? I suppose it is because so many… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlxuy4eg3222))
+- **2026-05-14** — news mention: Nine percent of fossil fuel is used for air travel. Eighty percent of air travel is recreational… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsvhnqehk22))
+- **2026-05-14** — news mention: There are a couple of spots east of the Mississippi that have pockets of hot rocks so those may be… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlsoortw6c22))
+- **2026-05-12** — news mention: Zero, one, two, three, five for today's #Wordle 1,788 5/6* ⬜⬜⬜⬜⬜ ⬜⬜⬜⬜ ⬜⬜⬜ ⬜⬜ ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlnnyfkwdk2p))
+- **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))
+- **2026-05-03** — news mention: I'm pretty well convinced that Grassley was in on the treason planned for J6 and I hope that even… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxjdhyhb223))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-29** — news mention: This is also an excellent to follow if you are concerned about climate change and how it can be addr ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mknjc4ty5c2t))
-- **2026-04-28** — news mention: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and should ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))
-- **2026-04-27** — news mention: excellent point, as that is the important consideration  pyrolysis, if done under proper conditions  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkhwbvy5ht26))
-- **2026-04-24** — news mention: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if m ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bio-c.com/))
+- **2026-04-29** — news mention: This is also an excellent to follow if you are concerned about climate change and how it can be… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mknjc4ty5c2t))
+- **2026-04-28** — news mention: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))
+- **2026-04-27** — news mention: excellent point, as that is the important consideration pyrolysis, if done under proper… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkhwbvy5ht26))
+- **2026-04-24** — news mention: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://bio-c.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bio-c.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bio-c.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://bio-c.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://bio-c.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.viridor.co.uk/" target="_blank" rel="noopener">https://www.viridor.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/viridor/" target="_blank" rel="noopener">viridor</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,20 +30,20 @@ Viridor is a UK resource recovery and recycling company (majority-owned by KKR) 
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
-- **2026-09-02** — news mention: Viridor: The UK ETS Authority has confirmed that the UK Emissions Trading Scheme will not be expande ([source](https://www.linkedin.com/company/viridor/#post-f892416384a5))
-- **2026-08-26** — news mention: Viridor: Data centres need power fast, but a conventional grid connection can take up to 12 years to ([source](https://www.linkedin.com/company/viridor/#post-00453db423f0))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
+- **2026-09-02** — news mention: Viridor: The UK ETS Authority has confirmed that the UK Emissions Trading Scheme will not be… ([source](https://www.linkedin.com/company/viridor/#post-f892416384a5))
+- **2026-08-26** — news mention: Viridor: Data centres need power fast, but a conventional grid connection can take up to 12 years… ([source](https://www.linkedin.com/company/viridor/#post-00453db423f0))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.viridor.co.uk/our-ambition/runcorn-ccs-project/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

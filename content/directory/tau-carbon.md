@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.taucarbon.com/" target="_blank" rel="noopener">https://www.taucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,25 +30,25 @@ Tau Carbon was founded by John Lin and Dr. Amber Janda, who developed the idea o
 
 ## History
 
-- **2026-10-15** — news mention: Tau Carbon: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash piles. Wildfi ([source](https://www.linkedin.com/company/tau-carbon/#post-b28c0c183dac))
+- **2026-10-15** — news mention: Tau Carbon: The cheapest carbon removal in the West may already be sitting in slash piles.… ([source](https://www.linkedin.com/company/tau-carbon/#post-b28c0c183dac))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: Tau Carbon: Carbon Yards is featured in a recent Quantum Commodity Intelligence interview, where our ([source](https://www.linkedin.com/company/tau-carbon/#post-ca129e94854f))
-- **2026-08-31** — news mention: Tau Carbon: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash piles. Wildfi ([source](https://www.linkedin.com/company/tau-carbon/#post-48133ed780b5))
-- **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
-- **2026-08-16** — news mention: Tau Carbon: Congratulations to Sequest , which has successfully completed the Puro.earth Preliminary ([source](https://www.linkedin.com/company/tau-carbon/#post-3ce8e30755ed))
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.linkedin.com/company/tau-carbon))
-- **2026-08-09** — news mention: Tau Carbon: Excited to share this report from RMI , the Beyond Alliance , and American Forest Founda ([source](https://www.linkedin.com/company/tau-carbon/#post-2a09b9c5c4f4))
-- **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
-- **2026-07-25** — news mention: Tau Carbon: Sumitomo Corporation to Participate in CDR Project Through Joint Venture with Graphyte   ([source](https://www.linkedin.com/company/tau-carbon/#post-e5f54f46f2d9))
+- **2026-09-07** — news mention: Tau Carbon: Carbon Yards is featured in a recent Quantum Commodity Intelligence interview, where… ([source](https://www.linkedin.com/company/tau-carbon/#post-ca129e94854f))
+- **2026-08-31** — news mention: Tau Carbon: The cheapest carbon removal in the West may already be sitting in slash piles.… ([source](https://www.linkedin.com/company/tau-carbon/#post-48133ed780b5))
+- **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
+- **2026-08-16** — news mention: Tau Carbon: Congratulations to Sequest , which has successfully completed the Puro.earth… ([source](https://www.linkedin.com/company/tau-carbon/#post-3ce8e30755ed))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.linkedin.com/company/tau-carbon))
+- **2026-08-09** — news mention: Tau Carbon: Excited to share this report from RMI , the Beyond Alliance , and American Forest… ([source](https://www.linkedin.com/company/tau-carbon/#post-2a09b9c5c4f4))
+- **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. Bain… ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
+- **2026-07-25** — news mention: Tau Carbon: Sumitomo Corporation to Participate in CDR Project Through Joint Venture with… ([source](https://www.linkedin.com/company/tau-carbon/#post-e5f54f46f2d9))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.taucarbon.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.taucarbon.com/))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.taucarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.taucarbon.com/what-we-do))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://www.taucarbon.com/))
+- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.linkedin.com/company/tau-carbon))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.taucarbon.com/what-we-do))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://www.taucarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

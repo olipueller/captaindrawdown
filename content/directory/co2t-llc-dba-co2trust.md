@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://co2trust.earth" target="_blank" rel="noopener">https://co2trust.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2trust/" target="_blank" rel="noopener">co2trust</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,18 +32,18 @@ CO2Trust (CO2T, LLC) is an Oregon-based carbon credit marketplace platform that 
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): CO2 Trust
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cgsentinel.com/news/photos-co2-trust-grows-carbon-credits-from-compost-and-care/article_70a9cd70-4753-471b-b424-ec9f792dcfbc.html))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.cgsentinel.com/news/photos-co2-trust-grows-carbon-credits-from-compost-and-care/article_70a9cd70-4753-471b-b424-ec9f792dcfbc.html))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/CO2TrustEarth))
 - **** — merged duplicate: CO2 Trust (slug=co2-trust)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://co2trust.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://co2trust.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://co2trust.earth ([source](https://www.cdr.fyi/marketplace/co2t))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/co2t))
 

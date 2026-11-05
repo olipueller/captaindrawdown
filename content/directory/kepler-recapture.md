@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://keplerrecapture.com/" target="_blank" rel="noopener">https://keplerrecapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kepler-recapture/" target="_blank" rel="noopener">kepler-recapture</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -32,17 +32,17 @@ Kepler ReCapture is an Austin, Texas-based division of aerospace/defense consult
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://keplerrecapture.com/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://keplerrecapture.com/))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://keplerrecapture.com/))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://keplerrecapture.com/))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://keplerrecapture.com/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://keplerrecapture.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://keplerrecapture.com/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
+- **2026-05-01** — liveliness: Suspect → Moderate ([source](https://keplerrecapture.com/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness= Suspect ([source](https://keplerrecapture.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate ([source](https://keplerrecapture.com/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟠 Suspect ([source](https://keplerrecapture.com/))
+- **2026-04-19** — liveliness: Suspect → Moderate ([source](https://keplerrecapture.com/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=division liveliness= Suspect ([source](https://keplerrecapture.com/))
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Suspect ([source](https://keplerrecapture.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

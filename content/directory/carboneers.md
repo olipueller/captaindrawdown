@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboneers.earth/" target="_blank" rel="noopener">https://www.carboneers.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneersunitedbv/" target="_blank" rel="noopener">carboneersunitedbv</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -41,22 +41,22 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-26** — news mention: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and E ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-0536d1dafa0f))
-- **2026-08-22** — news mention: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and E ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-7116fd7801c6))
+- **2026-09-26** — news mention: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and… ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-0536d1dafa0f))
+- **2026-08-22** — news mention: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and… ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-7116fd7801c6))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
-- **2026-08-07** — news mention: Carboneers: Carbon credits are now firmly part of the EUâs path to a 90% emissions reduction by 20 ([source](https://www.linkedin.com/company/ipcita/#post-311a6c4f5a98))
-- **2026-07-25** — news mention: CAWA: New offtake announcement: IMC x Cawa IMC Trading has just secured 4,000 tonnes of Carboneers b ([source](https://www.linkedin.com/company/cawa-tech/#post-3407f9d64c77))
-- **2026-07-23** — news mention: Carboneers: Carbon credits are now firmly part of the EU’s path to a 90% emissions reduction by 2040 ([source](https://www.linkedin.com/company/ipcita/#post-cee2b17ded45))
-- **2026-07-01** — news mention: ClimeFi: Last week, @[ClimeFi](urn:li:organization:84962731) hosted two key events as part of @[Lond ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477734405701292034/))
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-07** — news mention: Carboneers: Carbon credits are now firmly part of the EUâs path to a 90% emissions reduction by… ([source](https://www.linkedin.com/company/ipcita/#post-311a6c4f5a98))
+- **2026-07-25** — news mention: CAWA: New offtake announcement: IMC x Cawa IMC Trading has just secured 4,000 tonnes of Carboneers… ([source](https://www.linkedin.com/company/cawa-tech/#post-3407f9d64c77))
+- **2026-07-23** — news mention: Carboneers: Carbon credits are now firmly part of the EU’s path to a 90% emissions reduction by… ([source](https://www.linkedin.com/company/ipcita/#post-cee2b17ded45))
+- **2026-07-01** — news mention: ClimeFi: Last week, @[ClimeFi](urn:li:organization:84962731) hosted two key events as part of… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477734405701292034/))
 - **2026-06-30** — news mention: Carbon Buyers Breakfast at the National Gallery | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477379256109629440/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carboneers' actual LinkedIn slug is "dutchcarboneers" (nl.linkedin.com/company/dutchcarboneers). The slug "ipcita" does not correspond to Carboneers and has no apparent connection to the biochar CDR c
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carboneers' actual LinkedIn slug is "dutchcarboneers"…
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboneers.earth/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carboneers.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboneers.earth/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carboneers.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.bioenergie-frauenfeld.ch/" target="_blank" rel="noopener">https://www.bioenergie-frauenfeld.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergie-frauenfeld/" target="_blank" rel="noopener">bioenergie-frauenfeld</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,20 +30,20 @@ Bioenergie Frauenfeld AG is a Swiss wood CHP plant operator jointly owned by Ene
 
 ## History
 
-- **2026-10-12** — news mention: Bioenergie Frauenfeld: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We a ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-d3b934415a1f))
-- **2026-09-06** — news mention: Bioenergie Frauenfeld: ð± Bioenergie Frauenfeld AG issues first Credits into Isometric registryð ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-03ca7a7db669))
+- **2026-10-12** — news mention: Bioenergie Frauenfeld: Bioenergie Frauenfeld AG issues first Credits into Isometric registry We… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-d3b934415a1f))
+- **2026-09-06** — news mention: Bioenergie Frauenfeld: ð± Bioenergie Frauenfeld AG issues first Credits into Isometric… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-03ca7a7db669))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-12** — news mention: Isometric: Isometric has certified its first carbon removal project in Switzerland. Bioenergie Fraue ([source](https://www.linkedin.com/company/exponential-hq/#post-7fb5e90ba3e3))
-- **2026-08-08** — news mention: Bioenergie Frauenfeld: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We a ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-2850ac662ad0))
-- **2026-08-06** — news mention: Syncraft: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We are proud to s ([source](https://www.linkedin.com/company/syncraft/#post-4dc6624172c8))
+- **2026-08-12** — news mention: Isometric: Isometric has certified its first carbon removal project in Switzerland. Bioenergie… ([source](https://www.linkedin.com/company/exponential-hq/#post-7fb5e90ba3e3))
+- **2026-08-08** — news mention: Bioenergie Frauenfeld: Bioenergie Frauenfeld AG issues first Credits into Isometric registry We… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-2850ac662ad0))
+- **2026-08-06** — news mention: Syncraft: Bioenergie Frauenfeld AG issues first Credits into Isometric registry We are proud to… ([source](https://www.linkedin.com/company/syncraft/#post-4dc6624172c8))
 - **2026-08-06** — news mention: Isometric Issues First Swiss Biochar Certificates to Bioenergie Frauenfeld AG – Biochar Today ([source](https://biochartoday.com/news/isometric-issues-first-swiss-biochar-certificates-to-bioenergie-frauenfeld-ag/))
-- **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie #resilienteenergieversorgun ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
+- **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie… ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/frauenfeld/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.syncraft.at/en/references/frauenfeld/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.jenbacher.com/en/case-studies/syncraft-frauenfeld))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.jenbacher.com/en/case-studies/syncraft-frauenfeld))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.bioenergie-frauenfeld.ch/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

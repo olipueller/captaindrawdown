@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.ceres-cert.de" target="_blank" rel="noopener">https://www.ceres-cert.de</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/" target="_blank" rel="noopener">ceres-certification-of-environmental-standards-gmbh</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,15 +31,15 @@ CERES (CERtification of Environmental Standards GmbH) is a German inspection and
 
 ## History
 
-- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
+- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
-- **2026-09-17** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-f2028d3cda61))
-- **2026-09-12** — news mention: CERES: One year ago, we introduced the Rainforest Alliance Regenerative Agriculture Standard! 🌱 Sinc ([source](https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/#post-4eed4d5ac375))
-- **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))
+- **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
+- **2026-09-17** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership… ([source](https://www.linkedin.com/company/reverion/#post-f2028d3cda61))
+- **2026-09-12** — news mention: CERES: One year ago, we introduced the Rainforest Alliance Regenerative Agriculture Standard!… ([source](https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/#post-4eed4d5ac375))
+- **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership… ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ceres-cert.de/en/home))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.ceres-cert.de/en/home))
 - **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://midori-partner.com/" target="_blank" rel="noopener">https://midori-partner.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/midoriclimate/" target="_blank" rel="noopener">midoriclimate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -39,17 +39,17 @@ Midori Climate Partner Pte. Ltd. is a Singapore-based carbon credit developer sp
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://midori-partner.com/))
 - **2026-04-19** — merged 1 duplicate(s): Midori Climate Partner Pre. Ltd.
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://midori-partner.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://midori-partner.com/ ([source](https://www.cdr.fyi/supplier/midori-climate-partner))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/midori-climate-partner))
 - **** — merged duplicate: Midori Climate Partner Pre. Ltd. (slug=midori-climate-partner-pre-ltd)
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://midori-partner.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://midori-partner.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://midori-partner.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

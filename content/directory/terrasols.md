@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://terrasols.earth/" target="_blank" rel="noopener">https://terrasols.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrasols/" target="_blank" rel="noopener">terrasols</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,27 +30,27 @@ Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering start
 
 ## History
 
-- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
+- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
-- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
-- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
-- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
-- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
+- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://terrasols.earth/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://terrasols.earth/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://terrasols.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Terrasols Solutions Private Limited
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
+- **2026-04-19** — liveliness: Moderate → Active
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://terrasols.earth/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terrasols))
 - **** — merged duplicate: Terrasols Solutions Private Limited (slug=terrasols-solutions-private-limited)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://terrasols.earth/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://terrasols.earth/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://terrasols.earth/))
+- **2026-04-19** — liveliness: Moderate → Active ([source](https://terrasols.earth/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://terrasols.earth/))
+- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://terrasols.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

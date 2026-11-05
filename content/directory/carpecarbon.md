@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carpecarbon.com/" target="_blank" rel="noopener">https://www.carpecarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,25 +30,23 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 
 ## History
 
+- **2026-11-05** — news mention: Skyrenu: Some of this month's most interesting DAC news came from a tire plant. CarpeCarbon and… ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-e671e0cd3d56))
 - **2026-11-04** — news mention: CarpeCarbon DAC plant at Michelin Cuneo tyre factory — 300 t/yr · dac ([source](https://en.ilsole24ore.com/art/co-capture-capecarbon-and-michelin-agreement-first-industrial-plant-AJUwqsrB))
-- **2026-11-02** — news mention: CarpeCarbon: 🌍 CarpeCarbon partners with Michelin Italiana to launch its first industrial-scale DAC  ([source](https://www.linkedin.com/company/carpecarbon/#post-420ebc86edbb))
-- **2026-10-30** — news mention: 💫 CDR Momentum, Edition IV
-
-NEP members are at the heart of this month’s carbon removal highlights.
- ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
+- **2026-11-02** — news mention: CarpeCarbon: CarpeCarbon partners with Michelin Italiana to launch its first industrial-scale… ([source](https://www.linkedin.com/company/carpecarbon/#post-420ebc86edbb))
+- **2026-10-30** — news mention: CDR Momentum, Edition IV ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
 - **2026-10-30** — news mention: CarpeCarbon project — 300 t/yr · dac ([source](https://carpecarbon.com/news-events/carpecarbon-and-michelin-direct-air-capture))
 - **2026-10-29** — news mention: Michelin Italiana To Host CarpeCarbon’s First Industrial-Scale DAC Tech ([source](https://carbonherald.com/michelin-italiana-to-host-carpecarbons-first-industrial-scale-dac-tech/?utm_source=rss&utm_medium=rss&utm_campaign=michelin-italiana-to-host-carpecarbons-first-industrial-scale-dac-tech))
-- **2026-08-28** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-162f176858cd))
+- **2026-08-28** — news mention: CarpeCarbon: The EU just turned Direct Air Capture from a bet into a business case. The… ([source](https://www.linkedin.com/company/carpecarbon/#post-162f176858cd))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-24** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-665e97a1cfcd))
+- **2026-07-24** — news mention: CarpeCarbon: The EU just turned Direct Air Capture from a bet into a business case. The… ([source](https://www.linkedin.com/company/carpecarbon/#post-665e97a1cfcd))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://carpecarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://carpecarbon.com/))
+- **2026-04-19** — liveliness: Moderate → Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://carpecarbon.com/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://carpecarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

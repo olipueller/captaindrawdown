@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://planetmoja.com/" target="_blank" rel="noopener">https://planetmoja.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planet-moja/" target="_blank" rel="noopener">planet-moja</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -33,7 +33,7 @@ Planet Moja is a UK-based carbon credit portfolio curator and broker with a rese
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://planetmoja.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://planetmoja.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/planet-moja-limited))
 
 ---

@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.nbs-ea.com/" target="_blank" rel="noopener">https://www.nbs-ea.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riziki-nature-based-solutions/" target="_blank" rel="noopener">riziki-nature-based-solutions</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,14 +30,14 @@ Riziki Nature Based Solutions is a Kenya-based startup that harvests invasive Pr
 ## History
 
 - **2026-09-15** — refresh: coresignal, liveliness
-- **2026-09-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nbs-ea.com/))
+- **2026-09-15** — liveliness: Active → Likely Dead ([source](https://www.nbs-ea.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nbs-ea.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.nbs-ea.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.nbs-ea.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.nbs-ea.com/))
+- **2026-04-19** — liveliness: Moderate → Active ([source](https://www.nbs-ea.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.nbs-ea.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.nbs-ea.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.mangrovesystems.com/" target="_blank" rel="noopener">https://www.mangrovesystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mangrovesystems/" target="_blank" rel="noopener">mangrovesystems</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,21 +35,21 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 ## History
 
 - **2026-10-30** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521935501537398784/))
-- **2026-10-11** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
-- **2026-10-02** — news mention: Grain Ecosystem: Today, weâre proud to share an important update in the Grain journey.   Mangrove  ([source](https://www.linkedin.com/company/grain-ecosystem/#post-0f744574a362))
+- **2026-10-11** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and… ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
+- **2026-10-02** — news mention: Grain Ecosystem: Today, weâre proud to share an important update in the Grain journey.… ([source](https://www.linkedin.com/company/grain-ecosystem/#post-0f744574a362))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-05** — news mention: Mangrove Systems: We're thrilled to announce our new partnership with 易境永續設計顧問有限公司 GreenJump Sustain ([source](https://www.linkedin.com/company/gomangrove/#post-2d5f53b96777))
-- **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
-- **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020, an ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
-- **2026-07-24** — news mention: Mangrove Systems: We're excited to share that Mangrove Systems has partnered with A Healthier Earth  ([source](https://www.linkedin.com/company/gomangrove/#post-b39b306039c0))
-- **2026-07-23** — news mention: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey.   Mangrove Sy ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
-- **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
+- **2026-09-05** — news mention: Mangrove Systems: We're thrilled to announce our new partnership with 易境永續設計顧問有限公司 GreenJump… ([source](https://www.linkedin.com/company/gomangrove/#post-2d5f53b96777))
+- **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and… ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
+- **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020… ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
+- **2026-07-24** — news mention: Mangrove Systems: We're excited to share that Mangrove Systems has partnered with A Healthier… ([source](https://www.linkedin.com/company/gomangrove/#post-b39b306039c0))
+- **2026-07-23** — news mention: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey. Mangrove… ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
+- **2026-07-22** — news mention: CDR.fyi: The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the… ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: Mangrove Systems Acquires Biochar Carbon Removal ... ([source](https://www.esgtoday.com/mangrove-systems-acquires-biochar-carbon-removal-platform-grain-ecosystem/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mangrovesystems.com/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.mangrovesystems.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.mangrovesystems.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.mangrovesystems.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

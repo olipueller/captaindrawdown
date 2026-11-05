@@ -28,15 +28,15 @@ Regen Agri-Source is a small Missouri-based agricultural retailer in Stover, MO 
 ## History
 
 - **2026-09-15** — refresh: screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.ragris.com/))
+- **2026-09-15** — liveliness: Suspect → Likely Dead ([source](https://www.ragris.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.ragris.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.ragris.com/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.ragris.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.ragris.com/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.ragris.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ragris.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ragris.com/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.ragris.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ragris.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ragris.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

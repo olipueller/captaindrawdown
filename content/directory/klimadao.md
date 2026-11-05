@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.klimadao.finance/" target="_blank" rel="noopener">https://www.klimadao.finance/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/babe-ke-group-of-institutes/" target="_blank" rel="noopener">babe-ke-group-of-institutes</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,11 +31,11 @@ KlimaDAO is a decentralized autonomous organization building blockchain-based in
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-15** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.klimadao.finance/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.klimadao.finance/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.klimadao.finance/ ([source](https://www.cdr.fyi/supplier/klimadao))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/klimadao))
 

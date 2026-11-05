@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://arbor.co/" target="_blank" rel="noopener">https://arbor.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arborenergy/" target="_blank" rel="noopener">arborenergy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,23 +29,23 @@ Arbor is a US-based BECCS startup founded in 2022 that converts waste biomass in
 
 ## History
 
-- **2026-10-17** — news mention: Arbor: MAJOR COMPANY ANNOUNCEMENT: Arbor Energy just demonstrated a world first in energy and perhap ([source](https://www.linkedin.com/company/arborenergy/#post-ca945c4828c3))
-- **2026-10-17** — news mention: Arbor Energy: MAJOR COMPANY ANNOUNCEMENT: Arbor Energy just demonstrated a world first in energy and ([source](https://www.linkedin.com/company/arbor-energy-resources/#post-b50205c17bc4))
+- **2026-10-17** — news mention: Arbor: MAJOR COMPANY ANNOUNCEMENT: Arbor Energy just demonstrated a world first in energy and… ([source](https://www.linkedin.com/company/arborenergy/#post-ca945c4828c3))
+- **2026-10-17** — news mention: Arbor Energy: MAJOR COMPANY ANNOUNCEMENT: Arbor Energy just demonstrated a world first in energy… ([source](https://www.linkedin.com/company/arbor-energy-resources/#post-b50205c17bc4))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-26** — news mention: Naturalness catalyzes public support for carbon dioxide removal and low-carbon energy technologies ([source](https://doi.org/10.1038/s43247-026-03829-w))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://frontierclimate.com/writing/arbor))
 - **2026-04-19** — merged 1 duplicate(s): Arbor Energy
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://frontierclimate.com/writing/arbor))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://frontierclimate.com/writing/arbor))
 - **2026-04-18** — discovered via: web_search_ai ([source](https://arbor.earth))
 - **** — merged duplicate: Arbor Energy (slug=arbor-energy)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/portfolio/arbor))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/arbor))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://frontierclimate.com/portfolio/arbor))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://frontierclimate.com/writing/arbor))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

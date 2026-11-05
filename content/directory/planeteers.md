@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,27 +45,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-03** — news mention: Excited to announce that our co-founder, Frank Rattey, will be speaking at Nerdy4Nature, hosted by t ([source](https://www.linkedin.com/feed/update/urn:li:share:7521922464331952128/))
+- **2026-11-03** — news mention: Excited to announce that our co-founder, Frank Rattey, will be speaking at Nerdy4Nature, hosted by… ([source](https://www.linkedin.com/feed/update/urn:li:share:7521922464331952128/))
 - **2026-10-30** — news mention: #tbewc26 #sos2026 | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7521942764297584640/))
-- **2026-10-29** — news mention: 🌍 Please join us in welcoming Christoph Staggenborg, our newest Planeteer! 💚
-
-Christoph joins Planet ([source](https://www.linkedin.com/feed/update/urn:li:share:7521218125694930945/))
-- **2026-10-17** — news mention: It was a pleasure to take part again in the International Lime Association (ILA) General Assembly &a ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516797023434588160/))
+- **2026-10-29** — news mention: Please join us in welcoming Christoph Staggenborg, our newest Planeteer! ([source](https://www.linkedin.com/feed/update/urn:li:share:7521218125694930945/))
+- **2026-10-17** — news mention: It was a pleasure to take part again in the International Lime Association (ILA) General Assembly… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516797023434588160/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-09** — news mention: #carbonremoval #climatetech #collaboration #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7513867999628640256/))
 - **2026-10-06** — news mention: #planeteers #climatetech #chemicalengineering #carbonremoval #engineering | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7513173928299769856/))
-- **2026-10-03** — news mention: Planeteers: Good things happen when cities, scientists and climate technology come together 🌊 We’re  ([source](https://www.linkedin.com/company/planeteersgmbh/#post-fbfc611c89f8))
+- **2026-10-03** — news mention: Planeteers: Good things happen when cities, scientists and climate technology come together… ([source](https://www.linkedin.com/company/planeteersgmbh/#post-fbfc611c89f8))
 - **2026-10-03** — news mention: #carbonremoval #climatetech #kiel | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511751014392328192/))
-- **2026-09-26** — news mention: 🌍 Please join us in welcoming Kelvin Weru, our newest Planeteer! 💚
- 
-Kelvin has a background in Proc ([source](https://www.linkedin.com/feed/update/urn:li:share:7509242921959845889/))
-- **2026-09-17** — news mention: 🌍 Please join us in welcoming Ina Sophia Nipper, our newest Planeteer! 💚
-
-Ina recently completed her ([source](https://www.linkedin.com/feed/update/urn:li:share:7506277290356645889/))
-- **2026-09-15** — news mention: 𝐖𝐞’𝐫𝐞 𝐞𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐬𝐡𝐚𝐫𝐞 𝐭𝐡𝐞 𝐧𝐞𝐰 Planeteers 𝐥𝐨𝐠𝐨!
- 
-Our new identity represents the connection between ([source](https://www.linkedin.com/feed/update/urn:li:share:7505209591408914433/))
+- **2026-09-26** — news mention: Please join us in welcoming Kelvin Weru, our newest Planeteer! ([source](https://www.linkedin.com/feed/update/urn:li:share:7509242921959845889/))
+- **2026-09-17** — news mention: Please join us in welcoming Ina Sophia Nipper, our newest Planeteer! ([source](https://www.linkedin.com/feed/update/urn:li:share:7506277290356645889/))
+- **2026-09-15** — news mention: We’re excited to share the new Planeteers logo! ([source](https://www.linkedin.com/feed/update/urn:li:share:7505209591408914433/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504144206689628160/))
 - **2026-09-09** — news mention: #thedrop2026 #carbonremoval #climatetech #industrialdecarbonisation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7503075876134100992/))
@@ -74,19 +66,13 @@ Our new identity represents the connection between ([source](https://www.linkedi
 - **2026-08-31** — news mention: #carbondioxideremoval #climatetech #sustainability | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7500080974894940160/))
 - **2026-08-27** — news mention: #mrv #carbonmanagement #decarbonisation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7495057688188534785/))
 - **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
-- **2026-08-21** — news mention: 📌 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 7: 𝐌𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥𝐢𝐭𝐢𝐞𝐬 𝐝𝐨𝐧’𝐭 𝐣𝐮𝐬𝐭 𝐫𝐞𝐠𝐮𝐥𝐚𝐭𝐞 𝐜𝐥𝐢𝐦𝐚𝐭𝐞 𝐚𝐜𝐭𝐢𝐨𝐧 — 𝐭𝐡𝐞𝐲 𝐜𝐚𝐧 𝐚𝐜𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐞 𝐢𝐭.
- 
-Many of t ([source](https://www.linkedin.com/feed/update/urn:li:share:7495049913232404480/))
-- **2026-08-18** — news mention: 🌍 Please join us in welcoming Martin Keim, PMP®, our newest Planeteer! 💚
- 
-With a background in Envi ([source](https://www.linkedin.com/feed/update/urn:li:share:7495395277319688192/))
+- **2026-08-21** — news mention: Episode 7: Municipalities don’t just regulate climate action — they can accelerate it. ([source](https://www.linkedin.com/feed/update/urn:li:share:7495049913232404480/))
+- **2026-08-18** — news mention: Please join us in welcoming Martin Keim, PMP®, our newest Planeteer! ([source](https://www.linkedin.com/feed/update/urn:li:share:7495395277319688192/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: #climatefinance #climateinfrastructure #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7490042511680319488/))
-- **2026-08-07** — news mention: #carboncapture #carbonstorage #climatetech #industrialpartnerships #wastewatertreatment #mrv | Plane ([source](https://www.linkedin.com/feed/update/urn:li:share:7490035124017971200/))
+- **2026-08-07** — news mention: #carboncapture #carbonstorage #climatetech #industrialpartnerships #wastewatertreatment #mrv |… ([source](https://www.linkedin.com/feed/update/urn:li:share:7490035124017971200/))
 - **2026-07-31** — news mention: #carbonremoval #carboncaptureandstorage #ccs #mrv #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7487770657439739904/))
-- **2026-07-27** — news mention: 🌎 Please join us in welcoming Léo Tambourgi, our newest Planeteer! 💚
-
-Having recently completed his  ([source](https://www.linkedin.com/feed/update/urn:li:share:7487468124733259776/))
+- **2026-07-27** — news mention: Please join us in welcoming Léo Tambourgi, our newest Planeteer! ([source](https://www.linkedin.com/feed/update/urn:li:share:7487468124733259776/))
 - **2026-07-23** — news mention: #carbonremoval #cdr #carbonmanagement #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7485967332159406082/))
 - **2026-07-16** — news mention: #carbonremoval #ccs #cdr #carbonmanagement #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7483430581750407168/))
 

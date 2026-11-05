@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://biochar.life/" target="_blank" rel="noopener">https://biochar.life/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-life/" target="_blank" rel="noopener">biochar-life</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,23 +30,23 @@ Biochar Life is a Delaware Public Benefit Corporation and impact venture of the 
 ## History
 
 - **2026-11-02** — news mention: Biochar Life Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/biocharlife))
-- **2026-09-04** — news mention: Biochar Life: 🚨[BREAKING] European Union set to create &gt;€50,000,000,000 compliance market for CDR ([source](https://www.linkedin.com/company/biochar-life/#post-b8b26e6485af))
+- **2026-09-04** — news mention: Biochar Life: [BREAKING] European Union set to create &gt;€50,000,000,000 compliance market for… ([source](https://www.linkedin.com/company/biochar-life/#post-b8b26e6485af))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
-- **2026-08-06** — news mention: Biochar Life: A new look for Carbon Standards.   Today we're introducing our new brand – Carbon Stan ([source](https://www.linkedin.com/company/biochar-life/#post-5c4c9ed61b98))
-- **2026-07-30** — news mention: Biochar Life: 🚨[BREAKING] European Union set to create &gt;€50,000,000,000 compliance market for CDR ([source](https://www.linkedin.com/company/biochar-life/#post-8f7b6ede8056))
-- **2026-07-23** — news mention: Biochar Life: ð¨[BREAKING] European Union set to create &gt;â¬50,000,000,000 compliance market fo ([source](https://www.linkedin.com/company/biochar-life/#post-3383fe1a83d9))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
+- **2026-08-06** — news mention: Biochar Life: A new look for Carbon Standards. Today we're introducing our new brand – Carbon… ([source](https://www.linkedin.com/company/biochar-life/#post-5c4c9ed61b98))
+- **2026-07-30** — news mention: Biochar Life: [BREAKING] European Union set to create &gt;€50,000,000,000 compliance market for… ([source](https://www.linkedin.com/company/biochar-life/#post-8f7b6ede8056))
+- **2026-07-23** — news mention: Biochar Life: ð ̈[BREAKING] European Union set to create &gt;â¬50,000,000,000 compliance market… ([source](https://www.linkedin.com/company/biochar-life/#post-3383fe1a83d9))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochar.life/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochar.life/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar.life/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochar.life/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochar.life/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

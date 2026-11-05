@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.netzerolab.science/" target="_blank" rel="noopener">https://www.netzerolab.science/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/net-zero-lab-%e2%80%93-max-planck-institute-for-innovation-and-competition/" target="_blank" rel="noopener">net-zero-lab-%e2%80%93-max-planck-institute-for-innovation-and-competition</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -39,8 +39,8 @@ Net Zero Lab is an independent Max Planck Research Group at the Max Planck Insti
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ip.mpg.de/en/the-institute/institute-news/the-institute-welcomes-new-max-planck-research-group-leader-benedict-probst-net-zero-lab.html))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://netzerolab.science/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.ip.mpg.de/en/the-institute/institute-news/the-institute-welcomes-new-max-planck-research-group-leader-benedict-probst-net-zero-lab.html))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://netzerolab.science/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

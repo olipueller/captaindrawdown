@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://orsted.com/" target="_blank" rel="noopener">https://orsted.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/orsted/" target="_blank" rel="noopener">orsted</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,25 +33,25 @@ liveliness: "🟢 Active"
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
 - **2026-04-19** — merged 1 duplicate(s): Ørsted
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/media/news/2025/02/key-component-installation-marks-important-milesto-14277987))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://orsted.com/en/media/news/2025/02/key-component-installation-marks-important-milesto-14277987))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://orsted.com/ ([source](https://www.cdr.fyi/supplier/orsted))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/media/news/2024/05/oersted-enters-into-new-major-agreement-on-carbon--13859979))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://orsted.com/en/media/news/2024/05/oersted-enters-into-new-major-agreement-on-carbon--13859979))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/orsted))
 - **** — merged duplicate: Ørsted (slug=ørsted)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/media/news/2025/02/key-component-installation-marks-important-milesto-14277987))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://orsted.com/en/media/news/2025/02/key-component-installation-marks-important-milesto-14277987))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://orsted.com/en/other-energy-sources/bioenergy/carbon-capture-and-storage))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

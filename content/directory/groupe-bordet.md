@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.groupebordet.fr/" target="_blank" rel="noopener">https://www.groupebordet.fr/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groupe-bordet/" target="_blank" rel="noopener">groupe-bordet</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -36,10 +36,10 @@ Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has 
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

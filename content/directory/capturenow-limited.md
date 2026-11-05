@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.capturenow.ai/" target="_blank" rel="noopener">https://www.capturenow.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture-now-ai/" target="_blank" rel="noopener">capture-now-ai</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,10 +31,10 @@ CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup th
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-07-28** — news mention: CAPTURENOW LIMITED: Exciting news out of Innovate4Climate at Ecosperity Week: On a panel with Marc R ([source](https://www.linkedin.com/company/capture-now-ai/#post-57ead58d314f))
+- **2026-07-28** — news mention: CAPTURENOW LIMITED: Exciting news out of Innovate4Climate at Ecosperity Week: On a panel with Marc… ([source](https://www.linkedin.com/company/capture-now-ai/#post-57ead58d314f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.capturenow.ai/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.capturenow.ai/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://capturenow.ai/ ([source](https://www.cdr.fyi/marketplace/capturenow-limited))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/capturenow-limited))
 

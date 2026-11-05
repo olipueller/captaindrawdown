@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://airex-energy.com/" target="_blank" rel="noopener">https://airex-energy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airex-energy/" target="_blank" rel="noopener">airex-energy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,13 +35,13 @@ Airex Energy is a Québec-based biochar technology company that licenses and ope
 
 - **2026-10-15** — refresh: screenshot
 - **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
-- **2026-09-19** — news mention: Airex Energy: We are proud to see our portfolio company, Airex Energy , alongside Arbec Forest Produ ([source](https://www.linkedin.com/company/airex-energy/#post-389c81698361))
+- **2026-09-19** — news mention: Airex Energy: We are proud to see our portfolio company, Airex Energy , alongside Arbec Forest… ([source](https://www.linkedin.com/company/airex-energy/#post-389c81698361))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

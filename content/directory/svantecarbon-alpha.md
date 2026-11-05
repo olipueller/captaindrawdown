@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.svanteinc.com/" target="_blank" rel="noopener">https://www.svanteinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/svantesolutions/" target="_blank" rel="noopener">svantesolutions</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,36 +33,36 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 
 ## History
 
-- **2026-10-07** — news mention: Svante/Carbon Alpha: Canada is helping to grow the global carbon removal market. The country just an ([source](https://www.linkedin.com/company/svantesolutions/#post-b4099899cd0c))
+- **2026-10-07** — news mention: Svante/Carbon Alpha: Canada is helping to grow the global carbon removal market. The country just… ([source](https://www.linkedin.com/company/svantesolutions/#post-b4099899cd0c))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
-- **2026-09-02** — news mention: Svante/Carbon Alpha: Mercer Peace River is receiving C$20 million in support from the Government of  ([source](https://www.linkedin.com/company/svantesolutions/#post-05804bdf12b1))
-- **2026-09-02** — news mention: Svante/Carbon Alpha: Today, the Government of Alberta announced $20 million in funding, delivered th ([source](https://www.linkedin.com/company/svantesolutions/#post-496ec142b6df))
-- **2026-09-02** — news mention: Svante/Carbon Alpha: Today, Emissions Reduction Alberta (ERA) announced that it is awarding $20 mill ([source](https://www.linkedin.com/company/svantesolutions/#post-78ab1bf0da1c))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
+- **2026-09-15** — liveliness: Moderate → Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
+- **2026-09-02** — news mention: Svante/Carbon Alpha: Mercer Peace River is receiving C$20 million in support from the Government… ([source](https://www.linkedin.com/company/svantesolutions/#post-05804bdf12b1))
+- **2026-09-02** — news mention: Svante/Carbon Alpha: Today, the Government of Alberta announced $20 million in funding, delivered… ([source](https://www.linkedin.com/company/svantesolutions/#post-496ec142b6df))
+- **2026-09-02** — news mention: Svante/Carbon Alpha: Today, Emissions Reduction Alberta (ERA) announced that it is awarding $20… ([source](https://www.linkedin.com/company/svantesolutions/#post-78ab1bf0da1c))
+- **2026-06-15** — liveliness: Active → Moderate ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-acquires-carbon-dioxide-removal-project-developer-carbon-alpha-corp/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.svanteinc.com/press-releases/svante-acquires-carbon-dioxide-removal-project-developer-carbon-alpha-corp/))
 - **2026-04-19** — merged 6 duplicate(s): North Star, North Star Carbon Solutions LP, Forward, North Star Carbon Solutions, Svante, Svante Technologies
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251030974500/en/Svante-Celebrates-18-Years-of-Carbon-Management-Innovation-with-Historic-Milestones-in-2025))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20251030974500/en/Svante-Celebrates-18-Years-of-Carbon-Management-Innovation-with-Historic-Milestones-in-2025))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.svanteinc.com/))
 - **2026-04-18** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260406630377/en/Svante-Meadow-Lake-Tribal-Council-Partnership-Agrees-to-Sell-Microsoft-626000-Tonnes-of-Carbon-Removal-Credits))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250513713072/en/Svante-Launches-Worlds-First-Commercial-Gigafactory-for-Carbon-Capture-Removal-Filters))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20260406630377/en/Svante-Meadow-Lake-Tribal-Council-Partnership-Agrees-to-Sell-Microsoft-626000-Tonnes-of-Carbon-Removal-Credits))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20250513713072/en/Svante-Launches-Worlds-First-Commercial-Gigafactory-for-Carbon-Capture-Removal-Filters))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/microsoft-pauses-all-carbon-removal-purchases/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260304605629/en/Svante-Acquires-Carbon-Dioxide-Removal-Project-Developer-Carbon-Alpha-Corp.))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.businesswire.com/news/home/20260304605629/en/Svante-Acquires-Carbon-Dioxide-Removal-Project-Developer-Carbon-Alpha-Corp.))
 - **2026-04-18** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
+- **2026-04-19** — liveliness: Active → Moderate
 
 ---
 

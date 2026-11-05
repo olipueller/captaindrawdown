@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.tierraprieta.org/en" target="_blank" rel="noopener">https://www.tierraprieta.org/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-prieta/" target="_blank" rel="noopener">tierra-prieta</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-05-31</small></td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-05-31)</small></td></tr>
 </table>
@@ -42,21 +42,21 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-04** — news mention: Tierra Prieta: The Latin America Carbon Removal Investment Roadmap is live. 👉 https://lnkd.in/eTHYBP ([source](https://www.linkedin.com/company/tierra-prieta/#post-d7a836388d82))
-- **2026-09-04** — news mention: Tierra Prieta: Proud to share that Tierra Prieta is featured in the 2026 cCarbon CDR Compass Report  ([source](https://www.linkedin.com/company/tierra-prieta/#post-b4a4991d26ff))
-- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
-- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
-- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
-- **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biologicalslatam.com/en/tierra-prieta/))
+- **2026-09-04** — news mention: Tierra Prieta: The Latin America Carbon Removal Investment Roadmap is live.… ([source](https://www.linkedin.com/company/tierra-prieta/#post-d7a836388d82))
+- **2026-09-04** — news mention: Tierra Prieta: Proud to share that Tierra Prieta is featured in the 2026 cCarbon CDR Compass… ([source](https://www.linkedin.com/company/tierra-prieta/#post-b4a4991d26ff))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business… ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta… ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
+- **2026-07-27** — news mention: Tierra Prieta: Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business… ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
+- **2026-05-11** — liveliness: Likely Dead → Active ([source](https://biologicalslatam.com/en/tierra-prieta/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biologicalslatam.com/en/tierra-prieta/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.tierraprieta.org/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.tierraprieta.org/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://biologicalslatam.com/en/tierra-prieta/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://en.tierraprieta.org/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://en.tierraprieta.org/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biologicalslatam.com/en/tierra-prieta/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.tierraprieta.org/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://en.tierraprieta.org/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://biologicalslatam.com/en/tierra-prieta/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://en.tierraprieta.org/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://en.tierraprieta.org/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

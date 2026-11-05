@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbonplace.com/" target="_blank" rel="noopener">https://carbonplace.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplace/" target="_blank" rel="noopener">carbonplace</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,20 +31,20 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-06** — news mention: Global Woods International: Welcoming Global Woods to the Carbonplace platform ð Weâre pleased  ([source](https://www.linkedin.com/company/global-woods-international-ag/#post-49c94da1b037))
+- **2026-09-06** — news mention: Global Woods International: Welcoming Global Woods to the Carbonplace platform ð Weâre… ([source](https://www.linkedin.com/company/global-woods-international-ag/#post-49c94da1b037))
 - **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
 - **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale))
-- **2026-08-27** — news mention: Carbonplace: We announced a significant milestone today. 🌟 Climate Impact X and Carbonplace announce ([source](https://www.linkedin.com/company/carbonplace/#post-ed1b00fcd4ff))
-- **2026-08-27** — news mention: CarbonMeld: Two of the most institutionally backed platforms in carbon markets are merging: Climate  ([source](https://www.linkedin.com/company/carbonmeld/#post-4fbec6196d24))
-- **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has signed ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-27** — news mention: Carbonplace: We announced a significant milestone today. Climate Impact X and Carbonplace… ([source](https://www.linkedin.com/company/carbonplace/#post-ed1b00fcd4ff))
+- **2026-08-27** — news mention: CarbonMeld: Two of the most institutionally backed platforms in carbon markets are merging… ([source](https://www.linkedin.com/company/carbonmeld/#post-4fbec6196d24))
+- **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has… ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
+- **2026-07-15** — liveliness: Moderate → Active
 - **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbonplace.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://carbonplace.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonplace.com/ ([source](https://www.cdr.fyi/marketplace/carbonplace))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbonplace))
 

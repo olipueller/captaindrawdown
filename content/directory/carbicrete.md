@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbicrete.com/" target="_blank" rel="noopener">https://carbicrete.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbicrete/" target="_blank" rel="noopener">carbicrete</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,20 +34,20 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 
 ## History
 
-- **2026-10-24** — news mention: CarbiCrete: CarbiCrete is proud to share that our carbon removals are some of the earliest verified  ([source](https://www.linkedin.com/company/carbicrete/#post-4559c307dc65))
+- **2026-10-24** — news mention: CarbiCrete: CarbiCrete is proud to share that our carbon removals are some of the earliest… ([source](https://www.linkedin.com/company/carbicrete/#post-4559c307dc65))
 - **2026-10-15** — news mention: CarbiCrete Issues First Carbon Removal Tons From CO2-Negative Concrete ([source](https://carbonherald.com/carbicrete-issues-first-carbon-removal-tons-from-co2-negative-concrete/?utm_source=rss&utm_medium=rss&utm_campaign=carbicrete-issues-first-carbon-removal-tons-from-co2-negative-concrete))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-08-20** — news mention: CarbiCrete: The Construction Products Group and IAPMO UES are eager to announce that CarbiCrete has  ([source](https://www.linkedin.com/company/carbicrete/#post-6dfd45f95213))
-- **2026-08-20** — news mention: CarbiCrete: CarbiCrete is pleased to share that our cement-free #concrete masonry units are complian ([source](https://www.linkedin.com/company/carbicrete/#post-a81080d727a1))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-08-20** — news mention: CarbiCrete: The Construction Products Group and IAPMO UES are eager to announce that CarbiCrete… ([source](https://www.linkedin.com/company/carbicrete/#post-6dfd45f95213))
+- **2026-08-20** — news mention: CarbiCrete: CarbiCrete is pleased to share that our cement-free #concrete masonry units are… ([source](https://www.linkedin.com/company/carbicrete/#post-a81080d727a1))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-22** — news mention: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science a ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
-- **2026-07-22** — news mention: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete procurem ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))
+- **2026-07-22** — news mention: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science… ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
+- **2026-07-22** — news mention: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete… ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.recarb.earth/" target="_blank" rel="noopener">https://www.recarb.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recarb-earth/" target="_blank" rel="noopener">recarb-earth</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -34,10 +34,10 @@ recarb is a Hamburg-based nature-tech company founded in 2022 that provides a di
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.recarb.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.recarb.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.recarb.earth/ ([source](https://www.cdr.fyi/marketplace/recarb))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.recarb.earth/about))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://www.recarb.earth/about))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/recarb))
 
 ---

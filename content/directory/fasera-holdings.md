@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://fasera.com/" target="_blank" rel="noopener">https://fasera.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fasera/" target="_blank" rel="noopener">fasera</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-02-28</small></td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-02-28)</small></td></tr>
 </table>
@@ -44,22 +44,22 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-08-15** — refresh: coresignal
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://fasera.com/products/biochar/))
+- **2026-05-11** — liveliness: Moderate → Active ([source](https://fasera.com/products/biochar/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fasera.com/products/biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://fasera.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://fasera.com/products/biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://fasera.com/))
 - **2026-04-19** — merged 1 duplicate(s): Fasera Holdings Pty Ltd
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://fasera.com/about-us/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://fasera.com/about-us/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://fasera.com ([source](https://www.cdr.fyi/supplier/fasera-holdings))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/fasera-holdings))
 - **** — merged duplicate: Fasera Holdings Pty Ltd (slug=fasera-holdings-pty-ltd)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://fasera.com/products/biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://fasera.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://fasera.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://fasera.com/products/biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://fasera.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://fasera.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

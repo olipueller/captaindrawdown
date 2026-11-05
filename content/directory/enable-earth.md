@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://enableearth.eco/" target="_blank" rel="noopener">https://enableearth.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enable-earth/" target="_blank" rel="noopener">enable-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -38,18 +38,18 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-07** — news mention: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transf ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
-- **2026-09-07** — news mention: Enable Earth: ð½ 80 tonnes of corn stalks that did not have to end in open burning. Enable Earth w ([source](https://www.linkedin.com/company/enable-earth/#post-6867f5fe40ad))
-- **2026-08-23** — news mention: Enable Earth: 🌽 80 tonnes of corn stalks that did not have to end in open burning. Enable Earth work ([source](https://www.linkedin.com/company/enable-earth/#post-40024b45edda))
-- **2026-08-17** — news mention: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transform Agricultural Waste i ([source](https://biochartoday.com/news/enable-earth-establishes-industrial-biochar-operations-in-thailand-to-transform-agricultural-waste-into-verifiable-carbon-removal/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-07** — news mention: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to… ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
+- **2026-09-07** — news mention: Enable Earth: ð1⁄2 80 tonnes of corn stalks that did not have to end in open burning. Enable Earth… ([source](https://www.linkedin.com/company/enable-earth/#post-6867f5fe40ad))
+- **2026-08-23** — news mention: Enable Earth: 80 tonnes of corn stalks that did not have to end in open burning. Enable Earth… ([source](https://www.linkedin.com/company/enable-earth/#post-40024b45edda))
+- **2026-08-17** — news mention: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transform Agricultural Waste… ([source](https://biochartoday.com/news/enable-earth-establishes-industrial-biochar-operations-in-thailand-to-transform-agricultural-waste-into-verifiable-carbon-removal/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-01** — news mention: Enable Earth: Scaling climate solutions starts with proving they work in the field. One of the ways  ([source](https://www.linkedin.com/company/enable-earth/#post-5af9cea037ed))
+- **2026-08-01** — news mention: Enable Earth: Scaling climate solutions starts with proving they work in the field. One of the… ([source](https://www.linkedin.com/company/enable-earth/#post-5af9cea037ed))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/enable-earth-chang-rai-1-127))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/enable-earth-chang-rai-1-127))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/enable-earth-chang-rai-1-127))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.accend.earth/projects-enable-earth))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/enable-earth-chang-rai-1-127))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.accend.earth/projects-enable-earth))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

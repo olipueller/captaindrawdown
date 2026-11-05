@@ -32,20 +32,20 @@ Basic Dust is a US-based enhanced weathering project developer that deploys alka
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://basicdust.com/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://basicdust.com/))
+- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://basicdust.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://basicdust.com/))
 - **2026-04-19** — merged 1 duplicate(s): Basic Dust SPC Inc
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://basicdust.com/))
+- **2026-04-19** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Suspect ([source](https://basicdust.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://basicdust.com ([source](https://www.cdr.fyi/supplier/basic-dust-spc))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/basic-dust-spc))
 - **** — merged duplicate: Basic Dust SPC Inc (slug=basic-dust-spc-inc)
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://basicdust.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Suspect ([source](https://basicdust.com/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://basicdust.com/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://basicdust.com/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟠 Suspect ([source](https://basicdust.com/))
+- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://basicdust.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Suspect ([source](https://basicdust.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Suspect ([source](https://basicdust.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

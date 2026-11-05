@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.vesta.earth/" target="_blank" rel="noopener">https://www.vesta.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vestaearth/" target="_blank" rel="noopener">vestaearth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -38,33 +38,33 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 
 ## History
 
-- **2026-10-26** — news mention: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based approac ([source](https://cdrxiv.org/preprint/568))
-- **2026-09-29** — news mention: Vesta: 📢 Preprint alert! And this is a big one! 📢 "Olivine-based marine carbon dioxide removal field ([source](https://www.linkedin.com/company/vestaearth/#post-f7f6e614771f))
+- **2026-10-26** — news mention: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based… ([source](https://cdrxiv.org/preprint/568))
+- **2026-09-29** — news mention: Vesta: Preprint alert! And this is a big one! "Olivine-based marine carbon dioxide removal… ([source](https://www.linkedin.com/company/vestaearth/#post-f7f6e614771f))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-04** — news mention: Vesta: We have an important leadership announcement: After 5 ½ years at the company, Tom Green has d ([source](https://www.linkedin.com/company/projectvesta/#post-f22e98fb5250))
-- **2026-08-28** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Southampton, ([source](https://www.linkedin.com/company/projectvesta/#post-9e7039810dd9))
-- **2026-08-06** — news mention: Project Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Sout ([source](https://www.linkedin.com/company/projectvesta/#post-1d12f71952ec))
-- **2026-07-23** — news mention: Vesta: 📢 Preprint alert! And this is a big one! 📢 "Olivine-based marine carbon dioxide removal field ([source](https://www.linkedin.com/company/projectvesta/#post-f7f6e614771f))
-- **2026-07-23** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Southampton, ([source](https://www.linkedin.com/company/projectvesta/#post-ae904b0c13e6))
-- **2026-07-15** — news mention: A company dumped 650 tons of crushed green volcanic rock onto a Long Island beach to eat carbon out  ([source](https://www.autonocion.com/us/green-volcanic-rock-long-island-beack/))
-- **2026-05-16** — news mention: Soil carbon in cotton systems is interesting but tricky for CDR claims. Reversal risk is high under  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlxhkyjeul27))
-- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
-- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://en.wikipedia.org/wiki/Project_Vesta))
+- **2026-09-04** — news mention: Vesta: We have an important leadership announcement: After 5 1⁄2 years at the company, Tom Green has… ([source](https://www.linkedin.com/company/projectvesta/#post-f22e98fb5250))
+- **2026-08-28** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in… ([source](https://www.linkedin.com/company/projectvesta/#post-9e7039810dd9))
+- **2026-08-06** — news mention: Project Vesta: This brand new preprint publication from Hourglass Climate on our field trial in… ([source](https://www.linkedin.com/company/projectvesta/#post-1d12f71952ec))
+- **2026-07-23** — news mention: Vesta: Preprint alert! And this is a big one! "Olivine-based marine carbon dioxide removal… ([source](https://www.linkedin.com/company/projectvesta/#post-f7f6e614771f))
+- **2026-07-23** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in… ([source](https://www.linkedin.com/company/projectvesta/#post-ae904b0c13e6))
+- **2026-07-15** — news mention: A company dumped 650 tons of crushed green volcanic rock onto a Long Island beach to eat carbon… ([source](https://www.autonocion.com/us/green-volcanic-rock-long-island-beack/))
+- **2026-05-16** — news mention: Soil carbon in cotton systems is interesting but tricky for CDR claims. Reversal risk is high… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlxhkyjeul27))
+- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals EU consultation on… ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
+- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that… ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://en.wikipedia.org/wiki/Project_Vesta))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=? focus=supplier liveliness=?
 - **2026-04-19** — merged 1 duplicate(s): Project Vesta
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.vesta.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.vesta.earth/ ([source](https://www.cdr.fyi/supplier/project-vesta))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/project-vesta))
 - **** — merged duplicate: Project Vesta (slug=project-vesta)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://en.wikipedia.org/wiki/Project_Vesta))
-- **2026-04-19** — reclassified: pathway=? focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.vesta.earth/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://en.wikipedia.org/wiki/Project_Vesta))
+- **2026-04-19** — reclassified: pathway=? focus=supplier liveliness= Active ([source](https://www.vesta.earth/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.vesta.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

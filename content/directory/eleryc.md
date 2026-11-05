@@ -32,20 +32,20 @@ Eleryc, Inc. is a venture-backed, stealth-mode climate-tech startup based in San
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://patents.justia.com/assignee/eleryc-inc))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://patents.justia.com/assignee/eleryc-inc))
 - **2026-04-19** — merged 1 duplicate(s): Geolocked
 - **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BGeolocked%5D%20Frontier%202025%20Prepurchase%20Application%20vF.pdf))
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Geolocked (slug=geolocked)
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://patents.google.com/patent/US7790012B2/en))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://patents.google.com/patent/US7790012B2/en))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

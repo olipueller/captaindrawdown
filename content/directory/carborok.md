@@ -37,10 +37,10 @@ Carborok is a Nantes-based French startup, spin-off of engineering firm Voltigit
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carborok.com/en))
 - **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carborok.com/en))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carborok.com/en))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

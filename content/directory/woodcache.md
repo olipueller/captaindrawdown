@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.woodcache.org/" target="_blank" rel="noopener">https://www.woodcache.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-cache-pbc/" target="_blank" rel="noopener">wood-cache-pbc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-09-14</small></td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-09-14)</small></td></tr>
 </table>
@@ -41,22 +41,22 @@ Independently verified by carbon-credit registries:
 
 - **2026-10-15** — refresh: screenshot
 - **2026-06-15** — refresh: coresignal
-- **2026-05-11** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.woodcache.org/blog))
+- **2026-05-11** — liveliness: Suspect → Active ([source](https://www.woodcache.org/blog))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.woodcache.org/blog))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.woodcache.org/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.woodcache.org/blog))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.woodcache.org/))
 - **2026-04-19** — merged 1 duplicate(s): Woodcache PBC
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.woodcache.org/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.woodcache.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://woodcache.org ([source](https://www.cdr.fyi/supplier/woodcache-pbc))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/woodcache-pbc))
 - **** — merged duplicate: Woodcache PBC (slug=woodcache-pbc)
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.woodcache.org/blog))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.woodcache.org/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.woodcache.org/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.woodcache.org/blog))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.woodcache.org/))
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.woodcache.org/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

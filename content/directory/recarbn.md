@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://recarbn.eu/" target="_blank" rel="noopener">https://recarbn.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recarbneu/" target="_blank" rel="noopener">recarbneu</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -34,12 +34,12 @@ ReCarbn was a Dutch direct air capture startup spun out of the University of Twe
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://skytree.tech/en-en/news/skytree-acquires-direct-air-capture-startup-recarbn))
+- **2026-05-01** — liveliness: Likely Dead → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Likely Dead ([source](https://skytree.tech/en-en/news/skytree-acquires-direct-air-capture-startup-recarbn))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
+- **2026-04-19** — liveliness: Likely Dead → Moderate
 - **2026-04-19** — url added from cdr.fyi supplier page: https://recarbn.eu/ ([source](https://www.cdr.fyi/supplier/recarbn))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://skytree.tech/en-en/news/skytree-acquires-direct-air-capture-startup-recarbn))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Likely Dead ([source](https://skytree.tech/en-en/news/skytree-acquires-direct-air-capture-startup-recarbn))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/recarbn))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.seafields.eco" target="_blank" rel="noopener">https://www.seafields.eco</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seafieldssl/" target="_blank" rel="noopener">seafieldssl</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,29 +32,29 @@ Seafields is a UK-based aquaculture carbon-removal company that intercepts, farm
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
-- **2026-08-07** — news mention: Seafields Solutions Limited: 🔔 🌊 We've been looking forward to sharing this news for quite some time ([source](https://www.linkedin.com/company/seafieldssl/#post-0930e2933591))
-- **2026-07-31** — news mention: Seafields Solutions Limited: Big milestone for Seafields ðð The first scientific paper featuri ([source](https://www.linkedin.com/company/seafieldssl/#post-0a2dc617ee8e))
-- **2026-07-31** — news mention: Seafields Solutions Limited: ð ð We've been looking forward to sharing this news for quite som ([source](https://www.linkedin.com/company/seafieldssl/#post-dea2fea47428))
-- **2026-07-24** — news mention: Seafields: Big milestone for Seafields 🌊📖 The first scientific paper featuring research from our Aqu ([source](https://www.linkedin.com/company/seafieldssl/#post-58938bb0f628))
-- **2026-07-24** — news mention: Seafields: 🔔 🌊 We've been looking forward to sharing this news for quite some time. We are proud to  ([source](https://www.linkedin.com/company/seafieldssl/#post-2989aedb236c))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
+- **2026-08-07** — news mention: Seafields Solutions Limited: We've been looking forward to sharing this news for quite some… ([source](https://www.linkedin.com/company/seafieldssl/#post-0930e2933591))
+- **2026-07-31** — news mention: Seafields Solutions Limited: Big milestone for Seafields ðð The first scientific paper… ([source](https://www.linkedin.com/company/seafieldssl/#post-0a2dc617ee8e))
+- **2026-07-31** — news mention: Seafields Solutions Limited: ð ð We've been looking forward to sharing this news for quite… ([source](https://www.linkedin.com/company/seafieldssl/#post-dea2fea47428))
+- **2026-07-24** — news mention: Seafields: Big milestone for Seafields The first scientific paper featuring research from our… ([source](https://www.linkedin.com/company/seafieldssl/#post-58938bb0f628))
+- **2026-07-24** — news mention: Seafields: We've been looking forward to sharing this news for quite some time. We are proud… ([source](https://www.linkedin.com/company/seafieldssl/#post-2989aedb236c))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.seafields.eco))
 - **2026-04-19** — merged 1 duplicate(s): Seafields Solutions Limited
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.seafields.eco))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://seafields.eco/ ([source](https://www.cdr.fyi/supplier/seafields-solutions-limited))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/seafields-solutions-limited))
 - **** — merged duplicate: Seafields Solutions Limited (slug=seafields-solutions-limited)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seafields.eco/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.seafields.eco/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.seafields.eco/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

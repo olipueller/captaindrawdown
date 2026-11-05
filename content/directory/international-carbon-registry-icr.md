@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonregistry.com/" target="_blank" rel="noopener">https://www.carbonregistry.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-carbon-registry/" target="_blank" rel="noopener">international-carbon-registry</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,13 +31,13 @@ International Carbon Registry (ICR) is an Iceland-based ISO-aligned GHG program 
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-15** — liveliness: Moderate → Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonregistry.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.carbonregistry.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/international-carbon-registry))
 
 ---

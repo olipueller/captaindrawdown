@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.perennial.earth/" target="_blank" rel="noopener">https://www.perennial.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/perennial-earth/" target="_blank" rel="noopener">perennial-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -37,28 +37,26 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 
 - **2026-10-21** — news mention: Adaptable MMRV — Delivering the Best Monitoring Approach for Each Project | Perennial ([source](https://www.perennial.earth/post/adaptable-mmrv-monitoring-via-dsm-bgcm-measure-remeasure))
 - **2026-10-18** — news mention: Weathering-derived calcium supports carbon storage in grassland soils ([source](https://doi.org/10.1038/s43247-026-04142-2))
-- **2026-10-16** — news mention: Perennial: Isometric has just certified a new Grazing Lands Management Module, opening another pathw ([source](https://www.linkedin.com/company/perennial-earth/#post-81d3f583bace))
+- **2026-10-16** — news mention: Perennial: Isometric has just certified a new Grazing Lands Management Module, opening another… ([source](https://www.linkedin.com/company/perennial-earth/#post-81d3f583bace))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-25** — news mention: Three Years of Biochar Left a Fertile Kentucky Soil Mostly Unchanged ([source](https://bioengineer.org/three-years-of-biochar-left-a-fertile-kentucky-soil-mostly-unchanged/))
-- **2026-09-05** — news mention: Diagnostic Limitations in Soil Health Frameworks for Tropical Perennial Systems: A Critical Review a ([source](https://www.mdpi.com/2073-4395/16/17/1733))
-- **2026-09-03** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping â ([source](https://www.linkedin.com/company/perennial-earth/#post-a3d02f65f78f))
-- **2026-08-27** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping — p ([source](https://www.linkedin.com/company/perennial-earth/#post-c53eb7196a5e))
+- **2026-09-05** — news mention: Diagnostic Limitations in Soil Health Frameworks for Tropical Perennial Systems: A Critical Review… ([source](https://www.mdpi.com/2073-4395/16/17/1733))
+- **2026-09-03** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping… ([source](https://www.linkedin.com/company/perennial-earth/#post-a3d02f65f78f))
+- **2026-08-27** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping… ([source](https://www.linkedin.com/company/perennial-earth/#post-c53eb7196a5e))
 - **2026-08-25** — news mention: Carbon removal at the Farm Gate:Five questions for land managers ([source](https://openalex.org/W7204016391))
 - **2026-08-13** — news mention: Google Opens 2026 Climate R&D Awards for Carbon Removal - ESG News ([source](https://esgnews.com/google-opens-2026-climate-rd-awards-for-carbon-removal/))
-- **2026-07-22** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping — p ([source](https://www.linkedin.com/company/perennial-earth/#post-f2d765f7c634))
-- **2026-07-22** — news mention: Perennial: Thanks to Carbon Herald for covering our team's third peer-reviewed study on digital soil ([source](https://www.linkedin.com/company/perennial-earth/#post-da61de2ab44d))
-- **2026-07-22** — news mention: Perennial: Applying compost to degraded rangelands can rebuild soil health, increase water infiltrat ([source](https://www.linkedin.com/company/perennial-earth/#post-676407c2520f))
-- **2026-07-19** — news mention: Carbon farming strategies for mediterranean agriculture: the role of biochar in climate-smart agroec ([source](https://doi.org/10.1007/s44297-026-00081-8))
+- **2026-07-22** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping… ([source](https://www.linkedin.com/company/perennial-earth/#post-f2d765f7c634))
+- **2026-07-22** — news mention: Perennial: Thanks to Carbon Herald for covering our team's third peer-reviewed study on digital… ([source](https://www.linkedin.com/company/perennial-earth/#post-da61de2ab44d))
+- **2026-07-22** — news mention: Perennial: Applying compost to degraded rangelands can rebuild soil health, increase water… ([source](https://www.linkedin.com/company/perennial-earth/#post-676407c2520f))
+- **2026-07-19** — news mention: Carbon farming strategies for mediterranean agriculture: the role of biochar in climate-smart… ([source](https://doi.org/10.1007/s44297-026-00081-8))
 - **2026-07-09** — news mention: Perennial’s New Peer-Reviewed Study Supports Digital Soil Mapping As Reliable MMRV For Soil Carbon ([source](https://carbonherald.com/perennials-new-peer-reviewed-study-supports-digital-soil-mapping-as-reliable-mmrv-for-soil-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=perennials-new-peer-reviewed-study-supports-digital-soil-mapping-as-reliable-mmrv-for-soil-carbon))
-- **2026-05-19** — news mention: Stress-testing our own ERW data - forwards, backwards, upside down. Now you can do it too!
-
-In Enhan ([source](https://www.linkedin.com/feed/update/urn:li:share:7462163255784992768/))
+- **2026-05-19** — news mention: Stress-testing our own ERW data - forwards, backwards, upside down. Now you can do it too! ([source](https://www.linkedin.com/feed/update/urn:li:share:7462163255784992768/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.perennial.earth/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.perennial.earth/about))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.perennial.earth/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.perennial.earth/about))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

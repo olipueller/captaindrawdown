@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://counteract.vc/" target="_blank" rel="noopener">https://counteract.vc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wecounteract/" target="_blank" rel="noopener">wecounteract</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,27 +30,28 @@ Counteract is a London-based venture capital fund dedicated exclusively to carbo
 
 ## History
 
-- **2026-10-22** — news mention: #carbonforward #carbonremoval #enhancedrockweathering #cdr #climatetech #carbonmarkets #erw #project ([source](https://www.linkedin.com/feed/update/urn:li:share:7518700840581443584/))
-- **2026-10-18** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a ye ([source](https://www.linkedin.com/company/wecounteract/#post-d95f466f3bfe))
+- **2026-11-05** — news mention: Additionality of climate benefits from emission reduction and carbon dioxide removal ([source](https://doi.org/10.1088/1748-9326/aebb4e))
+- **2026-10-22** — news mention: #carbonforward #carbonremoval #enhancedrockweathering #cdr #climatetech #carbonmarkets #erw… ([source](https://www.linkedin.com/feed/update/urn:li:share:7518700840581443584/))
+- **2026-10-18** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a… ([source](https://www.linkedin.com/company/wecounteract/#post-d95f466f3bfe))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-14** — news mention: Agenda - Carbon Forward Expo London 2026 - Carbon Forward ([source](https://carbon-forward.com/agenda-carbon-forward-expo-london-2026/))
-- **2026-08-28** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a ye ([source](https://www.linkedin.com/company/wecounteract/#post-7c2c9bcfb925))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
-- **2026-08-06** — news mention: Seqana: Soil health is the next frontier in agricultural risk management — and Seqana is building th ([source](https://www.linkedin.com/company/cquest-ai/#post-a421fc7d76df))
-- **2026-08-06** — news mention: Seqana: 📢 Pymwymic invests in Seqana 📢 And just like that, our 15th company to join Fund II! We're e ([source](https://www.linkedin.com/company/cquest-ai/#post-4a0013222747))
-- **2026-07-30** — news mention: Seqana: 📣  ICYMI:  Seqana closed a EUR 3.2 million fundraising round last week! The round was led by ([source](https://www.linkedin.com/company/cquest-ai/#post-02e668982f76))
+- **2026-08-28** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a… ([source](https://www.linkedin.com/company/wecounteract/#post-7c2c9bcfb925))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE… ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
+- **2026-08-06** — news mention: Seqana: Soil health is the next frontier in agricultural risk management — and Seqana is building… ([source](https://www.linkedin.com/company/cquest-ai/#post-a421fc7d76df))
+- **2026-08-06** — news mention: Seqana: Pymwymic invests in Seqana And just like that, our 15th company to join Fund II! We're… ([source](https://www.linkedin.com/company/cquest-ai/#post-4a0013222747))
+- **2026-07-30** — news mention: Seqana: ICYMI: Seqana closed a EUR 3.2 million fundraising round last week! The round was led… ([source](https://www.linkedin.com/company/cquest-ai/#post-02e668982f76))
 - **2026-07-27** — news mention: EXCLUSIVE: Carbon Removal Is Ready For Institutional Capital, Counteract Says ([source](https://carbonherald.com/exclusive-carbon-removal-ready-for-institutional-capital-counteract/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-carbon-removal-ready-for-institutional-capital-counteract))
-- **2026-07-23** — news mention: Counteract: We are excited to announce that we have raised $25M of funding to scale our dual solutio ([source](https://www.linkedin.com/company/wecounteract/#post-6207143b6c96))
-- **2026-07-23** — news mention: Counteract: Magrathea and TETRA Technologies, Inc. Achieve Technical Breakthrough in Production of M ([source](https://www.linkedin.com/company/wecounteract/#post-6e42102378be))
-- **2026-07-23** — news mention: Seqana: 🎉🎉 Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our ex ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
+- **2026-07-23** — news mention: Counteract: We are excited to announce that we have raised $25M of funding to scale our dual… ([source](https://www.linkedin.com/company/wecounteract/#post-6207143b6c96))
+- **2026-07-23** — news mention: Counteract: Magrathea and TETRA Technologies, Inc. Achieve Technical Breakthrough in Production of… ([source](https://www.linkedin.com/company/wecounteract/#post-6e42102378be))
+- **2026-07-23** — news mention: Seqana: Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our… ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
 - **2026-07-21** — news mention: Bacillus subtilis-mediated weathering of basalt revealed through sporulation ([source](https://cdrxiv.org/preprint/480))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://counteract.vc/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://counteract.vc/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://counteract.vc/ ([source](https://www.cdr.fyi/marketplace/counteract))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/counteract))
 

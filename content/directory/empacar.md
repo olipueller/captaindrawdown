@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.empacar.com.bo/" target="_blank" rel="noopener">https://www.empacar.com.bo/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/empacarbolivia/" target="_blank" rel="noopener">empacarbolivia</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,11 +33,11 @@ Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, f
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-24** — news mention: Turkish producer ships 3,375 tonnes of wood pellets to EU and UK - Europe ([source](https://www.europesays.com/europe/145376/))
 - **2026-09-17** — news mention: Von der Leyen positions biomethane as Europe's strategic energy independence tool - Europe ([source](https://www.europesays.com/europe/140336/))
-- **2026-07-22** — news mention: Cercarbono: Cercarbono has opened the public comment period for the Carbon X Bolivia Circular Plasti ([source](https://www.linkedin.com/company/cercarbono/#post-ab224c9a01f7))
+- **2026-07-22** — news mention: Cercarbono: Cercarbono has opened the public comment period for the Carbon X Bolivia Circular… ([source](https://www.linkedin.com/company/cercarbono/#post-ab224c9a01f7))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.empacar.com.bo/ ([source](https://www.cdr.fyi/supplier/empacar))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/empacar))
 

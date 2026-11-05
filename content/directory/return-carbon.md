@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://returncarbon.nl/" target="_blank" rel="noopener">https://returncarbon.nl/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/returncarbon/" target="_blank" rel="noopener">returncarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,14 +33,14 @@ Return Carbon B.V. is a Dutch CDR project developer that integrates capture tech
 
 - **2026-09-29** — news mention: Cotierra raises $3M to scale decentralised biochar across tropical agriculture - Tech.eu ([source](https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-across-tropical-agriculture))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: Return Carbon: Return Carbon and the Permian Energy Development Lab (PEDL) just announced the Trinit ([source](https://www.linkedin.com/company/returncarbon/#post-99a9453e1574))
-- **2026-07-25** — news mention: Return Carbon: Return Carbon and the Permian Energy Development Lab (PEDL) just announced the Trinit ([source](https://www.linkedin.com/company/returncarbon/#post-b9592e58e12f))
+- **2026-09-07** — news mention: Return Carbon: Return Carbon and the Permian Energy Development Lab (PEDL) just announced the… ([source](https://www.linkedin.com/company/returncarbon/#post-99a9453e1574))
+- **2026-07-25** — news mention: Return Carbon: Return Carbon and the Permian Energy Development Lab (PEDL) just announced the… ([source](https://www.linkedin.com/company/returncarbon/#post-b9592e58e12f))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://returncarbon.nl/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://returncarbon.nl/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://returncarbon.nl/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://returncarbon.nl/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://returncarbon.nl/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://returncarbon.nl/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

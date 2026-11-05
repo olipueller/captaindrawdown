@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://koros.earth/" target="_blank" rel="noopener">https://koros.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/koros-biochar/" target="_blank" rel="noopener">koros-biochar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,12 +32,12 @@ Koros is a Philippines-based biochar venture, spun out of Freya (a Spanish-Filip
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-26** — news mention: Koros: On November 28th, Koros reached a key R&amp;D milestone by formalizing a research and develop ([source](https://www.linkedin.com/company/koros-biochar/#post-d6c24a9c700b))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-26** — news mention: Koros: On November 28th, Koros reached a key R&amp;D milestone by formalizing a research and… ([source](https://www.linkedin.com/company/koros-biochar/#post-d6c24a9c700b))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://koros.earth/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://koros.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://koros.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://koros.earth/ ([source](https://www.cdr.fyi/supplier/koros))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/koros))
 

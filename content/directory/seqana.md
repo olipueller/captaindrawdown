@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.seqana.com/" target="_blank" rel="noopener">https://www.seqana.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seqana/" target="_blank" rel="noopener">seqana</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -36,17 +36,17 @@ Seqana is a Berlin-based B2B startup providing satellite and machine-learning-ba
 ## History
 
 - **2026-10-15** — refresh: coresignal
-- **2026-10-09** — news mention: Seqana: 🌾 Verra has launched its new Scope 3 Standard (S3S), and VM0042 is one of the first two meth ([source](https://www.linkedin.com/company/cquest-ai/#post-8815aa43f62a))
-- **2026-08-06** — news mention: Seqana: Soil health is the next frontier in agricultural risk management — and Seqana is building th ([source](https://www.linkedin.com/company/cquest-ai/#post-a421fc7d76df))
-- **2026-08-06** — news mention: Seqana: 📢 Pymwymic invests in Seqana 📢 And just like that, our 15th company to join Fund II! We're e ([source](https://www.linkedin.com/company/cquest-ai/#post-4a0013222747))
-- **2026-07-30** — news mention: Seqana: 📣  ICYMI:  Seqana closed a EUR 3.2 million fundraising round last week! The round was led by ([source](https://www.linkedin.com/company/cquest-ai/#post-02e668982f76))
-- **2026-07-23** — news mention: Seqana: 🎉🎉 Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our ex ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
+- **2026-10-09** — news mention: Seqana: Verra has launched its new Scope 3 Standard (S3S), and VM0042 is one of the first two… ([source](https://www.linkedin.com/company/cquest-ai/#post-8815aa43f62a))
+- **2026-08-06** — news mention: Seqana: Soil health is the next frontier in agricultural risk management — and Seqana is building… ([source](https://www.linkedin.com/company/cquest-ai/#post-a421fc7d76df))
+- **2026-08-06** — news mention: Seqana: Pymwymic invests in Seqana And just like that, our 15th company to join Fund II! We're… ([source](https://www.linkedin.com/company/cquest-ai/#post-4a0013222747))
+- **2026-07-30** — news mention: Seqana: ICYMI: Seqana closed a EUR 3.2 million fundraising round last week! The round was led… ([source](https://www.linkedin.com/company/cquest-ai/#post-02e668982f76))
+- **2026-07-23** — news mention: Seqana: Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our… ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.seqana.com/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.seqana.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.seqana.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.seqana.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

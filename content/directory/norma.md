@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://norma.tech/" target="_blank" rel="noopener">https://norma.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/norma-tech/" target="_blank" rel="noopener">norma-tech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,24 +30,24 @@ Norma is a Paris-based climate tech startup building a novel Direct Air Capture 
 
 ## History
 
-- **2026-10-26** — news mention: Norma: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's F ([source](https://www.linkedin.com/company/norma-tech/#post-15c0f4a750de))
-- **2026-09-17** — news mention: Normative: Normative.io and Greenly join forces to become the #1 global climate software provider! 🌍 ([source](https://www.linkedin.com/company/normative.io/#post-becf1b1e2173))
+- **2026-10-26** — news mention: Norma: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen Germany's… ([source](https://www.linkedin.com/company/norma-tech/#post-15c0f4a750de))
+- **2026-09-17** — news mention: Normative: Normative.io and Greenly join forces to become the #1 global climate software… ([source](https://www.linkedin.com/company/normative.io/#post-becf1b1e2173))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-09** — news mention: Marble: ð©ðªð¥¨ We've signed a project with SPRIND - Bundesagentur fÃ¼r Sprunginnovationen ð¥¨ ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
-- **2026-08-14** — news mention: Norma: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's F ([source](https://www.linkedin.com/company/norma-tech/#post-fa2c114c5bab))
-- **2026-07-29** — news mention: Marble: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's  ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
-- **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-09-09** — news mention: Marble: ð©ðað¥ ̈ We've signed a project with SPRIND - Bundesagentur fÃ1⁄4r Sprunginnovationen ð¥… ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-08-14** — news mention: Norma: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen Germany's… ([source](https://www.linkedin.com/company/norma-tech/#post-fa2c114c5bab))
+- **2026-07-29** — news mention: Marble: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen… ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
+- **2026-07-15** — liveliness: Suspect → Likely Dead ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://norma.tech/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://norma.tech/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://norma.tech/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://norma.tech/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://norma.tech/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://norma.tech/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

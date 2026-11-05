@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://airsmat.com" target="_blank" rel="noopener">https://airsmat.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airsmat/" target="_blank" rel="noopener">airsmat</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,10 +33,10 @@ AirSmat is a Lagos-based climate-tech company that produces biochar from agricul
 
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.thisdaylive.com/2026/03/30/airsmat-dantata-foods-partner-on-biochar-carbon-removal-project-in-kano/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.thisdaylive.com/2026/03/30/airsmat-dantata-foods-partner-on-biochar-carbon-removal-project-in-kano/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://airsmat.com/))
+- **2026-04-19** — liveliness: Moderate → Active
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://airsmat.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.airsmat.com ([source](https://www.cdr.fyi/supplier/airsmat))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/airsmat))
 

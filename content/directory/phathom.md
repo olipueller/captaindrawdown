@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://phathom.tech/" target="_blank" rel="noopener">https://phathom.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phathomtech/" target="_blank" rel="noopener">phathomtech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,22 +32,22 @@ pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024
 
 - **2026-11-01** — news mention: pHathom pilot facility at Huntsman Marine Science Centre — other-emerging ([source](https://www.cbc.ca/news/canada/nova-scotia/climate-heats-up-nova-scotia-startup-harnessing-ocean-climate-solution-9.7255195))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-25** — news mention: pHathom Technologies: Ocean Supercluster has announced funding for a project that marks a major step ([source](https://www.linkedin.com/company/phathomtech/#post-8fb3e939d7fc))
+- **2026-07-25** — news mention: pHathom Technologies: Ocean Supercluster has announced funding for a project that marks a major… ([source](https://www.linkedin.com/company/phathomtech/#post-8fb3e939d7fc))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://phathom.tech/our-technology/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://phathom.tech/our-technology/))
 - **2026-04-19** — merged 1 duplicate(s): pHathom Technologies
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://betakit.com/phathom-technologies-closes-4-million-to-pilot-its-coastal-carbon-capture-tech/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260205623605/en/pHathom-Technologies-Surpasses-$12M-Committed-Capital-with-Closure-of-Seed-Financing-Round))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://phathom.tech/our-technology/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://betakit.com/phathom-technologies-closes-4-million-to-pilot-its-coastal-carbon-capture-tech/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20260205623605/en/pHathom-Technologies-Surpasses-$12M-Committed-Capital-with-Closure-of-Seed-Financing-Round))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://phathom.tech/our-technology/))
 - **2026-04-18** — discovered via: web_search_ai ([source](https://phathom.ca))
 - **** — merged duplicate: pHathom Technologies (slug=phathom-technologies)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://phathom.tech/our-technology/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://betakit.com/phathom-technologies-closes-4-million-to-pilot-its-coastal-carbon-capture-tech/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260205623605/en/pHathom-Technologies-Surpasses-$12M-Committed-Capital-with-Closure-of-Seed-Financing-Round))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://phathom.tech/our-technology/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://betakit.com/phathom-technologies-closes-4-million-to-pilot-its-coastal-carbon-capture-tech/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20260205623605/en/pHathom-Technologies-Surpasses-$12M-Committed-Capital-with-Closure-of-Seed-Financing-Round))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

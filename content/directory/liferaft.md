@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.liferaft.cc/" target="_blank" rel="noopener">https://www.liferaft.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liferaftcc/" target="_blank" rel="noopener">liferaftcc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,18 +32,18 @@ Liferaft is a U.S.-headquartered biochar company focused on durable carbon captu
 
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-07-31** — news mention: Microsoft Carbon Capture 2026, 1M Tonne Liferaft Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/microsoft-beccs-data-centers/))
-- **2026-07-29** — news mention: Liferaft, Microsoft, and Supercritical Finalize 10-Year Offtake Agreement for One Million Carbon Rem ([source](https://biochartoday.com/news/liferaft-microsoft-and-supercritical-finalize-10-year-offtake-agreement-for-one-million-carbon-removal-units/))
-- **2026-07-27** — news mention: Liferaft: Liferaft is thrilled to announce our partnership with Microsoft on a one million carbon re ([source](https://www.linkedin.com/company/liferaftcc/#post-8eff225af141))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-29** — news mention: Liferaft, Microsoft, and Supercritical Finalize 10-Year Offtake Agreement for One Million Carbon… ([source](https://biochartoday.com/news/liferaft-microsoft-and-supercritical-finalize-10-year-offtake-agreement-for-one-million-carbon-removal-units/))
+- **2026-07-27** — news mention: Liferaft: Liferaft is thrilled to announce our partnership with Microsoft on a one million carbon… ([source](https://www.linkedin.com/company/liferaftcc/#post-8eff225af141))
+- **2026-07-15** — liveliness: Moderate → Active
 - **2026-07-08** — news mention: Microsoft hit pause on carbon removal purchases. Now what? | DeviceDaily.com ([source](https://www.devicedaily.com/pin/microsoft-hit-pause-on-carbon-removal-purchases-now-what/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2026/03/25/3262003/0/en/Liferaft-Announces-a-10-Year-1-Million-Carbon-Removal-Units-Offtake-Agreement-with-Microsoft.html))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.globenewswire.com/news-release/2026/03/25/3262003/0/en/Liferaft-Announces-a-10-Year-1-Million-Carbon-Removal-Units-Offtake-Agreement-with-Microsoft.html))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.liferaft.cc/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.liferaft.cc/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.liferaft.cc/ ([source](https://www.cdr.fyi/supplier/Liferaft))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/Liferaft))
 

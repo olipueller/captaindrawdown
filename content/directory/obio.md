@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.obio.no/" target="_blank" rel="noopener">https://www.obio.no/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/obio-norge/" target="_blank" rel="noopener">obio-norge</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,26 +32,26 @@ OBIO AS is a Norwegian biochar company that built and operates the first industr
 
 ## History
 
-- **2026-10-05** — news mention: OBIO: Det er svært positivt å se at både Bondeorganisasjonene og Statsforvaltere i 5 fylker velger å ([source](https://www.linkedin.com/company/obio-norge/#post-e6d176589867))
+- **2026-10-05** — news mention: OBIO: Det er svært positivt å se at både Bondeorganisasjonene og Statsforvaltere i 5 fylker velger… ([source](https://www.linkedin.com/company/obio-norge/#post-e6d176589867))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
-- **2026-09-03** — news mention: Oplandske Bioenergi (OBIO): Det er svÃ¦rt positivt Ã¥ se at bÃ¥de Bondeorganisasjonene og Statsforva ([source](https://www.linkedin.com/company/obio-norge/#post-79e1921bbc30))
-- **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
+- **2026-09-03** — news mention: Oplandske Bioenergi (OBIO): Det er svÃ¦rt positivt Ã¥ se at bÃ¥de Bondeorganisasjonene og… ([source](https://www.linkedin.com/company/obio-norge/#post-79e1921bbc30))
+- **2026-08-15** — liveliness: Suspect → Likely Dead ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.obio.no/about-us))
 - **2026-04-19** — merged 1 duplicate(s): Oplandske Bioenergi (OBIO)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.obio.no/about-us))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://oplandske.no/ ([source](https://www.cdr.fyi/supplier/oplandske-bio-rudshogda))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/oplandske-bio-rudshogda))
 - **** — merged duplicate: Oplandske Bioenergi (OBIO) (slug=oplandske-bioenergi-obio)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.obio.no/about-us))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.obio.no/about-us))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.obio.no/about-us))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

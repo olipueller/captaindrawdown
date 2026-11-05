@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.sinkcolabs.com/" target="_blank" rel="noopener">https://www.sinkcolabs.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sinkco-labs/" target="_blank" rel="noopener">sinkco-labs</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -36,14 +36,14 @@ Sinkco Labs is a US-based marine CDR startup developing a micro-injection system
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-30** — news mention: Sinkco Labs: We have finalized a new BiCRS module: Marine Sub-Sediment Burial (MSSB). The module was ([source](https://www.linkedin.com/company/sinkco-labs/#post-84030ff87fcd))
-- **2026-08-23** — news mention: Sinkco Labs: I’m incredibly proud to share that Sinkco Labs has been selected as the winner of the S ([source](https://www.linkedin.com/company/sinkco-labs/#post-b9a3192f4355))
+- **2026-08-30** — news mention: Sinkco Labs: We have finalized a new BiCRS module: Marine Sub-Sediment Burial (MSSB). The module… ([source](https://www.linkedin.com/company/sinkco-labs/#post-84030ff87fcd))
+- **2026-08-23** — news mention: Sinkco Labs: I’m incredibly proud to share that Sinkco Labs has been selected as the winner of the… ([source](https://www.linkedin.com/company/sinkco-labs/#post-b9a3192f4355))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.sinkcolabs.com/))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.sinkcolabs.com/))
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.sinkcolabs.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

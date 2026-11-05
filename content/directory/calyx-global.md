@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://calyxglobal.com/" target="_blank" rel="noopener">https://calyxglobal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/calyx-global/" target="_blank" rel="noopener">calyx-global</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,19 +31,19 @@ Calyx Global is an independent carbon credit ratings agency for the voluntary ca
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
-- **2026-09-24** — news mention: Calyx Global: We said we would reconsider our approach if the market changed. And it has. With the E ([source](https://www.linkedin.com/company/calyx-global/#post-8b0acff8bb2d))
-- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
-- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So when ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
-- **2026-08-19** — news mention: Calyx Global: 🌍 What happened in the carbon markets in July? Our latest Carbon Indices show surprisi ([source](https://www.linkedin.com/company/calyx-global/#post-4701e6f5e49d))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is its ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
+- **2026-09-24** — news mention: Calyx Global: We said we would reconsider our approach if the market changed. And it has. With the… ([source](https://www.linkedin.com/company/calyx-global/#post-8b0acff8bb2d))
+- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
+- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So… ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
+- **2026-08-19** — news mention: Calyx Global: What happened in the carbon markets in July? Our latest Carbon Indices show… ([source](https://www.linkedin.com/company/calyx-global/#post-4701e6f5e49d))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is… ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://calyxglobal.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://calyxglobal.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://calyxglobal.com/ ([source](https://www.cdr.fyi/marketplace/calyx-global))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/calyx-global))
 

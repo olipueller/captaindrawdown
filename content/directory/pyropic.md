@@ -30,10 +30,10 @@ Pyropic is a US-based pure-play biochar company that deploys integrated, turn-ke
 
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pyropic.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://pyropic.com/))
 - **2026-04-19** — refresh: screenshot
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.pyropic.com ([source](https://www.cdr.fyi/supplier/pyropic))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://pyropic.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://pyropic.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/pyropic))
 
 ---

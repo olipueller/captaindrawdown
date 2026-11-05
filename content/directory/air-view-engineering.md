@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.airviewengineering.co.uk/" target="_blank" rel="noopener">https://www.airviewengineering.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/air-view-engineering-ltd/" target="_blank" rel="noopener">air-view-engineering-ltd</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -34,14 +34,14 @@ Air View Engineering Ltd is a Swansea, UK-based direct air capture startup found
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.airviewengineering.co.uk/))
+- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.airviewengineering.co.uk/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.airviewengineering.co.uk/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.airviewengineering.co.uk/))
+- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://www.airviewengineering.co.uk/ourapproach))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://www.airviewengineering.co.uk/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://www.airviewengineering.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

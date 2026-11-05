@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.avnos.com/" target="_blank" rel="noopener">https://www.avnos.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/avnos-inc/" target="_blank" rel="noopener">avnos-inc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,30 +30,30 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 
 ## History
 
-- **2026-10-10** — news mention: Avnos: 🌍 Avnos has introduced its Avnos HDAC™ Module, its first standardized, factory-built product  ([source](https://www.linkedin.com/company/avnos-inc/#post-af673869a703))
+- **2026-10-10** — news mention: Avnos: Avnos has introduced its Avnos HDACTM Module, its first standardized, factory-built… ([source](https://www.linkedin.com/company/avnos-inc/#post-af673869a703))
 - **2026-10-06** — news mention: NGK Ceramics Begin Operating at New Jersey Direct Air Capture Facility - Travel And Tour World ([source](https://www.travelandtourworld.com/news/article/ngyg6bmg07og/))
 - **2026-09-29** — news mention: Batería atrapa CO2: el avance electroquímico de Delaware – El Ecosistema Startup ([source](https://ecosistemastartup.com/bateria-atrapa-co2-el-avance-electroquimico-de-delaware/))
 - **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
-- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2 ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
-- **2026-09-17** — news mention: Republicans will do everything they possibly can to help defend the fossil fuel industry from cleant ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvq2syeavk2c))
-- **2026-09-17** — news mention: Exclusive: Avnos Introduces the Avnos HDAC™ Module, Its First Factory-Built Product Line ([source](https://carbonherald.com/exclusive-avnos-introduces-the-avnos-hdac-module-its-first-factory-built-product-line/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-avnos-introduces-the-avnos-hdac-module-its-first-factory-built-product-line))
-- **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
-- **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the operationa ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
-- **2026-09-04** — news mention: Avnos: ð Avnos has launched operations at Project Brighton in New Jersey, its largest Hybrid Dire ([source](https://www.linkedin.com/company/avnos-inc/#post-21c0e0bfbc10))
-- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO₂. It integrates with data centers, geologic ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
-- **2026-09-01** — news mention: In 2026, Avnos Predicts A Strong Hybrid DAC Demand Driven By AI Data Centers And Industrial Decarbon ([source](https://carbonherald.com/in-2026-avnos-predicts-a-strong-hybrid-dac-demand-driven-by-ai-data-centers-and-industrial-decarbonization/))
+- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
+- **2026-09-17** — news mention: Republicans will do everything they possibly can to help defend the fossil fuel industry from… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvq2syeavk2c))
+- **2026-09-17** — news mention: Exclusive: Avnos Introduces the Avnos HDACTM Module, Its First Factory-Built Product Line ([source](https://carbonherald.com/exclusive-avnos-introduces-the-avnos-hdac-module-its-first-factory-built-product-line/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-avnos-introduces-the-avnos-hdac-module-its-first-factory-built-product-line))
+- **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
+- **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
+- **2026-09-04** — news mention: Avnos: ð Avnos has launched operations at Project Brighton in New Jersey, its largest Hybrid… ([source](https://www.linkedin.com/company/avnos-inc/#post-21c0e0bfbc10))
+- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO2. It integrates with data centers… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-09-01** — news mention: In 2026, Avnos Predicts A Strong Hybrid DAC Demand Driven By AI Data Centers And Industrial… ([source](https://carbonherald.com/in-2026-avnos-predicts-a-strong-hybrid-dac-demand-driven-by-ai-data-centers-and-industrial-decarbonization/))
 - **2026-09-01** — news mention: Exclusive: Avnos Launches Hybrid DAC Operations At Project Brighton ([source](https://carbonherald.com/exclusive-avnos-launches-hybrid-dac-operations-at-project-brighton/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-avnos-launches-hybrid-dac-operations-at-project-brighton))
 - **2026-08-15** — refresh: coresignal
-- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.avnos.com/news/avnos-secures-up-to-17-million-in-funding-to-build-flagship-dac-facility/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

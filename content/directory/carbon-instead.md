@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carboninstead.de/" target="_blank" rel="noopener">https://carboninstead.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-instead/" target="_blank" rel="noopener">carbon-instead</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,16 +31,16 @@ Carbon Instead (Carbon Instead Solutions GmbH) is a Germany-based small company 
 ## History
 
 - **2026-08-15** — refresh: coresignal
-- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
+- **2026-07-31** — news mention: Wastewater treatment plants produce CO2 continuously — inside enclosed, monitored reactors — as a… ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
 - **2026-05-13** — news mention: ScienceDaily: Your source for the latest research news ([source](https://www.sciencedaily.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboninstead.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/de/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://carboninstead.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carboninstead.de/de/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboninstead.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://carboninstead.de/))
+- **2026-04-19** — liveliness: Moderate → Active ([source](https://carboninstead.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carboninstead.de/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://carboninstead.de/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

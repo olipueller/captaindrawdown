@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.lowcarbonmaterials.com/" target="_blank" rel="noopener">https://www.lowcarbonmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lowcarbonmaterials/" target="_blank" rel="noopener">lowcarbonmaterials</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,21 +31,21 @@ Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, 
 
 ## History
 
-- **2026-10-29** — news mention: Low Carbon Materials: 🏡 ACLA® has been used to enable net zero asphalt to surface the roads of a hou ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-4ce840250044))
-- **2026-09-22** — news mention: Low Carbon Materials: ð 2 more projects out the door. We sold out in 2025. Every tonne we produce ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-476f30025cd6))
+- **2026-10-29** — news mention: Low Carbon Materials: ACLA® has been used to enable net zero asphalt to surface the roads of a… ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-4ce840250044))
+- **2026-09-22** — news mention: Low Carbon Materials: ð 2 more projects out the door. We sold out in 2025. Every tonne we… ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-476f30025cd6))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
-- **2026-08-16** — news mention: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and the  ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
+- **2026-08-16** — news mention: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and… ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.lowcarbonmaterials.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/acla))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.lowcarbonmaterials.com/news))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.lowcarbonmaterials.com/acla))
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.lowcarbonmaterials.com/news))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -27,11 +27,11 @@ Tachibana International Ghana is a cocoa and ingredients trading company that ru
 
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://planboo.eco/project-update-letter-from-the-tachibana-team-in-ghana/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tachibana))
 
 ---

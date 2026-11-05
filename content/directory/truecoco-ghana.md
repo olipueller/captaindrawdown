@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.truecococarbon.green/" target="_blank" rel="noopener">https://www.truecococarbon.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/truecoco-ghana-ltd/" target="_blank" rel="noopener">truecoco-ghana-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-03-31</small></td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-03-31)</small></td></tr>
 </table>
@@ -41,25 +41,25 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a Sylve ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
+- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
 - **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
+- **2026-05-11** — liveliness: Moderate → Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://carbonherald.com/climeworks-embarks-on-a-muli-year-agreement-with-biochar-company-truecoco/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://carbonherald.com/climeworks-embarks-on-a-muli-year-agreement-with-biochar-company-truecoco/))
 - **2026-04-19** — merged 1 duplicate(s): Truecoco
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.truecococarbon.green/about-us))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/partners/truecoco))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.truecococarbon.green/about-us))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://puro.earth/partners/truecoco))
 - **2026-04-18** — discovered via: web_search_ai ([source](https://truecoco.com))
 - **** — merged duplicate: Truecoco (slug=truecoco)
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.truecococarbon.green/about-us))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.truecococarbon.green/about-us))
+- **2026-04-19** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.truecococarbon.green/about-us))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.truecococarbon.green/about-us))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

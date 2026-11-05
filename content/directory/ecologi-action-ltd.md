@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://ecologi.com/" target="_blank" rel="noopener">https://ecologi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecologihq/" target="_blank" rel="noopener">ecologihq</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,17 +32,17 @@ Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action 
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-11** — news mention: Ecologi Action Ltd: ISO 14060 is the new draft ISO standard for organisational net-zero. 🎯 It sets o ([source](https://www.linkedin.com/company/offset-earth/#post-461f4ea6be4a))
-- **2026-08-11** — news mention: Ecologi Action Ltd: 🗞️ New Greenprint Alert! Another busy fortnight with a new rulebook, new market  ([source](https://www.linkedin.com/company/offset-earth/#post-938231a83929))
+- **2026-08-11** — news mention: Ecologi Action Ltd: ISO 14060 is the new draft ISO standard for organisational net-zero. It sets… ([source](https://www.linkedin.com/company/offset-earth/#post-461f4ea6be4a))
+- **2026-08-11** — news mention: Ecologi Action Ltd: New Greenprint Alert! Another busy fortnight with a new rulebook, new… ([source](https://www.linkedin.com/company/offset-earth/#post-938231a83929))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Ecologi
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://ecologi.com/climate-action/carbon-removals))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://ecologi.com/climate-action/carbon-removals))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://ecologi.com/ ([source](https://www.cdr.fyi/supplier/ecologi))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ecologi))
 - **** — merged duplicate: Ecologi (slug=ecologi)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://ecologi.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://ecologi.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/ecologi-action-ltd))
 
 ---

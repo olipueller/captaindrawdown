@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://c-capsule.com/" target="_blank" rel="noopener">https://c-capsule.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c-capsule/" target="_blank" rel="noopener">c-capsule</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,20 +31,20 @@ C-Capsule is a carbon removal certification and registry service operated by Evi
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for hi ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
-- **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-08** — news mention: Absolute Climate: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership  ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-858b925b990d))
-- **2026-08-01** — news mention: C-Capsule: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high ([source](https://www.linkedin.com/company/c-capsule/#post-c458964553b1))
+- **2026-09-07** — news mention: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for… ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
+- **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to… ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-08** — news mention: Absolute Climate: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a… ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-858b925b990d))
+- **2026-08-01** — news mention: C-Capsule: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for… ([source](https://www.linkedin.com/company/c-capsule/#post-c458964553b1))
 - **2026-07-30** — news mention: C-Capsule Registry - Xpansiv ([source](https://www.xpansiv.com/registries/c-capsule))
-- **2026-07-29** — news mention: Evident: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to bring  ([source](https://www.linkedin.com/company/international-rec-services/#post-72161c507b55))
-- **2026-07-25** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-72161c507b55))
-- **2026-07-22** — news mention: Evident: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high-i ([source](https://www.linkedin.com/company/international-rec-services/#post-7c39e486f22e))
-- **2026-07-22** — news mention: Evident: We’re excited to announce the launch of the I-TRACK(G) Registry, a global certification reg ([source](https://www.linkedin.com/company/international-rec-services/#post-bc46c849d624))
+- **2026-07-29** — news mention: Evident: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to… ([source](https://www.linkedin.com/company/international-rec-services/#post-72161c507b55))
+- **2026-07-25** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to… ([source](https://www.linkedin.com/company/c-capsule/#post-72161c507b55))
+- **2026-07-22** — news mention: Evident: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for… ([source](https://www.linkedin.com/company/international-rec-services/#post-7c39e486f22e))
+- **2026-07-22** — news mention: Evident: We’re excited to announce the launch of the I-TRACK(G) Registry, a global certification… ([source](https://www.linkedin.com/company/international-rec-services/#post-bc46c849d624))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://c-capsule.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://c-capsule.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.c-capsule.com/ ([source](https://www.cdr.fyi/marketplace/c-capsule))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/c-capsule))
 

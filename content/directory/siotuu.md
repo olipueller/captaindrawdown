@@ -29,15 +29,15 @@ SIOTUU GmbH is an Austrian biochar producer based in Fließ/Landeck, Tyrol, that
 
 - **2026-09-15** — refresh: screenshot
 - **2026-06-15** — refresh: liveliness
-- **2026-06-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.klimate.co/project/siotuu-biochar))
+- **2026-06-15** — liveliness: Suspect → Likely Dead ([source](https://www.klimate.co/project/siotuu-biochar))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.klimate.co/project/siotuu-biochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://siotuu.com/en/home-e/))
+- **2026-05-01** — liveliness: Moderate → Suspect ([source](https://www.klimate.co/project/siotuu-biochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://siotuu.com/en/home-e/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.klimate.co/project/siotuu-biochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home-e/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://siotuu.com/en/home/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.klimate.co/project/siotuu-biochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://siotuu.com/en/home-e/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://siotuu.com/en/home/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

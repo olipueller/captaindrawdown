@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.cria.earth/" target="_blank" rel="noopener">https://www.cria.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cria-earth/" target="_blank" rel="noopener">cria-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,17 +32,17 @@ The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisati
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
-- **2026-08-21** — news mention: Carbon Removal India Alliance: We welcome the Union Cabinet’s approval of the ₹23,731 crore GOBARdha ([source](https://www.linkedin.com/company/cria-earth/#post-07964e42db42))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-13** — news mention: Carbon Removal India Alliance: ð¿ ðð²ð®ð¹ððµð ðð¼ð¶ð¹ð ðºð®ð¸ð ([source](https://www.linkedin.com/company/cria-earth/#post-d029b5267741))
-- **2026-07-23** — news mention: Carbon Removal India Alliance: CRIA was invited to engage with the Central Pollution Control Board ( ([source](https://www.linkedin.com/company/cria-earth/#post-765622fb0c06))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-08-21** — news mention: Carbon Removal India Alliance: We welcome the Union Cabinet’s approval of the ₹23,731 crore… ([source](https://www.linkedin.com/company/cria-earth/#post-07964e42db42))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-13** — news mention: Carbon Removal India Alliance: ð¿ ðð2ð®ð1ððμð ðð1⁄4ð¶ð1ð ðoð®ð… ([source](https://www.linkedin.com/company/cria-earth/#post-d029b5267741))
+- **2026-07-23** — news mention: Carbon Removal India Alliance: CRIA was invited to engage with the Central Pollution Control Board… ([source](https://www.linkedin.com/company/cria-earth/#post-765622fb0c06))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cria.earth/about))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.cria.earth/about))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.cria.earth/ ([source](https://www.cdr.fyi/marketplace/carbon-removal-india-alliance))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removal-india-alliance))
 

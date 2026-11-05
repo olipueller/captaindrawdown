@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://energnist.dk" target="_blank" rel="noopener">https://energnist.dk</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energnist/" target="_blank" rel="noopener">energnist</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,14 +31,14 @@ Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist,
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-07-25** — news mention: Energnist CaptureCo: Energnist har bestået den indledende vurdering hos Puro.earth ! Vi er stolte ov ([source](https://www.linkedin.com/company/energnist/#post-1416cbf894ed))
+- **2026-07-25** — news mention: Energnist CaptureCo: Energnist har bestået den indledende vurdering hos Puro.earth ! Vi er stolte… ([source](https://www.linkedin.com/company/energnist/#post-1416cbf894ed))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/carbon-circle-and-energnist-advance-carbon-capture-plans-in-denmark/))
 
 ---

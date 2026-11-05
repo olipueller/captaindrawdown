@@ -38,15 +38,15 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-09-15** — refresh: screenshot
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-11** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.green.earth/news/verra-registers-first-biochar-carbon-removal-project))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.green.earth/news/verra-registers-first-biochar-carbon-removal-project))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.green.earth/news/verra-registers-first-biochar-carbon-removal-project))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.green.earth/news/verra-registers-first-biochar-carbon-removal-project))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://srcnaturaproducts.com/ ([source](https://www.cdr.fyi/supplier/srcnatura-sure))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/srcnatura-sure))
 

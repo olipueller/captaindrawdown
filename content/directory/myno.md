@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://mynocarbon.com/" target="_blank" rel="noopener">https://mynocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myno-carbon/" target="_blank" rel="noopener">myno-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,27 +29,27 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 
 ## History
 
-- **2026-09-20** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected Myn ([source](https://www.linkedin.com/company/myno-enterprises/#post-24dde8817d2a))
-- **2026-09-15** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno Carbo ([source](https://www.linkedin.com/company/myno-carbon/#post-ba6a8e7f815f))
+- **2026-09-20** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected… ([source](https://www.linkedin.com/company/myno-enterprises/#post-24dde8817d2a))
+- **2026-09-15** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno… ([source](https://www.linkedin.com/company/myno-carbon/#post-ba6a8e7f815f))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected Myn ([source](https://www.linkedin.com/company/myno-enterprises/#post-d65e97153628))
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://mynocarbon.com/))
-- **2026-08-08** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno Carbo ([source](https://www.linkedin.com/company/myno-enterprises/#post-a446768c9e40))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://mynocarbon.com/))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mynocarbon.com/))
+- **2026-08-15** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected… ([source](https://www.linkedin.com/company/myno-enterprises/#post-d65e97153628))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://mynocarbon.com/))
+- **2026-08-08** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno… ([source](https://www.linkedin.com/company/myno-enterprises/#post-a446768c9e40))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://mynocarbon.com/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://mynocarbon.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://mynocarbon.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://mynocarbon.com/myno-plans-to-build-its-first-large-scale-biochar-carbon-removal-facility-in-port-angeles-washington/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://mynocarbon.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://mynocarbon.com/myno-plans-to-build-its-first-large-scale-biochar-carbon-removal-facility-in-port-angeles-washington/))
 - **2026-04-19** — merged 1 duplicate(s): Myno Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://mynocarbon.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://mynocarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://mynocarbon.com/ ([source](https://www.cdr.fyi/supplier/myno-carbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/myno-carbon))
 - **** — merged duplicate: Myno Carbon (slug=myno-carbon)
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://mynocarbon.com/news/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://mynocarbon.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://mynocarbon.com/news/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://mynocarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

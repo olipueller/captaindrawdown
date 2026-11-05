@@ -31,14 +31,14 @@ KWS Ökokraft GmbH is a small Austrian district-heating and electricity utility 
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The LinkedIn slug "biochar-zero" corresponds to biochar-zero.com, a third-party biochar producer directory/marketplace that lists KWS Ökokraft GmbH as one of many unclaimed entries ("Not verified. Cla
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/ternitz/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/references/ternitz/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The LinkedIn slug "biochar-zero" corresponds to biochar-zero.com, a third-party…
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.syncraft.at/en/references/ternitz/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.syncraft.at/en/references/ternitz/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.syncraft.at/en/references/ternitz/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://biochar-zero.com/company/kws-okokraft-gmbh/))
+- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.syncraft.at/en/references/ternitz/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://biochar-zero.com/company/kws-okokraft-gmbh/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

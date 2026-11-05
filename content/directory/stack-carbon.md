@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.stackcarbon.earth/" target="_blank" rel="noopener">https://www.stackcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stackcarbon/" target="_blank" rel="noopener">stackcarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,23 +31,23 @@ Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the
 
 ## History
 
-- **2026-09-28** — news mention: Stack Carbon: ðð¨ððð² ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð ð¦ð ([source](https://www.linkedin.com/company/stackcarbon/#post-1e69f4d73a4d))
+- **2026-09-28** — news mention: Stack Carbon: ðð ̈ððð2 ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð… ([source](https://www.linkedin.com/company/stackcarbon/#post-1e69f4d73a4d))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-24** — news mention: Super Biochar: 📰Weekly Carbon Removal Bulletin📰 Here’s your roundup of top #CarbonDioxideRemoval upd ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
-- **2026-08-23** — news mention: Stack Carbon: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonn ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
-- **2026-08-16** — news mention: Stack Carbon: ðð¨ððð² ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð ð¦ð ([source](https://www.linkedin.com/company/stackcarbon/#post-aecef9478f4f))
-- **2026-08-16** — news mention: Stack Carbon: Abundant feedstock, ideal weather, 1,500+ farmers collaborating and a design that meet ([source](https://www.linkedin.com/company/stackcarbon/#post-1756e34f2bd2))
-- **2026-08-16** — news mention: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602 t ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
-- **2026-08-12** — news mention: CDR.fyi: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes of ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
-- **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
+- **2026-08-24** — news mention: Super Biochar: Weekly Carbon Removal Bulletin Here’s your roundup of top #CarbonDioxideRemoval… ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
+- **2026-08-23** — news mention: Stack Carbon: This week saw some huge developments in durable CDR, as Microsoft bought 23,602… ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
+- **2026-08-16** — news mention: Stack Carbon: ðð ̈ððð2 ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð… ([source](https://www.linkedin.com/company/stackcarbon/#post-aecef9478f4f))
+- **2026-08-16** — news mention: Stack Carbon: Abundant feedstock, ideal weather, 1,500+ farmers collaborating and a design that… ([source](https://www.linkedin.com/company/stackcarbon/#post-1756e34f2bd2))
+- **2026-08-16** — news mention: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602… ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
+- **2026-08-12** — news mention: CDR.fyi: This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes… ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
+- **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we… ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
 - **2026-08-03** — news mention: Uganda's Stack Carbon signs major carbon credits deal | Latest Market News ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2860077-uganda-s-stack-carbon-signs-major-carbon-credits-deal))
-- **2026-08-01** — news mention: Stack Carbon: ðð¿ð¼ð»ðð¶ð²ð¿ has announced an additional $ðµð­ð± ðºð¶ð ([source](https://www.linkedin.com/company/stackcarbon/#post-0e0c867695aa))
+- **2026-08-01** — news mention: Stack Carbon: ðð¿ð1⁄4ð»ðð¶ð2ð¿ has announced an additional $ðμð­ð±… ([source](https://www.linkedin.com/company/stackcarbon/#post-0e0c867695aa))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

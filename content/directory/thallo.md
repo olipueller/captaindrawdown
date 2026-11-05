@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.thallo.io/" target="_blank" rel="noopener">https://www.thallo.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thallo-io/" target="_blank" rel="noopener">thallo-io</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -33,8 +33,8 @@ Thallo is a London-based climate-tech startup founded in 2021 that provides a bl
 - **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://www.thallo.io/))
+- **2026-04-19** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://www.thallo.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.thallo.io/ ([source](https://www.cdr.fyi/marketplace/thallo))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/thallo))
 

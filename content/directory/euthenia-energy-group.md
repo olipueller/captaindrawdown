@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.euthenia-energy.com" target="_blank" rel="noopener">https://www.euthenia-energy.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/euthenia-energy/" target="_blank" rel="noopener">euthenia-energy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-02-28</small></td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-02-28)</small></td></tr>
 </table>
@@ -41,20 +41,20 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-08-30** — news mention: Euthenia Energy Group: 🌱 Big milestone for Euthenia! We’re proud to announce the successful launch o ([source](https://www.linkedin.com/company/euthenia-energy/#post-316fa6916097))
+- **2026-08-30** — news mention: Euthenia Energy Group: Big milestone for Euthenia! We’re proud to announce the successful launch… ([source](https://www.linkedin.com/company/euthenia-energy/#post-316fa6916097))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/272454))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/272454))
 - **2026-04-19** — merged 1 duplicate(s): Euthenia Energy
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/272454))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/272454))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.euthenia-energy.com/biochar ([source](https://www.cdr.fyi/supplier/euthenia-energy))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/euthenia-energy))
 - **** — merged duplicate: Euthenia Energy (slug=euthenia-energy)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/272454))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.puro.earth/projects/272454))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/272454))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.puro.earth/projects/272454))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

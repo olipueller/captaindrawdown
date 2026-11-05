@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://redmountainbiochar.com/" target="_blank" rel="noopener">https://redmountainbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/red-mountain-biochar/" target="_blank" rel="noopener">red-mountain-biochar</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,13 +32,13 @@ Red Mountain Biochar is a Texas-based (Atlanta, TX) biochar producer that conver
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://redmountainbiochar.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://redmountainbiochar.com/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://bluskycarbon.com/blusky-carbon-enters-joint-venture-with-red-mountain-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://redmountainbiochar.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://redmountainbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

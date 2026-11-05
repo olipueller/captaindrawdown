@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.urjanovac.com/" target="_blank" rel="noopener">https://www.urjanovac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/urjanovac-pvt-ltd/" target="_blank" rel="noopener">urjanovac-pvt-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,14 +31,14 @@ UrjanovaC is a Mumbai-based climate-tech startup founded in 2023 by IIT Bombay p
 
 ## History
 
-- **2026-10-09** — news mention: UrjanovaC: 🇮🇳🤝🇯🇵 #INDIA × #JAPAN : #CARBON_MARKETS GOT A BIG BOOST! 🚀 India and Japan have officiall ([source](https://www.linkedin.com/company/urjanovac-pvt-ltd/#post-671d73b2ef6d))
+- **2026-10-09** — news mention: UrjanovaC: #INDIA × #JAPAN : #CARBON_MARKETS GOT A BIG BOOST! India and Japan have… ([source](https://www.linkedin.com/company/urjanovac-pvt-ltd/#post-671d73b2ef6d))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://in.linkedin.com/company/urjanovac-pvt-ltd))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://in.linkedin.com/company/urjanovac-pvt-ltd))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

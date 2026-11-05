@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboncure.com/" target="_blank" rel="noopener">https://www.carboncure.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncure-technologies/" target="_blank" rel="noopener">carboncure-technologies</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,36 +34,36 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-11-05** — news mention: CarbonCure: We recently sat down with Vishnu Chaudhari, M.Eng., P.Eng. , CarbonCure's Sr. Research… ([source](https://www.linkedin.com/company/carboncure-technologies/#post-ce71039e0a68))
 - **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-22** — news mention: Find a Producer - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/producers/))
-- **2026-10-22** — news mention: We're got 12M reasons to smile today!  😁😁😁😁😁😁😁😁😁😁😁😁  Today, our concrete producer partners around th ([source](https://bsky.app/profile/carboncure.bsky.social/post/3myi4hlvpp222))
+- **2026-10-22** — news mention: We're got 12M reasons to smile today! Today, our concrete producer partners around… ([source](https://bsky.app/profile/carboncure.bsky.social/post/3myi4hlvpp222))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-09** — news mention: Does Tom Cruise drive an EV, have PV on his properties, and offset the emissions from his air travel ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxhbvqsxvk2x))
-- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
-- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
-- **2026-09-18** — news mention: Just in time for #ClimateWeekNYC, we welcome Climate Partnerships Lead Jeremy Casebeer to CarbonCure ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mvt2vx4lxc2c))
-- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-08-26** — news mention: CarbonCure: We're happy to see Tongyang, part of Eugene Group, featured in Korean media for its use  ([source](https://www.linkedin.com/company/carboncure-technologies/#post-ad014e0b4bc6))
-- **2026-08-26** — news mention: CarbonCure: Injecting carbon dioxide into cement is a growing commercial strategy to store CO₂ and r ([source](https://www.linkedin.com/company/carboncure-technologies/#post-5bf7728403ba))
-- **2026-08-19** — news mention: CarbonCure: "The process injects captured CO2 into fresh concrete, where it permanently mineralizes  ([source](https://www.linkedin.com/company/carboncure-technologies/#post-fbd2627a66bf))
-- **2026-08-11** — news mention: CarbonCure: The next phase of King Salman International Airport construction is underway. CarbonCure ([source](https://www.linkedin.com/company/carboncure-technologies/#post-203f8271fa2d))
-- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
-- **2026-07-14** — news mention: Every nonvoter is a fossil fool!  This analysis found that 223 manufacturing and clean energy projec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmd5gfjck2t))
-- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
-- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
-- **2026-07-02** — news mention: #Amazon’s 2025 #AmazonSustainability Report features the Elkhart, Indiana Delivery Station—one of do ([source](https://x.com/CarbonCure/status/2072788613432066224))
-- **2026-07-02** — news mention: In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Carbon Dioxide (CO2) U ([source](https://www.openpr.com/news/4566422/in-depth-examination-of-segments-industry-trends-and-key))
+- **2026-10-09** — news mention: Does Tom Cruise drive an EV, have PV on his properties, and offset the emissions from his air… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxhbvqsxvk2x))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS… ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business… ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
+- **2026-09-18** — news mention: Just in time for #ClimateWeekNYC, we welcome Climate Partnerships Lead Jeremy Casebeer to… ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mvt2vx4lxc2c))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-08-26** — news mention: CarbonCure: We're happy to see Tongyang, part of Eugene Group, featured in Korean media for its… ([source](https://www.linkedin.com/company/carboncure-technologies/#post-ad014e0b4bc6))
+- **2026-08-26** — news mention: CarbonCure: Injecting carbon dioxide into cement is a growing commercial strategy to store CO2 and… ([source](https://www.linkedin.com/company/carboncure-technologies/#post-5bf7728403ba))
+- **2026-08-19** — news mention: CarbonCure: "The process injects captured CO2 into fresh concrete, where it permanently… ([source](https://www.linkedin.com/company/carboncure-technologies/#post-fbd2627a66bf))
+- **2026-08-11** — news mention: CarbonCure: The next phase of King Salman International Airport construction is underway.… ([source](https://www.linkedin.com/company/carboncure-technologies/#post-203f8271fa2d))
+- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
+- **2026-07-14** — news mention: Every nonvoter is a fossil fool! This analysis found that 223 manufacturing and clean energy… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmd5gfjck2t))
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
+- **2026-07-02** — news mention: #Amazon’s 2025 #AmazonSustainability Report features the Elkhart, Indiana Delivery Station—one of… ([source](https://x.com/CarbonCure/status/2072788613432066224))
+- **2026-07-02** — news mention: In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Carbon Dioxide (CO2)… ([source](https://www.openpr.com/news/4566422/in-depth-examination-of-segments-industry-trends-and-key))
 - **2026-06-30** — news mention: Thank you for sharing your words Sonny! ([source](https://bsky.app/profile/peter.fairley.ca/post/3mphwspumg22z))
-- **2026-06-26** — news mention: Check out #CarbonMineralization chemistry in action! 👀  We recently shared our peer-reviewed study w ([source](https://x.com/CarbonCure/status/2070556372572271078))
-- **2026-06-09** — news mention: California just began to impose CO2-neutrality regulations on commercial buildings last year which w ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnucokzco227))
+- **2026-06-26** — news mention: Check out #CarbonMineralization chemistry in action! We recently shared our peer-reviewed study… ([source](https://x.com/CarbonCure/status/2070556372572271078))
+- **2026-06-09** — news mention: California just began to impose CO2-neutrality regulations on commercial buildings last year which… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnucokzco227))
 - **2026-06-04** — news mention: Careers - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/careers/))
-- **2026-06-04** — news mention: Ready to do the best work of your career—while literally saving the planet?🌏  #CarbonCure is hiring  ([source](https://x.com/CarbonCure/status/2062560838926438843))
-- **2026-05-29** — news mention: I wonder if the lawyers attempting to convince the judge or jury will call upon "The Honest Broker"  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmyvpmhw3k2q))
-- **2026-05-28** — news mention: "Our technology-based, high value carbon offset purchases were concrete carbon capture (from #Carbon ([source](https://x.com/CarbonCure/status/2059988982415396885))
-- **2026-05-23** — news mention: @Sammy_Roth I kept thinking: no book saves the world. The harder part is building the institutional  ([source](https://x.com/makinggovq/status/2058127087651672315))
-- **2026-05-22** — news mention: Hold on. Before you purchase any nature-based #Offsets, what about certainty?   CarbonCure #CarbonCr ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mmhfsqfjr22e))
-- **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
+- **2026-06-04** — news mention: Ready to do the best work of your career—while literally saving the planet? #CarbonCure is… ([source](https://x.com/CarbonCure/status/2062560838926438843))
+- **2026-05-29** — news mention: I wonder if the lawyers attempting to convince the judge or jury will call upon "The Honest… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmyvpmhw3k2q))
+- **2026-05-28** — news mention: "Our technology-based, high value carbon offset purchases were concrete carbon capture (from… ([source](https://x.com/CarbonCure/status/2059988982415396885))
+- **2026-05-23** — news mention: @Sammy_Roth I kept thinking: no book saves the world. The harder part is building the… ([source](https://x.com/makinggovq/status/2058127087651672315))
+- **2026-05-22** — news mention: Hold on. Before you purchase any nature-based #Offsets, what about certainty? CarbonCure… ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mmhfsqfjr22e))
 
 ---
 

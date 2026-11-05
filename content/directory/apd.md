@@ -30,20 +30,20 @@ APD (Auen Pflege Dienst AG) is a Swiss landscape-services company in Flaach, Zü
 
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.a-p-d.ch/pflanzenkohle))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.a-p-d.ch/pflanzenkohle))
 - **2026-04-19** — merged 1 duplicate(s): Auen Pflege Dienst APD Flaach
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.a-p-d.ch/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.a-p-d.ch/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.a-p-d.ch/ ([source](https://www.cdr.fyi/supplier/auen-pflege-dienst-apd-flaach))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/auen-pflege-dienst-apd-flaach))
 - **** — merged duplicate: Auen Pflege Dienst APD Flaach (slug=auen-pflege-dienst-apd-flaach)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.a-p-d.ch/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.a-p-d.ch/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.a-p-d.ch/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.a-p-d.ch/pflanzenkohle))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.a-p-d.ch/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.a-p-d.ch/pflanzenkohle))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

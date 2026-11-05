@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.fs.agr.br/en/" target="_blank" rel="noopener">https://www.fs.agr.br/en/</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,19 +29,19 @@ FS (FS Agrisolutions / FS Bioenergia) is Brazil's fourth-largest ethanol produce
 ## History
 
 - **2026-08-15** — refresh: coresignal
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/fs-paves-the-way-for-beccs-and-carbon-negative-ethanol-production/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://carbonherald.com/fs-paves-the-way-for-beccs-and-carbon-negative-ethanol-production/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.fs.agr.br/en/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.fs.agr.br/en/))
 - **2026-04-19** — merged 1 duplicate(s): FS Fueling Sustainability
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.fs.agr.br/en/our-business/carbon/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.fs.agr.br/en/our-business/carbon/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.fs.agr.br/ ([source](https://www.cdr.fyi/supplier/fs-fueling-sustainability))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/fs-fueling-sustainability))
 - **** — merged duplicate: FS Fueling Sustainability (slug=fs-fueling-sustainability)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.fs.agr.br/en/our-business/carbon/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.theagribiz.com/empresas/bioenergia/bndes-libera-384-milhoes-para-projeto-de-estocagem-de-carbono-da-fs))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.fs.agr.br/en/our-business/carbon/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.theagribiz.com/empresas/bioenergia/bndes-libera-384-milhoes-para-projeto-de-estocagem-de-carbono-da-fs))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.equatic.tech/" target="_blank" rel="noopener">https://www.equatic.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equatic-tech/" target="_blank" rel="noopener">equatic-tech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,16 +35,16 @@ Equatic is a carbon removal company combining carbon dioxide removal and green h
 
 ## History
 
-- **2026-11-02** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-8c1b62fb1374))
-- **2026-08-28** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-8b65d23acaa0))
+- **2026-11-02** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean… ([source](https://www.linkedin.com/company/equatic-tech/#post-8c1b62fb1374))
+- **2026-08-28** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean… ([source](https://www.linkedin.com/company/equatic-tech/#post-8b65d23acaa0))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-23** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-c0e080253003))
+- **2026-07-23** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean… ([source](https://www.linkedin.com/company/equatic-tech/#post-c0e080253003))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.equatic.tech/articles/equatic-secures-11-6mm-series-a-funding-to-advance-permanent-carbon-removal-and-green-hydrogen-production))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

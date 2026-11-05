@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://c-xtract.com/en/" target="_blank" rel="noopener">https://c-xtract.com/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-xtract/" target="_blank" rel="noopener">carbon-xtract</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,20 +31,20 @@ Carbon Xtract Corporation is a Fukuoka, Japan startup established in May 2023 by
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-25** — news mention: Carbon Xtract: 【資金調達のご報告】 Carbon Xtract、プレシリーズA（1st Close）で資金調達を実施し、 経営陣が議決権過半数を保有する新たな経営体制へ移行します。 2 ([source](https://www.linkedin.com/company/carbon-xtract/#post-f9c9b1471082))
-- **2026-08-24** — news mention: Carbon Xtract: 【資金調達のご報告】 Carbon Xtract、プレシリーズA（1st Close）で資金調達を実施し、 経営陣が議決権過半数を保有する新たな経営体制へ移行します。 2 ([source](https://www.linkedin.com/company/carbon-xtract/#post-923c8b965bec))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-26** — news mention: Carbon Xtract: 「空気からCO₂を回収して使う建物」の実現へ Carbon Xtractは、清水建設株式会社および双日株式会社と連携し、東京都GX関連事業の一環として、都市型イノベーショ ([source](https://www.linkedin.com/company/carbon-xtract/#post-563dc8e1e091))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-25** — news mention: Carbon Xtract: 【資金調達のご報告】 Carbon Xtract、プレシリーズA(1st Close)で資金調達を実施し、 経営陣が議決権過半数を保有する新たな経営体制へ移行します。… ([source](https://www.linkedin.com/company/carbon-xtract/#post-f9c9b1471082))
+- **2026-08-24** — news mention: Carbon Xtract: 【資金調達のご報告】 Carbon Xtract、プレシリーズA(1st Close)で資金調達を実施し、 経営陣が議決権過半数を保有する新たな経営体制へ移行します。… ([source](https://www.linkedin.com/company/carbon-xtract/#post-923c8b965bec))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-26** — news mention: Carbon Xtract: 「空気からCO2を回収して使う建物」の実現へ Carbon… ([source](https://www.linkedin.com/company/carbon-xtract/#post-563dc8e1e091))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://c-xtract.com/en/news/press-release/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://c-xtract.com/en/news/press-release/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://c-xtract.com/en/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://c-xtract.com/en/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://c-xtract.com/en/ ([source](https://www.cdr.fyi/supplier/carbon-xtract))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-xtract))
 

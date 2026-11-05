@@ -32,10 +32,10 @@ Woodgas Pyrolytics, Inc. is an Illinois-based small company led by Dr. Paul S. A
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://woodgas.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://woodgas.com/))
 - **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://woodgas.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://woodgas.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://woodgas.com ([source](https://www.cdr.fyi/supplier/woodgas-pyrolytics-inc))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/woodgas-pyrolytics-inc))
 

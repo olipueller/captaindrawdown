@@ -25,10 +25,10 @@ Biocarbon Tech Asia is a biochar carbon removal supplier listed on Puro.earth, t
 ## History
 
 - **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-08-15** — liveliness: Suspect → Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/biocarbon-tech-asia-145))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

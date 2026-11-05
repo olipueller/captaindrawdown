@@ -31,13 +31,13 @@ ClimateCarbon Eberswalde GmbH & Co. KG is a dedicated biochar subsidiary/SPV of 
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.climatecarbon.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟠 Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
+- **2026-05-01** — liveliness: Suspect → Likely Dead ([source](https://www.climatecarbon.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Suspect ([source](https://www.climatecarbon.de/ueber-uns/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climatecarbon.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.climatecarbon.de/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.climatecarbon.de/))
+- **2026-04-19** — liveliness: Moderate → Likely Dead ([source](https://www.climatecarbon.de/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Moderate ([source](https://www.climatecarbon.de/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.climatecarbon.de/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

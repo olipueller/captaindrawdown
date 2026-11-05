@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.energie360.ch/" target="_blank" rel="noopener">https://www.energie360.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energie360/" target="_blank" rel="noopener">energie360</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,9 +33,9 @@ Energie 360° AG is a Zurich-based energy utility, 96% owned by the City of Zuri
 
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.energie360.ch/de/leistungen/co2-entfernung/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.energie360.ch/de/leistungen/co2-entfernung/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.bioenergie-frauenfeld.ch/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.bioenergie-frauenfeld.ch/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://energie360.ch/ ([source](https://www.cdr.fyi/supplier/energie-360))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/energie-360))
 

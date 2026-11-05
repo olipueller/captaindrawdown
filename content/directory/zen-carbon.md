@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zencarbon/" target="_blank" rel="noopener">zencarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,45 +33,34 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
-- **2026-09-16** — news mention: Building climate technology takes more than good ideas. It takes an ecosystem that can execute.
-
-At  ([source](https://www.linkedin.com/feed/update/urn:li:share:7505911997990010880/))
+- **2026-09-16** — news mention: Building climate technology takes more than good ideas. It takes an ecosystem that can execute. ([source](https://www.linkedin.com/feed/update/urn:li:share:7505911997990010880/))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-02** — news mention: When science meets deployment, the conversation changes.
-
-We recently had the privilege of hosting r ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500602750380957696/))
-- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
-- **2026-08-15** — news mention: ZEN Carbon: On 12th August 2026, the Kenya Green Building Society (KGBS) joined KGBS member Zen Carb ([source](https://www.linkedin.com/company/zencarbon/#post-49a9704bd36d))
+- **2026-09-02** — news mention: When science meets deployment, the conversation changes. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500602750380957696/))
+- **2026-08-26** — news mention: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-15** — news mention: ZEN Carbon: On 12th August 2026, the Kenya Green Building Society (KGBS) joined KGBS member Zen… ([source](https://www.linkedin.com/company/zencarbon/#post-49a9704bd36d))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-14** — news mention: Yesterday, we took another step toward changing how Africa builds.
-
-We officially launched the Flami ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493604533898661888/))
-- **2026-08-03** — news mention: ZEN Carbon: ♻️ Nairobi's Walkway That Eats Carbon A quiet stretch of pavement in Upper Hill is doing ([source](https://www.linkedin.com/company/clitruct/#post-a6d66524bd17))
-- **2026-08-03** — news mention: Octavia Carbon: ð We are proud to have unveiled Africa's first real-world green concrete deployme ([source](https://www.linkedin.com/company/octavia-carbon/#post-f9410da87b28))
-- **2026-07-27** — news mention: This weekend,Nation Media Group  featured our journey and the story behind Africa’s first carbon min ([source](https://www.linkedin.com/feed/update/urn:li:share:7487376781902147585/))
-- **2026-07-27** — news mention: ZEN Carbon: The Office of the Special Envoy for Climate Change congratulates Zen Carbon and Octavia  ([source](https://www.linkedin.com/company/clitruct/#post-732e10060924))
-- **2026-07-27** — news mention: ZEN Carbon: History isn't always written in books. Sometimes, it's poured in concrete. For years, a  ([source](https://www.linkedin.com/company/clitruct/#post-13aba80a54ff))
-- **2026-07-27** — news mention: Octavia Carbon: 🌍 We are proud to have unveiled Africa's first real-world green concrete deployment, ([source](https://www.linkedin.com/company/octavia-carbon/#post-e7232825c242))
+- **2026-08-14** — news mention: Yesterday, we took another step toward changing how Africa builds. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493604533898661888/))
+- **2026-08-03** — news mention: ZEN Carbon: Nairobi's Walkway That Eats Carbon A quiet stretch of pavement in Upper Hill is… ([source](https://www.linkedin.com/company/clitruct/#post-a6d66524bd17))
+- **2026-08-03** — news mention: Octavia Carbon: ð We are proud to have unveiled Africa's first real-world green concrete… ([source](https://www.linkedin.com/company/octavia-carbon/#post-f9410da87b28))
+- **2026-07-27** — news mention: This weekend,Nation Media Group featured our journey and the story behind Africa’s first carbon… ([source](https://www.linkedin.com/feed/update/urn:li:share:7487376781902147585/))
+- **2026-07-27** — news mention: ZEN Carbon: The Office of the Special Envoy for Climate Change congratulates Zen Carbon and… ([source](https://www.linkedin.com/company/clitruct/#post-732e10060924))
+- **2026-07-27** — news mention: ZEN Carbon: History isn't always written in books. Sometimes, it's poured in concrete. For years… ([source](https://www.linkedin.com/company/clitruct/#post-13aba80a54ff))
+- **2026-07-27** — news mention: Octavia Carbon: We are proud to have unveiled Africa's first real-world green concrete… ([source](https://www.linkedin.com/company/octavia-carbon/#post-e7232825c242))
 - **2026-07-23** — news mention: Building the Transition in Action: From Low-Carbon Materials to Market Transformation | Zen Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485756813733376000/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
-- **2026-07-10** — news mention: History isn&amp;#39;t always written in books. Sometimes, it&amp;#39;s poured in concrete.
-For years ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481265616910225408/))
-- **2026-07-09** — news mention: 🌍 We are proud to have unveiled Africa&amp;#39;s first real-world green concrete deployment, a full  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480940632639864832/))
+- **2026-07-10** — news mention: History isn&amp;#39;t always written in books. Sometimes, it&amp;#39;s poured in concrete. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481265616910225408/))
+- **2026-07-09** — news mention: We are proud to have unveiled Africa&amp;#39;s first real-world green concrete deployment, a… ([source](https://www.linkedin.com/feed/update/urn:li:share:7480940632639864832/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
-- **2026-06-05** — news mention: The carbon removal ecosystem we imagined is beginning to take shape.
-
-At ZEN Carbon, we’ve always be ([source](https://www.linkedin.com/feed/update/urn:li:share:7468611921219317761/))
-- **2026-06-04** — news mention: 🤝 We are excited to be advancing our work on CO₂ mineralization in concrete through a collaboration  ([source](https://www.linkedin.com/feed/update/urn:li:share:7468260121639317504/))
-- **2026-05-14** — news mention: 🌍🇰🇪🇰🇷 From South Korea to Kenya,carbon removal collaboration is going global.
-
-This week, we had the ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460597675093139458/))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
+- **2026-06-05** — news mention: The carbon removal ecosystem we imagined is beginning to take shape. ([source](https://www.linkedin.com/feed/update/urn:li:share:7468611921219317761/))
+- **2026-06-04** — news mention: We are excited to be advancing our work on CO2 mineralization in concrete through a… ([source](https://www.linkedin.com/feed/update/urn:li:share:7468260121639317504/))
+- **2026-05-14** — news mention: From South Korea to Kenya,carbon removal collaboration is going global. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460597675093139458/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: ZEN Carbon is a Nairobi-based CO₂-mineralization-in-concrete startup led by CEO Andy Onyango, with no reference to "clitruct" on its website or in any press coverage. The slug "clitruct" doesn't match
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: ZEN Carbon is a Nairobi-based CO2-mineralization-in-concrete startup led by CEO Andy…
 
 ---
 

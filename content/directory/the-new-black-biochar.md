@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://linktr.ee/thenewblackbiochar" target="_blank" rel="noopener">https://linktr.ee/thenewblackbiochar</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,13 +32,13 @@ The New Black Biochar is a small Tasmanian grassroots biochar operation co-found
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://linktr.ee/thenewblackbiochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.recfit.tas.gov.au/grants_programs/brep/case_studies/case_study_-_the_new_black_biochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://linktr.ee/thenewblackbiochar))
+- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://linktr.ee/thenewblackbiochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.recfit.tas.gov.au/grants_programs/brep/case_studies/case_study_-_the_new_black_biochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://linktr.ee/thenewblackbiochar))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://linktr.ee/thenewblackbiochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.premier.tas.gov.au/latest-news/2025/march/winner-of-tasmanian-agrifutures-rural-womens-award-2025-announced))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tasmaniancountry.com/newspaper/tasmanian-country/rural-womens-award-finalist-turning-waste-biochar))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://linktr.ee/thenewblackbiochar))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.premier.tas.gov.au/latest-news/2025/march/winner-of-tasmanian-agrifutures-rural-womens-award-2025-announced))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.tasmaniancountry.com/newspaper/tasmanian-country/rural-womens-award-finalist-turning-waste-biochar))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

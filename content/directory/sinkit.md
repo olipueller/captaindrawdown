@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.sinkit.org" target="_blank" rel="noopener">https://www.sinkit.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sinkit/" target="_blank" rel="noopener">sinkit</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -34,8 +34,8 @@ Sinkit is a Dutch cooperative carbon-removal platform that curates, rates (via i
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.sinkit.org/))
+- **2026-04-19** — liveliness: Moderate → Active
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://www.sinkit.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.sinkit.org/ ([source](https://www.cdr.fyi/marketplace/sinkit))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/sinkit))
 

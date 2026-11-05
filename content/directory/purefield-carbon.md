@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.purefield.com/" target="_blank" rel="noopener">https://www.purefield.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/purefield-ingredients/" target="_blank" rel="noopener">purefield-ingredients</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,28 +31,28 @@ PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorize
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-01** — news mention: PureField Carbon: The results are in: injection is successful, and carbon is now being safely stored ([source](https://www.linkedin.com/company/purefield-ingredients/#post-88e1ca766755))
-- **2026-08-01** — news mention: PureField Carbon: Yesterday, PureField Ingredients celebrated the launch of our carbon capture and s ([source](https://www.linkedin.com/company/purefield-ingredients/#post-d19f18d9cc8e))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-01** — news mention: PureField Carbon: The results are in: injection is successful, and carbon is now being safely… ([source](https://www.linkedin.com/company/purefield-ingredients/#post-88e1ca766755))
+- **2026-08-01** — news mention: PureField Carbon: Yesterday, PureField Ingredients celebrated the launch of our carbon capture and… ([source](https://www.linkedin.com/company/purefield-ingredients/#post-d19f18d9cc8e))
+- **2026-07-15** — liveliness: Moderate → Active
 - **2026-07-04** — news mention: EPA Grants First Class VI CCS Permit In Kansas ([source](https://carbonherald.com/epa-grants-first-class-vi-ccs-permit-in-kansas/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.epa.gov/newsreleases/epa-issues-class-vi-well-permit-purefield-carbon-capture-kansas))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.epa.gov/newsreleases/epa-issues-class-vi-well-permit-purefield-carbon-capture-kansas))
 - **2026-04-19** — merged 1 duplicate(s): PureField Ingredients
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.zoominfo.com/c/purefield-ingredients/346769939))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/purefield-ingredients-secures-epa-approval-for-carbon-capture-projectpositioning-company-as-a-global-leader-in-low-carbon-food-and-fuel-production-302739611.html))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/purefield-ingredients-secures-epa-approval-for-carbon-capture-projectpositioning-company-as-a-global-leader-in-low-carbon-food-and-fuel-production-302739611.html))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.zoominfo.com/c/purefield-ingredients/346769939))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.prnewswire.com/news-releases/purefield-ingredients-secures-epa-approval-for-carbon-capture-projectpositioning-company-as-a-global-leader-in-low-carbon-food-and-fuel-production-302739611.html))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.prnewswire.com/news-releases/purefield-ingredients-secures-epa-approval-for-carbon-capture-projectpositioning-company-as-a-global-leader-in-low-carbon-food-and-fuel-production-302739611.html))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: PureField Ingredients (slug=purefield-ingredients)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.epa.gov/newsreleases/epa-issues-class-vi-well-permit-purefield-carbon-capture-kansas))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/purefield-ingredients-secures-epa-approval-for-carbon-capture-projectpositioning-company-as-a-global-leader-in-low-carbon-food-and-fuel-production-302739611.html))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.epa.gov/newsreleases/epa-issues-class-vi-well-permit-purefield-carbon-capture-kansas))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.prnewswire.com/news-releases/purefield-ingredients-secures-epa-approval-for-carbon-capture-projectpositioning-company-as-a-global-leader-in-low-carbon-food-and-fuel-production-302739611.html))
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/epa-grants-first-class-vi-ccs-permit-in-kansas/))
 
 ---

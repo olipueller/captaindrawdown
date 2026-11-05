@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.wren.co/" target="_blank" rel="noopener">https://www.wren.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/project-wren/" target="_blank" rel="noopener">project-wren</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,14 +32,14 @@ Wren Climate, PBC is a US-based public benefit corporation operating a consumer-
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-09-11** — news mention: Wren Climate, PBC: ð°ð Wren Launches 2026 Climate Funding Call Wren has opened its 2026 Call fo ([source](https://www.linkedin.com/company/project-wren/#post-5cbf0ba654ce))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-15** — liveliness: Moderate → Active
+- **2026-09-11** — news mention: Wren Climate, PBC: ð°ð Wren Launches 2026 Climate Funding Call Wren has opened its 2026 Call… ([source](https://www.linkedin.com/company/project-wren/#post-5cbf0ba654ce))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.wren.co/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.wren.co/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.wren.co/ ([source](https://www.cdr.fyi/marketplace/wren))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/wren))
 

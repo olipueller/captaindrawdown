@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://metalplant.com/" target="_blank" rel="noopener">https://metalplant.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phytomining/" target="_blank" rel="noopener">phytomining</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,16 +31,16 @@ Metalplant is a US-domiciled startup with field operations in northern Albania t
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://metalplant.com/))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://metalplant.com/))
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://metalplant.com/))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://metalplant.com/))
+- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://metalplant.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://metalplant.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'phytomining' clearly not the same company; employee count 204 inflated
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/hyperweathering-enhanced-rock-weathering-for-climate-change-mitigation-meets-phytomining-technology/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://metalplant.com/hyperweathering-enhanced-rock-weathering-for-climate-change-mitigation-meets-phytomining-technology/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://metalplant.com/))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://metalplant.com/))
+- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://metalplant.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

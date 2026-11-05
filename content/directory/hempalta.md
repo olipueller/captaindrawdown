@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Website</th><td><a href="https://www.hempalta.com/" target="_blank" rel="noopener">https://www.hempalta.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-alta/" target="_blank" rel="noopener">hemp-alta</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,16 +31,16 @@ Hempalta Corp. (TSXV: HEMP) is a Calgary-based AgTech and climate-technology com
 ## History
 
 - **2026-08-15** — refresh: coresignal
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.newsfilecorp.com/release/275107/Hempalta-Announces-2-Million-Private-Placement-Proposed-Share-Consolidation-and-Expanding-NatureBased-Carbon-Program))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.newsfilecorp.com/release/275107/Hempalta-Announces-2-Million-Private-Placement-Proposed-Share-Consolidation-and-Expanding-NatureBased-Carbon-Program))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://investingnews.com/stocks/tsxv-hemp/hempalta/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.cantechletter.com/newswires/hempalta-announces-2-million-private-placement-proposed-share-consolidation-and-expanding-nature-based-carbon-program/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

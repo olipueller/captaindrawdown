@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.sitos.earth/" target="_blank" rel="noopener">https://www.sitos.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sitos-group/" target="_blank" rel="noopener">sitos-group</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -38,26 +38,26 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-02** — news mention: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for y ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
-- **2026-10-20** — news mention: Treehouse California Almonds Partners with Sitos Group to Launch State-of-the-Art Slow Pyrolysis Bio ([source](https://perishablenews.com/produce/treehouse-california-almonds-partners-with-sitos-group-to-launch-state-of-the-art-slow-pyrolysis-biochar-facility/))
-- **2026-10-19** — news mention: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano,  ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
+- **2026-11-02** — news mention: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for… ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
+- **2026-10-20** — news mention: Treehouse California Almonds Partners with Sitos Group to Launch State-of-the-Art Slow Pyrolysis… ([source](https://perishablenews.com/produce/treehouse-california-almonds-partners-with-sitos-group-to-launch-state-of-the-art-slow-pyrolysis-biochar-facility/))
+- **2026-10-19** — news mention: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in… ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
-- **2026-09-05** — news mention: US Biochar Coalition (USBC): Commercial-scale biochar production at Sitos Group is almost here! 🤝 🪨  ([source](https://www.linkedin.com/company/u-s-biochar-coalition/#post-df68429b7d0f))
-- **2026-08-27** — news mention: US Biochar Initiative: Earlier this month, the USDA Forest Service awarded $105.5 million in Wood In ([source](https://www.linkedin.com/company/us-biochar-initiative/#post-adb18dc920e2))
-- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
-- **2026-08-21** — news mention: Sitos Group: Commercial-scale biochar production at Sitos Group is almost here! 🤝 🪨 After more than  ([source](https://www.linkedin.com/company/sitos-group/#post-df68429b7d0f))
-- **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-09-05** — news mention: US Biochar Coalition (USBC): Commercial-scale biochar production at Sitos Group is almost… ([source](https://www.linkedin.com/company/u-s-biochar-coalition/#post-df68429b7d0f))
+- **2026-08-27** — news mention: US Biochar Initiative: Earlier this month, the USDA Forest Service awarded $105.5 million in Wood… ([source](https://www.linkedin.com/company/us-biochar-initiative/#post-adb18dc920e2))
+- **2026-08-26** — news mention: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-21** — news mention: Sitos Group: Commercial-scale biochar production at Sitos Group is almost here! After more… ([source](https://www.linkedin.com/company/sitos-group/#post-df68429b7d0f))
+- **2026-07-15** — liveliness: Suspect → Likely Dead ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.montereycountynow.com/blogs/news_blog/pilot-biochar-program-ends-its-run-at-regen-monterey-as-company-moves-forward-with-commercial/article_5f1b60d2-9365-4939-9cd6-832094bc1fa8.html))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.montereycountynow.com/blogs/news_blog/pilot-biochar-program-ends-its-run-at-regen-monterey-as-company-moves-forward-with-commercial/article_5f1b60d2-9365-4939-9cd6-832094bc1fa8.html))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sitos.earth/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.sitos.earth/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.sitos.earth/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.sitos.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

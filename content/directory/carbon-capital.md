@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboncapital.com.na/" target="_blank" rel="noopener">https://www.carboncapital.com.na/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapitalnamibia/" target="_blank" rel="noopener">carboncapitalnamibia</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,23 +29,23 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 
 ## History
 
-- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
-- **2026-08-16** — news mention: Carbon Capital: Weâre excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating f ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-8f2a1817afd8))
-- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by Sylver ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
+- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
+- **2026-08-16** — news mention: Carbon Capital: Weâre excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-8f2a1817afd8))
+- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-26** — news mention: Carbon Capital: We’re excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating fro ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-42110b29069a))
-- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
-- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-07-26** — news mention: Carbon Capital: We’re excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-42110b29069a))
+- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
+- **2026-07-15** — liveliness: Suspect → Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-06-30** — news mention: Market Insights Brief: Carbon Deal Dynamics, June 2026 - Ecosystem Marketplace ([source](https://www.ecosystemmarketplace.com/publications/market-insights-brief-carbon-deal-dynamics-june-2026/))
-- **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-06-15** — liveliness: Moderate → Suspect ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://fioramara.com/" target="_blank" rel="noopener">https://fioramara.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fiora-mara/" target="_blank" rel="noopener">fiora-mara</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,13 +31,13 @@ Fiora Mara is an early-stage New York–based marine CDR startup founded in 2024
 ## History
 
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.1000gretas.org/post/1000-gretas-welcomes-fiora-mara-pioneering-ocean-based-climate-solutions))
+- **2026-08-15** — liveliness: Active → Likely Dead ([source](https://www.1000gretas.org/post/1000-gretas-welcomes-fiora-mara-pioneering-ocean-based-climate-solutions))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://fioramara.com/blog/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://fioramara.com/blog/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://fioramara.com/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://fioramara.com/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://fioramara.com/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://fioramara.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

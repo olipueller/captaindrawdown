@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.missionzero.tech/" target="_blank" rel="noopener">https://www.missionzero.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/missionzerotech/" target="_blank" rel="noopener">missionzerotech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,34 +31,34 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 ## History
 
 - **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
-- **2026-09-15** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the laun ([source](https://www.linkedin.com/company/missionzerotech/#post-c98522899895))
+- **2026-09-15** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the… ([source](https://www.linkedin.com/company/missionzerotech/#post-c98522899895))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-05** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-d2dee555d4ee))
-- **2026-08-29** — news mention: Airhive: Weâre joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a natio ([source](https://www.linkedin.com/company/carbonnet-limited/#post-a51aa9b5b270))
-- **2026-08-27** — news mention: Mission Zero Technologies: Mission Zero, Airhive And Progressive Energy Partner On Major UK DAC Proj ([source](https://www.linkedin.com/company/mission-zero/#post-a791c567416b))
+- **2026-09-05** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-d2dee555d4ee))
+- **2026-08-29** — news mention: Airhive: Weâre joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-a51aa9b5b270))
+- **2026-08-27** — news mention: Mission Zero Technologies: Mission Zero, Airhive And Progressive Energy Partner On Major UK DAC… ([source](https://www.linkedin.com/company/mission-zero/#post-a791c567416b))
 - **2026-08-20** — news mention: Events ([source](https://www.fraunhofer.org/en/media/events.html))
-- **2026-08-19** — news mention: Mission Zero Technologies: 🌍 An exciting step forward for carbon removal in the UK CCSA member Progr ([source](https://www.linkedin.com/company/mission-zero/#post-ff664054fa30))
-- **2026-08-12** — news mention: Mission Zero: Last Friday, we held our official launch event at Middlesbrough College in Teesside to ([source](https://www.linkedin.com/company/mission-zero/#post-4de13edfacb6))
-- **2026-07-29** — news mention: Mission Zero Technologies: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong  ([source](https://www.linkedin.com/company/mission-zero/#post-c98522899895))
-- **2026-07-24** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-05330afd51c4))
-- **2026-07-22** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the laun ([source](https://www.linkedin.com/company/mission-zero/#post-8e06b57a5f96))
+- **2026-08-19** — news mention: Mission Zero Technologies: An exciting step forward for carbon removal in the UK CCSA member… ([source](https://www.linkedin.com/company/mission-zero/#post-ff664054fa30))
+- **2026-08-12** — news mention: Mission Zero: Last Friday, we held our official launch event at Middlesbrough College in Teesside… ([source](https://www.linkedin.com/company/mission-zero/#post-4de13edfacb6))
+- **2026-07-29** — news mention: Mission Zero Technologies: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper… ([source](https://www.linkedin.com/company/mission-zero/#post-c98522899895))
+- **2026-07-24** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-05330afd51c4))
+- **2026-07-22** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the… ([source](https://www.linkedin.com/company/mission-zero/#post-8e06b57a5f96))
 - **2026-06-11** — news mention: Mission Zero, Airhive, Progressive Energy To Build World-Class DAC Plant In The UK ([source](https://carbonherald.com/mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk))
-- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
+- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
+- **2026-05-01** — liveliness: Moderate → Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.missionzero.tech/lab-notes/our-second-direct-air-capture-plant))
+- **2026-05-01** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.missionzero.tech/lab-notes/our-second-direct-air-capture-plant))
 - **2026-04-19** — merged 1 duplicate(s): Mission Zero Technologies
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.missionzero.tech/technology))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.missionzero.tech/technology))
 - **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
 - **** — merged duplicate: Mission Zero Technologies (slug=mission-zero-technologies)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.missionzero.tech/lab-notes/our-third-direct-air-capture-system))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.missionzero.tech/lab-notes/our-second-direct-air-capture-plant))
+- **2026-04-19** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.missionzero.tech/lab-notes/our-third-direct-air-capture-system))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.missionzero.tech/lab-notes/our-second-direct-air-capture-plant))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

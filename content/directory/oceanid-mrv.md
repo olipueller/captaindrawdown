@@ -30,8 +30,8 @@ Oceanid MRV (Oceanid Climate and Carbon Solutions) is a US-based public benefit 
 ## History
 
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟠 Suspect ([source](https://www.oceanidmrv.com/))
+- **2026-04-19** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Suspect ([source](https://www.oceanidmrv.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.oceanidccs.com/ ([source](https://www.cdr.fyi/marketplace/oceanid-mrv))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/oceanid-mrv))
 

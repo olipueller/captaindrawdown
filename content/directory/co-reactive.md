@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,35 +34,31 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 - **2026-11-03** — news mention: #scm #cement #concrete #mineralisation #performance | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7523406384252542976/))
 - **2026-10-29** — news mention: #team #talent #plantoperations #engineering #startup | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7521237015825252353/))
 - **2026-10-20** — news mention: #team #talent #workingstudent #climatetech #cement | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7518223161662980097/))
-- **2026-10-17** — news mention: #iso9001 #coreactive #iso9001 #qualitymanagement #industrialscaleup #climatetech #deeptech #sustaina ([source](https://www.linkedin.com/feed/update/urn:li:share:7516098957958369280/))
+- **2026-10-17** — news mention: #iso9001 #coreactive #iso9001 #qualitymanagement #industrialscaleup #climatetech #deeptech… ([source](https://www.linkedin.com/feed/update/urn:li:share:7516098957958369280/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-13** — news mention: #team #talent #climatetech #cement #concrete | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7515690755277967361/))
 - **2026-10-09** — news mention: #be100 #blueearthsummit #climatetech #builtenvironment | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7513934133560082433/))
 - **2026-10-02** — news mention: #mc3 #mineralization #scm #cement #climatetech | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7511688921064468480/))
-- **2026-09-23** — news mention: #greentechcapitalforum2026 #greentechcapitalforum #climatetech #constructiontech #scm #carbonmineral ([source](https://www.linkedin.com/feed/update/urn:li:share:7508150373602377729/))
+- **2026-09-23** — news mention: #greentechcapitalforum2026 #greentechcapitalforum #climatetech #constructiontech #scm… ([source](https://www.linkedin.com/feed/update/urn:li:share:7508150373602377729/))
 - **2026-09-22** — news mention: #team #startuplife #talent #cement #climatetech | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7507826507566841856/))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: #coreactive #co2mineralisierung #carbonutilization #carbonmanagement #carbonremoval #zement #beton # ([source](https://www.linkedin.com/feed/update/urn:li:share:7502650037831921664/))
+- **2026-09-07** — news mention: #coreactive #co2mineralisierung #carbonutilization #carbonmanagement #carbonremoval #zement #beton… ([source](https://www.linkedin.com/feed/update/urn:li:share:7502650037831921664/))
 - **2026-09-02** — news mention: #team #climatetech #industrialdecarbonization #materialsscience #mineralization | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7499091345542672385/))
 - **2026-08-26** — news mention: #team #climatetech #industrialdecarbonization #mineralization #startuplife | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7497647197941874688/))
 - **2026-08-24** — news mention: #SabancıTechnologyCenter | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497569758620377088/))
 - **2026-08-18** — news mention: #team #talent #startup #impact #growth | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7495036885581340672/))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-07** — news mention: #coreactive #teamcoreactive #friendsandfamily #climatetech #sustainableconstruction #carbonnegative  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7491406887796719617/))
-- **2026-07-29** — news mention: Co-reactive featured on ZDF WISO 🏗️
-
-ZDF WISO, one of Germany&amp;#39;s leading business programmes, ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487815968396640257/))
-- **2026-07-16** — news mention: Industrial transformation starts in North Rhine-Westphalia (NRW).
-
-We are proud to share that Carbon ([source](https://www.linkedin.com/feed/update/urn:li:share:7483413461209722880/))
+- **2026-08-07** — news mention: #coreactive #teamcoreactive #friendsandfamily #climatetech #sustainableconstruction… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7491406887796719617/))
+- **2026-07-29** — news mention: Co-reactive featured on ZDF WISO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487815968396640257/))
+- **2026-07-16** — news mention: Industrial transformation starts in North Rhine-Westphalia (NRW). ([source](https://www.linkedin.com/feed/update/urn:li:share:7483413461209722880/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-25** — news mention: #futurecleantechfestival | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475516463739551744/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
-- **2026-05-27** — news mention: #gründungsforum #coreactive #climatetech #nrwbank #privateequity #exist #deeptech #carbonnegative #s ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465078384897748992/))
-- **2026-05-05** — news mention: #oliverkrischer #coreactive #climatetech #ifat #zurichclimateweek #carbonremoval #decarbonization #s ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457155775157727232/))
+- **2026-05-27** — news mention: #gründungsforum #coreactive #climatetech #nrwbank #privateequity #exist #deeptech #carbonnegative… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465078384897748992/))
+- **2026-05-05** — news mention: #oliverkrischer #coreactive #climatetech #ifat #zurichclimateweek #carbonremoval #decarbonization… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457155775157727232/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 

@@ -30,13 +30,13 @@ PyroNam is the Namibian operating subsidiary of German biochar CDR company PyroC
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyronam.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://pyronam.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://pyronam.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://pyronam.com/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://carbonherald.com/pyroccs-and-atmosfair-join-forces-to-scale-biochar-cdr-in-namibia/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://pyronam.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://pyronam.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

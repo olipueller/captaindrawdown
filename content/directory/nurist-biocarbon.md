@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://nuristbiocarbon.com/" target="_blank" rel="noopener">https://nuristbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nurist-biocarbon/" target="_blank" rel="noopener">nurist-biocarbon</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,10 +33,10 @@ Nurist Biocarbon Private Limited is an early-stage Indian biochar producer based
 - **2026-10-15** — refresh: screenshot
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://nuristbiocarbon.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://nuristbiocarbon.com/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://nuristbiocarbon.com/))
+- **2026-04-19** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://nuristbiocarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://nuristbiocarbon.com/ ([source](https://www.cdr.fyi/supplier/nurist-biocarbon))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/nurist-biocarbon))
 

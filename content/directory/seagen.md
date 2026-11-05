@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.seagen.io/" target="_blank" rel="noopener">https://www.seagen.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seaweed-generation/" target="_blank" rel="noopener">seaweed-generation</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -39,12 +39,12 @@ SeaGen (Seaweed Generation Ltd), based in Falmouth, UK and founded in 2021, buil
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seagen.io/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.seagen.io/))
 - **2026-04-19** — reactivated — screenshot succeeded in reshoot3
 - **2026-04-19** — deactivated — URL https://www.seagen.io/ returns DNS-fail or HTTP-error after 2 shoot attempts; likely defunct
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.seagen.io/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://seagen.earth/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://pitchbook.com/profiles/company/503525-08))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.seagen.io/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://seagen.earth/))
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://pitchbook.com/profiles/company/503525-08))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

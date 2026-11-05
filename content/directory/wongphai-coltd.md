@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.wongphai.com/" target="_blank" rel="noopener">https://www.wongphai.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wongphai/" target="_blank" rel="noopener">wongphai</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,19 +31,19 @@ Wongphai Co., Ltd. is a community-driven initiative in rural Thailand that promo
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
+- **2026-09-15** — liveliness: Moderate → Active
+- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project/wongphai-biochar-project/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://planboo.eco/project/wongphai-biochar-project/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/project/wongphai-biochar-project/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://planboo.eco/project/wongphai-biochar-project/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/wongphai))
 
 ---

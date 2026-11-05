@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.myclimate.org/" target="_blank" rel="noopener">https://www.myclimate.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myclimate/" target="_blank" rel="noopener">myclimate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,22 +32,22 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-02** — news mention: myclimate: Ab dem 1. Januar 2027 müssen Anbieter von Flugreisen die CO₂e-Emissionen für alle Flüge m ([source](https://www.linkedin.com/company/myclimate---the-climate-protection-partnership/#post-6277207a263e))
-- **2026-08-28** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))
-- **2026-08-15** — news mention: Cotierra: Trust is built on delivery. We’re excited to share a major milestone with  myclimate :  We ([source](https://www.linkedin.com/company/cotierra-ag/#post-93bda950f4de))
-- **2026-08-15** — news mention: Cotierra: Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e of carbon rem ([source](https://www.linkedin.com/company/cotierra-ag/#post-9a60c45d1c2c))
-- **2026-07-23** — news mention: Terra Preta (Cotierra): Trust is built on delivery. We’re excited to share a major milestone with  m ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-93bda950f4de))
-- **2026-07-23** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-85065fb5ae7e))
-- **2026-05-20** — news mention: The aviation side: Germany's airports handled approximately 200 million passengers in 2024 (Destatis ([source](https://x.com/dpaessler/status/2057084083210002790))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-02** — news mention: myclimate: Ab dem 1. Januar 2027 müssen Anbieter von Flugreisen die CO2e-Emissionen für alle Flüge… ([source](https://www.linkedin.com/company/myclimate---the-climate-protection-partnership/#post-6277207a263e))
+- **2026-08-28** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200… ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))
+- **2026-08-15** — news mention: Cotierra: Trust is built on delivery. We’re excited to share a major milestone with myclimate… ([source](https://www.linkedin.com/company/cotierra-ag/#post-93bda950f4de))
+- **2026-08-15** — news mention: Cotierra: Big milestone for the team! We’ve officially delivered our first 1,200 tCO2e of carbon… ([source](https://www.linkedin.com/company/cotierra-ag/#post-9a60c45d1c2c))
+- **2026-07-23** — news mention: Terra Preta (Cotierra): Trust is built on delivery. We’re excited to share a major milestone with… ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-93bda950f4de))
+- **2026-07-23** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200… ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-85065fb5ae7e))
+- **2026-05-20** — news mention: The aviation side: Germany's airports handled approximately 200 million passengers in 2024… ([source](https://x.com/dpaessler/status/2057084083210002790))
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.myclimate.org/en/))
-- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.myclimate.org/en/))
-- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.myclimate.org/en/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.myclimate.org/en/))
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness= Active ([source](https://www.myclimate.org/en/))
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness= Active ([source](https://www.myclimate.org/en/))
 - **2026-04-18** — discovered via: news_feed ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7450519880702779392/))
 
 ---

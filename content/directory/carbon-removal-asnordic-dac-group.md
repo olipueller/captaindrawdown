@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonremoval.no/" target="_blank" rel="noopener">https://www.carbonremoval.no/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal/" target="_blank" rel="noopener">carbon-removal</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,16 +33,16 @@ Carbon Removal AS is a Norwegian project development company focused exclusively
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/news/carbon-removal-nordac))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://phlair.com/news/carbon-removal-nordac))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Removal
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbonremoval.no/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.carbonremoval.no/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonremoval.no ([source](https://www.cdr.fyi/supplier/carbon-removal))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-removal))
 - **** — merged duplicate: Carbon Removal (slug=carbon-removal)
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://phlair.com/news/carbon-removal-nordac))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbonremoval.no/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://phlair.com/news/carbon-removal-nordac))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.carbonremoval.no/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://mosaicmaterials.com/" target="_blank" rel="noopener">https://mosaicmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mosaicmaterials/" target="_blank" rel="noopener">mosaicmaterials</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -33,9 +33,9 @@ Mosaic Materials is a direct air capture technology developer based in Alameda, 
 
 - **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.bakerhughes.com/company/news/baker-hughes-acquires-mosaic-materials-advance-nextgeneration-carbon-dioxide-capture))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Moderate ([source](https://www.bakerhughes.com/company/news/baker-hughes-acquires-mosaic-materials-advance-nextgeneration-carbon-dioxide-capture))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://mosaicmaterials.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Moderate ([source](https://mosaicmaterials.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://mosaicmaterials.com/ ([source](https://www.cdr.fyi/supplier/mosaic))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/mosaic))
 

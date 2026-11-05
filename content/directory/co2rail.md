@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.co2rail.com/" target="_blank" rel="noopener">https://www.co2rail.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2rail/" target="_blank" rel="noopener">co2rail</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,18 +30,18 @@ CO2Rail Company is a US-based start-up founded in 2020 developing rail-based, se
 
 ## History
 
-- **2026-09-13** — news mention: This heat pump hot water heater (HPHW) that hangs on a wall seems like it could be nice in many smal ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvgjla3yg22n))
-- **2026-09-06** — news mention: CO2Rail: ð CO2Rail Company is officially launching our $9.65 million Seed+ raise to build, test,  ([source](https://www.linkedin.com/company/co2rail/#post-6d833591592a))
-- **2026-08-29** — news mention: CO2Rail: 🚆 CO2Rail Company is officially launching our $9.65 million Seed+ raise to build, test, and ([source](https://www.linkedin.com/company/co2rail/#post-5201b85d7281))
+- **2026-09-13** — news mention: This heat pump hot water heater (HPHW) that hangs on a wall seems like it could be nice in many… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvgjla3yg22n))
+- **2026-09-06** — news mention: CO2Rail: ð CO2Rail Company is officially launching our $9.65 million Seed+ raise to build… ([source](https://www.linkedin.com/company/co2rail/#post-6d833591592a))
+- **2026-08-29** — news mention: CO2Rail: CO2Rail Company is officially launching our $9.65 million Seed+ raise to build, test… ([source](https://www.linkedin.com/company/co2rail/#post-5201b85d7281))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.youtube.com/watch?v=DbhN6XHrofI))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.co2rail.com/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.youtube.com/watch?v=DbhN6XHrofI))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.co2rail.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.youtube.com/watch?v=DbhN6XHrofI))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.co2rail.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.co2rail.com/))
+- **2026-04-19** — liveliness: Moderate → Active ([source](https://www.youtube.com/watch?v=DbhN6XHrofI))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.co2rail.com/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://www.co2rail.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

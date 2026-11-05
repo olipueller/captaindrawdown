@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://americanbiocarbon.com/" target="_blank" rel="noopener">https://americanbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/americanbiocarbon/" target="_blank" rel="noopener">americanbiocarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-07-04</small></td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-07-04)</small></td></tr>
 </table>
@@ -43,14 +43,14 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-10-16** — news mention: American BioCarbon CT, LLC - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/american-biocarbon-ct-llc/))
-- **2026-08-29** — news mention: BBI International and Biomass Magazine Co-Locate the North American Biocarbon Conference to Expand C ([source](https://biochartoday.com/news/bbi-international-and-biomass-magazine-co-locate-the-north-american-biocarbon-conference-to-expand-commercial-synergies/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-08-29** — news mention: BBI International and Biomass Magazine Co-Locate the North American Biocarbon Conference to Expand… ([source](https://biochartoday.com/news/bbi-international-and-biomass-magazine-co-locate-the-north-american-biocarbon-conference-to-expand-commercial-synergies/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://americanbiocarbon.com/pages/about-us))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://americanbiocarbon.com/pages/about-us))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://americanbiocarbon.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250117713162/en/American-BioCarbon-Biochar-Achieves-OMRI-Listing-for-Organic-Crop-Fertilizer-and-Soil-Amendments))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://americanbiocarbon.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20250117713162/en/American-BioCarbon-Biochar-Achieves-OMRI-Listing-for-Organic-Crop-Fertilizer-and-Soil-Amendments))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

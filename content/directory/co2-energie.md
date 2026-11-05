@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.co2-energie.ch/" target="_blank" rel="noopener">https://www.co2-energie.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verduurzaming/" target="_blank" rel="noopener">verduurzaming</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -32,28 +32,28 @@ CO2 Energie AG is a Swiss joint-venture subsidiary of Regionalwerke AG Baden (RW
 
 - **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
-- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
-- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
-- **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
-- **2026-09-05** — news mention: Airfix: 🏁 Switzerland's first commercial BECCS chain hits operation! 🇨🇭 Switzerland’s Climate and In ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
+- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe !… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
+- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
+- **2026-09-05** — news mention: Regionalwerke AG Baden: Switzerland’s BECCS industry has officially gone commercial. Airfix… ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
+- **2026-09-05** — news mention: Airfix: Switzerland's first commercial BECCS chain hits operation! Switzerland’s Climate and… ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
 - **2026-09-02** — news mention: Switzerland Marks Commercial BECCS Debut With First CO2 Shipment To Denmark ([source](https://carbonherald.com/switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark))
 - **2026-07-15** — refresh: liveliness
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
+- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.regionalwerke.ch/dritte-biogas-anlage-niederwil))
-- **2026-04-19** — merged 1 duplicate(s): CO₂ Energie | Regionalwerke AG Baden
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.regionalwerke.ch/dritte-biogas-anlage-niederwil))
+- **2026-04-19** — merged 1 duplicate(s): CO2 Energie | Regionalwerke AG Baden
 - **2026-04-19** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=review_needed liveliness=🟡 Moderate ([source](https://www.co2-energie.ch/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=review_needed liveliness= Moderate ([source](https://www.co2-energie.ch/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.regionalwerke.ch/privat-geschaeftskunden/ueber-uns/medien/mm/2022/co2energie-nesselnbach ([source](https://www.cdr.fyi/supplier/co2-energie))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/co2-energie))
-- **** — merged duplicate: CO₂ Energie | Regionalwerke AG Baden (slug=co₂-energie-regionalwerke-ag-baden)
+- **** — merged duplicate: CO2 Energie | Regionalwerke AG Baden (slug=co2-energie-regionalwerke-ag-baden)
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.co2-energie.ch/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=review_needed liveliness=🟢 Active ([source](https://bioenergyinternational.com/swiss-circular-economy-best-practice-inaugurated/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.co2-energie.ch/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=review_needed liveliness= Active ([source](https://bioenergyinternational.com/swiss-circular-economy-best-practice-inaugurated/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

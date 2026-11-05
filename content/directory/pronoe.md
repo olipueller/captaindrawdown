@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.pronoe.earth/" target="_blank" rel="noopener">https://www.pronoe.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pronoe-earth/" target="_blank" rel="noopener">pronoe-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,20 +31,20 @@ Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkal
 
 ## History
 
-- **2026-11-02** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce  ([source](https://www.linkedin.com/company/pronoe-earth/#post-83ad5055f2a2))
-- **2026-10-03** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce  ([source](https://www.linkedin.com/company/pronoe-earth/#post-bd31ecf5a1ed))
-- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-11-02** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic… ([source](https://www.linkedin.com/company/pronoe-earth/#post-83ad5055f2a2))
+- **2026-10-03** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic… ([source](https://www.linkedin.com/company/pronoe-earth/#post-bd31ecf5a1ed))
+- **2026-10-01** — news mention: Milkywire: Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes… ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-21** — news mention: Cella: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence in Cella and ou ([source](https://www.linkedin.com/company/cellamineral/#post-b9033b290e5b))
-- **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
-- **2026-08-06** — news mention: Cella Mineral Storage: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence ([source](https://www.linkedin.com/company/cellamineral/#post-d32136400c45))
-- **2026-05-22** — news mention: Singapore Management University Launches South-east Asia's First University-Anchored Fund Dedicated  ([source](https://moneycompass.com.my/singapore-management-university-launches-south-east-asias-first-university-anchored-fund-dedicated-to-urban-solutions-sustainability/))
+- **2026-08-21** — news mention: Cella: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence in Cella and… ([source](https://www.linkedin.com/company/cellamineral/#post-b9033b290e5b))
+- **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE… ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
+- **2026-08-06** — news mention: Cella Mineral Storage: Grateful to Frontier , Stripe , Shopify , and Google for continued… ([source](https://www.linkedin.com/company/cellamineral/#post-d32136400c45))
+- **2026-05-22** — news mention: Singapore Management University Launches South-east Asia's First University-Anchored Fund… ([source](https://moneycompass.com.my/singapore-management-university-launches-south-east-asias-first-university-anchored-fund-dedicated-to-urban-solutions-sustainability/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.pronoe.earth/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.pronoe.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.pronoe.earth/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.pronoe.earth/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.pronoe.earth/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.pronoe.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://pathwayenergy.com/" target="_blank" rel="noopener">https://pathwayenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pathway-energy/" target="_blank" rel="noopener">pathway-energy</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,17 +31,17 @@ Pathway Energy is a Houston-based developer of carbon-negative sustainable aviat
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/carbon-negative-fuels-pioneer-pathway-energy-debuts-with-ultra-negative-sustainable-aviation-fuel-and-plans-for-new-saf-facility-on-us-gulf-coast-302329556.html))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.prnewswire.com/news-releases/carbon-negative-fuels-pioneer-pathway-energy-debuts-with-ultra-negative-sustainable-aviation-fuel-and-plans-for-new-saf-facility-on-us-gulf-coast-302329556.html))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.drax.com/press_release/drax-and-pathway-energy-agree-heads-of-terms-on-sustainable-biomass-deal-to-supply-new-us-saf-plant/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://pathwayenergy.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.drax.com/press_release/drax-and-pathway-energy-agree-heads-of-terms-on-sustainable-biomass-deal-to-supply-new-us-saf-plant/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://pathwayenergy.com/))
 - **2026-04-18** — discovered via: exa ([source](https://pathwayenergy.com/))
 
 ---

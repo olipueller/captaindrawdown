@@ -33,11 +33,11 @@ Valiidun is a Lexington, Kentucky-based direct air capture startup founded in 20
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://valiidun.com/))
+- **2026-05-01** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://valiidun.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🔴 Likely Dead ([source](https://valiidun.com/))
+- **2026-04-19** — liveliness: Likely Dead → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Likely Dead ([source](https://valiidun.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://valiidun.com/ ([source](https://www.cdr.fyi/supplier/valiidun))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/valiidun))
 

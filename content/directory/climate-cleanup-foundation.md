@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://climatecleanup.org" target="_blank" rel="noopener">https://climatecleanup.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatecleanup/" target="_blank" rel="noopener">climatecleanup</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,11 +32,11 @@ Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that 
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-18** — news mention: Climate Cleanup Foundation: Met koolstofcertificaten kunnen overheden effectief beleid voeren. We zi ([source](https://www.linkedin.com/company/climatecleanup/#post-f13c00b0b584))
-- **2026-07-23** — news mention: Climate Cleanup Foundation: New scientific report just dropped: State of Carbon Dioxide Removal (3rd ([source](https://www.linkedin.com/company/climatecleanup/#post-713baa6a40f0))
+- **2026-09-18** — news mention: Climate Cleanup Foundation: Met koolstofcertificaten kunnen overheden effectief beleid voeren. We… ([source](https://www.linkedin.com/company/climatecleanup/#post-f13c00b0b584))
+- **2026-07-23** — news mention: Climate Cleanup Foundation: New scientific report just dropped: State of Carbon Dioxide Removal… ([source](https://www.linkedin.com/company/climatecleanup/#post-713baa6a40f0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climatecleanup.org/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://climatecleanup.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://climatecleanup.org ([source](https://www.cdr.fyi/marketplace/climate-cleanup-foundation))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/climate-cleanup-foundation))
 

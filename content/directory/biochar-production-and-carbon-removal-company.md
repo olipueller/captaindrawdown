@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://capchar.com/" target="_blank" rel="noopener">https://capchar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capchar/" target="_blank" rel="noopener">capchar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,22 +30,22 @@ CapChar is a UK carbon removal company developing on-farm biochar production tec
 
 ## History
 
-- **2026-10-06** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important mil ([source](https://www.linkedin.com/company/capchar/#post-4d7becf25605))
+- **2026-10-06** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important… ([source](https://www.linkedin.com/company/capchar/#post-4d7becf25605))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-30** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important mil ([source](https://www.linkedin.com/company/capchar/#post-14b4937dd245))
-- **2026-08-23** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important mil ([source](https://www.linkedin.com/company/capchar/#post-f95186ea5d2e))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-15** — liveliness: Moderate → Active
+- **2026-08-30** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important… ([source](https://www.linkedin.com/company/capchar/#post-14b4937dd245))
+- **2026-08-23** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important… ([source](https://www.linkedin.com/company/capchar/#post-f95186ea5d2e))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://capchar.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://capchar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://capchar.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://capchar.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://capchar.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://capchar.com/))
 - **2026-04-18** — discovered via: brave ([source](https://capchar.com/))
 
 ---

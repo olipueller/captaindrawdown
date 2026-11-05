@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonlimit.com/" target="_blank" rel="noopener">https://www.carbonlimit.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonlimit/" target="_blank" rel="noopener">carbonlimit</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,24 +31,24 @@ Carbon Limit is a Boca Raton, Florida climate tech company founded in 2020/2021 
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-11** — news mention: Carbon Limit: CaptureCrete® goes commercial! At the conclusion of last month, Carbon Limit, in partn ([source](https://www.linkedin.com/company/carbonlimit/#post-b30d5ed57d98))
-- **2026-08-29** — news mention: Carbon Limit: Carbon Limit team members, alongside of our partners at Maschmeyer Concrete Company of ([source](https://www.linkedin.com/company/carbonlimit/#post-e0d4f6499394))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-31** — news mention: Carbon Limit: Weâre proud to share that we are officially registered on the Verra Standards. ð  ([source](https://www.linkedin.com/company/carbonlimit/#post-6bf37ba2d5f2))
-- **2026-07-31** — news mention: Carbon Limit: CaptureCreteÂ® moves from engineering to real-world action. Weâve officially commiss ([source](https://www.linkedin.com/company/carbonlimit/#post-94fd1254a284))
-- **2026-07-24** — news mention: Carbon Limit: Carbon Limit team members, alongside of our partners at Maschmeyer Concrete Company of ([source](https://www.linkedin.com/company/carbonlimit/#post-f7766ea6b19e))
-- **2026-07-24** — news mention: Carbon Limit: CaptureCreteÂ® goes commercial! At the conclusion of last month, Carbon Limit, in part ([source](https://www.linkedin.com/company/carbonlimit/#post-51934bc849b3))
-- **2026-07-24** — news mention: Carbon Limit: Following our successful pilot, Richmond American Homes has expanded its deployment of ([source](https://www.linkedin.com/company/carbonlimit/#post-7fa3b69ea8df))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-11** — news mention: Carbon Limit: CaptureCrete® goes commercial! At the conclusion of last month, Carbon Limit, in… ([source](https://www.linkedin.com/company/carbonlimit/#post-b30d5ed57d98))
+- **2026-08-29** — news mention: Carbon Limit: Carbon Limit team members, alongside of our partners at Maschmeyer Concrete Company… ([source](https://www.linkedin.com/company/carbonlimit/#post-e0d4f6499394))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-31** — news mention: Carbon Limit: Weâre proud to share that we are officially registered on the Verra Standards.… ([source](https://www.linkedin.com/company/carbonlimit/#post-6bf37ba2d5f2))
+- **2026-07-31** — news mention: Carbon Limit: CaptureCreteÂ® moves from engineering to real-world action. Weâve officially… ([source](https://www.linkedin.com/company/carbonlimit/#post-94fd1254a284))
+- **2026-07-24** — news mention: Carbon Limit: Carbon Limit team members, alongside of our partners at Maschmeyer Concrete Company… ([source](https://www.linkedin.com/company/carbonlimit/#post-f7766ea6b19e))
+- **2026-07-24** — news mention: Carbon Limit: CaptureCreteÂ® goes commercial! At the conclusion of last month, Carbon Limit, in… ([source](https://www.linkedin.com/company/carbonlimit/#post-51934bc849b3))
+- **2026-07-24** — news mention: Carbon Limit: Following our successful pilot, Richmond American Homes has expanded its deployment… ([source](https://www.linkedin.com/company/carbonlimit/#post-7fa3b69ea8df))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonlimit.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carbonlimit.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbonlimit.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.carbonlimit.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonlimit.com/ ([source](https://www.cdr.fyi/supplier/carbon-limit))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-limit))
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://bezerocarbon.com/" target="_blank" rel="noopener">https://bezerocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,35 +31,35 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 ## History
 
 - **2026-11-04** — news mention: Jain Irrigation Partners with Supercritical for Biochar Credits ([source](https://biochartoday.com/news/jain-irrigation-systems-and-supercritical-finalize-agreement-for-up-to-19000-tonnes-of-biochar-carbon-removal-credits/))
-- **2026-10-29** — news mention: BeZero: As El Niño intensifies, what are we seeing across Indonesia's forest and peatland carbon pro ([source](https://www.linkedin.com/company/bezero-carbon/#post-57c368e76d06))
-- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in t ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
+- **2026-10-29** — news mention: BeZero: As El Niño intensifies, what are we seeing across Indonesia's forest and peatland carbon… ([source](https://www.linkedin.com/company/bezero-carbon/#post-57c368e76d06))
+- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in… ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
+- **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
 - **2026-10-14** — news mention: Groundwork BioAg Secures A ‘BBB’ Carbon Rating By BeZero ([source](https://carbonherald.com/groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero))
 - **2026-10-08** — news mention: Higher-Rated Carbon Credits Command Growing Price Premium, BeZero Finds ([source](https://carbonherald.com/higher-rated-carbon-credits-command-growing-price-premium-bezero-finds/))
-- **2026-09-26** — news mention: Aurora Sustainable Lands: Aurora's Big Poplar Forestry Project has received a BBB.pre ex ante Rating ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-c4d321c372d7))
-- **2026-09-26** — news mention: Anew Climate: Project Quality Spotlight | Big Poplar Forestry Project   The Big Poplar Forestry Proj ([source](https://www.linkedin.com/company/anewclimate/#post-4b9448182d4f))
-- **2026-09-23** — news mention: BeZero Carbon: New research published in Nature Communications, co-authored by BeZero's Senior Carbo ([source](https://www.linkedin.com/company/bezero-carbon/#post-090f79d1c787))
-- **2026-09-10** — news mention: Rubicon Carbon: Some organizations need more than a supplier's word on carbon credit quality. Procur ([source](https://www.linkedin.com/company/rubicon-carbon/#post-4e71ebf208f8))
-- **2026-09-01** — news mention: Desired Future Conditions: BeZero Carbon just published ex ante risk ratings on 14 carbon removal pr ([source](https://www.linkedin.com/company/desired-future-conditions/#post-34f936a86852))
-- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
-- **2026-08-28** — news mention: Ruuts: Our Carbon Program SARA, developed together with Anthesis Group , has been assigned a BeZero  ([source](https://www.linkedin.com/company/ruutsnetwork/#post-7a53b4ab1a7c))
-- **2026-08-22** — news mention: Anew Climate: Project Quality Spotlight | Gray Wolf Forestry Project   The Gray Wolf Forestry Projec ([source](https://www.linkedin.com/company/anewclimate/#post-f2e4a4653c8d))
-- **2026-08-21** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gray Wolf Forestry Project has been ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-748fcce9a527))
+- **2026-09-26** — news mention: Aurora Sustainable Lands: Aurora's Big Poplar Forestry Project has received a BBB.pre ex ante… ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-c4d321c372d7))
+- **2026-09-26** — news mention: Anew Climate: Project Quality Spotlight | Big Poplar Forestry Project The Big Poplar Forestry… ([source](https://www.linkedin.com/company/anewclimate/#post-4b9448182d4f))
+- **2026-09-23** — news mention: BeZero Carbon: New research published in Nature Communications, co-authored by BeZero's Senior… ([source](https://www.linkedin.com/company/bezero-carbon/#post-090f79d1c787))
+- **2026-09-10** — news mention: Rubicon Carbon: Some organizations need more than a supplier's word on carbon credit quality.… ([source](https://www.linkedin.com/company/rubicon-carbon/#post-4e71ebf208f8))
+- **2026-09-01** — news mention: Desired Future Conditions: BeZero Carbon just published ex ante risk ratings on 14 carbon removal… ([source](https://www.linkedin.com/company/desired-future-conditions/#post-34f936a86852))
+- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
+- **2026-08-28** — news mention: Ruuts: Our Carbon Program SARA, developed together with Anthesis Group , has been assigned a… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-7a53b4ab1a7c))
+- **2026-08-22** — news mention: Anew Climate: Project Quality Spotlight | Gray Wolf Forestry Project The Gray Wolf Forestry… ([source](https://www.linkedin.com/company/anewclimate/#post-f2e4a4653c8d))
+- **2026-08-21** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gray Wolf Forestry Project has… ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-748fcce9a527))
 - **2026-08-20** — news mention: BeZero Offers A Unique Look Inside Microsoft’s CDR Risk Ratings ([source](https://carbonherald.com/bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings))
-- **2026-08-19** — news mention: BeZero Carbon: BeZero has published 14 ex ante rating reports on projects from Microsoft 's carbon r ([source](https://www.linkedin.com/company/bezero-carbon/#post-176fa419f995))
-- **2026-08-11** — news mention: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity proje ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
-- **2026-08-11** — news mention: CarbonMeld: Ecuador's National Assembly has voted to legalise carbon markets for the second time in  ([source](https://www.linkedin.com/company/carbonmeld/#post-fce5fd54d968))
-- **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is its ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
-- **2026-08-04** — news mention: Climate Impact Partners: 🎉Major milestone for Bondhu Chula clean cooking project in Bangladesh. http ([source](https://www.linkedin.com/company/climate-impact-partners/#post-cafcb6b76954))
-- **2026-07-28** — news mention: BeZero Carbon: 🔥 BeZero Carbon has partnered with the State of Wildfires Project, co-led by the Univ ([source](https://www.linkedin.com/company/bezero-carbon/#post-8c02bb02c676))
-- **2026-07-28** — news mention: BeZero Carbon: BeZero Carbon has officially notified ESMA under Article 51 of Regulation (EU) 2024/3 ([source](https://www.linkedin.com/company/bezero-carbon/#post-f5e2e13d3e1f))
+- **2026-08-19** — news mention: BeZero Carbon: BeZero has published 14 ex ante rating reports on projects from Microsoft 's carbon… ([source](https://www.linkedin.com/company/bezero-carbon/#post-176fa419f995))
+- **2026-08-11** — news mention: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity… ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
+- **2026-08-11** — news mention: CarbonMeld: Ecuador's National Assembly has voted to legalise carbon markets for the second time… ([source](https://www.linkedin.com/company/carbonmeld/#post-fce5fd54d968))
+- **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is… ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
+- **2026-08-04** — news mention: Climate Impact Partners: Major milestone for Bondhu Chula clean cooking project in Bangladesh.… ([source](https://www.linkedin.com/company/climate-impact-partners/#post-cafcb6b76954))
+- **2026-07-28** — news mention: BeZero Carbon: BeZero Carbon has partnered with the State of Wildfires Project, co-led by the… ([source](https://www.linkedin.com/company/bezero-carbon/#post-8c02bb02c676))
+- **2026-07-28** — news mention: BeZero Carbon: BeZero Carbon has officially notified ESMA under Article 51 of Regulation (EU)… ([source](https://www.linkedin.com/company/bezero-carbon/#post-f5e2e13d3e1f))
 - **2026-07-23** — news mention: Opinion: Europe’s Carbon Credit Plan Needs A High Bar, Not A Narrow Gate ([source](https://carbonherald.com/opinion-europes-carbon-credit-plan-needs-a-high-bar-not-a-narrow-gate/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-europes-carbon-credit-plan-needs-a-high-bar-not-a-narrow-gate))
-- **2026-07-23** — news mention: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3 m ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
-- **2026-07-23** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
-- **2026-07-23** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has b ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))
-- **2026-07-23** — news mention: Agreena Carbon Project Earns BBB BeZero Rating, Reinforcing Confidence in Nature-Based Carbon Credit ([source](https://carboncredits.com/agreena-carbon-project-earns-bbb-bezero-rating-reinforcing-confidence-in-nature-based-carbon-credits/))
-- **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
+- **2026-07-23** — news mention: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3… ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
+- **2026-07-23** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
+- **2026-07-23** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has… ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))
+- **2026-07-23** — news mention: Agreena Carbon Project Earns BBB BeZero Rating, Reinforcing Confidence in Nature-Based Carbon… ([source](https://carboncredits.com/agreena-carbon-project-earns-bbb-bezero-rating-reinforcing-confidence-in-nature-based-carbon-credits/))
+- **2026-07-22** — news mention: CDR.fyi: The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the… ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
 
 ---
 

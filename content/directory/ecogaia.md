@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.ecogaia.earth/" target="_blank" rel="noopener">https://www.ecogaia.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,25 +32,25 @@ EcoGaia is an Argentina-based sustainability consultancy and carbon project deve
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-25** — news mention: EcoGaia: Carbon credits are only as good as the measurement behind them. Most soil carbon programs s ([source](https://www.linkedin.com/company/eco2gaia/#post-e6aad02e0cc8))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-25** — news mention: EcoGaia: Carbon credits are only as good as the measurement behind them. Most soil carbon programs… ([source](https://www.linkedin.com/company/eco2gaia/#post-e6aad02e0cc8))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/altitude-ecogaia-emisiones-neutras))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.altitudecarbon.com/news/altitude-ecogaia-emisiones-neutras))
 - **2026-04-19** — merged 1 duplicate(s): eCO2Gaia
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://esgnews.com/altitude-secures-165000-tonne-biochar-carbon-removal-offtake-from-argentina-facilities/))
-- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟢 Active ([source](https://www.ecogaia.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://esgnews.com/altitude-secures-165000-tonne-biochar-carbon-removal-offtake-from-argentina-facilities/))
+- **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness= Active ([source](https://www.ecogaia.earth/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/eco2gala))
 - **** — merged duplicate: eCO2Gaia (slug=eco2gaia)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.altitudecarbon.com/news/altitude-ecogaia-emisiones-neutras))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.altitudecarbon.com/news/altitude-ecogaia-emisiones-neutras))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.ecogaia.earth/ ([source](https://www.cdr.fyi/supplier/ecogaia))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ecogaia))
 

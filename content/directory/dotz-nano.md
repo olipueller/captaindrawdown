@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://dotz.tech/" target="_blank" rel="noopener">https://dotz.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dotznano/" target="_blank" rel="noopener">dotznano</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,20 +31,20 @@ Dotz Nano (ASX: DTZ) is an Israeli-Australian nanomaterials and specialty chemis
 
 ## History
 
-- **2026-10-11** — news mention: Dotz Nano: 🚨 𝑭𝒓𝒐𝒎 𝒍𝒂𝒃 𝒕𝒐 𝒄𝒐𝒎𝒎𝒆𝒓𝒄𝒊𝒂𝒍 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. We just signed a 2-year supply agreement with Soletair  ([source](https://www.linkedin.com/company/dotznano/#post-e54861e20334))
-- **2026-09-15** — news mention: Scheduled to begin operations in 2028, this BECCS facility will capture, liquefy, and permanently st ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvktgho3wc2n))
+- **2026-10-11** — news mention: Dotz Nano: From lab to commercial reality. We just signed a 2-year supply agreement with… ([source](https://www.linkedin.com/company/dotznano/#post-e54861e20334))
+- **2026-09-15** — news mention: Scheduled to begin operations in 2028, this BECCS facility will capture, liquefy, and permanently… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvktgho3wc2n))
 - **2026-09-15** — news mention: In A New DAC Partnership, Dotz Nano To Provide Sorbent Tech To Soletair Power ([source](https://carbonherald.com/in-a-new-dac-partnership-dotz-nano-to-provide-sorbent-tech-to-soletair-power/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-dac-partnership-dotz-nano-to-provide-sorbent-tech-to-soletair-power))
-- **2026-09-05** — news mention: Dotz Nano: 🚀 𝑨 𝒃𝒊𝒈 𝒘𝒆𝒆𝒌 𝒇𝒐𝒓 𝑫𝒐𝒕𝒛 𝑬𝒏𝒆𝒓𝒈𝒚. Three milestones that move our decarbonisation and energy-s ([source](https://www.linkedin.com/company/dotznano/#post-e77bcbb0e8c4))
+- **2026-09-05** — news mention: Dotz Nano: A big week for Dotz Energy. Three milestones that move our decarbonisation and… ([source](https://www.linkedin.com/company/dotznano/#post-e77bcbb0e8c4))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-22** — news mention: Dotz Nano Appoints Nati Harpaz As New CEO ([source](https://carbonherald.com/dotz-nano-appoints-nati-harpaz-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=dotz-nano-appoints-nati-harpaz-as-new-ceo))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-28** — news mention: Production Scale-Up For Co2 Capture Sorbent - Dotz Nano Limited (ASX:DTZ) - Listcorp. ([source](https://www.listcorp.com/asx/dtz/dotz-nano-limited/news/production-scale-up-for-co2-capture-sorbent-3344711.html))
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://dotz.tech/resources/blog/dotz-announces-first-commercial-order-for-dac-sorbent/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dotz.tech/resources/blog/dotz-nano-completes-development-of-new-dac-sorbents-with-enhanced-kinetics/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://dotz.tech/resources/blog/dotz-announces-first-commercial-order-for-dac-sorbent/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dotz.tech/co2-capture-technology/dotz-modified-direct-air-capture-dac-sorbents/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dotz.tech/resources/blog/dotz-nano-completes-development-of-new-dac-sorbents-with-enhanced-kinetics/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

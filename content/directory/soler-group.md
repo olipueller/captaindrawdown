@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://soler-group.com/" target="_blank" rel="noopener">https://soler-group.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/solergroup/" target="_blank" rel="noopener">solergroup</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,28 +30,28 @@ SOLER Group is a French family-owned renewable carbon producer (founded 1993, pa
 
 ## History
 
-- **2026-09-22** — news mention: SOLER Group: For our most recent team retreat, we toured a climate-conscious champagne house and vis ([source](https://www.linkedin.com/company/solergroup/#post-9ecb7283d62e))
-- **2026-09-19** — news mention: Carbonex | Soler Group: For our most recent team retreat, we toured a climate-conscious champagne ho ([source](https://www.linkedin.com/company/carbonex/#post-9ecb7283d62e))
+- **2026-09-22** — news mention: SOLER Group: For our most recent team retreat, we toured a climate-conscious champagne house and… ([source](https://www.linkedin.com/company/solergroup/#post-9ecb7283d62e))
+- **2026-09-19** — news mention: Carbonex | Soler Group: For our most recent team retreat, we toured a climate-conscious champagne… ([source](https://www.linkedin.com/company/carbonex/#post-9ecb7283d62e))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://soler-group.com/biochar-carbon-sink/))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://soler-group.com/biochar-carbon-sink/))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://soler-group.com/biochar-carbon-sink/))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://soler-group.com/biochar-carbon-sink/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://soler-group.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://soler-group.com/))
 - **2026-04-19** — merged 1 duplicate(s): Carbonex | Soler Group
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://soler-group.com/production-technology/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://soler-group.com/production-technology/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://soler-group.com/ ([source](https://www.cdr.fyi/supplier/carbonex))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbonex))
 - **** — merged duplicate: Carbonex | Soler Group (slug=carbonex-soler-group)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://soler-group.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://soler-group.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://soler-group.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://soler-group.com/biochar-carbon-sink/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://soler-group.com/biochar-carbon-sink/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://soler-group.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://soler-group.com/biochar-carbon-sink/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

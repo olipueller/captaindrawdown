@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbonremoved.com" target="_blank" rel="noopener">https://carbonremoved.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removed/" target="_blank" rel="noopener">carbon-removed</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,20 +30,20 @@ Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux Gmb
 
 ## History
 
-- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
+- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
+- **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
 - **2026-09-17** — news mention: From Farm Waste to Carbon Credits: Biochar Industrial Group Raises $1.5m for Pan-African Expansion ([source](https://www.brandiconimage.com/2026/09/from-farm-waste-to-carbon-credits.html))
 - **2026-09-04** — news mention: Namibia’s newest carbon removal idea - News - The Namibian ([source](https://www.namibian.com.na/namibias-newest-carbon-removal-idea/))
-- **2026-09-04** — news mention: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South Ameri ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
-- **2026-09-01** — news mention: Anthesis B.V.: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in Sou ([source](https://www.linkedin.com/company/anthesis-consulting-group/#post-a7cb46ff49d3))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-09** — news mention: Altitude Carbon: What does demand actually look like in the biochar carbon credit market right now?  ([source](https://www.linkedin.com/company/altitude-sustainable/#post-a853dc6a3745))
+- **2026-09-04** — news mention: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
+- **2026-09-01** — news mention: Anthesis B.V.: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in… ([source](https://www.linkedin.com/company/anthesis-consulting-group/#post-a7cb46ff49d3))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-09** — news mention: Altitude Carbon: What does demand actually look like in the biochar carbon credit market right… ([source](https://www.linkedin.com/company/altitude-sustainable/#post-a853dc6a3745))
 - **2026-07-26** — news mention: Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/379))
-- **2026-07-22** — news mention: Mati: In 2025, we expanded our trials in Tanzania and Zambia, and moved into Cameroon and Ethiopia.  ([source](https://www.linkedin.com/company/maticarbonremovals/#post-87b9116b5832))
+- **2026-07-22** — news mention: Mati: In 2025, we expanded our trials in Tanzania and Zambia, and moved into Cameroon and… ([source](https://www.linkedin.com/company/maticarbonremovals/#post-87b9116b5832))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://carbonremoved.com/about/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Moderate ([source](https://carbonremoved.com/about/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://carbonremoved.com ([source](https://www.cdr.fyi/marketplace/carbon-removed))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-removed))
 

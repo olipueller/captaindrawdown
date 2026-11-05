@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.anvilcarbon.com" target="_blank" rel="noopener">https://www.anvilcarbon.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anvil-capture-systems/" target="_blank" rel="noopener">anvil-capture-systems</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,21 +31,21 @@ Anvil Capture Systems is a CDR company focused on developing and scaling the CO2
 
 ## History
 
-- **2026-10-23** — news mention: Anvil: Anvil Capture Systems is thrilled to announce an AmplifyMass award from Massachusetts Clean E ([source](https://www.linkedin.com/company/anvil-capture-systems/#post-d0846f89b6a1))
-- **2026-09-07** — news mention: Anvil Capture Systems: Anvil Capture Systems is thrilled to announce an AmplifyMass award from Massa ([source](https://www.linkedin.com/company/anvil-capture-systems/#post-fc165ab049cc))
+- **2026-10-23** — news mention: Anvil: Anvil Capture Systems is thrilled to announce an AmplifyMass award from Massachusetts Clean… ([source](https://www.linkedin.com/company/anvil-capture-systems/#post-d0846f89b6a1))
+- **2026-09-07** — news mention: Anvil Capture Systems: Anvil Capture Systems is thrilled to announce an AmplifyMass award from… ([source](https://www.linkedin.com/company/anvil-capture-systems/#post-fc165ab049cc))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/fall-2024-prepurchases))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://frontierclimate.com/writing/fall-2024-prepurchases))
 - **2026-04-19** — merged 1 duplicate(s): Anvil Capture Systems
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.anvilcarbon.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.anvilcarbon.com/ ([source](https://www.cdr.fyi/supplier/anvil))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/anvil))
 - **** — merged duplicate: Anvil Capture Systems (slug=anvil-capture-systems)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.anvilcarbon.com))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.anvilcarbon.com))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.anvilcarbon.com))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

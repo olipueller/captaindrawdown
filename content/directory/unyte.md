@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://unyte.co.uk/" target="_blank" rel="noopener">https://unyte.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/unyte-capital/" target="_blank" rel="noopener">unyte-capital</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,25 +31,25 @@ Unyte Group is a UK-based sustainability holding company headquartered in Market
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://unyte.co.uk/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://unyte.co.uk/))
 - **2026-04-19** — merged 1 duplicate(s): Unyte Bio Char Ltd
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://companycheck.co.uk/company/15868584/UNYTE-BIO-CHAR-LTD/contact))
+- **2026-04-19** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://companycheck.co.uk/company/15868584/UNYTE-BIO-CHAR-LTD/contact))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://Unyte.co.uk ([source](https://www.cdr.fyi/supplier/unyte-bio-char))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/unyte-bio-char))
 - **** — merged duplicate: Unyte Bio Char Ltd (slug=unyte-bio-char-ltd)
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://unyte.co.uk/unyte-solutions/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://unyte.co.uk/unyte-solutions/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://unyte.co.uk/unyte-solutions/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://unyte.co.uk/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://unyte.co.uk/unyte-solutions/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://unyte.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

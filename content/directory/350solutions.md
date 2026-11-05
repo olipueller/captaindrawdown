@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://350solutions.com/" target="_blank" rel="noopener">https://350solutions.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/350solutions/" target="_blank" rel="noopener">350solutions</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,22 +34,22 @@ liveliness: "🟢 Active"
 
 ## History
 
-- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
+- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
-- **2026-08-23** — news mention: 350solutions: ð¥³ Microsoft is excited to share its latest carbon removal purchase agreement with C ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
-- **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently join ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
-- **2026-08-16** — news mention: 350solutions: 🥳 Microsoft is excited to share its latest carbon removal purchase agreement with CREW ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))
-- **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity Enha ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
-- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
+- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
+- **2026-08-23** — news mention: 350solutions: ð¥3 Microsoft is excited to share its latest carbon removal purchase agreement with… ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
+- **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently… ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
+- **2026-08-16** — news mention: 350solutions: Microsoft is excited to share its latest carbon removal purchase agreement with… ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))
+- **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity… ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
+- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy… ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://350solutions.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://350solutions.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://350solutions.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness=🟢 Active ([source](https://350solutions.com/solutions/carbon-removal-verification/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://350solutions.com/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://350solutions.com/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://350solutions.com/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=supplier liveliness= Active ([source](https://350solutions.com/solutions/carbon-removal-verification/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

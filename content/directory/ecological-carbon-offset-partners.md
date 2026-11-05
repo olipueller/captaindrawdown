@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.epcarbon.com/" target="_blank" rel="noopener">https://www.epcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ep-carbon/" target="_blank" rel="noopener">ep-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,23 +31,23 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 
 ## History
 
-- **2026-10-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-108532950bcf))
-- **2026-09-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-7d70ebb6bd3c))
+- **2026-10-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth… ([source](https://www.linkedin.com/company/ep-carbon/#post-108532950bcf))
+- **2026-09-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth… ([source](https://www.linkedin.com/company/ep-carbon/#post-7d70ebb6bd3c))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-29** — news mention: Ecological Carbon Offset Partners: ð¢ We are proud to announce our Carbon Yards project has succes ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-61e79152beeb))
-- **2026-08-29** — news mention: Ecological Carbon Offset Partners: Congratulations to the Carbon Yards HCO2 Mississippi project, dev ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-8d10ab4095f6))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-31** — news mention: Ecological Carbon Offset Partners: 📢 We are proud to announce our Carbon Yards project has successfu ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-ceaf4288b2a8))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-29** — news mention: Ecological Carbon Offset Partners: ð¢ We are proud to announce our Carbon Yards project has… ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-61e79152beeb))
+- **2026-08-29** — news mention: Ecological Carbon Offset Partners: Congratulations to the Carbon Yards HCO2 Mississippi project… ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-8d10ab4095f6))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-31** — news mention: Ecological Carbon Offset Partners: We are proud to announce our Carbon Yards project has… ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-ceaf4288b2a8))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.epcarbon.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.epcarbon.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.epcarbon.com/carbon-yards/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.epcarbon.com/carbon-yards/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.epcarbon.com/carbon-yards/ ([source](https://www.cdr.fyi/supplier/ecological-carbon-offset-partners))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ecological-carbon-offset-partners))
 

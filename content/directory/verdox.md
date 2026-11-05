@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://verdox.com/" target="_blank" rel="noopener">https://verdox.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verdox/" target="_blank" rel="noopener">verdox</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,14 +33,14 @@ Founded in 2019 out of MIT, Verdox delivers electrochemical carbon capture techn
 
 - **2026-09-29** — news mention: Batería atrapa CO2: el avance electroquímico de Delaware – El Ecosistema Startup ([source](https://ecosistemastartup.com/bateria-atrapa-co2-el-avance-electroquimico-de-delaware/))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-28** — news mention: Verdox: ⚡Verdox Commissions Its First Electrochemical Carbon Capture Pilot⚡ We are excited to share  ([source](https://www.linkedin.com/company/verdox/#post-b7c1c00ba053))
-- **2026-07-23** — news mention: Verdox: ⚡Verdox Commissions Its First Electrochemical Carbon Capture Pilot⚡ We are excited to share  ([source](https://www.linkedin.com/company/verdox/#post-79cb2cfeae23))
+- **2026-08-28** — news mention: Verdox: Verdox Commissions Its First Electrochemical Carbon Capture Pilot We are excited to… ([source](https://www.linkedin.com/company/verdox/#post-b7c1c00ba053))
+- **2026-07-23** — news mention: Verdox: Verdox Commissions Its First Electrochemical Carbon Capture Pilot We are excited to… ([source](https://www.linkedin.com/company/verdox/#post-79cb2cfeae23))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20251110789998/en/Verdox-Demonstrates-Electrochemical-Carbon-Capture-From-Aluminum-Smelting))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20251110789998/en/Verdox-Demonstrates-Electrochemical-Carbon-Capture-From-Aluminum-Smelting))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://verdox.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://verdox.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://verdox.com/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://verdox.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

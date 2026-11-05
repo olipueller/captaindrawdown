@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://evero.energy/" target="_blank" rel="noopener">https://evero.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everoenergy/" target="_blank" rel="noopener">everoenergy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,28 +30,28 @@ Evero Energy (formerly Bioenergy Infrastructure Group) is a UK waste-wood-to-ene
 ## History
 
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
-- **2026-07-29** — news mention: Evero Energy: Today weâre announcing that Frontier has raised an additional $915M for carbon remov ([source](https://www.linkedin.com/company/bioenergy-infrastructure-limited/#post-e06a045ec830))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-07-29** — news mention: Evero Energy: Today weâre announcing that Frontier has raised an additional $915M for carbon… ([source](https://www.linkedin.com/company/bioenergy-infrastructure-limited/#post-e06a045ec830))
 - **2026-07-24** — news mention: Evero Files Planning Proposal For UK’s First BECCS Plant ([source](https://carbonherald.com/evero-files-planning-proposal-for-uks-first-beccs-plant/?utm_source=rss&utm_medium=rss&utm_campaign=evero-files-planning-proposal-for-uks-first-beccs-plant))
-- **2026-07-22** — news mention: Evero Energy: Today we’re announcing that Frontier has raised an additional $915M for carbon removal ([source](https://www.linkedin.com/company/bioenergy-infrastructure-limited/#post-e3e7a0ff2985))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-07-22** — news mention: Evero Energy: Today we’re announcing that Frontier has raised an additional $915M for carbon… ([source](https://www.linkedin.com/company/bioenergy-infrastructure-limited/#post-e3e7a0ff2985))
+- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-06-15** — liveliness: Active → Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://evero.energy/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://evero.energy/))
 - **2026-04-19** — merged 1 duplicate(s): Evero Energy Group Limited
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://evero.energy/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://evero.energy/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://evero.energy/ ([source](https://www.cdr.fyi/supplier/evero-energy-group-limited))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/evero-energy-group-limited))
 - **** — merged duplicate: Evero Energy Group Limited (slug=evero-energy-group-limited)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://evero.energy/news/Shortlisted))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://evero.energy/news/Shortlisted))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://evero.energy/news/Shortlisted))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://evero.energy/news/Shortlisted))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

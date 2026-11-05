@@ -29,21 +29,21 @@ liveliness: "🔴 Likely Dead"
 ## History
 
 - **2026-10-15** — refresh: liveliness
-- **2026-10-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
+- **2026-10-15** — liveliness: Active → Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
 - **2026-09-15** — refresh: screenshot
 - **2026-07-15** — refresh: liveliness
-- **2026-07-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.wirtschaft.at/u/553028b))
-- **2026-06-26** — news mention: #carbonremoval #bioenergy #carbonmarkets #renewableenergy #carbonremoval #bioenergy #carbonmarkets # ([source](https://www.linkedin.com/feed/update/urn:li:share:7475442829268484096/))
+- **2026-07-15** — liveliness: Likely Dead → Active ([source](https://www.wirtschaft.at/u/553028b))
+- **2026-06-26** — news mention: #carbonremoval #bioenergy #carbonmarkets #renewableenergy #carbonremoval #bioenergy #carbonmarkets… ([source](https://www.linkedin.com/feed/update/urn:li:share:7475442829268484096/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://cleantechnica.com/2025/05/12/syncraft-opens-clean-power-plant-that-provides-electricity-heat-cdr/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.firmenabc.at/oekomaxx-energiewerke-gmbh_zrGX))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://cleantechnica.com/2025/05/12/syncraft-opens-clean-power-plant-that-provides-electricity-heat-cdr/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.firmenabc.at/oekomaxx-energiewerke-gmbh_zrGX))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/bsXEqEiyFjFinding_Report_GCSP1127.pdf))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-registry.org/project-view/1127))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://global-c-registry.org/project-view/1127))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.wirtschaft.at/u/553028b))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://global-c-sink.easy-cert.cloud/media/projectfile/None/bsXEqEiyFjFinding_Report_GCSP1127.pdf))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://global-c-registry.org/project-view/1127))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://global-c-registry.org/project-view/1127))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

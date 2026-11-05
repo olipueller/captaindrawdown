@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://bluelayer.io/" target="_blank" rel="noopener">https://bluelayer.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/getbluelayer/" target="_blank" rel="noopener">getbluelayer</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,23 +31,23 @@ BlueLayer is a Berlin-based software platform providing an end-to-end operating 
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-10** — news mention: BlueLayer: The International Biochar Initiative 's recent “Guide to Digital MRV for Biochar” covers  ([source](https://www.linkedin.com/company/getbluelayer/#post-a8ca5316fa9a))
-- **2026-09-15** — news mention: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon re ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
-- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet Jessic ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
+- **2026-10-10** — news mention: BlueLayer: The International Biochar Initiative 's recent “Guide to Digital MRV for Biochar”… ([source](https://www.linkedin.com/company/getbluelayer/#post-a8ca5316fa9a))
+- **2026-09-15** — news mention: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon… ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
+- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet… ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
 - **2026-09-02** — news mention: BlueLayer joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/bluelayer-joins-the-negative-emissions-platform))
-- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice h ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
-- **2026-08-06** — news mention: BlueLayer: BlueLayer is now a Rainbow Standard -endorsed dMRV provider. We’ve been selected for the  ([source](https://www.linkedin.com/company/getbluelayer/#post-3463501a5dc5))
-- **2026-07-24** — news mention: Rewind: World's first Deep Mine Storage CDR credits are here! 🌍⛏️ 6 months ago we announced our proj ([source](https://www.linkedin.com/company/rewindearth/#post-2323d0d6e9e9))
-- **2026-07-23** — news mention: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3 m ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
-- **2026-07-23** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice… ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
+- **2026-08-06** — news mention: BlueLayer: BlueLayer is now a Rainbow Standard -endorsed dMRV provider. We’ve been selected for… ([source](https://www.linkedin.com/company/getbluelayer/#post-3463501a5dc5))
+- **2026-07-24** — news mention: Rewind: World's first Deep Mine Storage CDR credits are here! 6 months ago we announced our… ([source](https://www.linkedin.com/company/rewindearth/#post-2323d0d6e9e9))
+- **2026-07-23** — news mention: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3… ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
+- **2026-07-23** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://bluelayer.io/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://bluelayer.io/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://bluelayer.io/ ([source](https://www.cdr.fyi/marketplace/bluelayer))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/bluelayer))
 

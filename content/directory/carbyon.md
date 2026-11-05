@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbyon.com/" target="_blank" rel="noopener">https://carbyon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbyon/" target="_blank" rel="noopener">carbyon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,30 +30,30 @@ Carbyon is a Dutch DAC startup founded in 2019 as a spin-off from research insti
 
 ## History
 
-- **2026-10-01** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-2c042cfc38ac))
-- **2026-08-29** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been more ([source](https://www.linkedin.com/company/carbonnet-limited/#post-ac68b7f0ced4))
-- **2026-08-27** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-199116260e4a))
-- **2026-08-21** — news mention: Airhive: Following our acquisition of Carbyon (blog link in comments), we were excited to bring the  ([source](https://www.linkedin.com/company/carbonnet-limited/#post-4ca21ef4abf7))
+- **2026-10-01** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European… ([source](https://www.linkedin.com/company/carbyon/#post-2c042cfc38ac))
+- **2026-08-29** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-ac68b7f0ced4))
+- **2026-08-27** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European… ([source](https://www.linkedin.com/company/carbyon/#post-199116260e4a))
+- **2026-08-21** — news mention: Airhive: Following our acquisition of Carbyon (blog link in comments), we were excited to bring… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-4ca21ef4abf7))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-24** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been more ([source](https://www.linkedin.com/company/carbonnet-limited/#post-f6406cc296b2))
-- **2026-07-22** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-89f97823b9a2))
-- **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
-- **2026-07-15** — news mention: Airhive acquires Carbyon, creating a European leader in low-cost direct air capture technology - Car ([source](https://www.carbyon.com/news/airhive-acquires-carbyon))
+- **2026-07-24** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-f6406cc296b2))
+- **2026-07-22** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European… ([source](https://www.linkedin.com/company/carbyon/#post-89f97823b9a2))
+- **2026-07-22** — news mention: CDR.fyi: The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the… ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
+- **2026-07-15** — news mention: Airhive acquires Carbyon, creating a European leader in low-cost direct air capture technology… ([source](https://www.carbyon.com/news/airhive-acquires-carbyon))
 - **2026-07-15** — news mention: London's Airhive acquires Dutch carbon capture competitor Carbyon ([source](https://ioplus.nl/en/posts/londons-airhive-acquires-dutch-carbon-capture-competitor-carbyon))
-- **2026-07-15** — news mention: Three deals in one week redrew the DAC and CCS map. Hyundai-KNOC locked in cross-border CCS. Airhive ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqnwxdtabs2r))
-- **2026-07-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
+- **2026-07-15** — news mention: Three deals in one week redrew the DAC and CCS map. Hyundai-KNOC locked in cross-border CCS.… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqnwxdtabs2r))
+- **2026-07-15** — liveliness: Likely Dead → Active ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
 - **2026-07-14** — news mention: Airhive Acquires Carbyon to Forge European Direct Air Capture Powerhouse ([source](https://carbonherald.com/airhive-acquires-carbyon-to-forge-european-direct-air-capture-powerhouse/?utm_source=rss&utm_medium=rss&utm_campaign=airhive-acquires-carbyon-to-forge-european-direct-air-capture-powerhouse))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.carbyon.com/news/canadas-deep-sky-to-pilot-dac-unit-from-dutch-startup-carbyon))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.carbyon.com/news/carbyon-unveils-worlds-fastest-direct-air-capture-dac-machine))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

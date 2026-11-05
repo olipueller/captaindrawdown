@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://opna.earth" target="_blank" rel="noopener">https://opna.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/opna-earth/" target="_blank" rel="noopener">opna-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,18 +31,18 @@ Opna is a UK-based climate finance platform founded in 2022 by Shilpika Gautam t
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-15** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): SALT Global Tech
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://opna.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://opna.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.salt.org/ ([source](https://www.cdr.fyi/marketplace/salt))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/salt))
 - **** — merged duplicate: SALT Global Tech (slug=salt-global-tech)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://opna.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://opna.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://opna.earth ([source](https://www.cdr.fyi/marketplace/opna))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/opna))
 

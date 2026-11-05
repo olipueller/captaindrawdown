@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.alcove.io/" target="_blank" rel="noopener">https://www.alcove.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcove-io/" target="_blank" rel="noopener">alcove-io</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,13 +31,13 @@ Alcove (alcove.io) is a New York-based software company building inventory manag
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-30** — news mention: Alcove Labs: We’re proud to support the next generation of carbon crediting. Today Puro.earth  launc ([source](https://www.linkedin.com/company/alcove-io/#post-0ac1dfdea5ab))
-- **2026-08-23** — news mention: Alcove Labs: Huge milestone for mCDR: Puro.earth just approved the MCFS methodology! Alcove is proud ([source](https://www.linkedin.com/company/alcove-io/#post-c1366e1c486f))
-- **2026-08-15** — news mention: Alcove Labs: Environmental markets are scaling fast, but the infrastructure powering them hasn’t kep ([source](https://www.linkedin.com/company/alcove-io/#post-3caad2de2d7f))
-- **2026-07-25** — news mention: Alcove Labs: Innovation and scientific rigor don’t have to compete — Gigablue ’s Microalgae Carbon F ([source](https://www.linkedin.com/company/alcove-io/#post-ea9d152e8ca8))
+- **2026-08-30** — news mention: Alcove Labs: We’re proud to support the next generation of carbon crediting. Today Puro.earth… ([source](https://www.linkedin.com/company/alcove-io/#post-0ac1dfdea5ab))
+- **2026-08-23** — news mention: Alcove Labs: Huge milestone for mCDR: Puro.earth just approved the MCFS methodology! Alcove is… ([source](https://www.linkedin.com/company/alcove-io/#post-c1366e1c486f))
+- **2026-08-15** — news mention: Alcove Labs: Environmental markets are scaling fast, but the infrastructure powering them hasn’t… ([source](https://www.linkedin.com/company/alcove-io/#post-3caad2de2d7f))
+- **2026-07-25** — news mention: Alcove Labs: Innovation and scientific rigor don’t have to compete — Gigablue ’s Microalgae Carbon… ([source](https://www.linkedin.com/company/alcove-io/#post-ea9d152e8ca8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.alcove.io/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.alcove.io/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/alcove-labs))
 
 ---

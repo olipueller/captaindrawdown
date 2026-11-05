@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.ecolocked.com/" target="_blank" rel="noopener">https://www.ecolocked.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecolocked/" target="_blank" rel="noopener">ecolocked</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,25 +31,25 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 
 ## History
 
-- **2026-09-03** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church ⛪ Berger Beton GmbH , ([source](https://www.linkedin.com/company/ecolocked/#post-3fb5909485ed))
-- **2026-08-27** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church âª Berger Beton GmbH ([source](https://www.linkedin.com/company/ecolocked/#post-67ef50ad057c))
+- **2026-09-03** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church Berger Beton GmbH… ([source](https://www.linkedin.com/company/ecolocked/#post-3fb5909485ed))
+- **2026-08-27** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church âa Berger Beton… ([source](https://www.linkedin.com/company/ecolocked/#post-67ef50ad057c))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-30** — news mention: ecoLocked: 🌱 Biochar in Action: Wenn Denkmalschutz auf Klimaschutz trifft ⛪ Wie können historische G ([source](https://www.linkedin.com/company/ecolocked/#post-fd9b39b3a0cf))
-- **2026-07-22** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church ⛪ Berger Beton GmbH , ([source](https://www.linkedin.com/company/ecolocked/#post-018da9382087))
-- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
-- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
-- **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen #co2speich ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-07-30** — news mention: ecoLocked: Biochar in Action: Wenn Denkmalschutz auf Klimaschutz trifft Wie können historische… ([source](https://www.linkedin.com/company/ecolocked/#post-fd9b39b3a0cf))
+- **2026-07-22** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church Berger Beton GmbH… ([source](https://www.linkedin.com/company/ecolocked/#post-018da9382087))
+- **2026-07-15** — liveliness: Suspect → Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
+- **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen… ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ecolocked.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ecolocked.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ecolocked.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ecolocked.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.ecolocked.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

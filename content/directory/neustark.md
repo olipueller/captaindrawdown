@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.neustark.com" target="_blank" rel="noopener">https://www.neustark.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neustark/" target="_blank" rel="noopener">neustark</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,21 +34,21 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ## History
 
-- **2026-10-24** — news mention: CDRjobs: 👀Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million de ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
-- **2026-09-29** — news mention: Nicht das Geld 💰, ... nicht die Emissionsrechte 📜, ... nicht einmal die CO2-Tonnen 😶‍🌫️. (1/11) ([source](https://bsky.app/profile/tiefenbacherin.bsky.social/post/3mwnf72m4mc2p))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-10-24** — news mention: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
+- **2026-09-29** — news mention: Nicht das Geld , ... nicht die Emissionsrechte , ... nicht einmal die CO2-Tonnen . (1/11) ([source](https://bsky.app/profile/tiefenbacherin.bsky.social/post/3mwnf72m4mc2p))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-09** — news mention: Neustark: Most companies buying #carbonremoval from neustark today are large organizations – cantona ([source](https://www.linkedin.com/company/neustark/#post-44de944dc9c8))
-- **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently join ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
+- **2026-09-09** — news mention: Neustark: Most companies buying #carbonremoval from neustark today are large organizations… ([source](https://www.linkedin.com/company/neustark/#post-44de944dc9c8))
+- **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently… ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
 - **2026-08-03** — news mention: #carbonremoval #cdr #neustark #vvbs #certification | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490028785803722752/))
-- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
-- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en/news/press-release))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.neustark.com/en/news/press-release))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en/our-solution-mineralization))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.neustark.com/en))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.neustark.com/en/our-solution-mineralization))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.neustark.com/en))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

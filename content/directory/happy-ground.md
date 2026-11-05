@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://happyground.org/" target="_blank" rel="noopener">https://happyground.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,7 +33,7 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 - **2026-10-31** — news mention: #farmers #biochar #soilhealth #thailand | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7522206147655749632/))
 - **2026-10-27** — news mention: #soilhealth #biochar #sugarcane #oilpalm #thailand | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520756732734640129/))
 - **2026-10-27** — news mention: #biochar #ricestraw #soilhealth #thailand #cleanair | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520394219459477504/))
-- **2026-10-23** — news mention: Happy Ground: Thai rice straw doesn't have to go up in smoke. Of nine ways to handle it, turning it  ([source](https://www.linkedin.com/company/happy-ground/#post-440b8a7163f5))
+- **2026-10-23** — news mention: Happy Ground: Thai rice straw doesn't have to go up in smoke. Of nine ways to handle it, turning… ([source](https://www.linkedin.com/company/happy-ground/#post-440b8a7163f5))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-10** — news mention: #soilcarbon #carbonmarkets #vm0042 #brazil #mrv | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:share:7514595804515368960/))
@@ -45,27 +45,21 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 - **2026-08-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal, liveliness
-- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
-- **2026-07-01** — news mention: Happy Ground: 🏗️ Building Block \#9 of 30 Building Blocks from the Last Year of Building Happy Groun ([source](https://www.linkedin.com/feed/update/urn:li:share:7477605006498697216/))
-- **2026-06-24** — news mention: 🏗️ Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground
-
-𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
-- **2026-06-24** — news mention: 🏗️ Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground
-
-𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒎𝒆𝒂 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
-- **2026-06-24** — news mention: 🏗️ Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground
-
-𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
+- **2026-07-15** — liveliness: Suspect → Active ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
+- **2026-07-01** — news mention: Happy Ground: Building Block \#9 of 30 Building Blocks from the Last Year of Building Happy… ([source](https://www.linkedin.com/feed/update/urn:li:share:7477605006498697216/))
+- **2026-06-24** — news mention: Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
+- **2026-06-24** — news mention: Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
+- **2026-06-24** — news mention: Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://happyground.org/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://happyground.org/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://happyground.org/))
 
 ---
 

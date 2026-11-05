@@ -40,15 +40,15 @@ Independently verified by carbon-credit registries:
 
 - **2026-10-06** — news mention: Guaicaramo - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/guaicaramo/))
 - **2026-09-15** — refresh: screenshot
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-11** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.siriusregenerative.co/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.siriusregenerative.co/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.siriusregenerative.co/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.siriusregenerative.co/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/sirius-regenerative-solutions))
 
 ---

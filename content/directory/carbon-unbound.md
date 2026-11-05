@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonunboundeurope.com/" target="_blank" rel="noopener">https://www.carbonunboundeurope.com/</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,38 +30,33 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 ## History
 
 - **2026-10-30** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521935501537398784/))
-- **2026-10-27** — news mention: Timing of EU procurement, wider buyer base, bankable offtakes emerge as key tests for scaling the CD ([source](https://www.fastmarkets.com/insights/timing-of-eu-procurement-wider-buyer-base-bankable-offtakes-emerge-as-key-tests-for-scaling-the-cdr-market-carbon-unbound/))
+- **2026-10-27** — news mention: Timing of EU procurement, wider buyer base, bankable offtakes emerge as key tests for scaling the… ([source](https://www.fastmarkets.com/insights/timing-of-eu-procurement-wider-buyer-base-bankable-offtakes-emerge-as-key-tests-for-scaling-the-cdr-market-carbon-unbound/))
 - **2026-10-19** — news mention: Pricing &amp; Tickets // Carbon Unbound Europe 2026 ([source](https://www.carbonunbound.com/events/europe/pricing))
 - **2026-10-17** — news mention: #london | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:share:7516471298877841408/))
-- **2026-10-17** — news mention: Next week, Isometric is headed to Carbon Unbound Europe. On the main stage, Lukas May will join Isab ([source](https://www.linkedin.com/feed/update/urn:li:share:7516814285952446464/))
+- **2026-10-17** — news mention: Next week, Isometric is headed to Carbon Unbound Europe. On the main stage, Lukas May will join… ([source](https://www.linkedin.com/feed/update/urn:li:share:7516814285952446464/))
 - **2026-10-17** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm #crcf | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7516484304361799680/))
-- **2026-10-15** — news mention: European policy will shape who can sell carbon removals, who buys them and what gets financed. Your  ([source](https://www.linkedin.com/feed/update/urn:li:share:7516076090986176512/))
+- **2026-10-15** — news mention: European policy will shape who can sell carbon removals, who buys them and what gets financed.… ([source](https://www.linkedin.com/feed/update/urn:li:share:7516076090986176512/))
 - **2026-10-14** — news mention: As the World Plans for Overshoot, Europe Sets the Pace on Carbon Removal — Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/carbon-unbound-europe-2026))
 - **2026-10-13** — news mention: #carbonremoval #cdr #enhancedrockweathering #climatetech | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7515340279680393216/))
 - **2026-10-10** — news mention: #carbonunboundeurope #carbonremoval #cdr #carbonmarkets | Carbon Standards ([source](https://www.linkedin.com/feed/update/urn:li:share:7514332600258420736/))
 - **2026-10-09** — news mention: Events in October | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514294288994787329/))
 - **2026-09-29** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #crcf #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7510325471658717185/))
 - **2026-09-14** — news mention: Carbon Unbound Merges Its West Coast & East Coast Events Into One Flagship North American Summit ([source](https://carbonherald.com/carbon-unbound-merges-its-west-coast-east-coast-events-into-one-flagship-north-american-summit/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-unbound-merges-its-west-coast-east-coast-events-into-one-flagship-north-american-summit))
-- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet Jessic ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
+- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet… ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
 - **2026-08-15** — refresh: coresignal
-- **2026-05-29** — news mention: Rainbow Standard: Our team was in New York for @[Carbon Unbound](urn:li:organization:87408149). Two  ([source](https://www.linkedin.com/feed/update/urn:li:share:7466035628409819136/))
-- **2026-05-28** — news mention: Puro.earth: Last week, the @[Puro.earth](urn:li:organization:14052561) team was in New York for @[Ca ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465387141292879872/))
+- **2026-05-29** — news mention: Rainbow Standard: Our team was in New York for @[Carbon Unbound](urn:li:organization:87408149).… ([source](https://www.linkedin.com/feed/update/urn:li:share:7466035628409819136/))
+- **2026-05-28** — news mention: Puro.earth: Last week, the @[Puro.earth](urn:li:organization:14052561) team was in New York for… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465387141292879872/))
 - **2026-05-22** — refresh: liveliness
-- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-22** — liveliness: Moderate → Active
 - **2026-05-18** — news mention: ClimeFi Where To Find Us | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462146594574987264/))
-- **2026-05-16** — news mention: The Carbon Business Council team heads to New York next week for Carbon Unbound East Coast.
-
-We are  ([source](https://www.linkedin.com/feed/update/urn:li:share:7461079211177365504/))
-- **2026-05-15** — news mention: The most important questions in carbon markets are on the agenda at Carbon Unbound East Coast next w ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460984850229972992/))
-- **2026-05-13** — news mention: Next week, we&amp;#39;re hitting two of the most important events on the CDR calendar back to back.
- ([source](https://www.linkedin.com/feed/update/urn:li:share:7459994858666213376/))
-- **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team.
-
-On stag ([source](https://www.linkedin.com/feed/update/urn:li:share:7458506946460127232/))
+- **2026-05-16** — news mention: The Carbon Business Council team heads to New York next week for Carbon Unbound East Coast. ([source](https://www.linkedin.com/feed/update/urn:li:share:7461079211177365504/))
+- **2026-05-15** — news mention: The most important questions in carbon markets are on the agenda at Carbon Unbound East Coast next… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460984850229972992/))
+- **2026-05-13** — news mention: Next week, we&amp;#39;re hitting two of the most important events on the CDR calendar back to… ([source](https://www.linkedin.com/feed/update/urn:li:share:7459994858666213376/))
+- **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team. ([source](https://www.linkedin.com/feed/update/urn:li:share:7458506946460127232/))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonunboundeurope.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.carbonunboundeurope.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonunboundeurope.com/ ([source](https://www.cdr.fyi/marketplace/carbon-unbound))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/carbon-unbound))
 

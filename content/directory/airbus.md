@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.airbus.com" target="_blank" rel="noopener">https://www.airbus.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airbusgroup/" target="_blank" rel="noopener">airbusgroup</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,14 +32,14 @@ Airbus is a multinational aerospace corporation (~86,000 employees) whose Defenc
 
 - **2026-10-15** — refresh: screenshot
 - **2026-10-02** — news mention: Eaton Fuel Cell 2026, 12% Growth, Airbus Partnership ([source](https://enkiai.com/fuel-cells/eaton-fuel-cell-strategy-winning-the-2025-hydrogen-race/))
-- **2026-08-01** — news mention: Southern Green Gas: After seven years of development, our team has successfully demonstrated our cor ([source](https://www.linkedin.com/company/southern-green-gas/#post-59d76eeb45a8))
-- **2026-07-22** — news mention: Air Canada and Airbus launch joint initiative to scale domestic Canadian SAF and help reduce the lif ([source](https://biomassmagazine.com/articles/air-canada-and-airbus-launch-joint-initiative-to-scale-domestic-canadian-saf-and-help-reduce-the-life-cycle-emissions-of-corporate-travel))
+- **2026-08-01** — news mention: Southern Green Gas: After seven years of development, our team has successfully demonstrated our… ([source](https://www.linkedin.com/company/southern-green-gas/#post-59d76eeb45a8))
+- **2026-07-22** — news mention: Air Canada and Airbus launch joint initiative to scale domestic Canadian SAF and help reduce the… ([source](https://biomassmagazine.com/articles/air-canada-and-airbus-launch-joint-initiative-to-scale-domestic-canadian-saf-and-help-reduce-the-life-cycle-emissions-of-corporate-travel))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.newswire.ca/news-releases/deep-sky-launches-operations-of-airbus-direct-air-capture-technology-at-canadian-facility-824731831.html))
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://www.newswire.ca/news-releases/deep-sky-launches-operations-of-airbus-direct-air-capture-technology-at-canadian-facility-824731831.html))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.newswire.ca/news-releases/deep-sky-launches-operations-of-airbus-direct-air-capture-technology-at-canadian-facility-824731831.html))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://esgnews.com/deep-sky-deploys-airbus-direct-air-capture-technology-at-flagship-carbon-removal-facility/))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.newswire.ca/news-releases/deep-sky-launches-operations-of-airbus-direct-air-capture-technology-at-canadian-facility-824731831.html))
+- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://esgnews.com/deep-sky-deploys-airbus-direct-air-capture-technology-at-flagship-carbon-removal-facility/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

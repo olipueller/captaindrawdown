@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://exterratechnologies.com/" target="_blank" rel="noopener">https://exterratechnologies.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exterratechnologies/" target="_blank" rel="noopener">exterratechnologies</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,31 +30,31 @@ Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026
 
 ## History
 
-- **2026-09-05** — news mention: Exterra Carbon Solutions: Proud to formalize our strategic collaboration with SGS to accelerate the  ([source](https://www.linkedin.com/company/esgnr/#post-6562348b19b4))
-- **2026-08-29** — news mention: Exterra: We're in. Exterra got picked for the inaugural MaRS Discovery District First-of-a-Kind (FOA ([source](https://www.linkedin.com/company/exterratechnologies/#post-5386da66a545))
+- **2026-09-05** — news mention: Exterra Carbon Solutions: Proud to formalize our strategic collaboration with SGS to accelerate… ([source](https://www.linkedin.com/company/esgnr/#post-6562348b19b4))
+- **2026-08-29** — news mention: Exterra: We're in. Exterra got picked for the inaugural MaRS Discovery District First-of-a-Kind… ([source](https://www.linkedin.com/company/exterratechnologies/#post-5386da66a545))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
-- **2026-08-07** — news mention: Exterra: Proud to formalize our strategic collaboration with SGS to accelerate the validation and sc ([source](https://www.linkedin.com/company/esgnr/#post-3ecdc57c178d))
-- **2026-07-31** — news mention: Exterra Carbon Solutions: Proud to formalize our strategic collaboration with SGS to accelerate the  ([source](https://www.linkedin.com/company/esgnr/#post-36e21f0b6da7))
-- **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District Fir ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
+- **2026-08-07** — news mention: Exterra: Proud to formalize our strategic collaboration with SGS to accelerate the validation and… ([source](https://www.linkedin.com/company/esgnr/#post-3ecdc57c178d))
+- **2026-07-31** — news mention: Exterra Carbon Solutions: Proud to formalize our strategic collaboration with SGS to accelerate… ([source](https://www.linkedin.com/company/esgnr/#post-36e21f0b6da7))
+- **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District… ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The slug "esgnr" appears to point to ESG-NRG, a shipping emissions-trading company, which is unrelated to Exterra Technologies (formerly Exterra Carbon Solutions), a Montréal-based cleantech processin
-- **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness=🟢 Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The slug "esgnr" appears to point to ESG-NRG, a shipping emissions-trading company…
+- **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness= Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
 - **2026-04-19** — merged 1 duplicate(s): Exterra Carbon Solutions
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://exterracarbon.com/ ([source](https://www.cdr.fyi/supplier/exterra-carbon-solutions))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/exterra-carbon-solutions))
 - **** — merged duplicate: Exterra Carbon Solutions (slug=exterra-carbon-solutions)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://cleanenergyventures.com/clean-energy-venture-capital/exterra-20m-series-a-to-transform-mining-waste-into-low-carbon-critical-minerals/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://exterratechnologies.com/news/exterra-carbon-solutions-becomes-exterra-technologies))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://cleanenergyventures.com/clean-energy-venture-capital/exterra-20m-series-a-to-transform-mining-waste-into-low-carbon-critical-minerals/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

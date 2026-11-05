@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://recycoal.earth/" target="_blank" rel="noopener">https://recycoal.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recycoal/" target="_blank" rel="noopener">recycoal</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,11 +32,11 @@ RecyCoal GmbH is an Aachen, Germany-based biochar startup incorporated in 2023, 
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.crunchbase.com/organization/recycoal-4057))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.crunchbase.com/organization/recycoal-4057))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.qcintel.com/carbon/article/feature-biochar-carbon-credit-prices-need-to-rise-not-fall-while-producers-of-the-substance-need-buyers-36047.html))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://de.linkedin.com/company/recycoal))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://recycoal.earth/))
+- **2026-04-19** — liveliness: Moderate → Active ([source](https://www.qcintel.com/carbon/article/feature-biochar-carbon-credit-prices-need-to-rise-not-fall-while-producers-of-the-substance-need-buyers-36047.html))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://de.linkedin.com/company/recycoal))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://recycoal.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

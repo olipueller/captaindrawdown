@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.biorecro.com/" target="_blank" rel="noopener">https://www.biorecro.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biorecro/" target="_blank" rel="noopener">biorecro</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,29 +29,29 @@ Biorecro is a Stockholm-based BECCS project developer that integrates carbon cap
 
 ## History
 
-- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
-- **2026-09-06** — news mention: Biorecro AB: ð¨Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton BE ([source](https://www.linkedin.com/company/biorecro-ab/#post-ff03a4cb488d))
-- **2026-09-06** — news mention: Biorecro: ð¨Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton BECCS ([source](https://www.linkedin.com/company/biorecro/#post-ff03a4cb488d))
-- **2026-08-30** — news mention: Biorecro: 🚨Richardton BECCS: Operational. Permanent. Proven. 🌿Since 2022, the Richardton BECCS Facil ([source](https://www.linkedin.com/company/biorecro/#post-24412b347a49))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-06** — news mention: Biorecro AB: ð ̈Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton… ([source](https://www.linkedin.com/company/biorecro-ab/#post-ff03a4cb488d))
+- **2026-09-06** — news mention: Biorecro: ð ̈Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton… ([source](https://www.linkedin.com/company/biorecro/#post-ff03a4cb488d))
+- **2026-08-30** — news mention: Biorecro: Richardton BECCS: Operational. Permanent. Proven. Since 2022, the Richardton BECCS… ([source](https://www.linkedin.com/company/biorecro/#post-24412b347a49))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
-- **2026-07-25** — news mention: Biorecro: 🚨Richardton BECCS: Operational. Permanent. Proven. 🌿Since 2022, the Richardton BECCS Facil ([source](https://www.linkedin.com/company/biorecro-ab/#post-24412b347a49))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
+- **2026-07-25** — news mention: Biorecro: Richardton BECCS: Operational. Permanent. Proven. Since 2022, the Richardton BECCS… ([source](https://www.linkedin.com/company/biorecro-ab/#post-24412b347a49))
+- **2026-07-15** — liveliness: Moderate → Suspect ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.biorecro.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.biorecro.com/))
 - **2026-04-19** — merged 1 duplicate(s): Biorecro AB
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.biorecro.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.biorecro.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.biorecro.com/ ([source](https://www.cdr.fyi/supplier/biorecro))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/biorecro))
 - **** — merged duplicate: Biorecro AB (slug=biorecro-ab)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.biorecro.com/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.biorecro.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.biorecro.com/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.biorecro.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://cdrterra.de/en/" target="_blank" rel="noopener">https://cdrterra.de/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrterra/" target="_blank" rel="noopener">cdrterra</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -34,33 +34,32 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 - **2026-10-30** — news mention: #cop31 | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7521882780696379392/))
 - **2026-10-28** — news mention: Meet CDRterra Scientists: Ronja Wollnik and Dr. Nils Matzner | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521138300871401472/))
 - **2026-10-27** — news mention: #munichclimateweek #cdr #cdr #carbondioxideremoval #wissenschaftskommunikation | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520463225004511232/))
-- **2026-10-19** — news mention: CDRterra: 🔬 CDR researchers: Contribute your expertise to the IPCC! The IPCC is preparing a new Meth ([source](https://www.linkedin.com/company/cdrterra/#post-9fb60b6e798f))
+- **2026-10-19** — news mention: CDRterra: CDR researchers: Contribute your expertise to the IPCC! The IPCC is preparing a new… ([source](https://www.linkedin.com/company/cdrterra/#post-9fb60b6e798f))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-09** — news mention: #cdr #co2entnahme #klimaschutz #cdrterra #forschung #stakeholderdialog | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513914542439976962/))
 - **2026-10-09** — news mention: #carbondioxideremoval | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7514248955816493056/))
 - **2026-10-05** — news mention: Publikationen - CDRterra ([source](https://cdrterra.de/publikationen/?pid=[9179))
 - **2026-10-01** — news mention: CDRterra und CDRmare Newsletter - CDRterra ([source](https://cdrterra.de/cdrterra-und-cdrmare-newsletter/))
-- **2026-09-24** — news mention: CDRterra Bildungsbroschüre 1: CDR - weil Emissionsreduktion alleine nicht genügt, um die Klimaziele  ([source](https://doi.org/10.5281/zenodo.22875291))
+- **2026-09-24** — news mention: CDRterra Bildungsbroschüre 1: CDR - weil Emissionsreduktion alleine nicht genügt, um die… ([source](https://doi.org/10.5281/zenodo.22875291))
 - **2026-09-22** — news mention: CDRfarm - CDRterra ([source](https://cdrterra.de/en/consortia/cdrfarm/))
 - **2026-09-19** — news mention: #ets #cdr | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7506627098132992000/))
 - **2026-09-12** — news mention: #cdr #co2entnahme #pflanzenkohle #biochar #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7452726578565844992/))
 - **2026-09-10** — news mention: Meet CDRterra Scientists: Daniel Kray and Claudia Kammann | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503078672560541696/))
 - **2026-09-07** — news mention: SESACOO - CDRterra ([source](https://cdrterra.de/consortia/sesacoo/))
-- **2026-09-06** — news mention: CDRterra: Herkömmliche Verfahren zur direkten Entfernung von CO₂ aus der Luft („Direct Air Capture“, ([source](https://www.linkedin.com/company/cdrterra/#post-dbf923baf0e1))
+- **2026-09-06** — news mention: CDRterra: Herkömmliche Verfahren zur direkten Entfernung von CO2 aus der Luft („Direct Air… ([source](https://www.linkedin.com/company/cdrterra/#post-dbf923baf0e1))
 - **2026-08-22** — news mention: Meet CDRterra scientists: Sarah Grosskopf for CDRnext | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7495051021526700033/))
-- **2026-08-15** — news mention: CDRterra: 📢 New publication alert! 🌱 How can Germany scale bio-based carbon dioxide removal (CDR) wh ([source](https://www.linkedin.com/company/cdrterra/#post-cf2914b8384b))
+- **2026-08-15** — news mention: CDRterra: New publication alert! How can Germany scale bio-based carbon dioxide removal (CDR)… ([source](https://www.linkedin.com/company/cdrterra/#post-cf2914b8384b))
 - **2026-08-12** — news mention: Meet CDRterra scientists: Tom Schürmann and Miriam Übele for NETPEC | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492871104533901313/))
-- **2026-08-11** — news mention: Great work by Mohammad Sadr, Danial Esmaeili, Matthias Jordan,
-Ronja Wollnik, Daniela Thrän. Their s ([source](https://www.linkedin.com/feed/update/urn:li:share:7492889244089200641/))
-- **2026-08-07** — news mention: CDRterra: 🌱New paper out: “Combining biochar and basanite rock powder enhances carbon dioxide remova ([source](https://www.linkedin.com/company/cdrterra/#post-e4f2b8d926b2))
-- **2026-08-07** — news mention: CDRterra: How can different CDR approaches be combined effectively? A study from our Phase 1 project ([source](https://www.linkedin.com/company/cdrterra/#post-ca3322893d5a))
-- **2026-08-06** — news mention: Frontiers | Combining biochar and basanite rock powder enhances carbon dioxide removal by carbonate  ([source](https://www.linkedin.com/feed/update/urn:li:share:7490701047317815296/))
+- **2026-08-11** — news mention: Great work by Mohammad Sadr, Danial Esmaeili, Matthias Jordan, ([source](https://www.linkedin.com/feed/update/urn:li:share:7492889244089200641/))
+- **2026-08-07** — news mention: CDRterra: New paper out: “Combining biochar and basanite rock powder enhances carbon dioxide… ([source](https://www.linkedin.com/company/cdrterra/#post-e4f2b8d926b2))
+- **2026-08-07** — news mention: CDRterra: How can different CDR approaches be combined effectively? A study from our Phase 1… ([source](https://www.linkedin.com/company/cdrterra/#post-ca3322893d5a))
+- **2026-08-06** — news mention: Frontiers | Combining biochar and basanite rock powder enhances carbon dioxide removal by… ([source](https://www.linkedin.com/feed/update/urn:li:share:7490701047317815296/))
 - **2026-07-28** — news mention: Meet CDRterra scientists: Anikendra Das and Finn Haberkost for RESET | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487814957787418625/))
-- **2026-07-24** — news mention: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but al ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
-- **2026-07-24** — news mention: CDRterra: Wie viel Platz braucht CO₂-Entnahme eigentlich – und was bedeutet das für die Landnutzung  ([source](https://www.linkedin.com/company/cdrterra/#post-82798dbe8556))
+- **2026-07-24** — news mention: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but… ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
+- **2026-07-24** — news mention: CDRterra: Wie viel Platz braucht CO2-Entnahme eigentlich – und was bedeutet das für die… ([source](https://www.linkedin.com/company/cdrterra/#post-82798dbe8556))
 - **2026-07-02** — news mention: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
 - **2026-06-27** — news mention: #cdrterra #carbondioxideremoval #cdr #climateresearch | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476209175195222016/))
-- **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
+- **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
 
 ---

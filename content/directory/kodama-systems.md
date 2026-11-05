@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://kodama.ai/" target="_blank" rel="noopener">https://kodama.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kodama-systems/" target="_blank" rel="noopener">kodama-systems</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -36,18 +36,18 @@ Kodama Systems is a Sonora, California-based forest management startup, operatin
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-07** — news mention: Kodama Systems: Last week at Weyerhaeuser 's Investor Day, SVP of Timberlands Travis Keatley spoke a ([source](https://www.linkedin.com/company/kodama-systems/#post-67732b839070))
+- **2026-08-07** — news mention: Kodama Systems: Last week at Weyerhaeuser 's Investor Day, SVP of Timberlands Travis Keatley spoke… ([source](https://www.linkedin.com/company/kodama-systems/#post-67732b839070))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://kodama.ai/))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://kodama.ai/))
 - **2026-04-19** — merged 1 duplicate(s): Kodama
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=review_needed liveliness=🟢 Active ([source](https://kodama.ai/))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=review_needed liveliness= Active ([source](https://kodama.ai/))
 - **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
 - **** — merged duplicate: Kodama (slug=kodama)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://kodama.ai/))
-- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.kodama.ai/news))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://kodama.ai/))
+- **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.kodama.ai/news))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

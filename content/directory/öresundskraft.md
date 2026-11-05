@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.oresundskraft.se/" target="_blank" rel="noopener">https://www.oresundskraft.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft/" target="_blank" rel="noopener">oresundskraft</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,36 +32,34 @@ liveliness: "🟢 Active"
 
 ## History
 
-- **2026-10-29** — news mention: Northern Lights: The European CCS market continues to progress 🇪🇺   Last week, Sweden announced SEK  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
-- **2026-10-28** — news mention: Nordbex: Historisk dag och historiskt beslut! 30/9 fattade Öresundskrafts styrelse Final Investment  ([source](https://www.linkedin.com/company/nordbex/#post-ece4373e4f14))
-- **2026-10-17** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Vilken vecka för SkyZero! Nu tilldelas Sysav 6,3 miljarder kron ([source](https://www.linkedin.com/company/sysav/#post-33e87281b6cd))
+- **2026-10-29** — news mention: Northern Lights: The European CCS market continues to progress Last week, Sweden announced… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
+- **2026-10-28** — news mention: Nordbex: Historisk dag och historiskt beslut! 30/9 fattade Öresundskrafts styrelse Final… ([source](https://www.linkedin.com/company/nordbex/#post-ece4373e4f14))
+- **2026-10-17** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Vilken vecka för SkyZero! Nu tilldelas Sysav 6,3 miljarder… ([source](https://www.linkedin.com/company/sysav/#post-33e87281b6cd))
 - **2026-10-14** — news mention: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
-- **2026-10-08** — news mention: Öresundskraft AB: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallan ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-6bc74ed0ea05))
-- **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallands  ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
-- **2026-09-25** — news mention: 🚨 Huge CDR Deal Alert! 🚨  Öresundskraft AB &lt;&gt; Höganäs AB ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-08-26))
+- **2026-10-08** — news mention: Öresundskraft AB: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i… ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-6bc74ed0ea05))
+- **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i… ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
+- **2026-09-25** — news mention: Huge CDR Deal Alert! Öresundskraft AB &lt;&gt; Höganäs AB ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-08-26))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-03** — news mention: Öresundskraft AB: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i Sverige!  ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-e5f5e80dcd9b))
-- **2026-09-02** — news mention: CDR.fyi: 🚨 Huge CDR Deal Alert! 🚨 🤝 Höganäs AB , a Swedish advanced ceramic and metal powders manufa ([source](https://www.linkedin.com/company/cdr-fyi/#post-61ac825a402f))
-- **2026-09-02** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement wi ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
-- **2026-08-27** — news mention: Öresundskraft: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i Sverige! Hög ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-d1a2a11245a2))
-- **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition.
-
-At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
-- **2026-07-30** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Fyra intensiva dagar för Sysav i Almedalen! Under veckan arrang ([source](https://www.linkedin.com/company/sysav/#post-183898d3e407))
+- **2026-09-03** — news mention: Öresundskraft AB: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i… ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-e5f5e80dcd9b))
+- **2026-09-02** — news mention: CDR.fyi: Huge CDR Deal Alert! Höganäs AB , a Swedish advanced ceramic and metal powders… ([source](https://www.linkedin.com/company/cdr-fyi/#post-61ac825a402f))
+- **2026-09-02** — news mention: CDR.fyi: This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement… ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
+- **2026-08-27** — news mention: Öresundskraft: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i Sverige!… ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-d1a2a11245a2))
+- **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition. ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
+- **2026-07-30** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Fyra intensiva dagar för Sysav i Almedalen! Under veckan… ([source](https://www.linkedin.com/company/sysav/#post-183898d3e407))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-23** — news mention: April CDR Industry Database Update.  We track ~970 organisations doing carbon removal. But only 570  ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://bioenergyinternational.com/oresundskraft-secures-sek-228m-grant-for-filbornaverket-ccs-project/))
+- **2026-04-23** — news mention: April CDR Industry Database Update. We track ~970 organisations doing carbon removal. But only… ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://bioenergyinternational.com/oresundskraft-secures-sek-228m-grant-for-filbornaverket-ccs-project/))
 - **2026-04-19** — merged 1 duplicate(s): Öresundskraft AB
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/oresundskraft))
 - **** — merged duplicate: Öresundskraft AB (slug=öresundskraft-ab)
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.energimyndigheten.se/en/news/2025/228-million-sek-to-oresundskraft-major-investment-ccs-helsingborg/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

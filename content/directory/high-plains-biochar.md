@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.hpbiochar.com/" target="_blank" rel="noopener">https://www.hpbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/high-plains-biochar-llc/" target="_blank" rel="noopener">high-plains-biochar-llc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,16 +33,16 @@ High Plains Biochar designs and manufactures small scale biochar equipment and h
 
 - **2026-10-15** — refresh: screenshot
 - **2026-08-30** — news mention: Climate Coffee brews up world’s first carbon-negative roasting process ([source](https://www.climatecoffee.shop/post/regenerative-coffee-brewing-for-a-sustainable-future))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-15** — liveliness: Moderate → Active
 - **2026-07-11** — news mention: High Plains Biochar | Biochar Stoves ([source](https://www.hpbiochar.com/stoves))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.hpbiochar.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.hpbiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.hpbiochar.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.hpbiochar.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.hpbiochar.com/ ([source](https://www.cdr.fyi/supplier/high-plains-biochar))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/high-plains-biochar))
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://varhad.in/" target="_blank" rel="noopener">https://varhad.in/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-varhad-group/" target="_blank" rel="noopener">the-varhad-group</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -40,24 +40,24 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
-- **2026-08-20** — news mention: Varhad: Varhad is thrilled to announce a major IP milestone! The Patent Office, Government of India, ([source](https://www.linkedin.com/company/the-varhad-group/#post-ae7c110a9934))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-09-15** — liveliness: Moderate → Active ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-08-20** — news mention: Varhad: Varhad is thrilled to announce a major IP milestone! The Patent Office, Government of… ([source](https://www.linkedin.com/company/the-varhad-group/#post-ae7c110a9934))
+- **2026-06-15** — liveliness: Active → Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://green-carbon.co.jp/en/enindias-largest-biochar-carbon-removal-project/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://green-carbon.co.jp/en/enindias-largest-biochar-carbon-removal-project/))
 - **2026-04-19** — merged 1 duplicate(s): Varhad Capital Pvt Ltd
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/about-us/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://varhad.in/about-us/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/varhad-capital))
 - **** — merged duplicate: Varhad Capital Pvt Ltd (slug=varhad-capital-pvt-ltd)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/about-us/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://varhad.in/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://varhad.in/about-us/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://varhad.in/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

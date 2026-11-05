@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://280.earth" target="_blank" rel="noopener">https://280.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/280-earth/" target="_blank" rel="noopener">280-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,17 +35,17 @@ liveliness: "🟢 Active"
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-08-20** — news mention: Nice detail on the water byproduct: 280 Earth's sorbent process releases H2O as it captures CO2, whi ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtit7azrnw23))
-- **2026-05-28** — news mention: 280 Earth Operates Direct Air Capture Facility, Closes $50M Project Funding | Turbomachinery Magazin ([source](https://www.turbomachinerymag.com/view/280-earth-operates-direct-air-capture-facility-closes-50m-project-funding))
+- **2026-08-20** — news mention: Nice detail on the water byproduct: 280 Earth's sorbent process releases H2O as it captures CO2… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtit7azrnw23))
+- **2026-05-28** — news mention: 280 Earth Operates Direct Air Capture Facility, Closes $50M Project Funding | Turbomachinery… ([source](https://www.turbomachinerymag.com/view/280-earth-operates-direct-air-capture-facility-closes-50m-project-funding))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/stories/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://280.earth/stories/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.datacenterdynamics.com/en/news/alphabets-dac-spin-out-280-earth-secures-40m-deal-from-consortium-including-google-and-meta/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/technology/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://280.earth/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://280.earth/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.datacenterdynamics.com/en/news/alphabets-dac-spin-out-280-earth-secures-40m-deal-from-consortium-including-google-and-meta/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://280.earth/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://280.earth/technology/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

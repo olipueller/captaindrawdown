@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbfix.com/" target="_blank" rel="noopener">https://www.carbfix.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbfix/" target="_blank" rel="noopener">carbfix</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -37,12 +37,12 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-11-03** — news mention: Borgarstjórn boðar viðsnúning í rekstri á næstu árum — Orkuveitan ekki til sölu — Vitinn ([source](https://vitinn.news/grein/6f6f0c42-687e-40eb-bd9e-9644bfb325d1))
 - **2026-11-03** — news mention: Carbon Loop #026 - by Bennett Green - The Carbon Loop ([source](https://carbonloop.substack.com/p/carbon-loop-026))
 - **2026-11-03** — news mention: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
-- **2026-10-29** — news mention: Carbfix: Carbfix explores potential for permanent CO₂ storage to support Icelandic industry. An impo ([source](https://www.linkedin.com/company/carbfix/#post-74d4ffd609ac))
+- **2026-10-29** — news mention: Carbfix: Carbfix explores potential for permanent CO2 storage to support Icelandic industry. An… ([source](https://www.linkedin.com/company/carbfix/#post-74d4ffd609ac))
 - **2026-10-19** — news mention: Frá viðarkurli til vítissóda – loftslagið og rétttrúnaðurinn | Frettin.is ([source](https://frettin.is/2026/10/19/fra-vidarkurli-til-vitissoda-loftslagid-og-retttrunadurinn/))
-- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse ga ([source](https://www.europesays.com/3317658/))
+- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse… ([source](https://www.europesays.com/3317658/))
 - **2026-10-18** — news mention: A protest, a price: Delhi trade faces Rs 400 crore daily risk, says CAIT ([source](https://fvbb.com/ns/a-protest-a-price-delhi-trade-faces-rs-400/325382))
-- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse ga ([source](https://fvbb.com/ns/iceland-is-turning-120-000-tonnes-of-carbon/325376))
-- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse ga ([source](https://economictimes.indiatimes.com/magazines/panache/iceland-is-turning-120000-tonnes-of-carbon-dioxide-into-stone-it-is-locking-away-the-greenhouse-gas-underground-to-fight-global-warming/articleshow/135026889.cms?from=mdr))
+- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse… ([source](https://fvbb.com/ns/iceland-is-turning-120-000-tonnes-of-carbon/325376))
+- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse… ([source](https://economictimes.indiatimes.com/magazines/panache/iceland-is-turning-120000-tonnes-of-carbon-dioxide-into-stone-it-is-locking-away-the-greenhouse-gas-underground-to-fight-global-warming/articleshow/135026889.cms?from=mdr))
 - **2026-10-16** — news mention: Frá viðarkurli til vítissóda. Loftslagið og rétttrúnaðurinn — Vitinn ([source](https://vitinn.news/grein/5c7895b9-0121-4f82-83da-5048cec9a8dd))
 - **2026-10-16** — news mention: Frá viðarkurli til vítissóda. Loftslagið og rétttrúnaðurinn - Útvarp Saga ([source](https://utvarpsaga.is/fra-vidarkurli-til-vitissoda-loftslagid-og-retttrunadurinn/))
 - **2026-10-16** — news mention: How Australian Volcanic Rocks Could Permanently Lock Away CO2 as Stone | Impactful Ninja ([source](https://impactful.ninja/how-australian-volcanic-rocks-could-permanently-lock-away-co2-as-stone/))
@@ -58,7 +58,7 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-10-07** — news mention: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - Bytes Europe ([source](https://www.byteseu.com/2430210/))
 - **2026-10-06** — news mention: Exclusive: Iceland Eyes India Clean Energy Partnership - EUROPE SAYS ([source](https://www.europesays.com/3294259/))
 - **2026-10-06** — news mention: Exclusive: Iceland Eyes India Clean Energy Partnership ([source](https://stratnewsglobal.com/europe/iceland/exclusive-iceland-eyes-india-clean-energy-partnership/))
-- **2026-10-06** — news mention: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni-, Co-, ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
+- **2026-10-06** — news mention: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni… ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
 - **2026-10-05** — news mention: JGC-Fluor Joint Venture Completes Final Weld on LNG Canada Train 1 | Turbomachinery Magazine ([source](https://www.turbomachinerymag.com/view/jgc-fluor-joint-venture-completes-final-weld-on-lng-canada-train-1))
 - **2026-10-04** — news mention: "Important Definitions" We Learnt Last Week (Sep 27-Oct 03, 2026) - Editorial Words ([source](https://www.editorialwords.com/important-definitions-we-learnt-last-week-sep-27-oct-03-2026/))
 - **2026-10-01** — news mention: The India–EFTA Partnership: One Plus One Equals Three |ForumIAS ([source](https://forumias.com/blog/the-india-efta-partnership-one-plus-one-equals-three/))

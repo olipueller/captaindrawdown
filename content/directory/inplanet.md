@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://inplanet.earth/" target="_blank" rel="noopener">https://inplanet.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,38 +45,36 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-11-03** — news mention: Driving progress, on and off the track. 🏁  
-
-Congratulations to Andrea Kimi Antonelli on becoming th ([source](https://www.linkedin.com/feed/update/urn:li:share:7523324735842181121/))
-- **2026-10-26** — news mention: Carbon Dioxide Removal (CDR) project revenue financing needs to include bankable offtake agreements, ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3myspxsjxh22q))
+- **2026-11-03** — news mention: Driving progress, on and off the track. ([source](https://www.linkedin.com/feed/update/urn:li:share:7523324735842181121/))
+- **2026-10-26** — news mention: Carbon Dioxide Removal (CDR) project revenue financing needs to include bankable offtake… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3myspxsjxh22q))
 - **2026-10-26** — news mention: New InPlanet White Paper Says Revenue Financing Can Bridge The CDR Financing Gap ([source](https://carbonherald.com/new-inplanet-white-paper-says-revenue-financing-can-bridge-the-cdr-financing-gap/?utm_source=rss&utm_medium=rss&utm_campaign=new-inplanet-white-paper-says-revenue-financing-can-bridge-the-cdr-financing-gap))
 - **2026-10-17** — news mention: #munichclimateweek #carbonremoval #enhancedrockweathering #cdr #climateaction | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7516480140579643393/))
 - **2026-10-17** — news mention: Inovação Climática &amp;amp; Agricultura Regenerativa | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516517915475648512/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-13** — news mention: #etsneedsremovals #carbonremoval #euets #enhancedrockweathering | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7515414895379755008/))
-- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-09-26** — news mention: #climateweeknyc #cdr #carbonremoval #durablecdr #latinamerica #climateaction | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7509217155230511104/))
-- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
+- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're… ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
-- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
-- **2026-09-04** — news mention: atmosfair gGmbH: A new chapter begins for atmosfair's carbon removal projects: With our Brazilian pa ([source](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/#post-94c103fcc82d))
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-09-04** — news mention: atmosfair gGmbH: A new chapter begins for atmosfair's carbon removal projects: With our Brazilian… ([source](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/#post-94c103fcc82d))
 - **2026-09-02** — news mention: Atmosfair X InPlanet | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500906876700729344/))
-- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
-- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
 - **2026-08-28** — news mention: Commons And InPlanet Team Up To Expand Access To High-Integrity ERW Credits ([source](https://carbonherald.com/commons-and-inplanet-team-up-to-expand-access-to-high-integrity-erw-credits/?utm_source=rss&utm_medium=rss&utm_campaign=commons-and-inplanet-team-up-to-expand-access-to-high-integrity-erw-credits))
 - **2026-08-28** — news mention: Commons | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498737583468924929/))
 - **2026-08-22** — news mention: COP31 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496541259021357056/))
-- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical.… ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
-- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
-- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
-- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
-- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
-- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
+- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked… ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business… ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
+- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
 
 ---
 

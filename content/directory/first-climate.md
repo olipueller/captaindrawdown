@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.firstclimate.com/" target="_blank" rel="noopener">https://www.firstclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/first-climate/" target="_blank" rel="noopener">first-climate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,19 +32,19 @@ First Climate is a German/Swiss carbon asset manager and climate services firm f
 ## History
 
 - **2026-10-18** — news mention: Negative carbon footprint in kimberlite diamond mining: ALROSA’s case ([source](https://doi.org/10.31242/2618-9712-2026-31-3-398-405))
-- **2026-08-23** — news mention: Sinkco Labs: I’m incredibly proud to share that Sinkco Labs has been selected as the winner of the S ([source](https://www.linkedin.com/company/sinkco-labs/#post-b9a3192f4355))
+- **2026-08-23** — news mention: Sinkco Labs: I’m incredibly proud to share that Sinkco Labs has been selected as the winner of the… ([source](https://www.linkedin.com/company/sinkco-labs/#post-b9a3192f4355))
 - **2026-08-15** — refresh: coresignal
-- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.firstclimate.com/?lang=en))
+- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week… ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://www.firstclimate.com/?lang=en))
 - **2026-05-01** — news mention: Meet the Carbonfuture team at Climate Week Zurich 2026 | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455555282937532417/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.firstclimate.com/?lang=en))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.firstclimate.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.firstclimate.com/?lang=en))
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.firstclimate.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.firstclimate.com/?lang=en))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.firstclimate.com/pflanzenkohleprogramm?lang=en))
-- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.firstclimate.com/carbon-removals?lang=en))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.firstclimate.com/?lang=en))
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.firstclimate.com/pflanzenkohleprogramm?lang=en))
+- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.firstclimate.com/carbon-removals?lang=en))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

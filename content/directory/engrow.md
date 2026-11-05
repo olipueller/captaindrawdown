@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://engrowfuels.com/" target="_blank" rel="noopener">https://engrowfuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/engrow-group/" target="_blank" rel="noopener">engrow-group</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,21 +30,19 @@ Engrow Carbon Energy Private Limited is an Indian private limited company incorp
 
 ## History
 
-- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
-
-These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
-- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
-- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: Altitude partners with Engrow for +425,000t CDRs from Biochar Facilities in India ([source](https://www.altitudecarbon.com/news/altitude-partners-with-engrow))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://new.engrowfuels.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://new.engrowfuels.com/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://engrowfuels.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://engrowfuels.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://engrowfuels.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

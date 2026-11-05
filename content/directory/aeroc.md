@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.aeroc.earth/" target="_blank" rel="noopener">https://www.aeroc.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aerocremotesensing/" target="_blank" rel="noopener">aerocremotesensing</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -47,11 +47,11 @@ AEROC (Aeroc GmbH) is a Cologne, Germany-based startup founded in 2024 by Felix 
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.aeroc.earth/en))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.aeroc.earth/en))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.aeroc.earth/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟡 Moderate ([source](https://www.aeroc.earth/en))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.aeroc.earth/))
+- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Moderate ([source](https://www.aeroc.earth/en))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

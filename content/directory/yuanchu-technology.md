@@ -32,13 +32,13 @@ Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 tha
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](http://www.yuanchutech.cn/en/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](http://www.yuanchutech.cn/en/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](http://www.yuanchutech.cn/en/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](http://www.yuanchutech.cn/en/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.yuanchutech.com/en/sys-nd/67.html))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.yuanchutech.com/en/sys-nd/67.html))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

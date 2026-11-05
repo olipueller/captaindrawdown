@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.airfixcarbon.com/" target="_blank" rel="noopener">https://www.airfixcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airfixcarbon/" target="_blank" rel="noopener">airfixcarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,23 +30,23 @@ Airfix is a Swiss subsidiary of climate consultancy South Pole, backed by the Mi
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
-- **2026-09-05** — news mention: Airfix: 🏁 Switzerland's first commercial BECCS chain hits operation! 🇨🇭 Switzerland’s Climate and In ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
+- **2026-09-05** — news mention: Regionalwerke AG Baden: Switzerland’s BECCS industry has officially gone commercial. Airfix… ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
+- **2026-09-05** — news mention: Airfix: Switzerland's first commercial BECCS chain hits operation! Switzerland’s Climate and… ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
 - **2026-09-02** — news mention: Switzerland Marks Commercial BECCS Debut With First CO2 Shipment To Denmark ([source](https://carbonherald.com/switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark))
-- **2026-08-29** — news mention: Airfix: Ein entscheidender Meilenstein für unser BECCS-Projekt: Die gesamte Prozesskette funktionier ([source](https://www.linkedin.com/company/airfixcarbon/#post-56fde9ec2186))
-- **2026-08-29** — news mention: Airfix: Während sich die Schweiz weiterhin auf Effizienzsteigerung, den Ausbau erneuerbarer Energien ([source](https://www.linkedin.com/company/airfixcarbon/#post-f90888ae1bc6))
-- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãªtre dans dix ans. Mais nous, on peut faire des pro ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
-- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets au ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
-- **2026-07-31** — news mention: Airfix: On Monday, Airfix participated in the CCUS Stakeholder Dialogue in Sion, hosted by EPFL . Th ([source](https://www.linkedin.com/company/airfixcarbon/#post-c4f39ea48e69))
-- **2026-07-25** — news mention: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projet ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
-- **2026-07-24** — news mention: Airfix: Another step forward in cross-border BECCS 🌍 On Tuesday, Airfix visited the Greensand Future ([source](https://www.linkedin.com/company/airfixcarbon/#post-0f96af7d54c8))
-- **2026-07-24** — news mention: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets aujourd’h ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
+- **2026-08-29** — news mention: Airfix: Ein entscheidender Meilenstein für unser BECCS-Projekt: Die gesamte Prozesskette… ([source](https://www.linkedin.com/company/airfixcarbon/#post-56fde9ec2186))
+- **2026-08-29** — news mention: Airfix: Während sich die Schweiz weiterhin auf Effizienzsteigerung, den Ausbau erneuerbarer… ([source](https://www.linkedin.com/company/airfixcarbon/#post-f90888ae1bc6))
+- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãatre dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
+- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
+- **2026-07-31** — news mention: Airfix: On Monday, Airfix participated in the CCUS Stakeholder Dialogue in Sion, hosted by EPFL .… ([source](https://www.linkedin.com/company/airfixcarbon/#post-c4f39ea48e69))
+- **2026-07-25** — news mention: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
+- **2026-07-24** — news mention: Airfix: Another step forward in cross-border BECCS On Tuesday, Airfix visited the Greensand… ([source](https://www.linkedin.com/company/airfixcarbon/#post-0f96af7d54c8))
+- **2026-07-24** — news mention: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.airfixcarbon.com/about-airfix/))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.airfixcarbon.com/about-airfix/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.airfixcarbon.com/about-airfix/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://www.airfixcarbon.com/about-airfix/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

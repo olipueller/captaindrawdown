@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://dacma.com/" target="_blank" rel="noopener">https://dacma.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dacma/" target="_blank" rel="noopener">dacma</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,15 +33,15 @@ DACMA GmbH is a Hamburg, Germany-headquartered manufacturer of Direct Air Captur
 
 ## History
 
-- **2026-10-19** — news mention: DACMA GmbH: Today is the day: The DACMA Competence Center is officially open. 🎉 Together with Hambur ([source](https://www.linkedin.com/company/dacma/#post-08d286ef5a33))
+- **2026-10-19** — news mention: DACMA GmbH: Today is the day: The DACMA Competence Center is officially open. Together with… ([source](https://www.linkedin.com/company/dacma/#post-08d286ef5a33))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-24** — news mention: DACMA GmbH: DACMA Sets the Course for Its Next Phase of Growth🚀 A new shareholder structure and a ge ([source](https://www.linkedin.com/company/dacma/#post-f1feff4546cc))
+- **2026-07-24** — news mention: DACMA GmbH: DACMA Sets the Course for Its Next Phase of Growth A new shareholder structure and a… ([source](https://www.linkedin.com/company/dacma/#post-f1feff4546cc))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dacma.com/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dacma.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dacma.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://dacma.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://equilibriumearth.com/" target="_blank" rel="noopener">https://equilibriumearth.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equilibrium-earth/" target="_blank" rel="noopener">equilibrium-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-01-30)</small></td></tr>
@@ -44,36 +44,36 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-12** — news mention: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weat ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
+- **2026-11-05** — news mention: Certified enclosures of the CO2 uptake per unit alkalinity in seawater equilibrium chemistry (a… ([source](https://doi.org/10.5281/zenodo.23848688))
+- **2026-11-05** — news mention: Research Progress in Channel-Selective Dealumination of Mordenite for Humid Direct Air Capture of… ([source](https://doi.org/10.54254/2755-2721/2026.38490))
+- **2026-11-05** — news mention: Concrete waste as a source of calcium and alkalinity for coccolithophore cultivation: an… ([source](https://doi.org/10.64898/2026.10.31.763296))
+- **2026-10-12** — news mention: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock… ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
 - **2026-10-12** — news mention: Climate actions effects on ressource sustainability in a carbon constrained world ([source](https://doi.org/10.23646/mpdd.wp2024-01-34))
-- **2026-10-12** — news mention: Autogenous Fluidic-Plasma Transmutation Module (A-FPTM): High-Throughput Atmospheric Carbon Cleavage ([source](https://doi.org/10.5281/zenodo.23220842))
-- **2026-10-12** — news mention: Alkalinity generation and trace metal dynamics during olivine-based marine enhanced rock weathering  ([source](https://doi.org/10.5194/egusphere-2026-5968))
-- **2026-10-12** — news mention: CO2 Sequestration Eciency within the Porous Matrix of Concrete - Advanced Physicochemical, Transport ([source](https://doi.org/10.5281/zenodo.23286155))
-- **2026-10-02** — news mention: In terms of scaling up CDR, the DAC company, 1PointFive has sold a little over 15,000 tonnes of carb ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwvropr2g22a))
-- **2026-09-30** — news mention: Grounding the Genuine Progress Indicator in Exergy: A First-Principles Physical Accounting Framework ([source](https://doi.org/10.5281/zenodo.22971365))
-- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
-- **2026-09-25** — news mention: Equilibrium: Two for two on the A's. Swiftgreen, developed with GreenCollar , has earned a Sylvera P ([source](https://www.linkedin.com/company/equilibrium-earth/#post-bee64d2443f6))
-- **2026-09-14** — news mention: Cattle continue emitting methane as long as they remain on the landscape, regardless of what alt gra ([source](https://bsky.app/profile/projectdrawdown.bsky.social/post/3mvigwatak22o))
-- **2026-09-12** — news mention: Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO 2  ([source](https://doi.org/10.5194/bg-23-6211-2026))
+- **2026-10-12** — news mention: Autogenous Fluidic-Plasma Transmutation Module (A-FPTM): High-Throughput Atmospheric Carbon… ([source](https://doi.org/10.5281/zenodo.23220842))
+- **2026-10-12** — news mention: Alkalinity generation and trace metal dynamics during olivine-based marine enhanced rock… ([source](https://doi.org/10.5194/egusphere-2026-5968))
+- **2026-10-12** — news mention: CO2 Sequestration Eciency within the Porous Matrix of Concrete - Advanced Physicochemical… ([source](https://doi.org/10.5281/zenodo.23286155))
+- **2026-10-02** — news mention: In terms of scaling up CDR, the DAC company, 1PointFive has sold a little over 15,000 tonnes of… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwvropr2g22a))
+- **2026-09-30** — news mention: Grounding the Genuine Progress Indicator in Exergy: A First-Principles Physical Accounting… ([source](https://doi.org/10.5281/zenodo.22971365))
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-09-25** — news mention: Equilibrium: Two for two on the A's. Swiftgreen, developed with GreenCollar , has earned a Sylvera… ([source](https://www.linkedin.com/company/equilibrium-earth/#post-bee64d2443f6))
+- **2026-09-14** — news mention: Cattle continue emitting methane as long as they remain on the landscape, regardless of what alt… ([source](https://bsky.app/profile/projectdrawdown.bsky.social/post/3mvigwatak22o))
+- **2026-09-12** — news mention: Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO… ([source](https://doi.org/10.5194/bg-23-6211-2026))
 - **2026-09-07** — news mention: This Bengaluru VC Left Investing To Help 27000 Farmers Earn From Restoring Their Land ([source](https://thebetterindia.com/sustainability/carbon-removal-india-equilibrium-biochar-farmers-carbon-credits-12479077))
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
-- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
-- **2026-08-31** — news mention: Turning an invader into a remediate: A phosphorus-coupled Spartina alterniflora-biochar system for c ([source](https://doi.org/10.17632/r5y59wggz9))
-- **2026-08-31** — news mention: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
-- **2026-08-21** — news mention: They are close, but TCRE refers to the transient climate response as a function of cumulative carbon ([source](https://bsky.app/profile/climatebook.bsky.social/post/3mtlhkhipfs2x))
-- **2026-08-18** — news mention: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: p ([source](https://cdrxiv.org/preprint/539))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð3 India CDR Startup #Accelerator Program ð We… ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-31** — news mention: Turning an invader into a remediate: A phosphorus-coupled Spartina alterniflora-biochar system for… ([source](https://doi.org/10.17632/r5y59wggz9))
+- **2026-08-31** — news mention: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models… ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
+- **2026-08-21** — news mention: They are close, but TCRE refers to the transient climate response as a function of cumulative… ([source](https://bsky.app/profile/climatebook.bsky.social/post/3mtlhkhipfs2x))
+- **2026-08-18** — news mention: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal… ([source](https://cdrxiv.org/preprint/539))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-03** — news mention: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))
-- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
-- **2026-08-01** — news mention: Altitude Carbon: India has the potential to become one of the world's most important biochar markets ([source](https://www.linkedin.com/company/altitude-sustainable/#post-f4a3374c27af))
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our India CDR Startup #Accelerator Program We continued to be… ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-08-01** — news mention: Altitude Carbon: India has the potential to become one of the world's most important biochar… ([source](https://www.linkedin.com/company/altitude-sustainable/#post-f4a3374c27af))
 - **2026-08-01** — news mention: Altitude Carbon Capture 2026, 965k Tonne Equilibrium Deal ([source](https://enkiai.com/carbon-capture/altitude-equilibrium-biochar-india/))
 - **2026-07-26** — news mention: A framework for understanding efficiency losses of Ocean Alkalinity Enhancement ([source](https://cdrxiv.org/preprint/517))
-- **2026-07-25** — news mention: Altitude Carbon: We're partnering with Equilibrium in India for 180.000t CDRs. Thanks to all our par ([source](https://www.linkedin.com/company/altitude-sustainable/#post-7f572fa1583f))
-- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available wi ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
-- **2026-07-19** — news mention: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: p ([source](https://doi.org/10.70212/cdrxiv.2026539.v1))
-- **2026-07-19** — news mention: Aqueous matrix and limiting factors in steel slag carbonation under elevated CO2 at ambient conditio ([source](https://doi.org/10.1038/s44296-026-00116-9))
-- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
-- **2026-06-05** — news mention: Equilibrium Secures Major Biochar Deal for Climate Action in India ([source](https://biochartoday.com/news/equilibrium-and-altitude-sign-multi-year-offtake-agreement-to-scale-biochar-carbon-removal-infrastructure-in-india/))
+- **2026-07-25** — news mention: Altitude Carbon: We're partnering with Equilibrium in India for 180.000t CDRs. Thanks to all our… ([source](https://www.linkedin.com/company/altitude-sustainable/#post-7f572fa1583f))
+- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available… ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
+- **2026-07-19** — news mention: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal… ([source](https://doi.org/10.70212/cdrxiv.2026539.v1))
 
 ---
 

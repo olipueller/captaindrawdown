@@ -33,11 +33,11 @@ Ulysses Ecosystem Engineering is a San Francisco-based marine robotics startup f
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.barrierreef.org/news/news/robot-a-new-era-in-seagrass-restoration))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.barrierreef.org/news/news/robot-a-new-era-in-seagrass-restoration))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://ulysses.eco/ ([source](https://www.cdr.fyi/supplier/ulysses-ecosystem-engineering))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/ulysses-ecosystem-engineering))
 

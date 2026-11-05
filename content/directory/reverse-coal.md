@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.reversecoal.co.uk/" target="_blank" rel="noopener">https://www.reversecoal.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lapwing-energy/" target="_blank" rel="noopener">lapwing-energy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,20 +31,20 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 ## History
 
 - **2026-10-22** — news mention: Reverse Coal - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/reverse-coal/))
-- **2026-09-15** — news mention: Reverse Coal: Great to speak to Farming Today about our Department for Environment, Food and Rural A ([source](https://www.linkedin.com/company/lapwing-energy/#post-262da0d55ffa))
+- **2026-09-15** — news mention: Reverse Coal: Great to speak to Farming Today about our Department for Environment, Food and Rural… ([source](https://www.linkedin.com/company/lapwing-energy/#post-262da0d55ffa))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-08** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! ð I am thrilled to announce that  ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-16b380f56c4f))
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
-- **2026-07-26** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! 🚀 I am thrilled to announce that our ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-69ceb9a9dc42))
+- **2026-09-08** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! ð I am thrilled to announce… ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-16b380f56c4f))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
+- **2026-07-26** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! I am thrilled to announce that… ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-69ceb9a9dc42))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.reversecoal.co.uk/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reversecoal.co.uk/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.reversecoal.co.uk/reverse-coal-phase-2-report-live/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.reversecoal.co.uk/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

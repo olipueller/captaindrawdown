@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.kairoscarbon.com/" target="_blank" rel="noopener">https://www.kairoscarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kairos-carbon/" target="_blank" rel="noopener">kairos-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,20 +32,20 @@ Kairos Carbon, founded in 2024 and headquartered in Ingatestone, United Kingdom,
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-08** — news mention: Kairos: Check out our lead process engineer Dr. Robbie Sait-Stewart 's latest research on biomass va ([source](https://www.linkedin.com/company/kairos-carbon/#post-96f0e8fd0a20))
-- **2026-07-25** — news mention: Kairos Carbon: We are very proud to announce Milkywire has completed Salesforce -backed pre-purchase ([source](https://www.linkedin.com/company/kairos-carbon/#post-474172222e8f))
-- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available wi ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
+- **2026-08-08** — news mention: Kairos: Check out our lead process engineer Dr. Robbie Sait-Stewart 's latest research on biomass… ([source](https://www.linkedin.com/company/kairos-carbon/#post-96f0e8fd0a20))
+- **2026-07-25** — news mention: Kairos Carbon: We are very proud to announce Milkywire has completed Salesforce -backed… ([source](https://www.linkedin.com/company/kairos-carbon/#post-474172222e8f))
+- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available… ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.kairoscarbon.com/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.kairoscarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Kairos Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://milkywire.com/articles/new-cdr-2025))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.zerocarbon.vc/post/breaking-the-cdr-energy-barrier-zcc-invests-in-kairos-carbon))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://milkywire.com/articles/new-cdr-2025))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.zerocarbon.vc/post/breaking-the-cdr-energy-barrier-zcc-invests-in-kairos-carbon))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Kairos Carbon (slug=kairos-carbon)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.kairoscarbon.com/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=review_needed liveliness=🟡 Moderate ([source](https://www.kairoscarbon.com/news))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.kairoscarbon.com/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=review_needed liveliness= Moderate ([source](https://www.kairoscarbon.com/news))
 - **2026-04-18** — discovered via: web_search_ai ([source](https://kairos.earth))
 
 ---

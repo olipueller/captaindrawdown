@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonfields.earth/" target="_blank" rel="noopener">https://www.carbonfields.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-fields/" target="_blank" rel="noopener">carbon-fields</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,22 +29,22 @@ Carbon Fields is a Madrid-based biochar company that transforms biomass waste in
 
 ## History
 
-- **2026-08-24** — news mention: CarbonFields: ➡️ Menorca acaba de anunciar un proyecto que, aunque no sea gigantesco, me parece bast ([source](https://www.linkedin.com/company/carbon-fields/#post-eec7b76068d3))
+- **2026-08-24** — news mention: CarbonFields: Menorca acaba de anunciar un proyecto que, aunque no sea gigantesco, me parece… ([source](https://www.linkedin.com/company/carbon-fields/#post-eec7b76068d3))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-26** — news mention: CarbonFields: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE Proj ([source](https://www.linkedin.com/company/carbon-fields/#post-b6a8f9aef9ca))
+- **2026-07-26** — news mention: CarbonFields: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE… ([source](https://www.linkedin.com/company/carbon-fields/#post-b6a8f9aef9ca))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonfields.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carbonfields.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Fields on Earth SL
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbonfields.earth/))
+- **2026-04-19** — liveliness: Moderate → Active
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbonfields.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.carbonfields.earth/ ([source](https://www.cdr.fyi/supplier/carbon-fields-on-earth))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-fields-on-earth))
 - **** — merged duplicate: Carbon Fields on Earth SL (slug=carbon-fields-on-earth-sl)
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonfields.earth/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonfields.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carbonfields.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.carbonfields.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -29,15 +29,15 @@ Arigna Fuels is a fifth-generation Irish family-run solid fuel manufacturer (par
 
 - **2026-09-15** — refresh: screenshot
 - **2026-05-22** — refresh: liveliness
-- **2026-05-22** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-05-22** — liveliness: Moderate → Suspect ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://arignafuels.ie/biochar/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://arignafuels.ie/biochar/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arigna-group.com/transitioning-from-black-to-green/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://arignafuels.ie/biochar/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://arigna-group.com/transitioning-from-black-to-green/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://arignafuels.ie/biochar/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

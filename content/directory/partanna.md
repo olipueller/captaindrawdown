@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://partanna.com/" target="_blank" rel="noopener">https://partanna.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/partannaglobal/" target="_blank" rel="noopener">partannaglobal</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -36,13 +36,13 @@ Partanna Global is a Bahamian advanced materials company co-founded by former NB
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://partanna.com/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://partanna.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://partanna.com/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://partanna.com/))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://partanna.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

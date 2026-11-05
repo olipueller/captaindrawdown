@@ -32,11 +32,11 @@ Jiaxing Tongao Environmental Technology is a Chinese biochar producer and contin
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/jiaxing-tongao-biochar-plant-157))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/jiaxing-tongao-biochar-plant-157))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.zjtongao.com/ ([source](https://www.cdr.fyi/supplier/jiaxing-tongao))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/jiaxing-tongao))
 

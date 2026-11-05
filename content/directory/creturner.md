@@ -17,7 +17,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://www.creturner.com" target="_blank" rel="noopener">https://www.creturner.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/creturner-group-ab/" target="_blank" rel="noopener">creturner-group-ab</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,10 +33,10 @@ Creturner Group AB is a publicly listed Swedish environmental technology group w
 
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.inderes.dk/en/releases/notice-of-annual-general-meeting-of-creturner-group-ab))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.inderes.dk/en/releases/notice-of-annual-general-meeting-of-creturner-group-ab))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://www.creturner.com/))
+- **2026-04-19** — liveliness: Suspect → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Suspect ([source](https://www.creturner.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.creturner.com ([source](https://www.cdr.fyi/supplier/creturner))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/creturner))
 

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbonaught.io/" target="_blank" rel="noopener">https://www.carbonaught.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaught-pty-ltd/" target="_blank" rel="noopener">carbonaught-pty-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,18 +30,18 @@ Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that a
 
 ## History
 
-- **2026-10-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
-- **2026-10-11** — news mention: Airhive: Read all about it! We're working with Australian Carbon Vault to develop a multi-purpose ca ([source](https://www.linkedin.com/company/carbonnet-limited/#post-0ce409cee57f))
+- **2026-10-15** — liveliness: Likely Dead → Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-10-11** — news mention: Airhive: Read all about it! We're working with Australian Carbon Vault to develop a multi-purpose… ([source](https://www.linkedin.com/company/carbonnet-limited/#post-0ce409cee57f))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.remineralize.org/2025/09/carbonaught-turning-quarry-waste-into-climate-solutions/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.remineralize.org/2025/09/carbonaught-turning-quarry-waste-into-climate-solutions/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

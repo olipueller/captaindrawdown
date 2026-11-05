@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://greensand.com/en" target="_blank" rel="noopener">https://greensand.com/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,36 +30,36 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
-- **2026-10-15** — news mention: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio co ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
-- **2026-10-09** — news mention: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO₂ til EU’s første fu ([source](https://www.linkedin.com/company/biocirc/#post-6bdbc48b01fb))
-- **2026-10-05** — news mention: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a biom ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
-- **2026-09-21** — news mention: Nordbex: I was genuinely moved when we arrived in Esbjerg and saw the CO₂ storage vessel Carbon Dest ([source](https://www.linkedin.com/company/nordbex/#post-1a908af128f3))
+- **2026-10-15** — news mention: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio… ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
+- **2026-10-09** — news mention: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO2 til EU’s første… ([source](https://www.linkedin.com/company/biocirc/#post-6bdbc48b01fb))
+- **2026-10-05** — news mention: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
+- **2026-09-21** — news mention: Nordbex: I was genuinely moved when we arrived in Esbjerg and saw the CO2 storage vessel Carbon… ([source](https://www.linkedin.com/company/nordbex/#post-1a908af128f3))
 - **2026-09-20** — news mention: CO2-Speicher in der Nordsee: Greensand startet ([source](https://www.cleanthinking.de/co2-speicher-nordsee-greensand))
-- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2 ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
-- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
-- **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
-- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
-- **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
-- **2026-09-05** — news mention: Airfix: 🏁 Switzerland's first commercial BECCS chain hits operation! 🇨🇭 Switzerland’s Climate and In ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
-- **2026-08-29** — news mention: Airfix: Ein entscheidender Meilenstein für unser BECCS-Projekt: Die gesamte Prozesskette funktionier ([source](https://www.linkedin.com/company/airfixcarbon/#post-56fde9ec2186))
-- **2026-08-29** — news mention: Airfix: Während sich die Schweiz weiterhin auf Effizienzsteigerung, den Ausbau erneuerbarer Energien ([source](https://www.linkedin.com/company/airfixcarbon/#post-f90888ae1bc6))
-- **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ¸det. Men hvordan gÃ¥r vi fra deb ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
+- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
+- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe !… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
+- **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ1⁄4r unser BECCS-Projekt: Die gesamte Prozesskette… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
+- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
+- **2026-09-05** — news mention: Regionalwerke AG Baden: Switzerland’s BECCS industry has officially gone commercial. Airfix… ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
+- **2026-09-05** — news mention: Airfix: Switzerland's first commercial BECCS chain hits operation! Switzerland’s Climate and… ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
+- **2026-08-29** — news mention: Airfix: Ein entscheidender Meilenstein für unser BECCS-Projekt: Die gesamte Prozesskette… ([source](https://www.linkedin.com/company/airfixcarbon/#post-56fde9ec2186))
+- **2026-08-29** — news mention: Airfix: Während sich die Schweiz weiterhin auf Effizienzsteigerung, den Ausbau erneuerbarer… ([source](https://www.linkedin.com/company/airfixcarbon/#post-f90888ae1bc6))
+- **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ ̧det. Men hvordan gÃ¥r vi fra… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO₂ storage in the North Sea – an important milestone f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
-- **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week talk ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
+- **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO2 storage in the North Sea – an important milestone… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
+- **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week… ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
 - **2026-08-05** — news mention: BioCirc Haderslev CCS K/S - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/biocirc-haderslev-ccs-k-s/))
-- **2026-07-30** — news mention: Bigadan A/S: FOLKEMØDE 🎧 Der blev talt meget om CCS på Folkemødet. Men hvordan går vi fra debat til  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-5e6933c5f13f))
-- **2026-07-24** — news mention: Airfix: Another step forward in cross-border BECCS 🌍 On Tuesday, Airfix visited the Greensand Future ([source](https://www.linkedin.com/company/airfixcarbon/#post-0f96af7d54c8))
-- **2026-07-23** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first COâ to INEOS' COâ storage faci ([source](https://www.linkedin.com/company/bigadan-a-s/#post-166a985df98e))
-- **2026-07-23** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÃG. HVAD HAR DET MED FOLKEMÃDET AT GÃRE? Det her  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ffb80e391913))
-- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
+- **2026-07-30** — news mention: Bigadan A/S: FOLKEMØDE Der blev talt meget om CCS på Folkemødet. Men hvordan går vi fra debat… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-5e6933c5f13f))
+- **2026-07-24** — news mention: Airfix: Another step forward in cross-border BECCS On Tuesday, Airfix visited the Greensand… ([source](https://www.linkedin.com/company/airfixcarbon/#post-0f96af7d54c8))
+- **2026-07-23** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first COâ to INEOS' COâ storage… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-166a985df98e))
+- **2026-07-23** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÃG. HVAD HAR DET MED FOLKEMÃDET AT GÃRE? Det… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ffb80e391913))
+- **2026-07-15** — liveliness: Suspect → Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-07-10** — news mention: Nuada deploys capture facility to advance Europe’s biogenic CO2 market | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/nuada-deploys-capture-facility-to-advance-europes-biogenic-co2-market/2254113.article/))
 - **2026-06-23** — news mention: First biogenic CO2 rolls out of Denmark biogas CCS facility | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/first-biogenic-co2-rolls-out-of-denmark-biogas-ccs-facility/2252852.article/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://greensand.com/en/blogs/news/greensand-japan))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://greensand.com/en/blogs/news/greensand-japan))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
 
 ---
 

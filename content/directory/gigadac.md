@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.gigadac.org/" target="_blank" rel="noopener">https://www.gigadac.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigadac/" target="_blank" rel="noopener">gigadac</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,24 +31,24 @@ GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based direct air capt
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-31** — news mention: GigaDAC/Victory Over Carbon: 700–1,000 tons of CO₂ removal per year, per system. Third-party modelin ([source](https://www.linkedin.com/company/gigadac/#post-7d69bb9e5d10))
+- **2026-09-15** — liveliness: Moderate → Active
+- **2026-08-31** — news mention: GigaDAC/Victory Over Carbon: 700–1,000 tons of CO2 removal per year, per system. Third-party… ([source](https://www.linkedin.com/company/gigadac/#post-7d69bb9e5d10))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
 - **2026-04-19** — merged 1 duplicate(s): GigaDAC/Victory Over Carbon
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://energycapitalhtx.com/gigadac-nsf-sbir-grant))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://energycapitalhtx.com/gigadac-nsf-sbir-grant))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: GigaDAC/Victory Over Carbon (slug=gigadacvictory-over-carbon)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.gigadac.org/ ([source](https://www.cdr.fyi/supplier/gigadac))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://greentownlabs.com/gigadac-successfully-operates-airflow-solution-for-direct-air-capture-geared-for-gigaton-scale/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/gigadac))
 
 ---

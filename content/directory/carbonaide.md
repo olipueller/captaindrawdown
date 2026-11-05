@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://carbonaide.com/" target="_blank" rel="noopener">https://carbonaide.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaide/" target="_blank" rel="noopener">carbonaide</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,15 +34,15 @@ Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-sit
 
 ## History
 
-- **2026-10-17** — news mention: Carbonaide: Vuonna 2027 kaikki Rakennusbetonin pihakivet ja harkot valmistetaan hyödyntäen Carbonaid ([source](https://www.linkedin.com/company/carbonaide/#post-3dac8ced84dd))
+- **2026-10-17** — news mention: Carbonaide: Vuonna 2027 kaikki Rakennusbetonin pihakivet ja harkot valmistetaan hyödyntäen… ([source](https://www.linkedin.com/company/carbonaide/#post-3dac8ced84dd))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-26** — news mention: Carbonway: [𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙦𝙪𝙚́ 𝙙𝙚 𝙥𝙧𝙚𝙨𝙨𝙚 𝙁𝙍] - 𝘾𝙖𝙧𝙗𝙤𝙣𝙖𝙞𝙙𝙚 𝙚𝙩 𝘾𝙖𝙧𝙗𝙤𝙣𝙬𝙖𝙮 𝙤𝙣𝙩 𝙘𝙤𝙣𝙘𝙡𝙪 𝙪𝙣 𝙥𝙖𝙧𝙩𝙚𝙣𝙖𝙧𝙞𝙖𝙩 𝙥𝙤𝙪𝙧 𝙙𝙚́𝙥𝙡 ([source](https://www.linkedin.com/company/carbonwayorg/#post-588f6dc5efd3))
+- **2026-07-26** — news mention: Carbonway: [Communiqué de presse FR] - Carbonaide et Carbonway ont conclu un partenariat pour… ([source](https://www.linkedin.com/company/carbonwayorg/#post-588f6dc5efd3))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/news-en/finnish-concrete-producer-lakka-adopts-carbonaides-technology/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbonaide.com/news-en/finnish-concrete-producer-lakka-adopts-carbonaides-technology/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://businessjoensuu.fi/en/news/carbonaide-raises-37-million-to-accelerate-international-growth-and-lead-the-decarbonisation-of-construction-industry))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://carbonaide.com/))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://businessjoensuu.fi/en/news/carbonaide-raises-37-million-to-accelerate-international-growth-and-lead-the-decarbonisation-of-construction-industry))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

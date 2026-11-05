@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.cloverly.com/" target="_blank" rel="noopener">https://www.cloverly.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cloverly/" target="_blank" rel="noopener">cloverly</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,15 +31,15 @@ Cloverly is an Atlanta-based carbon credit marketplace and software platform fou
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera P ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
-- **2026-07-22** — news mention: Cloverly: We are pleased to announce that the US SecondCrop™ Project has been assigned a Sylvera Pre ([source](https://www.linkedin.com/company/cloverly/#post-9bd8e7bd4c8e))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera… ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
+- **2026-07-22** — news mention: Cloverly: We are pleased to announce that the US SecondCropTM Project has been assigned a Sylvera… ([source](https://www.linkedin.com/company/cloverly/#post-9bd8e7bd4c8e))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://cloverly.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://cloverly.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.cloverly.com/ ([source](https://www.cdr.fyi/marketplace/cloverly))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cloverly))
 

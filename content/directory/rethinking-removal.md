@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://rethinkingremovals.org/" target="_blank" rel="noopener">https://rethinkingremovals.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rethinking-removals/" target="_blank" rel="noopener">rethinking-removals</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,22 +30,22 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 
 ## History
 
-- **2026-10-28** — news mention: Rethinking Removal: Where next for the ISO net zero standard?  The draft ISO 14060 standard failed i ([source](https://www.linkedin.com/company/rethinking-removals/#post-e0e361605761))
+- **2026-10-28** — news mention: Rethinking Removal: Where next for the ISO net zero standard? The draft ISO 14060 standard failed… ([source](https://www.linkedin.com/company/rethinking-removals/#post-e0e361605761))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-25** — news mention: Rethinking Removal: What a week for net zero standards. Theyâre like buses. You wait for years and ([source](https://www.linkedin.com/company/rethinking-removals/#post-8522c1eb1298))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-07-25** — news mention: Rethinking Removal: What a week for net zero standards. Theyâre like buses. You wait for years… ([source](https://www.linkedin.com/company/rethinking-removals/#post-8522c1eb1298))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Rethinking Removals
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://rethinkingremovals.org/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://rethinkingremovals.org/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/rethinking-removals))
 - **** — merged duplicate: Rethinking Removals (slug=rethinking-removals)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://rethinkingremovals.org/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://rethinkingremovals.org/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://rethinkingremovals.org/ ([source](https://www.cdr.fyi/marketplace/rethinking-removal))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/rethinking-removal))
 

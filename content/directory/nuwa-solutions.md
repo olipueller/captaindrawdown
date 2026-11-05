@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.nuwasolutions.org/" target="_blank" rel="noopener">https://www.nuwasolutions.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuwasolutions/" target="_blank" rel="noopener">nuwasolutions</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,14 +32,14 @@ NuWa Solutions was founded in 2025 and is headquartered in Dover, DE, with 1 tot
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.carbontosea.org/2026-hill-day/))
-- **2026-08-02** — news mention: NuWa Solutions: Thank you to the ocean community at large for standing up for the Ocean Observatorie ([source](https://www.linkedin.com/company/nuwasolutions/#post-717fea37ec08))
+- **2026-08-15** — liveliness: Moderate → Active ([source](https://www.carbontosea.org/2026-hill-day/))
+- **2026-08-02** — news mention: NuWa Solutions: Thank you to the ocean community at large for standing up for the Ocean… ([source](https://www.linkedin.com/company/nuwasolutions/#post-717fea37ec08))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.nuwasolutions.org/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://www.nuwasolutions.org/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.nuwasolutions.org/about))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.nuwasolutions.org/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://www.nuwasolutions.org/about))
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://www.nuwasolutions.org/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.tapovanam.earth/" target="_blank" rel="noopener">https://www.tapovanam.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/" target="_blank" rel="noopener">tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,22 +32,22 @@ Tapovanam is a Bangalore-based regenerative agriculture company founded in 2021,
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Tapovanam Biochar —a supplier transforming agricultural residues  ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-c210db083d07))
-- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Tapovanam Biochar —a supplier transforming agricultural… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-c210db083d07))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our India CDR Startup #Accelerator… ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://www.tapovanam.earth/))
+- **2026-05-01** — liveliness: Moderate → Active
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Moderate ([source](https://www.tapovanam.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Tapovanam
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tapovanam.earth/about))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tapovanam.earth/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.tapovanam.earth/about))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.tapovanam.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Tapovanam (slug=tapovanam)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tapovanam.earth/))
+- **2026-04-19** — liveliness: Moderate → Active
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.tapovanam.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.tapovanam.earth ([source](https://www.cdr.fyi/supplier/tapovanam-organic-farming-systems))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tapovanam-organic-farming-systems))
 

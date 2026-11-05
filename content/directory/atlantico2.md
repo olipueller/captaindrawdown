@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://atlantico2.com/" target="_blank" rel="noopener">https://atlantico2.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,17 +31,17 @@ AtlantiCO2 is a Brazilian carbon removal startup that has built in-house pyrolys
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-10** — news mention: AtlantiCO2: As we head into the year ahead, we're excited to expand the reach of our Charm Duo. We r ([source](https://www.linkedin.com/company/atlantico2/#post-110d190586ac))
-- **2026-08-03** — news mention: AtlantiCO2: Welcome Puro Supplier ATLANTICO2 AtlantiCO₂’s ProtoChar01 biochar facility has completed ([source](https://www.linkedin.com/company/atlantico2/#post-4409cbc2a1a8))
-- **2026-07-27** — news mention: AtlantiCO2: We are proud to share that our first facility, ProtoChar01, has been listed by Puro.eart ([source](https://www.linkedin.com/company/atlantico2/#post-338a79cd6daf))
-- **2026-07-27** — news mention: AtlantiCO2: We're excited to announce our partnership with Wild Assets . Over the past months, Matan ([source](https://www.linkedin.com/company/atlantico2/#post-2758dc342d38))
-- **2026-07-27** — news mention: AtlantiCO2: #CDR and #COFFEE in film 🎞️ This week I had the pleasure of accompanying our engineering ([source](https://www.linkedin.com/company/atlantico2/#post-ec0030b2c940))
-- **2026-07-27** — news mention: AtlantiCO2: Estamos muito animados com nossa expansão para Minas Gerais. Será nossa primeira planta  ([source](https://www.linkedin.com/company/atlantico2/#post-7944b1582af9))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-10** — news mention: AtlantiCO2: As we head into the year ahead, we're excited to expand the reach of our Charm Duo. We… ([source](https://www.linkedin.com/company/atlantico2/#post-110d190586ac))
+- **2026-08-03** — news mention: AtlantiCO2: Welcome Puro Supplier ATLANTICO2 AtlantiCO2’s ProtoChar01 biochar facility has… ([source](https://www.linkedin.com/company/atlantico2/#post-4409cbc2a1a8))
+- **2026-07-27** — news mention: AtlantiCO2: We are proud to share that our first facility, ProtoChar01, has been listed by… ([source](https://www.linkedin.com/company/atlantico2/#post-338a79cd6daf))
+- **2026-07-27** — news mention: AtlantiCO2: We're excited to announce our partnership with Wild Assets . Over the past months… ([source](https://www.linkedin.com/company/atlantico2/#post-2758dc342d38))
+- **2026-07-27** — news mention: AtlantiCO2: #CDR and #COFFEE in film This week I had the pleasure of accompanying our… ([source](https://www.linkedin.com/company/atlantico2/#post-ec0030b2c940))
+- **2026-07-27** — news mention: AtlantiCO2: Estamos muito animados com nossa expansão para Minas Gerais. Será nossa primeira… ([source](https://www.linkedin.com/company/atlantico2/#post-7944b1582af9))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.atlantico2.com/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.atlantico2.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.atlantico2.com/))
 - **2026-04-19** — discovered via: exa, cdrfyi ([source](https://atlantico2.com/))
 
 ---

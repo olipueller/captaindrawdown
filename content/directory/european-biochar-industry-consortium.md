@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.biochareurope.eu/" target="_blank" rel="noopener">https://www.biochareurope.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochareurope/" target="_blank" rel="noopener">biochareurope</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,16 +32,16 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-30** — news mention: CarStorCon: 🏗️ „Decarbonizing the Built Environment with Biochar: A Blueprint“ - das Whitepaper von  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-3c105b05636a))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt.  ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
-- **2026-07-23** — news mention: German Biochar Association: 📚 Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem Whitepaper ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-30** — news mention: CarStorCon: „Decarbonizing the Built Environment with Biochar: A Blueprint“ - das Whitepaper… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-3c105b05636a))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in… ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
+- **2026-07-23** — news mention: German Biochar Association: Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.biochareurope.eu/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness= Active ([source](https://www.biochareurope.eu/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.biochar-industry.com ([source](https://www.cdr.fyi/marketplace/european-biochar-industry-consortium))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/european-biochar-industry-consortium))
 

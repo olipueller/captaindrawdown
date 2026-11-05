@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://yamacarbon.com/" target="_blank" rel="noopener">https://yamacarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/yamacarbon/" target="_blank" rel="noopener">yamacarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,21 +34,21 @@ Paris-based Yama Carbon is developing a DAC system using an electrochemical appr
 
 ## History
 
-- **2026-10-26** — news mention: Yama: A photo in front of Salesforce Tower for a carbon removal deal backed by Salesforce! YAMA has  ([source](https://www.linkedin.com/company/yamacarbon/#post-1fcdfac4c30b))
-- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
-- **2026-09-20** — news mention: Yama: Yesterday, we won The Liveability Challenge 2026 Grand Prize of $1m + $100k CarbonFix grant 🏆  ([source](https://www.linkedin.com/company/yamacarbon/#post-1126c23caf3f))
+- **2026-10-26** — news mention: Yama: A photo in front of Salesforce Tower for a carbon removal deal backed by Salesforce! YAMA… ([source](https://www.linkedin.com/company/yamacarbon/#post-1fcdfac4c30b))
+- **2026-10-01** — news mention: Milkywire: Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes… ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-09-20** — news mention: Yama: Yesterday, we won The Liveability Challenge 2026 Grand Prize of $1m + $100k CarbonFix… ([source](https://www.linkedin.com/company/yamacarbon/#post-1126c23caf3f))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://yamacarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Yama Carbon
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://yamacarbon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/yama-carbon))
 - **** — merged duplicate: Yama Carbon (slug=yama-carbon)
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://yamacarbon.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://yamacarbon.com/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://yamacarbon.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

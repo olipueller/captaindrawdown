@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.banyucarbon.com/" target="_blank" rel="noopener">https://www.banyucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,19 +31,19 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 ## History
 
 - **2026-10-30** — news mention: Banyu Carbon direct-air-capture prototype trial at CSIRO In-Situ Laboratory — dac ([source](https://www.greatlakesadvocate.com.au/story/9378644/aussie-sun-meets-us-tech-in-carbon-capture-experiment))
-- **2026-10-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-10-15** — liveliness: Active → Likely Dead ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.banyucarbon.com/news/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.banyucarbon.com/news/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.banyucarbon.com/news/))
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.banyucarbon.com/news/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

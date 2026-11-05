@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.sizewellc.com/" target="_blank" rel="noopener">https://www.sizewellc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sizewellc/" target="_blank" rel="noopener">sizewellc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,14 +30,14 @@ Sizewell C is a 3.2 GW nuclear power station project in Suffolk being developed 
 
 ## History
 
-- **2026-09-23** — news mention: Sizewell C/EDF Energy: 🏗️ Up to 400 jobs are coming to Avonmouth as Sizewell C secures planning perm ([source](https://www.linkedin.com/company/sizewellc/#post-e9a5c4469598))
+- **2026-09-23** — news mention: Sizewell C/EDF Energy: Up to 400 jobs are coming to Avonmouth as Sizewell C secures planning… ([source](https://www.linkedin.com/company/sizewellc/#post-e9a5c4469598))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Moderate ([source](https://www.sizewellc.com/environment/net-zero/direct-air-capture/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

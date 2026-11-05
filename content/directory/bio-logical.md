@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.bio-logical.green/" target="_blank" rel="noopener">https://www.bio-logical.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-logical/" target="_blank" rel="noopener">bio-logical</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-03-21</small></td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-03-21)</small></td></tr>
 </table>
@@ -42,15 +42,15 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-08-15** — refresh: coresignal
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

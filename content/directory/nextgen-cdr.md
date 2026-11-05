@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://nextgencdr.com/" target="_blank" rel="noopener">https://nextgencdr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nextgencdr/" target="_blank" rel="noopener">nextgencdr</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,19 +32,17 @@ NextGen CDR is a buyers' club and advance-market-commitment facility jointly est
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-19** — news mention: Exomad Green: Agreement secured with Carbonfuture . When we partnered in mid-2023, Carbonfuture help ([source](https://www.linkedin.com/company/exomadgreen/#post-37e0b8c705a7))
-- **2026-08-21** — news mention: Corporate demand does not translate into project deployment automatically.
-
-Companies need credible  ([source](https://www.linkedin.com/feed/update/urn:li:share:7496158307972390912/))
-- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
+- **2026-09-19** — news mention: Exomad Green: Agreement secured with Carbonfuture . When we partnered in mid-2023, Carbonfuture… ([source](https://www.linkedin.com/company/exomadgreen/#post-37e0b8c705a7))
+- **2026-08-21** — news mention: Corporate demand does not translate into project deployment automatically. ([source](https://www.linkedin.com/feed/update/urn:li:share:7496158307972390912/))
+- **2026-07-15** — liveliness: Moderate → Active
+- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon… ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.nextgencdr.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.nextgencdr.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.nextgencdr.com/))
+- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.nextgencdr.com/))
 - **2026-04-18** — discovered via: exa ([source](https://nextgencdr.com/))
 
 ---

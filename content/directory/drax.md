@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.drax.com" target="_blank" rel="noopener">https://www.drax.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/drax-group/" target="_blank" rel="noopener">drax-group</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,36 +29,36 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 
 ## History
 
+- **2026-11-05** — news mention: Drax: Strategic partnership for GW-scale data centre. Drax, Brookfield , Radiant and Qai… ([source](https://www.linkedin.com/company/drax-group/#post-bdfe81454ac2))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-04** — news mention: The CCC is Coming for Your Holiday - by David Turver ([source](https://davidturver.substack.com/p/the-ccc-is-coming-for-your-holiday))
 - **2026-10-03** — news mention: BES electricity price uplift for load-following operation · Issue #107 · domwoolf/Biochar_AG ([source](https://github.com/domwoolf/Biochar_AG/issues/107))
 - **2026-10-01** — news mention: Drax provides update on biomass contracting for Drax Power Station | Biomass Magazine ([source](https://biomassmagazine.com/articles/drax-provides-update-on-biomass-contracting-for-drax-power-station))
-- **2026-09-27** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-c6acecf033ba))
-- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected t ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
-- **2026-09-23** — news mention: CDR is often linked to mitigation deterrence (MD): the risk that expected removals delay or replace  ([source](https://bsky.app/profile/etienneschneider.bsky.social/post/3mw6bfcxv6s22))
-- **2026-09-17** — news mention: Drax: Yorkshire power station operator to create dedicated solar and wind segment after Bluefield ac ([source](https://www.yorkshirepost.co.uk/business/drax-yorkshire-power-station-operator-to-create-dedicated-solar-and-wind-segment-after-bluefield-acquisition-9076203))
-- **2026-09-02** — news mention: Drax: We recently announced that we’d completed the acquisition of Bluefield Solar Income Fund (BSIF ([source](https://www.linkedin.com/company/drax-power/#post-5556db1a4be7))
-- **2026-08-31** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
+- **2026-09-27** — news mention: Drax/Elimini: The European Commission has finalized its Carbon Removal Certification Framework… ([source](https://www.linkedin.com/company/elimini/#post-c6acecf033ba))
+- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected… ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
+- **2026-09-23** — news mention: CDR is often linked to mitigation deterrence (MD): the risk that expected removals delay or… ([source](https://bsky.app/profile/etienneschneider.bsky.social/post/3mw6bfcxv6s22))
+- **2026-09-17** — news mention: Drax: Yorkshire power station operator to create dedicated solar and wind segment after Bluefield… ([source](https://www.yorkshirepost.co.uk/business/drax-yorkshire-power-station-operator-to-create-dedicated-solar-and-wind-segment-after-bluefield-acquisition-9076203))
+- **2026-09-02** — news mention: Drax: We recently announced that we’d completed the acquisition of Bluefield Solar Income Fund… ([source](https://www.linkedin.com/company/drax-power/#post-5556db1a4be7))
+- **2026-08-31** — news mention: Biofine: Biofine Developments NE is excited to announce that it has entered into a collaboration… ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
 - **2026-08-24** — news mention: Drax Power Station - Wikipedia ([source](https://en.wikipedia.org/wiki/Drax_Power_Station))
 - **2026-08-20** — news mention: European Commission approves Dutch state aid to support SAF | Biomass Magazine ([source](https://biomassmagazine.com/articles/european-commission-approves-dutch-state-aid-to-support-saf))
-- **2026-08-11** — news mention: Drax: Today marks a significant milestone in Drax's growth journey as we complete the acquisition of ([source](https://www.linkedin.com/company/drax-power/#post-70760b4e4e72))
-- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
-- **2026-08-07** — news mention: Additional carbon drawdown potential by increasing Soil Organic Carbon appears to be significantly h ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msipznycrk2o))
+- **2026-08-11** — news mention: Drax: Today marks a significant milestone in Drax's growth journey as we complete the acquisition… ([source](https://www.linkedin.com/company/drax-power/#post-70760b4e4e72))
+- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
+- **2026-08-07** — news mention: Additional carbon drawdown potential by increasing Soil Organic Carbon appears to be significantly… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msipznycrk2o))
 - **2026-08-07** — news mention: Drax Secures Environment Agency Permit Variation For Selby Carbon Capture Project ([source](https://carbonherald.com/drax-secures-environment-agency-permit-variation-for-selby-carbon-capture-project/?utm_source=rss&utm_medium=rss&utm_campaign=drax-secures-environment-agency-permit-variation-for-selby-carbon-capture-project))
-- **2026-07-26** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
-- **2026-07-24** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-64c2e8099d10))
+- **2026-07-26** — news mention: Biofine: Biofine Developments NE is excited to announce that it has entered into a collaboration… ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
+- **2026-07-24** — news mention: Drax/Elimini: The European Commission has finalized its Carbon Removal Certification Framework… ([source](https://www.linkedin.com/company/elimini/#post-64c2e8099d10))
 - **2026-07-04** — news mention: Drax Group plc outlines its role in the energy transition as investors track long-term strategy ([source](https://www.ad-hoc-news.de/boerse/news/ueberblick/drax-group-plc-outlines-its-role-in-the-energy-transition-as-investors/69681472))
 - **2026-06-07** — news mention: Miliband’s Clean Power 2030 Plan Off the Rails ([source](https://davidturver.substack.com/p/miliband-clean-power-2030-plan-off-the-rails))
 - **2026-06-05** — news mention: UK agency backs permit change for Drax carbon capture project - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/uk-agency-backs-permit-change-for-drax-carbon-capture-project/))
 - **2026-06-04** — news mention: UK Environment Agency supports Drax carbon capture permit approval ([source](https://www.gasworld.com/story/uk-environment-agency-supports-drax-carbon-capture-permit-approval/2250986.article/))
 - **2026-05-23** — news mention: Bioénergie avec captage et stockage de dioxyde de carbone — Wikipédia ([source](https://fr.wikipedia.org/wiki/Bio%C3%A9nergie_avec_captage_et_stockage_de_dioxyde_de_carbone))
 - **2026-05-15** — news mention: How biomass delivers system stability in an uncertain energy landscape - Drax Global ([source](https://www.drax.com/opinion/how-biomass-delivers-system-stability-in-an-uncertain-energy-landscape/))
-- **2026-05-07** — news mention: Drax Group Trading Update Highlights Strong Visibility And Strategic Flexibility, Says Longspur Rese ([source](https://www.directorstalkinterviews.com/drax-group-trading-update-highlights-strong-visibility-and-strategic-flexibility-says-longspur-research/4121250700))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-07** — news mention: Drax Group Trading Update Highlights Strong Visibility And Strategic Flexibility, Says Longspur… ([source](https://www.directorstalkinterviews.com/drax-group-trading-update-highlights-strong-visibility-and-strategic-flexibility-says-longspur-research/4121250700))
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 
 ---
 

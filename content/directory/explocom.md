@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://gekka.bio/" target="_blank" rel="noopener">https://gekka.bio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biogekka/" target="_blank" rel="noopener">biogekka</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -35,21 +35,21 @@ Explocom GK SRL, operating under the GEKKA brand, is a Romanian biochar and wood
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://gekka.bio/en/))
 - **2026-04-19** — merged 1 duplicate(s): Gekka Biochar
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/about-us/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://gekka.bio/en/about-us/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.bio-gekka.ro/ ([source](https://www.cdr.fyi/supplier/gekka-biochar))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://gekka.bio/en/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://gekka.bio/en/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/gekka-biochar))
 - **** — merged duplicate: Gekka Biochar (slug=gekka-biochar)
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://gekka.bio/en/about-us/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://gekka.bio/en/about-us/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbuni.ro/despre-noi/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/explocom-1-lupeni))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.trustpilot.com/review/gekka.bio))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbuni.ro/despre-noi/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/explocom-1-lupeni))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

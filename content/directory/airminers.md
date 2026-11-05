@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://airminers.com/" target="_blank" rel="noopener">https://airminers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airminers/" target="_blank" rel="noopener">airminers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,18 +30,18 @@ AirMiners is a community, education, and accelerator organization for the carbon
 
 ## History
 
-- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-09-05** — news mention: AirMiners: How can a standardized purchase contract unlock carbon removal? Join us on Thursday March ([source](https://www.linkedin.com/company/airminers/#post-9a00464d888e))
+- **2026-09-15** — liveliness: Moderate → Active
+- **2026-09-05** — news mention: AirMiners: How can a standardized purchase contract unlock carbon removal? Join us on Thursday… ([source](https://www.linkedin.com/company/airminers/#post-9a00464d888e))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
+- **2026-08-15** — liveliness: Active → Moderate
+- **2026-05-11** — liveliness: Moderate → Active
+- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
 - **2026-05-06** — news mention: Take: AirMiners: What ([source](https://captaindrawdown.com/posts/yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gewnepys/))
-- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
+- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age. Deal sizes are climbing into… ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://airminers.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://airminers.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://airminers.org ([source](https://www.cdr.fyi/marketplace/airminers))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/airminers))
 

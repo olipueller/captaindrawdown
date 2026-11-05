@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://pyro-power.com/" target="_blank" rel="noopener">https://pyro-power.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyropowergmbh/" target="_blank" rel="noopener">pyropowergmbh</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,14 +31,14 @@ pyropower GmbH is a German cleantech company based in Cottbus, Lusatia, founded 
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-07-24** — news mention: pyropower: Die EU hat den ersten staatlich gestützten Standard für permanente CO₂-Entnahme in Kraft  ([source](https://www.linkedin.com/company/pyropowersystems/#post-e42e1d5d1d91))
+- **2026-07-24** — news mention: pyropower: Die EU hat den ersten staatlich gestützten Standard für permanente CO2-Entnahme in… ([source](https://www.linkedin.com/company/pyropowersystems/#post-e42e1d5d1d91))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://pyro-power.com/en/welcome-to-pyro-power/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

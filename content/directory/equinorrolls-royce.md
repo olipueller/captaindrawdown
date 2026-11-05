@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.equinor.com/" target="_blank" rel="noopener">https://www.equinor.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,17 +31,17 @@ Equinor is a Norwegian state-majority-owned international energy major (oil, gas
 
 ## History
 
-- **2026-09-01** — news mention: Equinor/Rolls Royce: More gas for Troll A and Kollsnes Thirty years after the Troll A platform first ([source](https://www.linkedin.com/company/equinor/#post-1a19db08e55e))
+- **2026-09-01** — news mention: Equinor/Rolls Royce: More gas for Troll A and Kollsnes Thirty years after the Troll A platform… ([source](https://www.linkedin.com/company/equinor/#post-1a19db08e55e))
 - **2026-08-15** — refresh: coresignal
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.equinor.com/energy/direct-air-capture))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://assets.publishing.service.gov.uk/media/695cf2d4f41883f4e50ed996/Equinor_ENCORE_GGR_Phase_2_Report_for_publication.pdf))
+- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.equinor.com/energy/direct-air-capture))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

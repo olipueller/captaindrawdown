@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://storegga.earth/" target="_blank" rel="noopener">https://storegga.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/storegga/" target="_blank" rel="noopener">storegga</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,24 +32,24 @@ Storegga (holding company of Pale Blue Dot Energy) is a UK-based independent dev
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
-- **2026-07-22** — news mention: Storegga/Pale Blue Dot Energy: 📍 Today, we welcomed Chancellor of the Exchequer, Rt Hon Rachel Reeve ([source](https://www.linkedin.com/company/storegga-geotechnologies/#post-acb6b9fc0770))
-- **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
+- **2026-07-22** — news mention: Storegga/Pale Blue Dot Energy: Today, we welcomed Chancellor of the Exchequer, Rt Hon Rachel… ([source](https://www.linkedin.com/company/storegga-geotechnologies/#post-acb6b9fc0770))
+- **2026-07-15** — liveliness: Suspect → Likely Dead ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://carbonherald.com/storegga-to-pull-out-of-acorn-carbon-capture-project/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://carbonherald.com/storegga-to-pull-out-of-acorn-carbon-capture-project/))
 - **2026-04-19** — merged 1 duplicate(s): Storegga
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://storegga.earth/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://storegga.earth/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.storegga.earth/ ([source](https://www.cdr.fyi/supplier/storegga))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/storegga))
 - **** — merged duplicate: Storegga (slug=storegga)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.energyvoice.com/renewables-energy-transition/ccs/uk-ccs/586271/acorn-carbon-capture-project-at-risk-as-storegga-pulls-out/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://storegga.earth/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://www.energyvoice.com/renewables-energy-transition/ccs/uk-ccs/586271/acorn-carbon-capture-project-at-risk-as-storegga-pulls-out/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://storegga.earth/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

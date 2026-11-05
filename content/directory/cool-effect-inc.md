@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.cooleffect.org/" target="_blank" rel="noopener">https://www.cooleffect.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cool-effect-carbon-offset/" target="_blank" rel="noopener">cool-effect-carbon-offset</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,18 +31,18 @@ Cool Effect is a US-based 501(c)(3) nonprofit carbon credit marketplace headquar
 
 ## History
 
-- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in t ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
+- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in… ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-12** — news mention: Cool Effect Inc: Iâm thrilled to share that Google has signed its largest superpollutant deal to d ([source](https://www.linkedin.com/company/cool-effect/#post-421f9093e2fc))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-07** — news mention: Cool Effect Inc: We have closed our Series A: $9.5M, led by Aramco Ventures — their first investment ([source](https://www.linkedin.com/company/cool-effect/#post-24217cd36188))
-- **2026-07-24** — news mention: Cool Effect Inc: I posted about Google’s rising emissions earlier this week. Despite the Good and th ([source](https://www.linkedin.com/company/cool-effect/#post-867d4b48070e))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-12** — news mention: Cool Effect Inc: Iâm thrilled to share that Google has signed its largest superpollutant deal to… ([source](https://www.linkedin.com/company/cool-effect/#post-421f9093e2fc))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-07** — news mention: Cool Effect Inc: We have closed our Series A: $9.5M, led by Aramco Ventures — their first… ([source](https://www.linkedin.com/company/cool-effect/#post-24217cd36188))
+- **2026-07-24** — news mention: Cool Effect Inc: I posted about Google’s rising emissions earlier this week. Despite the Good and… ([source](https://www.linkedin.com/company/cool-effect/#post-867d4b48070e))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cooleffect.org/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.cooleffect.org/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cool-effect-inc))
 
 ---

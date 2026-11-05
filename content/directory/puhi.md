@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.puhi.fi/" target="_blank" rel="noopener">https://www.puhi.fi/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puhi/" target="_blank" rel="noopener">puhi</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,25 +29,25 @@ PUHI is a Finland-based biochar and carbon removal company operating its first p
 
 ## History
 
-- **2026-10-12** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-ead518b181d8))
+- **2026-10-12** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report… ([source](https://www.linkedin.com/company/puhi/#post-ead518b181d8))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-07** — news mention: Viochar: We are launching a new pyrolysis reactor. Say hi to the PBR-1400! We're currently putting t ([source](https://www.linkedin.com/company/viochar/#post-60ecba5e17e6))
-- **2026-09-06** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-47db7d12d9b9))
-- **2026-08-15** — news mention: PUHI: 👀 ETS Proposal: Are these realistic CDR costs? 👀 🤷♂️ Here we go again: wild CDR costs in an of ([source](https://www.linkedin.com/company/puhi/#post-4dc7a9a0528e))
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
-- **2026-08-01** — news mention: PUHI: The 5th European Biochar Market Report is out â and as its lead-author, here's the message I ([source](https://www.linkedin.com/company/puhi/#post-5e0f2e19c300))
-- **2026-08-01** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-21a5adaf83e4))
-- **2026-08-01** — news mention: PUHI: ð ETS Proposal: Are these realistic CDR costs? ð ð¤·âï¸ Here we go again: wild CDR c ([source](https://www.linkedin.com/company/puhi/#post-3b462d61af20))
-- **2026-07-24** — news mention: PUHI: The 5th European Biochar Market Report is out – and as its lead-author, here's the message I'd ([source](https://www.linkedin.com/company/puhi/#post-cd544da4ae45))
+- **2026-09-07** — news mention: Viochar: We are launching a new pyrolysis reactor. Say hi to the PBR-1400! We're currently putting… ([source](https://www.linkedin.com/company/viochar/#post-60ecba5e17e6))
+- **2026-09-06** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report… ([source](https://www.linkedin.com/company/puhi/#post-47db7d12d9b9))
+- **2026-08-15** — news mention: PUHI: ETS Proposal: Are these realistic CDR costs? Here we go again: wild CDR costs in an… ([source](https://www.linkedin.com/company/puhi/#post-4dc7a9a0528e))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
+- **2026-08-01** — news mention: PUHI: The 5th European Biochar Market Report is out â and as its lead-author, here's the message… ([source](https://www.linkedin.com/company/puhi/#post-5e0f2e19c300))
+- **2026-08-01** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report… ([source](https://www.linkedin.com/company/puhi/#post-21a5adaf83e4))
+- **2026-08-01** — news mention: PUHI: ð ETS Proposal: Are these realistic CDR costs? ð ð¤·âï ̧ Here we go again: wild CDR… ([source](https://www.linkedin.com/company/puhi/#post-3b462d61af20))
+- **2026-07-24** — news mention: PUHI: The 5th European Biochar Market Report is out – and as its lead-author, here's the message… ([source](https://www.linkedin.com/company/puhi/#post-cd544da4ae45))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.puhi.fi/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.puhi.fi/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.puhi.fi/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.puhi.fi/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.puhi.fi/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.puhi.fi/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.puhi.fi/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.puhi.fi/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

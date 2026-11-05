@@ -31,13 +31,13 @@ Carbon 1.5 is a France-based direct air capture startup said to be developing so
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbon15.eu/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon15.eu/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon15.eu/))
+- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](https://www.carbon15.eu/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.carbon15.eu/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Moderate ([source](https://www.carbon15.eu/))
 - **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbon15.eu/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.carbon15.eu/))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟠 Suspect ([source](https://www.carbon15.eu/))
+- **2026-04-19** — liveliness: Suspect → Likely Dead ([source](https://www.carbon15.eu/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://www.carbon15.eu/))
+- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness= Suspect ([source](https://www.carbon15.eu/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.motehydrogen.com/" target="_blank" rel="noopener">https://www.motehydrogen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/motehydrogen/" target="_blank" rel="noopener">motehydrogen</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -36,10 +36,10 @@ Mote is a Los Angeles-based BECCS/BiCRS startup spun out of Lawrence Livermore N
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.motehydrogen.com/news/mote-kicks-off-second-biomass-to-hydrogen-project-in-northern-california))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.motehydrogen.com/news/mote-kicks-off-second-biomass-to-hydrogen-project-in-northern-california))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.businesswire.com/news/home/20250304282371/en/Mote-Secures-$7-Million-Funding-in-First-Close-of-Series-A-Round-to-Advance-Companys-Carbon-Negative-Biomass-to-Energy-Technology))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

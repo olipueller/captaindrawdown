@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://marinix.org/" target="_blank" rel="noopener">https://marinix.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gea-carbon-capture/" target="_blank" rel="noopener">gea-carbon-capture</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,16 +31,16 @@ MARINIX Ocean Tech AS is a Norwegian early-stage ocean CDR startup developing te
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The slug "gea-carbon-capture" belongs to GEA Group, a Düsseldorf-based industrial technology company doing amine-based CO2 capture for cement/steel/chemicals. MARINIX Ocean Tech AS is an unrelated Nor
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: The slug "gea-carbon-capture" belongs to GEA Group, a Düsseldorf-based industrial…
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
+- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Moderate ([source](https://marinix.org/wp-content/uploads/2025/02/TWP2025.pdf))
 - **2026-04-18** — discovered via: exa ([source](https://marinix.org/))
 
 ---

@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.leilac.com/" target="_blank" rel="noopener">https://www.leilac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/leilac/" target="_blank" rel="noopener">leilac</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,24 +31,24 @@ Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indir
 
 ## History
 
-- **2026-10-18** — news mention: Leilac/Calix: 📣 A major step forward for low-carbon cement production.   Leilac and Adani Cement 's  ([source](https://www.linkedin.com/company/leilac/#post-4449b24d8f12))
+- **2026-10-18** — news mention: Leilac/Calix: A major step forward for low-carbon cement production. Leilac and Adani Cement… ([source](https://www.linkedin.com/company/leilac/#post-4449b24d8f12))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-29** — news mention: Leilac/Calix: Another step towards commercial deployment. #Leilac has signed a paid engineering stud ([source](https://www.linkedin.com/company/leilac/#post-9d76a8670eab))
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.calix.com/careers.html))
-- **2026-08-14** — news mention: Leilac/Calix: ð£ A major step forward for low-carbon cement production.   Leilac and Adani Cement  ([source](https://www.linkedin.com/company/leilac/#post-001b4aee8193))
-- **2026-08-07** — news mention: Leilac/Calix: From cement in Asia to lithium in the Pilbara, the #Calix technology is moving from de ([source](https://www.linkedin.com/company/leilac/#post-1c927b905b12))
-- **2026-07-24** — news mention: Leilac/Calix: 📣 A major step forward for low-carbon cement production.   Leilac and Adani Cement 's  ([source](https://www.linkedin.com/company/leilac/#post-a20ba15e3da1))
-- **2026-07-24** — news mention: Leilac/Calix: Another step towards commercial deployment. #Leilac has signed a paid engineering stud ([source](https://www.linkedin.com/company/leilac/#post-36859d920839))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.calix.com/careers.html))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.calix.com/careers.html))
+- **2026-08-29** — news mention: Leilac/Calix: Another step towards commercial deployment. #Leilac has signed a paid engineering… ([source](https://www.linkedin.com/company/leilac/#post-9d76a8670eab))
+- **2026-08-15** — liveliness: Moderate → Active ([source](https://www.calix.com/careers.html))
+- **2026-08-14** — news mention: Leilac/Calix: ð£ A major step forward for low-carbon cement production. Leilac and Adani… ([source](https://www.linkedin.com/company/leilac/#post-001b4aee8193))
+- **2026-08-07** — news mention: Leilac/Calix: From cement in Asia to lithium in the Pilbara, the #Calix technology is moving from… ([source](https://www.linkedin.com/company/leilac/#post-1c927b905b12))
+- **2026-07-24** — news mention: Leilac/Calix: A major step forward for low-carbon cement production. Leilac and Adani Cement… ([source](https://www.linkedin.com/company/leilac/#post-a20ba15e3da1))
+- **2026-07-24** — news mention: Leilac/Calix: Another step towards commercial deployment. #Leilac has signed a paid engineering… ([source](https://www.linkedin.com/company/leilac/#post-36859d920839))
+- **2026-06-15** — liveliness: Active → Moderate ([source](https://www.calix.com/careers.html))
+- **2026-05-01** — liveliness: Moderate → Active ([source](https://www.calix.com/careers.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.calix.com/careers.html))
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.leilac.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.calix.com/careers.html))
+- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness= Active ([source](https://www.leilac.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.calix.com/careers.html))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.leilac.com/))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.leilac.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.calix.com/careers.html))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.leilac.com/))
+- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.leilac.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

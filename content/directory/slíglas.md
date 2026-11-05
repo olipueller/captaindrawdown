@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://sliglas.com/" target="_blank" rel="noopener">https://sliglas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sliglas/" target="_blank" rel="noopener">sliglas</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,22 +29,22 @@ Slíglas is an Irish biochar startup based in Sligo, founded in 2024 by Paul McG
 
 ## History
 
-- **2026-10-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://irishtechnews.ie/regional-winners-intertradeirelands-seedcorn/))
-- **2026-09-23** — news mention: Slíglas: 👷♂️ A busy summer at Slíglas validating our technological approach with our second generati ([source](https://www.linkedin.com/company/sliglas/#post-fb2e16d1e9a1))
+- **2026-10-15** — liveliness: Suspect → Active ([source](https://irishtechnews.ie/regional-winners-intertradeirelands-seedcorn/))
+- **2026-09-23** — news mention: Slíglas: A busy summer at Slíglas validating our technological approach with our second… ([source](https://www.linkedin.com/company/sliglas/#post-fb2e16d1e9a1))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://irishtechnews.ie/regional-winners-intertradeirelands-seedcorn/))
+- **2026-09-15** — liveliness: Active → Suspect ([source](https://irishtechnews.ie/regional-winners-intertradeirelands-seedcorn/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sliglas.com/))
 - **2026-04-19** — merged 1 duplicate(s): Slíglas Limited
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sliglas.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://sliglas.com/ ([source](https://www.cdr.fyi/supplier/sliglas-limited))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/sliglas-limited))
 - **** — merged duplicate: Slíglas Limited (slug=slíglas-limited)
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://sliglas.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sliglas.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://sliglas.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

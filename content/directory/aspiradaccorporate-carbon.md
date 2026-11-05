@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.aspiradac.com/" target="_blank" rel="noopener">https://www.aspiradac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiradac/" target="_blank" rel="noopener">aspiradac</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,21 +30,21 @@ AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Aust
 
 ## History
 
-- **2026-10-08** — news mention: AspiraDAC/Corporate Carbon: Savanna fire management is going global. In less than a year, four major ([source](https://www.linkedin.com/company/aspiradac/#post-ca7ec40215d1))
-- **2026-08-24** — news mention: AspiraDAC/Corporate Carbon: An Australian-pioneered approach to savanna fire management is gaining g ([source](https://www.linkedin.com/company/aspiradac/#post-2dddd0fa7b65))
+- **2026-10-08** — news mention: AspiraDAC/Corporate Carbon: Savanna fire management is going global. In less than a year, four… ([source](https://www.linkedin.com/company/aspiradac/#post-ca7ec40215d1))
+- **2026-08-24** — news mention: AspiraDAC/Corporate Carbon: An Australian-pioneered approach to savanna fire management is gaining… ([source](https://www.linkedin.com/company/aspiradac/#post-2dddd0fa7b65))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.aspiradac.com/news))
 - **2026-04-19** — merged 1 duplicate(s): AspiraDAC
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.aspiradac.com/news))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.aspiradac.com/ ([source](https://www.cdr.fyi/supplier/aspiradac))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aspiradac))
 - **** — merged duplicate: AspiraDAC (slug=aspiradac)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.aspiradac.com/news))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://www.aspiradac.com/news))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

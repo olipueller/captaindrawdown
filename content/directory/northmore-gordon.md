@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://northmoregordon.com/" target="_blank" rel="noopener">https://northmoregordon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northmore-gordon-pty-ltd/" target="_blank" rel="noopener">northmore-gordon-pty-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,10 +31,10 @@ Northmore Gordon is an Australian energy and carbon advisory consultancy (founde
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-09-12** — news mention: Northmore Gordon: CCMAP REPORTING FOR NSW SITES IS COMING SOON New Mandatory Climate Change Mitigati ([source](https://www.linkedin.com/company/northmore-gordon-pty-ltd/#post-126fdfe1fa84))
+- **2026-09-12** — news mention: Northmore Gordon: CCMAP REPORTING FOR NSW SITES IS COMING SOON New Mandatory Climate Change… ([source](https://www.linkedin.com/company/northmore-gordon-pty-ltd/#post-126fdfe1fa84))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://northmoregordon.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://northmoregordon.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/northmore-gordon))
 
 ---

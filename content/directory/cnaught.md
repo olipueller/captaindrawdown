@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.cnaught.com/" target="_blank" rel="noopener">https://www.cnaught.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cnaught/" target="_blank" rel="noopener">cnaught</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,11 +31,11 @@ CNaught is a US-based carbon credit marketplace and portfolio provider that cura
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-22** — news mention: Cnaught: In May we estimated that AI coding agents emit about 250,000 tonnes of CO₂e a year. We’re n ([source](https://www.linkedin.com/company/cnaught/#post-837f490a7838))
-- **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
+- **2026-08-22** — news mention: Cnaught: In May we estimated that AI coding agents emit about 250,000 tonnes of CO2e a year. We’re… ([source](https://www.linkedin.com/company/cnaught/#post-837f490a7838))
+- **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. Bain… ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cnaught.com/))
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://www.cnaught.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.cnaught.com/ ([source](https://www.cdr.fyi/marketplace/cnaught))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cnaught))
 

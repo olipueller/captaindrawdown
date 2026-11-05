@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.pacificbiochar.com" target="_blank" rel="noopener">https://www.pacificbiochar.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2025-12-16</small></td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-12-16)</small></td></tr>
 </table>
@@ -43,32 +43,33 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-11** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
-- **2026-10-05** — news mention: I learned by talking with my Republican family members this past weekend that this lie is working on ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx5dzbon6c2u))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-11-05** — news mention: HSC Biochar Carbon Removal — biochar ([source](https://www.icvcm.org/case_study/using-biochar-to-improve-soils-and-remove-carbon-in-california))
+- **2026-10-11** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and… ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
+- **2026-10-05** — news mention: I learned by talking with my Republican family members this past weekend that this lie is working… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx5dzbon6c2u))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, featu ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
-- **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, fea ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
-- **2026-07-31** — news mention: Pacific Biochar: Isometric has issued Pacific Biochar âs first verified carbon removal credits und ([source](https://www.linkedin.com/company/pacific-biochar/#post-dad9639dd5ad))
-- **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
-- **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020, an ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
-- **2026-07-24** — news mention: Pacific Biochar/Wren: Isometric has issued Pacific Biochar ’s first verified carbon removal credits  ([source](https://www.linkedin.com/company/pacific-biochar/#post-8f5379d4865f))
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
+- **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio… ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
+- **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio… ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
+- **2026-07-31** — news mention: Pacific Biochar: Isometric has issued Pacific Biochar âs first verified carbon removal credits… ([source](https://www.linkedin.com/company/pacific-biochar/#post-dad9639dd5ad))
+- **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and… ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
+- **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020… ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
+- **2026-07-24** — news mention: Pacific Biochar/Wren: Isometric has issued Pacific Biochar ’s first verified carbon removal… ([source](https://www.linkedin.com/company/pacific-biochar/#post-8f5379d4865f))
+- **2026-05-11** — liveliness: Moderate → Active ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-19** — merged 1 duplicate(s): Pacific Biochar/Wren
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/how-we-produce-biochar/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://pacificbiochar.com/how-we-produce-biochar/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Pacific Biochar/Wren (slug=pacific-biocharwren)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://pacificbiochar.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://isometric.com/writing-articles/first-credits-issued-to-pacific-biochar-under-isometrics-biochar-protocol))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://pacificbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

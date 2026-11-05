@@ -33,11 +33,11 @@ Cambridge Carbon Capture Ltd was a UK startup developing the CO2LOC process, a t
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🔴 Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
+- **2026-05-01** — liveliness: Likely Dead → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🔴 Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
+- **2026-04-19** — liveliness: Likely Dead → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Likely Dead ([source](https://www.thegazette.co.uk/notice/4900649/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.co2loc.com/ ([source](https://www.cdr.fyi/supplier/cambridge-carbon-capture))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/cambridge-carbon-capture))
 

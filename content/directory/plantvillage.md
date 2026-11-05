@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://plantvillageplus.coop/" target="_blank" rel="noopener">https://plantvillageplus.coop/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon4good.net/" target="_blank" rel="noopener">carbon4good.net</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,14 +33,14 @@ PlantVillage+ is a worker-owned cooperative spun out of Penn State's PlantVillag
 
 - **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carbon4Good and PlantVillage+ share a founder (David Hughes) and Penn State origins, but PlantVillage+'s own website lists Carbon4Good as a separate third-party customer of their software ("companies 
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://plantvillageplus.coop/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carbon4Good and PlantVillage+ share a founder (David Hughes) and Penn State origins…
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://plantvillageplus.coop/))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://plantvillageplus.coop/carbon/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://plantvillageplus.coop/carbon/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://plantvillageplus.coop/ ([source](https://www.cdr.fyi/supplier/plantvillageplus))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/plantvillage))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/plantvillageplus))

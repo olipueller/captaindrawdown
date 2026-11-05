@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.locoal.com/" target="_blank" rel="noopener">https://www.locoal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/locoal/" target="_blank" rel="noopener">locoal</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,18 +31,18 @@ LOCOAL is a Texas-based waste-to-energy climate-tech company running a biochar p
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.locoal.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.locoal.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.locoal.com/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.locoal.com/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.locoal.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

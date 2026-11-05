@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://planboo.eco/" target="_blank" rel="noopener">https://planboo.eco/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planboo/" target="_blank" rel="noopener">planboo</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-01-29</small></td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-01-29)</small></td></tr>
 </table>
@@ -41,26 +41,26 @@ Independently verified by carbon-credit registries:
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
-- **2026-10-02** — news mention: Planboo: Nara Climate’s Community Biochar Project has been assigned a Sylvera A Rating, as of 09/09/ ([source](https://www.linkedin.com/company/planboo/#post-1ce2eb482d98))
-- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
-- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
-- **2026-08-28** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-881c328254ba))
-- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So when ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
-- **2026-08-20** — news mention: Planboo: A year into the programme, here's a video showing how Africa's drylands can be restored whi ([source](https://www.linkedin.com/company/planboo/#post-4edbf2bcd1c9))
-- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by Sylver ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
-- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
-- **2026-08-13** — news mention: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now publis ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
-- **2026-08-13** — news mention: Planboo: New Milestone alert! 🚀 We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's 10 ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))
-- **2026-08-06** — news mention: Planboo: New Milestone alert! ð We would like to take a moment to celebrate Wongphai - à¸§à¸à¸©à ([source](https://www.linkedin.com/company/planboo/#post-d985bcf03b69))
-- **2026-08-06** — news mention: Planboo: What does it take to prove your premium in an emerging CDR category? Planboo is converting  ([source](https://www.linkedin.com/company/planboo/#post-78e99cad652e))
-- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
-- **2026-07-23** — news mention: Planboo: A first for the NARA Climate Community Biochar Project in Turkana, Kenya: its first batch o ([source](https://www.linkedin.com/company/planboo/#post-71bc077a91de))
-- **2026-07-23** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-a99817071edb))
+- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
+- **2026-10-02** — news mention: Planboo: Nara Climate’s Community Biochar Project has been assigned a Sylvera A Rating, as of… ([source](https://www.linkedin.com/company/planboo/#post-1ce2eb482d98))
+- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
+- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
+- **2026-08-28** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it.… ([source](https://www.linkedin.com/company/planboo/#post-881c328254ba))
+- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So… ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
+- **2026-08-20** — news mention: Planboo: A year into the programme, here's a video showing how Africa's drylands can be restored… ([source](https://www.linkedin.com/company/planboo/#post-4edbf2bcd1c9))
+- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical.… ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
+- **2026-08-13** — news mention: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now… ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
+- **2026-08-13** — news mention: Planboo: New Milestone alert! We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's… ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))
+- **2026-08-06** — news mention: Planboo: New Milestone alert! ð We would like to take a moment to celebrate Wongphai - à ̧§à ̧à… ([source](https://www.linkedin.com/company/planboo/#post-d985bcf03b69))
+- **2026-08-06** — news mention: Planboo: What does it take to prove your premium in an emerging CDR category? Planboo is… ([source](https://www.linkedin.com/company/planboo/#post-78e99cad652e))
+- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by… ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
+- **2026-07-23** — news mention: Planboo: A first for the NARA Climate Community Biochar Project in Turkana, Kenya: its first batch… ([source](https://www.linkedin.com/company/planboo/#post-71bc077a91de))
+- **2026-07-23** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it.… ([source](https://www.linkedin.com/company/planboo/#post-a99817071edb))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://planboo.eco/))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://planboo.eco/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://planboo.eco/ ([source](https://www.cdr.fyi/supplier/planboo))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/planboo))
 

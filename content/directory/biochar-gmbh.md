@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://biochar-biokohle.de/" target="_blank" rel="noopener">https://biochar-biokohle.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-gmbh-%26-co-kg/" target="_blank" rel="noopener">biochar-gmbh-%26-co-kg</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -36,13 +36,13 @@ BIOCHAR GmbH & Co. KG is the Convoris subsidiary that produces and sells biochar
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.biochar.de/unternehmen/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟡 Moderate ([source](https://www.biochar.de/unternehmen/))
+- **2026-05-01** — liveliness: Moderate → Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Moderate ([source](https://www.biochar.de/unternehmen/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Moderate ([source](https://www.biochar.de/unternehmen/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.biochar.de/unternehmen/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biochar-biokohle.de/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.biochar.de/unternehmen/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biochar-biokohle.de/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

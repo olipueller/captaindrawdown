@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.tamu-group.com" target="_blank" rel="noopener">https://www.tamu-group.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamugroup/" target="_blank" rel="noopener">tamugroup</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -32,11 +32,11 @@ Tamu Group is a Kenya-based (Singapore-incorporated) holding company that builds
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
+- **2026-08-15** — news mention: Tamu group: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tamu-group.com))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.tamu-group.com))
 - **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.tamu-group.com/about-us))
+- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness= Active ([source](https://www.tamu-group.com/about-us))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.tamu-group.com/ ([source](https://www.cdr.fyi/supplier/tamu-group))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/tamu-group))
 

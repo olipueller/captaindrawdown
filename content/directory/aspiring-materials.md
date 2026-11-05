@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.aspiringmaterials.com/" target="_blank" rel="noopener">https://www.aspiringmaterials.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiring-materials/" target="_blank" rel="noopener">aspiring-materials</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,22 +31,22 @@ Aspiring Materials is a Christchurch, New Zealand cleantech company that process
 
 ## History
 
-- **2026-10-26** — news mention: Aspiring Materials: This week marks two years since we moved into our Bromley site. In just 24 month ([source](https://www.linkedin.com/company/aspiring-materials/#post-cb921fa079f9))
+- **2026-10-26** — news mention: Aspiring Materials: This week marks two years since we moved into our Bromley site. In just 24… ([source](https://www.linkedin.com/company/aspiring-materials/#post-cb921fa079f9))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-14** — news mention: Aspiring Materials: 📢 Big news for Aspiring Materials today - we’re heading to Southland! The news i ([source](https://www.linkedin.com/company/aspiring-materials/#post-2cef03e82470))
-- **2026-07-24** — news mention: Aspiring Materials: Can you replace up to 30% of cement in precast concrete using a locally produced ([source](https://www.linkedin.com/company/aspiring-materials/#post-e578bbbfb96f))
-- **2026-07-24** — news mention: Aspiring Materials: Working with NZ industries is the dream for us at Aspiring Materials and this co ([source](https://www.linkedin.com/company/aspiring-materials/#post-79050d4dd7e6))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-14** — news mention: Aspiring Materials: Big news for Aspiring Materials today - we’re heading to Southland! The news… ([source](https://www.linkedin.com/company/aspiring-materials/#post-2cef03e82470))
+- **2026-07-24** — news mention: Aspiring Materials: Can you replace up to 30% of cement in precast concrete using a locally… ([source](https://www.linkedin.com/company/aspiring-materials/#post-e578bbbfb96f))
+- **2026-07-24** — news mention: Aspiring Materials: Working with NZ industries is the dream for us at Aspiring Materials and this… ([source](https://www.linkedin.com/company/aspiring-materials/#post-79050d4dd7e6))
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.aspiringmaterials.com/faqs))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.aspiringmaterials.com/faqs))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.aspiringmaterials.com/faqs))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.aspiringmaterials.com/faqs))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.aspiringmaterials.com/ ([source](https://www.cdr.fyi/supplier/aspiring-materials))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/aspiring-materials))
 

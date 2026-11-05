@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.miotech.com/" target="_blank" rel="noopener">https://www.miotech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/miotech/" target="_blank" rel="noopener">miotech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,17 +31,17 @@ MioTech is a Hong Kong/Shanghai-based AI-powered ESG and sustainability data sof
 ## History
 
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.miotech.com/en-US/press/168))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness= Active ([source](https://www.miotech.com/en-US/press/168))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.miotech.com/en-US/press/168))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/puro-earth-enables-first-corcs-issued-in-china-with-nianda-biochar-project/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.miotech.com/en-US/press/168))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://carbonherald.com/puro-earth-enables-first-corcs-issued-in-china-with-nianda-biochar-project/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

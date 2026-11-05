@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://ccretetech.com/" target="_blank" rel="noopener">https://ccretetech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c_crete-technologies-llc/" target="_blank" rel="noopener">c_crete-technologies-llc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,21 +31,21 @@ C-Crete Technologies is a California-based materials science company that produc
 ## History
 
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
-- **2026-08-14** — news mention: C-Crete: ð-ðð«ðð­ð ððð¦ðð§ð­ ð£ð®ð¬ð­ ð ð¨ð­ ð­ð¡ð ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-e9e4556a5096))
-- **2026-08-07** — news mention: C-Crete: Exciting news: C-Crete lays the foundation for the world’s first ground-up residential comp ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-7d48a2c03b7d))
-- **2026-07-31** — news mention: C-Crete: C-Crete cement just got third-party verified: up to 𝟗𝟓% less carbon, already in commercial  ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-e3915843eb45))
-- **2026-07-24** — news mention: C-Crete: A World First for Data Centers: C-Crete Pours Granite-Based, Sustainable Cement-Free Concre ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-3734e9c4ed1c))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
+- **2026-08-14** — news mention: C-Crete: ð-ðð«ðð­ð ððð¦ðð§ð­ ð£ð®ð¬ð­ ð ð ̈ð­… ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-e9e4556a5096))
+- **2026-08-07** — news mention: C-Crete: Exciting news: C-Crete lays the foundation for the world’s first ground-up residential… ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-7d48a2c03b7d))
+- **2026-07-31** — news mention: C-Crete: C-Crete cement just got third-party verified: up to 95% less carbon, already in… ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-e3915843eb45))
+- **2026-07-24** — news mention: C-Crete: A World First for Data Centers: C-Crete Pours Granite-Based, Sustainable Cement-Free… ([source](https://www.linkedin.com/company/c_crete-technologies-llc/#post-3734e9c4ed1c))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ccretetech.com/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://ccretetech.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ccretetech.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://ccretetech.com/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://tracxn.com/d/companies/c-crete/__EBntrHY2EYPXsW3JwB9tBVTRUlaCLBXEnLB5SpN-aEk))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://ccretetech.com/))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://ccretetech.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.cleanenergysystems.com/" target="_blank" rel="noopener">https://www.cleanenergysystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clean-energy-systems-inc/" target="_blank" rel="noopener">clean-energy-systems-inc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,19 +31,19 @@ Clean Energy Systems develops patented oxy-fuel combustion systems derived from 
 ## History
 
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
-- **2026-07-24** — news mention: Clean Energy Systems: ZEUS Agreement Signed at Energy Asia 2025, Accelerating Pathway to Zero-Emissi ([source](https://www.linkedin.com/company/clean-energy-systems-inc./#post-ff04be7e8dda))
-- **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
-- **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
+- **2026-07-24** — news mention: Clean Energy Systems: ZEUS Agreement Signed at Energy Asia 2025, Accelerating Pathway to… ([source](https://www.linkedin.com/company/clean-energy-systems-inc./#post-ff04be7e8dda))
+- **2026-06-15** — liveliness: Active → Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
+- **2026-05-01** — liveliness: Likely Dead → Active ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness= Active ([source](https://www.cleanenergysystems.com/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.cleanenergysystems.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.cleanenergysystems.com/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://globalenergynetwork.net/news-item/schlumberger-new-energy-chevron-and-microsoft-develop-bioenergy-project/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.cleanenergysystems.com/))
+- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.cleanenergysystems.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

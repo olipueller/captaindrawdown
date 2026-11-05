@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.superbiochar.com/" target="_blank" rel="noopener">https://www.superbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/superbiochar/" target="_blank" rel="noopener">superbiochar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,23 +30,23 @@ Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded
 
 ## History
 
-- **2026-10-22** — news mention: Super Biochar: Biochar’s next rulebook runs on proof. The U.S. Department of Agriculture pays farmer ([source](https://www.linkedin.com/company/superbiochar/#post-e839c6b14c8a))
+- **2026-10-22** — news mention: Super Biochar: Biochar’s next rulebook runs on proof. The U.S. Department of Agriculture pays… ([source](https://www.linkedin.com/company/superbiochar/#post-e839c6b14c8a))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-08-24** — news mention: Super Biochar: 📰Weekly Carbon Removal Bulletin📰 Here’s your roundup of top #CarbonDioxideRemoval upd ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
-- **2026-08-17** — news mention: Super Biochar: The 2025 biochar market reports landed this month, and the numbers are worth reflecti ([source](https://www.linkedin.com/company/superbiochar/#post-7bfe626f877e))
-- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
-- **2026-08-03** — news mention: Super Biochar Launch of the Super Biochar India Foundation Expands Soil Restoration and Decarbonizat ([source](https://biochartoday.com/news/super-biochar-launch-of-the-super-biochar-india-foundation-expands-soil-restoration-and-decarbonization-initiatives/))
-- **2026-07-26** — news mention: Super Biochar: ❗ Biochar production in the United States increased from nearly 87 thousand metric to ([source](https://www.linkedin.com/company/superbiochar/#post-3498fe76075f))
-- **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
-- **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
+- **2026-08-24** — news mention: Super Biochar: Weekly Carbon Removal Bulletin Here’s your roundup of top #CarbonDioxideRemoval… ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
+- **2026-08-17** — news mention: Super Biochar: The 2025 biochar market reports landed this month, and the numbers are worth… ([source](https://www.linkedin.com/company/superbiochar/#post-7bfe626f877e))
+- **2026-08-15** — liveliness: Suspect → Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
+- **2026-08-03** — news mention: Super Biochar Launch of the Super Biochar India Foundation Expands Soil Restoration and… ([source](https://biochartoday.com/news/super-biochar-launch-of-the-super-biochar-india-foundation-expands-soil-restoration-and-decarbonization-initiatives/))
+- **2026-07-26** — news mention: Super Biochar: Biochar production in the United States increased from nearly 87 thousand metric… ([source](https://www.linkedin.com/company/superbiochar/#post-3498fe76075f))
+- **2026-06-15** — liveliness: Active → Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
+- **2026-05-01** — liveliness: Suspect → Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.superbiochar.com/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.superbiochar.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.superbiochar.com/home))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.superbiochar.com/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.superbiochar.com/home))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.superbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

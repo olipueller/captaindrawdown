@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.removr.com/" target="_blank" rel="noopener">https://www.removr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removr/" target="_blank" rel="noopener">removr</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,17 +30,17 @@ Removr is a Norwegian direct air capture company jointly owned by Vanir Green In
 
 ## History
 
-- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS… ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
-- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
+- **2026-09-15** — liveliness: Suspect → Active ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.removr.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.removr.com/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.removr.com/))
+- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness= Active ([source](https://www.removr.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

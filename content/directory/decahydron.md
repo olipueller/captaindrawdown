@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.decahydron.com/" target="_blank" rel="noopener">https://www.decahydron.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decahydron/" target="_blank" rel="noopener">decahydron</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,19 +32,19 @@ Decahydron is an Irish startup developing an integrated natural hydrogen extract
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-08-08** — news mention: Decahydron: Natural Hydrogen in Ophiolitic Settings Four publications this week converge on a single ([source](https://www.linkedin.com/company/decahydron/#post-c3ecbafa9c5b))
-- **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W09) New research from the Oman Ophiolite is she ([source](https://www.linkedin.com/company/decahydron/#post-874f667b3974))
-- **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W10) For the first time, scientists have directl ([source](https://www.linkedin.com/company/decahydron/#post-b7236fd3dd4c))
-- **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W14) Two modelling papers this week, both focuse ([source](https://www.linkedin.com/company/decahydron/#post-903d407d3d6c))
+- **2026-08-15** — liveliness: Moderate → Active
+- **2026-08-08** — news mention: Decahydron: Natural Hydrogen in Ophiolitic Settings Four publications this week converge on a… ([source](https://www.linkedin.com/company/decahydron/#post-c3ecbafa9c5b))
+- **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W09) New research from the Oman Ophiolite is… ([source](https://www.linkedin.com/company/decahydron/#post-874f667b3974))
+- **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W10) For the first time, scientists have… ([source](https://www.linkedin.com/company/decahydron/#post-b7236fd3dd4c))
+- **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W14) Two modelling papers this week, both… ([source](https://www.linkedin.com/company/decahydron/#post-903d407d3d6c))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness=🟢 Active ([source](https://www.decahydron.com/))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=side_business liveliness= Active ([source](https://www.decahydron.com/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.decahydron.com/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.decahydron.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://www.decahydron.com/ ([source](https://www.cdr.fyi/supplier/decahydron))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/decahydron))
 

@@ -31,8 +31,8 @@ ZEROCertified was a Netherlands-based voluntary carbon market consultancy and me
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🔴 Likely Dead ([source](https://zerocertified.com/))
+- **2026-04-19** — liveliness: Likely Dead → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Likely Dead ([source](https://zerocertified.com/))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/zerocertified))
 
 ---

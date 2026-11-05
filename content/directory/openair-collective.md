@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://openaircollective.cc/" target="_blank" rel="noopener">https://openaircollective.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/openair-collective/" target="_blank" rel="noopener">openair-collective</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,13 +31,13 @@ OpenAir Collective is a distributed global volunteer network advancing carbon di
 ## History
 
 - **2026-10-15** — refresh: coresignal, screenshot, liveliness
-- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-15** — liveliness: Moderate → Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://openaircollective.com/crc/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness= Active ([source](https://openaircollective.com/crc/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://openaircollective.cc/ ([source](https://www.cdr.fyi/marketplace/openair-collective))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/openair-collective))
 

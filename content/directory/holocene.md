@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://theholocene.co/" target="_blank" rel="noopener">https://theholocene.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/holocene-climate/" target="_blank" rel="noopener">holocene-climate</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,16 +31,16 @@ Holocene Climate Corporation is a Knoxville, Tennessee DAC startup founded in 20
 ## History
 
 - **2026-10-15** — refresh: screenshot
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-15** — liveliness: Active → Moderate
+- **2026-05-01** — liveliness: Moderate → Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://heatmap.news/climate-tech/occidental-buys-holocene))
+- **2026-05-01** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://heatmap.news/climate-tech/occidental-buys-holocene))
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://heatmap.news/climate-tech/occidental-buys-holocene))
-- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://cen.acs.org/environment/greenhouse-gases/Oxy-buys-direct-air-capture/103/web/2025/04))
+- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness= Moderate ([source](https://heatmap.news/climate-tech/occidental-buys-holocene))
+- **2026-04-18** — reclassified: pathway=DAC focus=division liveliness= Active ([source](https://cen.acs.org/environment/greenhouse-gases/Oxy-buys-direct-air-capture/103/web/2025/04))
 - **2026-04-18** — discovered via: exa ([source](https://theholocene.co/))
 
 ---

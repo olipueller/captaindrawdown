@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.graphyte.com/" target="_blank" rel="noopener">https://www.graphyte.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/graphytecarbon/" target="_blank" rel="noopener">graphytecarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2024-11-07)</small></td></tr>
@@ -44,34 +44,34 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-10-25** — news mention: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident podc ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
-- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
-- **2026-09-29** — news mention: Sumitomo Corporation: Congratulations to our partner Graphyte on the grand opening of their expanded ([source](https://www.linkedin.com/company/sumitomocorporation/#post-cf3e384f937b))
-- **2026-09-25** — news mention: Graphyte: This past week, Graphyte unveiled the expansion of our Loblolly facility in Pine Bluff, Ar ([source](https://www.linkedin.com/company/graphytecarbon/#post-dfee68a547e8))
-- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
-- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
-- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
-- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
-- **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, featu ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
-- **2026-08-20** — news mention: Graphyte: We're excited to be one of three suppliers included in Deduci 's first U.S. CDR Portfolio  ([source](https://www.linkedin.com/company/graphytecarbon/#post-99f216ac7e27))
+- **2026-10-25** — news mention: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident… ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-29** — news mention: Sumitomo Corporation: Congratulations to our partner Graphyte on the grand opening of their… ([source](https://www.linkedin.com/company/sumitomocorporation/#post-cf3e384f937b))
+- **2026-09-25** — news mention: Graphyte: This past week, Graphyte unveiled the expansion of our Loblolly facility in Pine Bluff… ([source](https://www.linkedin.com/company/graphytecarbon/#post-dfee68a547e8))
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio… ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
+- **2026-08-20** — news mention: Graphyte: We're excited to be one of three suppliers included in Deduci 's first U.S. CDR… ([source](https://www.linkedin.com/company/graphytecarbon/#post-99f216ac7e27))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
-- **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, fea ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
-- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio… ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
+- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
 - **2026-07-29** — news mention: Our revolving fund as a model for a national carbon bank ([source](https://terraset.substack.com/p/our-revolving-fund-as-a-model-for))
-- **2026-07-25** — news mention: Tau Carbon: Sumitomo Corporation to Participate in CDR Project Through Joint Venture with Graphyte   ([source](https://www.linkedin.com/company/tau-carbon/#post-e5f54f46f2d9))
-- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
-- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
-- **2026-07-23** — news mention: Graphyte: A few more pieces to share from our recently-announced agreement with Sumitomo Corporation ([source](https://www.linkedin.com/company/graphytecarbon/#post-1140db02c32f))
-- **2026-07-23** — news mention: Graphyte: Graphyte's carbon removal credit purchase agreement with NYK Line , one of the world's lar ([source](https://www.linkedin.com/company/graphytecarbon/#post-c46db7724dd9))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M venture debt into Charm ([source](https://x.com/CaptainDrawdown/status/2063850137978273893))
-- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M of venture debt into Ch ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnqvwepcnf22))
+- **2026-07-25** — news mention: Tau Carbon: Sumitomo Corporation to Participate in CDR Project Through Joint Venture with… ([source](https://www.linkedin.com/company/tau-carbon/#post-e5f54f46f2d9))
+- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
+- **2026-07-23** — news mention: Graphyte: A few more pieces to share from our recently-announced agreement with Sumitomo… ([source](https://www.linkedin.com/company/graphytecarbon/#post-1140db02c32f))
+- **2026-07-23** — news mention: Graphyte: Graphyte's carbon removal credit purchase agreement with NYK Line , one of the world's… ([source](https://www.linkedin.com/company/graphytecarbon/#post-c46db7724dd9))
+- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
+- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M venture debt into… ([source](https://x.com/CaptainDrawdown/status/2063850137978273893))
+- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M of venture debt into… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnqvwepcnf22))
 - **2026-06-05** — news mention: NYK Buys Carbon Removal Credits From Graphyte’s Large Scale Biomass Project - ESG News ([source](https://esgnews.com/nyk-buys-carbon-removal-credits-from-graphytes-large-scale-biomass-project/))
-- **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a live  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
-- **2026-06-04** — news mention: Graphyte just stacked what no DAC pure-play has: Sumitomo balance-sheet backing AND a live Isometric ([source](https://x.com/CaptainDrawdown/status/2062401024032153630))
-- **2026-06-04** — news mention: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar, BEC ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
+- **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
+- **2026-06-04** — news mention: Graphyte just stacked what no DAC pure-play has: Sumitomo balance-sheet backing AND a live… ([source](https://x.com/CaptainDrawdown/status/2062401024032153630))
+- **2026-06-04** — news mention: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
 - **2026-06-03** — news mention: Startup scores big investment for storing carbon in wood bricks - E&E News by POLITICO ([source](https://www.eenews.net/articles/startup-scores-big-investment-for-storing-carbon-in-wood-bricks/))
 - **2026-06-03** — news mention: Graphyte Secures Backing From Sumitomo And Expands Partnerships ([source](https://carbonherald.com/graphyte-secures-backing-from-sumitomo-and-expands-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=graphyte-secures-backing-from-sumitomo-and-expands-partnerships))
 

@@ -38,13 +38,13 @@ Independently verified by carbon-credit registries:
 
 - **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.carbono.capital/))
+- **2026-08-15** — liveliness: Moderate → Suspect ([source](https://www.carbono.capital/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.carbono.capital/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.carbono.capital/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.carbono.capital/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://registry.isometric.com/supplier/spl_1K1T6MQR51S0VENF))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Moderate ([source](https://www.carbono.capital/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

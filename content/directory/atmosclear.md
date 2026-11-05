@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://atmosclear.earth/" target="_blank" rel="noopener">https://atmosclear.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosclearearth/" target="_blank" rel="noopener">atmosclearearth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,19 +29,19 @@ AtmosClear BR, LLC is a portfolio company of Houston-based Fidelis New Energy de
 
 ## History
 
-- **2026-09-19** — news mention: Fidelis: Weâre thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2  ([source](https://www.linkedin.com/company/fidelisenergy/#post-ffcff4aa994b))
-- **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2 tr ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
+- **2026-09-19** — news mention: Fidelis: Weâre thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for… ([source](https://www.linkedin.com/company/fidelisenergy/#post-ffcff4aa994b))
+- **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2… ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
 - **2026-08-15** — refresh: coresignal
-- **2026-05-22** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
+- **2026-05-22** — liveliness: Suspect → Active ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
 - **2026-05-21** — news mention: Microsoft signs seven-year CO2 storage deal with BioCirc | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/microsoft-signs-seven-year-co2-storage-deal-with-biocirc/2250060.article/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://atmosclear.earth/))
+- **2026-05-01** — liveliness: Active → Suspect ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://atmosclear.earth/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://fidelisinfra.com/project/atmosclear/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://atmosclear.earth/about/))
+- **2026-04-19** — liveliness: Active → Suspect ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://fidelisinfra.com/project/atmosclear/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness= Active ([source](https://atmosclear.earth/about/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

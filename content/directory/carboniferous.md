@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carboniferous.co/" target="_blank" rel="noopener">https://www.carboniferous.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboniferous/" target="_blank" rel="noopener">carboniferous</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,21 +31,21 @@ Carboniferous places densified crop byproducts (biomass) in the hypersaline and 
 
 ## History
 
-- **2026-08-30** — news mention: Carboniferous: Huge news: After close coordination with the Environmental Protection Agency and two  ([source](https://www.linkedin.com/company/carboniferous/#post-4e7cdd3c2d04))
+- **2026-08-30** — news mention: Carboniferous: Huge news: After close coordination with the Environmental Protection Agency and… ([source](https://www.linkedin.com/company/carboniferous/#post-4e7cdd3c2d04))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
-- **2026-08-01** — news mention: Carboniferous: Sharing progress on our EPA permit. You can enter comments related to this narrow sco ([source](https://www.linkedin.com/company/carboniferous/#post-2ef30f42c019))
-- **2026-07-25** — news mention: Carboniferous: A brief update on our EPA permit: Following a review of public comments on our Orca B ([source](https://www.linkedin.com/company/carboniferous/#post-169410c5b39e))
-- **2026-07-25** — news mention: Carboniferous: Huge news: After close coordination with the Environmental Protection Agency and two  ([source](https://www.linkedin.com/company/carboniferous/#post-7945ab6f2ec9))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
+- **2026-08-01** — news mention: Carboniferous: Sharing progress on our EPA permit. You can enter comments related to this narrow… ([source](https://www.linkedin.com/company/carboniferous/#post-2ef30f42c019))
+- **2026-07-25** — news mention: Carboniferous: A brief update on our EPA permit: Following a review of public comments on our Orca… ([source](https://www.linkedin.com/company/carboniferous/#post-169410c5b39e))
+- **2026-07-25** — news mention: Carboniferous: Huge news: After close coordination with the Environmental Protection Agency and… ([source](https://www.linkedin.com/company/carboniferous/#post-7945ab6f2ec9))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.epa.gov/marine-protection-permitting/mprsa-research-permit-carboniferous-inc-research-project))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.epa.gov/marine-protection-permitting/carboniferous-inc-research-project-overview-and-permitting-status))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.epa.gov/marine-protection-permitting/mprsa-research-permit-carboniferous-inc-research-project))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.epa.gov/marine-protection-permitting/carboniferous-inc-research-project-overview-and-permitting-status))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.carboniferous.co/orca-basin-research))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.carboniferous.co/orca-basin-research))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
+- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness= Active ([source](https://www.carboniferous.co/orca-basin-research))
+- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness= Active ([source](https://www.carboniferous.co/orca-basin-research))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

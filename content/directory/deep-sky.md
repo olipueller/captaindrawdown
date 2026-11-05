@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.deepskyclimate.com/" target="_blank" rel="noopener">https://www.deepskyclimate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -47,33 +47,33 @@ Independently verified by carbon-credit registries:
 - **2026-11-04** — news mention: Deep Sky Alpha (Innisfail, Alberta) — 3k t/yr · dac ([source](https://www.rbc.com/en/thought-leadership/ai-technology-and-innovation/clear-skies-direct-air-capture-and-canadas-advantage))
 - **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-23** — news mention: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
-- **2026-10-19** — news mention: CCUS awards recognise capture technology and CO2 infrastructure projects | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/ccus-awards-recognise-capture-technology-and-co2-infrastructure-projects/2262189.article/))
-- **2026-10-15** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
-- **2026-10-12** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on th ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
+- **2026-10-19** — news mention: CCUS awards recognise capture technology and CO2 infrastructure projects | Carbon Dioxide |… ([source](https://www.gasworld.com/story/ccus-awards-recognise-capture-technology-and-co2-infrastructure-projects/2262189.article/))
+- **2026-10-15** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
+- **2026-10-12** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
 - **2026-10-09** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))
-- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
-- **2026-10-01** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-c3b6fbfa0655))
+- **2026-10-01** — news mention: Milkywire: Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes… ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-10-01** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-c3b6fbfa0655))
 - **2026-09-26** — news mention: Canada Carbon Removal Market: New Policy Framework ([source](https://en.shafaqna.com/479797/canada-carbon-removal-market-policy-framework/))
 - **2026-09-25** — news mention: Oracle Sends 'Force Majeure' Notice Over Troubled AI Data Center - Impakter ([source](https://impakter.com/oracle-sends-force-majeure-notice-over-troubled-ai-data-center/))
 - **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
-- **2026-09-19** — news mention: Deep Sky gets ‘full value’ after making most of its inclusion in investment summit - The Globe and M ([source](https://www.theglobeandmail.com/business/article-deep-sky-carbon-capture-carney-investment-summit/))
-- **2026-09-11** — news mention: Prospectus for Carney’s summit highlights more than 160 projects open for investment - The Globe and ([source](https://www.theglobeandmail.com/business/article-canada-investment-summit-carney-project-prospectus/))
-- **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
-- **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the firs ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
+- **2026-09-19** — news mention: Deep Sky gets ‘full value’ after making most of its inclusion in investment summit - The Globe and… ([source](https://www.theglobeandmail.com/business/article-deep-sky-carbon-capture-carney-investment-summit/))
+- **2026-09-11** — news mention: Prospectus for Carney’s summit highlights more than 160 projects open for investment - The Globe… ([source](https://www.theglobeandmail.com/business/article-canada-investment-summit-carney-project-prospectus/))
+- **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
+- **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the… ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
 - **2026-09-04** — news mention: Deep Sky One Secures AAA-A Rating for DAC Project - ESG News ([source](https://esgnews.com/deep-sky-one-secures-aaa-a-rating-for-dac-project/))
 - **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera&#039;s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/))
-- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO₂. It integrates with data centers, geologic ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO2. It integrates with data centers… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
 - **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera’s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating))
-- **2026-08-31** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-3744a19beb75))
-- **2026-08-19** — news mention: CDR.fyi: 🌍 It's August 2026. How confident are you in the durable CDR market right now? July was slo ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))
+- **2026-08-31** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/daclab-us/#post-3744a19beb75))
+- **2026-08-19** — news mention: CDR.fyi: It's August 2026. How confident are you in the durable CDR market right now? July was… ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
-- **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvi ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
-- **2026-08-10** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on th ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
-- **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important mileston ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
-- **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a c ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
-- **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
-- **2026-08-02** — news mention: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a co ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
+- **2026-08-10** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
+- **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important… ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
+- **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
+- **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
+- **2026-08-02** — news mention: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
 
 ---
 

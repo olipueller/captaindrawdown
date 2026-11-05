@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.char-line.com/" target="_blank" rel="noopener">https://www.char-line.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/charlinegmbh/" target="_blank" rel="noopener">charlinegmbh</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,18 +31,18 @@ CharLine GmbH is an Austrian biochar-products subsidiary of composting company S
 
 - **2026-11-02** — news mention: Soil and crop responses to basalt, tephrite and lime amendments in a 16-month maize field trial ([source](https://cdrxiv.org/preprint/577))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
-- **2026-07-21** — news mention: Integrating experiments and models to unravel interactions between soil organic matter and enhanced  ([source](https://cdrxiv.org/preprint/473))
-- **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
+- **2026-08-15** — liveliness: Moderate → Active ([source](registry_activity))
+- **2026-07-21** — news mention: Integrating experiments and models to unravel interactions between soil organic matter and… ([source](https://cdrxiv.org/preprint/473))
+- **2026-06-15** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-05-01** — liveliness: Moderate → Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.sonnenerde.at/en/about-us/erdnews/detail/biochar-life-eu))
+- **2026-05-01** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.sonnenerde.at/en/about-us/erdnews/detail/biochar-life-eu))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.char-line.com/at-en/ueber-uns/pflanzenkohle/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.char-line.com/de-de/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](registry_activity))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.char-line.com/at-en/ueber-uns/pflanzenkohle/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://www.char-line.com/de-de/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

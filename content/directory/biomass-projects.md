@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://biomassprojects.com.au/" target="_blank" rel="noopener">https://biomassprojects.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biomass-projects/" target="_blank" rel="noopener">biomass-projects</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,18 +29,18 @@ Biomass Projects is an Australian pure-play CDR developer behind the Mardie char
 
 ## History
 
-- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biomassprojects.com.au/))
-- **2026-08-30** — news mention: Biomass Projects: There is not a lot of talk about Carbon Dioxide Removal #CDR in Australia, until n ([source](https://www.linkedin.com/company/biomass-projects/#post-73e6ea96fc6c))
+- **2026-09-15** — liveliness: Likely Dead → Active ([source](https://biomassprojects.com.au/))
+- **2026-08-30** — news mention: Biomass Projects: There is not a lot of talk about Carbon Dioxide Removal #CDR in Australia, until… ([source](https://www.linkedin.com/company/biomass-projects/#post-73e6ea96fc6c))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biomassprojects.com.au/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biomassprojects.com.au/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biomassprojects.com.au/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — liveliness: Active → Likely Dead ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biomassprojects.com.au/))
+- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness= Active ([source](https://biomassprojects.com.au/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.carbon-impact.net/" target="_blank" rel="noopener">https://www.carbon-impact.net/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-impact-france/" target="_blank" rel="noopener">carbon-impact-france</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,33 +29,33 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 
 ## History
 
-- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a Sylve ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
-- **2026-09-15** — news mention: BELOW2 Inc.: BELOW2 has published version 2.0 of the BELOW2 Standard and opened it for public commen ([source](https://www.linkedin.com/company/below2/#post-69959f977fd5))
-- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
-- **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
-- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
+- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
+- **2026-09-15** — news mention: BELOW2 Inc.: BELOW2 has published version 2.0 of the BELOW2 Standard and opened it for public… ([source](https://www.linkedin.com/company/below2/#post-69959f977fd5))
+- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe !… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
+- **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ1⁄4r unser BECCS-Projekt: Die gesamte Prozesskette… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
+- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
 - **2026-09-03** — news mention: Namibia's Newest Carbon Removal Idea - allAfrica.com ([source](https://allafrica.com/stories/202609030347.html))
 - **2026-09-03** — news mention: Swiss CO2 Capture Chain Targets Danish North Sea - ESG News ([source](https://esgnews.com/swiss-co2-capture-chain-targets-danish-north-sea/))
-- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãªtre dans dix ans. Mais nous, on peut faire des pro ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
-- **2026-08-23** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalitÃ©s franÃ§aises ? Le 25 mai 2026 ([source](https://www.linkedin.com/company/carbon-impact-france/#post-70f43983599f))
-- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets au ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
+- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãatre dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
+- **2026-08-23** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalitÃ©s franÃ§aises ? Le 25 mai… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-70f43983599f))
+- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
 - **2026-08-15** — refresh: coresignal, liveliness
-- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbon-impact.net/))
-- **2026-08-01** — news mention: Carbon Impact: Les 16 et 17 juillet, deux textes ont rapproché le BioCCS de son déploiement à grande ([source](https://www.linkedin.com/company/carbon-impact-france/#post-764911e3fcde))
-- **2026-07-30** — news mention: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of AA ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
-- **2026-07-26** — news mention: EOSYS: Et si le Grand Est devenait le premier territoire français à structurer une filière BioCCS co ([source](https://www.linkedin.com/company/eosys/#post-f41a00aeaff8))
-- **2026-07-25** — news mention: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projet ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
-- **2026-07-25** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalités françaises ? Le 25 mai 2026,  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-5e771569320c))
-- **2026-07-25** — news mention: Carbon Impact: Et si le Grand Est devenait le premier territoire français à structurer une filière B ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9ab28330edb1))
-- **2026-07-24** — news mention: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets aujourd’h ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
+- **2026-08-15** — liveliness: Likely Dead → Active ([source](https://www.carbon-impact.net/))
+- **2026-08-01** — news mention: Carbon Impact: Les 16 et 17 juillet, deux textes ont rapproché le BioCCS de son déploiement à… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-764911e3fcde))
+- **2026-07-30** — news mention: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
+- **2026-07-26** — news mention: EOSYS: Et si le Grand Est devenait le premier territoire français à structurer une filière BioCCS… ([source](https://www.linkedin.com/company/eosys/#post-f41a00aeaff8))
+- **2026-07-25** — news mention: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
+- **2026-07-25** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalités françaises ? Le 25 mai… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-5e771569320c))
+- **2026-07-25** — news mention: Carbon Impact: Et si le Grand Est devenait le premier territoire français à structurer une filière… ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9ab28330edb1))
+- **2026-07-24** — news mention: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets… ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.carbon-impact.net/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-impact.net/notre-approche/?lang=fr))
+- **2026-05-01** — liveliness: Active → Likely Dead ([source](https://www.carbon-impact.net/))
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.carbon-impact.net/notre-approche/?lang=fr))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Impact SAS
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-impact.net/))
+- **2026-04-19** — liveliness: Active → Moderate
+- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness= Active ([source](https://www.carbon-impact.net/))
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.carbon-impact.net ([source](https://www.cdr.fyi/supplier/carbon-impact-sas))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-impact-sas))
 - **** — merged duplicate: Carbon Impact SAS (slug=carbon-impact-sas)

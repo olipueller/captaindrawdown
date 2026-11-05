@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://www.karbonetiq.com/" target="_blank" rel="noopener">https://www.karbonetiq.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/karbonetiq-inc/" target="_blank" rel="noopener">karbonetiq-inc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-07-31</small></td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-07-31)</small></td></tr>
 </table>
@@ -42,19 +42,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-01** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-30b19228b44a))
+- **2026-09-01** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that… ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-30b19228b44a))
 - **2026-08-15** — refresh: coresignal
-- **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
+- **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that… ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
-- **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.karbonetiq.com/))
+- **2026-05-11** — liveliness: Moderate → Active ([source](https://www.karbonetiq.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.karbonetiq.com/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.karbonetiq.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.karbonetiq.com/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.karbonetiq.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.karbonetiq.com/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://frontierclimate.com/writing/summer-2025-prepurchases))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.karbonetiq.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.karbonetiq.com/))
+- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://frontierclimate.com/writing/summer-2025-prepurchases))
+- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness= Active ([source](https://www.karbonetiq.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---

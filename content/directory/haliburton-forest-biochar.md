@@ -29,15 +29,15 @@ Haliburton Forest Biochar (HFB) is a subsidiary of Haliburton Forest & Wild Life
 
 - **2026-09-15** — refresh: screenshot
 - **2026-06-15** — refresh: liveliness
-- **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
+- **2026-06-15** — liveliness: Moderate → Suspect ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
+- **2026-05-01** — liveliness: Active → Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.haliburtonforestbiochar.com/))
 - **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.haliburtonforestbiochar.com/))
+- **2026-04-19** — liveliness: Active → Moderate ([source](https://www.ontario.ca/page/2025-interim-report-forest-biomass-action-plan))
+- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.haliburtonforestbiochar.com/))
+- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness= Active ([source](https://www.haliburtonforestbiochar.com/))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
