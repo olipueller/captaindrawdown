@@ -7,6 +7,12 @@ enableRobotsTXT = true
 [pagination]
   pagerSize = 10
 
+# Feeds carry the newest 100 articles (about a month at 3-5 posts a day), not
+# the whole archive: /posts/index.xml was 837 items and 0.9 MB.
+[services]
+  [services.rss]
+    limit = 100
+
 [params]
   mainSections = ["posts"]
   env = "production"
@@ -47,8 +53,11 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
 
 # mainSections moved to [params] below
 
-# Data sections: no reading time, share buttons or RSS icon (tables are not articles).
+# Data sections: no reading time, share buttons, RSS icon or RSS output (tables are
+# not articles; the directory feed alone was 913 items). Each section needs both
+# path forms: "/x/**" reaches the pages below it, "/x" the section page itself.
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -57,6 +66,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/data/**"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -65,6 +75,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/data"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -73,6 +84,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/directory/**"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -81,6 +93,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/directory"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -89,6 +102,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/cdr-researcher-census/**"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -97,6 +111,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/cdr-researcher-census"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false
@@ -105,6 +120,7 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
     path = "/api/**"
 
 [[cascade]]
+  outputs = ["html"]
   [cascade.params]
     ShowReadingTime = false
     ShowShareButtons = false

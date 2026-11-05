@@ -1,0 +1,14 @@
+{{- /* Recent articles as JSON: title, content (plain text), permalink, summary.
+       Overrides PaperMod's search index, which listed every regular page (company,
+       researcher and data pages included, 11.9 MB after the relaunch). Site search
+       runs on Pagefind; this file serves "latest posts" readers such as the research
+       agent's orchestrator, which takes the first items. Articles only (mainSections),
+       newest first, 50 items. */ -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- $pages := where site.RegularPages "Section" "in" site.Params.mainSections -}}
+{{- range first 50 $pages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+    {{- $.Scratch.Add "index" (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary) -}}
+    {{- end }}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
