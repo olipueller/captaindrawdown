@@ -24,7 +24,7 @@ The company directory is built from a public seed list (Grant Faber, January 202
 - **MCP server:** `pip install captain-drawdown-mcp` ([PyPI](https://pypi.org/project/captain-drawdown-mcp/)) gives Claude, ChatGPT and Cursor the same data as tools; setup on the [API page](/api/#mcp-server-for-claude-chatgpt-and-cursor).
 - **Hugging Face:** the release files as datasets, [cdr-company-directory](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory), [cdr-researcher-census](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census) and [cdr-shops](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops).
 - **GitHub:** every release is a tag and a [GitHub release](https://github.com/olipueller/captaindrawdown/releases) in the site's public repository, with the files attached; issues for corrections are welcome there.
-- **Zenodo:** a DOI per dataset follows with the first archived release; until then cite the page and version as shown on each dataset page.
+- **Zenodo:** an archived copy of every release with a DOI per dataset ([companies](https://doi.org/10.5281/zenodo.23957359), [researchers](https://doi.org/10.5281/zenodo.23957367), [shops](https://doi.org/10.5281/zenodo.23957405)); the DOI is part of the citation line on each dataset page.
 
 ## Corrections and removal
 
