@@ -48,7 +48,15 @@ url: "/data/shops/"
       "@type": "DataDownload",
       "encodingFormat": "application/json",
       "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.4/shops.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/zip",
+      "contentUrl": "https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip"
     }
+  ],
+  "sameAs": [
+    "https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4"
   ]
 }
 </script>
@@ -63,10 +71,12 @@ url: "/data/shops/"
 Listing rules: a live checkout and third-party certified removal; self-certification and registries without issuance are not accepted. Prices are re-checked monthly.
 
 </div>
-<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">14</span><span class="lbl">shops with live prices</span><h4>Download</h4><ul><li>shops: <a href="/data/v1/2026-11.4/shops.csv">CSV</a> · <a href="/data/v1/2026-11.4/shops.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Shops, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/shops/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957405</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957405">10.5281/zenodo.23957405</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957404">10.5281/zenodo.23957404</a></small></p><h4>Use the data</h4><ul><li><a href="/api/v1/shops.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">14</span><span class="lbl">shops with live prices</span><h4>Download</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4">GitHub folder</a> · <a href="https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip">zip</a></li><li>shops: <a href="/data/v1/2026-11.4/shops.csv">CSV</a> · <a href="/data/v1/2026-11.4/shops.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Shops, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/shops/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957405</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957405">10.5281/zenodo.23957405</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957404">10.5281/zenodo.23957404</a></small></p><h4>Use the data</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases">GitHub repository</a></li><li><a href="/api/v1/shops.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
 </div>
 
 ## Download
+
+All files of release 2026-11.4 on GitHub: [folder `v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4) · [one zip](https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip) · [manifest](/data/v1/2026-11.4/manifest.json). The links below are the same files served by this site.
 
 | File | Rows | Size | Format |
 |---|---|---|---|
@@ -84,7 +94,7 @@ Shops are added only when a live checkout exists and the removal is third-party 
 
 ## Versions
 
-This page describes release **2026-11.4** (data as of 2026-11-05). Every release stays available under `/data/v1/2026-11.4/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11.4/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
+This page describes release **2026-11.4** (data as of 2026-11-05). Every release is a folder in the public GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) ([`v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4), the newest also under `v1/latest/`) and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11.4) with everything as one zip; this site serves the same files under `/data/v1/2026-11.4/` and [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11.4/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/), and issues can be opened on GitHub.
 
 ## Licence and citation
 

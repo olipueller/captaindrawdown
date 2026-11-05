@@ -4,7 +4,7 @@ description: "Release notes, corrections and the version history of the Captain 
 url: "/data/changelog/"
 ---
 
-Newest first. A release covers all three datasets and stays available under `/data/v1/<version>/`; the newest is also under `/data/v1/latest/`. Entries before the first release are the version history of the researcher census (launched 18 March 2026); "Census refresh" rows are the monthly database updates on the 11th, which feed the release around the 15th. Corrections between releases are noted here and applied in the next release.
+Newest first. A release covers all three datasets and stays available as a folder and a release in the [GitHub repository](https://github.com/dirkpaessler/cdr-databases) and under `/data/v1/<version>/` on this site; the newest is also under `v1/latest/`. Entries before the first release are the version history of the researcher census (launched 18 March 2026); "Census refresh" rows are the monthly database updates on the 11th, which feed the release around the 15th. Corrections between releases are noted here and applied in the next release.
 
 | Date | Version | Dataset | What changed |
 |---|---|---|---|

@@ -15,6 +15,7 @@ ShowToc: false
 ## Data
 
 - 📦 **Datasets** — [captaindrawdown.com/data](/data/): company directory, researcher census, shops, versioned and citable
+- 🐙 **GitHub** — [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases): every release as files and one zip, issues for corrections
 - 🔌 **JSON API** — [/api/](/api/) and the MCP server `captain-drawdown-mcp` on [PyPI](https://pypi.org/project/captain-drawdown-mcp/)
 - 🤗 **Hugging Face** — [carbondrawdowninitiative](https://huggingface.co/carbondrawdowninitiative) datasets
 

@@ -12,18 +12,18 @@ Three datasets, one monthly release, every file with a version, a licence and a 
 | CDR Researcher Census | 55,865 researchers listed, calibrated estimate 51,946, 15,896 papers, 170 countries | CC BY 4.0 | [/data/researchers/](/data/researchers/) |
 | CDR Shops | 14 shops with live prices | CC BY 4.0 | [/data/shops/](/data/shops/) |
 
-Downloads: [`/data/v1/2026-11.4/`](/data/v1/2026-11.4/manifest.json) (this release) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
+Downloads: the GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) holds every release as a folder ([`v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4), the newest also under `v1/latest/`) and as a [release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11.4) with one zip; the same files are served here under [`/data/v1/2026-11.4/`](/data/v1/2026-11.4/manifest.json) and [`/data/v1/latest/`](/data/v1/latest/manifest.json). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
 
 ## How the data is made
 
 The company directory is built from a public seed list (Grant Faber, January 2026) and kept current by daily news scanning, registry ingestion (Puro.earth, OffsetsDB) and an AI-assisted liveliness assessment; every company has a profile page with its evidence. The researcher census is built from OpenAlex and ORCID: every author with at least one CDR-relevant paper since 2021 on one of the public pathways (DAC, BECCS, enhanced weathering, ocean CDR, biochar, cross-cutting CDR). The shop list is a hand-checked survey of shops that sell certified removal to individuals. Methods are described on each dataset page.
 
-## Mirrors and tools
+## Where to get the data
 
+- **GitHub:** [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases), the open-data home of the files: every release as a folder and as a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases) with one zip; clone it, open a CSV in the browser, or file an issue for a correction.
 - **API:** read-only JSON under [`/api/v1/`](/api/), every response with version, date, licence and citation.
 - **MCP server:** `pip install captain-drawdown-mcp` ([PyPI](https://pypi.org/project/captain-drawdown-mcp/)) gives Claude, ChatGPT and Cursor the same data as tools; setup on the [API page](/api/#mcp-server-for-claude-chatgpt-and-cursor).
 - **Hugging Face:** the release files as datasets, [cdr-company-directory](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory), [cdr-researcher-census](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census) and [cdr-shops](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops).
-- **GitHub:** every release is a folder, a tag and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases) in [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases), with the files attached; issues for corrections are welcome there.
 - **Zenodo:** an archived copy of every release with a DOI per dataset ([companies](https://doi.org/10.5281/zenodo.23957359), [researchers](https://doi.org/10.5281/zenodo.23957367), [shops](https://doi.org/10.5281/zenodo.23957405)); the DOI is part of the citation line on each dataset page.
 
 ## Corrections and removal

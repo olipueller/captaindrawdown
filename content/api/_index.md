@@ -32,7 +32,7 @@ europe = [c for c in r["data"] if c["region"] in ("EU27", "Europe (non-EU)")]
 print(r["version"], len(europe), "European companies")
 ```
 
-For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint you need; quote `cite_as` and `as_of` from the response. The same data is available as versioned CSV under [/data/](/data/). Licences: companies CC BY-NC-SA 4.0, researchers and shops CC BY 4.0.
+For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint you need; quote `cite_as` and `as_of` from the response. The same data is available as versioned CSV and JSON files on GitHub ([dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases)) and under [/data/](/data/). Licences: companies CC BY-NC-SA 4.0, researchers and shops CC BY 4.0.
 
 ## MCP server for Claude, ChatGPT and Cursor
 
@@ -41,7 +41,7 @@ For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint y
 ```bash
 pip install captain-drawdown-mcp            # PyPI; or: uvx captain-drawdown-mcp
 # without PyPI access:
-# pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.1-py3-none-any.whl
+# pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.2-py3-none-any.whl
 claude mcp add captain-drawdown -- captain-drawdown-mcp      # Claude Code
 ```
 
@@ -51,7 +51,7 @@ Claude Desktop or Cursor configuration:
 {"mcpServers": {"captain-drawdown": {"command": "captain-drawdown-mcp"}}}
 ```
 
-Source distribution: [captain_drawdown_mcp-0.1.1.tar.gz](/mcp/captain_drawdown_mcp-0.1.1.tar.gz). The server code is MIT; the data keeps its licences.
+Source distribution: [captain_drawdown_mcp-0.1.2.tar.gz](/mcp/captain_drawdown_mcp-0.1.2.tar.gz). The server code is MIT; the data keeps its licences.
 
 ## Corrections
 

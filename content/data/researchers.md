@@ -54,7 +54,15 @@ url: "/data/researchers/"
       "@type": "DataDownload",
       "encodingFormat": "application/json",
       "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.4/researchers_by_country.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/zip",
+      "contentUrl": "https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip"
     }
+  ],
+  "sameAs": [
+    "https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4"
   ]
 }
 </script>
@@ -67,7 +75,7 @@ url: "/data/researchers/"
 Person-level data is published only for the researchers in the top lists per pathway; everyone else is counted in the aggregates. The [census page](/cdr-researcher-census/) has the pathway table, the [lookup](/cdr-researcher-census/lookup/) finds a listed researcher by name.
 
 </div>
-<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">55,865</span><span class="lbl">researchers listed</span><h4>Download</h4><ul><li>researchers_by_country: <a href="/data/v1/2026-11.4/researchers_by_country.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_country.json">JSON</a></li><li>researchers_by_pathway: <a href="/data/v1/2026-11.4/researchers_by_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_pathway.json">JSON</a></li><li>researchers_by_country_pathway: <a href="/data/v1/2026-11.4/researchers_by_country_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_country_pathway.json">JSON</a></li><li>researchers_by_sector: <a href="/data/v1/2026-11.4/researchers_by_sector.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_sector.json">JSON</a></li><li>cdr_papers_by_year: <a href="/data/v1/2026-11.4/cdr_papers_by_year.csv">CSV</a> · <a href="/data/v1/2026-11.4/cdr_papers_by_year.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957367">10.5281/zenodo.23957367</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957366">10.5281/zenodo.23957366</a></small></p><h4>Use the data</h4><ul><li><a href="/api/v1/researchers/by-pathway.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">55,865</span><span class="lbl">researchers listed</span><h4>Download</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4">GitHub folder</a> · <a href="https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip">zip</a></li><li>researchers_by_country: <a href="/data/v1/2026-11.4/researchers_by_country.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_country.json">JSON</a></li><li>researchers_by_pathway: <a href="/data/v1/2026-11.4/researchers_by_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_pathway.json">JSON</a></li><li>researchers_by_country_pathway: <a href="/data/v1/2026-11.4/researchers_by_country_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_country_pathway.json">JSON</a></li><li>researchers_by_sector: <a href="/data/v1/2026-11.4/researchers_by_sector.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_sector.json">JSON</a></li><li>cdr_papers_by_year: <a href="/data/v1/2026-11.4/cdr_papers_by_year.csv">CSV</a> · <a href="/data/v1/2026-11.4/cdr_papers_by_year.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957367">10.5281/zenodo.23957367</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957366">10.5281/zenodo.23957366</a></small></p><h4>Use the data</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases">GitHub repository</a></li><li><a href="/api/v1/researchers/by-pathway.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
 </div>
 
 ## Top researchers per pathway
@@ -84,6 +92,8 @@ Two lists per pathway, each worldwide (top 100) and for Europe (top 50): **most 
 | [Cross-cutting CDR](/data/researchers/cross-cutting-cdr/) | 12,831 | Matthew Gidden | Myles Allen | 65 of 100 | [page](/data/researchers/cross-cutting-cdr/) · [active CSV](/data/v1/2026-11.4/top100_cross-cutting-cdr.csv) · [Europe CSV](/data/v1/2026-11.4/top50_europe_cross-cutting-cdr.csv) · [cited CSV](/data/v1/2026-11.4/top100_cited_cross-cutting-cdr.csv) |
 
 ## Download
+
+All files of release 2026-11.4 on GitHub: [folder `v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4) · [one zip](https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip) · [manifest](/data/v1/2026-11.4/manifest.json). The links below are the same files served by this site.
 
 | File | Rows | Size | Format |
 |---|---|---|---|
@@ -142,7 +152,7 @@ Names, ORCID iDs, institutions and publication counts of researchers in the top 
 
 ## Versions
 
-This page describes release **2026-11.4** (data as of 2026-11-05). Every release stays available under `/data/v1/2026-11.4/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11.4/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
+This page describes release **2026-11.4** (data as of 2026-11-05). Every release is a folder in the public GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) ([`v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4), the newest also under `v1/latest/`) and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11.4) with everything as one zip; this site serves the same files under `/data/v1/2026-11.4/` and [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11.4/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/), and issues can be opened on GitHub.
 
 ## Licence and citation
 
