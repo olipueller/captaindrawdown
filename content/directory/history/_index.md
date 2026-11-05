@@ -1,5 +1,5 @@
 ---
-title: "CDR Industry — History & Structure"
+title: "CDR industry history"
 description: "Historical and structural view of the carbon dioxide removal industry: founding waves, academic attention, country + pathway structure. Updated monthly."
 url: "/directory/history/"
 ---

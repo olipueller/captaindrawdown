@@ -388,3 +388,6 @@ body.cd-lightbox-open { overflow: hidden; }
 /* — site screenshot as a link (data/shops: cdr-shops.com) — */
 .cd-shot { display: block; margin: var(--space-4) 0 var(--space-5); border: 1px solid var(--line); border-radius: var(--radius-md); overflow: hidden; background: var(--surface-1); box-shadow: var(--shadow-card); }
 .cd-shot img { display: block; width: 100%; height: auto; }
+
+/* — phone menu: wrap instead of a hidden horizontal scroll (seven entries since History joined) — */
+@media (max-width: 768px) { #menu { flex-wrap: wrap; overflow-x: visible; white-space: normal; row-gap: 2px; } }
