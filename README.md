@@ -4,7 +4,7 @@ Source of [captaindrawdown.com](https://captaindrawdown.com/): three open datase
 
 ## The data
 
-Every release is a folder under [`static/data/v1/`](static/data/v1/), one per version (`2026-11.4` and so on), with a `manifest.json` listing every file, its row count and SHA-256 checksum. `static/data/v1/latest/` mirrors the newest release. Each release is also a git tag (`release-<version>`) with a [GitHub release](https://github.com/olipueller/captaindrawdown/releases) that carries the folder as a zip and the main files.
+The data repository is [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases): one folder per release under `v1/`, a `manifest.json` per release with every file, its row count and SHA-256 checksum, and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases) per version with the folder as a zip and the main files. This site serves the same files under `static/data/v1/` (newest also under `static/data/v1/latest/`).
 
 | Dataset | What | Licence |
 |---|---|---|
@@ -26,4 +26,4 @@ The data is AI-maintained and may contain errors. Corrections, missing companies
 - `static/data/v1/`, `static/api/v1/`: the releases and the API files
 - `static/charts/`: the charts, rendered server-side
 - `layouts/`, `assets/`: the Hugo theme overrides and the design tokens
-- `.github/workflows/`: deploy (`hugo.yml`) and data release (`data-release.yml`)
+- `.github/workflows/`: deploy (`hugo.yml`)
