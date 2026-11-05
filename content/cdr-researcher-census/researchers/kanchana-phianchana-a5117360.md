@@ -1,7 +1,7 @@
 ---
 title: "Kanchana Phianchana"
 description: "Kanchana Phianchana, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 74 by activity, 2893 by citations. 5 publications, h-index 2, 16 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/kanchana-phianchana-a5117360/"
 layout: "researcher"
 hiddenInHomeList: true

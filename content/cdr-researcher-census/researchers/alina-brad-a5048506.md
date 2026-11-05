@@ -1,7 +1,7 @@
 ---
 title: "Alina Brad"
 description: "Alina Brad, University of Vienna, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 91 by activity, 732 by citations. 42 publications, h-index 11, 470 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/alina-brad-a5048506/"
 layout: "researcher"
 hiddenInHomeList: true

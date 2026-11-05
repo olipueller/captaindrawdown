@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
 description: "Chaewoon Oh, National Institute of Green Technology, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 33 by activity, 828 by citations. 44 publications, h-index 7, 160 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true

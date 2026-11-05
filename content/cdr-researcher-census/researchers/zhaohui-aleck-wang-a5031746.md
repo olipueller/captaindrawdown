@@ -1,7 +1,7 @@
 ---
 title: "Zhaohui Aleck Wang"
 description: "Zhaohui Aleck Wang, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 50 by activity, 673 by citations. 97 publications, h-index 29, 2,865 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/zhaohui-aleck-wang-a5031746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,7 @@ robots: "index, follow"
 | 2025 | [Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope](https://doi.org/10.1029/2025jg009063)<br><small>Journal of Geophysical Research Biogeosciences · with [Jennie E. Rheuban](/cdr-researcher-census/researchers/jennie-e-rheuban-a5040595/), [Anna P. M. Michel](/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/), [Daniel C. McCorkle](/cdr-researcher-census/researchers/daniel-c-mccorkle-a5110912/), [Hyewon Kim](/cdr-researcher-census/researchers/hyewon-kim-a5100600/), Ivan D. Lima, Ke Chen and 1 more</small> | Ocean CDR | 2 |
 | 2025 | [Variable export and consumption of alkalinity in coastal wetlands: insights from multi-year, high-frequency observations in an intertidal saltmarsh](https://doi.org/10.5194/egusphere-egu25-20675)<br><small>preprint · with Kevin D. Kroeger, Qipei Shangguan, S. Kühl, M. E. Gonneea</small> | Ocean CDR | 0 |
 | 2024 | [Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations](https://doi.org/10.1002/lno.12674)<br><small>Limnology and Oceanography · with [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Andrea J. Fassbender, Jonathan D. Sharp, Katelyn M. Schockman, Leticia Barbero, Maribel I. García‐Ibáñez and 6 more</small> | Ocean CDR | 10 |
-| 2023 | [The inorganic carbon system across the land-to-ocean continuum](https://doi.org/10.1016/b978-0-323-99762-1.00032-2)<br><small>Treatise on Geochemistry · with Wei‐Jun Cai</small> | Cross-cutting CDR | 7 |
+| 2023 | [The inorganic carbon system across the land-to-ocean continuum](https://doi.org/10.1016/b978-0-323-99762-1.00032-2)<br><small>Treatise on Geochemistry · with [Wei‐Jun Cai](/cdr-researcher-census/researchers/weijun-cai-a5062468/)</small> | Cross-cutting CDR | 7 |
 
 ---
 

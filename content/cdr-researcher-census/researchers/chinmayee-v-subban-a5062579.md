@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee V. Subban"
 description: "Chinmayee V. Subban, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 65 by activity, 585 by citations. 55 publications, h-index 14, 849 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/"
 layout: "researcher"
 hiddenInHomeList: true

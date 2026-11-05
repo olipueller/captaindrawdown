@@ -1,7 +1,7 @@
 ---
 title: "Michaela A. Dippold"
 description: "Michaela A. Dippold, University of Göttingen, Germany. 304 publications, h-index 51, 7,798 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/michaela-a-dippold-a5054730/"
 layout: "researcher"
 hiddenInHomeList: true

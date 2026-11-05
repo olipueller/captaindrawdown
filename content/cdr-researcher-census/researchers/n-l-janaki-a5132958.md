@@ -1,7 +1,7 @@
 ---
 title: "N. L. Janaki"
 description: "N. L. Janaki, Government of Andhra Pradesh, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 71 by activity, 2931 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/n-l-janaki-a5132958/"
 layout: "researcher"
 hiddenInHomeList: true

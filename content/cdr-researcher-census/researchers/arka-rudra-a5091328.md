@@ -1,7 +1,7 @@
 ---
 title: "Arka Rudra"
 description: "Arka Rudra, Aarhus University, Denmark. 66 publications, h-index 16, 867 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/arka-rudra-a5091328/"
 layout: "researcher"
 hiddenInHomeList: true

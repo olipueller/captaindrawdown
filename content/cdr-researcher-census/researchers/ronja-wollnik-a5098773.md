@@ -1,7 +1,7 @@
 ---
 title: "Ronja Wollnik"
 description: "Ronja Wollnik, Deutsches Biomasseforschungszentrum, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 6 by activity, 1701 by citations; Cross-cutting CDR: rank 71 by activity, 9108 by citations. 14 publications, h-index 3, 22 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/ronja-wollnik-a5098773/"
 layout: "researcher"
 hiddenInHomeList: true

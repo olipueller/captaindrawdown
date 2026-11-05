@@ -1,7 +1,7 @@
 ---
 title: "Ottmar Edenhofer"
 description: "Ottmar Edenhofer, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 30 by activity, 294 by citations. 520 publications, h-index 80, 29,534 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,8 +60,8 @@ robots: "index, follow"
 | 2024 | [The Economics of Carbon Dioxide Removal: A Governance Perspective](https://doi.org/10.2139/ssrn.5053587)<br><small>SSRN Electronic Journal (preprint) · with Friedemann Gruner, [Matthias Kalkuhl](/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/), Max Franks, Kai Lessmann</small> | Cross-cutting CDR | 2 |
 | 2023 | [On the Governance of Carbon Dioxide Removal – a Public Economics Perspective](https://doi.org/10.2139/ssrn.4422845)<br><small>SSRN Electronic Journal · with [Matthias Kalkuhl](/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/), Max Franks, Artur Runge-Metzger</small> | Cross-cutting CDR | 27 |
 | 2022 | [Pigou's Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon-Dioxide Removal](https://doi.org/10.2139/ssrn.4315996)<br><small>SSRN Electronic Journal · with [Matthias Kalkuhl](/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/), Friedemann Gruner, Kai Lessmann, Max Franks</small> | Cross-cutting CDR | 13 |
-| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://doi.org/10.1038/s41467-021-22211-2)<br><small>Nature Communications · with [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), Anastasis Giannousakis, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/), [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/), Robert Pietzcker</small> | Cross-cutting CDR | 114 |
-| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://openalex.org/W7213652163)<br><small>with [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), Anastasis Giannousakis, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/), [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/), Robert Pietzcker</small> | Cross-cutting CDR | 0 |
+| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://doi.org/10.1038/s41467-021-22211-2)<br><small>Nature Communications · with [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), Anastasis Giannousakis, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/), [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/), [Robert Pietzcker](/cdr-researcher-census/researchers/robert-pietzcker-a5091356/)</small> | Cross-cutting CDR | 114 |
+| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://openalex.org/W7213652163)<br><small>with [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), Anastasis Giannousakis, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/), [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/), [Robert Pietzcker](/cdr-researcher-census/researchers/robert-pietzcker-a5091356/)</small> | Cross-cutting CDR | 0 |
 
 ---
 

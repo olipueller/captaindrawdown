@@ -1,7 +1,7 @@
 ---
 title: "Richard L. Axelbaum"
 description: "Richard L. Axelbaum, Washington University in St. Louis, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 93 by activity, 1478 by citations. 195 publications, h-index 32, 4,177 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/richard-l-axelbaum-a5091399/"
 layout: "researcher"
 hiddenInHomeList: true

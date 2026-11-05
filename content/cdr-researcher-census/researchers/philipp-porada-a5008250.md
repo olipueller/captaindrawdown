@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
 description: "Philipp Porada, Universität Hamburg, Germany. 119 publications, h-index 21, 2,205 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true

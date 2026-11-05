@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
 description: "Sean Low, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 75 by activity, 98 by citations. 57 publications, h-index 23, 1,753 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -64,7 +64,7 @@ robots: "index, follow"
 | 2022 | [Climate policy for a net-zero future: ten recommendations for Direct Air Capture](https://doi.org/10.1088/1748-9326/ac77a4)<br><small>Environmental Research Letters · with [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), Cameron Roberts, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Jan Steinhauser</small> | DAC | 74 |
 | 2022 | [Risk–risk governance in a low‐carbon future: Exploring institutional, technological, and behavioral tradeoffs in climate geoengineering pathways](https://doi.org/10.1111/risa.13932)<br><small>Risk Analysis · with [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/)</small> | Cross-cutting CDR | 57 |
 | 2022 | [Determining our climate policy future: expert opinions about negative emissions and solar radiation management pathways](https://doi.org/10.1007/s11027-022-10030-9)<br><small>Mitigation and Adaptation Strategies for Global Change · with [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/)</small> | Cross-cutting CDR | 18 |
-| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Duncan McLaren, Holly Jean Buck, Kerryn Brent, [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 66 |
+| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Duncan McLaren, [Holly Jean Buck](/cdr-researcher-census/researchers/holly-jean-buck-a5039348/), Kerryn Brent, [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 66 |
 | 2021 | [Climate Imagineering](https://doi.org/10.33540/668) | BECCS | 1 |
 
 ---

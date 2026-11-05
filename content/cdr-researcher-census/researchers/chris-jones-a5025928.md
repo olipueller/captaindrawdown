@@ -1,7 +1,7 @@
 ---
 title: "Chris Jones"
 description: "Chris Jones, University of Bristol, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 46 by activity, 94 by citations. 701 publications, h-index 103, 59,305 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/chris-jones-a5025928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ robots: "index, follow"
 | 2026 | [State Dependence of Zero Emissions Commitment (ZEC) in Multi-Model TIPMIP Simulations](https://doi.org/10.5194/egusphere-egu26-6802)<br><small>with Laura Gibbs, Colin G. Jones, Timothy Andrews</small> | Cross-cutting CDR | 0 |
 | 2026 | [Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models](https://openalex.org/W7152019078)<br><small>with Abigail L. S. Swann, Anastasia Romanou, Benjamin M. Sanderson, Charles D. Koven, Cristian Proistosecu, David M. Lawrence and 11 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Land carbon response to positive, zero, and negative CO 2 emissions across Earth system models](https://openalex.org/W7212030484)<br><small>with Abigail L. S. Swann, Anastasia Romanou, Benjamin M. Sanderson, Charles D. Koven, Cristian Proistosecu, Cristian Proistosescu and 15 more</small> | Cross-cutting CDR | 0 |
-| 2024 | [Geological Net Zero and the need for disaggregated accounting for carbon sinks](https://doi.org/10.1038/s41586-024-08326-8)<br><small>Nature · with Myles Allen, Andrew Weaver, Bill Hare, Chris Huntingford, David J. Frame, [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/) and 18 more</small> | Cross-cutting CDR | 89 |
+| 2024 | [Geological Net Zero and the need for disaggregated accounting for carbon sinks](https://doi.org/10.1038/s41586-024-08326-8)<br><small>Nature · with [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/), Andrew Weaver, Bill Hare, Chris Huntingford, David J. Frame, [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/) and 18 more</small> | Cross-cutting CDR | 89 |
 | 2024 | [The need for carbon-emissions-driven climate projections in CMIP7](https://doi.org/10.5194/gmd-17-8141-2024)<br><small>Geoscientific model development · with Benjamin M. Sanderson, Abigail L. S. Swann, Abigail Snyder, Andrew D. King, B. H. Samset, Ben Booth and 21 more</small> | Cross-cutting CDR | 61 |
 | 2024 | [Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models](https://doi.org/10.5194/bg-21-411-2024)<br><small>Biogeosciences · with Ali Asaadi, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), [Jerry Tjiputra](/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Roland Séférian, Spencer Liddicoat and 3 more</small> | Cross-cutting CDR | 23 |
 | 2024 | [Cleaning Up After Ourselves: The Role of Carbon Dioxide Removal](http://dx.doi.org/10.3389/frym.2024.1345470)<br><small>Frontiers for Young Minds · with [Sabine Fuss](/cdr-researcher-census/researchers/sabine-fuss-a5011197/), Ingrid Schulte, [Naomi E. Vaughan](/cdr-researcher-census/researchers/naomi-e-vaughan-a5022069/)</small> | Cross-cutting CDR | 1 |

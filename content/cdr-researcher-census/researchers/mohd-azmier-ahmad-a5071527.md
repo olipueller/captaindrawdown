@@ -1,7 +1,7 @@
 ---
 title: "Mohd Azmier Ahmad"
 description: "Mohd Azmier Ahmad, Universiti Sains Malaysia, Malaysia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 49 by activity, 259 by citations. 244 publications, h-index 51, 7,414 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mohd-azmier-ahmad-a5071527/"
 layout: "researcher"
 hiddenInHomeList: true

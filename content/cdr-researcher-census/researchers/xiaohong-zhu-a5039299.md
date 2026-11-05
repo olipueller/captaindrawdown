@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Zhu"
 description: "Xiaohong Zhu, University of California, Berkeley, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 57 by activity, 4186 by citations. 96 publications, h-index 34, 3,459 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/xiaohong-zhu-a5039299/"
 layout: "researcher"
 hiddenInHomeList: true

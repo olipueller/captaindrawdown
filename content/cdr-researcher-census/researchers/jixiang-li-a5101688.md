@@ -1,7 +1,7 @@
 ---
 title: "Jixiang Li"
 description: "Jixiang Li, Shanghai Advanced Research Institute, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 91 by activity, 1461 by citations. 120 publications, h-index 28, 2,834 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jixiang-li-a5101688/"
 layout: "researcher"
 hiddenInHomeList: true

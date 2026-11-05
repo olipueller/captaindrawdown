@@ -1,7 +1,7 @@
 ---
 title: "Yinghuan Xie"
 description: "Yinghuan Xie, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 84 by activity, 1235 by citations. 13 publications, h-index 3, 28 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/yinghuan-xie-a5000973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,8 +53,8 @@ robots: "index, follow"
 | 2025 | [The effect of model resolution on air-sea CO2 equilibration timescales](https://doi.org/10.22541/essoar.174413329.91115963/v1)<br><small>preprint · with [Michael D. Tyka](/cdr-researcher-census/researchers/michael-d-tyka-a5073201/), Paul Spence, Stuart Corney, [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 2 |
 | 2025 | [Effect of Model Resolution on Air‐Sea CO <sub>2</sub> Equilibration Timescales](https://doi.org/10.1029/2024gb008482)<br><small>Global Biogeochemical Cycles · with [Michael D. Tyka](/cdr-researcher-census/researchers/michael-d-tyka-a5073201/), Paul Spence, Stuart Corney, [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 1 |
 | 2025 | [Advancing Ocean Modelling Tools to Constrain Marine CDR Effectiveness by Testing Air-Sea Equilibration Timescales](https://doi.org/10.5194/egusphere-egu25-10172)<br><small>preprint · with Paul Spence, Stuart Corney, [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 0 |
-| 2023 | [Identifying the Most (Cost‐)Efficient Regions for CO<sub>2</sub> Removal With Iron Fertilization in the Southern Ocean](https://doi.org/10.1029/2023gb007754)<br><small>Global Biogeochemical Cycles · with [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), E. C. Laurenceau‐Cornec, Jeffrey McGee, Kimberlee Baldry, Robert F. Strzepek, Veronica Tamsitt and 1 more</small> | Ocean CDR | 17 |
-| 2023 | [Identifying the most (cost-)efficient regions for CO2 removal with Iron Fertilization in the Southern Ocean](https://doi.org/10.22541/essoar.167979670.07996683/v1)<br><small>preprint · with [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), E. C. Laurenceau‐Cornec, Jeffrey McGee, Kimberlee Baldry, Robert F. Strzepek, Veronica Tamsitt and 1 more</small> | Ocean CDR | 1 |
+| 2023 | [Identifying the Most (Cost‐)Efficient Regions for CO<sub>2</sub> Removal With Iron Fertilization in the Southern Ocean](https://doi.org/10.1029/2023gb007754)<br><small>Global Biogeochemical Cycles · with [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), E. C. Laurenceau‐Cornec, Jeffrey McGee, Kimberlee Baldry, [Robert F. Strzepek](/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/), [Veronica Tamsitt](/cdr-researcher-census/researchers/veronica-tamsitt-a5037515/) and 1 more</small> | Ocean CDR | 17 |
+| 2023 | [Identifying the most (cost-)efficient regions for CO2 removal with Iron Fertilization in the Southern Ocean](https://doi.org/10.22541/essoar.167979670.07996683/v1)<br><small>preprint · with [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), E. C. Laurenceau‐Cornec, Jeffrey McGee, Kimberlee Baldry, [Robert F. Strzepek](/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/), [Veronica Tamsitt](/cdr-researcher-census/researchers/veronica-tamsitt-a5037515/) and 1 more</small> | Ocean CDR | 1 |
 
 ---
 

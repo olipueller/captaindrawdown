@@ -1,7 +1,7 @@
 ---
 title: "Pietro Bartocci"
 description: "Pietro Bartocci, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 49 by activity, 6 by citations. 196 publications, h-index 45, 6,320 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/pietro-bartocci-a5082211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ robots: "index, follow"
 | 2022 | [Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency](https://doi.org/10.1016/j.rser.2022.112851)<br><small>Renewable and Sustainable Energy Reviews · with [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Andrea Taiana, Angela Serra, Arturo Cabello, Cristóbal Cortés, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/) and 11 more</small> | BECCS | 16 |
 | 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266)<br><small>Fuel · with Lu Wang, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), [Hanping Chen](/cdr-researcher-census/researchers/hanping-chen-a5007450/), Liang Wang and 7 more</small> | BECCS | 6 |
 | 2022 | [Pressurised Chemical Looping Combustion (PCLC): Air Reactor design](https://doi.org/10.1088/1742-6596/2385/1/012127)<br><small>Journal of Physics Conference Series · with [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Aldo Bischi, Arturo Cabello, Gianni Bidini, [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Mauro Zampilli and 3 more</small> | BECCS | 2 |
-| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z)<br><small>Nature Communications · with Qing Yang, Chris Nielsen, Chuguang Zheng, Foster A. Agblevor, Francesco Fantozzi, G.Q. Chen and 7 more</small> | BECCS | 402 |
+| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z)<br><small>Nature Communications · with [Qing Yang](/cdr-researcher-census/researchers/qing-yang-a5100605/), [Chris Nielsen](/cdr-researcher-census/researchers/chris-nielsen-a5047617/), [Chuguang Zheng](/cdr-researcher-census/researchers/chuguang-zheng-a5100294/), [Foster A. Agblevor](/cdr-researcher-census/researchers/foster-a-agblevor-a5001408/), [Francesco Fantozzi](/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/), [G.Q. Chen](/cdr-researcher-census/researchers/gq-chen-a5057491/) and 7 more</small> | BECCS | 402 |
 
 ---
 

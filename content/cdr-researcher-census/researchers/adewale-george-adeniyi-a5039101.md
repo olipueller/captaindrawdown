@@ -1,7 +1,7 @@
 ---
 title: "Adewale George Adeniyi"
 description: "Adewale George Adeniyi, University of Ilorin, Nigeria. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 41 by activity, 1052 by citations. 319 publications, h-index 53, 10,095 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/"
 layout: "researcher"
 hiddenInHomeList: true

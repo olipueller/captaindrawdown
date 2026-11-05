@@ -1,7 +1,7 @@
 ---
 title: "Jessica Cross"
 description: "Jessica Cross, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 39 by activity, 145 by citations. 104 publications, h-index 27, 3,718 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jessica-cross-a5031991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,7 @@ robots: "index, follow"
 | 2025 | [Assessing the limitations of commercial sensors and models for supporting marine carbon dioxide removal monitoring: a case study](https://doi.org/10.3389/fclim.2025.1649723)<br><small>Frontiers in Climate · with Thomas A. Stewart, Carolina Torres Sanchez, Kyle E. Hinson, [Nicholas Ward](/cdr-researcher-census/researchers/nicholas-ward-a5016338/), Peter Regier, Quinn Mackay</small> | Ocean CDR | 0 |
 | 2024 | [A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – insights into an environment in transition](https://doi.org/10.5194/essd-16-647-2024)<br><small>Earth system science data · with Natalie Monacci, Jeremy T. Mathis, Wiley Evans, Hongjie Wang</small> | Ocean CDR | 2 |
 | 2024 | [Towards Marine Carbon Dioxide Removal (mCDR) Centers of Excellence](http://doi.org/10.2172/2426023)<br><small>with [Chinmayee V. Subban](/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/), Christian Meinig, M.R. Pinza, Nichols Ward, Simon Geerlofs, USDOE and 1 more</small> | DAC; Ocean CDR | 2 |
-| 2023 | [The Science We Need to Assess Marine Carbon Dioxide Removal](https://doi.org/10.1029/2023eo230214)<br><small>Eos · with Jaime B. Palter, [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), Patrick A. Rafter, Clare E. Reimers</small> | Ocean CDR | 19 |
+| 2023 | [The Science We Need to Assess Marine Carbon Dioxide Removal](https://doi.org/10.1029/2023eo230214)<br><small>Eos · with [Jaime B. Palter](/cdr-researcher-census/researchers/jaime-b-palter-a5056289/), [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), Patrick A. Rafter, Clare E. Reimers</small> | Ocean CDR | 19 |
 | 2023 | [A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – Insights to an environment in transition](https://doi.org/10.5194/essd-2023-325)<br><small>preprint · with Natalie Monacci, Jeremy T. Mathis, Wiley Evans, Hongjie Wang</small> | Ocean CDR | 1 |
 | 2023 | [Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report](https://doi.org/10.2172/2345755)<br><small>with [Chinmayee V. Subban](/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/), Chinmayee Venkata Subban, Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Simon Geerlofs, Christian Meinig</small> | Ocean CDR | 1 |
 | 2022 | [Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea](https://doi.org/10.1029/2022ef002816)<br><small>Earth s Future · with Hongjie Wang, Darren Pilcher, Kelly Kearney, [Matthew D. Eisaman](/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/), O. Melissa Shugart, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/)</small> | Ocean CDR | 102 |

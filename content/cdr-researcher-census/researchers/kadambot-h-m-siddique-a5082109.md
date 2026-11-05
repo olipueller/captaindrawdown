@@ -1,7 +1,7 @@
 ---
 title: "Kadambot H. M. Siddique"
 description: "Kadambot H. M. Siddique, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 70 by activity, 823 by citations. 1378 publications, h-index 131, 68,680 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/kadambot-h-m-siddique-a5082109/"
 layout: "researcher"
 hiddenInHomeList: true

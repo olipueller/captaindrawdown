@@ -1,7 +1,7 @@
 ---
 title: "Michael Wögerer"
 description: "Michael Wögerer, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 82 by activity, 1758 by citations. 35 publications, h-index 5, 169 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/michael-wogerer-a5088505/"
 layout: "researcher"
 hiddenInHomeList: true

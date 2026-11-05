@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
 description: "Xuancan Zhu, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 41 by activity, 914 by citations. 46 publications, h-index 22, 3,282 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true

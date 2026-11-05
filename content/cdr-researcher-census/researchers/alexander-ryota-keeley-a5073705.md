@@ -1,7 +1,7 @@
 ---
 title: "Alexander Ryota Keeley"
 description: "Alexander Ryota Keeley, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 63 by activity, 1349 by citations. 81 publications, h-index 21, 2,250 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/"
 layout: "researcher"
 hiddenInHomeList: true

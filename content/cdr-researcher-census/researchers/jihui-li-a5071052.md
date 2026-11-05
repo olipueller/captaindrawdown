@@ -1,7 +1,7 @@
 ---
 title: "Jihui Li"
 description: "Jihui Li, Hainan University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 73 by activity, 75 by citations. 145 publications, h-index 29, 3,133 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jihui-li-a5071052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2025 | [Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal](https://doi.org/10.3390/pr13092806)<br><small>Processes · with Yan Jin, Ahui Sun, Chuanbo Zheng, Hongru Jiang, Jinying Li, Shengxu Luo and 3 more</small> | Biochar | 3 |
 | 2024 | [Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds](https://doi.org/10.1016/j.jece.2024.114822)<br><small>Journal of environmental chemical engineering · with Ahui Sun, Hongru Jiang, Kaili He, Qinhe Pan, Shengxu Luo, Xiang Liu and 1 more</small> | Biochar | 17 |
 | 2024 | [Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline](https://openalex.org/W4393321328)<br><small>with Ahui Sun, Linzhou Li, Pandao Liu, Shuying Xu, Siyao Bian, Wanjie Li and 1 more</small> | Biochar | 15 |
-| 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176)<br><small>Geoderma · with Huaiting Liu, Jianming Xu, Jorge L. Mazza Rodrigues, Peng Leng, Tao Wang, Xiaoqing Song and 3 more</small> | Biochar | 36 |
+| 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176)<br><small>Geoderma · with Huaiting Liu, [Jianming Xu](/cdr-researcher-census/researchers/jianming-xu-a5068464/), Jorge L. Mazza Rodrigues, Peng Leng, Tao Wang, Xiaoqing Song and 3 more</small> | Biochar | 36 |
 | 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x)<br><small>Biochar · with Zhongmin Dai, Caixian Tang, Hang Zhu, Haojie Xu, Peng Leng, Xinquan Xiong and 1 more</small> | Biochar | 380 |
 | 2021 | [Highly adsorptive pristine and magnetic biochars prepared from crayfish shell for removal of Cu(II) and Pb(II)](https://doi.org/10.1016/j.jtice.2021.08.004)<br><small>Journal of the Taiwan Institute of Chemical Engineers · with Shihan Wang, Jianzhuo Liu, Shuying Xu, Siyao Bian, Zhenyi Liang</small> | Biochar | 58 |
 

@@ -1,7 +1,7 @@
 ---
 title: "Carl‐Friedrich Schleussner"
 description: "Carl‐Friedrich Schleussner, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 5 by activity, 57 by citations. 380 publications, h-index 57, 13,792 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/"
 layout: "researcher"
 hiddenInHomeList: true

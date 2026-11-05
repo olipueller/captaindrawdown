@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
 description: "Steef V. Hanssen, Radboud University Nijmegen, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 50 by activity, 528 by citations. 45 publications, h-index 17, 2,292 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true

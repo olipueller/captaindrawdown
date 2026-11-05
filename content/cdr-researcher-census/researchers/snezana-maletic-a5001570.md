@@ -1,7 +1,7 @@
 ---
 title: "Snežana Maletić"
 description: "Snežana Maletić, University of Novi Sad, Serbia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 33 by activity, 1065 by citations. 129 publications, h-index 26, 2,590 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/snezana-maletic-a5001570/"
 layout: "researcher"
 hiddenInHomeList: true

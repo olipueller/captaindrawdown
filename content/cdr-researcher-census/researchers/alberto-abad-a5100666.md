@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
 description: "Alberto Abad, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 35 by activity, 314 by citations. 283 publications, h-index 75, 21,738 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/alberto-abad-a5100666/"
 layout: "researcher"
 hiddenInHomeList: true

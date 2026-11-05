@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
 description: "Kati Koponen, VTT Technical Research Centre of Finland, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 22 by activity, 1296 by citations. 52 publications, h-index 14, 711 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,7 +52,7 @@ robots: "index, follow"
 | 2026 | [Bioperäisen hiilidioksidin tulevaisuus Suomessa – Arvonlisäystä metsäteollisuuden korkeamman jalostusasteen tuotteista ja hiilidioksiditaloudesta](https://openalex.org/W7165054046)<br><small>with Antti Arasto, Esa Vakkilainen, Jussi Lintunen, Jyri Seppälä, Marc Borrega, Mari Heikkinen and 6 more</small> | BECCS | 0 |
 | 2025 | [Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology](https://doi.org/10.1111/gcbb.70070)<br><small>GCB Bioenergy · with [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Anthony Benoist, Eric Marland, [Göran Berndes](/cdr-researcher-census/researchers/goran-berndes-a5088119/), Leif Gustavsson, Miguel Brandão and 4 more</small> | BECCS | 4 |
 | 2025 | [District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors](https://doi.org/10.1016/j.ccst.2025.100533)<br><small>Carbon Capture Science & Technology · with Heidi Kirppu, Esa Pursiheimo, Miika Rämä, Tomi J. Lindroos, Tomi Lindroos</small> | DAC | 1 |
-| 2024 | [Responsible carbon dioxide removals and the EU’s 2040 climate target](https://doi.org/10.1088/1748-9326/ad6d83)<br><small>Environmental Research Letters · with A. J. Paul, Alice Evatt, Chieh-Yu Lee, David Reiner, Fabian Levihn, Goda Perlaviciute and 13 more</small> | Cross-cutting CDR | 14 |
+| 2024 | [Responsible carbon dioxide removals and the EU’s 2040 climate target](https://doi.org/10.1088/1748-9326/ad6d83)<br><small>Environmental Research Letters · with A. J. Paul, Alice Evatt, Chieh-Yu Lee, [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/), Fabian Levihn, Goda Perlaviciute and 13 more</small> | Cross-cutting CDR | 14 |
 | 2024 | [Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050](https://doi.org/10.1088/1748-9326/ad71e1)<br><small>Environmental Research Letters · with Johanna Markkanen, Antti Lehtilä</small> | BECCS; Biochar; DAC; Enhanced Weathering | 6 |
 | 2024 | [Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets](https://doi.org/10.1007/978-3-031-58897-6_10)<br><small>Lecture notes in energy · with Tiina Koljonen, Antti Lehtilä, Kirsikka Kiviranta, Lassi Similä</small> | Cross-cutting CDR | 3 |
 

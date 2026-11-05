@@ -1,7 +1,7 @@
 ---
 title: "Detlef Stolten"
 description: "Detlef Stolten, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 2 by activity, 665 by citations. 1361 publications, h-index 84, 31,931 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/detlef-stolten-a5004526/"
 layout: "researcher"
 hiddenInHomeList: true

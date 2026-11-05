@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
 description: "Chao Jin, Tianjin University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 73 by activity, 392 by citations. 170 publications, h-index 39, 5,551 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/chao-jin-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true

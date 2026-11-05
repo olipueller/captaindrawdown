@@ -1,7 +1,7 @@
 ---
 title: "Paul Feron"
 description: "Paul Feron, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 19 by activity, 219 by citations. 216 publications, h-index 57, 11,565 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/paul-feron-a5057846/"
 layout: "researcher"
 hiddenInHomeList: true

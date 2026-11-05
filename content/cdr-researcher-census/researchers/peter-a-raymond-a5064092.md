@@ -1,7 +1,7 @@
 ---
 title: "Peter A. Raymond"
 description: "Peter A. Raymond, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 49 by activity, 162 by citations. 397 publications, h-index 90, 41,039 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/peter-a-raymond-a5064092/"
 layout: "researcher"
 hiddenInHomeList: true

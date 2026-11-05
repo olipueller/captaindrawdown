@@ -1,7 +1,7 @@
 ---
 title: "Roland Dittmeyer"
 description: "Roland Dittmeyer, Karlsruhe Institute of Technology, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 48 by activity, 1864 by citations. 406 publications, h-index 42, 6,377 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/roland-dittmeyer-a5074981/"
 layout: "researcher"
 hiddenInHomeList: true

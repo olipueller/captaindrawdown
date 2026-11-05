@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
 description: "Matthew D. Eisaman, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 23 by activity, 13 by citations. 113 publications, h-index 23, 5,132 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,8 +59,8 @@ robots: "index, follow"
 | 2024 | [A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds](https://doi.org/10.5194/egusphere-2024-108)<br><small>preprint · with [Mallory Ringham](/cdr-researcher-census/researchers/mallory-ringham-a5042898/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Cody Shaw, Julian Herndon, Nathan Hirtle, Xi Lu</small> | Ocean CDR | 6 |
 | 2024 | [Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity](https://doi.org/10.5194/egusphere-2024-972)<br><small>preprint · with Kristin Jones, Lenaïg G. Hemery, [Mallory Ringham](/cdr-researcher-census/researchers/mallory-ringham-a5042898/), [Nicholas Ward](/cdr-researcher-census/researchers/nicholas-ward-a5016338/), Peter Regier</small> | Ocean CDR | 6 |
 | 2024 | [Regional Uncertainty Analysis in the Air-Sea CO$_2$ Flux](https://doi.org/10.22541/essoar.172838427.77964259/v1)<br><small>preprint · with Lucas Gloege</small> | Ocean CDR | 0 |
-| 2023 | [Assessing the technical aspects of ocean-alkalinity-enhancement approaches](https://doi.org/10.5194/sp-2-oae2023-3-2023)<br><small>State of the Planet · with Andrew W. Dale, Carolin R. Löscher, Greg H. Rau, James Campbell, Laura Bastianini, Olivia Hawrot and 5 more</small> | Ocean CDR | 126 |
-| 2023 | [Assessing technical aspects of ocean alkalinity enhancement approaches](https://doi.org/10.5194/sp-2023-1)<br><small>preprint · with Andrew W. Dale, Carolin R. Löscher, Greg H. Rau, James Campbell, Laura Bastianini, Olivia Hawrot and 5 more</small> | Ocean CDR | 23 |
+| 2023 | [Assessing the technical aspects of ocean-alkalinity-enhancement approaches](https://doi.org/10.5194/sp-2-oae2023-3-2023)<br><small>State of the Planet · with [Andrew W. Dale](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/), [Carolin R. Löscher](/cdr-researcher-census/researchers/carolin-r-loscher-a5003302/), [Greg H. Rau](/cdr-researcher-census/researchers/greg-h-rau-a5035528/), [James Campbell](/cdr-researcher-census/researchers/james-campbell-a5089134/), [Laura Bastianini](/cdr-researcher-census/researchers/laura-bastianini-a5025578/), [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) and 5 more</small> | Ocean CDR | 126 |
+| 2023 | [Assessing technical aspects of ocean alkalinity enhancement approaches](https://doi.org/10.5194/sp-2023-1)<br><small>preprint · with [Andrew W. Dale](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/), [Carolin R. Löscher](/cdr-researcher-census/researchers/carolin-r-loscher-a5003302/), [Greg H. Rau](/cdr-researcher-census/researchers/greg-h-rau-a5035528/), [James Campbell](/cdr-researcher-census/researchers/james-campbell-a5089134/), [Laura Bastianini](/cdr-researcher-census/researchers/laura-bastianini-a5025578/), [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) and 5 more</small> | Ocean CDR | 23 |
 | 2022 | [Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea](https://doi.org/10.1029/2022ef002816)<br><small>Earth s Future · with Hongjie Wang, Darren Pilcher, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Kelly Kearney, O. Melissa Shugart, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/)</small> | Ocean CDR | 102 |
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
 description: "Friedrich A. Burger, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 9 by activity, 2375 by citations. 81 publications, h-index 13, 1,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,7 +62,7 @@ robots: "index, follow"
 | 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://openalex.org/W7161699151)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 0 |
 | 2025 | [Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement](https://doi.org/10.5194/egusphere-2025-5917)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), Urs Hofmann Elizondo, [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 1 |
 | 2025 | [Potential of Ocean Alkalinity Enhancement in Climate Stabilization scenarios at Different Warming Levels](https://doi.org/10.5194/egusphere-egu25-6341)<br><small>preprint · with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 0 |
-| 2023 | [Divergent Response of Ocean Regions to Temporarily Overshooting Paris Agreement Warming Levels](https://doi.org/10.5194/egusphere-egu23-6636)<br><small>preprint · with Fabrice Lacroix, Yona Silvy, [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Cross-cutting CDR | 0 |
+| 2023 | [Divergent Response of Ocean Regions to Temporarily Overshooting Paris Agreement Warming Levels](https://doi.org/10.5194/egusphere-egu23-6636)<br><small>preprint · with [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/), Yona Silvy, [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Cross-cutting CDR | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
 description: "David A.C. Manning, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 51 by activity, 230 by citations. 274 publications, h-index 57, 19,500 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,7 @@ robots: "index, follow"
 | 2024 | [Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon](https://doi.org/10.1111/ejss.13534)<br><small>European Journal of Soil Science · with Antônio Carlos de Azevedo, Caio Fernandes Zani, Arlete S. Barneze</small> | Enhanced Weathering | 24 |
 | 2024 | [A method to evaluate enhanced rock weathering using intact soil monoliths under field conditions](https://doi.org/10.1016/j.mex.2024.102971)<br><small>MethodsX · with Caio Fernandes Zani, Arlete S. Barneze, Gerlinde B. De Deyn, Jack Bakker, Kevin Stott</small> | Enhanced Weathering | 1 |
 | 2023 | [Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate](https://doi.org/10.5281/zenodo.8158681)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with [Kirstine Skov](/cdr-researcher-census/researchers/kirstine-skov-a5042164/), Amy Lewis, Dave George, Ifeoma Edeh, Jez Wardman, Jim Mann and 10 more</small> | Enhanced Weathering | 1 |
-| 2022 | [Mineral-enriched biochar delivers enhanced nutrient recovery and carbon dioxide removal](https://doi.org/10.1038/s43247-022-00394-w)<br><small>Communications Earth & Environment · with Wolfram Buss, Christian Wurzer, Eelco J. Rohling, Justin Borevitz, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 117 |
+| 2022 | [Mineral-enriched biochar delivers enhanced nutrient recovery and carbon dioxide removal](https://doi.org/10.1038/s43247-022-00394-w)<br><small>Communications Earth & Environment · with Wolfram Buss, [Christian Wurzer](/cdr-researcher-census/researchers/christian-wurzer-a5052710/), Eelco J. Rohling, Justin Borevitz, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 117 |
 | 2022 | [Removal of atmospheric CO2 by engineered soils in infrastructure projects](https://doi.org/10.1016/j.jenvman.2022.115016)<br><small>Journal of Environmental Management · with M. Ehsan Jorat, Karl E. Kraavi</small> | Enhanced Weathering | 25 |
 | 2022 | [Mineral stabilities in soils: how minerals can feed the world and mitigate climate change](https://doi.org/10.1180/clm.2022.17)<br><small>Clay Minerals</small> | Enhanced Weathering | 22 |
 | 2022 | [Biochar benefits carbon off-setting in blue-green infrastructure soils - A lysimeter study](https://doi.org/10.1016/j.jenvman.2022.116639)<br><small>Journal of Environmental Management · with Jiaqian Wang, Elisa López‐Capél, Ross Stirling, David Werner</small> | Biochar | 16 |

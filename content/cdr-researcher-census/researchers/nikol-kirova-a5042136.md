@@ -1,7 +1,7 @@
 ---
 title: "Nikol Kirova"
 description: "Nikol Kirova, Institute for Advanced Architecture of Catalonia, Spain. 11 publications, h-index 2, 7 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/nikol-kirova-a5042136/"
 layout: "researcher"
 hiddenInHomeList: true

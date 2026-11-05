@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
 description: "Kamil Stasiak, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 51 by activity, 352 by citations. 19 publications, h-index 7, 212 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Henrik Wenzel"
 description: "Henrik Wenzel, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 4 by activity, 659 by citations. 16 publications, h-index 2, 36 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/henrik-wenzel-a5102746/"
 layout: "researcher"
 hiddenInHomeList: true

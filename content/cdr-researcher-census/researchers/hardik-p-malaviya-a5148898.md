@@ -1,7 +1,7 @@
 ---
 title: "Hardik P. Malaviya"
 description: "Hardik P. Malaviya, Gujarat University, India. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 76 by activity, 3451 by citations. 2 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hardik-p-malaviya-a5148898/"
 layout: "researcher"
 hiddenInHomeList: true

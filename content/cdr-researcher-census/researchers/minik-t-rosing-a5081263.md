@@ -1,7 +1,7 @@
 ---
 title: "Minik T. Rosing"
 description: "Minik T. Rosing, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 86 by activity, 179 by citations. 267 publications, h-index 54, 10,695 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/minik-t-rosing-a5081263/"
 layout: "researcher"
 hiddenInHomeList: true

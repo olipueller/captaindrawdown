@@ -1,7 +1,7 @@
 ---
 title: "Teng Wang"
 description: "Teng Wang, Wuhan University of Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 89 by activity, 3457 by citations. 159 publications, h-index 40, 7,118 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/teng-wang-a5100348/"
 layout: "researcher"
 hiddenInHomeList: true

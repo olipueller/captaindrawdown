@@ -1,7 +1,7 @@
 ---
 title: "Hendrik Großelindemann"
 description: "Hendrik Großelindemann, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 41 by activity, 2376 by citations. 19 publications, h-index 3, 50 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/"
 layout: "researcher"
 hiddenInHomeList: true

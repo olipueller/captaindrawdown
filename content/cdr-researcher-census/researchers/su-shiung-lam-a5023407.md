@@ -1,7 +1,7 @@
 ---
 title: "Su Shiung Lam"
 description: "Su Shiung Lam, Universiti Malaysia Terengganu, Malaysia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 48 by activity, 132 by citations. 624 publications, h-index 104, 38,271 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/su-shiung-lam-a5023407/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Kammann"
 description: "Claudia Kammann, Hochschule Geisenheim University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 4 by activity, 2 by citations; Enhanced Weathering: rank 81 by activity, 1437 by citations. 195 publications, h-index 56, 15,369 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/claudia-kammann-a5061014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -67,8 +67,8 @@ robots: "index, follow"
 | 2023 | [Potential of novel organic NP(K)-char fertilizers as part of a circular economy-based phosphorus supply chain – results from a pot experiment](https://doi.org/10.5194/egusphere-egu23-13312)<br><small>preprint · with Carolyn‐Monika Görres, Thomas Appel</small> | Biochar | 0 |
 | 2022 | [Potential of Land‐Neutral Negative Emissions Through Biochar Sequestration](https://doi.org/10.1029/2021ef002583)<br><small>Earth s Future · with Constanze Werner, Dieter Gerten, Wolfgang Lucht</small> | Biochar | 33 |
 | 2022 | [Original source code as used in Werner et al., 2022 "Potential of land-neutral negative emissions through biochar sequestration" -- submitted to Earth's Future](https://doi.org/10.5281/zenodo.6595002)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with Constanze Werner, Dieter Gerten, Wolfgang Lucht</small> | Biochar | 0 |
-| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Caroline A. Masiello, Dominic Woolf, James E. Amonette, Marta Camps Arbestain and 2 more</small> | Biochar | 949 |
-| 2021 | [Biochar in agriculture – A systematic review of 26 global meta‐analyses](https://doi.org/10.1111/gcbb.12889)<br><small>GCB Bioenergy · with [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/), [Jens Leifeld](/cdr-researcher-census/researchers/jens-leifeld-a5078135/), Miguel Á. Sánchez-Monedero, [Nikolas Hagemann](/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/), Thomas D. Bucheli, María Luz Cayuela</small> | Biochar | 491 |
+| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/), [Marta Camps Arbestain](/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/) and 2 more</small> | Biochar | 949 |
+| 2021 | [Biochar in agriculture – A systematic review of 26 global meta‐analyses](https://doi.org/10.1111/gcbb.12889)<br><small>GCB Bioenergy · with [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/), [Jens Leifeld](/cdr-researcher-census/researchers/jens-leifeld-a5078135/), [Miguel Á. Sánchez-Monedero](/cdr-researcher-census/researchers/miguel-a-sanchez-monedero-a5090060/), [Nikolas Hagemann](/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/), [Thomas D. Bucheli](/cdr-researcher-census/researchers/thomas-d-bucheli-a5078159/), [María Luz Cayuela](/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/)</small> | Biochar | 491 |
 
 ---
 

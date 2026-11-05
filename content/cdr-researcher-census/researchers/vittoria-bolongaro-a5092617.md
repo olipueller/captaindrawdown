@@ -1,7 +1,7 @@
 ---
 title: "Vittoria Bolongaro"
 description: "Vittoria Bolongaro, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 94 by activity, 2132 by citations. 8 publications, h-index 4, 76 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ robots: "index, follow"
 | 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785)<br><small>with David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 2 |
 | 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886)<br><small>with David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 0 |
 | 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g)<br><small>Energy & Environmental Science · with [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/), [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), Carla Esch, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/) and 22 more</small> | Cross-cutting CDR | 54 |
-| 2025 | [Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative](https://doi.org/10.1021/acs.iecr.5c00684)<br><small>Industrial & Engineering Chemistry Research · with Katrina Kloesel, Paolo Gabrielli, Viola Becattini, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | BECCS; DAC | 2 |
+| 2025 | [Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative](https://doi.org/10.1021/acs.iecr.5c00684)<br><small>Industrial & Engineering Chemistry Research · with Katrina Kloesel, Paolo Gabrielli, [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | BECCS; DAC | 2 |
 | 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2)<br><small>with David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | Cross-cutting CDR | 1 |
 | 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg)<br><small>with David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 0 |
 

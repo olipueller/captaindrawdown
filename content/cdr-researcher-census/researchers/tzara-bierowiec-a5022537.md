@@ -1,7 +1,7 @@
 ---
 title: "Tzara Bierowiec"
-description: "Tzara Bierowiec, UNDO Carbon Ltd, Poland. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 62 by activity, 2057 by citations. 14 publications, h-index 2, 55 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+description: "Tzara Bierowiec, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 62 by activity, 2057 by citations. 14 publications, h-index 2, 55 citations (OpenAlex, all fields)."
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/tzara-bierowiec-a5022537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,7 +24,7 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>UNDO Carbon Ltd</td></tr>
-  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>rank 62 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 2057 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>

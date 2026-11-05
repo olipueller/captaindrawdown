@@ -1,7 +1,7 @@
 ---
 title: "Mohd Rafatullah"
 description: "Mohd Rafatullah, Prince Mohammad bin Fahd University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 24 by activity, 2200 by citations. 299 publications, h-index 58, 16,546 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mohd-rafatullah-a5070149/"
 layout: "researcher"
 hiddenInHomeList: true

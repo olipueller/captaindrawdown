@@ -1,7 +1,7 @@
 ---
 title: "L. Khajehnoori"
 description: "L. Khajehnoori, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 83 by activity, 3455 by citations. 4 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/l-khajehnoori-a5140697/"
 layout: "researcher"
 hiddenInHomeList: true

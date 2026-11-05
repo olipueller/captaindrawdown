@@ -1,7 +1,7 @@
 ---
 title: "Ruth Musgrave"
 description: "Ruth Musgrave, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 81 by activity, 268 by citations. 58 publications, h-index 17, 2,049 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/ruth-musgrave-a5039999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ robots: "index, follow"
 | 2024 | [The impacts of ocean physics on the efficiency of ocean alkalinity enhancement in a one-dimensional model](https://doi.org/10.5194/egusphere-egu24-20736)<br><small>preprint · with Ruby Yee, Steve Rackley, Greg Wagner, Gregory L. Wagner</small> | Ocean CDR | 0 |
 | 2024 | [The effects of near-surface turbulence on CO2 flux at the ocean-atmosphere boundary&amp;#160;](https://doi.org/10.5194/egusphere-egu24-13727)<br><small>preprint · with Josiane Ostiguy, Douglas C. Wallace, Graig Sutherland, Anneke ten Doeschate</small> | Ocean CDR | 0 |
 | 2024 | [Can ocean alkalinity enhancement reduce atmospheric carbon dioxide?](http://dx.doi.org/10.33424/futurum509)<br><small>with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Dariia Atamanchuk](/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/)</small> | Ocean CDR | 0 |
-| 2023 | [Modelling considerations for research on ocean alkalinity enhancement (OAE)](https://doi.org/10.5194/sp-2-oae2023-9-2023)<br><small>State of the Planet · with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Christopher K. Algar, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Jaime B. Palter and 5 more</small> | Ocean CDR | 60 |
+| 2023 | [Modelling considerations for research on ocean alkalinity enhancement (OAE)](https://doi.org/10.5194/sp-2-oae2023-9-2023)<br><small>State of the Planet · with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Christopher K. Algar, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), [Jaime B. Palter](/cdr-researcher-census/researchers/jaime-b-palter-a5056289/) and 5 more</small> | Ocean CDR | 60 |
 | 2023 | [Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)](https://doi.org/10.5194/sp-2023-10)<br><small>preprint · with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Christopher K. Algar, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Jamie B. Palter and 5 more</small> | Ocean CDR | 21 |
 
 ---

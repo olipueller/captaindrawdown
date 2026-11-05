@@ -1,7 +1,7 @@
 ---
 title: "Bhavanari Mallikarjun"
 description: "Bhavanari Mallikarjun, Manipal Academy of Higher Education, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 11 by activity, 2677 by citations. 5 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/"
 layout: "researcher"
 hiddenInHomeList: true

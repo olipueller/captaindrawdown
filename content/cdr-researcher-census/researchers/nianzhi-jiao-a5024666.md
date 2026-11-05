@@ -1,7 +1,7 @@
 ---
 title: "Nianzhi Jiao"
 description: "Nianzhi Jiao, Xiamen University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 63 by activity, 29 by citations. 442 publications, h-index 57, 16,335 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/nianzhi-jiao-a5024666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ robots: "index, follow"
 | 2024 | [Alkaline earth metal ions affect the dissolution of kaolinite-bearing olivine and its carbon storage effects](https://doi.org/10.1016/j.clay.2024.107394)<br><small>Applied Clay Science · with Yiwen Wang, Enquan Zhang, Mengyuan Li, Qiang Zheng, Rongda Yu, Yunxuan Li and 1 more</small> | Enhanced Weathering | 4 |
 | 2023 | [Legacy Effects of Late Macroalgal Blooms on Dissolved Inorganic Carbon Pool through Alkalinity Enhancement in Coastal Ocean](https://doi.org/10.1021/acs.est.2c09261)<br><small>Environmental Science & Technology · with Tianqi Xiong, Hongmei Li, Liang Xue, Weidong Zhai, [Yubin Hu](/cdr-researcher-census/researchers/yubin-hu-a5040781/), Yufei Yue and 1 more</small> | Ocean CDR | 49 |
 | 2022 | [Recalcitrant dissolved organic matter and its major production and removal processes in the ocean](https://doi.org/10.1016/j.dsr.2022.103922)<br><small>Deep Sea Research Part I Oceanographic Research Papers · with Ruanhong Cai</small> | Ocean CDR | 97 |
-| 2022 | [Wastewater alkalinity addition as a novel approach for ocean negative carbon emissions](https://doi.org/10.1016/j.xinn.2022.100272)<br><small>The Innovation · with Wei‐Jun Cai</small> | Ocean CDR | 38 |
+| 2022 | [Wastewater alkalinity addition as a novel approach for ocean negative carbon emissions](https://doi.org/10.1016/j.xinn.2022.100272)<br><small>The Innovation · with [Wei‐Jun Cai](/cdr-researcher-census/researchers/weijun-cai-a5062468/)</small> | Ocean CDR | 38 |
 | 2022 | [Response of a Coastal Microbial Community to Olivine Addition in the Muping Marine Ranch, Yantai](https://doi.org/10.3389/fmicb.2021.805361)<br><small>Frontiers in Microbiology · with Hongwei Ren, Gang Li, [Jihua Liu](/cdr-researcher-census/researchers/jihua-liu-a5100629/), Liang Mou, Qiang Zheng, Yanning Pan and 2 more</small> | Enhanced Weathering; Ocean CDR | 24 |
 | 2022 | [Ocean negative carbon emissions: A new UN Decade program](https://doi.org/10.1016/j.xinn.2022.100302)<br><small>The Innovation · with [Jihua Liu](/cdr-researcher-census/researchers/jihua-liu-a5100629/), Carol Robinson, Douglas W.R. Wallace, Louis Legendre</small> | Ocean CDR | 17 |
 

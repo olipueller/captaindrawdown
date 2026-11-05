@@ -1,7 +1,7 @@
 ---
 title: "Lester Kwiatkowski"
 description: "Lester Kwiatkowski, CNRS, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 94 by activity, 146 by citations. 98 publications, h-index 23, 4,462 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/"
 layout: "researcher"
 hiddenInHomeList: true

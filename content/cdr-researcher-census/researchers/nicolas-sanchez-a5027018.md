@@ -1,7 +1,7 @@
 ---
 title: "Nicolás Sánchez"
 description: "Nicolás Sánchez, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 52 by activity, 275 by citations. 54 publications, h-index 17, 5,753 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/"
 layout: "researcher"
 hiddenInHomeList: true

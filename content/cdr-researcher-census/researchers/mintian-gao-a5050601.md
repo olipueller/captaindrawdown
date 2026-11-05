@@ -1,7 +1,7 @@
 ---
 title: "Min‐Tian Gao"
 description: "Min‐Tian Gao, Shanghai University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 59 by activity, 1302 by citations. 109 publications, h-index 26, 2,078 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mintian-gao-a5050601/"
 layout: "researcher"
 hiddenInHomeList: true

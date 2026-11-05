@@ -1,7 +1,7 @@
 ---
 title: "Göran Berndes"
 description: "Göran Berndes, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 9 by activity, 35 by citations. 258 publications, h-index 52, 10,950 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/goran-berndes-a5088119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,7 @@ robots: "index, follow"
 | 2022 | [Large‐scale deployment of grass in crop rotations as a multifunctional climate mitigation strategy](https://doi.org/10.1111/gcbb.13015)<br><small>GCB Bioenergy · with Oskar Englund, Blas Mola‐Yudego, Christel Cederberg, Ioannis Dimitriou, Nicolae Scarlat, Pål Börjesson</small> | BECCS | 19 |
 | 2022 | [Towards multifunctional landscapes coupling low carbon feed and bioenergy production with restorative agriculture: Economic deployment potential of grass‐based biorefineries](https://doi.org/10.1002/bbb.2454)<br><small>Biofuels Bioproducts and Biorefining · with Şebnem Yılmaz Balaman, Christel Cederberg, Håkan Rosenqvist</small> | BECCS | 10 |
 | 2022 | [Green Biorefineries: Modeling to Explore Optimized System Configuration, Economic Deployment Potential, and Associated Land Use](https://doi.org/10.2139/ssrn.4016380)<br><small>SSRN Electronic Journal · with Şebnem Yılmaz Balaman, Christel Cederberg, Håkan Rosenqvist</small> | BECCS | 0 |
-| 2021 | [Bioenergy for climate change mitigation: Scale and sustainability](https://doi.org/10.1111/gcbb.12863)<br><small>GCB Bioenergy · with Katherine Calvin, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Almut Arneth, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Francesco Cherubini, Francis X. Johnson and 6 more</small> | BECCS | 146 |
+| 2021 | [Bioenergy for climate change mitigation: Scale and sustainability](https://doi.org/10.1111/gcbb.12863)<br><small>GCB Bioenergy · with [Katherine Calvin](/cdr-researcher-census/researchers/katherine-calvin-a5029098/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Almut Arneth, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Francesco Cherubini](/cdr-researcher-census/researchers/francesco-cherubini-a5074207/), [Francis X. Johnson](/cdr-researcher-census/researchers/francis-x-johnson-a5019735/) and 6 more</small> | BECCS | 146 |
 
 ---
 

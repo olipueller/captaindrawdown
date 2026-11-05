@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
 description: "Miriam Seifert, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 80 by activity, 1476 by citations. 38 publications, h-index 8, 340 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true

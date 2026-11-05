@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
-description: "Jacob S. Jordan, Mati Carbon, Poland. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 38 by activity, 431 by citations. 56 publications, h-index 12, 521 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+description: "Jacob S. Jordan, Mati Carbon, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 38 by activity, 431 by citations. 56 publications, h-index 12, 521 citations (OpenAlex, all fields)."
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Mati Carbon</td></tr>
-  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>rank 38 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 431 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
@@ -58,7 +58,7 @@ robots: "index, follow"
 | 2024 | [Abstract for CRADA between&lt;em&gt; Mati Car&lt;/em&gt;bon PBC and NETL](https://doi.org/10.2172/2439994)<br><small>with A. Steele</small> | Enhanced Weathering | 0 |
 | 2024 | [A cradle-to-grave perspective on monitoring, reporting, and verifying carbon dioxide removal through enhanced weathering](https://doi.org/10.46427/gold2024.23151)<br><small>with [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), A. Bracco, [James E. Saiers](/cdr-researcher-census/researchers/james-e-saiers-a5029882/), [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), Samuel Shou-En Tsao and 7 more</small> | Enhanced Weathering | 0 |
 | 2023 | [Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates](http://arxiv.org/abs/2302.05004)<br><small>arXiv (Cornell University) (preprint) · with [Tom Reershemius](/cdr-researcher-census/researchers/tom-reershemius-a5008768/), Boriana Kalderon-Asael, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), Dan Asael, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/) and 5 more</small> | Enhanced Weathering | 6 |
-| 2023 | [Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits](http://arxiv.org/abs/2307.05343)<br><small>arXiv (Cornell University) (preprint) · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Evan H. DeLucia, I. B. Kantola and 10 more</small> | Enhanced Weathering | 5 |
+| 2023 | [Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits](http://arxiv.org/abs/2307.05343)<br><small>arXiv (Cornell University) (preprint) · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), [Evan H. DeLucia](/cdr-researcher-census/researchers/evan-h-delucia-a5044416/), [I. B. Kantola](/cdr-researcher-census/researchers/i-b-kantola-a5084112/) and 10 more</small> | Enhanced Weathering | 5 |
 
 ---
 

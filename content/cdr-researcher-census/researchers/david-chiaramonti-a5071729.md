@@ -1,7 +1,7 @@
 ---
 title: "David Chiaramonti"
 description: "David Chiaramonti, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 54 by activity, 1273 by citations. 256 publications, h-index 47, 7,658 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/david-chiaramonti-a5071729/"
 layout: "researcher"
 hiddenInHomeList: true

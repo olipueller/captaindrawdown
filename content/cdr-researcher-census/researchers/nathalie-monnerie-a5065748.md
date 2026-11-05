@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
 description: "Nathalie Monnerie, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 97 by activity, 675 by citations. 118 publications, h-index 20, 1,510 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true

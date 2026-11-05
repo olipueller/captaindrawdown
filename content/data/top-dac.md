@@ -178,7 +178,7 @@ The same ranking restricted to researchers based in Europe (EU27 plus the UK, Sw
 | 47 | – | 118 | [Anthony Patt](https://captaindrawdown.com/cdr-researcher-census/researchers/anthony-patt-a5064781/) | ETH Zurich | CH | 3.2 | [5](https://captaindrawdown.com/cdr-researcher-census/researchers/anthony-patt-a5064781/#papers) | 107 |
 | 48 | – | 119 | [Christian Moretti](https://captaindrawdown.com/cdr-researcher-census/researchers/christian-moretti-a5027325/) | Paul Scherrer Institute | CH | 3.2 | [5](https://captaindrawdown.com/cdr-researcher-census/researchers/christian-moretti-a5027325/#papers) | 107 |
 | 49 | – | 261 | [Lara Meuleneers](https://captaindrawdown.com/cdr-researcher-census/researchers/lara-meuleneers-a5104453/) | RWTH Aachen University | DE | 3.2 | [5](https://captaindrawdown.com/cdr-researcher-census/researchers/lara-meuleneers-a5104453/#papers) | 48 |
-| 50 | – | 658 | Paul de Joannis | Centre National de la Recherche Scientifique † | FR | 3.2 | 4 | 5 |
+| 50 | – | 658 | [Paul de Joannis](/cdr-researcher-census/researchers/paul-de-joannis-a5114757/) | Centre National de la Recherche Scientifique † | FR | 3.2 | [4](/cdr-researcher-census/researchers/paul-de-joannis-a5114757/#papers) | 5 |
 
 ## Most cited, worldwide top 100
 
@@ -187,160 +187,160 @@ The same researchers ranked by citations to their CDR papers since 2021. Citatio
 | World # | Act. rank | Name | Institution | Country | Activity | Papers 2021–26 | Citations |
 |---:|---:|---|---|---|---:|---:|---:|
 | 1 | 34 | [Noah McQueen](https://captaindrawdown.com/cdr-researcher-census/researchers/noah-mcqueen-a5036880/) | Heirloom Carbon Technologies | US | 5.4 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/noah-mcqueen-a5036880/#papers) | 1,095 |
-| 2 | 668 | Tom Terlouw | PSI | CH | 1.7 | 4 | 961 |
+| 2 | 668 | [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) | PSI | CH | 1.7 | [4](/cdr-researcher-census/researchers/tom-terlouw-a5036170/#papers) | 961 |
 | 3 | 5 | [André Bardow](https://captaindrawdown.com/cdr-researcher-census/researchers/andre-bardow-a5054788/) | ETH Zurich | CH | 9.1 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/andre-bardow-a5054788/#papers) | 947 |
-| 4 | 1073 | Christian Bauer | Paul Scherrer Institut | CH | 1.1 | 3 | 892 |
+| 4 | 1073 | [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/) | Paul Scherrer Institut | CH | 1.1 | [3](/cdr-researcher-census/researchers/christian-bauer-a5014902/#papers) | 892 |
 | 5 | 191 | [Jennifer Wilcox](https://captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/) | University of Pennsylvania | US | 2.9 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/#papers) | 889 |
 | 6 | 331 | [Vassilis Daioglou](https://captaindrawdown.com/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/) | Netherlands Environmental Assessment Agency | NL | 2.2 | [4](https://captaindrawdown.com/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/#papers) | 754 |
-| 7 | 2998 | Dawid P. Hanak | Teesside University | GB | 0.9 | 2 | 746 |
+| 7 | 2998 | [Dawid P. Hanak](/cdr-researcher-census/researchers/dawid-p-hanak-a5070456/) | Teesside University | GB | 0.9 | [2](/cdr-researcher-census/researchers/dawid-p-hanak-a5070456/#papers) | 746 |
 | 8 | 99 | [Maxwell Pisciotta](https://captaindrawdown.com/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/) | University of Pennsylvania | US | 3.5 | [5](https://captaindrawdown.com/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/#papers) | 723 |
-| 9 | 836 | David Reiner | University of Cambridge | GB | 1.4 | 3 | 717 |
-| 10 | 837 | Zeynep Clulow | University of Cambridge † | GB | 1.4 | 3 | 717 |
-| 11 | 5813 | Colin McCormick | Georgetown University | US | 0.3 | 1 | 709 |
-| 12 | 5814 | Katherine Blumanthal | – |  | 0.3 | 1 | 709 |
-| 13 | 5815 | Katherine Vaz Gomes | University of Pennsylvania † | US | 0.3 | 1 | 709 |
+| 9 | 836 | [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/) | University of Cambridge | GB | 1.4 | [3](/cdr-researcher-census/researchers/david-reiner-a5085217/#papers) | 717 |
+| 10 | 837 | [Zeynep Clulow](/cdr-researcher-census/researchers/zeynep-clulow-a5091372/) | University of Cambridge † | GB | 1.4 | [3](/cdr-researcher-census/researchers/zeynep-clulow-a5091372/#papers) | 717 |
+| 11 | 5813 | [Colin McCormick](/cdr-researcher-census/researchers/colin-mccormick-a5064487/) | Georgetown University | US | 0.3 | [1](/cdr-researcher-census/researchers/colin-mccormick-a5064487/#papers) | 709 |
+| 12 | 5814 | [Katherine Blumanthal](/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/) | – |  | 0.3 | [1](/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/#papers) | 709 |
+| 13 | 5815 | [Katherine Vaz Gomes](/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/) | University of Pennsylvania † | US | 0.3 | [1](/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/#papers) | 709 |
 | 14 | 10 | [Benjamin K. Sovacool](https://captaindrawdown.com/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/) | Boston University | US | 8.1 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/#papers) | 702 |
-| 15 | 5481 | Eloy S. Sanz-Pérez | Universidad Rey Juan Carlos | ES | 0.4 | 1 | 690 |
-| 16 | 5482 | Greg A. Mutch | Newcastle University † | GB | 0.4 | 1 | 690 |
-| 17 | 5483 | María Erans | University of Valencia | ES | 0.4 | 1 | 690 |
-| 18 | 340 | Sarah Deutz | Forschungszentrum Jülich | DE | 2.0 | 4 | 620 |
-| 19 | 3029 | Alois Dirnaichner | Potsdam Institute for Climate Impact Research † | DE | 0.8 | 2 | 596 |
-| 20 | 3030 | B. Cox | INFRAS AG | CH | 0.8 | 2 | 596 |
-| 21 | 3031 | Christopher Mutel | ecoinvent association | CH | 0.8 | 2 | 596 |
-| 22 | 3032 | Gunnar Luderer | Technische Universität Berlin | DE | 0.8 | 2 | 596 |
-| 23 | 3033 | Kais Siala | Technical University of Munich † | DE | 0.8 | 2 | 596 |
-| 24 | 3034 | Romain Sacchi | Paul Scherrer Institut | CH | 0.8 | 2 | 596 |
+| 15 | 5481 | [Eloy S. Sanz-Pérez](/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/) | Universidad Rey Juan Carlos | ES | 0.4 | [1](/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/#papers) | 690 |
+| 16 | 5482 | [Greg A. Mutch](/cdr-researcher-census/researchers/greg-a-mutch-a5016518/) | Newcastle University † | GB | 0.4 | [1](/cdr-researcher-census/researchers/greg-a-mutch-a5016518/#papers) | 690 |
+| 17 | 5483 | [María Erans](/cdr-researcher-census/researchers/maria-erans-a5025793/) | University of Valencia | ES | 0.4 | [1](/cdr-researcher-census/researchers/maria-erans-a5025793/#papers) | 690 |
+| 18 | 340 | [Sarah Deutz](/cdr-researcher-census/researchers/sarah-deutz-a5086401/) | Forschungszentrum Jülich | DE | 2.0 | [4](/cdr-researcher-census/researchers/sarah-deutz-a5086401/#papers) | 620 |
+| 19 | 3029 | [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/) | Potsdam Institute for Climate Impact Research † | DE | 0.8 | [2](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/#papers) | 596 |
+| 20 | 3030 | [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/) | INFRAS AG | CH | 0.8 | [2](/cdr-researcher-census/researchers/b-cox-a5023730/#papers) | 596 |
+| 21 | 3031 | [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/) | ecoinvent association | CH | 0.8 | [2](/cdr-researcher-census/researchers/christopher-mutel-a5044214/#papers) | 596 |
+| 22 | 3032 | [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/) | Technische Universität Berlin | DE | 0.8 | [2](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/#papers) | 596 |
+| 23 | 3033 | [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/) | Technical University of Munich † | DE | 0.8 | [2](/cdr-researcher-census/researchers/kais-siala-a5069661/#papers) | 596 |
+| 24 | 3034 | [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/) | Paul Scherrer Institut | CH | 0.8 | [2](/cdr-researcher-census/researchers/romain-sacchi-a5027573/#papers) | 596 |
 | 25 | 9 | [Marco Mazzotti](https://captaindrawdown.com/cdr-researcher-census/researchers/marco-mazzotti-a5038211/) | ETH Zurich | CH | 8.3 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/marco-mazzotti-a5038211/#papers) | 587 |
 | 26 | 27 | [Matteo Gazzani](https://captaindrawdown.com/cdr-researcher-census/researchers/matteo-gazzani-a5040380/) | Utrecht University | NL | 5.8 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/matteo-gazzani-a5040380/#papers) | 570 |
-| 27 | 127 | Mihrimah Ozkan | University of California, Riverside | US | 3.2 | 6 | 553 |
+| 27 | 127 | [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/) | University of California, Riverside | US | 3.2 | [6](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/#papers) | 553 |
 | 28 | 201 | [Stavros Michailos](https://captaindrawdown.com/cdr-researcher-census/researchers/stavros-michailos-a5052441/) | University of Hull | GB | 2.8 | [5](https://captaindrawdown.com/cdr-researcher-census/researchers/stavros-michailos-a5052441/#papers) | 546 |
 | 29 | 283 | [Mohamed Pourkashanian](https://captaindrawdown.com/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/) | University of Sheffield | GB | 2.4 | [4](https://captaindrawdown.com/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/#papers) | 541 |
-| 30 | 925 | Francesco Sabatino | Eindhoven University of Technology † | NL | 1.3 | 3 | 509 |
-| 31 | 926 | M. van Sint Annaland | Eindhoven University of Technology | NL | 1.3 | 3 | 509 |
-| 32 | 1105 | Maria Fernanda Rojas Michaga | University of Sheffield † | GB | 1.0 | 2 | 503 |
-| 33 | 4108 | Fausto Gallucci | ZEFIRA BV | NL | 0.7 | 2 | 502 |
-| 34 | 203 | Carolina Font-Palma | University of Hull | GB | 2.8 | 4 | 483 |
-| 35 | 669 | Alexa Grimm | Utrecht University † | NL | 1.7 | 4 | 465 |
+| 30 | 925 | [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/) | Eindhoven University of Technology † | NL | 1.3 | [3](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/#papers) | 509 |
+| 31 | 926 | [M. van Sint Annaland](/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/) | Eindhoven University of Technology | NL | 1.3 | [3](/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/#papers) | 509 |
+| 32 | 1105 | [Maria Fernanda Rojas Michaga](/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/) | University of Sheffield † | GB | 1.0 | [2](/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/#papers) | 503 |
+| 33 | 4108 | [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/) | ZEFIRA BV | NL | 0.7 | [2](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/#papers) | 502 |
+| 34 | 203 | [Carolina Font-Palma](/cdr-researcher-census/researchers/carolina-font-palma-a5026211/) | University of Hull | GB | 2.8 | [4](/cdr-researcher-census/researchers/carolina-font-palma-a5026211/#papers) | 483 |
+| 35 | 669 | [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/) | Utrecht University † | NL | 1.7 | [4](/cdr-researcher-census/researchers/alexa-grimm-a5103982/#papers) | 465 |
 | 36 | 11 | [Abdulkarem I. Amhamed](https://captaindrawdown.com/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/) | Hamad bin Khalifa University | QA | 7.6 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/#papers) | 459 |
 | 37 | 28 | [Yasser M. Abdullatif](https://captaindrawdown.com/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/) | Hamad bin Khalifa University | QA | 5.8 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/#papers) | 454 |
-| 38 | 4982 | Anna A. Littlefield | Colorado School of Mines † | US | 0.5 | 1 | 453 |
-| 39 | 4983 | Austin Kinzer | Colorado School of Mines † | US | 0.5 | 1 | 453 |
-| 40 | 4984 | Hope McLaughlin | Colorado School of Mines † | US | 0.5 | 1 | 453 |
-| 41 | 4985 | Jinsoo Kim | Hanyang University | KR | 0.5 | 1 | 453 |
-| 42 | 4986 | Maia Menefee | Colorado School of Mines † | US | 0.5 | 1 | 453 |
-| 43 | 4987 | Morgan Bazilian | Colorado School of Mines † | US | 0.5 | 1 | 453 |
-| 44 | 4988 | Steve Griffiths | American University of Sharjah | AE | 0.5 | 1 | 453 |
-| 45 | 4989 | Tobias C. Hull | National Laboratory of the Rockies † | US | 0.5 | 1 | 453 |
-| 46 | 2991 | Gert Jan Kramer | Utrecht University † | NL | 0.9 | 2 | 450 |
-| 47 | 5484 | Wan Yun Hong | Universiti Brunei Darussalam † | BN | 0.4 | 1 | 445 |
-| 48 | 146 | L. Jiang | Zhejiang University | CN | 3.0 | 5 | 432 |
-| 49 | 303 | Ahmed Sodiq | Summit University † | US | 2.4 | 4 | 432 |
-| 50 | 821 | X.J. Zhang | Shandong University † | CN | 1.5 | 3 | 397 |
-| 51 | 672 | Muftah H. El‐Naas | Qatar University | QA | 1.7 | 3 | 396 |
-| 52 | 5485 | Anthony D. Ruiz | University of California, Riverside † | US | 0.4 | 1 | 351 |
-| 53 | 5486 | Saswat Priyadarshi Nayak | University of California, Riverside † | US | 0.4 | 1 | 351 |
-| 54 | 5487 | Wenmei Jiang | Sun Yat-sen University † | CN | 0.4 | 1 | 351 |
-| 55 | 822 | R.Q. Wang | Northwestern Polytechnical University | CN | 1.5 | 2 | 323 |
-| 56 | 4990 | Abigail González-Díaz | Instituto de Investigaciones Eléctricas | MX | 0.5 | 1 | 323 |
-| 57 | 4991 | R.Q. Wang | Durham University † | GB | 0.5 | 1 | 323 |
-| 58 | 4992 | Weiting Liu | Zhejiang University | CN | 0.5 | 1 | 323 |
-| 59 | 2999 | Nashaat N. Nassar | University of Calgary | CA | 0.9 | 2 | 320 |
+| 38 | 4982 | [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/) | Colorado School of Mines † | US | 0.5 | [1](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/#papers) | 453 |
+| 39 | 4983 | [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/) | Colorado School of Mines † | US | 0.5 | [1](/cdr-researcher-census/researchers/austin-kinzer-a5065497/#papers) | 453 |
+| 40 | 4984 | [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/) | Colorado School of Mines † | US | 0.5 | [1](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/#papers) | 453 |
+| 41 | 4985 | [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/) | Hanyang University | KR | 0.5 | [1](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/#papers) | 453 |
+| 42 | 4986 | [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) | Colorado School of Mines † | US | 0.5 | [1](/cdr-researcher-census/researchers/maia-menefee-a5066162/#papers) | 453 |
+| 43 | 4987 | [Morgan Bazilian](/cdr-researcher-census/researchers/morgan-bazilian-a5013688/) | Colorado School of Mines † | US | 0.5 | [1](/cdr-researcher-census/researchers/morgan-bazilian-a5013688/#papers) | 453 |
+| 44 | 4988 | [Steve Griffiths](/cdr-researcher-census/researchers/steve-griffiths-a5083495/) | American University of Sharjah | AE | 0.5 | [1](/cdr-researcher-census/researchers/steve-griffiths-a5083495/#papers) | 453 |
+| 45 | 4989 | [Tobias C. Hull](/cdr-researcher-census/researchers/tobias-c-hull-a5032739/) | National Laboratory of the Rockies † | US | 0.5 | [1](/cdr-researcher-census/researchers/tobias-c-hull-a5032739/#papers) | 453 |
+| 46 | 2991 | [Gert Jan Kramer](/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/) | Utrecht University † | NL | 0.9 | [2](/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/#papers) | 450 |
+| 47 | 5484 | [Wan Yun Hong](/cdr-researcher-census/researchers/wan-yun-hong-a5009087/) | Universiti Brunei Darussalam † | BN | 0.4 | [1](/cdr-researcher-census/researchers/wan-yun-hong-a5009087/#papers) | 445 |
+| 48 | 146 | [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/) | Zhejiang University | CN | 3.0 | [5](/cdr-researcher-census/researchers/l-jiang-a5071854/#papers) | 432 |
+| 49 | 303 | [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/) | Summit University † | US | 2.4 | [4](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/#papers) | 432 |
+| 50 | 821 | [X.J. Zhang](/cdr-researcher-census/researchers/xj-zhang-a5078524/) | Shandong University † | CN | 1.5 | [3](/cdr-researcher-census/researchers/xj-zhang-a5078524/#papers) | 397 |
+| 51 | 672 | [Muftah H. El‐Naas](/cdr-researcher-census/researchers/muftah-h-elnaas-a5011669/) | Qatar University | QA | 1.7 | [3](/cdr-researcher-census/researchers/muftah-h-elnaas-a5011669/#papers) | 396 |
+| 52 | 5485 | [Anthony D. Ruiz](/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/) | University of California, Riverside † | US | 0.4 | [1](/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/#papers) | 351 |
+| 53 | 5486 | [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/) | University of California, Riverside † | US | 0.4 | [1](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/#papers) | 351 |
+| 54 | 5487 | [Wenmei Jiang](/cdr-researcher-census/researchers/wenmei-jiang-a5038647/) | Sun Yat-sen University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/wenmei-jiang-a5038647/#papers) | 351 |
+| 55 | 822 | [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5051397/) | Northwestern Polytechnical University | CN | 1.5 | [2](/cdr-researcher-census/researchers/rq-wang-a5051397/#papers) | 323 |
+| 56 | 4990 | [Abigail González-Díaz](/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/) | Instituto de Investigaciones Eléctricas | MX | 0.5 | [1](/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/#papers) | 323 |
+| 57 | 4991 | [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5016842/) | Durham University † | GB | 0.5 | [1](/cdr-researcher-census/researchers/rq-wang-a5016842/#papers) | 323 |
+| 58 | 4992 | [Weiting Liu](/cdr-researcher-census/researchers/weiting-liu-a5100658/) | Zhejiang University | CN | 0.5 | [1](/cdr-researcher-census/researchers/weiting-liu-a5100658/#papers) | 323 |
+| 59 | 2999 | [Nashaat N. Nassar](/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/) | University of Calgary | CA | 0.9 | [2](/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/#papers) | 320 |
 | 60 | 65 | [Christian Breyer](https://captaindrawdown.com/cdr-researcher-census/researchers/christian-breyer-a5078913/) | Lappeenranta-Lahti University of Technology | FI | 4.0 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/christian-breyer-a5078913/#papers) | 315 |
 | 61 | 16 | [Jay Fuhrman](https://captaindrawdown.com/cdr-researcher-census/researchers/jay-fuhrman-a5034052/) | Joint Global Change Research Institute | US | 6.8 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/jay-fuhrman-a5034052/#papers) | 314 |
 | 62 | 60 | [Phil Renforth](https://captaindrawdown.com/cdr-researcher-census/researchers/phil-renforth-a5011758/) | Heriot-Watt University | GB | 4.2 | [7](https://captaindrawdown.com/cdr-researcher-census/researchers/phil-renforth-a5011758/#papers) | 303 |
 | 63 | 125 | [Spyros Foteinis](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/) | Heriot-Watt University | GB | 3.2 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/#papers) | 303 |
 | 64 | 86 | [Haewon McJeon](https://captaindrawdown.com/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/) | Korea Advanced Institute of Science and Technology | KR | 3.7 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/#papers) | 299 |
-| 65 | 322 | John Bistline | Electric Power Research Institute | US | 2.2 | 4 | 298 |
-| 66 | 5816 | Karin Treyer | Paul Scherrer Institute | CH | 0.3 | 1 | 296 |
-| 67 | 234 | Olivia Hawrot | Nano Carbon (Poland) † | PL | 2.7 | 5 | 287 |
-| 68 | 5488 | Manu Lahtinen | University of Jyväskylä | FI | 0.4 | 1 | 284 |
-| 69 | 5489 | Shreya Mahajan | Symbiosis International University † | IN | 0.4 | 1 | 284 |
-| 70 | 5490 | Arash Ostovar | Malek Ashtar University of Technology † | IR | 0.4 | 1 | 280 |
-| 71 | 5491 | Brahim Aïssa | Hamad bin Khalifa University † | QA | 0.4 | 1 | 280 |
-| 72 | 753 | Geoffrey J. Blanford | Electric Power Research Institute † | US | 1.6 | 3 | 278 |
-| 73 | 104 | Omar M. Yaghi | University of California Berkeley | US | 3.4 | 4 | 274 |
-| 74 | 4128 | Ali H. Alawadhi | King Abdulaziz City for Science and Technology † | SA | 0.6 | 1 | 273 |
-| 75 | 4129 | Cheng-Hsin Liu | Advanced Semiconductor Engineering (Taiwan) † | TW | 0.6 | 1 | 273 |
-| 76 | 4130 | Emilio Borrego-Marin | Universidad de Granada † | ES | 0.6 | 1 | 273 |
-| 77 | 4131 | Haozhe Li | Songshan Lake Materials Laboratory † | CN | 0.6 | 1 | 273 |
-| 78 | 4132 | Jorge A. R. Navarro | Universidad de Granada | ES | 0.6 | 1 | 273 |
+| 65 | 322 | [John Bistline](/cdr-researcher-census/researchers/john-bistline-a5026240/) | Electric Power Research Institute | US | 2.2 | [4](/cdr-researcher-census/researchers/john-bistline-a5026240/#papers) | 298 |
+| 66 | 5816 | [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/) | Paul Scherrer Institute | CH | 0.3 | [1](/cdr-researcher-census/researchers/karin-treyer-a5068272/#papers) | 296 |
+| 67 | 234 | [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) | Nano Carbon (Poland) † | PL | 2.7 | [5](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/#papers) | 287 |
+| 68 | 5488 | [Manu Lahtinen](/cdr-researcher-census/researchers/manu-lahtinen-a5001914/) | University of Jyväskylä | FI | 0.4 | [1](/cdr-researcher-census/researchers/manu-lahtinen-a5001914/#papers) | 284 |
+| 69 | 5489 | [Shreya Mahajan](/cdr-researcher-census/researchers/shreya-mahajan-a5104306/) | Symbiosis International University † | IN | 0.4 | [1](/cdr-researcher-census/researchers/shreya-mahajan-a5104306/#papers) | 284 |
+| 70 | 5490 | [Arash Ostovar](/cdr-researcher-census/researchers/arash-ostovar-a5019334/) | Malek Ashtar University of Technology † | IR | 0.4 | [1](/cdr-researcher-census/researchers/arash-ostovar-a5019334/#papers) | 280 |
+| 71 | 5491 | [Brahim Aïssa](/cdr-researcher-census/researchers/brahim-aissa-a5078722/) | Hamad bin Khalifa University † | QA | 0.4 | [1](/cdr-researcher-census/researchers/brahim-aissa-a5078722/#papers) | 280 |
+| 72 | 753 | [Geoffrey J. Blanford](/cdr-researcher-census/researchers/geoffrey-j-blanford-a5000988/) | Electric Power Research Institute † | US | 1.6 | [3](/cdr-researcher-census/researchers/geoffrey-j-blanford-a5000988/#papers) | 278 |
+| 73 | 104 | [Omar M. Yaghi](/cdr-researcher-census/researchers/omar-m-yaghi-a5044268/) | University of California Berkeley | US | 3.4 | [4](/cdr-researcher-census/researchers/omar-m-yaghi-a5044268/#papers) | 274 |
+| 74 | 4128 | [Ali H. Alawadhi](/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/) | King Abdulaziz City for Science and Technology † | SA | 0.6 | [1](/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/#papers) | 273 |
+| 75 | 4129 | [Cheng-Hsin Liu](/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/) | Advanced Semiconductor Engineering (Taiwan) † | TW | 0.6 | [1](/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/#papers) | 273 |
+| 76 | 4130 | [Emilio Borrego-Marin](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/) | Universidad de Granada † | ES | 0.6 | [1](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/#papers) | 273 |
+| 77 | 4131 | [Haozhe Li](/cdr-researcher-census/researchers/haozhe-li-a5101457/) | Songshan Lake Materials Laboratory † | CN | 0.6 | [1](/cdr-researcher-census/researchers/haozhe-li-a5101457/#papers) | 273 |
+| 78 | 4132 | [Jorge A. R. Navarro](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/) | Universidad de Granada | ES | 0.6 | [1](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/#papers) | 273 |
 | 79 | 4133 | [Kaiyu Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-green-a5100626/) | University of California System † | US | 0.6 | [1](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-green-a5100626/#papers) | 273 |
-| 80 | 4134 | Oscar Iu‐Fan Chen | Princeton University † | US | 0.6 | 1 | 273 |
-| 81 | 591 | Ahmed Abdulla | Carleton University | CA | 1.9 | 4 | 270 |
+| 80 | 4134 | [Oscar Iu‐Fan Chen](/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/) | Princeton University † | US | 0.6 | [1](/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/#papers) | 273 |
+| 81 | 591 | [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/) | Carleton University | CA | 1.9 | [4](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/#papers) | 270 |
 | 82 | 87 | [Tareq Al‐Ansari](https://captaindrawdown.com/cdr-researcher-census/researchers/tareq-alansari-a5086098/) | Hamad bin Khalifa University | QA | 3.7 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/tareq-alansari-a5086098/#papers) | 263 |
-| 83 | 609 | Dmitrii Bogdanov | LUT University | FI | 1.8 | 3 | 252 |
-| 84 | 610 | Siavash Khalili | LUT University | FI | 1.8 | 3 | 252 |
-| 85 | 3035 | Manish Ram | Lappeenranta University of Technology | FI | 0.8 | 2 | 249 |
-| 86 | 3036 | Theophilus Nii Odai Mensah | Lappeenranta-Lahti University of Technology † | FI | 0.8 | 2 | 249 |
-| 87 | 3017 | Felix Creutzig | University of Sussex † | GB | 0.8 | 2 | 246 |
-| 88 | 3018 | Kavya Madhu | University of Freiburg † | DE | 0.8 | 2 | 246 |
-| 89 | 3019 | Stefan Pauliuk | University of Freiburg | DE | 0.8 | 2 | 246 |
-| 90 | 3020 | Sumukha Dhathri | University of Freiburg † | DE | 0.8 | 2 | 246 |
-| 91 | 4120 | David G. Victor | University of California, San Diego | US | 0.6 | 2 | 246 |
-| 92 | 4121 | Ryan Hanna | University of California, San Diego | US | 0.6 | 2 | 246 |
-| 93 | 4122 | Yangyang Xu | Texas A&M University | US | 0.6 | 2 | 246 |
-| 94 | 102 | Hélène Pilorgé | University of Pennsylvania | US | 3.5 | 6 | 245 |
+| 83 | 609 | [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/) | LUT University | FI | 1.8 | [3](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/#papers) | 252 |
+| 84 | 610 | [Siavash Khalili](/cdr-researcher-census/researchers/siavash-khalili-a5019517/) | LUT University | FI | 1.8 | [3](/cdr-researcher-census/researchers/siavash-khalili-a5019517/#papers) | 252 |
+| 85 | 3035 | [Manish Ram](/cdr-researcher-census/researchers/manish-ram-a5022314/) | Lappeenranta University of Technology | FI | 0.8 | [2](/cdr-researcher-census/researchers/manish-ram-a5022314/#papers) | 249 |
+| 86 | 3036 | [Theophilus Nii Odai Mensah](/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/) | Lappeenranta-Lahti University of Technology † | FI | 0.8 | [2](/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/#papers) | 249 |
+| 87 | 3017 | [Felix Creutzig](/cdr-researcher-census/researchers/felix-creutzig-a5078552/) | University of Sussex † | GB | 0.8 | [2](/cdr-researcher-census/researchers/felix-creutzig-a5078552/#papers) | 246 |
+| 88 | 3018 | [Kavya Madhu](/cdr-researcher-census/researchers/kavya-madhu-a5071396/) | University of Freiburg † | DE | 0.8 | [2](/cdr-researcher-census/researchers/kavya-madhu-a5071396/#papers) | 246 |
+| 89 | 3019 | [Stefan Pauliuk](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/) | University of Freiburg | DE | 0.8 | [2](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/#papers) | 246 |
+| 90 | 3020 | [Sumukha Dhathri](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/) | University of Freiburg † | DE | 0.8 | [2](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/#papers) | 246 |
+| 91 | 4120 | [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/) | University of California, San Diego | US | 0.6 | [2](/cdr-researcher-census/researchers/david-g-victor-a5062589/#papers) | 246 |
+| 92 | 4121 | [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/) | University of California, San Diego | US | 0.6 | [2](/cdr-researcher-census/researchers/ryan-hanna-a5027987/#papers) | 246 |
+| 93 | 4122 | [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/) | Texas A&M University | US | 0.6 | [2](/cdr-researcher-census/researchers/yangyang-xu-a5004079/#papers) | 246 |
+| 94 | 102 | [Hélène Pilorgé](/cdr-researcher-census/researchers/helene-pilorge-a5038679/) | University of Pennsylvania | US | 3.5 | [6](/cdr-researcher-census/researchers/helene-pilorge-a5038679/#papers) | 245 |
 | 95 | 79 | [Peter Psarras](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-psarras-a5075179/) | University of Pennsylvania | US | 3.9 | [7](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-psarras-a5075179/#papers) | 244 |
-| 96 | 132 | Viola Becattini | ETH Zurich | CH | 3.2 | 5 | 244 |
-| 97 | 5492 | Donglong Fu | California Institute of Technology | US | 0.4 | 1 | 235 |
-| 98 | 5493 | Mark E. Davis | California Institute of Technology | US | 0.4 | 1 | 235 |
+| 96 | 132 | [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/) | ETH Zurich | CH | 3.2 | [5](/cdr-researcher-census/researchers/viola-becattini-a5055416/#papers) | 244 |
+| 97 | 5492 | [Donglong Fu](/cdr-researcher-census/researchers/donglong-fu-a5069288/) | California Institute of Technology | US | 0.4 | [1](/cdr-researcher-census/researchers/donglong-fu-a5069288/#papers) | 235 |
+| 98 | 5493 | [Mark E. Davis](/cdr-researcher-census/researchers/mark-e-davis-a5010404/) | California Institute of Technology | US | 0.4 | [1](/cdr-researcher-census/researchers/mark-e-davis-a5010404/#papers) | 235 |
 | 99 | 15 | [Mijndert van der Spek](https://captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/) | Heriot-Watt University | GB | 6.8 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/#papers) | 232 |
-| 100 | 835 | Jae Edmonds | Pacific Northwest National Laboratory | US | 1.4 | 3 | 232 |
+| 100 | 835 | [Jae Edmonds](/cdr-researcher-census/researchers/jae-edmonds-a5079684/) | Pacific Northwest National Laboratory | US | 1.4 | [3](/cdr-researcher-census/researchers/jae-edmonds-a5079684/#papers) | 232 |
 
 ## Most cited, Europe top 50
 
 | Europe # | World # | Act. rank | Name | Institution | Country | Activity | Papers 2021–26 | Citations |
 |---:|---:|---:|---|---|---|---:|---:|---:|
-| 1 | 2 | 220 | Tom Terlouw | PSI | CH | 1.7 | 4 | 961 |
+| 1 | 2 | 220 | [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) | PSI | CH | 1.7 | [4](/cdr-researcher-census/researchers/tom-terlouw-a5036170/#papers) | 961 |
 | 2 | 3 | 5 | [André Bardow](https://captaindrawdown.com/cdr-researcher-census/researchers/andre-bardow-a5054788/) | ETH Zurich | CH | 9.1 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/andre-bardow-a5054788/#papers) | 947 |
-| 3 | 4 | 328 | Christian Bauer | Paul Scherrer Institut | CH | 1.1 | 3 | 892 |
+| 3 | 4 | 328 | [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/) | Paul Scherrer Institut | CH | 1.1 | [3](/cdr-researcher-census/researchers/christian-bauer-a5014902/#papers) | 892 |
 | 4 | 6 | 123 | [Vassilis Daioglou](https://captaindrawdown.com/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/) | Netherlands Environmental Assessment Agency | NL | 2.2 | [4](https://captaindrawdown.com/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/#papers) | 754 |
-| 5 | 7 | 732 | Dawid P. Hanak | Teesside University | GB | 0.9 | 2 | 746 |
-| 6 | 9 | 268 | David Reiner | University of Cambridge | GB | 1.4 | 3 | 717 |
-| 7 | 10 | 269 | Zeynep Clulow | University of Cambridge † | GB | 1.4 | 3 | 717 |
-| 8 | 15 | 1403 | Eloy S. Sanz-Pérez | Universidad Rey Juan Carlos | ES | 0.4 | 1 | 690 |
-| 9 | 16 | 1404 | Greg A. Mutch | Newcastle University † | GB | 0.4 | 1 | 690 |
-| 10 | 17 | 1405 | María Erans | University of Valencia | ES | 0.4 | 1 | 690 |
-| 11 | 18 | 126 | Sarah Deutz | Forschungszentrum Jülich | DE | 2.0 | 4 | 620 |
-| 12 | 19 | 746 | Alois Dirnaichner | Potsdam Institute for Climate Impact Research † | DE | 0.8 | 2 | 596 |
-| 13 | 20 | 747 | B. Cox | INFRAS AG | CH | 0.8 | 2 | 596 |
-| 14 | 21 | 748 | Christopher Mutel | ecoinvent association | CH | 0.8 | 2 | 596 |
-| 15 | 22 | 749 | Gunnar Luderer | Technische Universität Berlin | DE | 0.8 | 2 | 596 |
-| 16 | 23 | 750 | Kais Siala | Technical University of Munich † | DE | 0.8 | 2 | 596 |
-| 17 | 24 | 751 | Romain Sacchi | Paul Scherrer Institut | CH | 0.8 | 2 | 596 |
+| 5 | 7 | 732 | [Dawid P. Hanak](/cdr-researcher-census/researchers/dawid-p-hanak-a5070456/) | Teesside University | GB | 0.9 | [2](/cdr-researcher-census/researchers/dawid-p-hanak-a5070456/#papers) | 746 |
+| 6 | 9 | 268 | [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/) | University of Cambridge | GB | 1.4 | [3](/cdr-researcher-census/researchers/david-reiner-a5085217/#papers) | 717 |
+| 7 | 10 | 269 | [Zeynep Clulow](/cdr-researcher-census/researchers/zeynep-clulow-a5091372/) | University of Cambridge † | GB | 1.4 | [3](/cdr-researcher-census/researchers/zeynep-clulow-a5091372/#papers) | 717 |
+| 8 | 15 | 1403 | [Eloy S. Sanz-Pérez](/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/) | Universidad Rey Juan Carlos | ES | 0.4 | [1](/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/#papers) | 690 |
+| 9 | 16 | 1404 | [Greg A. Mutch](/cdr-researcher-census/researchers/greg-a-mutch-a5016518/) | Newcastle University † | GB | 0.4 | [1](/cdr-researcher-census/researchers/greg-a-mutch-a5016518/#papers) | 690 |
+| 10 | 17 | 1405 | [María Erans](/cdr-researcher-census/researchers/maria-erans-a5025793/) | University of Valencia | ES | 0.4 | [1](/cdr-researcher-census/researchers/maria-erans-a5025793/#papers) | 690 |
+| 11 | 18 | 126 | [Sarah Deutz](/cdr-researcher-census/researchers/sarah-deutz-a5086401/) | Forschungszentrum Jülich | DE | 2.0 | [4](/cdr-researcher-census/researchers/sarah-deutz-a5086401/#papers) | 620 |
+| 12 | 19 | 746 | [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/) | Potsdam Institute for Climate Impact Research † | DE | 0.8 | [2](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/#papers) | 596 |
+| 13 | 20 | 747 | [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/) | INFRAS AG | CH | 0.8 | [2](/cdr-researcher-census/researchers/b-cox-a5023730/#papers) | 596 |
+| 14 | 21 | 748 | [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/) | ecoinvent association | CH | 0.8 | [2](/cdr-researcher-census/researchers/christopher-mutel-a5044214/#papers) | 596 |
+| 15 | 22 | 749 | [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/) | Technische Universität Berlin | DE | 0.8 | [2](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/#papers) | 596 |
+| 16 | 23 | 750 | [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/) | Technical University of Munich † | DE | 0.8 | [2](/cdr-researcher-census/researchers/kais-siala-a5069661/#papers) | 596 |
+| 17 | 24 | 751 | [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/) | Paul Scherrer Institut | CH | 0.8 | [2](/cdr-researcher-census/researchers/romain-sacchi-a5027573/#papers) | 596 |
 | 18 | 25 | 9 | [Marco Mazzotti](https://captaindrawdown.com/cdr-researcher-census/researchers/marco-mazzotti-a5038211/) | ETH Zurich | CH | 8.3 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/marco-mazzotti-a5038211/#papers) | 587 |
 | 19 | 26 | 18 | [Matteo Gazzani](https://captaindrawdown.com/cdr-researcher-census/researchers/matteo-gazzani-a5040380/) | Utrecht University | NL | 5.8 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/matteo-gazzani-a5040380/#papers) | 570 |
 | 20 | 28 | 74 | [Stavros Michailos](https://captaindrawdown.com/cdr-researcher-census/researchers/stavros-michailos-a5052441/) | University of Hull | GB | 2.8 | [5](https://captaindrawdown.com/cdr-researcher-census/researchers/stavros-michailos-a5052441/#papers) | 546 |
 | 21 | 29 | 105 | [Mohamed Pourkashanian](https://captaindrawdown.com/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/) | University of Sheffield | GB | 2.4 | [4](https://captaindrawdown.com/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/#papers) | 541 |
-| 22 | 30 | 297 | Francesco Sabatino | Eindhoven University of Technology † | NL | 1.3 | 3 | 509 |
-| 23 | 31 | 298 | M. van Sint Annaland | Eindhoven University of Technology | NL | 1.3 | 3 | 509 |
-| 24 | 32 | 340 | Maria Fernanda Rojas Michaga | University of Sheffield † | GB | 1.0 | 2 | 503 |
-| 25 | 33 | 1069 | Fausto Gallucci | ZEFIRA BV | NL | 0.7 | 2 | 502 |
-| 26 | 34 | 76 | Carolina Font-Palma | University of Hull | GB | 2.8 | 4 | 483 |
-| 27 | 35 | 221 | Alexa Grimm | Utrecht University † | NL | 1.7 | 4 | 465 |
-| 28 | 46 | 731 | Gert Jan Kramer | Utrecht University † | NL | 0.9 | 2 | 450 |
-| 29 | 57 | 1277 | R.Q. Wang | Durham University † | GB | 0.5 | 1 | 323 |
+| 22 | 30 | 297 | [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/) | Eindhoven University of Technology † | NL | 1.3 | [3](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/#papers) | 509 |
+| 23 | 31 | 298 | [M. van Sint Annaland](/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/) | Eindhoven University of Technology | NL | 1.3 | [3](/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/#papers) | 509 |
+| 24 | 32 | 340 | [Maria Fernanda Rojas Michaga](/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/) | University of Sheffield † | GB | 1.0 | [2](/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/#papers) | 503 |
+| 25 | 33 | 1069 | [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/) | ZEFIRA BV | NL | 0.7 | [2](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/#papers) | 502 |
+| 26 | 34 | 76 | [Carolina Font-Palma](/cdr-researcher-census/researchers/carolina-font-palma-a5026211/) | University of Hull | GB | 2.8 | [4](/cdr-researcher-census/researchers/carolina-font-palma-a5026211/#papers) | 483 |
+| 27 | 35 | 221 | [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/) | Utrecht University † | NL | 1.7 | [4](/cdr-researcher-census/researchers/alexa-grimm-a5103982/#papers) | 465 |
+| 28 | 46 | 731 | [Gert Jan Kramer](/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/) | Utrecht University † | NL | 0.9 | [2](/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/#papers) | 450 |
+| 29 | 57 | 1277 | [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5016842/) | Durham University † | GB | 0.5 | [1](/cdr-researcher-census/researchers/rq-wang-a5016842/#papers) | 323 |
 | 30 | 60 | 28 | [Christian Breyer](https://captaindrawdown.com/cdr-researcher-census/researchers/christian-breyer-a5078913/) | Lappeenranta-Lahti University of Technology | FI | 4.0 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/christian-breyer-a5078913/#papers) | 315 |
 | 31 | 62 | 26 | [Phil Renforth](https://captaindrawdown.com/cdr-researcher-census/researchers/phil-renforth-a5011758/) | Heriot-Watt University | GB | 4.2 | [7](https://captaindrawdown.com/cdr-researcher-census/researchers/phil-renforth-a5011758/#papers) | 303 |
 | 32 | 63 | 46 | [Spyros Foteinis](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/) | Heriot-Watt University | GB | 3.2 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/#papers) | 303 |
-| 33 | 66 | 1509 | Karin Treyer | Paul Scherrer Institute | CH | 0.3 | 1 | 296 |
-| 34 | 67 | 92 | Olivia Hawrot | Nano Carbon (Poland) † | PL | 2.7 | 5 | 287 |
-| 35 | 68 | 1406 | Manu Lahtinen | University of Jyväskylä | FI | 0.4 | 1 | 284 |
-| 36 | 76 | 1078 | Emilio Borrego-Marin | Universidad de Granada † | ES | 0.6 | 1 | 273 |
-| 37 | 78 | 1079 | Jorge A. R. Navarro | Universidad de Granada | ES | 0.6 | 1 | 273 |
-| 38 | 83 | 194 | Dmitrii Bogdanov | LUT University | FI | 1.8 | 3 | 252 |
-| 39 | 84 | 195 | Siavash Khalili | LUT University | FI | 1.8 | 3 | 252 |
-| 40 | 85 | 752 | Manish Ram | Lappeenranta University of Technology | FI | 0.8 | 2 | 249 |
-| 41 | 86 | 753 | Theophilus Nii Odai Mensah | Lappeenranta-Lahti University of Technology † | FI | 0.8 | 2 | 249 |
-| 42 | 87 | 739 | Felix Creutzig | University of Sussex † | GB | 0.8 | 2 | 246 |
-| 43 | 88 | 740 | Kavya Madhu | University of Freiburg † | DE | 0.8 | 2 | 246 |
-| 44 | 89 | 741 | Stefan Pauliuk | University of Freiburg | DE | 0.8 | 2 | 246 |
-| 45 | 90 | 742 | Sumukha Dhathri | University of Freiburg † | DE | 0.8 | 2 | 246 |
-| 46 | 96 | 51 | Viola Becattini | ETH Zurich | CH | 3.2 | 5 | 244 |
+| 33 | 66 | 1509 | [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/) | Paul Scherrer Institute | CH | 0.3 | [1](/cdr-researcher-census/researchers/karin-treyer-a5068272/#papers) | 296 |
+| 34 | 67 | 92 | [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) | Nano Carbon (Poland) † | PL | 2.7 | [5](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/#papers) | 287 |
+| 35 | 68 | 1406 | [Manu Lahtinen](/cdr-researcher-census/researchers/manu-lahtinen-a5001914/) | University of Jyväskylä | FI | 0.4 | [1](/cdr-researcher-census/researchers/manu-lahtinen-a5001914/#papers) | 284 |
+| 36 | 76 | 1078 | [Emilio Borrego-Marin](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/) | Universidad de Granada † | ES | 0.6 | [1](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/#papers) | 273 |
+| 37 | 78 | 1079 | [Jorge A. R. Navarro](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/) | Universidad de Granada | ES | 0.6 | [1](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/#papers) | 273 |
+| 38 | 83 | 194 | [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/) | LUT University | FI | 1.8 | [3](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/#papers) | 252 |
+| 39 | 84 | 195 | [Siavash Khalili](/cdr-researcher-census/researchers/siavash-khalili-a5019517/) | LUT University | FI | 1.8 | [3](/cdr-researcher-census/researchers/siavash-khalili-a5019517/#papers) | 252 |
+| 40 | 85 | 752 | [Manish Ram](/cdr-researcher-census/researchers/manish-ram-a5022314/) | Lappeenranta University of Technology | FI | 0.8 | [2](/cdr-researcher-census/researchers/manish-ram-a5022314/#papers) | 249 |
+| 41 | 86 | 753 | [Theophilus Nii Odai Mensah](/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/) | Lappeenranta-Lahti University of Technology † | FI | 0.8 | [2](/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/#papers) | 249 |
+| 42 | 87 | 739 | [Felix Creutzig](/cdr-researcher-census/researchers/felix-creutzig-a5078552/) | University of Sussex † | GB | 0.8 | [2](/cdr-researcher-census/researchers/felix-creutzig-a5078552/#papers) | 246 |
+| 43 | 88 | 740 | [Kavya Madhu](/cdr-researcher-census/researchers/kavya-madhu-a5071396/) | University of Freiburg † | DE | 0.8 | [2](/cdr-researcher-census/researchers/kavya-madhu-a5071396/#papers) | 246 |
+| 44 | 89 | 741 | [Stefan Pauliuk](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/) | University of Freiburg | DE | 0.8 | [2](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/#papers) | 246 |
+| 45 | 90 | 742 | [Sumukha Dhathri](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/) | University of Freiburg † | DE | 0.8 | [2](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/#papers) | 246 |
+| 46 | 96 | 51 | [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/) | ETH Zurich | CH | 3.2 | [5](/cdr-researcher-census/researchers/viola-becattini-a5055416/#papers) | 244 |
 | 47 | 99 | 12 | [Mijndert van der Spek](https://captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/) | Heriot-Watt University | GB | 6.8 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/#papers) | 232 |
 | 48 | – | 14 | [Chad M. Baum](https://captaindrawdown.com/cdr-researcher-census/researchers/chad-m-baum-a5057828/) | Aarhus University | DK | 6.2 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/chad-m-baum-a5057828/#papers) | 231 |
 | 49 | – | 29 | [Susana García](https://captaindrawdown.com/cdr-researcher-census/researchers/susana-garcia-a5044341/) | Heriot-Watt University | GB | 4.0 | [7](https://captaindrawdown.com/cdr-researcher-census/researchers/susana-garcia-a5044341/#papers) | 226 |
-| 50 | – | 54 | John F. Young | Global Thermostat (United States) | GB | 3.0 | 6 | 224 |
+| 50 | – | 54 | [John F. Young](/cdr-researcher-census/researchers/john-f-young-a5108406/) | Global Thermostat (United States) | GB | 3.0 | [6](/cdr-researcher-census/researchers/john-f-young-a5108406/#papers) | 224 |
 
 † Institution from the OpenAlex author profile, not confirmed by the researcher's recent papers.
 

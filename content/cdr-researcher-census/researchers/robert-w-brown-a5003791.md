@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
 description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 88 by activity, 4678 by citations. 49 publications, h-index 19, 1,399 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true

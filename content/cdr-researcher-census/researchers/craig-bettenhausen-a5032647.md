@@ -1,7 +1,7 @@
 ---
 title: "Craig Bettenhausen﻿"
 description: "Craig Bettenhausen﻿. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 53 by activity, 2128 by citations. 876 publications, h-index 6, 205 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/craig-bettenhausen-a5032647/"
 layout: "researcher"
 hiddenInHomeList: true

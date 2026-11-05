@@ -1,7 +1,7 @@
 ---
 title: "José Luiz de Medeiros"
 description: "José Luiz de Medeiros, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 37 by activity, 153 by citations. 193 publications, h-index 33, 3,084 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/"
 layout: "researcher"
 hiddenInHomeList: true

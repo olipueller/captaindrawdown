@@ -1,7 +1,7 @@
 ---
 title: "Christine Merk"
 description: "Christine Merk, Kiel Institute for the World Economy, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 78 by activity, 254 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/christine-merk-a5135538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Deliberative polling increases non-expert confidence in assessments about carbon dioxide removal technologies](https://openalex.org/W7154953938)<br><small>with Endre Tvinnereim, Gisle Andersen, Marie L. Ljones, Åsta Dyrnes Nordø</small> | Cross-cutting CDR | 0 |
-| 2026 | [Communicating and regulating marine carbon dioxide removal (mCDR)](https://openalex.org/W7155102855)<br><small>with Jan Bazyli Klakla, Ginevra Le Moli, Manfredi Marciante, Zeynep Clulow, Yelena Yermakova</small> | Ocean CDR | 0 |
+| 2026 | [Communicating and regulating marine carbon dioxide removal (mCDR)](https://openalex.org/W7155102855)<br><small>with Jan Bazyli Klakla, Ginevra Le Moli, Manfredi Marciante, [Zeynep Clulow](/cdr-researcher-census/researchers/zeynep-clulow-a5091372/), Yelena Yermakova</small> | Ocean CDR | 0 |
 | 2026 | [An ecosystem of carbon dioxide removal reviews – part 2: CO <sub>2</sub> removal <i>via</i> blue carbon ecosystems](https://openalex.org/W7162450856)<br><small>with Christian Rischer, Carisa MacPherson, Daniel A. Friess, David Keller, Ignacio Saldivia Gonzatti, Jennifer McHenry and 7 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal](https://openalex.org/W7172564256)<br><small>with Rob Bellamy, Rob Bellamy, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Christine Merk, [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/), Livia Fritz and 3 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Public support for novel carbon removal hinges on procedural and distributive fairness](https://openalex.org/W7214219066)<br><small>with Livia Fritz, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Lucilla Losi, Michela Boldrini, Valentina Bosetti, [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/)</small> | Cross-cutting CDR | 0 |

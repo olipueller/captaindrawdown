@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
 description: "Matthias Honegger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 51 by activity, 140 by citations. 57 publications, h-index 14, 946 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true

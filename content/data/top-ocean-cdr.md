@@ -192,100 +192,100 @@ The same researchers ranked by citations to their CDR papers since 2021. Citatio
 | 4 | 17 | [Jean‐Pierre Gattuso](https://captaindrawdown.com/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/) | CNRS | FR | 11.6 | [17](https://captaindrawdown.com/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/#papers) | 571 |
 | 5 | 3 | [Ulf Riebesell](https://captaindrawdown.com/cdr-researcher-census/researchers/ulf-riebesell-a5005675/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 33.6 | [50](https://captaindrawdown.com/cdr-researcher-census/researchers/ulf-riebesell-a5005675/#papers) | 568 |
 | 6 | 16 | [Kai G. Schulz](https://captaindrawdown.com/cdr-researcher-census/researchers/kai-g-schulz-a5091734/) | Southern Cross University | AU | 12.0 | [18](https://captaindrawdown.com/cdr-researcher-census/researchers/kai-g-schulz-a5091734/#papers) | 567 |
-| 7 | 115 | Jens Daniel Müller | Carbon to Sea Initiative | US | 5.5 | 7 | 537 |
-| 8 | 236 | Tim DeVries | University of California Santa Barbara | US | 3.5 | 6 | 484 |
+| 7 | 115 | [Jens Daniel Müller](/cdr-researcher-census/researchers/jens-daniel-muller-a5076687/) | Carbon to Sea Initiative | US | 5.5 | [7](/cdr-researcher-census/researchers/jens-daniel-muller-a5076687/#papers) | 537 |
+| 8 | 236 | [Tim DeVries](/cdr-researcher-census/researchers/tim-devries-a5063318/) | University of California Santa Barbara | US | 3.5 | [6](/cdr-researcher-census/researchers/tim-devries-a5063318/#papers) | 484 |
 | 9 | 2 | [Andreas Oschlies](https://captaindrawdown.com/cdr-researcher-census/researchers/andreas-oschlies-a5063745/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 34.0 | [46](https://captaindrawdown.com/cdr-researcher-census/researchers/andreas-oschlies-a5063745/#papers) | 445 |
 | 10 | 30 | [Judith Hauck](https://captaindrawdown.com/cdr-researcher-census/researchers/judith-hauck-a5068651/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 9.5 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/judith-hauck-a5068651/#papers) | 433 |
-| 11 | 189 | Catriona L. Hurd | University of Tasmania | AU | 3.9 | 7 | 407 |
+| 11 | 189 | [Catriona L. Hurd](/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/) | University of Tasmania | AU | 3.9 | [7](/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/#papers) | 407 |
 | 12 | 15 | [Michael D. Tyka](https://captaindrawdown.com/cdr-researcher-census/researchers/michael-d-tyka-a5073201/) | Google (United States) | US | 12.3 | [18](https://captaindrawdown.com/cdr-researcher-census/researchers/michael-d-tyka-a5073201/#papers) | 386 |
 | 13 | 23 | [Matthew D. Eisaman](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/) | Yale University | US | 10.3 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/#papers) | 376 |
-| 14 | 105 | Wei‐Jun Cai | University of Delaware | US | 5.7 | 10 | 376 |
+| 14 | 105 | [Wei‐Jun Cai](/cdr-researcher-census/researchers/weijun-cai-a5062468/) | University of Delaware | US | 5.7 | [10](/cdr-researcher-census/researchers/weijun-cai-a5062468/#papers) | 376 |
 | 15 | 85 | [Phillip Williamson](https://captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/) | University of East Anglia | GB | 6.3 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/#papers) | 368 |
-| 16 | 117 | Minhan Dai | Xiamen University | CN | 5.3 | 9 | 368 |
+| 16 | 117 | [Minhan Dai](/cdr-researcher-census/researchers/minhan-dai-a5000330/) | Xiamen University | CN | 5.3 | [9](/cdr-researcher-census/researchers/minhan-dai-a5000330/#papers) | 368 |
 | 17 | 10 | [David T. Ho](https://captaindrawdown.com/cdr-researcher-census/researchers/david-t-ho-a5080281/) | University of Hawaiʻi at Mānoa | US | 13.9 | [19](https://captaindrawdown.com/cdr-researcher-census/researchers/david-t-ho-a5080281/#papers) | 351 |
 | 18 | 88 | [Peter Landschützer](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-landschutzer-a5091506/) | Flanders Marine Institute | BE | 6.3 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-landschutzer-a5091506/#papers) | 334 |
 | 19 | 33 | [Brendan R. Carter](https://captaindrawdown.com/cdr-researcher-census/researchers/brendan-r-carter-a5008670/) | CICOES | US | 9.2 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/brendan-r-carter-a5008670/#papers) | 331 |
-| 20 | 5383 | Abarasi Hart | University of Birmingham | GB | 0.3 | 1 | 327 |
-| 21 | 5384 | Christian Anumudu | Queen Mary University of London | GB | 0.3 | 1 | 327 |
-| 22 | 5385 | Helen Onyeaka | University of Birmingham | GB | 0.3 | 1 | 327 |
-| 23 | 5386 | KeChrist Obileke | University of Fort Hare † | ZA | 0.3 | 1 | 327 |
-| 24 | 5387 | Taghi Miri | The University of Birmingham | GB | 0.3 | 1 | 327 |
-| 25 | 5388 | Zainab T. Al‐Sharify | Al Hikma university college | IQ | 0.3 | 1 | 327 |
-| 26 | 278 | Dorothée C. E. Bakker | University of East Anglia | GB | 3.1 | 7 | 324 |
+| 20 | 5383 | [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/) | University of Birmingham | GB | 0.3 | [1](/cdr-researcher-census/researchers/abarasi-hart-a5005192/#papers) | 327 |
+| 21 | 5384 | [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/) | Queen Mary University of London | GB | 0.3 | [1](/cdr-researcher-census/researchers/christian-anumudu-a5042861/#papers) | 327 |
+| 22 | 5385 | [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/) | University of Birmingham | GB | 0.3 | [1](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/#papers) | 327 |
+| 23 | 5386 | [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/) | University of Fort Hare † | ZA | 0.3 | [1](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/#papers) | 327 |
+| 24 | 5387 | [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/) | The University of Birmingham | GB | 0.3 | [1](/cdr-researcher-census/researchers/taghi-miri-a5063355/#papers) | 327 |
+| 25 | 5388 | [Zainab T. Al‐Sharify](/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/) | Al Hikma university college | IQ | 0.3 | [1](/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/#papers) | 327 |
+| 26 | 278 | [Dorothée C. E. Bakker](/cdr-researcher-census/researchers/dorothee-c-e-bakker-a5090846/) | University of East Anglia | GB | 3.1 | [7](/cdr-researcher-census/researchers/dorothee-c-e-bakker-a5090846/#papers) | 324 |
 | 27 | 18 | [Jens Hartmann](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/) | Universität Hamburg | DE | 11.4 | [17](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/#papers) | 315 |
-| 28 | 378 | Nicolas Gruber | ETH Zürich | CH | 2.6 | 4 | 312 |
+| 28 | 378 | [Nicolas Gruber](/cdr-researcher-census/researchers/nicolas-gruber-a5033288/) | ETH Zürich | CH | 2.6 | [4](/cdr-researcher-census/researchers/nicolas-gruber-a5033288/#papers) | 312 |
 | 29 | 63 | [Nianzhi Jiao](https://captaindrawdown.com/cdr-researcher-census/researchers/nianzhi-jiao-a5024666/) | Xiamen University | CN | 7.2 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/nianzhi-jiao-a5024666/#papers) | 310 |
-| 30 | 814 | Pere Masqué | Universitat Autònoma de Barcelona | ES | 1.7 | 5 | 305 |
-| 31 | 257 | Aaron Ferderer | Commonwealth Scientific and Industrial Research Organisation † | AU | 3.2 | 6 | 302 |
-| 32 | 126 | Javier Arı́stegui | Universidad de Las Palmas de Gran Canaria | ES | 5.1 | 9 | 301 |
-| 33 | 1092 | Ellie R. Paine | University of Tasmania † | AU | 1.3 | 3 | 301 |
+| 30 | 814 | [Pere Masqué](/cdr-researcher-census/researchers/pere-masque-a5011255/) | Universitat Autònoma de Barcelona | ES | 1.7 | [5](/cdr-researcher-census/researchers/pere-masque-a5011255/#papers) | 305 |
+| 31 | 257 | [Aaron Ferderer](/cdr-researcher-census/researchers/aaron-ferderer-a5058513/) | Commonwealth Scientific and Industrial Research Organisation † | AU | 3.2 | [6](/cdr-researcher-census/researchers/aaron-ferderer-a5058513/#papers) | 302 |
+| 32 | 126 | [Javier Arı́stegui](/cdr-researcher-census/researchers/javier-arstegui-a5091003/) | Universidad de Las Palmas de Gran Canaria | ES | 5.1 | [9](/cdr-researcher-census/researchers/javier-arstegui-a5091003/#papers) | 301 |
+| 33 | 1092 | [Ellie R. Paine](/cdr-researcher-census/researchers/ellie-r-paine-a5004557/) | University of Tasmania † | AU | 1.3 | [3](/cdr-researcher-census/researchers/ellie-r-paine-a5004557/#papers) | 301 |
 | 34 | 55 | [Matthew C. Long](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-c-long-a5055580/) | [C]Worthy | US | 7.5 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-c-long-a5055580/#papers) | 298 |
 | 35 | 95 | [Jan Taucher](https://captaindrawdown.com/cdr-researcher-census/researchers/jan-taucher-a5007343/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 6.0 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/jan-taucher-a5007343/#papers) | 294 |
 | 36 | 20 | [Charly A. Moras](https://captaindrawdown.com/cdr-researcher-census/researchers/charly-a-moras-a5020057/) | Universität Hamburg | DE | 11.3 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/charly-a-moras-a5020057/#papers) | 292 |
-| 37 | 946 | Goulven G. Laruelle | F.R.S-FNRS | BE | 1.5 | 3 | 285 |
-| 38 | 947 | Pierre Regnier | Université Libre de Bruxelles † | BE | 1.5 | 3 | 285 |
+| 37 | 946 | [Goulven G. Laruelle](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/) | F.R.S-FNRS | BE | 1.5 | [3](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/#papers) | 285 |
+| 38 | 947 | [Pierre Regnier](/cdr-researcher-census/researchers/pierre-regnier-a5028208/) | Université Libre de Bruxelles † | BE | 1.5 | [3](/cdr-researcher-census/researchers/pierre-regnier-a5028208/#papers) | 285 |
 | 39 | 44 | [Stefano Caserini](https://captaindrawdown.com/cdr-researcher-census/researchers/stefano-caserini-a5070147/) | University of Parma | IT | 8.3 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/stefano-caserini-a5070147/#papers) | 284 |
-| 40 | 194 | Veronica Tamsitt | CSIRO | AU | 3.8 | 6 | 283 |
-| 41 | 271 | Scott C. Doney | University of Virginia | US | 3.1 | 5 | 278 |
-| 42 | 309 | Albert Pessarrodona | The University of Western Australia | AU | 2.9 | 4 | 277 |
-| 43 | 408 | Galen A. McKinley | Columbia University and Lamont-Doherty Earth Observatory | US | 2.5 | 3 | 277 |
-| 44 | 4390 | Luke Gregor | ETH Zurich † | CH | 0.5 | 1 | 276 |
+| 40 | 194 | [Veronica Tamsitt](/cdr-researcher-census/researchers/veronica-tamsitt-a5037515/) | CSIRO | AU | 3.8 | [6](/cdr-researcher-census/researchers/veronica-tamsitt-a5037515/#papers) | 283 |
+| 41 | 271 | [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/) | University of Virginia | US | 3.1 | [5](/cdr-researcher-census/researchers/scott-c-doney-a5019762/#papers) | 278 |
+| 42 | 309 | [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/) | The University of Western Australia | AU | 2.9 | [4](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/#papers) | 277 |
+| 43 | 408 | [Galen A. McKinley](/cdr-researcher-census/researchers/galen-a-mckinley-a5024418/) | Columbia University and Lamont-Doherty Earth Observatory | US | 2.5 | [3](/cdr-researcher-census/researchers/galen-a-mckinley-a5024418/#papers) | 277 |
+| 44 | 4390 | [Luke Gregor](/cdr-researcher-census/researchers/luke-gregor-a5068433/) | ETH Zurich † | CH | 0.5 | [1](/cdr-researcher-census/researchers/luke-gregor-a5068433/#papers) | 276 |
 | 45 | 28 | [Laurent Bopp](https://captaindrawdown.com/cdr-researcher-census/researchers/laurent-bopp-a5079839/) | IPSL | FR | 9.7 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/laurent-bopp-a5079839/#papers) | 272 |
-| 46 | 371 | Karen Filbee‐Dexter | University of Western Australia | AU | 2.6 | 4 | 272 |
-| 47 | 830 | Thomas Wernberg | University of Western Australia | AU | 1.6 | 3 | 271 |
+| 46 | 371 | [Karen Filbee‐Dexter](/cdr-researcher-census/researchers/karen-filbeedexter-a5008910/) | University of Western Australia | AU | 2.6 | [4](/cdr-researcher-census/researchers/karen-filbeedexter-a5008910/#papers) | 272 |
+| 47 | 830 | [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/) | University of Western Australia | AU | 1.6 | [3](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/#papers) | 271 |
 | 48 | 13 | [Spyros Foteinis](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/) | Heriot-Watt University | GB | 13.0 | [18](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/#papers) | 267 |
-| 49 | 1188 | Emily Pidgeon | Conservation International † | US | 1.1 | 2 | 267 |
-| 50 | 1189 | Jennifer Howard | Conservation International | US | 1.1 | 2 | 267 |
-| 51 | 2255 | John A. Raven | University of Dundee | GB | 0.8 | 2 | 265 |
+| 49 | 1188 | [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/) | Conservation International † | US | 1.1 | [2](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/#papers) | 267 |
+| 50 | 1189 | [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/) | Conservation International | US | 1.1 | [2](/cdr-researcher-census/researchers/jennifer-howard-a5029102/#papers) | 267 |
+| 51 | 2255 | [John A. Raven](/cdr-researcher-census/researchers/john-a-raven-a5041675/) | University of Dundee | GB | 0.8 | [2](/cdr-researcher-census/researchers/john-a-raven-a5041675/#papers) | 265 |
 | 52 | 4 | [David P. Keller](https://captaindrawdown.com/cdr-researcher-census/researchers/david-p-keller-a5068205/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 22.0 | [33](https://captaindrawdown.com/cdr-researcher-census/researchers/david-p-keller-a5068205/#papers) | 264 |
-| 53 | 162 | Peter I. Macreadie | RMIT University | AU | 4.2 | 6 | 260 |
-| 54 | 104 | James Campbell | Heriot-Watt University | GB | 5.7 | 9 | 258 |
-| 55 | 207 | Tyler Cyronak | Georgia Southern University | US | 3.7 | 6 | 257 |
+| 53 | 162 | [Peter I. Macreadie](/cdr-researcher-census/researchers/peter-i-macreadie-a5020824/) | RMIT University | AU | 4.2 | [6](/cdr-researcher-census/researchers/peter-i-macreadie-a5020824/#papers) | 260 |
+| 54 | 104 | [James Campbell](/cdr-researcher-census/researchers/james-campbell-a5089134/) | Heriot-Watt University | GB | 5.7 | [9](/cdr-researcher-census/researchers/james-campbell-a5089134/#papers) | 258 |
+| 55 | 207 | [Tyler Cyronak](/cdr-researcher-census/researchers/tyler-cyronak-a5082795/) | Georgia Southern University | US | 3.7 | [6](/cdr-researcher-census/researchers/tyler-cyronak-a5082795/#papers) | 257 |
 | 56 | 45 | [Niels Suitner](https://captaindrawdown.com/cdr-researcher-census/researchers/niels-suitner-a5035414/) | Universität Hamburg | DE | 8.2 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/niels-suitner-a5035414/#papers) | 255 |
 | 57 | 87 | [Julieta Schneider](https://captaindrawdown.com/cdr-researcher-census/researchers/julieta-schneider-a5032139/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 6.3 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/julieta-schneider-a5032139/#papers) | 251 |
 | 58 | 51 | [Terre Satterfield](https://captaindrawdown.com/cdr-researcher-census/researchers/terre-satterfield-a5087921/) | University of British Columbia | CA | 7.8 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/terre-satterfield-a5087921/#papers) | 249 |
-| 59 | 4964 | Eileen E. Hofmann | Dominion University College † | GH | 0.4 | 1 | 245 |
-| 60 | 4965 | Fabrice Lacroix | University of Bern | CH | 0.4 | 1 | 245 |
-| 61 | 4966 | Feifei Meng | Guangxi University † | CN | 0.4 | 1 | 245 |
-| 62 | 4967 | Guizhi Wang | Xiamen University | CN | 0.4 | 1 | 245 |
-| 63 | 4968 | Jianping Gan | Hong Kong University of Science and Technology † | HK | 0.4 | 1 | 245 |
-| 64 | 4969 | Jianzhong Su | Hainan University † | CN | 0.4 | 1 | 245 |
-| 65 | 4970 | Yangyang Zhao | Innovative Orbital Design (United States) † | US | 0.4 | 1 | 245 |
-| 66 | 4971 | Zhimian Cao | Xiamen University † | CN | 0.4 | 1 | 245 |
-| 67 | 4972 | Zhixuan Wang | Shenzhen Bay Laboratory | CN | 0.4 | 1 | 245 |
+| 59 | 4964 | [Eileen E. Hofmann](/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/) | Dominion University College † | GH | 0.4 | [1](/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/#papers) | 245 |
+| 60 | 4965 | [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/) | University of Bern | CH | 0.4 | [1](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/#papers) | 245 |
+| 61 | 4966 | [Feifei Meng](/cdr-researcher-census/researchers/feifei-meng-a5100839/) | Guangxi University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/feifei-meng-a5100839/#papers) | 245 |
+| 62 | 4967 | [Guizhi Wang](/cdr-researcher-census/researchers/guizhi-wang-a5051534/) | Xiamen University | CN | 0.4 | [1](/cdr-researcher-census/researchers/guizhi-wang-a5051534/#papers) | 245 |
+| 63 | 4968 | [Jianping Gan](/cdr-researcher-census/researchers/jianping-gan-a5009715/) | Hong Kong University of Science and Technology † | HK | 0.4 | [1](/cdr-researcher-census/researchers/jianping-gan-a5009715/#papers) | 245 |
+| 64 | 4969 | [Jianzhong Su](/cdr-researcher-census/researchers/jianzhong-su-a5102876/) | Hainan University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/jianzhong-su-a5102876/#papers) | 245 |
+| 65 | 4970 | [Yangyang Zhao](/cdr-researcher-census/researchers/yangyang-zhao-a5037246/) | Innovative Orbital Design (United States) † | US | 0.4 | [1](/cdr-researcher-census/researchers/yangyang-zhao-a5037246/#papers) | 245 |
+| 66 | 4971 | [Zhimian Cao](/cdr-researcher-census/researchers/zhimian-cao-a5060900/) | Xiamen University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/zhimian-cao-a5060900/#papers) | 245 |
+| 67 | 4972 | [Zhixuan Wang](/cdr-researcher-census/researchers/zhixuan-wang-a5101717/) | Shenzhen Bay Laboratory | CN | 0.4 | [1](/cdr-researcher-census/researchers/zhixuan-wang-a5101717/#papers) | 245 |
 | 68 | 42 | [David A. Siegel](https://captaindrawdown.com/cdr-researcher-census/researchers/david-a-siegel-a5015835/) | University of California, Santa Barbara | US | 8.4 | [13](https://captaindrawdown.com/cdr-researcher-census/researchers/david-a-siegel-a5015835/#papers) | 241 |
 | 69 | 56 | [Sonja Geilert](https://captaindrawdown.com/cdr-researcher-census/researchers/sonja-geilert-a5043903/) | Utrecht University | NL | 7.5 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/sonja-geilert-a5043903/#papers) | 233 |
 | 70 | 96 | [Mario Grosso](https://captaindrawdown.com/cdr-researcher-census/researchers/mario-grosso-a5082273/) | Politecnico di Milano | IT | 6.0 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/mario-grosso-a5082273/#papers) | 229 |
-| 71 | 163 | Carl Lim | Universität Hamburg † | DE | 4.2 | 6 | 229 |
-| 72 | 518 | Renaud Joannes‐Boyau | Southern Cross University | AU | 2.2 | 4 | 229 |
-| 73 | 229 | Andrew W. Dale | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 3.5 | 6 | 224 |
-| 74 | 948 | Carlos M. Duarte | King Abdullah University of Science and Technology (KAUST) | SA | 1.5 | 3 | 223 |
-| 75 | 1065 | Olivia Hawrot | Nano Carbon (Poland) † | PL | 1.4 | 3 | 220 |
+| 71 | 163 | [Carl Lim](/cdr-researcher-census/researchers/carl-lim-a5015184/) | Universität Hamburg † | DE | 4.2 | [6](/cdr-researcher-census/researchers/carl-lim-a5015184/#papers) | 229 |
+| 72 | 518 | [Renaud Joannes‐Boyau](/cdr-researcher-census/researchers/renaud-joannesboyau-a5067586/) | Southern Cross University | AU | 2.2 | [4](/cdr-researcher-census/researchers/renaud-joannesboyau-a5067586/#papers) | 229 |
+| 73 | 229 | [Andrew W. Dale](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 3.5 | [6](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/#papers) | 224 |
+| 74 | 948 | [Carlos M. Duarte](/cdr-researcher-census/researchers/carlos-m-duarte-a5087569/) | King Abdullah University of Science and Technology (KAUST) | SA | 1.5 | [3](/cdr-researcher-census/researchers/carlos-m-duarte-a5087569/#papers) | 223 |
+| 75 | 1065 | [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) | Nano Carbon (Poland) † | PL | 1.4 | [3](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/#papers) | 220 |
 | 76 | 91 | [Laura Marín-Samper](https://captaindrawdown.com/cdr-researcher-census/researchers/laura-marin-samper-a5013241/) | Universidad de Las Palmas de Gran Canaria | ES | 6.2 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/laura-marin-samper-a5013241/#papers) | 219 |
-| 77 | 112 | Cliff S. Law | National Institute of Water and Atmospheric Research | NZ | 5.6 | 7 | 214 |
-| 78 | 568 | ﻿Zanna Chase | University of Tasmania | AU | 2.0 | 3 | 206 |
-| 79 | 103 | Robert F. Strzepek | University of Tasmania | AU | 5.7 | 9 | 199 |
-| 80 | 288 | Jaime B. Palter | University of Rhode Island | US | 3.0 | 5 | 189 |
+| 77 | 112 | [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/) | National Institute of Water and Atmospheric Research | NZ | 5.6 | [7](/cdr-researcher-census/researchers/cliff-s-law-a5017572/#papers) | 214 |
+| 78 | 568 | [﻿Zanna Chase](/cdr-researcher-census/researchers/zanna-chase-a5008038/) | University of Tasmania | AU | 2.0 | [3](/cdr-researcher-census/researchers/zanna-chase-a5008038/#papers) | 206 |
+| 79 | 103 | [Robert F. Strzepek](/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/) | University of Tasmania | AU | 5.7 | [9](/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/#papers) | 199 |
+| 80 | 288 | [Jaime B. Palter](/cdr-researcher-census/researchers/jaime-b-palter-a5056289/) | University of Rhode Island | US | 3.0 | [5](/cdr-researcher-census/researchers/jaime-b-palter-a5056289/#papers) | 189 |
 | 81 | 38 | [Sara Nawaz](https://captaindrawdown.com/cdr-researcher-census/researchers/sara-nawaz-a5083576/) | American University | US | 8.7 | [13](https://captaindrawdown.com/cdr-researcher-census/researchers/sara-nawaz-a5083576/#papers) | 188 |
-| 82 | 949 | Jing He | Woods Hole Oceanographic Institution † | US | 1.5 | 3 | 188 |
-| 83 | 279 | Greg H. Rau | Planetary Science Institute † | US | 3.0 | 5 | 187 |
-| 84 | 265 | Damon Britton | University of Tasmania | AU | 3.2 | 4 | 184 |
-| 85 | 572 | Luka Seamus Wright | The University of Western Australia † | AU | 2.0 | 3 | 183 |
-| 86 | 4391 | Mathew A. Vanderklift | CSIRO Oceans and Atmosphere † | AU | 0.5 | 1 | 179 |
-| 87 | 4392 | Rita Melo Franco-Santos | The University of Western Australia † | AU | 0.5 | 1 | 179 |
-| 88 | 4973 | Mark J. Hovenden | University of Tasmania | AU | 0.4 | 1 | 179 |
+| 82 | 949 | [Jing He](/cdr-researcher-census/researchers/jing-he-a5046957/) | Woods Hole Oceanographic Institution † | US | 1.5 | [3](/cdr-researcher-census/researchers/jing-he-a5046957/#papers) | 188 |
+| 83 | 279 | [Greg H. Rau](/cdr-researcher-census/researchers/greg-h-rau-a5035528/) | Planetary Science Institute † | US | 3.0 | [5](/cdr-researcher-census/researchers/greg-h-rau-a5035528/#papers) | 187 |
+| 84 | 265 | [Damon Britton](/cdr-researcher-census/researchers/damon-britton-a5004968/) | University of Tasmania | AU | 3.2 | [4](/cdr-researcher-census/researchers/damon-britton-a5004968/#papers) | 184 |
+| 85 | 572 | [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/) | The University of Western Australia † | AU | 2.0 | [3](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/#papers) | 183 |
+| 86 | 4391 | [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/) | CSIRO Oceans and Atmosphere † | AU | 0.5 | [1](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/#papers) | 179 |
+| 87 | 4392 | [Rita Melo Franco-Santos](/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/) | The University of Western Australia † | AU | 0.5 | [1](/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/#papers) | 179 |
+| 88 | 4973 | [Mark J. Hovenden](/cdr-researcher-census/researchers/mark-j-hovenden-a5081513/) | University of Tasmania | AU | 0.4 | [1](/cdr-researcher-census/researchers/mark-j-hovenden-a5081513/#papers) | 179 |
 | 89 | 35 | [Nadine Mengis](https://captaindrawdown.com/cdr-researcher-census/researchers/nadine-mengis-a5079879/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 9.0 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/nadine-mengis-a5079879/#papers) | 176 |
-| 90 | 254 | Claire Lo Monaco | Sorbonne University | FR | 3.3 | 6 | 174 |
-| 91 | 1077 | Tom W. Bell | Woods Hole Oceanographic Institution † | US | 1.3 | 3 | 173 |
+| 90 | 254 | [Claire Lo Monaco](/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/) | Sorbonne University | FR | 3.3 | [6](/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/#papers) | 174 |
+| 91 | 1077 | [Tom W. Bell](/cdr-researcher-census/researchers/tom-w-bell-a5008288/) | Woods Hole Oceanographic Institution † | US | 1.3 | [3](/cdr-researcher-census/researchers/tom-w-bell-a5008288/#papers) | 173 |
 | 92 | 6 | [Katja Fennel](https://captaindrawdown.com/cdr-researcher-census/researchers/katja-fennel-a5000863/) | Dalhousie University | CA | 16.2 | [20](https://captaindrawdown.com/cdr-researcher-census/researchers/katja-fennel-a5000863/#papers) | 172 |
-| 93 | 1066 | Catherine E. Lovelock | The University of Queensland | AU | 1.4 | 3 | 171 |
-| 94 | 137 | Benjamin S. Twining | Bigelow Laboratory for Ocean Sciences | US | 4.8 | 8 | 170 |
-| 95 | 5389 | Ao Jian | Xiamen University † | CN | 0.3 | 1 | 168 |
-| 96 | 5390 | Guang Gao | Xiamen University | CN | 0.3 | 1 | 168 |
-| 97 | 5391 | Lin Gao | Suzhou University of Science and Technology † | CN | 0.3 | 1 | 168 |
-| 98 | 5392 | Linwen He | Hainan University † | CN | 0.3 | 1 | 168 |
-| 99 | 5393 | Meijia Jiang | Xiamen University † | CN | 0.3 | 1 | 168 |
-| 100 | 5394 | Alan T. Critchley | Verschuren Centre for Sustainability in Energy and Environment, | CA | 0.3 | 1 | 164 |
+| 93 | 1066 | [Catherine E. Lovelock](/cdr-researcher-census/researchers/catherine-e-lovelock-a5070671/) | The University of Queensland | AU | 1.4 | [3](/cdr-researcher-census/researchers/catherine-e-lovelock-a5070671/#papers) | 171 |
+| 94 | 137 | [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/) | Bigelow Laboratory for Ocean Sciences | US | 4.8 | [8](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/#papers) | 170 |
+| 95 | 5389 | [Ao Jian](/cdr-researcher-census/researchers/ao-jian-a5117711/) | Xiamen University † | CN | 0.3 | [1](/cdr-researcher-census/researchers/ao-jian-a5117711/#papers) | 168 |
+| 96 | 5390 | [Guang Gao](/cdr-researcher-census/researchers/guang-gao-a5028684/) | Xiamen University | CN | 0.3 | [1](/cdr-researcher-census/researchers/guang-gao-a5028684/#papers) | 168 |
+| 97 | 5391 | [Lin Gao](/cdr-researcher-census/researchers/lin-gao-a5086694/) | Suzhou University of Science and Technology † | CN | 0.3 | [1](/cdr-researcher-census/researchers/lin-gao-a5086694/#papers) | 168 |
+| 98 | 5392 | [Linwen He](/cdr-researcher-census/researchers/linwen-he-a5113517/) | Hainan University † | CN | 0.3 | [1](/cdr-researcher-census/researchers/linwen-he-a5113517/#papers) | 168 |
+| 99 | 5393 | [Meijia Jiang](/cdr-researcher-census/researchers/meijia-jiang-a5072765/) | Xiamen University † | CN | 0.3 | [1](/cdr-researcher-census/researchers/meijia-jiang-a5072765/#papers) | 168 |
+| 100 | 5394 | [Alan T. Critchley](/cdr-researcher-census/researchers/alan-t-critchley-a5005360/) | Verschuren Centre for Sustainability in Energy and Environment, | CA | 0.3 | [1](/cdr-researcher-census/researchers/alan-t-critchley-a5005360/#papers) | 164 |
 
 ## Most cited, Europe top 50
 
@@ -298,49 +298,49 @@ The same researchers ranked by citations to their CDR papers since 2021. Citatio
 | 5 | 10 | 19 | [Judith Hauck](https://captaindrawdown.com/cdr-researcher-census/researchers/judith-hauck-a5068651/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 9.5 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/judith-hauck-a5068651/#papers) | 433 |
 | 6 | 15 | 51 | [Phillip Williamson](https://captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/) | University of East Anglia | GB | 6.3 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/#papers) | 368 |
 | 7 | 18 | 53 | [Peter Landschützer](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-landschutzer-a5091506/) | Flanders Marine Institute | BE | 6.3 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-landschutzer-a5091506/#papers) | 334 |
-| 8 | 20 | 1479 | Abarasi Hart | University of Birmingham | GB | 0.3 | 1 | 327 |
-| 9 | 21 | 1480 | Christian Anumudu | Queen Mary University of London | GB | 0.3 | 1 | 327 |
-| 10 | 22 | 1481 | Helen Onyeaka | University of Birmingham | GB | 0.3 | 1 | 327 |
-| 11 | 24 | 1482 | Taghi Miri | The University of Birmingham | GB | 0.3 | 1 | 327 |
-| 12 | 26 | 126 | Dorothée C. E. Bakker | University of East Anglia | GB | 3.1 | 7 | 324 |
+| 8 | 20 | 1479 | [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/) | University of Birmingham | GB | 0.3 | [1](/cdr-researcher-census/researchers/abarasi-hart-a5005192/#papers) | 327 |
+| 9 | 21 | 1480 | [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/) | Queen Mary University of London | GB | 0.3 | [1](/cdr-researcher-census/researchers/christian-anumudu-a5042861/#papers) | 327 |
+| 10 | 22 | 1481 | [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/) | University of Birmingham | GB | 0.3 | [1](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/#papers) | 327 |
+| 11 | 24 | 1482 | [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/) | The University of Birmingham | GB | 0.3 | [1](/cdr-researcher-census/researchers/taghi-miri-a5063355/#papers) | 327 |
+| 12 | 26 | 126 | [Dorothée C. E. Bakker](/cdr-researcher-census/researchers/dorothee-c-e-bakker-a5090846/) | University of East Anglia | GB | 3.1 | [7](/cdr-researcher-census/researchers/dorothee-c-e-bakker-a5090846/#papers) | 324 |
 | 13 | 27 | 11 | [Jens Hartmann](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/) | Universität Hamburg | DE | 11.4 | [17](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/#papers) | 315 |
-| 14 | 28 | 161 | Nicolas Gruber | ETH Zürich | CH | 2.6 | 4 | 312 |
-| 15 | 30 | 366 | Pere Masqué | Universitat Autònoma de Barcelona | ES | 1.7 | 5 | 305 |
-| 16 | 32 | 66 | Javier Arı́stegui | Universidad de Las Palmas de Gran Canaria | ES | 5.1 | 9 | 301 |
+| 14 | 28 | 161 | [Nicolas Gruber](/cdr-researcher-census/researchers/nicolas-gruber-a5033288/) | ETH Zürich | CH | 2.6 | [4](/cdr-researcher-census/researchers/nicolas-gruber-a5033288/#papers) | 312 |
+| 15 | 30 | 366 | [Pere Masqué](/cdr-researcher-census/researchers/pere-masque-a5011255/) | Universitat Autònoma de Barcelona | ES | 1.7 | [5](/cdr-researcher-census/researchers/pere-masque-a5011255/#papers) | 305 |
+| 16 | 32 | 66 | [Javier Arı́stegui](/cdr-researcher-census/researchers/javier-arstegui-a5091003/) | Universidad de Las Palmas de Gran Canaria | ES | 5.1 | [9](/cdr-researcher-census/researchers/javier-arstegui-a5091003/#papers) | 301 |
 | 17 | 35 | 58 | [Jan Taucher](https://captaindrawdown.com/cdr-researcher-census/researchers/jan-taucher-a5007343/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 6.0 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/jan-taucher-a5007343/#papers) | 294 |
 | 18 | 36 | 13 | [Charly A. Moras](https://captaindrawdown.com/cdr-researcher-census/researchers/charly-a-moras-a5020057/) | Universität Hamburg | DE | 11.3 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/charly-a-moras-a5020057/#papers) | 292 |
-| 19 | 37 | 411 | Goulven G. Laruelle | F.R.S-FNRS | BE | 1.5 | 3 | 285 |
-| 20 | 38 | 412 | Pierre Regnier | Université Libre de Bruxelles † | BE | 1.5 | 3 | 285 |
+| 19 | 37 | 411 | [Goulven G. Laruelle](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/) | F.R.S-FNRS | BE | 1.5 | [3](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/#papers) | 285 |
+| 20 | 38 | 412 | [Pierre Regnier](/cdr-researcher-census/researchers/pierre-regnier-a5028208/) | Université Libre de Bruxelles † | BE | 1.5 | [3](/cdr-researcher-census/researchers/pierre-regnier-a5028208/#papers) | 285 |
 | 21 | 39 | 26 | [Stefano Caserini](https://captaindrawdown.com/cdr-researcher-census/researchers/stefano-caserini-a5070147/) | University of Parma | IT | 8.3 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/stefano-caserini-a5070147/#papers) | 284 |
-| 22 | 44 | 1254 | Luke Gregor | ETH Zurich † | CH | 0.5 | 1 | 276 |
+| 22 | 44 | 1254 | [Luke Gregor](/cdr-researcher-census/researchers/luke-gregor-a5068433/) | ETH Zurich † | CH | 0.5 | [1](/cdr-researcher-census/researchers/luke-gregor-a5068433/#papers) | 276 |
 | 23 | 45 | 17 | [Laurent Bopp](https://captaindrawdown.com/cdr-researcher-census/researchers/laurent-bopp-a5079839/) | IPSL | FR | 9.7 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/laurent-bopp-a5079839/#papers) | 272 |
 | 24 | 48 | 8 | [Spyros Foteinis](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/) | Heriot-Watt University | GB | 13.0 | [18](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/#papers) | 267 |
-| 25 | 51 | 735 | John A. Raven | University of Dundee | GB | 0.8 | 2 | 265 |
+| 25 | 51 | 735 | [John A. Raven](/cdr-researcher-census/researchers/john-a-raven-a5041675/) | University of Dundee | GB | 0.8 | [2](/cdr-researcher-census/researchers/john-a-raven-a5041675/#papers) | 265 |
 | 26 | 52 | 3 | [David P. Keller](https://captaindrawdown.com/cdr-researcher-census/researchers/david-p-keller-a5068205/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 22.0 | [33](https://captaindrawdown.com/cdr-researcher-census/researchers/david-p-keller-a5068205/#papers) | 264 |
-| 27 | 54 | 62 | James Campbell | Heriot-Watt University | GB | 5.7 | 9 | 258 |
+| 27 | 54 | 62 | [James Campbell](/cdr-researcher-census/researchers/james-campbell-a5089134/) | Heriot-Watt University | GB | 5.7 | [9](/cdr-researcher-census/researchers/james-campbell-a5089134/#papers) | 258 |
 | 28 | 56 | 27 | [Niels Suitner](https://captaindrawdown.com/cdr-researcher-census/researchers/niels-suitner-a5035414/) | Universität Hamburg | DE | 8.2 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/niels-suitner-a5035414/#papers) | 255 |
 | 29 | 57 | 52 | [Julieta Schneider](https://captaindrawdown.com/cdr-researcher-census/researchers/julieta-schneider-a5032139/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 6.3 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/julieta-schneider-a5032139/#papers) | 251 |
-| 30 | 60 | 1394 | Fabrice Lacroix | University of Bern | CH | 0.4 | 1 | 245 |
+| 30 | 60 | 1394 | [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/) | University of Bern | CH | 0.4 | [1](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/#papers) | 245 |
 | 31 | 69 | 34 | [Sonja Geilert](https://captaindrawdown.com/cdr-researcher-census/researchers/sonja-geilert-a5043903/) | Utrecht University | NL | 7.5 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/sonja-geilert-a5043903/#papers) | 233 |
 | 32 | 70 | 59 | [Mario Grosso](https://captaindrawdown.com/cdr-researcher-census/researchers/mario-grosso-a5082273/) | Politecnico di Milano | IT | 6.0 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/mario-grosso-a5082273/#papers) | 229 |
-| 33 | 71 | 82 | Carl Lim | Universität Hamburg † | DE | 4.2 | 6 | 229 |
-| 34 | 73 | 109 | Andrew W. Dale | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 3.5 | 6 | 224 |
-| 35 | 75 | 452 | Olivia Hawrot | Nano Carbon (Poland) † | PL | 1.4 | 3 | 220 |
+| 33 | 71 | 82 | [Carl Lim](/cdr-researcher-census/researchers/carl-lim-a5015184/) | Universität Hamburg † | DE | 4.2 | [6](/cdr-researcher-census/researchers/carl-lim-a5015184/#papers) | 229 |
+| 34 | 73 | 109 | [Andrew W. Dale](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 3.5 | [6](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/#papers) | 224 |
+| 35 | 75 | 452 | [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) | Nano Carbon (Poland) † | PL | 1.4 | [3](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/#papers) | 220 |
 | 36 | 76 | 56 | [Laura Marín-Samper](https://captaindrawdown.com/cdr-researcher-census/researchers/laura-marin-samper-a5013241/) | Universidad de Las Palmas de Gran Canaria | ES | 6.2 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/laura-marin-samper-a5013241/#papers) | 219 |
 | 37 | 89 | 22 | [Nadine Mengis](https://captaindrawdown.com/cdr-researcher-census/researchers/nadine-mengis-a5079879/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 9.0 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/nadine-mengis-a5079879/#papers) | 176 |
-| 38 | 90 | 119 | Claire Lo Monaco | Sorbonne University | FR | 3.3 | 6 | 174 |
-| 39 | – | 225 | Tatiana Ilyina | Universität Hamburg | DE | 2.2 | 5 | 161 |
+| 38 | 90 | 119 | [Claire Lo Monaco](/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/) | Sorbonne University | FR | 3.3 | [6](/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/#papers) | 174 |
+| 39 | – | 225 | [Tatiana Ilyina](/cdr-researcher-census/researchers/tatiana-ilyina-a5039577/) | Universität Hamburg | DE | 2.2 | [5](/cdr-researcher-census/researchers/tatiana-ilyina-a5039577/#papers) | 161 |
 | 40 | – | 60 | [Patricia Grasse](https://captaindrawdown.com/cdr-researcher-census/researchers/patricia-grasse-a5066845/) | German Centre for Integrative Biodiversity Research | DE | 5.9 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/patricia-grasse-a5066845/#papers) | 155 |
-| 41 | – | 94 | Jakob Rønning | University of Southern Denmark † | DK | 3.9 | 7 | 155 |
-| 42 | – | 73 | Laura Bastianini | Heriot-Watt University † | GB | 4.7 | 7 | 151 |
-| 43 | – | 86 | Carolin R. Löscher | SDU | DK | 4.1 | 7 | 151 |
-| 44 | – | 205 | Gunter Flipkens | University of Antwerp † | BE | 2.3 | 4 | 151 |
-| 45 | – | 455 | Raewyn M. Town | Universiteit Antwerpen | BE | 1.3 | 3 | 147 |
-| 46 | – | 456 | Ronny Blust | University of Antwerp | BE | 1.3 | 3 | 147 |
-| 47 | – | 98 | Momme Butenschön | CMCC Foundation - Euro-Mediterranean Center on Climate Change | IT | 3.8 | 6 | 135 |
-| 48 | – | 491 | Tomas Lovato | Centro Euro-Mediterraneo sui Cambiamenti Climatici | IT | 1.2 | 3 | 135 |
+| 41 | – | 94 | [Jakob Rønning](/cdr-researcher-census/researchers/jakob-rnning-a5011278/) | University of Southern Denmark † | DK | 3.9 | [7](/cdr-researcher-census/researchers/jakob-rnning-a5011278/#papers) | 155 |
+| 42 | – | 73 | [Laura Bastianini](/cdr-researcher-census/researchers/laura-bastianini-a5025578/) | Heriot-Watt University † | GB | 4.7 | [7](/cdr-researcher-census/researchers/laura-bastianini-a5025578/#papers) | 151 |
+| 43 | – | 86 | [Carolin R. Löscher](/cdr-researcher-census/researchers/carolin-r-loscher-a5003302/) | SDU | DK | 4.1 | [7](/cdr-researcher-census/researchers/carolin-r-loscher-a5003302/#papers) | 151 |
+| 44 | – | 205 | [Gunter Flipkens](/cdr-researcher-census/researchers/gunter-flipkens-a5082394/) | University of Antwerp † | BE | 2.3 | [4](/cdr-researcher-census/researchers/gunter-flipkens-a5082394/#papers) | 151 |
+| 45 | – | 455 | [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/) | Universiteit Antwerpen | BE | 1.3 | [3](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/#papers) | 147 |
+| 46 | – | 456 | [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/) | University of Antwerp | BE | 1.3 | [3](/cdr-researcher-census/researchers/ronny-blust-a5080111/#papers) | 147 |
+| 47 | – | 98 | [Momme Butenschön](/cdr-researcher-census/researchers/momme-butenschon-a5045008/) | CMCC Foundation - Euro-Mediterranean Center on Climate Change | IT | 3.8 | [6](/cdr-researcher-census/researchers/momme-butenschon-a5045008/#papers) | 135 |
+| 48 | – | 491 | [Tomas Lovato](/cdr-researcher-census/researchers/tomas-lovato-a5004513/) | Centro Euro-Mediterraneo sui Cambiamenti Climatici | IT | 1.2 | [3](/cdr-researcher-census/researchers/tomas-lovato-a5004513/#papers) | 135 |
 | 49 | – | 57 | [Lester Kwiatkowski](https://captaindrawdown.com/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/) | CNRS | FR | 6.1 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/#papers) | 134 |
-| 50 | – | 529 | Morten Hvitfeldt Iversen | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 1.0 | 2 | 133 |
+| 50 | – | 529 | [Morten Hvitfeldt Iversen](/cdr-researcher-census/researchers/morten-hvitfeldt-iversen-a5085235/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 1.0 | [2](/cdr-researcher-census/researchers/morten-hvitfeldt-iversen-a5085235/#papers) | 133 |
 
 † Institution from the OpenAlex author profile, not confirmed by the researcher's recent papers.
 

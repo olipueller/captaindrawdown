@@ -1,7 +1,7 @@
 ---
 title: "Mirko Engelpracht"
 description: "Mirko Engelpracht, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 98 by activity, 285 by citations. 30 publications, h-index 7, 168 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/"
 layout: "researcher"
 hiddenInHomeList: true

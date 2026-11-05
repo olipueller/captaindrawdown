@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Hsin Chen"
 description: "Wei‐Hsin Chen, National Cheng Kung University, Taiwan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 14 by activity, 108 by citations. 935 publications, h-index 118, 50,802 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/weihsin-chen-a5057352/"
 layout: "researcher"
 hiddenInHomeList: true

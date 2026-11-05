@@ -1,7 +1,7 @@
 ---
 title: "Radu Custelcean"
 description: "Radu Custelcean, Oak Ridge National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 85 by activity, 105 by citations. 435 publications, h-index 47, 8,842 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/radu-custelcean-a5064099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2024 | [Integrated Process for Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt; and Electrochemical Conversion to Ethanol](https://doi.org/10.2172/2333761)<br><small>with Costas Tsouris, USDOE, Brandon Iglesias</small> | DAC | 0 |
 | 2024 | [Effective Direct Steam Regeneration of Solid Sorbent Used for Carbon Capture](http://dx.doi.org/10.2139/ssrn.4820508)<br><small>SSRN Electronic Journal (preprint) · with Gyoung Gug Jang, A. S. Meyer, Abishek Kasturi, Diāna Stamberga, Gang Seob Jung, Costas Tsouris</small> | Cross-cutting CDR | 0 |
 | 2022 | [Direct Air Capture of CO<sub>2</sub>Using Solvents](https://doi.org/10.1146/annurev-chembioeng-092120-023936)<br><small>Annual Review of Chemical and Biomolecular Engineering</small> | DAC | 109 |
-| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with Mihrimah Ozkan</small> | DAC | 31 |
+| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/)</small> | DAC | 31 |
 | 2021 | [Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering](https://doi.org/10.1039/d1sc04097a)<br><small>Chemical Science</small> | DAC | 80 |
 
 ---

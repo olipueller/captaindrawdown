@@ -1,7 +1,7 @@
 ---
 title: "Giulia Cazzagon"
 description: "Giulia Cazzagon, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 69 by activity, 2267 by citations. 13 publications, h-index 2, 13 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/giulia-cazzagon-a5116238/"
 layout: "researcher"
 hiddenInHomeList: true

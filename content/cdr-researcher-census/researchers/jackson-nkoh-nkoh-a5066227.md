@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
 description: "Jackson Nkoh Nkoh, Shenzhen University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 81 by activity, 9780 by citations. 81 publications, h-index 25, 1,894 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true

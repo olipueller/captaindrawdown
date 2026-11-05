@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
 description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 54 by activity, 1970 by citations. 252 publications, h-index 18, 1,074 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,10 +55,10 @@ robots: "index, follow"
 | 2024 | [Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry](https://doi.org/10.2139/ssrn.4778876)<br><small>SSRN Electronic Journal (preprint) · with Lucas Desport, Carlos Andrade, Damien Corral</small> | Cross-cutting CDR | 1 |
 | 2024 | [From Theory to Practice: Modeling Biomass Supply and Carbon Dioxide Removal for Climate Goals](https://hal.science/hal-04863144)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
 | 2024 | [Climate actions effects on ressource sustainability in a carbon constrained world](https://hal.science/hal-04863274)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
-| 2023 | [Deploying direct air capture at scale: How close to reality?](https://doi.org/10.1016/j.eneco.2023.107244)<br><small>Energy Economics · with Lucas Desport, Angelo Gurgel, Howard J. Herzog, Jennifer Morris, Yen-Heng Henry Chen, Sergey Paltsev</small> | DAC | 30 |
+| 2023 | [Deploying direct air capture at scale: How close to reality?](https://doi.org/10.1016/j.eneco.2023.107244)<br><small>Energy Economics · with Lucas Desport, [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), Howard J. Herzog, [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), Yen-Heng Henry Chen, Sergey Paltsev</small> | DAC | 30 |
 | 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1)<br><small>Implementing the UN sustainable development goals - regional perspectives · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 2 |
 | 2023 | [Net-Zero Emission Opportunities for the Iron and Steel Industry at a Global Scale](http://dx.doi.org/10.46855/energy-proceedings-10409)<br><small>preprint · with Lucas Desport, Carlos Andrade</small> | BECCS | 0 |
-| 2023 | [Exploring the conditions and implications of deploying direct air capture at scale](https://hal.science/hal-04298491)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with Lucas Desport, Angelo Gurgel, Henry Chen, Howard J. Herzog, Jennifer Morris, Sergey Paltsev</small> | DAC | 0 |
+| 2023 | [Exploring the conditions and implications of deploying direct air capture at scale](https://hal.science/hal-04298491)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with Lucas Desport, [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), Henry Chen, Howard J. Herzog, [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), Sergey Paltsev</small> | DAC | 0 |
 | 2022 | [Biomass from the carbon dioxide removal and carbon neutrality perspective: a long term assessment using TIAM-FR](https://hal.science/hal-03934511)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
 | 2022 | [Techno-economic assessment of bio-based Carbon Dioxide Removal using TIAM-FR](https://hal.science/hal-03934516)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
 

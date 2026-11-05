@@ -1,7 +1,7 @@
 ---
 title: "Chris Smith"
 description: "Chris Smith, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 57 by activity, 107 by citations. 434 publications, h-index 65, 17,565 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/chris-smith-a5021058/"
 layout: "researcher"
 hiddenInHomeList: true

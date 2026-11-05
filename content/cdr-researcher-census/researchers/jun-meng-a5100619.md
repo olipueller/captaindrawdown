@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
 description: "Jun Meng, Shenyang Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 20 by activity, 181 by citations. 173 publications, h-index 47, 6,942 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jun-meng-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true

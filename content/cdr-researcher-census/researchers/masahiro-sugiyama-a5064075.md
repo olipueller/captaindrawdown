@@ -1,7 +1,7 @@
 ---
 title: "Masahiro Sugiyama"
 description: "Masahiro Sugiyama, University of Tokyo, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 100 by activity, 1865 by citations. 139 publications, h-index 28, 2,713 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/masahiro-sugiyama-a5064075/"
 layout: "researcher"
 hiddenInHomeList: true

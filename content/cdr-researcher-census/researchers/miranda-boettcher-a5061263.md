@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 7 by activity, 172 by citations. 52 publications, h-index 15, 758 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,7 +55,7 @@ robots: "index, follow"
 | 2026 | [Foresight Workshop Report: Ocean Alkalinity Enhancement Scenarios for Germany in 2040](https://openalex.org/W7164103639)<br><small>with Global Sustainability Governance</small> | Ocean CDR | 0 |
 | 2026 | [Ambiguity in ocean governance](https://openalex.org/W7165365949) | Ocean CDR | 0 |
 | 2026 | [Ambiguity in Ocean Governance: The Advisory Opinion of the International Tribunal for the Law of the Sea on Climate Change](https://openalex.org/W7204974496)<br><small>with Global Sustainability Governance</small> | Ocean CDR | 0 |
-| 2026 | [A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration: Governance: Legal, Policy, Justice, and Social Considerations](https://openalex.org/W7213989323)<br><small>with Scott C. Doney, ADAM SUBHAS, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), David M. Karl, ELIZABETH JEWETT, GABRIELLA KITCH and 13 more</small> | Ocean CDR | 0 |
+| 2026 | [A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration: Governance: Legal, Policy, Justice, and Social Considerations](https://openalex.org/W7213989323)<br><small>with [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), ADAM SUBHAS, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), David M. Karl, ELIZABETH JEWETT, GABRIELLA KITCH and 13 more</small> | Ocean CDR | 0 |
 | 2026 | [20: Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda](https://openalex.org/W7214270680)<br><small>with Barbara Neumann, [Lina Röschel](/cdr-researcher-census/researchers/lina-roschel-a5025340/), Neil Craik</small> | Ocean CDR | 0 |
 | 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y)<br><small>Nature · with [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), Alexandre C. Köberle, Alina-Berenice Christ, [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), Hans Joachim Schellnhuber and 4 more</small> | Cross-cutting CDR | 85 |
 | 2025 | [A holistic assessment framework for marine carbon dioxide removal options](https://doi.org/10.1088/1748-9326/adc93f)<br><small>Environmental Research Letters · with Christian Baatz, [Christine Merk](/cdr-researcher-census/researchers/christine-merk-a5135538/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Erik van Doorn, Felix Havermann, Hendrikje Wehnert and 14 more</small> | Ocean CDR | 12 |
@@ -71,7 +71,7 @@ robots: "index, follow"
 | 2023 | [Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”](https://doi.org/10.3389/fclim.2023.1279109)<br><small>Frontiers in Climate · with [Phil Renforth](/cdr-researcher-census/researchers/phil-renforth-a5011758/), Anders Hansson, Ben Kolosz, Clare Heyward, [Daniel L. Sanchez](/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/) and 13 more</small> | Cross-cutting CDR | 6 |
 | 2023 | [Social Considerations and Best Practices for Engaging Publics on Ocean Alkalinity Enhancement](https://doi.org/10.5194/sp-2023-3)<br><small>preprint · with [Terre Satterfield](/cdr-researcher-census/researchers/terre-satterfield-a5087921/), [Sara Nawaz](/cdr-researcher-census/researchers/sara-nawaz-a5083576/)</small> | Ocean CDR | 5 |
 | 2022 | [Language, knowledge, power: The Discursive Construction of Climate Engineering Governance](https://openalex.org/W4220717042) | BECCS | 0 |
-| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with Duncan McLaren, Holly Jean Buck, Kerryn Brent, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 66 |
+| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with Duncan McLaren, [Holly Jean Buck](/cdr-researcher-census/researchers/holly-jean-buck-a5039348/), Kerryn Brent, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 66 |
 
 ---
 

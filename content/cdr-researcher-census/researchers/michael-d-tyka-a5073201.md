@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
 description: "Michael D. Tyka, Google (United States), United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 15 by activity, 12 by citations. 58 publications, h-index 23, 6,310 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,9 +60,9 @@ robots: "index, follow"
 | 2024 | [Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal](https://doi.org/10.1038/s41558-024-02179-9)<br><small>Nature Climate Change · with Mengyang Zhou, Alicia Karspeck, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), Elizabeth Yankovsky, Scott Bachman, T. Nicholas and 1 more</small> | Ocean CDR | 62 |
 | 2024 | [Efficiency metrics for ocean alkalinity enhancement under responsive and prescribed atmosphere conditions](https://doi.org/10.5194/egusphere-2024-2150)<br><small>preprint</small> | DAC; Ocean CDR | 3 |
 | 2024 | [A global efficiency map of ocean alkalinity enhancement (OAE) for CO2 removal](https://doi.org/10.5194/egusphere-egu24-1429)<br><small>preprint · with Mengyang Zhou, Alicia Karspeck, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), Elizabeth Yankovsky, Scott Bachman, [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/)</small> | Ocean CDR | 2 |
-| 2023 | [Limits and CO <sub>2</sub> equilibration of near-coast alkalinity enhancement](https://doi.org/10.5194/bg-20-27-2023)<br><small>Biogeosciences · with Jing He</small> | Ocean CDR | 169 |
+| 2023 | [Limits and CO <sub>2</sub> equilibration of near-coast alkalinity enhancement](https://doi.org/10.5194/bg-20-27-2023)<br><small>Biogeosciences · with [Jing He](/cdr-researcher-census/researchers/jing-he-a5046957/)</small> | Ocean CDR | 169 |
 | 2023 | [Toward a consensus framework to evaluate air–sea <scp>CO<sub>2</sub></scp> equilibration for marine <scp>CO<sub>2</sub></scp> removal](https://doi.org/10.1002/lol2.10330)<br><small>Limnology and Oceanography Letters · with [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Philip W. Boyd](/cdr-researcher-census/researchers/philip-w-boyd-a5091179/)</small> | Ocean CDR | 83 |
-| 2023 | [Limits and CO2 equilibration of near-coast alkalinity enhancement](https://doi.org/10.5194/egusphere-egu23-8111)<br><small>preprint · with Jing He</small> | Ocean CDR | 19 |
+| 2023 | [Limits and CO2 equilibration of near-coast alkalinity enhancement](https://doi.org/10.5194/egusphere-egu23-8111)<br><small>preprint · with [Jing He](/cdr-researcher-census/researchers/jing-he-a5046957/)</small> | Ocean CDR | 19 |
 | 2023 | [Ocean storage and ocean CDR methods](https://doi.org/10.1016/b978-0-12-819663-2.00003-4)<br><small>Elsevier eBooks · with Steve Rackley</small> | Ocean CDR | 0 |
 | 2021 | [CO2 capture by pumping surface acidity to the deep ocean](https://doi.org/10.31223/x5tk60)<br><small>with John Platt, Christopher Van Arsdale</small> | DAC; Ocean CDR | 0 |
 

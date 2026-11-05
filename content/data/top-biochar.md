@@ -189,158 +189,158 @@ The same researchers ranked by citations to their CDR papers since 2021. Citatio
 | 1 | 1 | [Daniel C.W. Tsang](https://captaindrawdown.com/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/) | Hong Kong University of Science and Technology | HK | 23.3 | [36](https://captaindrawdown.com/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/#papers) | 1,673 |
 | 2 | 4 | [Claudia Kammann](https://captaindrawdown.com/cdr-researcher-census/researchers/claudia-kammann-a5061014/) | Hochschule Geisenheim University | DE | 12.7 | [18](https://captaindrawdown.com/cdr-researcher-census/researchers/claudia-kammann-a5061014/#papers) | 1,532 |
 | 3 | 79 | [Johannes Lehmann](https://captaindrawdown.com/cdr-researcher-census/researchers/johannes-lehmann-a5042699/) | Cornell University | US | 5.6 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/johannes-lehmann-a5042699/#papers) | 1,497 |
-| 4 | 911 | María Luz Cayuela | CEBAS-CSIC | ES | 2.3 | 4 | 1,447 |
-| 5 | 231 | Ahmed I. Osman | Canterbury Christ Church University | GB | 3.9 | 8 | 1,431 |
-| 6 | 343 | Dominic Woolf | Cornell University | US | 3.4 | 6 | 1,255 |
-| 7 | 1048 | David W. Rooney | Queen's University Belfast | GB | 2.1 | 5 | 1,242 |
-| 8 | 395 | Samer Fawzy | Queen's University Belfast | GB | 3.1 | 6 | 1,238 |
+| 4 | 911 | [María Luz Cayuela](/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/) | CEBAS-CSIC | ES | 2.3 | [4](/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/#papers) | 1,447 |
+| 5 | 231 | [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/) | Canterbury Christ Church University | GB | 3.9 | [8](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/#papers) | 1,431 |
+| 6 | 343 | [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/) | Cornell University | US | 3.4 | [6](/cdr-researcher-census/researchers/dominic-woolf-a5010625/#papers) | 1,255 |
+| 7 | 1048 | [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/) | Queen's University Belfast | GB | 2.1 | [5](/cdr-researcher-census/researchers/david-w-rooney-a5103043/#papers) | 1,242 |
+| 8 | 395 | [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/) | Queen's University Belfast | GB | 3.1 | [6](/cdr-researcher-census/researchers/samer-fawzy-a5023515/#papers) | 1,238 |
 | 9 | 34 | [Yong Sik Ok](https://captaindrawdown.com/cdr-researcher-census/researchers/yong-sik-ok-a5053298/) | Korea University | KR | 7.6 | [16](https://captaindrawdown.com/cdr-researcher-census/researchers/yong-sik-ok-a5053298/#papers) | 1,118 |
 | 10 | 97 | [Annette Cowie](https://captaindrawdown.com/cdr-researcher-census/researchers/annette-cowie-a5018651/) | University of New England † | US | 5.3 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/annette-cowie-a5018651/#papers) | 1,111 |
-| 11 | 17344 | Thea Whitman | University of British Columbia | CA | 0.7 | 2 | 989 |
+| 11 | 17344 | [Thea Whitman](/cdr-researcher-census/researchers/thea-whitman-a5071400/) | University of British Columbia | CA | 0.7 | [2](/cdr-researcher-census/researchers/thea-whitman-a5071400/#papers) | 989 |
 | 12 | 3 | [Ondřej Mašek](https://captaindrawdown.com/cdr-researcher-census/researchers/ondrej-masek-a5087096/) | University of Edinburgh | GB | 18.3 | [32](https://captaindrawdown.com/cdr-researcher-census/researchers/ondrej-masek-a5087096/#papers) | 963 |
-| 13 | 3980 | Marta Camps Arbestain | Massey University | NZ | 1.1 | 2 | 951 |
-| 14 | 3291 | Caroline A. Masiello | Rice University | US | 1.3 | 2 | 949 |
-| 15 | 17345 | James E. Amonette | – |  | 0.7 | 2 | 949 |
-| 16 | 1117 | Mohamed Farghali | Kobe University | JP | 2.0 | 4 | 911 |
+| 13 | 3980 | [Marta Camps Arbestain](/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/) | Massey University | NZ | 1.1 | [2](/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/#papers) | 951 |
+| 14 | 3291 | [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/) | Rice University | US | 1.3 | [2](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/#papers) | 949 |
+| 15 | 17345 | [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/) | – |  | 0.7 | [2](/cdr-researcher-census/researchers/james-e-amonette-a5047097/#papers) | 949 |
+| 16 | 1117 | [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) | Kobe University | JP | 2.0 | [4](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/#papers) | 911 |
 | 17 | 85 | [Ajay K. Dalai](https://captaindrawdown.com/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/) | University of Saskatchewan | CA | 5.6 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/#papers) | 903 |
-| 18 | 313 | Zibo Xu | Hong Kong University of Science and Technology | HK | 3.5 | 9 | 839 |
+| 18 | 313 | [Zibo Xu](/cdr-researcher-census/researchers/zibo-xu-a5007009/) | Hong Kong University of Science and Technology | HK | 3.5 | [9](/cdr-researcher-census/researchers/zibo-xu-a5007009/#papers) | 839 |
 | 19 | 66 | [Xinde Cao](https://captaindrawdown.com/cdr-researcher-census/researchers/xinde-cao-a5010856/) | Shanghai Jiao Tong University | CN | 6.0 | [13](https://captaindrawdown.com/cdr-researcher-census/researchers/xinde-cao-a5010856/#papers) | 833 |
 | 20 | 26 | [Ke Sun](https://captaindrawdown.com/cdr-researcher-census/researchers/ke-sun-a5066774/) | Beijing Normal University | CN | 8.1 | [15](https://captaindrawdown.com/cdr-researcher-census/researchers/ke-sun-a5066774/#papers) | 818 |
 | 21 | 40 | [Yakov Kuzyakov](https://captaindrawdown.com/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/) | Georg-August-Universität Göttingen | DE | 7.0 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/#papers) | 816 |
 | 22 | 19 | [Cheng‐Di Dong](https://captaindrawdown.com/cdr-researcher-census/researchers/chengdi-dong-a5015918/) | National Kaohsiung University of Science and Technology | TW | 8.5 | [17](https://captaindrawdown.com/cdr-researcher-census/researchers/chengdi-dong-a5015918/#papers) | 796 |
 | 23 | 80 | [Jörg Rinklebe](https://captaindrawdown.com/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/) | University of Wuppertal | DE | 5.6 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/#papers) | 790 |
-| 24 | 516 | Gordon McKay | Hamad Bin Khalifa University College of Science and Engineering | QA | 2.9 | 6 | 755 |
+| 24 | 516 | [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/) | Hamad Bin Khalifa University College of Science and Engineering | QA | 2.9 | [6](/cdr-researcher-census/researchers/gordon-mckay-a5022819/#papers) | 755 |
 | 25 | 37 | [Éder C. Lima](https://captaindrawdown.com/cdr-researcher-census/researchers/eder-c-lima-a5011032/) | Universidade Federal do Rio Grande do Sul | BR | 7.2 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/eder-c-lima-a5011032/#papers) | 752 |
-| 26 | 224 | Jianming Xu | Zhejiang University | CN | 3.9 | 9 | 740 |
-| 27 | 232 | Ling Zhao | Shanghai Jiao Tong University | CN | 3.9 | 10 | 739 |
+| 26 | 224 | [Jianming Xu](/cdr-researcher-census/researchers/jianming-xu-a5068464/) | Zhejiang University | CN | 3.9 | [9](/cdr-researcher-census/researchers/jianming-xu-a5068464/#papers) | 740 |
+| 27 | 232 | [Ling Zhao](/cdr-researcher-census/researchers/ling-zhao-a5084662/) | Shanghai Jiao Tong University | CN | 3.9 | [10](/cdr-researcher-census/researchers/ling-zhao-a5084662/#papers) | 739 |
 | 28 | 365 | [Tareq Al‐Ansari](https://captaindrawdown.com/cdr-researcher-census/researchers/tareq-alansari-a5086098/) | Hamad bin Khalifa University | QA | 3.2 | [6](https://captaindrawdown.com/cdr-researcher-census/researchers/tareq-alansari-a5086098/#papers) | 737 |
-| 29 | 702 | Sonil Nanda | Dalhousie University | CA | 2.6 | 5 | 731 |
-| 30 | 927 | Hamish R. Mackey | University of Canterbury † | NZ | 2.2 | 5 | 731 |
-| 31 | 11138 | Ahmed M. Elgarahy | Egyptian Propylene & Polypropylene Company | EG | 0.9 | 2 | 727 |
-| 32 | 490 | Jingchun Tang | Nankai University | CN | 3.0 | 7 | 724 |
-| 33 | 2185 | Daniel S. Alessi | The University of Texas at Austin | US | 1.7 | 5 | 714 |
-| 34 | 535 | Ashok Pandey | Indian Institute of Toxicology Research CSIR | IN | 2.8 | 7 | 713 |
-| 35 | 4058 | Muhammad Shahbaz | Teesside University | GB | 1.0 | 2 | 679 |
-| 36 | 11139 | Aisha Al-Rumaihi | Hamad bin Khalifa University † | QA | 0.9 | 2 | 672 |
-| 37 | 1083 | Deyi Hou | State Key Joint Laboratory of Environment Simulation and Pollution Control † | CN | 2.0 | 6 | 666 |
-| 38 | 526 | Prabhakar Sharma | Nagaland University | IN | 2.8 | 6 | 665 |
+| 29 | 702 | [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/) | Dalhousie University | CA | 2.6 | [5](/cdr-researcher-census/researchers/sonil-nanda-a5091893/#papers) | 731 |
+| 30 | 927 | [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/) | University of Canterbury † | NZ | 2.2 | [5](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/#papers) | 731 |
+| 31 | 11138 | [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/) | Egyptian Propylene & Polypropylene Company | EG | 0.9 | [2](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/#papers) | 727 |
+| 32 | 490 | [Jingchun Tang](/cdr-researcher-census/researchers/jingchun-tang-a5004062/) | Nankai University | CN | 3.0 | [7](/cdr-researcher-census/researchers/jingchun-tang-a5004062/#papers) | 724 |
+| 33 | 2185 | [Daniel S. Alessi](/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/) | The University of Texas at Austin | US | 1.7 | [5](/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/#papers) | 714 |
+| 34 | 535 | [Ashok Pandey](/cdr-researcher-census/researchers/ashok-pandey-a5028114/) | Indian Institute of Toxicology Research CSIR | IN | 2.8 | [7](/cdr-researcher-census/researchers/ashok-pandey-a5028114/#papers) | 713 |
+| 35 | 4058 | [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/) | Teesside University | GB | 1.0 | [2](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/#papers) | 679 |
+| 36 | 11139 | [Aisha Al-Rumaihi](/cdr-researcher-census/researchers/aisha-al-rumaihi-a5088506/) | Hamad bin Khalifa University † | QA | 0.9 | [2](/cdr-researcher-census/researchers/aisha-al-rumaihi-a5088506/#papers) | 672 |
+| 37 | 1083 | [Deyi Hou](/cdr-researcher-census/researchers/deyi-hou-a5065266/) | State Key Joint Laboratory of Environment Simulation and Pollution Control † | CN | 2.0 | [6](/cdr-researcher-census/researchers/deyi-hou-a5065266/#papers) | 666 |
+| 38 | 526 | [Prabhakar Sharma](/cdr-researcher-census/researchers/prabhakar-sharma-a5059977/) | Nagaland University | IN | 2.8 | [6](/cdr-researcher-census/researchers/prabhakar-sharma-a5059977/#papers) | 665 |
 | 39 | 43 | [Bin Gao](https://captaindrawdown.com/cdr-researcher-census/researchers/bin-gao-a5049519/) | Rensselaer Polytechnic Institute | US | 6.7 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/bin-gao-a5049519/#papers) | 657 |
 | 40 | 62 | [Chiu‐Wen Chen](https://captaindrawdown.com/cdr-researcher-census/researchers/chiuwen-chen-a5010723/) | National Kaohsiung University of Science and Technology | TW | 6.0 | [13](https://captaindrawdown.com/cdr-researcher-census/researchers/chiuwen-chen-a5010723/#papers) | 656 |
-| 41 | 151 | Lanfang Han | Guangdong University of Technology | CN | 4.6 | 10 | 654 |
-| 42 | 23842 | Bingbing Qiu | University of Science and Technology of China † | CN | 0.4 | 1 | 649 |
-| 43 | 23843 | Chen-Hao Yang | Hunan Normal University † | CN | 0.4 | 1 | 649 |
-| 44 | 23844 | Huaqiang Chu | Anhui Science and Technology University † | CN | 0.4 | 1 | 649 |
-| 45 | 23845 | Jicheng Shi | Dalian Jiaotong University † | CN | 0.4 | 1 | 649 |
-| 46 | 23846 | Qianni Shao | Anhui University of Technology † | CN | 0.4 | 1 | 649 |
+| 41 | 151 | [Lanfang Han](/cdr-researcher-census/researchers/lanfang-han-a5068964/) | Guangdong University of Technology | CN | 4.6 | [10](/cdr-researcher-census/researchers/lanfang-han-a5068964/#papers) | 654 |
+| 42 | 23842 | [Bingbing Qiu](/cdr-researcher-census/researchers/bingbing-qiu-a5074678/) | University of Science and Technology of China † | CN | 0.4 | [1](/cdr-researcher-census/researchers/bingbing-qiu-a5074678/#papers) | 649 |
+| 43 | 23843 | [Chen-Hao Yang](/cdr-researcher-census/researchers/chen-hao-yang-a5113654/) | Hunan Normal University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/chen-hao-yang-a5113654/#papers) | 649 |
+| 44 | 23844 | [Huaqiang Chu](/cdr-researcher-census/researchers/huaqiang-chu-a5100743/) | Anhui Science and Technology University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/huaqiang-chu-a5100743/#papers) | 649 |
+| 45 | 23845 | [Jicheng Shi](/cdr-researcher-census/researchers/jicheng-shi-a5100301/) | Dalian Jiaotong University † | CN | 0.4 | [1](/cdr-researcher-census/researchers/jicheng-shi-a5100301/#papers) | 649 |
+| 46 | 23846 | [Qianni Shao](/cdr-researcher-census/researchers/qianni-shao-a5051411/) | Anhui University of Technology † | CN | 0.4 | [1](/cdr-researcher-census/researchers/qianni-shao-a5051411/#papers) | 649 |
 | 47 | 55 | [Jens Leifeld](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/) | Agroscope | CH | 6.2 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/#papers) | 647 |
 | 48 | 131 | [Glaydson S. dos Reis](https://captaindrawdown.com/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/) | Åbo Akademi University | FI | 4.8 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/#papers) | 647 |
-| 49 | 884 | A. W. Zularisam | Universiti Malaysia Pahang Al-Sultan Abdullah † | MY | 2.3 | 5 | 647 |
-| 50 | 885 | Farah Amalina | Universiti Malaysia Pahang Al-Sultan Abdullah † | MY | 2.3 | 5 | 647 |
-| 51 | 886 | Mohd Nasrullah | Universiti Malaysia Pahang | MY | 2.3 | 5 | 647 |
-| 52 | 887 | Santhana Krishnan | Universiti Sains Malaysia | MY | 2.3 | 5 | 647 |
+| 49 | 884 | [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/) | Universiti Malaysia Pahang Al-Sultan Abdullah † | MY | 2.3 | [5](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/#papers) | 647 |
+| 50 | 885 | [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/) | Universiti Malaysia Pahang Al-Sultan Abdullah † | MY | 2.3 | [5](/cdr-researcher-census/researchers/farah-amalina-a5031183/#papers) | 647 |
+| 51 | 886 | [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/) | Universiti Malaysia Pahang | MY | 2.3 | [5](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/#papers) | 647 |
+| 52 | 887 | [Santhana Krishnan](/cdr-researcher-census/researchers/santhana-krishnan-a5030060/) | Universiti Sains Malaysia | MY | 2.3 | [5](/cdr-researcher-census/researchers/santhana-krishnan-a5030060/#papers) | 647 |
 | 53 | 39 | [Yalan Chen](https://captaindrawdown.com/cdr-researcher-census/researchers/yalan-chen-a5007453/) | Beijing Normal University | CN | 7.0 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/yalan-chen-a5007453/#papers) | 638 |
-| 54 | 412 | Yan Yang | Beijing Forestry University † | CN | 3.0 | 8 | 633 |
-| 55 | 4050 | Mingjing He | Hong Kong Polytechnic University † | HK | 1.0 | 3 | 632 |
+| 54 | 412 | [Yan Yang](/cdr-researcher-census/researchers/yan-yang-a5101582/) | Beijing Forestry University † | CN | 3.0 | [8](/cdr-researcher-census/researchers/yan-yang-a5101582/#papers) | 633 |
+| 55 | 4050 | [Mingjing He](/cdr-researcher-census/researchers/mingjing-he-a5068928/) | Hong Kong Polytechnic University † | HK | 1.0 | [3](/cdr-researcher-census/researchers/mingjing-he-a5068928/#papers) | 632 |
 | 56 | 16 | [Hans‐Peter Schmidt](https://captaindrawdown.com/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/) | Ithaka Institute for Carbon Strategies | CH | 8.7 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/#papers) | 627 |
 | 57 | 45 | [Baoshan Xing](https://captaindrawdown.com/cdr-researcher-census/researchers/baoshan-xing-a5035633/) | University of Massachusetts Amherst | US | 6.6 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/baoshan-xing-a5035633/#papers) | 616 |
 | 58 | 2 | [Nikolas Hagemann](https://captaindrawdown.com/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/) | Ithaka Institute for Carbon Strategies | CH | 19.3 | [25](https://captaindrawdown.com/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/#papers) | 614 |
-| 59 | 116 | Yuqing Sun | Sun Yat-Sen University | CN | 5.1 | 10 | 597 |
+| 59 | 116 | [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/) | Sun Yat-Sen University | CN | 5.1 | [10](/cdr-researcher-census/researchers/yuqing-sun-a5014667/#papers) | 597 |
 | 60 | 99 | [Hanping Chen](https://captaindrawdown.com/cdr-researcher-census/researchers/hanping-chen-a5007450/) | Huazhong University of Science and Technology | CN | 5.3 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/hanping-chen-a5007450/#papers) | 583 |
 | 61 | 32 | [Haiping Yang](https://captaindrawdown.com/cdr-researcher-census/researchers/haiping-yang-a5024934/) | State Key Laboratory of Coal Combustion | CN | 7.7 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/haiping-yang-a5024934/#papers) | 579 |
-| 62 | 128 | Xiaoyun Xu | Shanghai Jiao Tong University | CN | 4.9 | 10 | 575 |
-| 63 | 256 | Thomas D. Bucheli | Systems Analytics (United States) † | US | 3.8 | 6 | 574 |
+| 62 | 128 | [Xiaoyun Xu](/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/) | Shanghai Jiao Tong University | CN | 4.9 | [10](/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/#papers) | 575 |
+| 63 | 256 | [Thomas D. Bucheli](/cdr-researcher-census/researchers/thomas-d-bucheli-a5078159/) | Systems Analytics (United States) † | US | 3.8 | [6](/cdr-researcher-census/researchers/thomas-d-bucheli-a5078159/#papers) | 574 |
 | 64 | 71 | [Hailong Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/hailong-wang-a5100367/) | Foshan University | CN | 5.9 | [11](https://captaindrawdown.com/cdr-researcher-census/researchers/hailong-wang-a5100367/#papers) | 564 |
-| 65 | 11339 | Hiba M. Alkharabsheh | Al-Balqa Applied University † | JO | 0.8 | 2 | 555 |
-| 66 | 11340 | Mahmoud F. Seleiman | King Saud University | SA | 0.8 | 2 | 555 |
-| 67 | 527 | Lijian Leng | Central South University | CN | 2.8 | 5 | 552 |
-| 68 | 25895 | Adel M. Al‐Saif | King Saud University † | SA | 0.3 | 1 | 538 |
-| 69 | 25896 | Ashwag Shami | Princess Nourah bint Abdulrahman University | SA | 0.3 | 1 | 538 |
-| 70 | 25897 | Bushra Ahmed Alhammad | Prince Sattam bin Abdulaziz University | SA | 0.3 | 1 | 538 |
-| 71 | 25898 | Khalid F. Almutairi | King Saud University | SA | 0.3 | 1 | 538 |
-| 72 | 25899 | Martín Leonardo Battaglia | Ithaca College † | US | 0.3 | 1 | 538 |
-| 73 | 25900 | Rewaa S. Jalal | Jeddah University | SA | 0.3 | 1 | 538 |
-| 74 | 3343 | Abdul Syukor Abd Razak | Universiti Malaysia Pahang Al-Sultan Abdullah † | MY | 1.3 | 3 | 535 |
+| 65 | 11339 | [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/) | Al-Balqa Applied University † | JO | 0.8 | [2](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/#papers) | 555 |
+| 66 | 11340 | [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/) | King Saud University | SA | 0.8 | [2](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/#papers) | 555 |
+| 67 | 527 | [Lijian Leng](/cdr-researcher-census/researchers/lijian-leng-a5016494/) | Central South University | CN | 2.8 | [5](/cdr-researcher-census/researchers/lijian-leng-a5016494/#papers) | 552 |
+| 68 | 25895 | [Adel M. Al‐Saif](/cdr-researcher-census/researchers/adel-m-alsaif-a5114137/) | King Saud University † | SA | 0.3 | [1](/cdr-researcher-census/researchers/adel-m-alsaif-a5114137/#papers) | 538 |
+| 69 | 25896 | [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/) | Princess Nourah bint Abdulrahman University | SA | 0.3 | [1](/cdr-researcher-census/researchers/ashwag-shami-a5083302/#papers) | 538 |
+| 70 | 25897 | [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/) | Prince Sattam bin Abdulaziz University | SA | 0.3 | [1](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/#papers) | 538 |
+| 71 | 25898 | [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/) | King Saud University | SA | 0.3 | [1](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/#papers) | 538 |
+| 72 | 25899 | [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/) | Ithaca College † | US | 0.3 | [1](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/#papers) | 538 |
+| 73 | 25900 | [Rewaa S. Jalal](/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/) | Jeddah University | SA | 0.3 | [1](/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/#papers) | 538 |
+| 74 | 3343 | [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/) | Universiti Malaysia Pahang Al-Sultan Abdullah † | MY | 1.3 | [3](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/#papers) | 535 |
 | 75 | 73 | [Jihui Li](https://captaindrawdown.com/cdr-researcher-census/researchers/jihui-li-a5071052/) | Hainan University | CN | 5.9 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/jihui-li-a5071052/#papers) | 520 |
-| 76 | 11430 | Haspina Sulaiman | National University of Malaysia † | MY | 0.8 | 2 | 515 |
-| 77 | 1118 | Biswa R. Patra | King Tide Carbon Canada Ltd | CA | 2.0 | 4 | 514 |
-| 78 | 23847 | Abbas Abdullah Ajlan | Taiz University † | YE | 0.4 | 1 | 511 |
-| 79 | 23848 | M. I. A. Abdel Maksoud | Egyptian Atomic Energy Authority | EG | 0.4 | 1 | 511 |
-| 80 | 23849 | Mahmoud Yousry | Ain Shams University Hospital † | EG | 0.4 | 1 | 511 |
-| 81 | 23850 | Marwa El‐Azazy | Qatar University | QA | 0.4 | 1 | 511 |
-| 82 | 23851 | Ramy Amer Fahim | Egyptian Atomic Energy Authority † | EG | 0.4 | 1 | 511 |
-| 83 | 23852 | Yasmeen Saleem | Florida Department of Citrus † | US | 0.4 | 1 | 511 |
+| 76 | 11430 | [Haspina Sulaiman](/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/) | National University of Malaysia † | MY | 0.8 | [2](/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/#papers) | 515 |
+| 77 | 1118 | [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/) | King Tide Carbon Canada Ltd | CA | 2.0 | [4](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/#papers) | 514 |
+| 78 | 23847 | [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/) | Taiz University † | YE | 0.4 | [1](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/#papers) | 511 |
+| 79 | 23848 | [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/) | Egyptian Atomic Energy Authority | EG | 0.4 | [1](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/#papers) | 511 |
+| 80 | 23849 | [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/) | Ain Shams University Hospital † | EG | 0.4 | [1](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/#papers) | 511 |
+| 81 | 23850 | [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/) | Qatar University | QA | 0.4 | [1](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/#papers) | 511 |
+| 82 | 23851 | [Ramy Amer Fahim](/cdr-researcher-census/researchers/ramy-amer-fahim-a5007539/) | Egyptian Atomic Energy Authority † | EG | 0.4 | [1](/cdr-researcher-census/researchers/ramy-amer-fahim-a5007539/#papers) | 511 |
+| 83 | 23852 | [Yasmeen Saleem](/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/) | Florida Department of Citrus † | US | 0.4 | [1](/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/#papers) | 511 |
 | 84 | 68 | [Jianying Shang](https://captaindrawdown.com/cdr-researcher-census/researchers/jianying-shang-a5052558/) | China Agricultural University | CN | 5.9 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/jianying-shang-a5052558/#papers) | 510 |
 | 85 | 13 | [Bruno Glaser](https://captaindrawdown.com/cdr-researcher-census/researchers/bruno-glaser-a5027366/) | Martin Luther University Halle-Wittenberg | DE | 9.3 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/bruno-glaser-a5027366/#papers) | 505 |
-| 86 | 2431 | Amit Bhatnagar | LUT School of Engineering Science | FI | 1.6 | 4 | 502 |
-| 87 | 1594 | Miguel Á. Sánchez-Monedero | Consejo Superior de Investigaciones Cientificas | ES | 1.9 | 3 | 498 |
-| 88 | 11341 | Yuan Gao | Chinese University of Hong Kong † | HK | 0.8 | 2 | 495 |
-| 89 | 4185 | Yi Yang | Chongqing University | CN | 1.0 | 2 | 490 |
-| 90 | 3270 | Zhonghao Wan | Yale University | US | 1.3 | 4 | 485 |
-| 91 | 935 | Hailong Li | Central South University | CN | 2.2 | 4 | 481 |
-| 92 | 756 | Weijin Zhang | Shantou Central Hospital | CN | 2.4 | 4 | 478 |
-| 93 | 2876 | Zejian Ai | Central South University † | CN | 1.4 | 3 | 478 |
-| 94 | 2877 | Zequn Yang | Central South University | CN | 1.4 | 3 | 478 |
+| 86 | 2431 | [Amit Bhatnagar](/cdr-researcher-census/researchers/amit-bhatnagar-a5064265/) | LUT School of Engineering Science | FI | 1.6 | [4](/cdr-researcher-census/researchers/amit-bhatnagar-a5064265/#papers) | 502 |
+| 87 | 1594 | [Miguel Á. Sánchez-Monedero](/cdr-researcher-census/researchers/miguel-a-sanchez-monedero-a5090060/) | Consejo Superior de Investigaciones Cientificas | ES | 1.9 | [3](/cdr-researcher-census/researchers/miguel-a-sanchez-monedero-a5090060/#papers) | 498 |
+| 88 | 11341 | [Yuan Gao](/cdr-researcher-census/researchers/yuan-gao-a5101867/) | Chinese University of Hong Kong † | HK | 0.8 | [2](/cdr-researcher-census/researchers/yuan-gao-a5101867/#papers) | 495 |
+| 89 | 4185 | [Yi Yang](/cdr-researcher-census/researchers/yi-yang-a5073299/) | Chongqing University | CN | 1.0 | [2](/cdr-researcher-census/researchers/yi-yang-a5073299/#papers) | 490 |
+| 90 | 3270 | [Zhonghao Wan](/cdr-researcher-census/researchers/zhonghao-wan-a5069468/) | Yale University | US | 1.3 | [4](/cdr-researcher-census/researchers/zhonghao-wan-a5069468/#papers) | 485 |
+| 91 | 935 | [Hailong Li](/cdr-researcher-census/researchers/hailong-li-a5100440/) | Central South University | CN | 2.2 | [4](/cdr-researcher-census/researchers/hailong-li-a5100440/#papers) | 481 |
+| 92 | 756 | [Weijin Zhang](/cdr-researcher-census/researchers/weijin-zhang-a5103156/) | Shantou Central Hospital | CN | 2.4 | [4](/cdr-researcher-census/researchers/weijin-zhang-a5103156/#papers) | 478 |
+| 93 | 2876 | [Zejian Ai](/cdr-researcher-census/researchers/zejian-ai-a5052392/) | Central South University † | CN | 1.4 | [3](/cdr-researcher-census/researchers/zejian-ai-a5052392/#papers) | 478 |
+| 94 | 2877 | [Zequn Yang](/cdr-researcher-census/researchers/zequn-yang-a5103118/) | Central South University | CN | 1.4 | [3](/cdr-researcher-census/researchers/zequn-yang-a5103118/#papers) | 478 |
 | 95 | 100 | [Nanthi Bolan](https://captaindrawdown.com/cdr-researcher-census/researchers/nanthi-bolan-a5007065/) | The University of Western Australia | AU | 5.3 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/nanthi-bolan-a5007065/#papers) | 476 |
-| 96 | 11140 | Jitao Lv | Qingdao University of Science and Technology † | CN | 0.9 | 2 | 476 |
-| 97 | 364 | Asfandyar Shahab | Hainan University † | CN | 3.2 | 7 | 472 |
+| 96 | 11140 | [Jitao Lv](/cdr-researcher-census/researchers/jitao-lv-a5110294/) | Qingdao University of Science and Technology † | CN | 0.9 | [2](/cdr-researcher-census/researchers/jitao-lv-a5110294/#papers) | 476 |
+| 97 | 364 | [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/) | Hainan University † | CN | 3.2 | [7](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/#papers) | 472 |
 | 98 | 178 | [Scott X. Chang](https://captaindrawdown.com/cdr-researcher-census/researchers/scott-x-chang-a5086611/) | University of Alberta | CA | 4.4 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/scott-x-chang-a5086611/#papers) | 465 |
-| 99 | 25901 | Aimin Li | Dalian University of Technology † | CN | 0.3 | 1 | 465 |
-| 100 | 25902 | Guozhao Ji | Tsinghua University | CN | 0.3 | 1 | 465 |
+| 99 | 25901 | [Aimin Li](/cdr-researcher-census/researchers/aimin-li-a5100382/) | Dalian University of Technology † | CN | 0.3 | [1](/cdr-researcher-census/researchers/aimin-li-a5100382/#papers) | 465 |
+| 100 | 25902 | [Guozhao Ji](/cdr-researcher-census/researchers/guozhao-ji-a5060523/) | Tsinghua University | CN | 0.3 | [1](/cdr-researcher-census/researchers/guozhao-ji-a5060523/#papers) | 465 |
 
 ## Most cited, Europe top 50
 
 | Europe # | World # | Act. rank | Name | Institution | Country | Activity | Papers 2021–26 | Citations |
 |---:|---:|---:|---|---|---|---:|---:|---:|
 | 1 | 2 | 3 | [Claudia Kammann](https://captaindrawdown.com/cdr-researcher-census/researchers/claudia-kammann-a5061014/) | Hochschule Geisenheim University | DE | 12.7 | [18](https://captaindrawdown.com/cdr-researcher-census/researchers/claudia-kammann-a5061014/#papers) | 1,532 |
-| 2 | 4 | 170 | María Luz Cayuela | CEBAS-CSIC | ES | 2.3 | 4 | 1,447 |
-| 3 | 5 | 52 | Ahmed I. Osman | Canterbury Christ Church University | GB | 3.9 | 8 | 1,431 |
-| 4 | 7 | 192 | David W. Rooney | Queen's University Belfast | GB | 2.1 | 5 | 1,242 |
-| 5 | 8 | 82 | Samer Fawzy | Queen's University Belfast | GB | 3.1 | 6 | 1,238 |
+| 2 | 4 | 170 | [María Luz Cayuela](/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/) | CEBAS-CSIC | ES | 2.3 | [4](/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/#papers) | 1,447 |
+| 3 | 5 | 52 | [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/) | Canterbury Christ Church University | GB | 3.9 | [8](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/#papers) | 1,431 |
+| 4 | 7 | 192 | [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/) | Queen's University Belfast | GB | 2.1 | [5](/cdr-researcher-census/researchers/david-w-rooney-a5103043/#papers) | 1,242 |
+| 5 | 8 | 82 | [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/) | Queen's University Belfast | GB | 3.1 | [6](/cdr-researcher-census/researchers/samer-fawzy-a5023515/#papers) | 1,238 |
 | 6 | 12 | 2 | [Ondřej Mašek](https://captaindrawdown.com/cdr-researcher-census/researchers/ondrej-masek-a5087096/) | University of Edinburgh | GB | 18.3 | [32](https://captaindrawdown.com/cdr-researcher-census/researchers/ondrej-masek-a5087096/#papers) | 963 |
 | 7 | 21 | 14 | [Yakov Kuzyakov](https://captaindrawdown.com/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/) | Georg-August-Universität Göttingen | DE | 7.0 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/#papers) | 816 |
 | 8 | 23 | 23 | [Jörg Rinklebe](https://captaindrawdown.com/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/) | University of Wuppertal | DE | 5.6 | [12](https://captaindrawdown.com/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/#papers) | 790 |
-| 9 | 35 | 646 | Muhammad Shahbaz | Teesside University | GB | 1.0 | 2 | 679 |
+| 9 | 35 | 646 | [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/) | Teesside University | GB | 1.0 | [2](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/#papers) | 679 |
 | 10 | 47 | 19 | [Jens Leifeld](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/) | Agroscope | CH | 6.2 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/#papers) | 647 |
 | 11 | 48 | 34 | [Glaydson S. dos Reis](https://captaindrawdown.com/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/) | Åbo Akademi University | FI | 4.8 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/#papers) | 647 |
 | 12 | 56 | 7 | [Hans‐Peter Schmidt](https://captaindrawdown.com/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/) | Ithaka Institute for Carbon Strategies | CH | 8.7 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/#papers) | 627 |
 | 13 | 58 | 1 | [Nikolas Hagemann](https://captaindrawdown.com/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/) | Ithaka Institute for Carbon Strategies | CH | 19.3 | [25](https://captaindrawdown.com/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/#papers) | 614 |
 | 14 | 85 | 6 | [Bruno Glaser](https://captaindrawdown.com/cdr-researcher-census/researchers/bruno-glaser-a5027366/) | Martin Luther University Halle-Wittenberg | DE | 9.3 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/bruno-glaser-a5027366/#papers) | 505 |
-| 15 | 86 | 463 | Amit Bhatnagar | LUT School of Engineering Science | FI | 1.6 | 4 | 502 |
-| 16 | 87 | 300 | Miguel Á. Sánchez-Monedero | Consejo Superior de Investigaciones Cientificas | ES | 1.9 | 3 | 498 |
-| 17 | – | 466 | Sylvia H. Larsson | RISE Research Institutes of Sweden | SE | 1.6 | 4 | 453 |
-| 18 | – | 494 | Souradeep Gupta | Centre for Sustainable Energy † | GB | 1.6 | 4 | 449 |
-| 19 | – | 1443 | Neha Mehta | Queen's University Belfast | GB | 0.9 | 2 | 412 |
+| 15 | 86 | 463 | [Amit Bhatnagar](/cdr-researcher-census/researchers/amit-bhatnagar-a5064265/) | LUT School of Engineering Science | FI | 1.6 | [4](/cdr-researcher-census/researchers/amit-bhatnagar-a5064265/#papers) | 502 |
+| 16 | 87 | 300 | [Miguel Á. Sánchez-Monedero](/cdr-researcher-census/researchers/miguel-a-sanchez-monedero-a5090060/) | Consejo Superior de Investigaciones Cientificas | ES | 1.9 | [3](/cdr-researcher-census/researchers/miguel-a-sanchez-monedero-a5090060/#papers) | 498 |
+| 17 | – | 466 | [Sylvia H. Larsson](/cdr-researcher-census/researchers/sylvia-h-larsson-a5025366/) | RISE Research Institutes of Sweden | SE | 1.6 | [4](/cdr-researcher-census/researchers/sylvia-h-larsson-a5025366/#papers) | 453 |
+| 18 | – | 494 | [Souradeep Gupta](/cdr-researcher-census/researchers/souradeep-gupta-a5026780/) | Centre for Sustainable Energy † | GB | 1.6 | [4](/cdr-researcher-census/researchers/souradeep-gupta-a5026780/#papers) | 449 |
+| 19 | – | 1443 | [Neha Mehta](/cdr-researcher-census/researchers/neha-mehta-a5026278/) | Queen's University Belfast | GB | 0.9 | [2](/cdr-researcher-census/researchers/neha-mehta-a5026278/#papers) | 412 |
 | 20 | – | 28 | [Murat Yılmaz](https://captaindrawdown.com/cdr-researcher-census/researchers/murat-ylmaz-a5100637/) | Osmaniye Korkut Ata University | TR | 5.2 | [9](https://captaindrawdown.com/cdr-researcher-census/researchers/murat-ylmaz-a5100637/#papers) | 411 |
-| 21 | – | 109 | Siming You | Heriot-Watt University † | GB | 2.6 | 5 | 407 |
+| 21 | – | 109 | [Siming You](/cdr-researcher-census/researchers/siming-you-a5083497/) | Heriot-Watt University † | GB | 2.6 | [5](/cdr-researcher-census/researchers/siming-you-a5083497/#papers) | 407 |
 | 22 | – | 13 | [Cecilia Sundberg](https://captaindrawdown.com/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/) | Swedish University of Agricultural Sciences | SE | 7.1 | [14](https://captaindrawdown.com/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/#papers) | 405 |
-| 23 | – | 178 | Chunfei Wu | Queen's University Belfast | GB | 2.2 | 5 | 405 |
-| 24 | – | 75 | Alejandro Grimm | Swedish University of Agricultural Sciences | SE | 3.2 | 6 | 399 |
+| 23 | – | 178 | [Chunfei Wu](/cdr-researcher-census/researchers/chunfei-wu-a5032589/) | Queen's University Belfast | GB | 2.2 | [5](/cdr-researcher-census/researchers/chunfei-wu-a5032589/#papers) | 405 |
+| 24 | – | 75 | [Alejandro Grimm](/cdr-researcher-census/researchers/alejandro-grimm-a5061702/) | Swedish University of Agricultural Sciences | SE | 3.2 | [6](/cdr-researcher-census/researchers/alejandro-grimm-a5061702/#papers) | 399 |
 | 25 | – | 15 | [Elias Azzi](https://captaindrawdown.com/cdr-researcher-census/researchers/elias-azzi-a5039260/) | Swedish University of Agricultural Sciences | SE | 6.6 | [13](https://captaindrawdown.com/cdr-researcher-census/researchers/elias-azzi-a5039260/#papers) | 391 |
-| 26 | – | 137 | Habib Ullah | University of Exeter Department of Engineering | GB | 2.4 | 5 | 377 |
+| 26 | – | 137 | [Habib Ullah](/cdr-researcher-census/researchers/habib-ullah-a5028656/) | University of Exeter Department of Engineering | GB | 2.4 | [5](/cdr-researcher-census/researchers/habib-ullah-a5028656/#papers) | 377 |
 | 27 | – | 35 | [Davey L. Jones](https://captaindrawdown.com/cdr-researcher-census/researchers/davey-l-jones-a5064381/) | Bangor University | GB | 4.8 | [7](https://captaindrawdown.com/cdr-researcher-census/researchers/davey-l-jones-a5064381/#papers) | 369 |
 | 28 | – | 36 | [David R. Chadwick](https://captaindrawdown.com/cdr-researcher-census/researchers/shuangjun-li-a5000532/) | Bangor University | GB | 4.8 | [7](https://captaindrawdown.com/cdr-researcher-census/researchers/shuangjun-li-a5000532/#papers) | 366 |
 | 29 | – | 31 | [Balal Yousaf](https://captaindrawdown.com/cdr-researcher-census/researchers/balal-yousaf-a5026803/) | Silesian University of Technology | PL | 5.0 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/balal-yousaf-a5026803/#papers) | 361 |
-| 30 | – | 185 | Tom Kuppens | Vrije Universiteit Brussel | BE | 2.1 | 3 | 347 |
-| 31 | – | 620 | Robert Malina | Universiteit Hasselt | BE | 1.1 | 2 | 346 |
+| 30 | – | 185 | [Tom Kuppens](/cdr-researcher-census/researchers/tom-kuppens-a5074860/) | Vrije Universiteit Brussel | BE | 2.1 | [3](/cdr-researcher-census/researchers/tom-kuppens-a5074860/#papers) | 347 |
+| 31 | – | 620 | [Robert Malina](/cdr-researcher-census/researchers/robert-malina-a5063845/) | Universiteit Hasselt | BE | 1.1 | [2](/cdr-researcher-census/researchers/robert-malina-a5063845/#papers) | 346 |
 | 32 | – | 11 | [Arthur Groß](https://captaindrawdown.com/cdr-researcher-census/researchers/arthur-gro-a5072098/) | Martin Luther University Halle-Wittenberg | DE | 7.8 | [10](https://captaindrawdown.com/cdr-researcher-census/researchers/arthur-gro-a5072098/#papers) | 344 |
 | 33 | – | 25 | [Tobias Bromm](https://captaindrawdown.com/cdr-researcher-census/researchers/tobias-bromm-a5000925/) | Martin Luther University Halle-Wittenberg | DE | 5.5 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/tobias-bromm-a5000925/#papers) | 332 |
-| 34 | – | 3019 | Erik S. Button | Bangor University † | GB | 0.4 | 1 | 330 |
+| 34 | – | 3019 | [Erik S. Button](/cdr-researcher-census/researchers/erik-s-button-a5016544/) | Bangor University † | GB | 0.4 | [1](/cdr-researcher-census/researchers/erik-s-button-a5016544/#papers) | 330 |
 | 35 | – | 29 | [Pete Smith](https://captaindrawdown.com/cdr-researcher-census/researchers/pete-smith-a5028843/) | University of Aberdeen | GB | 5.2 | [8](https://captaindrawdown.com/cdr-researcher-census/researchers/pete-smith-a5028843/#papers) | 326 |
-| 36 | – | 55 | Muhammad Usman | Université Paris Cité | FR | 3.8 | 7 | 319 |
-| 37 | – | 3020 | Hassen Benbelkacem | Institut National des Sciences Appliquées de Lyon † | FR | 0.4 | 1 | 319 |
-| 38 | – | 3021 | Rémy Bayard | Institut National des Sciences Appliquées de Lyon | FR | 0.4 | 1 | 319 |
-| 39 | – | 634 | Muhammad Bilal | University of Antwerp | BE | 1.1 | 3 | 314 |
-| 40 | – | 2230 | Shahbaz Khan | UNESCO † | FR | 0.6 | 1 | 293 |
-| 41 | – | 199 | L.A.C. Tarelho | University of Aveiro | PT | 2.0 | 4 | 290 |
-| 42 | – | 132 | Luca Campion | Hasselt University † | BE | 2.5 | 3 | 275 |
-| 43 | – | 97 | Christian Wurzer | University Of Edinburgh | GB | 2.8 | 5 | 273 |
-| 44 | – | 1444 | Marcin Sajdak | Silesian University of Technology | PL | 0.9 | 2 | 267 |
-| 45 | – | 3022 | Joanna Hrabak | Institute for Chemical Processing of Coal † | PL | 0.4 | 1 | 260 |
-| 46 | – | 3023 | Roksana Muzyka | Politechnika Śląska | PL | 0.4 | 1 | 260 |
-| 47 | – | 2667 | Dapeng Wang | Chalmers University of Technology † | SE | 0.5 | 1 | 252 |
-| 48 | – | 3296 | Hamid Maljaee | University of Aveiro † | PT | 0.3 | 1 | 251 |
-| 49 | – | 3297 | Helena Paiva | University of Aveiro | PT | 0.3 | 1 | 251 |
-| 50 | – | 3298 | Victor Ferreira | Universidade de Aveiro | PT | 0.3 | 1 | 251 |
+| 36 | – | 55 | [Muhammad Usman](/cdr-researcher-census/researchers/muhammad-usman-a5100645/) | Université Paris Cité | FR | 3.8 | [7](/cdr-researcher-census/researchers/muhammad-usman-a5100645/#papers) | 319 |
+| 37 | – | 3020 | [Hassen Benbelkacem](/cdr-researcher-census/researchers/hassen-benbelkacem-a5041950/) | Institut National des Sciences Appliquées de Lyon † | FR | 0.4 | [1](/cdr-researcher-census/researchers/hassen-benbelkacem-a5041950/#papers) | 319 |
+| 38 | – | 3021 | [Rémy Bayard](/cdr-researcher-census/researchers/remy-bayard-a5084089/) | Institut National des Sciences Appliquées de Lyon | FR | 0.4 | [1](/cdr-researcher-census/researchers/remy-bayard-a5084089/#papers) | 319 |
+| 39 | – | 634 | [Muhammad Bilal](/cdr-researcher-census/researchers/muhammad-bilal-a5100439/) | University of Antwerp | BE | 1.1 | [3](/cdr-researcher-census/researchers/muhammad-bilal-a5100439/#papers) | 314 |
+| 40 | – | 2230 | [Shahbaz Khan](/cdr-researcher-census/researchers/shahbaz-khan-a5011195/) | UNESCO † | FR | 0.6 | [1](/cdr-researcher-census/researchers/shahbaz-khan-a5011195/#papers) | 293 |
+| 41 | – | 199 | [L.A.C. Tarelho](/cdr-researcher-census/researchers/lac-tarelho-a5044429/) | University of Aveiro | PT | 2.0 | [4](/cdr-researcher-census/researchers/lac-tarelho-a5044429/#papers) | 290 |
+| 42 | – | 132 | [Luca Campion](/cdr-researcher-census/researchers/luca-campion-a5066955/) | Hasselt University † | BE | 2.5 | [3](/cdr-researcher-census/researchers/luca-campion-a5066955/#papers) | 275 |
+| 43 | – | 97 | [Christian Wurzer](/cdr-researcher-census/researchers/christian-wurzer-a5052710/) | University Of Edinburgh | GB | 2.8 | [5](/cdr-researcher-census/researchers/christian-wurzer-a5052710/#papers) | 273 |
+| 44 | – | 1444 | [Marcin Sajdak](/cdr-researcher-census/researchers/marcin-sajdak-a5044322/) | Silesian University of Technology | PL | 0.9 | [2](/cdr-researcher-census/researchers/marcin-sajdak-a5044322/#papers) | 267 |
+| 45 | – | 3022 | [Joanna Hrabak](/cdr-researcher-census/researchers/joanna-hrabak-a5003545/) | Institute for Chemical Processing of Coal † | PL | 0.4 | [1](/cdr-researcher-census/researchers/joanna-hrabak-a5003545/#papers) | 260 |
+| 46 | – | 3023 | [Roksana Muzyka](/cdr-researcher-census/researchers/roksana-muzyka-a5065248/) | Politechnika Śląska | PL | 0.4 | [1](/cdr-researcher-census/researchers/roksana-muzyka-a5065248/#papers) | 260 |
+| 47 | – | 2667 | [Dapeng Wang](/cdr-researcher-census/researchers/dapeng-wang-a5100416/) | Chalmers University of Technology † | SE | 0.5 | [1](/cdr-researcher-census/researchers/dapeng-wang-a5100416/#papers) | 252 |
+| 48 | – | 3296 | [Hamid Maljaee](/cdr-researcher-census/researchers/hamid-maljaee-a5016325/) | University of Aveiro † | PT | 0.3 | [1](/cdr-researcher-census/researchers/hamid-maljaee-a5016325/#papers) | 251 |
+| 49 | – | 3297 | [Helena Paiva](/cdr-researcher-census/researchers/helena-paiva-a5085536/) | University of Aveiro | PT | 0.3 | [1](/cdr-researcher-census/researchers/helena-paiva-a5085536/#papers) | 251 |
+| 50 | – | 3298 | [Victor Ferreira](/cdr-researcher-census/researchers/victor-ferreira-a5024064/) | Universidade de Aveiro | PT | 0.3 | [1](/cdr-researcher-census/researchers/victor-ferreira-a5024064/#papers) | 251 |
 
 † Institution from the OpenAlex author profile, not confirmed by the researcher's recent papers.
 

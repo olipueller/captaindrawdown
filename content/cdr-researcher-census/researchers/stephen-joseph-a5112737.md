@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph"
 description: "Stephen Joseph, UNSW Sydney, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 28 by activity, 275 by citations. 135 publications, h-index 64, 23,745 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/stephen-joseph-a5112737/"
 layout: "researcher"
 hiddenInHomeList: true

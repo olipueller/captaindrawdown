@@ -1,7 +1,7 @@
 ---
 title: "Johannes Meyer zu Drewer"
 description: "Johannes Meyer zu Drewer, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 5 by activity, 6666 by citations; Enhanced Weathering: rank 27 by activity, 843 by citations. 19 publications, h-index 4, 50 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/johannes-meyer-zu-drewer-a5089195/"
 layout: "researcher"
 hiddenInHomeList: true

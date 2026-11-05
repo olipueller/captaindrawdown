@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
 description: "Nadine Mengis, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 18 by activity, 399 by citations; Ocean CDR: rank 35 by activity, 89 by citations. 143 publications, h-index 22, 1,644 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -75,7 +75,7 @@ robots: "index, follow"
 | 2023 | [Focus on Carbon Dioxide Removal / Guest Editor for Environmental Research Letters Special Issue](https://orcid.org/0000-0003-0312-7069>)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR)</small> | Cross-cutting CDR | 0 |
 | 2022 | [Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?](https://doi.org/10.3389/fclim.2022.810343)<br><small>Frontiers in Climate · with [Malgorzata Borchers](/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/), Angela Stevenson, Aram Kalhori, Christian Dold, Cornelia Schmidt‐Hattenberger, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/) and 15 more</small> | Cross-cutting CDR | 38 |
 | 2022 | [Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany](https://doi.org/10.3389/fclim.2022.758628)<br><small>Frontiers in Climate · with Johannes Förster, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Stevenson, Erik Gawel, Klaas Korte, [Malgorzata Borchers](/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/) and 5 more</small> | Cross-cutting CDR | 37 |
-| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Duncan McLaren, Holly Jean Buck, Kerryn Brent, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/)</small> | Ocean CDR | 66 |
+| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Duncan McLaren, [Holly Jean Buck](/cdr-researcher-census/researchers/holly-jean-buck-a5039348/), Kerryn Brent, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/)</small> | Ocean CDR | 66 |
 
 ---
 

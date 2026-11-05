@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Rasse"
 description: "Daniel P. Rasse, Norwegian Institute of Bioeconomy Research, Norway. 147 publications, h-index 43, 14,183 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/daniel-p-rasse-a5060395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,7 +52,7 @@ robots: "index, follow"
 | 2025 | [Biochar permanence : a policy commentary](https://doi.org/10.25673/121810)<br><small>Digitalen Hochschulbibliothek Sachsen-Anhalt (Universitäts- und Landesbibliothek Sachsen-Anhalt) · with Hans-Peter Schmidt, Akio Enders, [Andrew R. Zimmerman](/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/) and 8 more</small> | Biochar | 0 |
 | 2024 | [Biochar mitigation potential in Norway estimated by IPCC Tier 1 and Tier 2 methods](https://doi.org/10.1080/17583004.2024.2410823)<br><small>Carbon Management · with Andreas Hagenbo, Adam O’Toole, Rasmus Astrup</small> | Biochar | 3 |
 | 2023 | [Slow pyrolysis of olive mill solid residues as a sustainable valorization strategy for waste biomass](https://doi.org/10.1007/s10163-023-01645-4)<br><small>Journal of Material Cycles and Waste Management · with Lea Piscitelli, Anna Daniela Malerba, Teodoro Miano, Donato Mondelli</small> | Biochar | 7 |
-| 2021 | [Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture](https://doi.org/10.1016/j.resconrec.2021.106030)<br><small>Resources Conservation and Recycling · with Alexandre Tisserant, Adam O’Toole, Marjorie Morales, Otávio Cavalett, Simon Weldon, Francesco Cherubini</small> | Biochar | 71 |
+| 2021 | [Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture](https://doi.org/10.1016/j.resconrec.2021.106030)<br><small>Resources Conservation and Recycling · with Alexandre Tisserant, Adam O’Toole, Marjorie Morales, [Otávio Cavalett](/cdr-researcher-census/researchers/otavio-cavalett-a5024402/), Simon Weldon, [Francesco Cherubini](/cdr-researcher-census/researchers/francesco-cherubini-a5074207/)</small> | Biochar | 71 |
 
 ---
 

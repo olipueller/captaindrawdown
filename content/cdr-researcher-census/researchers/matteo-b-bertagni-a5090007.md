@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
 description: "Matteo B. Bertagni, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 29 by activity, 82 by citations. 70 publications, h-index 13, 771 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,7 @@ robots: "index, follow"
 | 2024 | [Advancing Enhanced Weathering Modeling in Soils: Systematic Comparison and Validation with Experimental Data](https://doi.org/10.22541/essoar.170559500.09183720/v1)<br><small>preprint · with [Giuseppe Cipolla](/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/), [Leonardo Noto](/cdr-researcher-census/researchers/leonardo-noto-a5007481/), [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), [Amilcare Porporato](/cdr-researcher-census/researchers/amilcare-porporato-a5010484/)</small> | Enhanced Weathering | 1 |
 | 2024 | [Carbon sequestration uncertainties: bridging the model-data gap for enhanced weathering](https://doi.org/10.5194/egusphere-egu24-9664)<br><small>preprint · with [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), [Giuseppe Cipolla](/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/), [Leonardo Noto](/cdr-researcher-census/researchers/leonardo-noto-a5007481/), [Amilcare Porporato](/cdr-researcher-census/researchers/amilcare-porporato-a5010484/)</small> | Enhanced Weathering | 0 |
 | 2023 | [A cropland application of Enhanced Weathering in the Mediterranean area to face climate change and preserve natural resources](http://dx.doi.org/10.5194/egusphere-egu23-15121)<br><small>preprint · with [Giuseppe Cipolla](/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/), [Amilcare Porporato](/cdr-researcher-census/researchers/amilcare-porporato-a5010484/), Davide Danilo Chiarelli, Maria Cristina Rulli, [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), [Leonardo Noto](/cdr-researcher-census/researchers/leonardo-noto-a5007481/)</small> | Enhanced Weathering | 0 |
-| 2022 | [Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering](https://doi.org/10.1021/acs.est.2c03163)<br><small>Environmental Science & Technology · with [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), Bastien Wild, Claire E. White, Felipe Aburto, [Giuseppe Cipolla](/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/), Ian C. Bourg and 2 more</small> | Enhanced Weathering | 86 |
+| 2022 | [Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering](https://doi.org/10.1021/acs.est.2c03163)<br><small>Environmental Science & Technology · with [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), [Bastien Wild](/cdr-researcher-census/researchers/bastien-wild-a5066613/), Claire E. White, Felipe Aburto, [Giuseppe Cipolla](/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/), Ian C. Bourg and 2 more</small> | Enhanced Weathering | 86 |
 | 2022 | [The Carbon-Capture Efficiency of Natural Water Alkalinization: Implications For Enhanced weathering](https://doi.org/10.1016/j.scitotenv.2022.156524)<br><small>The Science of The Total Environment · with [Amilcare Porporato](/cdr-researcher-census/researchers/amilcare-porporato-a5010484/)</small> | Enhanced Weathering; Ocean CDR | 57 |
 
 ---

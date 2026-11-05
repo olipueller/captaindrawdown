@@ -1,7 +1,7 @@
 ---
 title: "Oscar Stenström"
 description: "Oscar Stenström, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 60 by activity, 1475 by citations. 12 publications, h-index 2, 15 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/"
 layout: "researcher"
 hiddenInHomeList: true

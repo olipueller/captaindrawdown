@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
 description: "Hassan Shokry, Egypt-Japan University of Science and Technology, Egypt. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 74 by activity, 364 by citations. 99 publications, h-index 26, 2,555 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true

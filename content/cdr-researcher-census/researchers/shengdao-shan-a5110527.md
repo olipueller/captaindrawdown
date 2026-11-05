@@ -1,7 +1,7 @@
 ---
 title: "Shengdao Shan"
 description: "Shengdao Shan, Zhejiang University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 21 by activity, 175 by citations. 189 publications, h-index 48, 6,797 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/shengdao-shan-a5110527/"
 layout: "researcher"
 hiddenInHomeList: true

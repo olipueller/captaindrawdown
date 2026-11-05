@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
 description: "Zhuozhen Gan, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 80 by activity, 1457 by citations. 14 publications, h-index 8, 591 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true

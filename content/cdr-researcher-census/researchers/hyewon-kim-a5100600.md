@@ -1,7 +1,7 @@
 ---
 title: "Hyewon Kim"
 description: "Hyewon Kim, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 62 by activity, 832 by citations. 151 publications, h-index 23, 1,530 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hyewon-kim-a5100600/"
 layout: "researcher"
 hiddenInHomeList: true

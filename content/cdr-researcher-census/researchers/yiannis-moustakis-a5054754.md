@@ -1,7 +1,7 @@
 ---
 title: "Yiannis Moustakis"
 description: "Yiannis Moustakis, Ludwig-Maximilians-Universität München, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 67 by activity, 8011 by citations. 33 publications, h-index 8, 339 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/yiannis-moustakis-a5054754/"
 layout: "researcher"
 hiddenInHomeList: true

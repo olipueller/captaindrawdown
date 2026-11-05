@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Nasr"
 description: "Mahmoud Nasr, Alexandria University, Egypt. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 11 by activity, 1003 by citations. 248 publications, h-index 42, 5,574 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Feasibility of anaerobic digestion/phytoremediation/co-pyrolysis pathway for textile industrial wastewater valorization: Performance, life cycle assessment, and techno-economics](https://doi.org/10.1016/j.jece.2026.121251)<br><small>Journal of environmental chemical engineering · with Derrick Dadebo, [Manabu Fujii](/cdr-researcher-census/researchers/manabu-fujii-a5075901/), Mona G. Ibrahim</small> | Biochar | 9 |
 | 2026 | [Techno‐Economic and Life Cycle Assessment of Anaerobic/Aerobic Integrated Biosystem for Threefold “Biogas, Biochar, and Treated Effluent” Benefits](https://doi.org/10.1002/wer.70303)<br><small>Water Environment Research · with Abdelsalam Zidan, Mona G. Ibrahim, Samuel Anang</small> | Biochar | 3 |
-| 2026 | [Simultaneous recovery of biogas/biochar and degradation of 3,5-Dimethylphenol in anaerobic landfill leachate treatment](https://doi.org/10.1016/j.hazadv.2026.101087)<br><small>Journal of Hazardous Materials Advances · with Ahmed Tawfik, Mohamed N. Khalil, Nawaf S. Alhajeri</small> | Biochar | 2 |
+| 2026 | [Simultaneous recovery of biogas/biochar and degradation of 3,5-Dimethylphenol in anaerobic landfill leachate treatment](https://doi.org/10.1016/j.hazadv.2026.101087)<br><small>Journal of Hazardous Materials Advances · with Ahmed Tawfik, Mohamed N. Khalil, [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/)</small> | Biochar | 2 |
 | 2026 | [Biochar and fungal-pellet synergistic interaction for dual polyamide nanoplastic biosorption and resource recovery: batch/sequential experiments with real domestic wastewater](https://openalex.org/W7140212863)<br><small>with Sohila Abd Elmohsen, Ahmed Tawfik, Mohamed N. Khalil, Nagwa M. Sidkey, Safaa Ragheb, Samah A. Mohamed and 1 more</small> | Biochar | 0 |
 | 2025 | [Feasibility of phytoremediation/pyrolysis/adsorption framework for valorization of water hyacinth: Life cycle assessment, techno-economics, and sustainability pillars](https://doi.org/10.1016/j.jwpe.2025.107146)<br><small>Journal of Water Process Engineering · with Morish Azabo, Amal Abdelhaleem</small> | Biochar | 15 |
 | 2024 | [Coagulation-Flocculation/Pyrolysis Integrated System for Dye-Laden Wastewater Treatment: A Techno-Economic and Sustainable Approach](https://doi.org/10.1007/s11270-024-07659-4)<br><small>Water Air & Soil Pollution · with Gelasius Gregory Msemwa, Amal Abdelhaleem, [Manabu Fujii](/cdr-researcher-census/researchers/manabu-fujii-a5075901/), Mona G. Ibrahim</small> | Biochar | 31 |

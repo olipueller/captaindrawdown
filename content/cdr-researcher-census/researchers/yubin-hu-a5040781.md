@@ -1,7 +1,7 @@
 ---
 title: "Yubin Hu"
 description: "Yubin Hu, Shandong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 93 by activity, 178 by citations. 70 publications, h-index 17, 840 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/yubin-hu-a5040781/"
 layout: "researcher"
 hiddenInHomeList: true

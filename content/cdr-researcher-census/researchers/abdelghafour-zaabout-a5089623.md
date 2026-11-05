@@ -1,7 +1,7 @@
 ---
 title: "Abdelghafour Zaabout"
 description: "Abdelghafour Zaabout, Université Mohammed VI Polytechnique, MA. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 40 by activity, 180 by citations. 105 publications, h-index 23, 1,878 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Standardized benchmarking of direct air capture technologies: techno-economic and environmental assessment, and multi-criteria decision analysis](https://openalex.org/W7163377415)<br><small>with Houssam Bouaboula, [Youssef Belmabkhout](/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/)</small> | DAC | 2 |
 | 2026 | [Integration of direct air capture with solar tower and chimney power plants: energy, economic and carbon assessments](https://openalex.org/W7155717209)<br><small>with Y. Elaouzy, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Kumar Patchigolla, Mustapha Soukri</small> | DAC | 1 |
-| 2026 | [From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15](https://openalex.org/W7204580074)<br><small>with Riham Surkatti, Ahmed Sodiq, Amal Mahgoub, Areej Tageldin, Sara Hassan, [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/) and 1 more</small> | DAC | 0 |
+| 2026 | [From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15](https://openalex.org/W7204580074)<br><small>with Riham Surkatti, [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), Amal Mahgoub, Areej Tageldin, Sara Hassan, [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/) and 1 more</small> | DAC | 0 |
 | 2025 | [Integrated CO2 capture and green hydrogen production: A promising approach for energy and cost reductions](https://doi.org/10.1016/j.cej.2025.161361)<br><small>Chemical Engineering Journal · with Houssam Bouaboula, [Youssef Belmabkhout](/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/)</small> | Cross-cutting CDR | 33 |
 | 2025 | [Carbon capture, utilization and storage in buildings: Analysis of performance, social acceptance, policy measures, and the role of artificial intelligence](https://doi.org/10.1016/j.buildenv.2025.112817)<br><small>Building and Environment · with Y. Elaouzy</small> | Cross-cutting CDR | 17 |
 | 2025 | [Integration of sorbent enhanced in hydrothermal waste transformation for negative CO2 emission fuel production: Techno-economic assessments](https://doi.org/10.1016/j.enconman.2025.119519)<br><small>Energy Conversion and Management · with M. Sow, Mohamed M. Ibrahim</small> | Cross-cutting CDR | 11 |

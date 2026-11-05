@@ -1,7 +1,7 @@
 ---
 title: "Gang Kevin Li"
 description: "Gang Kevin Li, The University of Melbourne, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 69 by activity, 2131 by citations. 161 publications, h-index 34, 4,130 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/gang-kevin-li-a5055340/"
 layout: "researcher"
 hiddenInHomeList: true

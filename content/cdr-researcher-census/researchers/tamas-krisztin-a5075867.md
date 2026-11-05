@@ -1,7 +1,7 @@
 ---
 title: "Tamás Krisztin"
 description: "Tamás Krisztin, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 84 by activity, 1760 by citations. 102 publications, h-index 23, 4,442 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/tamas-krisztin-a5075867/"
 layout: "researcher"
 hiddenInHomeList: true

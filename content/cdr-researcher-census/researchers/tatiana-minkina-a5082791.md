@@ -1,7 +1,7 @@
 ---
 title: "Tatiana Minkina"
 description: "Tatiana Minkina, Southern Federal University, Russia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 96 by activity, 493 by citations. 884 publications, h-index 71, 20,438 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/tatiana-minkina-a5082791/"
 layout: "researcher"
 hiddenInHomeList: true

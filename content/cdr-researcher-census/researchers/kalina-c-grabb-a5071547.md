@@ -1,7 +1,7 @@
 ---
 title: "Kalina C. Grabb"
 description: "Kalina C. Grabb, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 83 by activity, 1554 by citations. 31 publications, h-index 8, 430 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/kalina-c-grabb-a5071547/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Fajardy"
 description: "Mathilde Fajardy, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 94 by activity, 41 by citations. 39 publications, h-index 18, 1,605 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,9 @@ robots: "index, follow"
 | 2022 | [CO<sub>2</sub> removal and 1.5 °C: what, when, where, and how?](https://doi.org/10.1039/d2ya00108j)<br><small>Energy Advances · with Solène Chiquier, [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/)</small> | BECCS | 26 |
 | 2022 | [Bioenergy with Carbon Capture and Storage (BECCS)](https://doi.org/10.1039/9781839165245-00080) | BECCS | 7 |
 | 2022 | [CO2 removal and 1.5°C: what, when, where, and how?](http://arxiv.org/abs/2204.04029)<br><small>arXiv (Cornell University) (preprint) · with Solène Chiquier, [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/)</small> | BECCS | 0 |
-| 2021 | [The economics of bioenergy with carbon capture and storage (BECCS) deployment in a 1.5 °C or 2 °C world](https://doi.org/10.1016/j.gloenvcha.2021.102262)<br><small>Global Environmental Change · with Angelo Gurgel, Howard J. Herzog, Jennifer Morris, [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/), Sergey Paltsev</small> | BECCS | 137 |
+| 2021 | [The economics of bioenergy with carbon capture and storage (BECCS) deployment in a 1.5 °C or 2 °C world](https://doi.org/10.1016/j.gloenvcha.2021.102262)<br><small>Global Environmental Change · with [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), Howard J. Herzog, [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/), Sergey Paltsev</small> | BECCS | 137 |
 | 2021 | [Delivering carbon negative electricity, heat and hydrogen with BECCS – Comparing the options](https://doi.org/10.1016/j.ijhydene.2021.02.042)<br><small>International Journal of Hydrogen Energy · with Mai Bui, Di Zhang, [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/)</small> | BECCS | 56 |
-| 2021 | [Life cycle optimization of BECCS supply chains in the European Union](https://doi.org/10.1016/j.apenergy.2021.117252)<br><small>Applied Energy · with Valentina Negri, Carlos Pozo, David Reiner, [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/), [Ángel Galán‐Martín](/cdr-researcher-census/researchers/angel-galanmartin-a5067787/), [Gonzalo Guillén‐Gosálbez](/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/)</small> | BECCS | 46 |
+| 2021 | [Life cycle optimization of BECCS supply chains in the European Union](https://doi.org/10.1016/j.apenergy.2021.117252)<br><small>Applied Energy · with Valentina Negri, Carlos Pozo, [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/), [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/), [Ángel Galán‐Martín](/cdr-researcher-census/researchers/angel-galanmartin-a5067787/), [Gonzalo Guillén‐Gosálbez](/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/)</small> | BECCS | 46 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "T. Alan Hatton"
 description: "T. Alan Hatton, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 59 by activity, 1408 by citations. 606 publications, h-index 109, 41,062 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/t-alan-hatton-a5046348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ robots: "index, follow"
 | 2026 | [Bismuth-Driven Flow-Through pH Swing Architecture for Membrane-Free Electrochemical Marine Carbon Removal](https://openalex.org/W7172424872)<br><small>with Alex Koh-Bell, Dongwoo Kim, Fabian J. Dickhardt, Michael P. Nitzsche, Nikolaos Tsakiris, Simon Rufer and 1 more</small> | Ocean CDR | 0 |
 | 2026 | [Electrochemically Driven Sorbent-Mediated Recovery of CO2 in Marine Inorganic Carbon Extraction Processes](https://openalex.org/W7202115631)<br><small>with Michael P. Nitzsche, Annlin Su, Kripa K. Varanasi, Michael Massen‐Hane</small> | Ocean CDR | 0 |
 | 2025 | [Feasibility and Design of Distributed Carbon Dioxide Capture Networks in Urban Environments](https://doi.org/10.1021/acssuschemeng.5c03456)<br><small>ACS Sustainable Chemistry & Engineering · with Alexandra Tavasoli, Betar M. Gallant</small> | Cross-cutting CDR | 3 |
-| 2024 | [Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal](https://doi.org/10.1016/j.chempr.2023.12.015)<br><small>Chem · with Mihrimah Ozkan, Amir Shiner, Nadežda Kongi, Steve Oldham, Edward Sanders</small> | DAC; Ocean CDR | 13 |
+| 2024 | [Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal](https://doi.org/10.1016/j.chempr.2023.12.015)<br><small>Chem · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/), Amir Shiner, Nadežda Kongi, Steve Oldham, Edward Sanders</small> | DAC; Ocean CDR | 13 |
 | 2024 | [Thermodynamics of Electrochemical Marine Inorganic Carbon Removal](https://doi.org/10.1021/acs.est.4c05721)<br><small>Environmental Science & Technology · with Fabian J. Dickhardt, Michael P. Nitzsche, Simon Rufer, Kripa K. Varanasi</small> | DAC; Ocean CDR | 4 |
 | 2023 | [(Invited) Electro-Swing Adsorption for CO<sub>2</sub> Emissions Mitigation – from Concept to Start-up](https://doi.org/10.1149/ma2023-01271760mtgabs)<br><small>ECS Meeting Abstracts · with Sahag Voskian</small> | DAC | 1 |
 | 2022 | [Electrochemical Carbon Dioxide Capture and Release with a Redox-Active Amine](https://doi.org/10.1021/jacs.1c10656)<br><small>Journal of the American Chemical Society · with Hyowon Seo, Mohammad Rahimi</small> | DAC | 147 |

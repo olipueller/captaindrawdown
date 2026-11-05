@@ -1,7 +1,7 @@
 ---
 title: "Jennie E. Rheuban"
 description: "Jennie E. Rheuban, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 92 by activity, 834 by citations. 45 publications, h-index 15, 1,012 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jennie-e-rheuban-a5040595/"
 layout: "researcher"
 hiddenInHomeList: true

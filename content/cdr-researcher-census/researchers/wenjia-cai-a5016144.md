@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Cai"
 description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 98 by activity, 66 by citations. 248 publications, h-index 58, 35,557 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/wenjia-cai-a5016144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,8 +52,8 @@ robots: "index, follow"
 | 2026 | [Integrating Health Co-benefits into Climate Mitigation Policymaking](https://doi.org/10.5194/egusphere-egu26-16575)<br><small>with Jianxiang Shen</small> | Cross-cutting CDR | 0 |
 | 2023 | [The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future](https://doi.org/10.1016/s2468-2667(23)00245-1)<br><small>The Lancet Public Health · with Shihui Zhang, Bing Xu, Bo Lü, Borong Lin, Can Wang, Chao Ren and 69 more</small> | Cross-cutting CDR | 96 |
 | 2023 | [Towards carbon-neutral sustainable development of China](https://doi.org/10.1088/1748-9326/acd12e)<br><small>Environmental Research Letters · with Jintai Lin, Ji Nie, Tao Wang, Xu Yue, Yu Liu, Qiang Zhang</small> | Cross-cutting CDR | 12 |
-| 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263)<br><small>Applied Energy · with Yuwei Weng, Can Wang</small> | BECCS | 185 |
-| 2021 | [A fine-resolution estimation of the biomass resource potential across China from 2020 to 2100](https://doi.org/10.1016/j.resconrec.2021.105944)<br><small>Resources Conservation and Recycling · with Yaoyu Nie, Can Wang, Guorui Huang, Haoran Li, Jin Li, Jingying Fu and 4 more</small> | BECCS | 36 |
+| 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263)<br><small>Applied Energy · with [Yuwei Weng](/cdr-researcher-census/researchers/yuwei-weng-a5044770/), [Can Wang](/cdr-researcher-census/researchers/can-wang-a5100428/)</small> | BECCS | 185 |
+| 2021 | [A fine-resolution estimation of the biomass resource potential across China from 2020 to 2100](https://doi.org/10.1016/j.resconrec.2021.105944)<br><small>Resources Conservation and Recycling · with Yaoyu Nie, [Can Wang](/cdr-researcher-census/researchers/can-wang-a5100428/), Guorui Huang, Haoran Li, Jin Li, Jingying Fu and 4 more</small> | BECCS | 36 |
 
 ---
 

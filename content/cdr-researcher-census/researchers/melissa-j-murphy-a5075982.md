@@ -1,7 +1,7 @@
 ---
 title: "Melissa J. Murphy"
 description: "Melissa J. Murphy, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 59 by activity, 111 by citations. 45 publications, h-index 18, 1,687 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,7 @@ robots: "index, follow"
 | 2024 | [Application of an Innovative Centrifuge-Based Soil Pore Water Sampling Method in Basalt Enhanced Weathering Field Trials.](https://doi.org/10.5194/egusphere-egu24-20843)<br><small>preprint · with [Anežka Borčinová Radková](/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/), Amy Frew, Amy Mc Bride, E. J. Chen, Ifeoma Edeh, Jez Wardman and 11 more</small> | Enhanced Weathering | 0 |
 | 2023 | [Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate](https://doi.org/10.5281/zenodo.8158681)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with [Kirstine Skov](/cdr-researcher-census/researchers/kirstine-skov-a5042164/), Amy Lewis, Dave George, [David A.C. Manning](/cdr-researcher-census/researchers/david-ac-manning-a5016005/), Ifeoma Edeh, Jez Wardman and 10 more</small> | Enhanced Weathering | 1 |
 | 2023 | [Preliminary findings from comparison of in-situ measurements of enhanced weathering proxies with model predictions](https://doi.org/10.5194/egusphere-egu23-13354)<br><small>preprint · with [Kirstine Skov](/cdr-researcher-census/researchers/kirstine-skov-a5042164/), Amy Lewis, Ifeoma Edeh, Jez Wardman, [Mike Kelland](/cdr-researcher-census/researchers/mike-kelland-a5075310/), Peter Wade and 4 more</small> | Enhanced Weathering | 0 |
-| 2021 | [Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum](https://doi.org/10.1126/sciadv.abh4224)<br><small>Science Advances · with [Philip A.E. Pogge von Strandmann](/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/), A. Joshua West, [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), David J. Wilson, Ella W. Stokke, Gary Tarbuck and 2 more</small> | Enhanced Weathering | 144 |
+| 2021 | [Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum](https://doi.org/10.1126/sciadv.abh4224)<br><small>Science Advances · with [Philip A.E. Pogge von Strandmann](/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/), [A. Joshua West](/cdr-researcher-census/researchers/a-joshua-west-a5019240/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [David J. Wilson](/cdr-researcher-census/researchers/david-j-wilson-a5044892/), Ella W. Stokke, [Gary Tarbuck](/cdr-researcher-census/researchers/gary-tarbuck-a5061449/) and 2 more</small> | Enhanced Weathering | 144 |
 
 ---
 

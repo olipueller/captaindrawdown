@@ -1,7 +1,7 @@
 ---
 title: "Matthew Green"
 description: "Matthew Green, Arizona State University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 59 by activity, 2129 by citations. 191 publications, h-index 43, 8,315 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/matthew-green-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true

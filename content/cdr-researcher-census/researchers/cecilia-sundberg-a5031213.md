@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Sundberg"
 description: "Cecilia Sundberg, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 38 by activity, 118 by citations. 152 publications, h-index 40, 4,836 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,7 +52,7 @@ robots: "index, follow"
 | 2025 | [Early-stage sustainability assessment of greywater treatment with Moringa oleifera seed extract and biochar](https://doi.org/10.1016/j.jclepro.2025.147349)<br><small>Journal of Cleaner Production · with Catherine Ndinda, Catherine Ndinda, Harry Tibbetts, Lisa Zakrisson, Mary Njenga, Ivan Kozyatnyk</small> | Biochar | 0 |
 | 2024 | [Biochar sustainability](http://dx.doi.org/10.4324/9781003297673-31)<br><small>with [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/)</small> | Biochar | 1 |
 | 2023 | [Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data](https://doi.org/10.1016/j.geoderma.2023.116761)<br><small>Geoderma · with [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Erik Karltun, Haichao Li, Harald Cederlund</small> | Biochar | 97 |
-| 2023 | [Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment](https://doi.org/10.1111/gcbb.13102)<br><small>GCB Bioenergy · with Shivesh Kishore Karan, Dominic Woolf, [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Stephen A. Wood</small> | Biochar | 56 |
+| 2023 | [Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment](https://doi.org/10.1111/gcbb.13102)<br><small>GCB Bioenergy · with Shivesh Kishore Karan, [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Stephen A. Wood</small> | Biochar | 56 |
 | 2023 | [Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability](https://doi.org/10.1007/s11367-023-02144-2)<br><small>The International Journal of Life Cycle Assessment · with Lisa Zakrisson, [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/)</small> | BECCS; Biochar | 23 |
 | 2023 | [Modelling Biochar Long-Term Carbon Storage in Soil with Harmonized Analysis of Incubation Data](http://dx.doi.org/10.2139/ssrn.4601106)<br><small>SSRN Electronic Journal (preprint) · with [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Erik Karltun, Haichao Li, Harald Cederlund</small> | Biochar | 1 |
 | 2023 | [Revisiting biochar decomposition data and long-term stability estimates: a transparent and reproducible analysis](http://dx.doi.org/10.5194/egusphere-egu23-5625)<br><small>preprint · with [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/)</small> | Biochar | 0 |

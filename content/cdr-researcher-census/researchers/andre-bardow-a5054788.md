@@ -1,7 +1,7 @@
 ---
 title: "André Bardow"
 description: "André Bardow, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 5 by activity, 3 by citations. 695 publications, h-index 68, 24,465 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/andre-bardow-a5054788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,10 +58,10 @@ robots: "index, follow"
 | 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039)<br><small>Joule · with Vincent Dufour‐Décieux, [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Tobias S. Schmidt</small> | Cross-cutting CDR | 8 |
 | 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/)</small> | Cross-cutting CDR | 1 |
 | 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/)</small> | DAC | 0 |
-| 2022 | [Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100](https://doi.org/10.1038/s41467-022-31146-1)<br><small>Nature Communications · with Yang Qiu, Harmen Sytze de Boer, Jennifer Wilcox, Mathijs Harmsen, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), Patrick Lamers and 2 more</small> | DAC | 158 |
-| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9)<br><small>Nature Energy · with Sarah Deutz</small> | DAC | 615 |
-| 2021 | [From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization](https://doi.org/10.1021/acs.est.0c07599)<br><small>Environmental Science & Technology · with Hesam Ostovari, Jan Skoček, Leonard Jan Müller</small> | DAC; Enhanced Weathering | 166 |
-| 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2)<br><small>preprint · with Sarah Deutz</small> | DAC | 0 |
+| 2022 | [Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100](https://doi.org/10.1038/s41467-022-31146-1)<br><small>Nature Communications · with Yang Qiu, Harmen Sytze de Boer, [Jennifer Wilcox](/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/), Mathijs Harmsen, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), Patrick Lamers and 2 more</small> | DAC | 158 |
+| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9)<br><small>Nature Energy · with [Sarah Deutz](/cdr-researcher-census/researchers/sarah-deutz-a5086401/)</small> | DAC | 615 |
+| 2021 | [From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization](https://doi.org/10.1021/acs.est.0c07599)<br><small>Environmental Science & Technology · with [Hesam Ostovari](/cdr-researcher-census/researchers/hesam-ostovari-a5078071/), [Jan Skoček](/cdr-researcher-census/researchers/jan-skocek-a5034960/), [Leonard Jan Müller](/cdr-researcher-census/researchers/leonard-jan-muller-a5007621/)</small> | DAC; Enhanced Weathering | 166 |
+| 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2)<br><small>preprint · with [Sarah Deutz](/cdr-researcher-census/researchers/sarah-deutz-a5086401/)</small> | DAC | 0 |
 
 ---
 

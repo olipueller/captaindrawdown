@@ -1,7 +1,7 @@
 ---
 title: "Josep G. Canadell"
 description: "Josep G. Canadell, CSIRO, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 93 by activity, 119 by citations. 527 publications, h-index 132, 103,597 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:30+00:00
 url: "/cdr-researcher-census/researchers/josep-g-canadell-a5055830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Improved Comparability and System-Wide Verification to Support a Scalable Carbon Credit Market](https://doi.org/10.5194/egusphere-2025-6457)<br><small>with ﻿Jean-Francois Lamarque, Alicia Karspeck, Brian Osias, Britt Stephens, Charles D. Koven, Galen A. McKinley and 15 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Improved Comparability and System-Wide Verification to Support a Scalable Carbon Credit Market](https://doi.org/10.5194/egusphere-2025-6457)<br><small>with ﻿Jean-Francois Lamarque, Alicia Karspeck, Brian Osias, Britt Stephens, Charles D. Koven, [Galen A. McKinley](/cdr-researcher-census/researchers/galen-a-mckinley-a5024418/) and 15 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [The North American Greenhouse Gas Budget: Emissions, Removals, and Integration for CO2, CH4, and N2O (2010–2019)](https://doi.org/10.5194/egusphere-egu26-178)<br><small>with Benjamin Poulter, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Daniel J. Hayes, Guillermo Murray-Tortorola, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), Pep C</small> | Cross-cutting CDR | 0 |
 | 2025 | [The North American Greenhouse Gas Budget: Emissions, Removals, and Integration for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O (2010–2019): Results From the Second REgional Carbon Cycle Assessment and Processes Study (RECCAP2)](https://doi.org/10.1029/2024gb008310)<br><small>Global Biogeochemical Cycles · with Benjamin Poulter, A. M. Michalak, Abhishek Chatterjee, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Andrew F. Feldman, Arnaud Mialon and 37 more</small> | Cross-cutting CDR | 17 |
 | 2025 | [From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)](https://openalex.org/W4407250055)<br><small>with [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Benjamin Poulter, Corinne Le Quéré, [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), Hanqin Tian and 13 more</small> | Ocean CDR | 9 |

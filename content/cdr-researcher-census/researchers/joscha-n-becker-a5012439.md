@@ -1,7 +1,7 @@
 ---
 title: "Joscha N. Becker"
 description: "Joscha N. Becker, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 61 by activity, 9005 by citations. 77 publications, h-index 17, 1,442 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/joscha-n-becker-a5012439/"
 layout: "researcher"
 hiddenInHomeList: true

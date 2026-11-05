@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Gazeau"
 description: "Frédéric Gazeau, CNRS Délégation Régionale Côte d'Azur, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 68 by activity, 833 by citations. 202 publications, h-index 33, 5,967 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/frederic-gazeau-a5039141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation](https://doi.org/10.1073/pnas.2533459123)<br><small>Proceedings of the National Academy of Sciences · with [Fabrice Pernet](/cdr-researcher-census/researchers/fabrice-pernet-a5076989/), Christopher J. Gobler, Cliff S. Law, [Jean‐Pierre Gattuso](/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/), Marc Métian, Nicolas Metzl and 4 more</small> | Ocean CDR | 4 |
+| 2026 | [Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation](https://doi.org/10.1073/pnas.2533459123)<br><small>Proceedings of the National Academy of Sciences · with [Fabrice Pernet](/cdr-researcher-census/researchers/fabrice-pernet-a5076989/), Christopher J. Gobler, [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/), [Jean‐Pierre Gattuso](/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/), Marc Métian, Nicolas Metzl and 4 more</small> | Ocean CDR | 4 |
 | 2026 | [Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement](https://doi.org/10.1093/icesjms/fsag011)<br><small>ICES Journal of Marine Science · with [Fabrice Pernet](/cdr-researcher-census/researchers/fabrice-pernet-a5076989/), Hugo Koechlin, Luna Ducoulombier, C. A. Miller</small> | Ocean CDR | 2 |
 | 2026 | [A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy](https://openalex.org/W7160296054)<br><small>with [Fabrice Pernet](/cdr-researcher-census/researchers/fabrice-pernet-a5076989/), [Phillip Williamson](/cdr-researcher-census/researchers/phillip-williamson-a5039444/)</small> | Ocean CDR | 1 |
 | 2026 | [Alkaline mineral dissolution can impair embryonic development in the Pacific oyster (Magallana gigas), raising caution for ocean alkalinity enhancement](https://openalex.org/W7149234278)<br><small>with [Fabrice Pernet](/cdr-researcher-census/researchers/fabrice-pernet-a5076989/), C. A. Miller, Geochemistry, Hugo Koechlin, Luna Ducoulombier, Research Programme in Earth Sciences Utrecht (DES / IVAU) and 2 more</small> | Ocean CDR | 0 |
 | 2025 | [An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset](https://doi.org/10.5194/essd-17-1075-2025)<br><small>Earth system science data · with Nicolas Metzl, Aline Tribollet, Bruno Bombled, Bruno Lansard, Catherine Goyet, Christophe Rabouille and 25 more</small> | Ocean CDR | 10 |
 | 2025 | [Keeping tabs on ocean alkalinity enhancement: effects of olivine dissolution on the embryonic and larval development of the Pacific oyster Magallana gigas](https://doi.org/10.5194/oos2025-477)<br><small>preprint · with C. A. Miller, Hugo Koechlin, Luna Ducoulombier, [Fabrice Pernet](/cdr-researcher-census/researchers/fabrice-pernet-a5076989/)</small> | Ocean CDR | 0 |
-| 2024 | [A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset](https://doi.org/10.5194/essd-16-89-2024)<br><small>Earth system science data · with Nicolas Metzl, Aline Tribollet, Anne Petrenko, Bruno Lansard, Christophe Rabouille, Claire Lo Monaco and 28 more</small> | Ocean CDR | 15 |
+| 2024 | [A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset](https://doi.org/10.5194/essd-16-89-2024)<br><small>Earth system science data · with Nicolas Metzl, Aline Tribollet, Anne Petrenko, Bruno Lansard, Christophe Rabouille, [Claire Lo Monaco](/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/) and 28 more</small> | Ocean CDR | 15 |
 | 2024 | [An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset](https://doi.org/10.5194/essd-2024-464)<br><small>preprint · with Nicolas Metzl, Aline Tribollet, Bruno Bombled, Bruno Lansard, Catherine Goyet, Christophe Rabouille and 25 more</small> | Ocean CDR | 1 |
 
 ---

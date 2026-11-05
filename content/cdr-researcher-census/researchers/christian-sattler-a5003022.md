@@ -1,7 +1,7 @@
 ---
 title: "Christian Sattler"
 description: "Christian Sattler, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 96 by activity, 674 by citations. 597 publications, h-index 54, 9,197 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/christian-sattler-a5003022/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengxiang Fang"
 description: "Mengxiang Fang, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 54 by activity, 367 by citations. 275 publications, h-index 47, 8,004 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mengxiang-fang-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y)<br><small>npj Materials Sustainability · with [Shuangjun Li](/cdr-researcher-census/researchers/shuangjun-li-a5000532/), Hui Zhou, Huiyan Zhang, [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), Runkai Chen, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/) and 1 more</small> | DAC | 33 |
 | 2024 | [Direct air capture of CO2 using biochar prepared from sewage sludge: Adsorption capacity and kinetics](https://doi.org/10.1016/j.scitotenv.2024.174887)<br><small>The Science of The Total Environment · with Jun Liu, Chenyang Liang, Kehao Fang, Shaokang Li, Tao Wang, Xinwei Guo and 1 more</small> | Biochar; DAC | 25 |
 | 2024 | [Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis](http://dx.doi.org/10.2139/ssrn.5031041)<br><small>SSRN Electronic Journal (preprint) · with Weishan Liu, Fengsheng Liu, Muhang He, Tao Wang, Xiaoyu Wang, Xin Gu and 2 more</small> | DAC | 0 |
-| 2023 | [Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles](https://doi.org/10.1016/j.ccst.2023.100114)<br><small>Carbon Capture Science & Technology · with Wen‐Juan Shi, T. Wang, X.J. Zhang, X.J. Zhang, Yongzhen Ji, L. Jiang</small> | DAC | 19 |
+| 2023 | [Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles](https://doi.org/10.1016/j.ccst.2023.100114)<br><small>Carbon Capture Science & Technology · with Wen‐Juan Shi, T. Wang, [X.J. Zhang](/cdr-researcher-census/researchers/xj-zhang-a5078524/), X.J. Zhang, Yongzhen Ji, [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/)</small> | DAC | 19 |
 
 ---
 

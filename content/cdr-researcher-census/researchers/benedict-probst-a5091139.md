@@ -1,7 +1,7 @@
 ---
 title: "Benedict Probst"
 description: "Benedict Probst, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 36 by activity, 2107 by citations. 58 publications, h-index 13, 1,030 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/benedict-probst-a5091139/"
 layout: "researcher"
 hiddenInHomeList: true

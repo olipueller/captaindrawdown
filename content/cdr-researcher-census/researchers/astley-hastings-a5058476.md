@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
 description: "Astley Hastings, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 36 by activity, 177 by citations. 211 publications, h-index 43, 8,435 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches](https://doi.org/10.5194/egusphere-egu26-17542)<br><small>with Isabela Butnar, Catherine Price, Disni Gamaralalage, Evangelos Mouchos, Genevieve R. Hodgins, Joanna I. House and 15 more</small> | DAC | 0 |
+| 2026 | [Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches](https://doi.org/10.5194/egusphere-egu26-17542)<br><small>with Isabela Butnar, Catherine Price, Disni Gamaralalage, Evangelos Mouchos, Genevieve R. Hodgins, [Joanna I. House](/cdr-researcher-census/researchers/joanna-i-house-a5036206/) and 15 more</small> | DAC | 0 |
 | 2025 | [Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)](https://doi.org/10.20944/preprints202504.2510.v1)<br><small>Preprints.org (preprint) · with Mohamed Abdalla, [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), Grant L. Campbell, [Jon McCalmont](/cdr-researcher-census/researchers/jon-mccalmont-a5053097/), [Pete Smith](/cdr-researcher-census/researchers/pete-smith-a5028843/)</small> | BECCS | 1 |
-| 2024 | [A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions](https://doi.org/10.1002/wene.540)<br><small>Wiley Interdisciplinary Reviews Energy and Environment · with Isabela Butnar, Disni Gamaralalage, John Lynch, Jon McKechnie, Matthew Brander, Mirjam Röder and 7 more</small> | Cross-cutting CDR | 9 |
+| 2024 | [A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions](https://doi.org/10.1002/wene.540)<br><small>Wiley Interdisciplinary Reviews Energy and Environment · with Isabela Butnar, Disni Gamaralalage, John Lynch, Jon McKechnie, Matthew Brander, [Mirjam Röder](/cdr-researcher-census/researchers/mirjam-roder-a5033669/) and 7 more</small> | Cross-cutting CDR | 9 |
 | 2023 | [Perennial biomass cropping and use: Shaping the policy ecosystem in European countries](https://doi.org/10.1111/gcbb.13038)<br><small>GCB Bioenergy · with J. C. Brown, [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), Anatolii Sandu, Andrea Ferrarini, B.S. Elbersen, Chris Ashman and 34 more</small> | BECCS | 56 |
 | 2023 | [Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception](https://doi.org/10.1111/gcbb.13029)<br><small>GCB Bioenergy · with [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), Andrea Ferrarini, Andreas Kiesel, Andrew Lovett, Chris Ashman, Chris Davey and 19 more</small> | BECCS | 20 |
 | 2022 | [Expanding the <i>Miscanthus</i> market in the <scp>UK</scp>: Growers in profile and experience, benefits and drawbacks of the bioenergy crop](https://doi.org/10.1111/gcbb.12997)<br><small>GCB Bioenergy · with Rebecca von Hellfeld, Iain Donnison, J. C. Brown, Jason Kam, Rebecca Rowe, [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/)</small> | BECCS | 18 |

@@ -1,7 +1,7 @@
 ---
 title: "Vishwajit Kumar"
 description: "Vishwajit Kumar, Kasturba Medical College, Manipal, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 17 by activity, 2683 by citations. 8 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/"
 layout: "researcher"
 hiddenInHomeList: true

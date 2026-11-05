@@ -1,7 +1,7 @@
 ---
 title: "Qiang Fu"
 description: "Qiang Fu, Northeast Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 78 by activity, 265 by citations. 1010 publications, h-index 59, 15,240 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/qiang-fu-a5065153/"
 layout: "researcher"
 hiddenInHomeList: true

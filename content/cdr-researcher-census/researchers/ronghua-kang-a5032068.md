@@ -1,7 +1,7 @@
 ---
 title: "Ronghua Kang"
 description: "Ronghua Kang, Chinese Academy of Sciences, China. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 92 by activity, 597 by citations. 68 publications, h-index 14, 623 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/ronghua-kang-a5032068/"
 layout: "researcher"
 hiddenInHomeList: true

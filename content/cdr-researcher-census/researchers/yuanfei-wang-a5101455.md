@@ -1,7 +1,7 @@
 ---
 title: "Yuanfei Wang"
 description: "Yuanfei Wang, Qingdao University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 46 by activity, 2972 by citations. 155 publications, h-index 32, 3,559 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/yuanfei-wang-a5101455/"
 layout: "researcher"
 hiddenInHomeList: true

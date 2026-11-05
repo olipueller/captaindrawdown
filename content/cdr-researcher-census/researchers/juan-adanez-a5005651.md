@@ -1,7 +1,7 @@
 ---
 title: "Juan Adánez"
 description: "Juan Adánez, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 100 by activity, 727 by citations. 324 publications, h-index 75, 21,660 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/juan-adanez-a5005651/"
 layout: "researcher"
 hiddenInHomeList: true

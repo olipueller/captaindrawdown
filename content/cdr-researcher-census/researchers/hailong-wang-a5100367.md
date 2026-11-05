@@ -1,7 +1,7 @@
 ---
 title: "Hailong Wang"
 description: "Hailong Wang, Foshan University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 71 by activity, 64 by citations. 1404 publications, h-index 129, 63,137 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hailong-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,7 @@ robots: "index, follow"
 | 2022 | [Synthesis of biochar from iron-free and iron-containing microalgal biomass for the removal of pharmaceuticals from water](https://doi.org/10.1016/j.envres.2022.114041)<br><small>Environmental Research · with Kanchan J. Nakarmi, Abhijit Maiti, Ehsan Daneshvar, Ghada Eshaq, Liisa Puro, P.V. Nidheesh and 1 more</small> | Biochar | 57 |
 | 2022 | [Meta-Analysis for Quantifying Carbon Sequestration and Greenhouse Gas Emission in Paddy Soils One Year after Biochar Application](https://doi.org/10.3390/agronomy12123065)<br><small>Agronomy · with Fei Bu, Binoy Sarkar, [Jun Meng](/cdr-researcher-census/researchers/jun-meng-a5100619/), [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), Qiong Nan, Wushuang Li</small> | Biochar | 23 |
 | 2022 | [The potential agronomic and environmental applications of biochar: Prospects and challenges](https://doi.org/10.1016/b978-0-12-822974-3.00027-6)<br><small>Elsevier eBooks · with Yujun Wang, [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), Ping Wu</small> | Biochar | 3 |
-| 2021 | [Microorganisms-carbonaceous materials immobilized complexes: Synthesis, adaptability and environmental applications](https://doi.org/10.1016/j.jhazmat.2021.125915)<br><small>Journal of Hazardous Materials · with Ping Wu, Amit Bhatnagar, Paramsothy Jeyakumar, Yujun Wang, Zeyu Wang, Xiaofang Li</small> | Biochar | 161 |
+| 2021 | [Microorganisms-carbonaceous materials immobilized complexes: Synthesis, adaptability and environmental applications](https://doi.org/10.1016/j.jhazmat.2021.125915)<br><small>Journal of Hazardous Materials · with Ping Wu, [Amit Bhatnagar](/cdr-researcher-census/researchers/amit-bhatnagar-a5064265/), Paramsothy Jeyakumar, Yujun Wang, Zeyu Wang, Xiaofang Li</small> | Biochar | 161 |
 | 2021 | [Co-pyrolysis route of chlorella sp. and bauxite tailings to fabricate metal-biochar as persulfate activator](https://doi.org/10.1016/j.cej.2021.132578)<br><small>Chemical Engineering Journal · with Kwangsuk Yoon, Dong-Wan Cho, Hocheol Song</small> | Biochar | 52 |
 
 ---

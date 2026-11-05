@@ -1,7 +1,7 @@
 ---
 title: "Thomas L. Frölicher"
 description: "Thomas L. Frölicher, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 46 by activity, 330 by citations. 288 publications, h-index 66, 17,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ robots: "index, follow"
 | 2024 | [Overconfidence in climate overshoot](https://doi.org/10.1038/s41586-024-08020-9)<br><small>Nature · with [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), Benjamin M. Sanderson, Biqing Zhu, Chahan M. Kropf, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Emily Theokritoff and 23 more</small> | Cross-cutting CDR | 178 |
 | 2023 | [Ocean carbon from space: Current status and priorities for the next decade](https://doi.org/10.1016/j.earscirev.2023.104386)<br><small>Earth-Science Reviews · with Robert J. W. Brewin, Aimee Neeley, Ana B. Ruescas, Andrew Watson, Astrid Bracher, Bror Jönsson and 48 more</small> | Ocean CDR | 63 |
 | 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25)<br><small>Global Sustainability · with Mercedes Bustamante, Aaron Redman, Aditi Mukherji, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Aniek Hebinck, Anja Rammig and 71 more</small> | Cross-cutting CDR | 47 |
-| 2023 | [Divergent Response of Ocean Regions to Temporarily Overshooting Paris Agreement Warming Levels](https://doi.org/10.5194/egusphere-egu23-6636)<br><small>preprint · with Fabrice Lacroix, [Friedrich A. Burger](/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/), Yona Silvy</small> | Cross-cutting CDR | 0 |
+| 2023 | [Divergent Response of Ocean Regions to Temporarily Overshooting Paris Agreement Warming Levels](https://doi.org/10.5194/egusphere-egu23-6636)<br><small>preprint · with [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/), [Friedrich A. Burger](/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/), Yona Silvy</small> | Cross-cutting CDR | 0 |
 | 2022 | [Carbon Dioxide Removal and warming reversal in the light of uncertain Earth System processes](https://doi.org/10.5194/egusphere-egu22-9838)<br><small>preprint · with [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), Andrew H. MacDougall, Benjamin M. Sanderson, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), Quentin Lejeune</small> | Cross-cutting CDR | 0 |
 
 ---

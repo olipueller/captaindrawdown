@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
 description: "Javier Lezaun, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 73 by activity, 177 by citations. 118 publications, h-index 32, 4,830 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration](https://openalex.org/W7207532251)<br><small>with [Spyros Foteinis](/cdr-researcher-census/researchers/spyros-foteinis-a5057305/), James Campbell, José María Valenzuela, [Liam A. Bullock](/cdr-researcher-census/researchers/liam-a-bullock-a5076444/), Mijndert Der Spek, [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/) and 2 more</small> | Ocean CDR | 0 |
+| 2026 | [Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration](https://openalex.org/W7207532251)<br><small>with [Spyros Foteinis](/cdr-researcher-census/researchers/spyros-foteinis-a5057305/), [James Campbell](/cdr-researcher-census/researchers/james-campbell-a5089134/), José María Valenzuela, [Liam A. Bullock](/cdr-researcher-census/researchers/liam-a-bullock-a5076444/), Mijndert Der Spek, [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/) and 2 more</small> | Ocean CDR | 0 |
 | 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12)<br><small>with Markus Schartau, Adriaan Perrels, Anusha Sathyanadh, Barbara Neumann, [Christine Merk](/cdr-researcher-census/researchers/christine-merk-a5135538/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/) and 14 more</small> | Ocean CDR | 1 |
 | 2024 | [Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal](https://doi.org/10.1016/j.gloenvcha.2024.102806)<br><small>Global Environmental Change · with [Sara Nawaz](/cdr-researcher-census/researchers/sara-nawaz-a5083576/)</small> | Ocean CDR | 21 |
 | 2024 | [Responsible innovation in CDR: designing sustainable national Greenhouse Gas Removal policies in a fragmented and polycentric governance system](https://doi.org/10.3389/fclim.2023.1293650)<br><small>Frontiers in Climate · with Peter Healey, Tim Kruger</small> | Cross-cutting CDR | 9 |
@@ -54,7 +54,7 @@ robots: "index, follow"
 | 2023 | [Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts](https://doi.org/10.1021/acs.est.2c09595)<br><small>Environmental Science & Technology · with [Sara Nawaz](/cdr-researcher-census/researchers/sara-nawaz-a5083576/), José María Valenzuela, [Phil Renforth](/cdr-researcher-census/researchers/phil-renforth-a5011758/)</small> | Ocean CDR | 39 |
 | 2023 | [Report on mesocosm experimentation deliberative workshops with stakeholders](http://dx.doi.org/10.3289/oceannets_d7.8) | Ocean CDR | 0 |
 | 2022 | [Summary report on deliberative workshop with stakeholders on mesocosm research in Bergen, Norway](https://doi.org/10.3289/oceannets_d7.2)<br><small>with [Sara Nawaz](/cdr-researcher-census/researchers/sara-nawaz-a5083576/), Jose M. Valenzuela</small> | Ocean CDR | 0 |
-| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with Samuel Fankhauser, Cameron Hepburn, Eli Mitchell-Larson, J. M. Kendall, Kaya Axelsson, Lavanya Rajamani and 8 more</small> | Cross-cutting CDR | 960 |
+| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with [Samuel Fankhauser](/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/), [Cameron Hepburn](/cdr-researcher-census/researchers/cameron-hepburn-a5068254/), [Eli Mitchell-Larson](/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/), [J. M. Kendall](/cdr-researcher-census/researchers/j-m-kendall-a5086300/), [Kaya Axelsson](/cdr-researcher-census/researchers/kaya-axelsson-a5050288/), [Lavanya Rajamani](/cdr-researcher-census/researchers/lavanya-rajamani-a5038389/) and 8 more</small> | Cross-cutting CDR | 960 |
 | 2021 | [Hugging the Shore: Tackling Marine Carbon Dioxide Removal as a Local Governance Problem](https://doi.org/10.3389/fclim.2021.684063)<br><small>Frontiers in Climate</small> | Ocean CDR | 47 |
 | 2021 | [Governing Carbon Dioxide Removal in the UK: Lessons Learned and Challenges Ahead](https://doi.org/10.3389/fclim.2021.673859)<br><small>Frontiers in Climate · with Peter Healey, Tim Kruger, [Stephen M. Smith](/cdr-researcher-census/researchers/stephen-m-smith-a5110129/)</small> | Cross-cutting CDR | 21 |
 | 2021 | [Summary report on deliberative workshop with stakeholders on mesocosm research in the Canary Islands](https://doi.org/10.3289/oceannets_d7.1) | Ocean CDR | 0 |

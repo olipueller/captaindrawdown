@@ -1,7 +1,7 @@
 ---
 title: "Soon‐Il An"
 description: "Soon‐Il An, Yonsei University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 48 by activity, 253 by citations. 376 publications, h-index 48, 14,204 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/soonil-an-a5033866/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
 description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 69 by activity, 235 by citations. 282 publications, h-index 73, 26,843 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,8 +55,8 @@ robots: "index, follow"
 | 2023 | [Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil](https://doi.org/10.1021/acs.est.2c06419)<br><small>Environmental Science & Technology · with Yang Wang, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Baoguo Li, David R. G. Mitchell, Guitong Li, [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/) and 12 more</small> | Biochar | 76 |
 | 2023 | [Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation](https://doi.org/10.1021/acs.est.3c08229)<br><small>Environmental Science & Technology · with Qiang Li, Changxun Yu, Cong‐Qiang Liu, Ji Chen, Jianchao Zhang, Junhui Chen and 12 more</small> | Ocean CDR | 59 |
 | 2023 | [Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China](https://doi.org/10.1016/j.catena.2023.107023)<br><small>CATENA · with Shaobo Sun, Baozhang Chen, Cong‐Qiang Liu, Iain P. Hartley, Lele Wu, Qiang Li and 6 more</small> | Ocean CDR | 26 |
-| 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901)<br><small>SSRN Electronic Journal (preprint) · with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Guitong Li, Hao‐Li Zhang, Jianming Xu, Qimei Lin and 7 more</small> | Biochar | 0 |
-| 2022 | [Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria](https://doi.org/10.1007/s00374-022-01643-y)<br><small>Biology and Fertility of Soils · with Yingyi Fu, Bhupinder Pal Singh, Muhammad Auwal, Yu Luo, Jianming Xu</small> | Biochar | 84 |
+| 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901)<br><small>SSRN Electronic Journal (preprint) · with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Guitong Li, Hao‐Li Zhang, [Jianming Xu](/cdr-researcher-census/researchers/jianming-xu-a5068464/), Qimei Lin and 7 more</small> | Biochar | 0 |
+| 2022 | [Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria](https://doi.org/10.1007/s00374-022-01643-y)<br><small>Biology and Fertility of Soils · with Yingyi Fu, Bhupinder Pal Singh, Muhammad Auwal, Yu Luo, [Jianming Xu](/cdr-researcher-census/researchers/jianming-xu-a5068464/)</small> | Biochar | 84 |
 | 2021 | [Priming, stabilization and temperature sensitivity of native SOC is controlled by microbial responses and physicochemical properties of biochar](https://doi.org/10.1016/j.soilbio.2021.108139)<br><small>Soil Biology and Biochemistry · with Guanhong Chen, Ehsan Tavakkoli, Xiaojie Wang, Yingxue Xuan, Yunying Fang, Renduo Zhang</small> | Biochar | 94 |
 
 ---

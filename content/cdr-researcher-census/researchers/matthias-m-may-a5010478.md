@@ -1,7 +1,7 @@
 ---
 title: "Matthias M. May"
 description: "Matthias M. May, Universität Tübingen, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 81 by activity, 6072 by citations. 128 publications, h-index 21, 2,854 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/matthias-m-may-a5010478/"
 layout: "researcher"
 hiddenInHomeList: true

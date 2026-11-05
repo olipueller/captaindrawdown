@@ -1,7 +1,7 @@
 ---
 title: "Wojciech Jerzak"
 description: "Wojciech Jerzak, AGH University of Krakow, Poland. 76 publications, h-index 16, 873 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/wojciech-jerzak-a5047466/"
 layout: "researcher"
 hiddenInHomeList: true

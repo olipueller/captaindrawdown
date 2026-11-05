@@ -1,7 +1,7 @@
 ---
 title: "Ioannis D. Manariotis"
 description: "Ioannis D. Manariotis, University of Patras, Greece. 154 publications, h-index 28, 2,580 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/ioannis-d-manariotis-a5017616/"
 layout: "researcher"
 hiddenInHomeList: true

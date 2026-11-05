@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
 description: "Quirin Grossmann, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 100 by activity, 479 by citations. 11 publications, h-index 7, 242 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true

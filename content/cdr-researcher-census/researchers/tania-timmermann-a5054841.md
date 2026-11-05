@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
 description: "Tania Timmermann, Andes Ag, Inc. (United States), United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 71 by activity, 1007 by citations. 25 publications, h-index 15, 1,135 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true

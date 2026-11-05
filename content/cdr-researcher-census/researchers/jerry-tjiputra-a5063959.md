@@ -1,7 +1,7 @@
 ---
 title: "Jerry Tjiputra"
 description: "Jerry Tjiputra, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 97 by activity, 2686 by citations. 340 publications, h-index 53, 13,812 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/"
 layout: "researcher"
 hiddenInHomeList: true

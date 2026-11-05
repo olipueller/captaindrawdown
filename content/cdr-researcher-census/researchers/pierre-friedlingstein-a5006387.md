@@ -1,7 +1,7 @@
 ---
 title: "Pierre Friedlingstein"
 description: "Pierre Friedlingstein, University of Exeter, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 87 by activity, 118 by citations. 640 publications, h-index 141, 126,552 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:30+00:00
 url: "/cdr-researcher-census/researchers/pierre-friedlingstein-a5006387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,14 +48,14 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Ten new insights in climate science 2025](https://doi.org/10.1017/sus.2025.10043)<br><small>Global Sustainability · with Daniel Ospina, Aaron Redman, Adrian Heilemann, Akira Mori, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Anders Persson and 69 more</small> | Cross-cutting CDR | 8 |
-| 2026 | [Improved Comparability and System-Wide Verification to Support a Scalable Carbon Credit Market](https://doi.org/10.5194/egusphere-2025-6457)<br><small>with ﻿Jean-Francois Lamarque, Alicia Karspeck, Brian Osias, Britt Stephens, Charles D. Koven, Galen A. McKinley and 15 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Improved Comparability and System-Wide Verification to Support a Scalable Carbon Credit Market](https://doi.org/10.5194/egusphere-2025-6457)<br><small>with ﻿Jean-Francois Lamarque, Alicia Karspeck, Brian Osias, Britt Stephens, Charles D. Koven, [Galen A. McKinley](/cdr-researcher-census/researchers/galen-a-mckinley-a5024418/) and 15 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Next-Generation Harmonized Land-Use Forcing Datasets for Global Carbon and Climate Models](https://doi.org/10.5194/egusphere-egu26-15682)<br><small>with Louise Chini, Louise Parsons Chini, David M. Lawrence, G. C. Hurtt, Ida Bagus Mandhara Brasika, Janna Chapman and 7 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Ten New Insights in Climate Science 2025](https://openalex.org/W7138993999)<br><small>with Daniel Ospina, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Deliang Chen, Derik Broekhoff, Helge Goessling, Kristie L. Ebi and 16 more</small> | Ocean CDR | 0 |
 | 2025 | [From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)](https://openalex.org/W4407250055)<br><small>with [Josep G. Canadell](/cdr-researcher-census/researchers/josep-g-canadell-a5055830/), [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Benjamin Poulter, Corinne Le Quéré, [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/) and 13 more</small> | Ocean CDR | 9 |
 | 2025 | [Ten New Insights in Climate Science 2025 (accepted manuscript)](https://doi.org/10.5281/zenodo.18026053)<br><small>Zenodo (CERN European Organization for Nuclear Research) (preprint) · with Daniel Ospina, Aaron Redman, Adrian Heilemann, Akira Mori, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Anna‐Maria Virkkala and 66 more</small> | Cross-cutting CDR | 0 |
-| 2024 | [Geological Net Zero and the need for disaggregated accounting for carbon sinks](https://doi.org/10.1038/s41586-024-08326-8)<br><small>Nature · with Myles Allen, Andrew Weaver, Bill Hare, Chris Huntingford, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), David J. Frame and 18 more</small> | Cross-cutting CDR | 89 |
+| 2024 | [Geological Net Zero and the need for disaggregated accounting for carbon sinks](https://doi.org/10.1038/s41586-024-08326-8)<br><small>Nature · with [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/), Andrew Weaver, Bill Hare, Chris Huntingford, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), David J. Frame and 18 more</small> | Cross-cutting CDR | 89 |
 | 2024 | [The need for carbon-emissions-driven climate projections in CMIP7](https://doi.org/10.5194/gmd-17-8141-2024)<br><small>Geoscientific model development · with Benjamin M. Sanderson, Abigail L. S. Swann, Abigail Snyder, Andrew D. King, B. H. Samset, Ben Booth and 21 more</small> | Cross-cutting CDR | 61 |
-| 2022 | [Net Zero: Science, Origins, and Implications](https://doi.org/10.1146/annurev-environ-112320-105050)<br><small>Annual Review of Environment and Resources · with Myles Allen, Cécile Girardin, Eli Mitchell-Larson, [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), Stuart Jenkins, Yadvinder Malhi and 1 more</small> | Cross-cutting CDR | 219 |
+| 2022 | [Net Zero: Science, Origins, and Implications](https://doi.org/10.1146/annurev-environ-112320-105050)<br><small>Annual Review of Environment and Resources · with [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/), Cécile Girardin, [Eli Mitchell-Larson](/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/), [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), Stuart Jenkins, Yadvinder Malhi and 1 more</small> | Cross-cutting CDR | 219 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mak Đukan"
 description: "Mak Đukan, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 22 by activity, 2890 by citations. 38 publications, h-index 9, 244 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/mak-ukan-a5013904/"
 layout: "researcher"
 hiddenInHomeList: true

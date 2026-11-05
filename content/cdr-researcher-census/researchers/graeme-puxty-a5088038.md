@@ -1,7 +1,7 @@
 ---
 title: "Graeme Puxty"
 description: "Graeme Puxty, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 25 by activity, 810 by citations. 151 publications, h-index 37, 9,611 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/graeme-puxty-a5088038/"
 layout: "researcher"
 hiddenInHomeList: true

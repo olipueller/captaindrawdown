@@ -1,7 +1,7 @@
 ---
 title: "Yunting Fang"
 description: "Yunting Fang, Chinese Academy of Sciences, China. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 26 by activity, 51 by citations. 297 publications, h-index 59, 12,131 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/yunting-fang-a5012369/"
 layout: "researcher"
 hiddenInHomeList: true

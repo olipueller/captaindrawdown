@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
 description: "Guido Raos, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 36 by activity, 887 by citations. 168 publications, h-index 34, 4,113 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true

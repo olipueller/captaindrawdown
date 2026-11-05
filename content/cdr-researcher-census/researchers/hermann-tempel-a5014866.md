@@ -1,7 +1,7 @@
 ---
 title: "Hermann Tempel"
 description: "Hermann Tempel, Forschungszentrum Jülich, Germany. 218 publications, h-index 31, 3,081 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hermann-tempel-a5014866/"
 layout: "researcher"
 hiddenInHomeList: true

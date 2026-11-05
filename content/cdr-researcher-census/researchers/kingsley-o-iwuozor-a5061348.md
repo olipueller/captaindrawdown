@@ -1,7 +1,7 @@
 ---
 title: "Kingsley O. Iwuozor"
 description: "Kingsley O. Iwuozor, Nnamdi Azikiwe University, Nigeria. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 44 by activity, 680 by citations. 208 publications, h-index 48, 7,700 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/"
 layout: "researcher"
 hiddenInHomeList: true

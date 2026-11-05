@@ -1,7 +1,7 @@
 ---
 title: "Chong Peng"
 description: "Chong Peng, State Key Laboratory of Fine Chemicals, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 76 by activity, 3913 by citations. 290 publications, h-index 52, 9,533 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/chong-peng-a5079900/"
 layout: "researcher"
 hiddenInHomeList: true

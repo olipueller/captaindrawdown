@@ -1,7 +1,7 @@
 ---
 title: "Millie Dobson"
 description: "Millie Dobson, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 85 by activity, 2270 by citations. 8 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/millie-dobson-a5113068/"
 layout: "researcher"
 hiddenInHomeList: true

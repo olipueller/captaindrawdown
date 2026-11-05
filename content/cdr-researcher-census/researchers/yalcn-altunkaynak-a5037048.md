@@ -1,7 +1,7 @@
 ---
 title: "Yalçın Altunkaynak"
 description: "Yalçın Altunkaynak, Batman University, Turkey. 34 publications, h-index 13, 1,103 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/yalcn-altunkaynak-a5037048/"
 layout: "researcher"
 hiddenInHomeList: true

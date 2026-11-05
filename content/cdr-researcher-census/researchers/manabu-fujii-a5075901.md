@@ -1,7 +1,7 @@
 ---
 title: "Manabu Fujii"
 description: "Manabu Fujii, Institute of Science Tokyo, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 90 by activity, 345 by citations. 468 publications, h-index 50, 7,977 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/manabu-fujii-a5075901/"
 layout: "researcher"
 hiddenInHomeList: true

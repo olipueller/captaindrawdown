@@ -1,7 +1,7 @@
 ---
 title: "Brian P. Setzler"
 description: "Brian P. Setzler, University of Delaware, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 37 by activity, 3449 by citations. 70 publications, h-index 17, 3,576 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/brian-p-setzler-a5046492/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
 description: "Iza Lantgios, Idaho National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 56 by activity, 2290 by citations. 6 publications, h-index 2, 326 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true

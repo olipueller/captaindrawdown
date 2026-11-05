@@ -1,7 +1,7 @@
 ---
 title: "Stefano Caserini"
 description: "Stefano Caserini, University of Parma, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 44 by activity, 39 by citations. 126 publications, h-index 23, 1,847 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/stefano-caserini-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,7 +62,7 @@ robots: "index, follow"
 | 2022 | [Feasibility, potential and environmental impacts of ocean alkalinity enhancement for removing CO2 from the atmosphere and counteracting seawater acidification](https://doi.org/10.5194/egusphere-egu22-12467)<br><small>preprint · with [Francesco Pietro Campo](/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/), [Mario Grosso](/cdr-researcher-census/researchers/mario-grosso-a5082273/)</small> | Ocean CDR | 0 |
 | 2022 | [Challenges in the Use of Rainbowing in Ocean Alkalinity Enhancement](https://doi.org/10.2139/ssrn.4214275)<br><small>SSRN Electronic Journal · with Samuele Abbate, Andrew Lockley, Antonella Abbà, Francesco Campo, [Francesco Pietro Campo](/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/), [Mario Grosso](/cdr-researcher-census/researchers/mario-grosso-a5082273/) and 1 more</small> | Ocean CDR | 0 |
 | 2022 | [TECNOLOGIE, CONSUMI ENERGETICI, COSTI E IMPATTI AMBIENTALI NELL’ESCAVAZIONE, LAVORAZIONE E TRASPORTO DI CALCARE E OLIVINA](https://openalex.org/W7218629512)<br><small>with Serena De Marco</small> | Enhanced Weathering | 0 |
-| 2021 | [Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification](https://doi.org/10.3389/fclim.2021.614537)<br><small>Frontiers in Climate · with Momme Butenschön, Simona Masina, Tomas Lovato, [Mario Grosso](/cdr-researcher-census/researchers/mario-grosso-a5082273/)</small> | Ocean CDR | 76 |
+| 2021 | [Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification](https://doi.org/10.3389/fclim.2021.614537)<br><small>Frontiers in Climate · with [Momme Butenschön](/cdr-researcher-census/researchers/momme-butenschon-a5045008/), Simona Masina, [Tomas Lovato](/cdr-researcher-census/researchers/tomas-lovato-a5004513/), [Mario Grosso](/cdr-researcher-census/researchers/mario-grosso-a5082273/)</small> | Ocean CDR | 76 |
 
 ---
 

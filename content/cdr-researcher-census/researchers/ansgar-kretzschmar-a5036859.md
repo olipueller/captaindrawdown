@@ -1,7 +1,7 @@
 ---
 title: "Ansgar Kretzschmar"
 description: "Ansgar Kretzschmar, Forschungszentrum Jülich, Germany. 33 publications, h-index 8, 324 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/ansgar-kretzschmar-a5036859/"
 layout: "researcher"
 hiddenInHomeList: true

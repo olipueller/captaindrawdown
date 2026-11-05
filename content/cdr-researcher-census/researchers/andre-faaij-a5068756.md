@@ -1,7 +1,7 @@
 ---
 title: "André Faaij"
 description: "André Faaij, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 31 by activity, 381 by citations. 526 publications, h-index 99, 39,333 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/andre-faaij-a5068756/"
 layout: "researcher"
 hiddenInHomeList: true

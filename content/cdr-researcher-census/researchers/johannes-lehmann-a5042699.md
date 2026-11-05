@@ -1,7 +1,7 @@
 ---
 title: "Johannes Lehmann"
 description: "Johannes Lehmann, Cornell University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 79 by activity, 3 by citations. 1240 publications, h-index 123, 97,895 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/johannes-lehmann-a5042699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,8 +55,8 @@ robots: "index, follow"
 | 2024 | [Biochar is a long-lived form of carbon removal, making evidence-based CDR projects possible](https://doi.org/10.1007/s42773-024-00366-7)<br><small>Biochar · with [David Chiaramonti](/cdr-researcher-census/researchers/david-chiaramonti-a5071729/), Franco Berruti, [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), Paola Giudicianni, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 41 |
 | 2023 | [Integrated biochar solutions can achieve carbon-neutral staple crop production](https://doi.org/10.1038/s43016-023-00694-0)<br><small>Nature Food · with Longlong Xia, Chaopu Ti, Kees Jan van Groenigen, Klaus Butterbach‐Bahl, Liang Cao, Minghao Zhuang and 7 more</small> | Biochar | 178 |
 | 2023 | [Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil](https://doi.org/10.1021/acs.est.2c06419)<br><small>Environmental Science & Technology · with Yang Wang, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Baoguo Li, David R. G. Mitchell, Guitong Li, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/) and 12 more</small> | Biochar | 76 |
-| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Caroline A. Masiello, [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), Dominic Woolf, James E. Amonette, Marta Camps Arbestain and 2 more</small> | Biochar | 949 |
-| 2021 | [Greenhouse Gas Inventory Model for Biochar Additions to Soil](https://doi.org/10.1021/acs.est.1c02425)<br><small>Environmental Science & Technology · with Dominic Woolf, Ayaka W. Kishimoto‐Mo, B.G. McConkey, Stephen M. Ogle, Jeff Baldock</small> | Biochar | 224 |
+| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/), [Marta Camps Arbestain](/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/) and 2 more</small> | Biochar | 949 |
+| 2021 | [Greenhouse Gas Inventory Model for Biochar Additions to Soil](https://doi.org/10.1021/acs.est.1c02425)<br><small>Environmental Science & Technology · with [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), Ayaka W. Kishimoto‐Mo, B.G. McConkey, Stephen M. Ogle, Jeff Baldock</small> | Biochar | 224 |
 
 ---
 

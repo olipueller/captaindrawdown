@@ -1,7 +1,7 @@
 ---
 title: "Lara Meuleneers"
 description: "Lara Meuleneers, RWTH Aachen University, Germany. 4 publications, h-index 3, 44 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/lara-meuleneers-a5104453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ robots: "index, follow"
 | 2025 | [From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies](https://doi.org/10.2139/ssrn.5278865)<br><small>SSRN Electronic Journal (preprint) · with [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), Linda Engelman, Martina Ziefle, Marzia Traverso and 7 more</small> | DAC | 5 |
 | 2024 | [A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal](https://doi.org/10.1007/s43979-024-00100-z)<br><small>Carbon Neutrality · with [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Mirko Engelpracht](/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/), [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 25 |
 | 2024 | [Eliciting laypeople's mental models and risk perceptions of direct air carbon capture and storage: Implications for effective risk communication](https://doi.org/10.1016/j.egyr.2024.06.070)<br><small>Energy Reports · with Katrin Arning, Anika Linzenich, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Martina Ziefle, [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 18 |
-| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798)<br><small>SSRN Electronic Journal · with Carla Esch, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Matthias Weßling, [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Sarah Deutz, [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 0 |
+| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798)<br><small>SSRN Electronic Journal · with Carla Esch, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Matthias Weßling, [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), [Sarah Deutz](/cdr-researcher-census/researchers/sarah-deutz-a5086401/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 0 |
 | 2023 | [“Maybe it can be stored out in space?” : Mental models and perceptions of Direct Air Carbon Capturing and Storage (DACCS) for improving risk communication](https://publications.rwth-aachen.de/record/980033)<br><small>RWTH Publications (RWTH Aachen) · with Anne Katrin Arning, Anika Linzenich, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Lara Sophie Meuleneers, Martina Ziefle, Niklas Vincenz von der Aßen</small> | DAC | 0 |
 
 ---

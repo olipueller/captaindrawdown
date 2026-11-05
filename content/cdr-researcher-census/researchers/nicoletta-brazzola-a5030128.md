@@ -1,7 +1,7 @@
 ---
 title: "Nicoletta Brazzola"
 description: "Nicoletta Brazzola, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 24 by activity, 599 by citations. 21 publications, h-index 5, 185 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,12 +47,12 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Short-term action is key for gigaton-scale Direct Air Capture by 2050](https://openalex.org/W7160696878)<br><small>with Tatjana Zurbriggen, Adrian Odenweller, Falko Ueckerdt, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | DAC | 2 |
-| 2026 | [Certification and MRV requirements to operationalise geological offsets in the aviation sector](https://doi.org/10.5194/egusphere-egu26-1980)<br><small>with Joanna I. House, Kai Jiang, Myles Allen, Natascha Martirosian, Stuart Jenkins, Tom Kettlety</small> | BECCS; DAC | 0 |
-| 2026 | [Short-term action is key for gigaton-scale Direct Air Capture by 2050](https://openalex.org/W7213522113)<br><small>with Tatjana Zurbriggen, Adrian Odenweller, Falko Ueckerdt, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | DAC | 0 |
+| 2026 | [Short-term action is key for gigaton-scale Direct Air Capture by 2050](https://openalex.org/W7160696878)<br><small>with Tatjana Zurbriggen, Adrian Odenweller, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | DAC | 2 |
+| 2026 | [Certification and MRV requirements to operationalise geological offsets in the aviation sector](https://doi.org/10.5194/egusphere-egu26-1980)<br><small>with [Joanna I. House](/cdr-researcher-census/researchers/joanna-i-house-a5036206/), Kai Jiang, [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/), Natascha Martirosian, Stuart Jenkins, Tom Kettlety</small> | BECCS; DAC | 0 |
+| 2026 | [Short-term action is key for gigaton-scale Direct Air Capture by 2050](https://openalex.org/W7213522113)<br><small>with Tatjana Zurbriggen, Adrian Odenweller, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | DAC | 0 |
 | 2025 | [The role of direct air capture in achieving climate-neutral aviation](https://doi.org/10.1038/s41467-024-55482-6)<br><small>Nature Communications · with Amir Meskaldji, [Anthony Patt](/cdr-researcher-census/researchers/anthony-patt-a5064781/), Tim Tröndle, [Christian Moretti](/cdr-researcher-census/researchers/christian-moretti-a5027325/)</small> | DAC | 38 |
 | 2025 | [Between Mitigation and Capture Deterrence: How Both Technology Optimism and Pessimism May Derail the Energy Transition](https://doi.org/10.2139/ssrn.5276156)<br><small>SSRN Electronic Journal (preprint) · with Jacob Mannhardt, Tim Tröndle, Giovanni Sansavini</small> | Cross-cutting CDR | 1 |
-| 2025 | [Assessing the Feasibility of Economy-Scale Direct Air Capture Deployment by 2050](https://doi.org/10.21203/rs.3.rs-6165238/v1)<br><small>preprint · with Adrian Odenweller, Falko Ueckerdt, Tatjana Zurbriggen, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | DAC | 0 |
+| 2025 | [Assessing the Feasibility of Economy-Scale Direct Air Capture Deployment by 2050](https://doi.org/10.21203/rs.3.rs-6165238/v1)<br><small>preprint · with Adrian Odenweller, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), Tatjana Zurbriggen, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | DAC | 0 |
 | 2024 | [Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>](https://doi.org/10.1088/1748-9326/ad3b1f)<br><small>Environmental Research Letters · with [Anthony Patt](/cdr-researcher-census/researchers/anthony-patt-a5064781/), [Christian Moretti](/cdr-researcher-census/researchers/christian-moretti-a5027325/), [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Johan Lilliestam</small> | DAC | 12 |
 | 2024 | [Synthetic fuels may be a cheaper way to achieve climate-neutral aviation](https://doi.org/10.21203/rs.3.rs-3981416/v1)<br><small>preprint · with Amir Meskaldji, [Anthony Patt](/cdr-researcher-census/researchers/anthony-patt-a5064781/), Tim Tröndle, [Christian Moretti](/cdr-researcher-census/researchers/christian-moretti-a5027325/)</small> | DAC | 0 |
 | 2021 | [Offsetting unabated agricultural emissions with CO2 removal to achieve ambitious climate targets](https://doi.org/10.1371/journal.pone.0247887)<br><small>PLoS ONE · with Jan Wohland, [Anthony Patt](/cdr-researcher-census/researchers/anthony-patt-a5064781/)</small> | Cross-cutting CDR | 14 |

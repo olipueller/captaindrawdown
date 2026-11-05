@@ -1,7 +1,7 @@
 ---
 title: "Jon McCalmont"
 description: "Jon McCalmont, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 76 by activity, 320 by citations. 63 publications, h-index 20, 1,645 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/jon-mccalmont-a5053097/"
 layout: "researcher"
 hiddenInHomeList: true

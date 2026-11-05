@@ -1,7 +1,7 @@
 ---
 title: "Hamed Sanei"
 description: "Hamed Sanei, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 6 by activity, 378 by citations. 328 publications, h-index 49, 8,018 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/hamed-sanei-a5054476/"
 layout: "researcher"
 hiddenInHomeList: true

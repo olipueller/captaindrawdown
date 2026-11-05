@@ -1,7 +1,7 @@
 ---
 title: "Meththika Vithanage"
 description: "Meththika Vithanage, University of Sri Jayewardenepura, LK. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 77 by activity, 198 by citations. 517 publications, h-index 93, 33,558 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/meththika-vithanage-a5053693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2024 | [Current trends in antimicrobial activities of carbon nanostructures: potentiality and status of nanobiochar in comparison to carbon dots](https://doi.org/10.1007/s42773-023-00282-2)<br><small>Biochar · with Kulathi Nishshankage, Andrea Breverly Fernandez, P. K. C. Buddhinie, Shiran Pallewatta</small> | Biochar | 40 |
 | 2024 | [Electron transfer tuning for persulfate activation via the radical and non-radical pathways with biochar mediator](https://doi.org/10.1016/j.jhazmat.2024.136825)<br><small>Journal of Hazardous Materials · with Hongqing Zhu, Bo Lai, Hui Ma, Lanxin Xu, Miao Li, Wen Liu and 2 more</small> | Biochar | 40 |
 | 2023 | [Valorization of waste biomass for biochar production and arsenic removal: A comparative assessment](https://doi.org/10.1016/j.gsd.2023.100972)<br><small>Groundwater for Sustainable Development · with Abhishek Kumar, Tanushree Bhattacharya</small> | Biochar | 20 |
-| 2022 | [Arsenic removal from water and soils using pristine and modified biochars](https://doi.org/10.1007/s42773-022-00181-y)<br><small>Biochar · with Wei Zhang, Chia‐Hung Hou, Daniel S. Alessi, [Jörg Rinklebe](/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/), Piumi Amasha Withana, Sabry M. Shaheen and 3 more</small> | Biochar | 91 |
+| 2022 | [Arsenic removal from water and soils using pristine and modified biochars](https://doi.org/10.1007/s42773-022-00181-y)<br><small>Biochar · with Wei Zhang, Chia‐Hung Hou, [Daniel S. Alessi](/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/), [Jörg Rinklebe](/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/), Piumi Amasha Withana, Sabry M. Shaheen and 3 more</small> | Biochar | 91 |
 | 2022 | [Plant uptake of personal care products and biochar-assisted immobilization in soil: an appraisal](https://doi.org/10.1007/s11368-022-03400-y)<br><small>Journal of Soils and Sediments · with S. Keerthanan, Anushka Upamali Rajapaksha, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 5 |
 | 2022 | [Interaction of Arsenic with Biochar in Water and Soil: Principles, Applications, and Prospects](https://doi.org/10.1007/978-3-031-16360-9_7)<br><small>Environmental science and engineering · with Pabasari Arundathi Koliyabandara, Danushika C. Manatunga, Randika Jayasinghe, Rohan S. Dassanayake, Udayagee Kumarasinghe</small> | Biochar | 0 |
 | 2021 | [Propensity and appraisal of biochar performance in removal of oil spills: A comprehensive review](https://doi.org/10.1016/j.envpol.2021.117676)<br><small>Environmental Pollution · with A.M.P. Madhubashani, Anushka Upamali Rajapaksha, Dimitrios A. Giannakoudakis, Konstantinos S. Triantafyllidis, M. D. Amarasinghe, P. B. Terney Pradeep Kumara</small> | Biochar | 84 |

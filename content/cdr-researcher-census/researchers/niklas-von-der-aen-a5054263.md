@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
 description: "Niklas von der Aßen, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 8 by activity, 202 by citations. 115 publications, h-index 21, 2,579 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ robots: "index, follow"
 | 2024 | [Environmental process optimisation of an adsorption-based direct air carbon capture and storage system](https://doi.org/10.1039/d3ee02970k)<br><small>Energy & Environmental Science · with [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Andrej Gibelhaus, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Mirko Engelpracht](/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/)</small> | DAC | 53 |
 | 2024 | [A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal](https://doi.org/10.1007/s43979-024-00100-z)<br><small>Carbon Neutrality · with [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), [Mirko Engelpracht](/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/), [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/)</small> | DAC | 25 |
 | 2024 | [Eliciting laypeople's mental models and risk perceptions of direct air carbon capture and storage: Implications for effective risk communication](https://doi.org/10.1016/j.egyr.2024.06.070)<br><small>Energy Reports · with Katrin Arning, Anika Linzenich, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), Martina Ziefle</small> | DAC | 18 |
-| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798)<br><small>SSRN Electronic Journal · with [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), Carla Esch, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Matthias Weßling, [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Sarah Deutz</small> | DAC | 0 |
+| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798)<br><small>SSRN Electronic Journal · with [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), Carla Esch, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Matthias Weßling, [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), [Sarah Deutz](/cdr-researcher-census/researchers/sarah-deutz-a5086401/)</small> | DAC | 0 |
 | 2022 | [Direct Air Capture – Transdisciplinary Assessment Combining Labs, Environment, Economy, and Society](https://doi.org/10.1002/cite.202255347)<br><small>Chemie Ingenieur Technik · with Carla Esch, Hannah Roth, Martina Ziefle, Thomas S. Lontzek, Matthias Weßling</small> | DAC | 0 |
 
 ---

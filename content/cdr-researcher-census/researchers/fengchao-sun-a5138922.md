@@ -1,7 +1,7 @@
 ---
 title: "Fengchao Sun"
 description: "Fengchao Sun, Yale School of the Environment, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 94 by activity, 454 by citations. 2 publications, h-index 1, 1 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:37:20+00:00
+date: 2026-11-05T08:47:31+00:00
 url: "/cdr-researcher-census/researchers/fengchao-sun-a5138922/"
 layout: "researcher"
 hiddenInHomeList: true
