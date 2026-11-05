@@ -172,6 +172,12 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
   weight = 30
 
 [[menu.main]]
+  identifier = "history"
+  name = "History"
+  url = "/directory/history/"
+  weight = 35
+
+[[menu.main]]
   identifier = "data"
   name = "Data"
   url = "/data/"

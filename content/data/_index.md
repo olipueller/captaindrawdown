@@ -12,7 +12,7 @@ Three datasets, one monthly release, every file with a version, a licence and a 
 | CDR Researcher Census | 55,865 researchers listed, calibrated estimate 51,946, 15,896 papers, 170 countries | CC BY 4.0 | [/data/researchers/](/data/researchers/) |
 | CDR Shops | 14 shops with live prices | CC BY 4.0 | [/data/shops/](/data/shops/) |
 
-Downloads: [`/data/v1/2026-11.4/`](/data/v1/2026-11.4/manifest.json) (frozen) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
+Downloads: [`/data/v1/2026-11.4/`](/data/v1/2026-11.4/manifest.json) (this release) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
 
 ## How the data is made
 
