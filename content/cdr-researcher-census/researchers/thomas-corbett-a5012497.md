@@ -1,7 +1,7 @@
 ---
 title: "Thomas Corbett"
 description: "Thomas Corbett, Uppsala University, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 89 by activity, 516 by citations. 14 publications, h-index 5, 68 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/thomas-corbett-a5012497/"
 layout: "researcher"
 hiddenInHomeList: true

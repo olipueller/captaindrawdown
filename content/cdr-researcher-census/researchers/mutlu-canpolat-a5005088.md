@@ -1,7 +1,7 @@
 ---
 title: "Mutlu Canpolat"
 description: "Mutlu Canpolat, Batman University, Turkey. 33 publications, h-index 9, 230 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mutlu-canpolat-a5005088/"
 layout: "researcher"
 hiddenInHomeList: true

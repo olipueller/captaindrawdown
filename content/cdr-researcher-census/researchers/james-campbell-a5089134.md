@@ -1,7 +1,7 @@
 ---
 title: "James Campbell"
 description: "James Campbell, Heriot-Watt University, United Kingdom. 59 publications, h-index 11, 665 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/james-campbell-a5089134/"
 layout: "researcher"
 hiddenInHomeList: true

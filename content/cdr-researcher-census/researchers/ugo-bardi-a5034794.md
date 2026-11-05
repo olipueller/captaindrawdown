@@ -1,7 +1,7 @@
 ---
 title: "Ugo Bardi"
 description: "Ugo Bardi, Consorzio Interuniversitario di Scienza e Tecnologia dei Materiali\\, Italy. 348 publications, h-index 48, 8,549 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ugo-bardi-a5034794/"
 layout: "researcher"
 hiddenInHomeList: true

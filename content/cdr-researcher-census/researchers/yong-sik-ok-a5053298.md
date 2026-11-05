@@ -1,7 +1,7 @@
 ---
 title: "Yong Sik Ok"
 description: "Yong Sik Ok, Korea University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 34 by activity, 9 by citations. 1134 publications, h-index 185, 125,473 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/yong-sik-ok-a5053298/"
 layout: "researcher"
 hiddenInHomeList: true

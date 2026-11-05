@@ -1,7 +1,7 @@
 ---
 title: "Stefan Frank"
 description: "Stefan Frank, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 83 by activity, 1759 by citations. 167 publications, h-index 42, 10,229 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/stefan-frank-a5040606/"
 layout: "researcher"
 hiddenInHomeList: true

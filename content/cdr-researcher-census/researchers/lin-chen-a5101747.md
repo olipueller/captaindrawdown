@@ -1,7 +1,7 @@
 ---
 title: "Lin Chen"
 description: "Lin Chen, Nanyang Technological University, Singapore. 55 publications, h-index 15, 1,742 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/lin-chen-a5101747/"
 layout: "researcher"
 hiddenInHomeList: true

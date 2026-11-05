@@ -1,7 +1,7 @@
 ---
 title: "Jet Rijnders"
 description: "Jet Rijnders, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 25 by activity, 48 by citations. 33 publications, h-index 9, 364 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jet-rijnders-a5052294/"
 layout: "researcher"
 hiddenInHomeList: true

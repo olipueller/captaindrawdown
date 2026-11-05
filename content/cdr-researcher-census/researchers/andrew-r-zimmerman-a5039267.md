@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Zimmerman"
 description: "Andrew R. Zimmerman, University of Florida, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 36 by activity, 124 by citations. 231 publications, h-index 76, 28,438 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/"
 layout: "researcher"
 hiddenInHomeList: true

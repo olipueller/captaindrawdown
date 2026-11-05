@@ -1,7 +1,7 @@
 ---
 title: "Ellie R. Paine"
 description: "Ellie R. Paine, University of Tasmania, Australia. 14 publications, h-index 11, 656 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ellie-r-paine-a5004557/"
 layout: "researcher"
 hiddenInHomeList: true

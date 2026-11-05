@@ -1,7 +1,7 @@
 ---
 title: "Farah Amalina"
 description: "Farah Amalina, Universiti Malaysia Pahang Al-Sultan Abdullah, Malaysia. 26 publications, h-index 13, 1,250 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/farah-amalina-a5031183/"
 layout: "researcher"
 hiddenInHomeList: true

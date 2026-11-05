@@ -1,7 +1,7 @@
 ---
 title: "Thorben Amann"
 description: "Thorben Amann, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 34 by activity, 15 by citations. 72 publications, h-index 17, 3,943 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/thorben-amann-a5051923/"
 layout: "researcher"
 hiddenInHomeList: true

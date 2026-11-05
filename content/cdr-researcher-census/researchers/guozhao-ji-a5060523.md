@@ -1,7 +1,7 @@
 ---
 title: "Guozhao Ji"
 description: "Guozhao Ji, Tsinghua University, China. 188 publications, h-index 43, 5,579 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/guozhao-ji-a5060523/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Okosun"
 description: "Kenneth Okosun, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 32 by activity, 1097 by citations. 10 publications, h-index 1, 21 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/kenneth-okosun-a5118195/"
 layout: "researcher"
 hiddenInHomeList: true

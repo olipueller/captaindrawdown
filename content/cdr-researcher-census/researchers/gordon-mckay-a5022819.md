@@ -1,7 +1,7 @@
 ---
 title: "Gordon McKay"
 description: "Gordon McKay, Hamad Bin Khalifa University College of Science and Engineering, Qatar. 1055 publications, h-index 124, 84,247 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/gordon-mckay-a5022819/"
 layout: "researcher"
 hiddenInHomeList: true

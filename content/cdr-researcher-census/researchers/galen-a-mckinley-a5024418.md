@@ -1,7 +1,7 @@
 ---
 title: "Galen A. McKinley"
 description: "Galen A. McKinley, Columbia University and Lamont-Doherty Earth Observatory, United States. 252 publications, h-index 45, 9,679 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/galen-a-mckinley-a5024418/"
 layout: "researcher"
 hiddenInHomeList: true

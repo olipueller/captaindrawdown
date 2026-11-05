@@ -1,7 +1,7 @@
 ---
 title: "Eric Struyf"
 description: "Eric Struyf, University of Antwerp, Belgium. 169 publications, h-index 41, 5,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/eric-struyf-a5029778/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -13,11 +13,22 @@ url: "/data/companies/"
   "url": "https://captaindrawdown.com/data/companies/",
   "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "isAccessibleForFree": true,
-  "creator": {
-    "@type": "Organization",
-    "name": "Captain Drawdown (Carbon Drawdown Initiative)",
-    "url": "https://captaindrawdown.com"
-  },
+  "creator": [
+    {
+      "@type": "Organization",
+      "name": "Captain Drawdown (Carbon Drawdown Initiative)",
+      "url": "https://captaindrawdown.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Dirk Paessler",
+      "@id": "https://orcid.org/0009-0002-6046-0984",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Carbon Drawdown Initiative"
+      }
+    }
+  ],
   "version": "2026-11.4",
   "dateModified": "2026-11-05",
   "keywords": [
@@ -79,7 +90,7 @@ url: "/data/companies/"
 </div>
 
 </div>
-<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">913</span><span class="lbl">published companies</span><h4>Download</h4><ul><li>companies: <a href="/data/v1/2026-11.4/companies.csv">CSV</a> · <a href="/data/v1/2026-11.4/companies.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="lic">CC BY-NC-SA 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.4. https://captaindrawdown.com/data/companies/ (CC licence, see page).</p><h4>Use the data</h4><ul><li><a href="/api/v1/companies.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">913</span><span class="lbl">published companies</span><h4>Download</h4><ul><li>companies: <a href="/data/v1/2026-11.4/companies.csv">CSV</a> · <a href="/data/v1/2026-11.4/companies.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="lic">CC BY-NC-SA 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/ (CC licence, see page).</p><h4>Use the data</h4><ul><li><a href="/api/v1/companies.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
 </div>
 
 ## Download
@@ -111,7 +122,7 @@ This page describes release **2026-11.4** (data as of 2026-11-05). Every release
 
 Licence: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cite as:
 
-> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.4. https://captaindrawdown.com/data/companies/ (CC licence, see page).
+> Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/ (CC licence, see page).
 
 ## Corrections and removal
 

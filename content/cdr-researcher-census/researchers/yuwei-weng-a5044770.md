@@ -1,7 +1,7 @@
 ---
 title: "Yuwei Weng"
 description: "Yuwei Weng, Tsinghua University, China. 9 publications, h-index 7, 533 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/yuwei-weng-a5044770/"
 layout: "researcher"
 hiddenInHomeList: true

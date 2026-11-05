@@ -1,7 +1,7 @@
 ---
 title: "Thomas Gasser"
 description: "Thomas Gasser, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 27 by activity, 44 by citations; Cross-cutting CDR: rank 33 by activity, 147 by citations. 267 publications, h-index 49, 18,406 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/thomas-gasser-a5062044/"
 layout: "researcher"
 hiddenInHomeList: true

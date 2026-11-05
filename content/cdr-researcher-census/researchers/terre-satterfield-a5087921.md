@@ -1,7 +1,7 @@
 ---
 title: "Terre Satterfield"
 description: "Terre Satterfield, University of British Columbia, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 51 by activity, 58 by citations. 189 publications, h-index 49, 13,320 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/terre-satterfield-a5087921/"
 layout: "researcher"
 hiddenInHomeList: true

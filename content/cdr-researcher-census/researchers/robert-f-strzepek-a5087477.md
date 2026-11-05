@@ -1,7 +1,7 @@
 ---
 title: "Robert F. Strzepek"
 description: "Robert F. Strzepek, University of Tasmania, Australia. 88 publications, h-index 34, 6,983 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/"
 layout: "researcher"
 hiddenInHomeList: true

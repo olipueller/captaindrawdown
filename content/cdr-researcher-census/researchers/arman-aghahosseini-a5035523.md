@@ -1,7 +1,7 @@
 ---
 title: "Arman Aghahosseini"
 description: "Arman Aghahosseini, Lappeenranta University of Technology (LUT), Finland. 67 publications, h-index 37, 6,806 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/"
 layout: "researcher"
 hiddenInHomeList: true

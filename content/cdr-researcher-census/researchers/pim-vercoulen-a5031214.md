@@ -1,7 +1,7 @@
 ---
 title: "Pim Vercoulen"
 description: "Pim Vercoulen, Cambridge Econometrics (United Kingdom), United Kingdom. 17 publications, h-index 6, 1,067 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/pim-vercoulen-a5031214/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Renaud Joannes‐Boyau"
 description: "Renaud Joannes‐Boyau, Southern Cross University, Australia. 162 publications, h-index 30, 4,180 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/renaud-joannesboyau-a5067586/"
 layout: "researcher"
 hiddenInHomeList: true

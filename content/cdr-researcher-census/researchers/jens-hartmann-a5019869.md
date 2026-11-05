@@ -1,7 +1,7 @@
 ---
 title: "Jens Hartmann"
 description: "Jens Hartmann, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 4 by activity, 4 by citations; Ocean CDR: rank 18 by activity, 27 by citations; Biochar: rank 60 by activity, 7531 by citations. 406 publications, h-index 69, 23,269 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jens-hartmann-a5019869/"
 layout: "researcher"
 hiddenInHomeList: true

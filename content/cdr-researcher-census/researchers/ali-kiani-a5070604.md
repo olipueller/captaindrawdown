@@ -1,7 +1,7 @@
 ---
 title: "Ali Kiani"
 description: "Ali Kiani, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 51 by activity, 333 by citations. 21 publications, h-index 9, 645 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ali-kiani-a5070604/"
 layout: "researcher"
 hiddenInHomeList: true

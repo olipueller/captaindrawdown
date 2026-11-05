@@ -1,7 +1,7 @@
 ---
 title: "Adel M. Al‐Saif"
 description: "Adel M. Al‐Saif, King Saud University, Saudi Arabia. 57 publications, h-index 14, 1,159 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/adel-m-alsaif-a5114137/"
 layout: "researcher"
 hiddenInHomeList: true

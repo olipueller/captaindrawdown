@@ -1,7 +1,7 @@
 ---
 title: "Anthony Patt"
 description: "Anthony Patt, ETH Zurich, Switzerland. 272 publications, h-index 56, 12,458 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/anthony-patt-a5064781/"
 layout: "researcher"
 hiddenInHomeList: true

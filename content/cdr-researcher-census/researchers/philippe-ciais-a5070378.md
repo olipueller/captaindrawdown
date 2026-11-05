@@ -1,7 +1,7 @@
 ---
 title: "Philippe Ciais"
 description: "Philippe Ciais, Laboratoire des Sciences du Climat et de l'Environnement, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 2 by activity, 5 by citations; Cross-cutting CDR: rank 28 by activity, 90 by citations. 2765 publications, h-index 224, 236,054 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/philippe-ciais-a5070378/"
 layout: "researcher"
 hiddenInHomeList: true

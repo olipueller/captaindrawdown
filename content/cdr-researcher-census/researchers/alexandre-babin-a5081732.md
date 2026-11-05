@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Babin"
 description: "Alexandre Babin, University of British Columbia, Canada. 11 publications, h-index 7, 501 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/alexandre-babin-a5081732/"
 layout: "researcher"
 hiddenInHomeList: true

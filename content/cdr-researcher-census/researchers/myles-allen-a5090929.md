@@ -1,7 +1,7 @@
 ---
 title: "Myles Allen"
 description: "Myles Allen, Langley Research Center, United States. 468 publications, h-index 96, 43,339 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/myles-allen-a5090929/"
 layout: "researcher"
 hiddenInHomeList: true

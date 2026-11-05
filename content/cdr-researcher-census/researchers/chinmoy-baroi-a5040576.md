@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
 description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 58 by activity, 2891 by citations. 40 publications, h-index 13, 920 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true

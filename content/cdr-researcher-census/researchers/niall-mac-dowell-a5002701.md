@@ -1,7 +1,7 @@
 ---
 title: "Niall Mac Dowell"
 description: "Niall Mac Dowell, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 5 by activity, 30 by citations; Cross-cutting CDR: rank 35 by activity, 86 by citations; DAC: rank 39 by activity, 218 by citations. 228 publications, h-index 56, 19,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/"
 layout: "researcher"
 hiddenInHomeList: true

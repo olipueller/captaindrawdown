@@ -1,7 +1,7 @@
 ---
 title: "Eva Thorin"
 description: "Eva Thorin, Mälardalen University, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 61 by activity, 742 by citations. 223 publications, h-index 35, 4,368 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/eva-thorin-a5052844/"
 layout: "researcher"
 hiddenInHomeList: true

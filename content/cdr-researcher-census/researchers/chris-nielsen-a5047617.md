@@ -1,7 +1,7 @@
 ---
 title: "Chris Nielsen"
 description: "Chris Nielsen, Harvard University, United States. 246 publications, h-index 48, 8,816 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/chris-nielsen-a5047617/"
 layout: "researcher"
 hiddenInHomeList: true

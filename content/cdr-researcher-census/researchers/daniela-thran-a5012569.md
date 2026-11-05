@@ -1,7 +1,7 @@
 ---
 title: "Daniela Thrän"
 description: "Daniela Thrän, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 1 by activity, 325 by citations; Cross-cutting CDR: rank 79 by activity, 618 by citations. 474 publications, h-index 48, 7,795 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/daniela-thran-a5012569/"
 layout: "researcher"
 hiddenInHomeList: true

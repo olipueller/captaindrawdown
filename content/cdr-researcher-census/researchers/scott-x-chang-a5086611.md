@@ -1,7 +1,7 @@
 ---
 title: "Scott X. Chang"
 description: "Scott X. Chang, University of Alberta, Canada. 657 publications, h-index 97, 35,581 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/scott-x-chang-a5086611/"
 layout: "researcher"
 hiddenInHomeList: true

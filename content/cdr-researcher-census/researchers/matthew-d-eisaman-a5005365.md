@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
 description: "Matthew D. Eisaman, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 23 by activity, 13 by citations. 113 publications, h-index 23, 5,132 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vishnu D. Rajput"
 description: "Vishnu D. Rajput, Southern Federal University, Russia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 12 by activity, 452 by citations. 631 publications, h-index 71, 18,159 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/vishnu-d-rajput-a5084567/"
 layout: "researcher"
 hiddenInHomeList: true

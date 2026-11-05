@@ -1,7 +1,7 @@
 ---
 title: "Bushra Ahmed Alhammad"
 description: "Bushra Ahmed Alhammad, Prince Sattam bin Abdulaziz University, Saudi Arabia. 51 publications, h-index 24, 3,493 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/"
 layout: "researcher"
 hiddenInHomeList: true

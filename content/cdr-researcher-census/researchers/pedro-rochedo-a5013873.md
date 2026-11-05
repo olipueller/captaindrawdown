@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rochedo"
 description: "Pedro Rochedo, Khalifa University of Science and Technology, United Arab Emirates. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 78 by activity, 831 by citations; Cross-cutting CDR: rank 83 by activity, 228 by citations. 135 publications, h-index 33, 3,923 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/pedro-rochedo-a5013873/"
 layout: "researcher"
 hiddenInHomeList: true

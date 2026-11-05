@@ -1,7 +1,7 @@
 ---
 title: "Sonja Geilert"
 description: "Sonja Geilert, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 56 by activity, 69 by citations. 83 publications, h-index 21, 1,480 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sonja-geilert-a5043903/"
 layout: "researcher"
 hiddenInHomeList: true

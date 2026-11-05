@@ -1,7 +1,7 @@
 ---
 title: "Ikhlas Ghiat"
 description: "Ikhlas Ghiat, Hamad Bin Khalifa University, Qatar. 32 publications, h-index 12, 1,227 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Piyush Behari Lal"
 description: "Piyush Behari Lal, Kasturba Medical College, Manipal, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 12 by activity, 2678 by citations. 27 publications, h-index 5, 206 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/piyush-behari-lal-a5036771/"
 layout: "researcher"
 hiddenInHomeList: true

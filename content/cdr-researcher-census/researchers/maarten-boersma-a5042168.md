@@ -1,7 +1,7 @@
 ---
 title: "Maarten Boersma"
 description: "Maarten Boersma, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 37 by activity, 735 by citations. 451 publications, h-index 48, 9,353 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/maarten-boersma-a5042168/"
 layout: "researcher"
 hiddenInHomeList: true

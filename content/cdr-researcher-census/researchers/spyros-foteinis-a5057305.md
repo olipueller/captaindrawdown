@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
 description: "Spyros Foteinis, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 13 by activity, 48 by citations. 123 publications, h-index 37, 3,917 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true

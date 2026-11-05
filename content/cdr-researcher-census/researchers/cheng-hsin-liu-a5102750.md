@@ -1,7 +1,7 @@
 ---
 title: "Cheng-Hsin Liu"
 description: "Cheng-Hsin Liu, Advanced Semiconductor Engineering (Taiwan), Taiwan. 16 publications, h-index 5, 356 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/"
 layout: "researcher"
 hiddenInHomeList: true

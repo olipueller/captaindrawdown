@@ -1,7 +1,7 @@
 ---
 title: "Ajay K. Dalai"
 description: "Ajay K. Dalai, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 85 by activity, 17 by citations. 509 publications, h-index 89, 31,175 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/"
 layout: "researcher"
 hiddenInHomeList: true

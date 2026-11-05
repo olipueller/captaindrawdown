@@ -1,7 +1,7 @@
 ---
 title: "Troy R. Hawkins"
 description: "Troy R. Hawkins, Argonne National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 55 by activity, 398 by citations. 149 publications, h-index 42, 8,213 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/troy-r-hawkins-a5067282/"
 layout: "researcher"
 hiddenInHomeList: true

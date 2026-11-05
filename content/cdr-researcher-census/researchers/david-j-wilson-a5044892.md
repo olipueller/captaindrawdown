@@ -1,7 +1,7 @@
 ---
 title: "David J. Wilson"
 description: "David J. Wilson, University College London, United Kingdom. 333 publications, h-index 39, 8,152 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/david-j-wilson-a5044892/"
 layout: "researcher"
 hiddenInHomeList: true

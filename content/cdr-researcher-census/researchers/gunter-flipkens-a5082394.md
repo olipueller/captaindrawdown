@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
 description: "Gunter Flipkens, University of Antwerp, Belgium. 19 publications, h-index 5, 185 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jens Friis Lund"
 description: "Jens Friis Lund, University of Copenhagen, Denmark. 191 publications, h-index 39, 4,371 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jens-friis-lund-a5005629/"
 layout: "researcher"
 hiddenInHomeList: true

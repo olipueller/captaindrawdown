@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
 description: "Friedrich A. Burger, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 9 by activity, 2375 by citations. 81 publications, h-index 13, 1,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
 description: "Maria Val Martin, University of Sheffield, United Kingdom. 173 publications, h-index 35, 7,619 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true

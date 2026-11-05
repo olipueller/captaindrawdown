@@ -1,7 +1,7 @@
 ---
 title: "Rita Melo Franco-Santos"
 description: "Rita Melo Franco-Santos, The University of Western Australia, Australia. 32 publications, h-index 10, 1,083 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/"
 layout: "researcher"
 hiddenInHomeList: true

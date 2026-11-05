@@ -1,7 +1,7 @@
 ---
 title: "Bohong Wang"
 description: "Bohong Wang, Zhejiang Ocean University, China. 290 publications, h-index 40, 5,855 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/bohong-wang-a5022265/"
 layout: "researcher"
 hiddenInHomeList: true

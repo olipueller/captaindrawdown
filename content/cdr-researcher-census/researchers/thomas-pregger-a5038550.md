@@ -1,7 +1,7 @@
 ---
 title: "Thomas Pregger"
 description: "Thomas Pregger, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany. 154 publications, h-index 30, 4,195 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/thomas-pregger-a5038550/"
 layout: "researcher"
 hiddenInHomeList: true

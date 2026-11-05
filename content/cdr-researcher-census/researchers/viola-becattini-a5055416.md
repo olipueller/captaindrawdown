@@ -1,7 +1,7 @@
 ---
 title: "Viola Becattini"
 description: "Viola Becattini, ETH Zurich, Switzerland. 58 publications, h-index 17, 1,792 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/viola-becattini-a5055416/"
 layout: "researcher"
 hiddenInHomeList: true

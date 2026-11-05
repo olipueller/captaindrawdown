@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
 description: "Astrid Hylén, CEREGE, France. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 65 by activity, 404 by citations; Ocean CDR: rank 77 by activity, 564 by citations. 62 publications, h-index 12, 457 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true

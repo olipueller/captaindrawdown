@@ -1,7 +1,7 @@
 ---
 title: "Catriona L. Hurd"
 description: "Catriona L. Hurd, University of Tasmania, Australia. 250 publications, h-index 63, 13,663 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/"
 layout: "researcher"
 hiddenInHomeList: true

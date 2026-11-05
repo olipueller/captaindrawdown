@@ -1,7 +1,7 @@
 ---
 title: "Jianying Shang"
 description: "Jianying Shang, China Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 68 by activity, 84 by citations. 163 publications, h-index 45, 5,635 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jianying-shang-a5052558/"
 layout: "researcher"
 hiddenInHomeList: true

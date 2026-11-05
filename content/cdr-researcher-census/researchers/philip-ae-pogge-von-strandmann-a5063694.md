@@ -1,7 +1,7 @@
 ---
 title: "Philip A.E. Pogge von Strandmann"
 description: "Philip A.E. Pogge von Strandmann, Johannes Gutenberg University Mainz, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 9 by activity, 19 by citations. 203 publications, h-index 51, 8,441 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/"
 layout: "researcher"
 hiddenInHomeList: true

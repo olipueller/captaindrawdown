@@ -1,7 +1,7 @@
 ---
 title: "Brian Vad Mathiesen"
 description: "Brian Vad Mathiesen, Aalborg University, Denmark. 439 publications, h-index 69, 25,803 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/"
 layout: "researcher"
 hiddenInHomeList: true

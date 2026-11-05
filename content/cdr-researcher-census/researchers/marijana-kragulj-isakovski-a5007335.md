@@ -1,7 +1,7 @@
 ---
 title: "Marijana Kragulj Isakovski"
 description: "Marijana Kragulj Isakovski, University of Novi Sad, Serbia. 84 publications, h-index 17, 969 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/marijana-kragulj-isakovski-a5007335/"
 layout: "researcher"
 hiddenInHomeList: true

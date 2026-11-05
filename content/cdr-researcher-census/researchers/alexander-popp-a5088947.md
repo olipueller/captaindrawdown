@@ -1,7 +1,7 @@
 ---
 title: "Alexander Popp"
 description: "Alexander Popp, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 28 by activity, 33 by citations; Cross-cutting CDR: rank 84 by activity, 36 by citations. 370 publications, h-index 92, 39,008 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/alexander-popp-a5088947/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hari Mantripragada"
 description: "Hari Mantripragada, University of Pittsburgh, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 55 by activity, 1213 by citations. 29 publications, h-index 14, 1,091 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/hari-mantripragada-a5024061/"
 layout: "researcher"
 hiddenInHomeList: true

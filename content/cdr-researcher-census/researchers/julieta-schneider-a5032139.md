@@ -1,7 +1,7 @@
 ---
 title: "Julieta Schneider"
 description: "Julieta Schneider, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 87 by activity, 57 by citations. 30 publications, h-index 8, 379 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/julieta-schneider-a5032139/"
 layout: "researcher"
 hiddenInHomeList: true

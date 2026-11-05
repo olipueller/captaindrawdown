@@ -1,7 +1,7 @@
 ---
 title: "Andrew W. Dale"
 description: "Andrew W. Dale, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. 169 publications, h-index 43, 5,563 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/andrew-w-dale-a5042262/"
 layout: "researcher"
 hiddenInHomeList: true

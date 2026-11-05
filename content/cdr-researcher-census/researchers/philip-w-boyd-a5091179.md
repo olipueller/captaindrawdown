@@ -1,7 +1,7 @@
 ---
 title: "Philip W. Boyd"
 description: "Philip W. Boyd, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 12 by activity, 2 by citations. 442 publications, h-index 102, 44,354 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/philip-w-boyd-a5091179/"
 layout: "researcher"
 hiddenInHomeList: true

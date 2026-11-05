@@ -1,7 +1,7 @@
 ---
 title: "Nilay Shah"
 description: "Nilay Shah, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 26 by activity, 1136 by citations. 581 publications, h-index 86, 38,171 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/nilay-shah-a5078158/"
 layout: "researcher"
 hiddenInHomeList: true

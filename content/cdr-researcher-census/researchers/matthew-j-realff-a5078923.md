@@ -1,7 +1,7 @@
 ---
 title: "Matthew J. Realff"
 description: "Matthew J. Realff, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 14 by activity, 102 by citations. 305 publications, h-index 47, 8,521 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/matthew-j-realff-a5078923/"
 layout: "researcher"
 hiddenInHomeList: true

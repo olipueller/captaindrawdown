@@ -1,7 +1,7 @@
 ---
 title: "Hamish R. Mackey"
 description: "Hamish R. Mackey, University of Canterbury, New Zealand. 176 publications, h-index 50, 9,015 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/"
 layout: "researcher"
 hiddenInHomeList: true

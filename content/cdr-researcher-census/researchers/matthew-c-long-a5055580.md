@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Long"
 description: "Matthew C. Long, [C]Worthy, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 55 by activity, 34 by citations. 244 publications, h-index 50, 15,135 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/matthew-c-long-a5055580/"
 layout: "researcher"
 hiddenInHomeList: true

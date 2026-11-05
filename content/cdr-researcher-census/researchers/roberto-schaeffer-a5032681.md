@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
 description: "Roberto Schaeffer, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 38 by activity, 40 by citations; BECCS: rank 53 by activity, 829 by citations. 332 publications, h-index 62, 18,130 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true

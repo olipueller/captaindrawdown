@@ -1,7 +1,7 @@
 ---
 title: "Poul Alberg Østergaard"
 description: "Poul Alberg Østergaard, Aalborg Universitet, Denmark. 291 publications, h-index 59, 15,622 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/poul-alberg-stergaard-a5073324/"
 layout: "researcher"
 hiddenInHomeList: true

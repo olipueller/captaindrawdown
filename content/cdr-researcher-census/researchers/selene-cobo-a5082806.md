@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
 description: "Selene Cobo, Universidad de Cantabria, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 62 by activity, 116 by citations. 35 publications, h-index 13, 758 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true

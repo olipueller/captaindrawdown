@@ -1,7 +1,7 @@
 ---
 title: "Nils Markusson"
 description: "Nils Markusson, Lancaster University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 62 by activity, 102 by citations. 78 publications, h-index 24, 2,659 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/nils-markusson-a5004419/"
 layout: "researcher"
 hiddenInHomeList: true

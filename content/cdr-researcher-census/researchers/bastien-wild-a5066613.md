@@ -1,7 +1,7 @@
 ---
 title: "Bastien Wild"
 description: "Bastien Wild, Centre National de la Recherche Scientifique, France. 56 publications, h-index 15, 733 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/bastien-wild-a5066613/"
 layout: "researcher"
 hiddenInHomeList: true

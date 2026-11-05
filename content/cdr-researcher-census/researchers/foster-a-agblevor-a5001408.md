@@ -1,7 +1,7 @@
 ---
 title: "Foster A. Agblevor"
 description: "Foster A. Agblevor, Utah State University, United States. 152 publications, h-index 50, 6,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/foster-a-agblevor-a5001408/"
 layout: "researcher"
 hiddenInHomeList: true

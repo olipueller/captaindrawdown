@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Fajardy"
 description: "Mathilde Fajardy, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 94 by activity, 41 by citations. 39 publications, h-index 18, 1,605 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/"
 layout: "researcher"
 hiddenInHomeList: true

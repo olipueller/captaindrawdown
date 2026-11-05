@@ -1,7 +1,7 @@
 ---
 title: "Göran Berndes"
 description: "Göran Berndes, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 9 by activity, 35 by citations. 258 publications, h-index 52, 10,950 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/goran-berndes-a5088119/"
 layout: "researcher"
 hiddenInHomeList: true

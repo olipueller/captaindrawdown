@@ -1,7 +1,7 @@
 ---
 title: "Rewaa S. Jalal"
 description: "Rewaa S. Jalal, Jeddah University, Saudi Arabia. 69 publications, h-index 16, 1,864 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/"
 layout: "researcher"
 hiddenInHomeList: true

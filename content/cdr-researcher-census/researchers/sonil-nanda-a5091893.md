@@ -1,7 +1,7 @@
 ---
 title: "Sonil Nanda"
 description: "Sonil Nanda, Dalhousie University, Canada. 254 publications, h-index 69, 17,052 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/sonil-nanda-a5091893/"
 layout: "researcher"
 hiddenInHomeList: true

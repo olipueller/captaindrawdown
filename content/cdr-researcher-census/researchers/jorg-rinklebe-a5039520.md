@@ -1,7 +1,7 @@
 ---
 title: "Jörg Rinklebe"
 description: "Jörg Rinklebe, University of Wuppertal, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 80 by activity, 23 by citations. 700 publications, h-index 136, 64,973 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/"
 layout: "researcher"
 hiddenInHomeList: true

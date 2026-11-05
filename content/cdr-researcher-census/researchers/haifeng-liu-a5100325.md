@@ -1,7 +1,7 @@
 ---
 title: "Haifeng Liu"
 description: "Haifeng Liu, Guangxi University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 59 by activity, 391 by citations. 594 publications, h-index 67, 16,576 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/haifeng-liu-a5100325/"
 layout: "researcher"
 hiddenInHomeList: true

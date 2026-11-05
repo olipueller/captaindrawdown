@@ -1,7 +1,7 @@
 ---
 title: "Christian Anumudu"
 description: "Christian Anumudu, Queen Mary University of London, United Kingdom. 53 publications, h-index 21, 2,595 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/christian-anumudu-a5042861/"
 layout: "researcher"
 hiddenInHomeList: true

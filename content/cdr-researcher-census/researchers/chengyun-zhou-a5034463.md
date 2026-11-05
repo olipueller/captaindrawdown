@@ -1,7 +1,7 @@
 ---
 title: "Chengyun Zhou"
 description: "Chengyun Zhou, Hunan University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 63 by activity, 231 by citations. 203 publications, h-index 89, 27,916 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/chengyun-zhou-a5034463/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ramy Amer Fahim"
 description: "Ramy Amer Fahim, Egyptian Atomic Energy Authority, Egypt. 30 publications, h-index 21, 2,124 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ramy-amer-fahim-a5007539/"
 layout: "researcher"
 hiddenInHomeList: true

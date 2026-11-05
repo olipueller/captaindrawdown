@@ -1,7 +1,7 @@
 ---
 title: "Sophie Chlela"
 description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 47 by activity, 1969 by citations. 14 publications, h-index 3, 17 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sophie-chlela-a5010115/"
 layout: "researcher"
 hiddenInHomeList: true

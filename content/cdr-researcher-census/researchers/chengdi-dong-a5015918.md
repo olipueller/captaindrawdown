@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Di Dong"
 description: "Cheng‐Di Dong, National Kaohsiung University of Science and Technology, Taiwan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 19 by activity, 22 by citations. 553 publications, h-index 75, 20,960 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/chengdi-dong-a5015918/"
 layout: "researcher"
 hiddenInHomeList: true

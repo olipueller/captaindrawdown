@@ -1,7 +1,7 @@
 ---
 title: "Iordanis Magiopoulos"
 description: "Iordanis Magiopoulos, Hellenic Centre for Marine Research, Greece. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 72 by activity, 1475 by citations. 41 publications, h-index 11, 396 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/"
 layout: "researcher"
 hiddenInHomeList: true

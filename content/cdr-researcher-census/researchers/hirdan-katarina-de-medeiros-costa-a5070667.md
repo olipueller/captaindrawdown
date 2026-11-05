@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
 description: "Hirdan Katarina de Medeiros Costa, Universidade de São Paulo, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 58 by activity, 643 by citations. 57 publications, h-index 7, 879 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true

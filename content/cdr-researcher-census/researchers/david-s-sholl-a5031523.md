@@ -1,7 +1,7 @@
 ---
 title: "David S. Sholl"
 description: "David S. Sholl, Oak Ridge National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 45 by activity, 314 by citations. 626 publications, h-index 100, 41,774 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/david-s-sholl-a5031523/"
 layout: "researcher"
 hiddenInHomeList: true

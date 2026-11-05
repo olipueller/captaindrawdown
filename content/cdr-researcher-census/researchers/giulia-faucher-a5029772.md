@@ -1,7 +1,7 @@
 ---
 title: "Giulia Faucher"
 description: "Giulia Faucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 22 by activity, 176 by citations. 61 publications, h-index 12, 399 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/giulia-faucher-a5029772/"
 layout: "researcher"
 hiddenInHomeList: true

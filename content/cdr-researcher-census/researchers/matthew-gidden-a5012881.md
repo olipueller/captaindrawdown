@@ -1,7 +1,7 @@
 ---
 title: "Matthew Gidden"
 description: "Matthew Gidden, Climate Analytics, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 1 by activity, 44 by citations. 200 publications, h-index 39, 10,077 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/matthew-gidden-a5012881/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Arthur Vienne"
 description: "Arthur Vienne, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 5 by activity, 11 by citations. 56 publications, h-index 8, 423 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/arthur-vienne-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true

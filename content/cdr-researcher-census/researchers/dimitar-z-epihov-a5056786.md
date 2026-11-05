@@ -1,7 +1,7 @@
 ---
 title: "Dimitar Z. Epihov"
 description: "Dimitar Z. Epihov, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 20 by activity, 39 by citations. 32 publications, h-index 7, 514 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chad M. Baum"
 description: "Chad M. Baum, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 20 by activity, 101 by citations; Cross-cutting CDR: rank 23 by activity, 85 by citations. 76 publications, h-index 22, 1,657 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/chad-m-baum-a5057828/"
 layout: "researcher"
 hiddenInHomeList: true

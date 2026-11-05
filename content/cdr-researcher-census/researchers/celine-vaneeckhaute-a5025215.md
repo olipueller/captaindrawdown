@@ -1,7 +1,7 @@
 ---
 title: "Céline Vaneeckhaute"
 description: "Céline Vaneeckhaute, Université Laval, Canada. 136 publications, h-index 29, 3,670 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/celine-vaneeckhaute-a5025215/"
 layout: "researcher"
 hiddenInHomeList: true

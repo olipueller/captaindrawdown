@@ -1,7 +1,7 @@
 ---
 title: "Pete Smith"
 description: "Pete Smith, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 39 by activity, 95 by citations. 1430 publications, h-index 172, 120,550 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/pete-smith-a5028843/"
 layout: "researcher"
 hiddenInHomeList: true

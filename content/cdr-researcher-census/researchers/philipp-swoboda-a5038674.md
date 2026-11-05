@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda, InPlanet GmbH, Germany. 19 publications, h-index 5, 463 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true

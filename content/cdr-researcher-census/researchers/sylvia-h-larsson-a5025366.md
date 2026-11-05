@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Larsson"
 description: "Sylvia H. Larsson, RISE Research Institutes of Sweden, Sweden. 97 publications, h-index 33, 3,489 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sylvia-h-larsson-a5025366/"
 layout: "researcher"
 hiddenInHomeList: true

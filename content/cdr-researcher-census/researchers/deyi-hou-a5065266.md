@@ -1,7 +1,7 @@
 ---
 title: "Deyi Hou"
 description: "Deyi Hou, State Key Joint Laboratory of Environment Simulation and Pollution Control, China. 314 publications, h-index 101, 35,261 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/deyi-hou-a5065266/"
 layout: "researcher"
 hiddenInHomeList: true

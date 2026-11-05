@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
 description: "Detlef P. van Vuuren, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 4 by activity, 142 by citations; Cross-cutting CDR: rank 16 by activity, 135 by citations. 875 publications, h-index 150, 125,096 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
 description: "Astley Hastings, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 36 by activity, 177 by citations. 211 publications, h-index 43, 8,435 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true

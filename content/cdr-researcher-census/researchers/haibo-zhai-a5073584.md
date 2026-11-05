@@ -1,7 +1,7 @@
 ---
 title: "Haibo Zhai"
 description: "Haibo Zhai, University of Wyoming, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 23 by activity, 676 by citations. 106 publications, h-index 29, 3,509 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/haibo-zhai-a5073584/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chandra Mohan Mehta"
 description: "Chandra Mohan Mehta, Lovely Professional University, India. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 92 by activity, 11114 by citations. 65 publications, h-index 12, 1,064 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/chandra-mohan-mehta-a5008862/"
 layout: "researcher"
 hiddenInHomeList: true

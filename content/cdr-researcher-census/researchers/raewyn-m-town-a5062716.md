@@ -1,7 +1,7 @@
 ---
 title: "Raewyn M. Town"
 description: "Raewyn M. Town, Universiteit Antwerpen, Belgium. 195 publications, h-index 37, 4,766 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/raewyn-m-town-a5062716/"
 layout: "researcher"
 hiddenInHomeList: true

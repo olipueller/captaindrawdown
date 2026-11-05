@@ -1,7 +1,7 @@
 ---
 title: "Luis E. Hernández Gutiérrez"
 description: "Luis E. Hernández Gutiérrez, Instituto Volcanológico de Canarias, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 95 by activity, 2562 by citations. 80 publications, h-index 10, 287 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/luis-e-hernandez-gutierrez-a5088121/"
 layout: "researcher"
 hiddenInHomeList: true

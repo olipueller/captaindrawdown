@@ -1,7 +1,7 @@
 ---
 title: "Samar Elkhalifa"
 description: "Samar Elkhalifa, Hamad bin Khalifa University, Qatar. 12 publications, h-index 10, 912 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/"
 layout: "researcher"
 hiddenInHomeList: true

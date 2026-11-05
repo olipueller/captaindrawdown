@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
 description: "Giuseppe Cipolla, University of Palermo, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 95 by activity, 68 by citations. 52 publications, h-index 10, 564 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true

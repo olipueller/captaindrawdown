@@ -1,7 +1,7 @@
 ---
 title: "Christian Moretti"
 description: "Christian Moretti, Paul Scherrer Institute, Switzerland. 120 publications, h-index 31, 2,405 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/christian-moretti-a5027325/"
 layout: "researcher"
 hiddenInHomeList: true

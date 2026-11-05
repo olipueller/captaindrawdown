@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
 description: "Kirstine Skov, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 32 by activity, 2054 by citations. 46 publications, h-index 11, 482 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true

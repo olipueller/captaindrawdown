@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
 description: "Christina Larkin, InPlanet GmbH, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 61 by activity, 129 by citations. 29 publications, h-index 10, 632 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true

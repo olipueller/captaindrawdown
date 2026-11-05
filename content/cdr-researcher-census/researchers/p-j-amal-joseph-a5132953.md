@@ -1,7 +1,7 @@
 ---
 title: "P. J. Amal Joseph"
 description: "P. J. Amal Joseph, Mahatma Gandhi Government Arts College, Mahe, Puducherry, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 73 by activity, 2933 by citations. 6 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/"
 layout: "researcher"
 hiddenInHomeList: true

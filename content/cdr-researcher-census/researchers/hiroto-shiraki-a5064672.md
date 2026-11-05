@@ -1,7 +1,7 @@
 ---
 title: "Hiroto Shiraki"
 description: "Hiroto Shiraki, Nagoya University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 89 by activity, 4452 by citations. 54 publications, h-index 15, 763 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/hiroto-shiraki-a5064672/"
 layout: "researcher"
 hiddenInHomeList: true

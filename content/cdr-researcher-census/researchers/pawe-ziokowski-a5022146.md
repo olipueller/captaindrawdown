@@ -1,7 +1,7 @@
 ---
 title: "Paweł Ziółkowski"
 description: "Paweł Ziółkowski, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 33 by activity, 329 by citations. 165 publications, h-index 23, 1,738 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/pawe-ziokowski-a5022146/"
 layout: "researcher"
 hiddenInHomeList: true

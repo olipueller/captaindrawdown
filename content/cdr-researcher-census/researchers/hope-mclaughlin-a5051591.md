@@ -1,7 +1,7 @@
 ---
 title: "Hope McLaughlin"
 description: "Hope McLaughlin, Colorado School of Mines, United States. 2 publications, h-index 2, 456 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/"
 layout: "researcher"
 hiddenInHomeList: true

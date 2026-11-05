@@ -1,7 +1,7 @@
 ---
 title: "Hailong Wang"
 description: "Hailong Wang, Foshan University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 71 by activity, 64 by citations. 1404 publications, h-index 129, 63,137 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/hailong-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true

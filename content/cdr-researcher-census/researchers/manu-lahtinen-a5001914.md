@@ -1,7 +1,7 @@
 ---
 title: "Manu Lahtinen"
 description: "Manu Lahtinen, University of Jyväskylä, Finland. 609 publications, h-index 39, 6,713 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/manu-lahtinen-a5001914/"
 layout: "researcher"
 hiddenInHomeList: true

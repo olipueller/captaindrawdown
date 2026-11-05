@@ -1,7 +1,7 @@
 ---
 title: "Samuel Fankhauser"
 description: "Samuel Fankhauser, University of Oxford, United Kingdom. 243 publications, h-index 48, 10,812 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/"
 layout: "researcher"
 hiddenInHomeList: true

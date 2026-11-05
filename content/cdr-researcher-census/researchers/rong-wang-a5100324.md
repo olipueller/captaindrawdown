@@ -1,7 +1,7 @@
 ---
 title: "Rong Wang"
 description: "Rong Wang, Fudan University, China. 362 publications, h-index 44, 8,580 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/rong-wang-a5100324/"
 layout: "researcher"
 hiddenInHomeList: true

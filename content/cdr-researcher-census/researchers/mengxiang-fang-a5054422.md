@@ -1,7 +1,7 @@
 ---
 title: "Mengxiang Fang"
 description: "Mengxiang Fang, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 54 by activity, 367 by citations. 275 publications, h-index 47, 8,004 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mengxiang-fang-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true

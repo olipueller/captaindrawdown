@@ -1,7 +1,7 @@
 ---
 title: "Jordi Sardans"
 description: "Jordi Sardans, CREAF - Centre de Recerca Ecològica i Aplicacions Forestals, Spain. 878 publications, h-index 101, 42,820 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jordi-sardans-a5061849/"
 layout: "researcher"
 hiddenInHomeList: true

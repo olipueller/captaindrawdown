@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 30 by activity, 10 by citations. 316 publications, h-index 42, 21,038 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true

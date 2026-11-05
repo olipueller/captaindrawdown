@@ -1,7 +1,7 @@
 ---
 title: "Jens Daniel Müller"
 description: "Jens Daniel Müller, Carbon to Sea Initiative, United States. 152 publications, h-index 33, 3,784 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jens-daniel-muller-a5076687/"
 layout: "researcher"
 hiddenInHomeList: true

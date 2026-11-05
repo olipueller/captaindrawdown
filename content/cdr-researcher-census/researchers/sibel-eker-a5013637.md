@@ -1,7 +1,7 @@
 ---
 title: "Sibel Eker"
 description: "Sibel Eker, Radboud University Nijmegen, Netherlands. 92 publications, h-index 20, 1,552 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sibel-eker-a5013637/"
 layout: "researcher"
 hiddenInHomeList: true

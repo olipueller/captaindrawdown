@@ -1,7 +1,7 @@
 ---
 title: "Paul N. Nelson"
 description: "Paul N. Nelson, James Cook University Cairns Campus, Australia. 249 publications, h-index 50, 9,753 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/paul-n-nelson-a5042039/"
 layout: "researcher"
 hiddenInHomeList: true

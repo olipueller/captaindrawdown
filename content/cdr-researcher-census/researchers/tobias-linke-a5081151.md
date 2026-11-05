@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
 description: "Tobias Linke, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 48 by activity, 865 by citations. 43 publications, h-index 8, 173 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true

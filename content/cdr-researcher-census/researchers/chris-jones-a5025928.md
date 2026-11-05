@@ -1,7 +1,7 @@
 ---
 title: "Chris Jones"
 description: "Chris Jones, University of Bristol, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 46 by activity, 94 by citations. 701 publications, h-index 103, 59,305 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/chris-jones-a5025928/"
 layout: "researcher"
 hiddenInHomeList: true

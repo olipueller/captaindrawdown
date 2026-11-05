@@ -1,7 +1,7 @@
 ---
 title: "KeChrist Obileke"
 description: "KeChrist Obileke, University of Fort Hare, South Africa. 56 publications, h-index 19, 2,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/kechrist-obileke-a5067258/"
 layout: "researcher"
 hiddenInHomeList: true

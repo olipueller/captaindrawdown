@@ -1,7 +1,7 @@
 ---
 title: "Étienne Tourigny"
 description: "Étienne Tourigny, Barcelona Supercomputing Center, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 68 by activity, 9107 by citations. 116 publications, h-index 19, 2,796 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/etienne-tourigny-a5026790/"
 layout: "researcher"
 hiddenInHomeList: true

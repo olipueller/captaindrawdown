@@ -1,7 +1,7 @@
 ---
 title: "Yakov Kuzyakov"
 description: "Yakov Kuzyakov, Georg-August-Universität Göttingen, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 40 by activity, 21 by citations. 1461 publications, h-index 150, 99,154 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/"
 layout: "researcher"
 hiddenInHomeList: true

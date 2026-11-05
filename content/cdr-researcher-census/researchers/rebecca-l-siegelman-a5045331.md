@@ -1,7 +1,7 @@
 ---
 title: "Rebecca L. Siegelman"
 description: "Rebecca L. Siegelman, University of California Berkeley, United States. 67 publications, h-index 23, 3,830 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/rebecca-l-siegelman-a5045331/"
 layout: "researcher"
 hiddenInHomeList: true

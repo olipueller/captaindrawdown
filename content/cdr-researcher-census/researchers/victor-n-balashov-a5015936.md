@@ -1,7 +1,7 @@
 ---
 title: "Victor N. Balashov"
 description: "Victor N. Balashov, Togliatti State University, Russia. 67 publications, h-index 16, 1,226 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/victor-n-balashov-a5015936/"
 layout: "researcher"
 hiddenInHomeList: true

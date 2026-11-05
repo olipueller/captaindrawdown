@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
 description: "Diego Marazza, University of Bologna, Italy. 79 publications, h-index 15, 769 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true

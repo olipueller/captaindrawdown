@@ -1,7 +1,7 @@
 ---
 title: "Marina I. Lebedeva"
 description: "Marina I. Lebedeva, Pennsylvania State University University Park, United States. 39 publications, h-index 18, 1,708 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/marina-i-lebedeva-a5065386/"
 layout: "researcher"
 hiddenInHomeList: true

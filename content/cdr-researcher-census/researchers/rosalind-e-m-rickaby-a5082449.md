@@ -1,7 +1,7 @@
 ---
 title: "Rosalind E. M. Rickaby"
 description: "Rosalind E. M. Rickaby, University of Oxford, United Kingdom. 342 publications, h-index 55, 11,246 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/rosalind-e-m-rickaby-a5082449/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Seddon"
 description: "Nathalie Seddon, University of Oxford, United Kingdom. 132 publications, h-index 50, 16,519 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/nathalie-seddon-a5033517/"
 layout: "researcher"
 hiddenInHomeList: true

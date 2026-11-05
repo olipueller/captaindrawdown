@@ -1,7 +1,7 @@
 ---
 title: "Carlos M. Duarte"
 description: "Carlos M. Duarte, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. 1765 publications, h-index 179, 151,300 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/carlos-m-duarte-a5087569/"
 layout: "researcher"
 hiddenInHomeList: true

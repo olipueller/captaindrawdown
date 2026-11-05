@@ -1,7 +1,7 @@
 ---
 title: "Jörg Schwinger"
 description: "Jörg Schwinger, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 26 by activity, 878 by citations; Ocean CDR: rank 29 by activity, 184 by citations. 235 publications, h-index 47, 24,595 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jorg-schwinger-a5026788/"
 layout: "researcher"
 hiddenInHomeList: true

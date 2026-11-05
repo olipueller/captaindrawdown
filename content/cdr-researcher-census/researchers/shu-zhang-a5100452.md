@@ -1,7 +1,7 @@
 ---
 title: "Shu Zhang"
 description: "Shu Zhang, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 83 by activity, 835 by citations. 908 publications, h-index 81, 27,361 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/shu-zhang-a5100452/"
 layout: "researcher"
 hiddenInHomeList: true

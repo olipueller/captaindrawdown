@@ -1,7 +1,7 @@
 ---
 title: "Andrew Chapman"
 description: "Andrew Chapman, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 88 by activity, 964 by citations. 254 publications, h-index 38, 4,571 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/andrew-chapman-a5018157/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haspina Sulaiman"
 description: "Haspina Sulaiman, National University of Malaysia, Malaysia. 4 publications, h-index 4, 595 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/"
 layout: "researcher"
 hiddenInHomeList: true

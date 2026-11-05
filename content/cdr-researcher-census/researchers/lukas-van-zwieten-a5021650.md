@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
 description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 69 by activity, 235 by citations. 282 publications, h-index 73, 26,843 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true

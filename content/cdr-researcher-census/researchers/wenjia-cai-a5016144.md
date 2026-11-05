@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Cai"
 description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 98 by activity, 66 by citations. 248 publications, h-index 58, 35,557 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/wenjia-cai-a5016144/"
 layout: "researcher"
 hiddenInHomeList: true

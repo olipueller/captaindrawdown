@@ -1,7 +1,7 @@
 ---
 title: "Felix Schenuit"
 description: "Felix Schenuit, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 41 by activity, 131 by citations. 43 publications, h-index 13, 596 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/felix-schenuit-a5054371/"
 layout: "researcher"
 hiddenInHomeList: true

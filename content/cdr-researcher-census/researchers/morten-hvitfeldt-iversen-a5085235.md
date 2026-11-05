@@ -1,7 +1,7 @@
 ---
 title: "Morten Hvitfeldt Iversen"
 description: "Morten Hvitfeldt Iversen, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. 279 publications, h-index 43, 5,986 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/morten-hvitfeldt-iversen-a5085235/"
 layout: "researcher"
 hiddenInHomeList: true

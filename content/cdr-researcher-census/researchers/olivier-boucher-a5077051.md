@@ -1,7 +1,7 @@
 ---
 title: "Oliviér Boucher"
 description: "Oliviér Boucher, Institut Pierre-Simon Laplace, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 41 by activity, 27 by citations. 820 publications, h-index 114, 60,905 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/olivier-boucher-a5077051/"
 layout: "researcher"
 hiddenInHomeList: true

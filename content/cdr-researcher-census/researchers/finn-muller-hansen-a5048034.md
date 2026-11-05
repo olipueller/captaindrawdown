@@ -1,7 +1,7 @@
 ---
 title: "Finn Müller-Hansen"
 description: "Finn Müller-Hansen, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 37 by activity, 435 by citations. 71 publications, h-index 19, 1,979 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/"
 layout: "researcher"
 hiddenInHomeList: true

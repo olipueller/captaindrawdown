@@ -1,7 +1,7 @@
 ---
 title: "Phil Renforth"
 description: "Phil Renforth, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 5 by activity, 3 by citations; Enhanced Weathering: rank 13 by activity, 3 by citations; DAC: rank 60 by activity, 62 by citations; Cross-cutting CDR: rank 88 by activity, 1254 by citations. 159 publications, h-index 44, 9,645 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/phil-renforth-a5011758/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eli Mitchell-Larson"
 description: "Eli Mitchell-Larson, University of Oxford, United Kingdom. 11 publications, h-index 4, 1,331 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/"
 layout: "researcher"
 hiddenInHomeList: true

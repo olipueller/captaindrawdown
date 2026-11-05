@@ -1,7 +1,7 @@
 ---
 title: "Aimin Li"
 description: "Aimin Li, Dalian University of Technology, China. 381 publications, h-index 74, 16,886 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/aimin-li-a5100382/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johannes Full"
 description: "Johannes Full, Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA, Germany. 23 publications, h-index 15, 724 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/johannes-full-a5008596/"
 layout: "researcher"
 hiddenInHomeList: true

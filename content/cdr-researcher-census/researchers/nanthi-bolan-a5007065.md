@@ -1,7 +1,7 @@
 ---
 title: "Nanthi Bolan"
 description: "Nanthi Bolan, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 100 by activity, 95 by citations. 817 publications, h-index 142, 82,868 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/nanthi-bolan-a5007065/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kalkuhl"
 description: "Matthias Kalkuhl, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 74 by activity, 980 by citations. 231 publications, h-index 32, 4,829 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/"
 layout: "researcher"
 hiddenInHomeList: true

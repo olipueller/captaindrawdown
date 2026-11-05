@@ -1,7 +1,7 @@
 ---
 title: "Omar M. Yaghi"
 description: "Omar M. Yaghi, University of California Berkeley, United States. 943 publications, h-index 201, 252,890 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/omar-m-yaghi-a5044268/"
 layout: "researcher"
 hiddenInHomeList: true

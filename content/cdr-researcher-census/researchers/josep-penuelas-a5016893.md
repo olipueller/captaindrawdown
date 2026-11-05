@@ -1,7 +1,7 @@
 ---
 title: "Josep Peñuelas"
 description: "Josep Peñuelas, Consejo Superior de Investigaciones Científicas, Spain. 2129 publications, h-index 189, 159,246 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/josep-penuelas-a5016893/"
 layout: "researcher"
 hiddenInHomeList: true

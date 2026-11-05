@@ -1,7 +1,7 @@
 ---
 title: "Keywan Riahi"
 description: "Keywan Riahi, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 11 by activity, 143 by citations; BECCS: rank 69 by activity, 2929 by citations. 569 publications, h-index 114, 99,023 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/keywan-riahi-a5035238/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jihui Li"
 description: "Jihui Li, Hainan University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 73 by activity, 75 by citations. 145 publications, h-index 29, 3,133 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jihui-li-a5071052/"
 layout: "researcher"
 hiddenInHomeList: true

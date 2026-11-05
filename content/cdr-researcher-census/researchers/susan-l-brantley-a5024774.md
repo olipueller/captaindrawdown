@@ -1,7 +1,7 @@
 ---
 title: "Susan L. Brantley"
 description: "Susan L. Brantley, Pennsylvania State University, United States. 317 publications, h-index 81, 19,682 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/susan-l-brantley-a5024774/"
 layout: "researcher"
 hiddenInHomeList: true

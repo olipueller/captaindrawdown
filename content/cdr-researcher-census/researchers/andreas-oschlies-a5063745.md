@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
 description: "Andreas Oschlies, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 2 by activity, 9 by citations. 754 publications, h-index 76, 26,578 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true

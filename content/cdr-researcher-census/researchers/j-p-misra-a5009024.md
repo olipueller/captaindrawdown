@@ -1,7 +1,7 @@
 ---
 title: "J. P. Misra"
 description: "J. P. Misra, Graphic Era University, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 65 by activity, 2685 by citations. 25 publications, h-index 5, 50 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/j-p-misra-a5009024/"
 layout: "researcher"
 hiddenInHomeList: true

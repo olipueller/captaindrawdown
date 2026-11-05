@@ -1,7 +1,7 @@
 ---
 title: "Katsumasa Tanaka"
 description: "Katsumasa Tanaka, LSCE, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 52 by activity, 268 by citations. 352 publications, h-index 33, 6,317 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/"
 layout: "researcher"
 hiddenInHomeList: true

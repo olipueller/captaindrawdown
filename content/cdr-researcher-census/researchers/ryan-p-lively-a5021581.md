@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
 description: "Ryan P. Lively, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 35 by activity, 165 by citations. 339 publications, h-index 64, 19,659 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Kammann"
 description: "Claudia Kammann, Hochschule Geisenheim University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 4 by activity, 2 by citations; Enhanced Weathering: rank 81 by activity, 1437 by citations. 195 publications, h-index 56, 15,369 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/claudia-kammann-a5061014/"
 layout: "researcher"
 hiddenInHomeList: true

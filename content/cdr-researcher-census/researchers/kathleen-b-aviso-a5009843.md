@@ -1,7 +1,7 @@
 ---
 title: "Kathleen B. Aviso"
 description: "Kathleen B. Aviso, De La Salle University, Philippines. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 29 by activity, 824 by citations. 329 publications, h-index 42, 5,938 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/"
 layout: "researcher"
 hiddenInHomeList: true

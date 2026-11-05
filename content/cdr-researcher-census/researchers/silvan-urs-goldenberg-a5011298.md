@@ -1,7 +1,7 @@
 ---
 title: "Silvan Urs Goldenberg"
 description: "Silvan Urs Goldenberg, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 76 by activity, 160 by citations. 48 publications, h-index 15, 1,101 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/"
 layout: "researcher"
 hiddenInHomeList: true

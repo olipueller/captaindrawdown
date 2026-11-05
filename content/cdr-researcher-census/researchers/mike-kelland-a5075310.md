@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
 description: "Mike Kelland, PPG Industries (United States), United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 57 by activity, 1523 by citations. 23 publications, h-index 6, 911 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true

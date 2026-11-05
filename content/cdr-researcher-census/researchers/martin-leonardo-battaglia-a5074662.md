@@ -1,7 +1,7 @@
 ---
 title: "Martín Leonardo Battaglia"
 description: "Martín Leonardo Battaglia, Ithaca College, United States. 102 publications, h-index 31, 6,253 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/"
 layout: "researcher"
 hiddenInHomeList: true

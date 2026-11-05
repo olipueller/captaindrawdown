@@ -1,7 +1,7 @@
 ---
 title: "Nico Bauer"
 description: "Nico Bauer, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 32 by activity, 33 by citations. 208 publications, h-index 56, 19,531 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/nico-bauer-a5055801/"
 layout: "researcher"
 hiddenInHomeList: true

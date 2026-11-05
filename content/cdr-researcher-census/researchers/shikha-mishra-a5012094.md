@@ -1,7 +1,7 @@
 ---
 title: "Shikha Mishra"
 description: "Shikha Mishra, Kern Medical Center, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 15 by activity, 2681 by citations. 96 publications, h-index 21, 1,886 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/shikha-mishra-a5012094/"
 layout: "researcher"
 hiddenInHomeList: true

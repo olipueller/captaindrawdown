@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
 description: "Frederico Ribeiro do Carmo, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 94 by activity, 6865 by citations. 44 publications, h-index 11, 365 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true

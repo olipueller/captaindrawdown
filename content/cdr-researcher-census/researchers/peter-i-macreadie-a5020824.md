@@ -1,7 +1,7 @@
 ---
 title: "Peter I. Macreadie"
 description: "Peter I. Macreadie, RMIT University, Australia. 335 publications, h-index 70, 18,366 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/peter-i-macreadie-a5020824/"
 layout: "researcher"
 hiddenInHomeList: true

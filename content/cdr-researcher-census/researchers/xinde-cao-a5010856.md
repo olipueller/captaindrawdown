@@ -1,7 +1,7 @@
 ---
 title: "Xinde Cao"
 description: "Xinde Cao, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 66 by activity, 19 by citations. 290 publications, h-index 95, 34,525 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/xinde-cao-a5010856/"
 layout: "researcher"
 hiddenInHomeList: true

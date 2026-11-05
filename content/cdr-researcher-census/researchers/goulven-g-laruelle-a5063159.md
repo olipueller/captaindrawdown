@@ -1,7 +1,7 @@
 ---
 title: "Goulven G. Laruelle"
 description: "Goulven G. Laruelle, F.R.S-FNRS, Belgium. 142 publications, h-index 31, 11,060 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/"
 layout: "researcher"
 hiddenInHomeList: true

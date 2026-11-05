@@ -1,7 +1,7 @@
 ---
 title: "Sebastiaan van de Velde"
 description: "Sebastiaan van de Velde, University of Otago, New Zealand. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 86 by activity, 2693 by citations. 145 publications, h-index 23, 1,466 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sebastiaan-van-de-velde-a5041138/"
 layout: "researcher"
 hiddenInHomeList: true

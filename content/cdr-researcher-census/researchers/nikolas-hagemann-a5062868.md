@@ -1,7 +1,7 @@
 ---
 title: "Nikolas Hagemann"
 description: "Nikolas Hagemann, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 2 by activity, 58 by citations; BECCS: rank 44 by activity, 2684 by citations; Enhanced Weathering: rank 54 by activity, 866 by citations. 87 publications, h-index 22, 4,145 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/"
 layout: "researcher"
 hiddenInHomeList: true

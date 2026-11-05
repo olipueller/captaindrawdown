@@ -1,7 +1,7 @@
 ---
 title: "Elias Azzi"
 description: "Elias Azzi, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 47 by activity, 129 by citations. 33 publications, h-index 13, 762 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/elias-azzi-a5039260/"
 layout: "researcher"
 hiddenInHomeList: true

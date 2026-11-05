@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud F. Seleiman"
 description: "Mahmoud F. Seleiman, King Saud University, Saudi Arabia. 254 publications, h-index 50, 10,884 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/"
 layout: "researcher"
 hiddenInHomeList: true

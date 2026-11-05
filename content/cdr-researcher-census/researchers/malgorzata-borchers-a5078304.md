@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
 description: "Malgorzata Borchers, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 8 by activity, 527 by citations. 24 publications, h-index 8, 264 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true

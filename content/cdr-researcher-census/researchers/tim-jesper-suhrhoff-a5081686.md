@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 12 by activity, 70 by citations. 66 publications, h-index 12, 914 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true

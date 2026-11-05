@@ -1,7 +1,7 @@
 ---
 title: "David A. Siegel"
 description: "David A. Siegel, University of California, Santa Barbara, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 42 by activity, 68 by citations. 401 publications, h-index 93, 37,397 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/david-a-siegel-a5015835/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Siming You"
 description: "Siming You, Heriot-Watt University, United Kingdom. 235 publications, h-index 58, 12,315 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/siming-you-a5083497/"
 layout: "researcher"
 hiddenInHomeList: true

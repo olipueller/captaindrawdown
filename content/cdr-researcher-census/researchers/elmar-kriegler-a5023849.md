@@ -1,7 +1,7 @@
 ---
 title: "Elmar Kriegler"
 description: "Elmar Kriegler, University of Potsdam, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 53 by activity, 22 by citations. 283 publications, h-index 83, 51,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/elmar-kriegler-a5023849/"
 layout: "researcher"
 hiddenInHomeList: true

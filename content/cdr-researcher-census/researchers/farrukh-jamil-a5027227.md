@@ -1,7 +1,7 @@
 ---
 title: "Farrukh Jamil"
 description: "Farrukh Jamil, COMSATS University Islamabad - Lahore Campus, Pakistan. 140 publications, h-index 39, 5,266 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/farrukh-jamil-a5027227/"
 layout: "researcher"
 hiddenInHomeList: true

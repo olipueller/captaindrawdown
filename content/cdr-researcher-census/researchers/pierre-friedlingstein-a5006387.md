@@ -1,7 +1,7 @@
 ---
 title: "Pierre Friedlingstein"
 description: "Pierre Friedlingstein, University of Exeter, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 87 by activity, 118 by citations. 640 publications, h-index 141, 126,552 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/pierre-friedlingstein-a5006387/"
 layout: "researcher"
 hiddenInHomeList: true

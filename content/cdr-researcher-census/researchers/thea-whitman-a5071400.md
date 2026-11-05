@@ -1,7 +1,7 @@
 ---
 title: "Thea Whitman"
 description: "Thea Whitman, University of British Columbia, Canada. 1121 publications, h-index 31, 5,677 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/thea-whitman-a5071400/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
 description: "Jan Willem van Groenigen, Wageningen University & Research, Netherlands. 260 publications, h-index 64, 18,126 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true

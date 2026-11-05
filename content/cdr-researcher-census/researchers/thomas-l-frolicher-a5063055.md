@@ -1,7 +1,7 @@
 ---
 title: "Thomas L. Frölicher"
 description: "Thomas L. Frölicher, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 46 by activity, 330 by citations. 288 publications, h-index 66, 17,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/"
 layout: "researcher"
 hiddenInHomeList: true

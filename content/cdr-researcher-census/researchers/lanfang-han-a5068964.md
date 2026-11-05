@@ -1,7 +1,7 @@
 ---
 title: "Lanfang Han"
 description: "Lanfang Han, Guangdong University of Technology, China. 125 publications, h-index 49, 6,847 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/lanfang-han-a5068964/"
 layout: "researcher"
 hiddenInHomeList: true

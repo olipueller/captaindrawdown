@@ -1,7 +1,7 @@
 ---
 title: "Tullia Calogiuri"
 description: "Tullia Calogiuri, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 45 by activity, 444 by citations. 18 publications, h-index 5, 111 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/"
 layout: "researcher"
 hiddenInHomeList: true

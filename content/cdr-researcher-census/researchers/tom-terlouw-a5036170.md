@@ -1,7 +1,7 @@
 ---
 title: "Tom Terlouw"
 description: "Tom Terlouw, PSI, Switzerland. 40 publications, h-index 14, 2,480 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/tom-terlouw-a5036170/"
 layout: "researcher"
 hiddenInHomeList: true

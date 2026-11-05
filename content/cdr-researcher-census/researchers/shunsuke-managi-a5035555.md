@@ -1,7 +1,7 @@
 ---
 title: "Shunsuke Managi"
 description: "Shunsuke Managi, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 64 by activity, 1350 by citations. 1028 publications, h-index 71, 23,531 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/shunsuke-managi-a5035555/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Giacomo Grassi"
 description: "Giacomo Grassi, European Commission, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 55 by activity, 93 by citations. 304 publications, h-index 59, 16,741 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/giacomo-grassi-a5015410/"
 layout: "researcher"
 hiddenInHomeList: true

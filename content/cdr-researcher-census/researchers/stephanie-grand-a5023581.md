@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Grand"
 description: "Stéphanie Grand, University of Lausanne, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 75 by activity, 115 by citations. 54 publications, h-index 18, 2,607 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/stephanie-grand-a5023581/"
 layout: "researcher"
 hiddenInHomeList: true

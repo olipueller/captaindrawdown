@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
 description: "Ángel Galán‐Martín, Universidad de Jaén, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 88 by activity, 70 by citations. 66 publications, h-index 28, 2,478 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true

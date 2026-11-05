@@ -1,7 +1,7 @@
 ---
 title: "Quinn Zacharias"
 description: "Quinn Zacharias, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 68 by activity, 1950 by citations. 10 publications, h-index 2, 17 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/quinn-zacharias-a5086059/"
 layout: "researcher"
 hiddenInHomeList: true

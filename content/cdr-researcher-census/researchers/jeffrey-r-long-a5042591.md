@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey R. Long"
 description: "Jeffrey R. Long, University of California, Berkeley, United States. 1147 publications, h-index 150, 105,821 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jeffrey-r-long-a5042591/"
 layout: "researcher"
 hiddenInHomeList: true

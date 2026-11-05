@@ -1,7 +1,7 @@
 ---
 title: "Marwa El‐Azazy"
 description: "Marwa El‐Azazy, Qatar University, Qatar. 79 publications, h-index 25, 2,104 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/marwa-elazazy-a5089720/"
 layout: "researcher"
 hiddenInHomeList: true

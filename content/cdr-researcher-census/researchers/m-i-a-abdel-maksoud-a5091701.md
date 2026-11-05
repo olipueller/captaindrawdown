@@ -1,7 +1,7 @@
 ---
 title: "M. I. A. Abdel Maksoud"
 description: "M. I. A. Abdel Maksoud, Egyptian Atomic Energy Authority, Egypt. 78 publications, h-index 38, 5,855 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/"
 layout: "researcher"
 hiddenInHomeList: true

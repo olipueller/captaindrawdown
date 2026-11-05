@@ -1,7 +1,7 @@
 ---
 title: "Gregory Jones"
 description: "Gregory Jones, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 67 by activity, 1597 by citations. 13 publications, h-index 2, 8 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/gregory-jones-a5032322/"
 layout: "researcher"
 hiddenInHomeList: true

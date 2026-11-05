@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
 description: "Sean Low, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 75 by activity, 98 by citations. 57 publications, h-index 23, 1,753 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true

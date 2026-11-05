@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
 description: "Ondřej Mašek, University of Edinburgh, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 3 by activity, 12 by citations. 260 publications, h-index 65, 14,441 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true

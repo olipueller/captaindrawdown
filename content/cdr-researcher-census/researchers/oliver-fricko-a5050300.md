@@ -1,7 +1,7 @@
 ---
 title: "Oliver Fricko"
 description: "Oliver Fricko, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 72 by activity, 2932 by citations. 135 publications, h-index 38, 19,928 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/oliver-fricko-a5050300/"
 layout: "researcher"
 hiddenInHomeList: true

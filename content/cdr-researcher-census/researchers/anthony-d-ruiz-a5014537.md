@@ -1,7 +1,7 @@
 ---
 title: "Anthony D. Ruiz"
 description: "Anthony D. Ruiz, University of California, Riverside, United States. 2 publications, h-index 1, 351 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/"
 layout: "researcher"
 hiddenInHomeList: true

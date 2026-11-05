@@ -1,7 +1,7 @@
 ---
 title: "Mathias Fridahl"
 description: "Mathias Fridahl, Linköping University, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 21 by activity, 77 by citations. 75 publications, h-index 26, 1,866 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mathias-fridahl-a5081929/"
 layout: "researcher"
 hiddenInHomeList: true

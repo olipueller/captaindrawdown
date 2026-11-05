@@ -1,7 +1,7 @@
 ---
 title: "Siegfried E. Vlaeminck"
 description: "Siegfried E. Vlaeminck, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 73 by activity, 436 by citations. 334 publications, h-index 58, 11,392 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/siegfried-e-vlaeminck-a5066581/"
 layout: "researcher"
 hiddenInHomeList: true

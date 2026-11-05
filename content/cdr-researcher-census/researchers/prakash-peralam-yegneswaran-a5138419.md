@@ -1,7 +1,7 @@
 ---
 title: "Prakash Peralam Yegneswaran"
 description: "Prakash Peralam Yegneswaran, Kasturba Medical College, Manipal, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 13 by activity, 2679 by citations. 6 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/"
 layout: "researcher"
 hiddenInHomeList: true

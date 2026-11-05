@@ -1,7 +1,7 @@
 ---
 title: "Zebedee Nicholls"
 description: "Zebedee Nicholls, The University of Melbourne, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 65 by activity, 181 by citations. 295 publications, h-index 34, 12,568 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/zebedee-nicholls-a5049205/"
 layout: "researcher"
 hiddenInHomeList: true

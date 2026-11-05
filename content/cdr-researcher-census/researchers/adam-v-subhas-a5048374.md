@@ -1,7 +1,7 @@
 ---
 title: "Adam V. Subhas"
 description: "Adam V. Subhas, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 11 by activity, 149 by citations. 92 publications, h-index 20, 1,440 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/adam-v-subhas-a5048374/"
 layout: "researcher"
 hiddenInHomeList: true

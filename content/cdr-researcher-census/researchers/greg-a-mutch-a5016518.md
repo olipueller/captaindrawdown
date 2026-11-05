@@ -1,7 +1,7 @@
 ---
 title: "Greg A. Mutch"
 description: "Greg A. Mutch, Newcastle University, United Kingdom. 28 publications, h-index 12, 1,141 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/greg-a-mutch-a5016518/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
 description: "Matteo B. Bertagni, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 29 by activity, 82 by citations. 70 publications, h-index 13, 771 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true

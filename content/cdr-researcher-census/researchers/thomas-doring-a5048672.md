@@ -1,7 +1,7 @@
 ---
 title: "Thomas Döring"
 description: "Thomas Döring, Universität Bonn Landwirtschaftliche Fakultät, Germany. 393 publications, h-index 42, 7,307 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/thomas-doring-a5048672/"
 layout: "researcher"
 hiddenInHomeList: true

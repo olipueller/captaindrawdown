@@ -1,7 +1,7 @@
 ---
 title: "Daniela Thrän"
 description: "Daniela Thrän. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 66 by activity, 2926 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/daniela-thran-a5140066/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "G. Philip Robertson"
 description: "G. Philip Robertson, Michigan State University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 92 by activity, 801 by citations. 500 publications, h-index 100, 38,289 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/g-philip-robertson-a5049194/"
 layout: "researcher"
 hiddenInHomeList: true

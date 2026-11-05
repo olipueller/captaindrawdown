@@ -1,7 +1,7 @@
 ---
 title: "Iris Janssens"
 description: "Iris Janssens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 99 by activity, 951 by citations. 31 publications, h-index 8, 246 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/iris-janssens-a5051345/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
 description: "Lyla L. Taylor, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 100 by activity, 6 by citations. 57 publications, h-index 23, 3,317 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true

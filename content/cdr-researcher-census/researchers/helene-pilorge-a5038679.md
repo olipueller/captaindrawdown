@@ -1,7 +1,7 @@
 ---
 title: "Hélène Pilorgé"
 description: "Hélène Pilorgé, University of Pennsylvania, United States. 43 publications, h-index 15, 1,858 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/helene-pilorge-a5038679/"
 layout: "researcher"
 hiddenInHomeList: true

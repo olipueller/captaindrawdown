@@ -1,7 +1,7 @@
 ---
 title: "Sandy Avrutin"
 description: "Sandy Avrutin, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 75 by activity, 3835 by citations. 21 publications, h-index 2, 6 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sandy-avrutin-a5082075/"
 layout: "researcher"
 hiddenInHomeList: true

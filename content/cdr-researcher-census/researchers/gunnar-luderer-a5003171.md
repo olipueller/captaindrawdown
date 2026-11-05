@@ -1,7 +1,7 @@
 ---
 title: "Gunnar Luderer"
 description: "Gunnar Luderer, Technische Universität Berlin, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 70 by activity, 20 by citations. 306 publications, h-index 83, 35,654 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/gunnar-luderer-a5003171/"
 layout: "researcher"
 hiddenInHomeList: true

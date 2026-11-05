@@ -1,7 +1,7 @@
 ---
 title: "Liam A. Bullock"
 description: "Liam A. Bullock, Instituto Geológico y Minero de España, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 33 by activity, 58 by citations. 57 publications, h-index 15, 631 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/liam-a-bullock-a5076444/"
 layout: "researcher"
 hiddenInHomeList: true

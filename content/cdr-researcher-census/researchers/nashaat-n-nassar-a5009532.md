@@ -1,7 +1,7 @@
 ---
 title: "Nashaat N. Nassar"
 description: "Nashaat N. Nassar, University of Calgary, Canada. 195 publications, h-index 49, 7,987 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/"
 layout: "researcher"
 hiddenInHomeList: true

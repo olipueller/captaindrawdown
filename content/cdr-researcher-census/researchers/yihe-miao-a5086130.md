@@ -1,7 +1,7 @@
 ---
 title: "Yihe Miao"
 description: "Yihe Miao, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 36 by activity, 185 by citations. 24 publications, h-index 14, 1,074 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/yihe-miao-a5086130/"
 layout: "researcher"
 hiddenInHomeList: true

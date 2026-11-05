@@ -1,7 +1,7 @@
 ---
 title: "Zhimian Cao"
 description: "Zhimian Cao, Xiamen University, China. 82 publications, h-index 22, 2,092 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/zhimian-cao-a5060900/"
 layout: "researcher"
 hiddenInHomeList: true

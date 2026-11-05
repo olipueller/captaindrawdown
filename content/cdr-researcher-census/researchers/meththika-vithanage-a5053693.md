@@ -1,7 +1,7 @@
 ---
 title: "Meththika Vithanage"
 description: "Meththika Vithanage, University of Sri Jayewardenepura, LK. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 77 by activity, 198 by citations. 517 publications, h-index 93, 33,558 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/meththika-vithanage-a5053693/"
 layout: "researcher"
 hiddenInHomeList: true

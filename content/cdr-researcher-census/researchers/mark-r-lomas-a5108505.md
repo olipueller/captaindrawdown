@@ -1,7 +1,7 @@
 ---
 title: "Mark R. Lomas"
 description: "Mark R. Lomas, University of Sheffield, United Kingdom. 63 publications, h-index 35, 15,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/mark-r-lomas-a5108505/"
 layout: "researcher"
 hiddenInHomeList: true

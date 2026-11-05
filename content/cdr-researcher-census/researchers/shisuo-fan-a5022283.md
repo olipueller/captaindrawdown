@@ -1,7 +1,7 @@
 ---
 title: "Shisuo Fan"
 description: "Shisuo Fan, Anhui Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 52 by activity, 106 by citations. 74 publications, h-index 34, 5,108 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/shisuo-fan-a5022283/"
 layout: "researcher"
 hiddenInHomeList: true

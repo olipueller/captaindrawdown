@@ -1,7 +1,7 @@
 ---
 title: "Karen Filbee‐Dexter"
 description: "Karen Filbee‐Dexter, University of Western Australia, Australia. 137 publications, h-index 44, 7,127 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/karen-filbeedexter-a5008910/"
 layout: "researcher"
 hiddenInHomeList: true

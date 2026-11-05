@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Fang"
 description: "Bingbing Fang, Xinjiang Medical University, China. 12 publications, h-index 6, 967 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/bingbing-fang-a5111766/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
 description: "Michael D. Tyka, Google (United States), United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 15 by activity, 12 by citations. 58 publications, h-index 23, 6,310 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true

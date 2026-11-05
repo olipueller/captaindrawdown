@@ -1,7 +1,7 @@
 ---
 title: "Simon A. T. Redfern"
 description: "Simon A. T. Redfern, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 70 by activity, 3089 by citations. 478 publications, h-index 69, 16,942 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/simon-a-t-redfern-a5034157/"
 layout: "researcher"
 hiddenInHomeList: true

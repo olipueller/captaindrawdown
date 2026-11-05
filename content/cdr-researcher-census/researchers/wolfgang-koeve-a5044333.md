@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Koeve"
 description: "Wolfgang Koeve, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 90 by activity, 570 by citations. 216 publications, h-index 36, 3,771 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/wolfgang-koeve-a5044333/"
 layout: "researcher"
 hiddenInHomeList: true

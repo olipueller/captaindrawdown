@@ -1,7 +1,7 @@
 ---
 title: "Mallory Ringham"
 description: "Mallory Ringham, Stony Brook University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 21 by activity, 173 by citations. 30 publications, h-index 7, 258 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mallory-ringham-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true

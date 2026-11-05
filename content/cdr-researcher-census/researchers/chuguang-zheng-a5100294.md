@@ -1,7 +1,7 @@
 ---
 title: "Chuguang Zheng"
 description: "Chuguang Zheng, Huazhong University of Science and Technology, China. 484 publications, h-index 75, 30,023 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/chuguang-zheng-a5100294/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jaime B. Palter"
 description: "Jaime B. Palter, University of Rhode Island, United States. 115 publications, h-index 31, 3,326 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jaime-b-palter-a5056289/"
 layout: "researcher"
 hiddenInHomeList: true

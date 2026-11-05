@@ -1,7 +1,7 @@
 ---
 title: "Heike Knicker"
 description: "Heike Knicker, Consejo Superior de Investigaciones Científicas, Spain. 576 publications, h-index 76, 19,056 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/heike-knicker-a5013681/"
 layout: "researcher"
 hiddenInHomeList: true

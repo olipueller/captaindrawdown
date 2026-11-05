@@ -1,7 +1,7 @@
 ---
 title: "Patrik Postweiler"
 description: "Patrik Postweiler, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 13 by activity, 271 by citations. 20 publications, h-index 5, 115 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/patrik-postweiler-a5056523/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Qiu"
 description: "Bingbing Qiu, University of Science and Technology of China, China. 48 publications, h-index 21, 2,621 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/bingbing-qiu-a5074678/"
 layout: "researcher"
 hiddenInHomeList: true

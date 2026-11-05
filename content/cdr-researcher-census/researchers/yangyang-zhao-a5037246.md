@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Zhao"
 description: "Yangyang Zhao, Innovative Orbital Design (United States), United States. 38 publications, h-index 13, 1,000 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/yangyang-zhao-a5037246/"
 layout: "researcher"
 hiddenInHomeList: true

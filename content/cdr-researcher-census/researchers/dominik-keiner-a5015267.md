@@ -1,7 +1,7 @@
 ---
 title: "Dominik Keiner"
 description: "Dominik Keiner, LUT University, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 78 by activity, 47 by citations. 45 publications, h-index 18, 1,739 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/dominik-keiner-a5015267/"
 layout: "researcher"
 hiddenInHomeList: true

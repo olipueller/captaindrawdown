@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
 description: "Filip J. R. Meysman, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 27 by activity, 221 by citations; Enhanced Weathering: rank 31 by activity, 196 by citations. 346 publications, h-index 61, 14,028 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true

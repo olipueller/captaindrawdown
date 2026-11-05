@@ -1,7 +1,7 @@
 ---
 title: "Melissa J. Murphy"
 description: "Melissa J. Murphy, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 59 by activity, 111 by citations. 45 publications, h-index 18, 1,687 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/"
 layout: "researcher"
 hiddenInHomeList: true

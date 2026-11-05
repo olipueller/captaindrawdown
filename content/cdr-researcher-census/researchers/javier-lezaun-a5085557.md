@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
 description: "Javier Lezaun, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 73 by activity, 177 by citations. 118 publications, h-index 32, 4,830 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true

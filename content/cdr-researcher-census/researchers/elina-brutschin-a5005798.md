@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
 description: "Elina Brutschin, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 25 by activity, 51 by citations. 73 publications, h-index 21, 2,229 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true

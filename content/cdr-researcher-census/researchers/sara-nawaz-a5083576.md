@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
 description: "Sara Nawaz, American University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 38 by activity, 81 by citations. 36 publications, h-index 13, 403 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robert Miehe"
 description: "Robert Miehe, Fraunhofer Institute for Manufacturing Engineering and Automation, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 43 by activity, 105 by citations. 107 publications, h-index 20, 1,653 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/robert-miehe-a5070424/"
 layout: "researcher"
 hiddenInHomeList: true

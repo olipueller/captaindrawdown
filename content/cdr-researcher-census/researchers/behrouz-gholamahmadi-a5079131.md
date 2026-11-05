@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
 description: "Behrouz Gholamahmadi, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 30 by activity, 7284 by citations. 40 publications, h-index 4, 140 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true

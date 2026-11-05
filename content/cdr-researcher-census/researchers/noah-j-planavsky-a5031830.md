@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
 description: "Noah J. Planavsky, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 1 by activity, 5 by citations. 538 publications, h-index 85, 29,582 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true

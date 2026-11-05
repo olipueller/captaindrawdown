@@ -1,7 +1,7 @@
 ---
 title: "Ms. Sindhu Jannareddy"
 description: "Ms. Sindhu Jannareddy, Managing Director. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 65 by activity, 20454 by citations; BECCS: rank 70 by activity, 2930 by citations. 5 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ms-sindhu-jannareddy-a5121063/"
 layout: "researcher"
 hiddenInHomeList: true

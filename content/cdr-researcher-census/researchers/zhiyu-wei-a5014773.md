@@ -1,7 +1,7 @@
 ---
 title: "Zhiyu Wei"
 description: "Zhiyu Wei, Huazhong University of Science and Technology, China. 3 publications, h-index 3, 468 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/zhiyu-wei-a5014773/"
 layout: "researcher"
 hiddenInHomeList: true

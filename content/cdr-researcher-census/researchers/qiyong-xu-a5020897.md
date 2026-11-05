@@ -1,7 +1,7 @@
 ---
 title: "Qiyong Xu"
 description: "Qiyong Xu, Peking University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 50 by activity, 2253 by citations. 223 publications, h-index 39, 4,340 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/qiyong-xu-a5020897/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Richard A. Feely"
 description: "Richard A. Feely, NOAA Pacific Marine Environmental Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 79 by activity, 113 by citations. 707 publications, h-index 111, 71,685 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/richard-a-feely-a5019328/"
 layout: "researcher"
 hiddenInHomeList: true

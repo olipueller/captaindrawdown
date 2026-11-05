@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
 description: "Shengsen Wang, Yangzhou University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 35 by activity, 104 by citations. 161 publications, h-index 52, 11,240 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true

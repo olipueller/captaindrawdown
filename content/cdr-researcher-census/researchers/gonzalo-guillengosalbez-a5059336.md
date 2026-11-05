@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Guillén‐Gosálbez"
 description: "Gonzalo Guillén‐Gosálbez, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 91 by activity, 83 by citations. 421 publications, h-index 60, 12,445 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Sodiq"
 description: "Ahmed Sodiq, Summit University, United States. 32 publications, h-index 16, 2,843 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/"
 layout: "researcher"
 hiddenInHomeList: true

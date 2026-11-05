@@ -1,7 +1,7 @@
 ---
 title: "José M. de la Rosa Arranz"
 description: "José M. de la Rosa Arranz, Instituto de Recursos Naturales y Agrobiología de Sevilla, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 82 by activity, 661 by citations. 309 publications, h-index 33, 4,598 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/"
 layout: "researcher"
 hiddenInHomeList: true

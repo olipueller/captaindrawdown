@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
 description: "Reza Khalidy, University of Guelph. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 76 by activity, 217 by citations. 24 publications, h-index 9, 291 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true

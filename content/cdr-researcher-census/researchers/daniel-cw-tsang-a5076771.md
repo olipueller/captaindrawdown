@@ -1,7 +1,7 @@
 ---
 title: "Daniel C.W. Tsang"
 description: "Daniel C.W. Tsang, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 1 by activity, 1 by citations. 803 publications, h-index 161, 86,785 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/"
 layout: "researcher"
 hiddenInHomeList: true

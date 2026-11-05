@@ -1,7 +1,7 @@
 ---
 title: "Eloy S. Sanz-Pérez"
 description: "Eloy S. Sanz-Pérez, Universidad Rey Juan Carlos, Spain. 44 publications, h-index 23, 5,029 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/"
 layout: "researcher"
 hiddenInHomeList: true

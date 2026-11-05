@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
 description: "Vassilis Daioglou, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 3 by activity, 156 by citations; Cross-cutting CDR: rank 45 by activity, 191 by citations. 175 publications, h-index 47, 10,037 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true

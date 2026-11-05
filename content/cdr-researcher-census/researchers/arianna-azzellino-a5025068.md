@@ -1,7 +1,7 @@
 ---
 title: "Arianna Azzellino"
 description: "Arianna Azzellino, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 34 by activity, 648 by citations. 190 publications, h-index 28, 3,069 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/arianna-azzellino-a5025068/"
 layout: "researcher"
 hiddenInHomeList: true

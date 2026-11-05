@@ -1,7 +1,7 @@
 ---
 title: "Markus Millinger"
 description: "Markus Millinger, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 99 by activity, 180 by citations. 67 publications, h-index 17, 744 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/markus-millinger-a5029145/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mijndert van der Spek"
 description: "Mijndert van der Spek, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 15 by activity, 99 by citations; Cross-cutting CDR: rank 69 by activity, 551 by citations. 126 publications, h-index 26, 3,430 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true

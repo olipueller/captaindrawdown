@@ -1,7 +1,7 @@
 ---
 title: "Mikita Maslouski"
 description: "Mikita Maslouski, Universität Hamburg, Germany. 9 publications, h-index 2, 13 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mikita-maslouski-a5027998/"
 layout: "researcher"
 hiddenInHomeList: true

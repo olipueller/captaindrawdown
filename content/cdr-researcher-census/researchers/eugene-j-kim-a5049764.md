@@ -1,7 +1,7 @@
 ---
 title: "Eugene J. Kim"
 description: "Eugene J. Kim, Rutgers, The State University of New Jersey, United States. 22 publications, h-index 14, 3,416 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/eugene-j-kim-a5049764/"
 layout: "researcher"
 hiddenInHomeList: true

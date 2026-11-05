@@ -1,7 +1,7 @@
 ---
 title: "Stefan Pauliuk"
 description: "Stefan Pauliuk, University of Freiburg, Germany. 158 publications, h-index 45, 8,379 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/"
 layout: "researcher"
 hiddenInHomeList: true

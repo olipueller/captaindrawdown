@@ -1,7 +1,7 @@
 ---
 title: "Glen P. Peters"
 description: "Glen P. Peters, Simon Fraser University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 64 by activity, 75 by citations. 447 publications, h-index 106, 68,500 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/glen-p-peters-a5040159/"
 layout: "researcher"
 hiddenInHomeList: true

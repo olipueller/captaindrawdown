@@ -1,7 +1,7 @@
 ---
 title: "Alix Vidal"
 description: "Alix Vidal, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 53 by activity, 368 by citations. 82 publications, h-index 17, 1,846 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/alix-vidal-a5059677/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Baoshan Xing"
 description: "Baoshan Xing, University of Massachusetts Amherst, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 45 by activity, 57 by citations. 1049 publications, h-index 148, 88,105 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/baoshan-xing-a5035633/"
 layout: "researcher"
 hiddenInHomeList: true

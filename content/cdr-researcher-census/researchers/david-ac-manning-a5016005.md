@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
 description: "David A.C. Manning, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 51 by activity, 230 by citations. 274 publications, h-index 57, 19,500 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
 description: "Nadine Mengis, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 18 by activity, 399 by citations; Ocean CDR: rank 35 by activity, 89 by citations. 143 publications, h-index 22, 1,644 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true

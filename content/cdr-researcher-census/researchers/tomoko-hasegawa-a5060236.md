@@ -1,7 +1,7 @@
 ---
 title: "Tomoko Hasegawa"
 description: "Tomoko Hasegawa, Ritsumeikan University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 20 by activity, 628 by citations; BECCS: rank 34 by activity, 239 by citations. 960 publications, h-index 64, 26,948 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/tomoko-hasegawa-a5060236/"
 layout: "researcher"
 hiddenInHomeList: true

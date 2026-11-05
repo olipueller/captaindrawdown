@@ -1,7 +1,7 @@
 ---
 title: "Helen S. Findlay"
 description: "Helen S. Findlay, Plymouth Marine Laboratory, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 69 by activity, 1004 by citations. 124 publications, h-index 34, 6,071 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/helen-s-findlay-a5034359/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haiping Yang"
 description: "Haiping Yang, State Key Laboratory of Coal Combustion, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 32 by activity, 61 by citations. 575 publications, h-index 88, 36,219 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/haiping-yang-a5024934/"
 layout: "researcher"
 hiddenInHomeList: true

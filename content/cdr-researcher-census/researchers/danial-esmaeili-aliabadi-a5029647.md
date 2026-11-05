@@ -1,7 +1,7 @@
 ---
 title: "Danial Esmaeili Aliabadi"
 description: "Danial Esmaeili Aliabadi, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 26 by activity, 1159 by citations. 70 publications, h-index 14, 606 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/danial-esmaeili-aliabadi-a5029647/"
 layout: "researcher"
 hiddenInHomeList: true

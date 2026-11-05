@@ -1,7 +1,7 @@
 ---
 title: "Katherine Calvin"
 description: "Katherine Calvin, Pacific Northwest National Laboratory, United States. 302 publications, h-index 72, 38,454 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/katherine-calvin-a5029098/"
 layout: "researcher"
 hiddenInHomeList: true

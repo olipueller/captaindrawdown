@@ -1,7 +1,7 @@
 ---
 title: "Amit Bhatnagar"
 description: "Amit Bhatnagar, LUT School of Engineering Science, Finland. 505 publications, h-index 105, 41,113 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/amit-bhatnagar-a5064265/"
 layout: "researcher"
 hiddenInHomeList: true

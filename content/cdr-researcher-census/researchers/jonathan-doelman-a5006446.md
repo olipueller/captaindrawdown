@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Doelman"
 description: "Jonathan Doelman, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 20 by activity, 951 by citations; Cross-cutting CDR: rank 86 by activity, 337 by citations. 175 publications, h-index 48, 21,965 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jonathan-doelman-a5006446/"
 layout: "researcher"
 hiddenInHomeList: true

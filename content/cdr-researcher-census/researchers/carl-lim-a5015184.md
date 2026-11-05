@@ -1,7 +1,7 @@
 ---
 title: "Carl Lim"
 description: "Carl Lim, Universität Hamburg, Germany. 15 publications, h-index 4, 264 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/carl-lim-a5015184/"
 layout: "researcher"
 hiddenInHomeList: true

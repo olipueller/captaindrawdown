@@ -1,7 +1,7 @@
 ---
 title: "Taejun Song"
 description: "Taejun Song, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 72 by activity, 2293 by citations. 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/taejun-song-a5122304/"
 layout: "researcher"
 hiddenInHomeList: true

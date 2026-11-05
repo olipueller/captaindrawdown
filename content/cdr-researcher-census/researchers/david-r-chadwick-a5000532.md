@@ -1,7 +1,7 @@
 ---
 title: "David R. Chadwick"
 description: "David R. Chadwick, Bangor University, United Kingdom. 497 publications, h-index 73, 17,819 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/david-r-chadwick-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true

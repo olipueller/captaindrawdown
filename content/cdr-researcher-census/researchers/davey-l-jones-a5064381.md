@@ -1,7 +1,7 @@
 ---
 title: "Davey L. Jones"
 description: "Davey L. Jones, Bangor University, United Kingdom. 1199 publications, h-index 131, 72,394 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/davey-l-jones-a5064381/"
 layout: "researcher"
 hiddenInHomeList: true

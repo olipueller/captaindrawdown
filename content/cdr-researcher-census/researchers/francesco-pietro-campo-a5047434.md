@@ -1,7 +1,7 @@
 ---
 title: "Francesco Pietro Campo"
 description: "Francesco Pietro Campo, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 67 by activity, 1409 by citations. 23 publications, h-index 7, 335 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/"
 layout: "researcher"
 hiddenInHomeList: true

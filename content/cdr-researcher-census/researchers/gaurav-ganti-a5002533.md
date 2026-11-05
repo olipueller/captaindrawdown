@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Ganti"
 description: "Gaurav Ganti, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 77 by activity, 122 by citations. 48 publications, h-index 9, 673 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/gaurav-ganti-a5002533/"
 layout: "researcher"
 hiddenInHomeList: true

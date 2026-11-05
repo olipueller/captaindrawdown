@@ -1,7 +1,7 @@
 ---
 title: "Emily Cox"
 description: "Emily Cox, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 95 by activity, 734 by citations. 49 publications, h-index 17, 1,064 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/emily-cox-a5033239/"
 layout: "researcher"
 hiddenInHomeList: true

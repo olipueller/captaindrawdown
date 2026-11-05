@@ -1,7 +1,7 @@
 ---
 title: "Simon H. Pang"
 description: "Simon H. Pang, Lawrence Livermore National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 47 by activity, 1098 by citations. 99 publications, h-index 29, 3,408 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/simon-h-pang-a5037709/"
 layout: "researcher"
 hiddenInHomeList: true

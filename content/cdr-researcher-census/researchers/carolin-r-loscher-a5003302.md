@@ -1,7 +1,7 @@
 ---
 title: "Carolin R. Löscher"
 description: "Carolin R. Löscher, SDU, Denmark. 177 publications, h-index 35, 4,540 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/carolin-r-loscher-a5003302/"
 layout: "researcher"
 hiddenInHomeList: true

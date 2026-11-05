@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
 description: "Jan Taucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 95 by activity, 35 by citations. 110 publications, h-index 25, 2,139 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true

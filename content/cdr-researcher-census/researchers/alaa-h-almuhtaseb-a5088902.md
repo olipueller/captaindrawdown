@@ -1,7 +1,7 @@
 ---
 title: "Ala’a H. Al‐Muhtaseb"
 description: "Ala’a H. Al‐Muhtaseb, Sultan Qaboos University, Oman. 279 publications, h-index 79, 22,385 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/"
 layout: "researcher"
 hiddenInHomeList: true

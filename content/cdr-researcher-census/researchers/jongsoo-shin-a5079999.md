@@ -1,7 +1,7 @@
 ---
 title: "Jongsoo Shin"
 description: "Jongsoo Shin, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 61 by activity, 259 by citations. 75 publications, h-index 18, 963 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jongsoo-shin-a5079999/"
 layout: "researcher"
 hiddenInHomeList: true

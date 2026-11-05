@@ -1,7 +1,7 @@
 ---
 title: "Tobias Bromm"
 description: "Tobias Bromm, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 87 by activity, 180 by citations. 42 publications, h-index 11, 680 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/tobias-bromm-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true

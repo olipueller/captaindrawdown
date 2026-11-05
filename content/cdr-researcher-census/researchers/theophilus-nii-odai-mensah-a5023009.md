@@ -1,7 +1,7 @@
 ---
 title: "Theophilus Nii Odai Mensah"
 description: "Theophilus Nii Odai Mensah, Lappeenranta-Lahti University of Technology, Finland. 19 publications, h-index 13, 914 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true

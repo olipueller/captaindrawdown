@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Morris"
 description: "Jennifer Morris, Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change, United States. 142 publications, h-index 30, 3,539 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jennifer-morris-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas D. Bucheli"
 description: "Thomas D. Bucheli, Systems Analytics (United States), United States. 282 publications, h-index 67, 18,290 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/thomas-d-bucheli-a5078159/"
 layout: "researcher"
 hiddenInHomeList: true

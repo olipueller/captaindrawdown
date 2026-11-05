@@ -1,7 +1,7 @@
 ---
 title: "Abarasi Hart"
 description: "Abarasi Hart, University of Birmingham, United Kingdom. 98 publications, h-index 33, 4,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/abarasi-hart-a5005192/"
 layout: "researcher"
 hiddenInHomeList: true

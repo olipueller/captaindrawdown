@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Alessi"
 description: "Daniel S. Alessi, The University of Texas at Austin, United States. 348 publications, h-index 64, 14,576 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tyler Cyronak"
 description: "Tyler Cyronak, Georgia Southern University, United States. 106 publications, h-index 26, 3,164 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/tyler-cyronak-a5082795/"
 layout: "researcher"
 hiddenInHomeList: true

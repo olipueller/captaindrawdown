@@ -1,7 +1,7 @@
 ---
 title: "Michael Obersteiner"
 description: "Michael Obersteiner, University of Oxford, United Kingdom. 723 publications, h-index 110, 50,403 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/michael-obersteiner-a5025780/"
 layout: "researcher"
 hiddenInHomeList: true

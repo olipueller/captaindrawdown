@@ -1,7 +1,7 @@
 ---
 title: "Ahmed I. Osman"
 description: "Ahmed I. Osman, Canterbury Christ Church University, United Kingdom. 319 publications, h-index 87, 28,825 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/"
 layout: "researcher"
 hiddenInHomeList: true

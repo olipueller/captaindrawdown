@@ -1,7 +1,7 @@
 ---
 title: "David J. Beerling"
 description: "David J. Beerling, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 3 by activity, 1 by citations. 515 publications, h-index 99, 35,484 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/david-j-beerling-a5073877/"
 layout: "researcher"
 hiddenInHomeList: true

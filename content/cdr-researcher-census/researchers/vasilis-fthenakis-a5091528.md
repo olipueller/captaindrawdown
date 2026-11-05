@@ -1,7 +1,7 @@
 ---
 title: "Vasilis Fthenakis"
 description: "Vasilis Fthenakis, Columbia University, United States. 316 publications, h-index 61, 13,615 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/vasilis-fthenakis-a5091528/"
 layout: "researcher"
 hiddenInHomeList: true

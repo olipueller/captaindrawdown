@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
 description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 54 by activity, 1970 by citations. 252 publications, h-index 18, 1,074 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true

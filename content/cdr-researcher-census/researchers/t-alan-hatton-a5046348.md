@@ -1,7 +1,7 @@
 ---
 title: "T. Alan Hatton"
 description: "T. Alan Hatton, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 59 by activity, 1408 by citations. 606 publications, h-index 109, 41,062 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/t-alan-hatton-a5046348/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Minhan Dai"
 description: "Minhan Dai, Xiamen University, China. 483 publications, h-index 84, 21,689 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/minhan-dai-a5000330/"
 layout: "researcher"
 hiddenInHomeList: true

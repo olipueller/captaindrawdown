@@ -1,7 +1,7 @@
 ---
 title: "Henrik I. Petersen"
 description: "Henrik I. Petersen, Geological Survey of Denmark and Greenland, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 53 by activity, 681 by citations. 193 publications, h-index 35, 4,218 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/henrik-i-petersen-a5016856/"
 layout: "researcher"
 hiddenInHomeList: true

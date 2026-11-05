@@ -1,7 +1,7 @@
 ---
 title: "Maxwell Pisciotta"
 description: "Maxwell Pisciotta, University of Pennsylvania, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 99 by activity, 8 by citations. 21 publications, h-index 7, 1,124 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/"
 layout: "researcher"
 hiddenInHomeList: true

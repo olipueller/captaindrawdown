@@ -1,7 +1,7 @@
 ---
 title: "Krishna R. Reddy"
 description: "Krishna R. Reddy, University of Illinois Chicago, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 9 by activity, 2069 by citations. 597 publications, h-index 75, 20,361 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/krishna-r-reddy-a5017424/"
 layout: "researcher"
 hiddenInHomeList: true

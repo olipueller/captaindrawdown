@@ -1,7 +1,7 @@
 ---
 title: "Asfandyar Shahab"
 description: "Asfandyar Shahab, Hainan University, China. 92 publications, h-index 29, 3,192 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/"
 layout: "researcher"
 hiddenInHomeList: true

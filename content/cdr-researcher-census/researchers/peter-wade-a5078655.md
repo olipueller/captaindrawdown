@@ -1,7 +1,7 @@
 ---
 title: "Peter Wade"
 description: "Peter Wade, Mersen (France), France. 11 publications, h-index 7, 1,787 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/peter-wade-a5078655/"
 layout: "researcher"
 hiddenInHomeList: true

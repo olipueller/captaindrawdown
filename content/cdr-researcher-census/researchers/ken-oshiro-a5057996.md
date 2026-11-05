@@ -1,7 +1,7 @@
 ---
 title: "Ken Oshiro"
 description: "Ken Oshiro, Hokkaido University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 22 by activity, 525 by citations. 144 publications, h-index 30, 3,280 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ken-oshiro-a5057996/"
 layout: "researcher"
 hiddenInHomeList: true

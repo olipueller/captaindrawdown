@@ -1,7 +1,7 @@
 ---
 title: "Jay Fuhrman"
 description: "Jay Fuhrman, Joint Global Change Research Institute, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 16 by activity, 61 by citations; Cross-cutting CDR: rank 24 by activity, 138 by citations. 69 publications, h-index 19, 1,522 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jay-fuhrman-a5034052/"
 layout: "researcher"
 hiddenInHomeList: true

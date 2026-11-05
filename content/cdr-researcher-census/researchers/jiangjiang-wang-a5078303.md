@@ -1,7 +1,7 @@
 ---
 title: "Jiangjiang Wang"
 description: "Jiangjiang Wang, North China Electric Power University - Baoding Campus, China. 282 publications, h-index 54, 13,066 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jiangjiang-wang-a5078303/"
 layout: "researcher"
 hiddenInHomeList: true

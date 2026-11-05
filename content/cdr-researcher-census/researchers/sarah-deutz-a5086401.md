@@ -1,7 +1,7 @@
 ---
 title: "Sarah Deutz"
 description: "Sarah Deutz, Forschungszentrum Jülich, Germany. 37 publications, h-index 10, 2,041 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sarah-deutz-a5086401/"
 layout: "researcher"
 hiddenInHomeList: true

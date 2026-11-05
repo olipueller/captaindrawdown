@@ -1,7 +1,7 @@
 ---
 title: "Taghi Miri"
 description: "Taghi Miri, The University of Birmingham, United Kingdom. 97 publications, h-index 33, 3,909 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/taghi-miri-a5063355/"
 layout: "researcher"
 hiddenInHomeList: true

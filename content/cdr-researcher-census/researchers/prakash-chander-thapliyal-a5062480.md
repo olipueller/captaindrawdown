@@ -1,7 +1,7 @@
 ---
 title: "Prakash Chander Thapliyal"
 description: "Prakash Chander Thapliyal, Central Building Research Institute, India. 50 publications, h-index 12, 1,429 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/prakash-chander-thapliyal-a5062480/"
 layout: "researcher"
 hiddenInHomeList: true

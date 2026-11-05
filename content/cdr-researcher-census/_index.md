@@ -115,7 +115,7 @@ The version history of the census (v1 in March 2026 to v3.4 in July 2026, the mo
 
 ---
 
-*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://carbon-drawdown.de). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.4. https://captaindrawdown.com/data/researchers/ (CC licence, see page).*
+*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://carbon-drawdown.de). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page).*
 
 <script>
 document.addEventListener('click', function (e) {

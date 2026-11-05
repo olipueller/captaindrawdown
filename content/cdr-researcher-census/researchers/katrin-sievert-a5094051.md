@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
 description: "Katrin Sievert, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 62 by activity, 125 by citations. 15 publications, h-index 5, 208 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true

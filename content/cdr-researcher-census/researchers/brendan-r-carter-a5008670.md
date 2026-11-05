@@ -1,7 +1,7 @@
 ---
 title: "Brendan R. Carter"
 description: "Brendan R. Carter, CICOES, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 33 by activity, 19 by citations. 137 publications, h-index 33, 4,790 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/brendan-r-carter-a5008670/"
 layout: "researcher"
 hiddenInHomeList: true

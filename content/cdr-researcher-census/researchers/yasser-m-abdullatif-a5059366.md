@@ -1,7 +1,7 @@
 ---
 title: "Yasser M. Abdullatif"
 description: "Yasser M. Abdullatif, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 28 by activity, 37 by citations. 16 publications, h-index 10, 955 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/"
 layout: "researcher"
 hiddenInHomeList: true

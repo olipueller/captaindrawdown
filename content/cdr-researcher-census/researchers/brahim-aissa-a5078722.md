@@ -1,7 +1,7 @@
 ---
 title: "Brahim Aïssa"
 description: "Brahim Aïssa, Hamad bin Khalifa University, Qatar. 297 publications, h-index 35, 5,035 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/brahim-aissa-a5078722/"
 layout: "researcher"
 hiddenInHomeList: true

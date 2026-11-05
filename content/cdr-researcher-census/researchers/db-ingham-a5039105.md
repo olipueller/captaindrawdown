@@ -1,7 +1,7 @@
 ---
 title: "D.B. Ingham"
 description: "D.B. Ingham, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 95 by activity, 73 by citations. 834 publications, h-index 69, 20,459 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/db-ingham-a5039105/"
 layout: "researcher"
 hiddenInHomeList: true

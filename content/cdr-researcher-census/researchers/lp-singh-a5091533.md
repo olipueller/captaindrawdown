@@ -1,7 +1,7 @@
 ---
 title: "L.P. Singh"
 description: "L.P. Singh, National Council for Cement and Building Materials, India. 109 publications, h-index 45, 8,154 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/lp-singh-a5091533/"
 layout: "researcher"
 hiddenInHomeList: true

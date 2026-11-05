@@ -1,7 +1,7 @@
 ---
 title: "Yves Balkanski"
 description: "Yves Balkanski, Institut Pascal, France. 346 publications, h-index 82, 36,000 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/yves-balkanski-a5011809/"
 layout: "researcher"
 hiddenInHomeList: true

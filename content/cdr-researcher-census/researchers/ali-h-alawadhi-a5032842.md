@@ -1,7 +1,7 @@
 ---
 title: "Ali H. Alawadhi"
 description: "Ali H. Alawadhi, King Abdulaziz City for Science and Technology, Saudi Arabia. 21 publications, h-index 12, 1,486 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/"
 layout: "researcher"
 hiddenInHomeList: true

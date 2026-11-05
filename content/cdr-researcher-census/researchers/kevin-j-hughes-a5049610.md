@@ -1,7 +1,7 @@
 ---
 title: "Kevin J. Hughes"
 description: "Kevin J. Hughes, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 96 by activity, 74 by citations. 247 publications, h-index 43, 5,777 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/kevin-j-hughes-a5049610/"
 layout: "researcher"
 hiddenInHomeList: true

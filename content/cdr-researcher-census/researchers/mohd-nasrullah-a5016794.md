@@ -1,7 +1,7 @@
 ---
 title: "Mohd Nasrullah"
 description: "Mohd Nasrullah, Universiti Malaysia Pahang, Malaysia. 79 publications, h-index 31, 3,377 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true

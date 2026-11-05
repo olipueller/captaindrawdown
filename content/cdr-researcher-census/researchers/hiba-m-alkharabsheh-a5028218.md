@@ -1,7 +1,7 @@
 ---
 title: "Hiba M. Alkharabsheh"
 description: "Hiba M. Alkharabsheh, Al-Balqa Applied University, JO. 10 publications, h-index 8, 1,084 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/"
 layout: "researcher"
 hiddenInHomeList: true

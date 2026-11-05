@@ -1,7 +1,7 @@
 ---
 title: "Josep G. Canadell"
 description: "Josep G. Canadell, CSIRO, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 93 by activity, 119 by citations. 527 publications, h-index 132, 103,597 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:30+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/josep-g-canadell-a5055830/"
 layout: "researcher"
 hiddenInHomeList: true

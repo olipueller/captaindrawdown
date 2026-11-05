@@ -1,7 +1,7 @@
 ---
 title: "Thomas Hale"
 description: "Thomas Hale, University of Oxford, United Kingdom. 120 publications, h-index 41, 14,319 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/thomas-hale-a5043761/"
 layout: "researcher"
 hiddenInHomeList: true

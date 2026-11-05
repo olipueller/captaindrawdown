@@ -1,7 +1,7 @@
 ---
 title: "Steven A. Banwart"
 description: "Steven A. Banwart, University of Leeds, United Kingdom. 261 publications, h-index 68, 14,230 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/steven-a-banwart-a5021505/"
 layout: "researcher"
 hiddenInHomeList: true

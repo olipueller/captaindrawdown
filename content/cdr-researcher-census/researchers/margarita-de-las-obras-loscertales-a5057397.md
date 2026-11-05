@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
 description: "Margarita de Las Obras Loscertales, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 30 by activity, 376 by citations. 50 publications, h-index 10, 385 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true

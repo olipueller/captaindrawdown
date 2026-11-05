@@ -1,7 +1,7 @@
 ---
 title: "Reinaldy Poetra"
 description: "Reinaldy Poetra, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 23 by activity, 229 by citations. 20 publications, h-index 5, 87 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/reinaldy-poetra-a5051333/"
 layout: "researcher"
 hiddenInHomeList: true

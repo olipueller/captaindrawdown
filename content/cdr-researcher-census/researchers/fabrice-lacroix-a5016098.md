@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Lacroix"
 description: "Fabrice Lacroix, University of Bern, Switzerland. 66 publications, h-index 15, 1,243 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/"
 layout: "researcher"
 hiddenInHomeList: true

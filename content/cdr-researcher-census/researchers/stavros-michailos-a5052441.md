@@ -1,7 +1,7 @@
 ---
 title: "Stavros Michailos"
 description: "Stavros Michailos, University of Hull, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 97 by activity, 75 by citations. 61 publications, h-index 24, 2,232 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/stavros-michailos-a5052441/"
 layout: "researcher"
 hiddenInHomeList: true

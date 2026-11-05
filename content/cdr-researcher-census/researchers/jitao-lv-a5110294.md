@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
 description: "Jitao Lv, Qingdao University of Science and Technology, China. 86 publications, h-index 38, 5,686 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true

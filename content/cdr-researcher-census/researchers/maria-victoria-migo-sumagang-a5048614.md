@@ -1,7 +1,7 @@
 ---
 title: "Maria Victoria Migo-Sumagang"
 description: "Maria Victoria Migo-Sumagang, University of the Philippines Los Baños, Philippines. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 52 by activity, 1063 by citations. 36 publications, h-index 10, 434 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/"
 layout: "researcher"
 hiddenInHomeList: true

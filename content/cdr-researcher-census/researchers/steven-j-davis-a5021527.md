@@ -1,7 +1,7 @@
 ---
 title: "Steven J. Davis"
 description: "Steven J. Davis, Stanford University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 63 by activity, 21 by citations. 442 publications, h-index 92, 44,864 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/steven-j-davis-a5021527/"
 layout: "researcher"
 hiddenInHomeList: true

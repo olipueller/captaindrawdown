@@ -1,7 +1,7 @@
 ---
 title: "Junji Cao"
 description: "Junji Cao, Institute of Atmospheric Physics Chinese Academy of Sciences, China. 1250 publications, h-index 123, 70,335 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/junji-cao-a5000320/"
 layout: "researcher"
 hiddenInHomeList: true

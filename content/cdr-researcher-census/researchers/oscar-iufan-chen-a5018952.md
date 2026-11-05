@@ -1,7 +1,7 @@
 ---
 title: "Oscar Iu‐Fan Chen"
 description: "Oscar Iu‐Fan Chen, Princeton University, United States. 12 publications, h-index 6, 755 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/"
 layout: "researcher"
 hiddenInHomeList: true

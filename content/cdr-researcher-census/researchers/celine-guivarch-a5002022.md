@@ -1,7 +1,7 @@
 ---
 title: "Céline Guivarch"
 description: "Céline Guivarch, École nationale des ponts et chaussées, France. 263 publications, h-index 42, 9,899 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/celine-guivarch-a5002022/"
 layout: "researcher"
 hiddenInHomeList: true

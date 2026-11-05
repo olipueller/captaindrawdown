@@ -1,7 +1,7 @@
 ---
 title: "Rachael H. James"
 description: "Rachael H. James, University of Southampton, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 28 by activity, 73 by citations. 239 publications, h-index 59, 9,837 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/rachael-h-james-a5075056/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Evan H. DeLucia"
 description: "Evan H. DeLucia, University of Illinois Urbana-Champaign, United States. 462 publications, h-index 86, 24,831 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/evan-h-delucia-a5044416/"
 layout: "researcher"
 hiddenInHomeList: true

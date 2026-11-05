@@ -1,7 +1,7 @@
 ---
 title: "Phillip Williamson"
 description: "Phillip Williamson, University of East Anglia, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 85 by activity, 15 by citations. 151 publications, h-index 45, 6,065 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/phillip-williamson-a5039444/"
 layout: "researcher"
 hiddenInHomeList: true

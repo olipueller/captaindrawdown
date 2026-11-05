@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
 description: "Abdulkarem I. Amhamed, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 11 by activity, 36 by citations. 74 publications, h-index 24, 2,138 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true

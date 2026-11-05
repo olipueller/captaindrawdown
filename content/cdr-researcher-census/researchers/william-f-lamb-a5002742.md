@@ -1,7 +1,7 @@
 ---
 title: "William F. Lamb"
 description: "William F. Lamb, University of Leeds, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 12 by activity, 288 by citations. 138 publications, h-index 41, 12,490 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/william-f-lamb-a5002742/"
 layout: "researcher"
 hiddenInHomeList: true

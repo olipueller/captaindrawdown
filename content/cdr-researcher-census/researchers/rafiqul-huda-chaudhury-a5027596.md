@@ -1,7 +1,7 @@
 ---
 title: "Rafiqul Huda Chaudhury"
 description: "Rafiqul Huda Chaudhury, Bharat Electronics (India), India. 41 publications, h-index 10, 845 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/rafiqul-huda-chaudhury-a5027596/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kai G. Schulz"
 description: "Kai G. Schulz, Southern Cross University, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 16 by activity, 6 by citations. 346 publications, h-index 53, 9,370 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/kai-g-schulz-a5091734/"
 layout: "researcher"
 hiddenInHomeList: true

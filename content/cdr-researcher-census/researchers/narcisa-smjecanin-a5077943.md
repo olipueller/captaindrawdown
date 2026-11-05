@@ -1,7 +1,7 @@
 ---
 title: "Narcisa Smječanin"
 description: "Narcisa Smječanin, University of Sarajevo, BA. 28 publications, h-index 15, 698 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/narcisa-smjecanin-a5077943/"
 layout: "researcher"
 hiddenInHomeList: true

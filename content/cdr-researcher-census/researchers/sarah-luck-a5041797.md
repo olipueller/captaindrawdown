@@ -1,7 +1,7 @@
 ---
 title: "Sarah Lück"
 description: "Sarah Lück, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 47 by activity, 302 by citations. 28 publications, h-index 10, 578 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sarah-luck-a5041797/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Geoffrey J. Blanford"
 description: "Geoffrey J. Blanford, Electric Power Research Institute, United States. 62 publications, h-index 29, 2,860 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/geoffrey-j-blanford-a5000988/"
 layout: "researcher"
 hiddenInHomeList: true

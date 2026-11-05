@@ -1,7 +1,7 @@
 ---
 title: "Christine Merk"
 description: "Christine Merk, Kiel Institute for the World Economy, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 78 by activity, 254 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/christine-merk-a5135538/"
 layout: "researcher"
 hiddenInHomeList: true

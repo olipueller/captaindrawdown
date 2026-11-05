@@ -1,7 +1,7 @@
 ---
 title: "Dr. C.M. Vivek Vardhan"
 description: "Dr. C.M. Vivek Vardhan, Department of Atomic Energy, India. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 64 by activity, 20453 by citations; BECCS: rank 67 by activity, 2927 by citations. 10 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/"
 layout: "researcher"
 hiddenInHomeList: true

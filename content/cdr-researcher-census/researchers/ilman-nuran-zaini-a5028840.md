@@ -1,7 +1,7 @@
 ---
 title: "Ilman Nuran Zaini"
 description: "Ilman Nuran Zaini, Bandung Institute of Technology, Indonesia. 56 publications, h-index 29, 1,940 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/"
 layout: "researcher"
 hiddenInHomeList: true

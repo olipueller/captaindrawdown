@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 7 by activity, 172 by citations. 52 publications, h-index 15, 758 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true

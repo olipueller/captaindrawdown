@@ -1,7 +1,7 @@
 ---
 title: "Catherine E. Lovelock"
 description: "Catherine E. Lovelock, The University of Queensland, Australia. 479 publications, h-index 97, 39,968 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/catherine-e-lovelock-a5070671/"
 layout: "researcher"
 hiddenInHomeList: true

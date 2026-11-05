@@ -1,7 +1,7 @@
 ---
 title: "Colin McCormick"
 description: "Colin McCormick, Georgetown University, United States. 105 publications, h-index 14, 2,277 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/colin-mccormick-a5064487/"
 layout: "researcher"
 hiddenInHomeList: true

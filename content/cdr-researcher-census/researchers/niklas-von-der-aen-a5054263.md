@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
 description: "Niklas von der Aßen, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 8 by activity, 202 by citations. 115 publications, h-index 21, 2,579 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true

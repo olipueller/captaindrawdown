@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Yousry"
 description: "Mahmoud Yousry, Ain Shams University Hospital, Egypt. 3 publications, h-index 2, 588 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/"
 layout: "researcher"
 hiddenInHomeList: true

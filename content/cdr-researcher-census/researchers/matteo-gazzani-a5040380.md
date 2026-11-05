@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
 description: "Matteo Gazzani, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 27 by activity, 26 by citations. 126 publications, h-index 38, 6,741 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sina Hoseinpoori"
 description: "Sina Hoseinpoori, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 42 by activity, 1556 by citations. 13 publications, h-index 5, 229 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/"
 layout: "researcher"
 hiddenInHomeList: true

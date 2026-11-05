@@ -1,7 +1,7 @@
 ---
 title: "S.Priyadarshini"
 description: "S.Priyadarshini, SRR & CVR Government Degree College (A. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 74 by activity, 2934 by citations. 6 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/spriyadarshini-a5132661/"
 layout: "researcher"
 hiddenInHomeList: true

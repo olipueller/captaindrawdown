@@ -1,7 +1,7 @@
 ---
 title: "Osamu Nishiura"
 description: "Osamu Nishiura, National Institute for Environmental Studies, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 94 by activity, 2685 by citations. 42 publications, h-index 6, 135 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/osamu-nishiura-a5037582/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Colin E. Snape"
 description: "Colin E. Snape, University of Nottingham, United Kingdom. 548 publications, h-index 73, 19,986 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/colin-e-snape-a5038069/"
 layout: "researcher"
 hiddenInHomeList: true

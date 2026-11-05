@@ -1,7 +1,7 @@
 ---
 title: "G. Sailaja"
 description: "G. Sailaja, Muffakhamjah College of Engineering and Technology, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 68 by activity, 2928 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/g-sailaja-a5132964/"
 layout: "researcher"
 hiddenInHomeList: true

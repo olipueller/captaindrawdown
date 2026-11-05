@@ -1,7 +1,7 @@
 ---
 title: "Ahmed AlNouss"
 description: "Ahmed AlNouss, Hamad bin Khalifa University, Qatar. 98 publications, h-index 26, 2,566 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ahmed-alnouss-a5082948/"
 layout: "researcher"
 hiddenInHomeList: true

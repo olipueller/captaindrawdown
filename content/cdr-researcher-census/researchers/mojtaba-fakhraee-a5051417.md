@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
 description: "Mojtaba Fakhraee, University of Connecticut, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 100 by activity, 115 by citations. 70 publications, h-index 21, 1,440 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true

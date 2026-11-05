@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
 description: "Jessica Strefler, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 43 by activity, 29 by citations; BECCS: rank 80 by activity, 100 by citations. 104 publications, h-index 30, 13,238 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true

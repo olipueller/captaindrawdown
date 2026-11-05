@@ -1,7 +1,7 @@
 ---
 title: "Mark E. Davis"
 description: "Mark E. Davis, California Institute of Technology, United States. 644 publications, h-index 120, 64,348 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/mark-e-davis-a5010404/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lina Röschel"
 description: "Lina Röschel, Research Institute for Sustainability at GFZ, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 66 by activity, 968 by citations. 14 publications, h-index 5, 357 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/lina-roschel-a5025340/"
 layout: "researcher"
 hiddenInHomeList: true

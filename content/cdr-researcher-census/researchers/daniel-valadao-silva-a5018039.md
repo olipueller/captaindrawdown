@@ -1,7 +1,7 @@
 ---
 title: "Daniel Valadão Silva"
 description: "Daniel Valadão Silva, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 93 by activity, 6864 by citations. 237 publications, h-index 22, 1,857 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/daniel-valadao-silva-a5018039/"
 layout: "researcher"
 hiddenInHomeList: true

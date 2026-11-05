@@ -1,7 +1,7 @@
 ---
 title: "Lisa A. Levin"
 description: "Lisa A. Levin, Scripps Institution of Oceanography, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 43 by activity, 794 by citations. 572 publications, h-index 104, 45,504 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/lisa-a-levin-a5104385/"
 layout: "researcher"
 hiddenInHomeList: true

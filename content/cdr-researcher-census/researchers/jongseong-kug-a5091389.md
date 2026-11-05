@@ -1,7 +1,7 @@
 ---
 title: "Jong‐Seong Kug"
 description: "Jong‐Seong Kug, Seoul National University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 27 by activity, 178 by citations. 559 publications, h-index 64, 20,594 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/jongseong-kug-a5091389/"
 layout: "researcher"
 hiddenInHomeList: true

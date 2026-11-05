@@ -1,7 +1,7 @@
 ---
 title: "Éder C. Lima"
 description: "Éder C. Lima, Universidade Federal do Rio Grande do Sul, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 37 by activity, 25 by citations. 495 publications, h-index 98, 32,613 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/eder-c-lima-a5011032/"
 layout: "researcher"
 hiddenInHomeList: true

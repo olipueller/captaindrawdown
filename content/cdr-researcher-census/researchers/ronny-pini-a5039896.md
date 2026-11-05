@@ -1,7 +1,7 @@
 ---
 title: "Ronny Pini"
 description: "Ronny Pini, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 17 by activity, 2561 by citations. 221 publications, h-index 38, 5,885 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/ronny-pini-a5039896/"
 layout: "researcher"
 hiddenInHomeList: true

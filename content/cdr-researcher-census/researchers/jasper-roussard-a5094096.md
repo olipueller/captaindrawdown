@@ -1,7 +1,7 @@
 ---
 title: "Jasper Roussard"
 description: "Jasper Roussard, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 66 by activity, 770 by citations. 15 publications, h-index 3, 24 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/jasper-roussard-a5094096/"
 layout: "researcher"
 hiddenInHomeList: true

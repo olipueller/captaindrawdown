@@ -1,7 +1,7 @@
 ---
 title: "Shuang Zhang"
 description: "Shuang Zhang, Texas A&M University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 22 by activity, 13 by citations. 455 publications, h-index 40, 5,838 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/shuang-zhang-a5100321/"
 layout: "researcher"
 hiddenInHomeList: true

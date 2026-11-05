@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
 description: "Raymond R. Tan, De La Salle University, Philippines. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 13 by activity, 556 by citations. 649 publications, h-index 66, 18,804 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true

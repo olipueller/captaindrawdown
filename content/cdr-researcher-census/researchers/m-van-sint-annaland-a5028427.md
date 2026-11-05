@@ -1,7 +1,7 @@
 ---
 title: "M. van Sint Annaland"
 description: "M. van Sint Annaland, Eindhoven University of Technology, Netherlands. 566 publications, h-index 71, 19,728 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Helen Onyeaka"
 description: "Helen Onyeaka, University of Birmingham, United Kingdom. 343 publications, h-index 54, 10,674 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/helen-onyeaka-a5058807/"
 layout: "researcher"
 hiddenInHomeList: true

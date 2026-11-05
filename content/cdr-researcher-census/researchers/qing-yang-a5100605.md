@@ -1,7 +1,7 @@
 ---
 title: "Qing Yang"
 description: "Qing Yang, Harvard University, United States. 178 publications, h-index 46, 6,718 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/qing-yang-a5100605/"
 layout: "researcher"
 hiddenInHomeList: true

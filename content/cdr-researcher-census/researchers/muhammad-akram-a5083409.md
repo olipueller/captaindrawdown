@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
 description: "Muhammad Akram, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 87 by activity, 189 by citations. 56 publications, h-index 18, 993 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true

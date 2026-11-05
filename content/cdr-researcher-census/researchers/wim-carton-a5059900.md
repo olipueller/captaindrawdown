@@ -1,7 +1,7 @@
 ---
 title: "Wim Carton"
 description: "Wim Carton, Lund University Samhällsvetenskapliga fakulteten, Sweden. 60 publications, h-index 21, 2,468 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/wim-carton-a5059900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abigail González-Díaz"
 description: "Abigail González-Díaz, Instituto de Investigaciones Eléctricas, Mexico. 32 publications, h-index 14, 1,174 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/"
 layout: "researcher"
 hiddenInHomeList: true

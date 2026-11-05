@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Liu"
 description: "Yunfei Liu, Nanjing Forestry University, China. 423 publications, h-index 37, 5,552 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/yunfei-liu-a5100704/"
 layout: "researcher"
 hiddenInHomeList: true

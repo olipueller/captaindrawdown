@@ -1,7 +1,7 @@
 ---
 title: "﻿Arnaud Laurent"
 description: "﻿Arnaud Laurent, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 24 by activity, 179 by citations. 80 publications, h-index 20, 1,414 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/arnaud-laurent-a5033431/"
 layout: "researcher"
 hiddenInHomeList: true

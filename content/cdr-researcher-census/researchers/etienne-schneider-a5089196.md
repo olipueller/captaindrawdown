@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
 description: "Etienne Schneider, University of Vienna, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 92 by activity, 733 by citations. 43 publications, h-index 11, 621 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true

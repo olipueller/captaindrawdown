@@ -1,7 +1,7 @@
 ---
 title: "Noah W. Sokol"
 description: "Noah W. Sokol, Lawrence Livermore National Laboratory, United States. 4181 publications, h-index 21, 6,751 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/noah-w-sokol-a5011737/"
 layout: "researcher"
 hiddenInHomeList: true

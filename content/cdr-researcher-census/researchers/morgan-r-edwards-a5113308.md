@@ -1,7 +1,7 @@
 ---
 title: "Morgan R. Edwards"
 description: "Morgan R. Edwards, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 58 by activity, 3480 by citations. 63 publications, h-index 14, 1,252 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/morgan-r-edwards-a5113308/"
 layout: "researcher"
 hiddenInHomeList: true

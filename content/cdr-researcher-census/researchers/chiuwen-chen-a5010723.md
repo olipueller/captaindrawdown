@@ -1,7 +1,7 @@
 ---
 title: "Chiu‐Wen Chen"
 description: "Chiu‐Wen Chen, National Kaohsiung University of Science and Technology, Taiwan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 62 by activity, 40 by citations. 615 publications, h-index 82, 23,267 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/chiuwen-chen-a5010723/"
 layout: "researcher"
 hiddenInHomeList: true

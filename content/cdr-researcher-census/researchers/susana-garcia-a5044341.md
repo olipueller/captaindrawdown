@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
 description: "Susana García, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 67 by activity, 103 by citations. 181 publications, h-index 36, 5,133 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "John A. Raven"
 description: "John A. Raven, University of Dundee, United Kingdom. 696 publications, h-index 122, 58,761 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/john-a-raven-a5041675/"
 layout: "researcher"
 hiddenInHomeList: true

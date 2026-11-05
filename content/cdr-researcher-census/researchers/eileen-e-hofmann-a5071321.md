@@ -1,7 +1,7 @@
 ---
 title: "Eileen E. Hofmann"
 description: "Eileen E. Hofmann, Dominion University College, Ghana. 322 publications, h-index 64, 13,859 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/"
 layout: "researcher"
 hiddenInHomeList: true

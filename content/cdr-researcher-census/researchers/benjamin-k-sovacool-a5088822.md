@@ -1,7 +1,7 @@
 ---
 title: "Benjamin K. Sovacool"
 description: "Benjamin K. Sovacool, Boston University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 10 by activity, 14 by citations; Cross-cutting CDR: rank 10 by activity, 3 by citations. 1015 publications, h-index 136, 70,230 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/"
 layout: "researcher"
 hiddenInHomeList: true

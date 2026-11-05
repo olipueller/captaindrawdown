@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
 description: "Fabrice Pernet, Ifremer Centre de Bretagne, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 54 by activity, 1814 by citations. 160 publications, h-index 44, 4,754 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true

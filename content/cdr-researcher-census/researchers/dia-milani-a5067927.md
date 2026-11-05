@@ -1,7 +1,7 @@
 ---
 title: "Dia Milani"
 description: "Dia Milani, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 50 by activity, 159 by citations. 65 publications, h-index 27, 2,841 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/dia-milani-a5067927/"
 layout: "researcher"
 hiddenInHomeList: true

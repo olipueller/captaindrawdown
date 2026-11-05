@@ -1,7 +1,7 @@
 ---
 title: "Youssef Belmabkhout"
 description: "Youssef Belmabkhout, Université Mohammed VI Polytechnique, MA. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 66 by activity, 169 by citations. 287 publications, h-index 77, 24,406 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:32+00:00
 url: "/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/"
 layout: "researcher"
 hiddenInHomeList: true

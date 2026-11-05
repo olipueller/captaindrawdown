@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Möllersten"
 description: "Kenneth Möllersten, IVL Swedish Environmental Research Institute, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 59 by activity, 355 by citations. 36 publications, h-index 13, 1,610 citations (OpenAlex, all fields)."
-date: 2026-11-05T08:47:31+00:00
+date: 2026-11-05T09:20:33+00:00
 url: "/cdr-researcher-census/researchers/kenneth-mollersten-a5081022/"
 layout: "researcher"
 hiddenInHomeList: true
