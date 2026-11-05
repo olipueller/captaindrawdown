@@ -1,7 +1,7 @@
 ---
 title: "Hewen Zhou"
-description: "Hewen Zhou, Harvard University, United States. 33 publications, h-index 14, 1,284 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Hewen Zhou, Harvard University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 301 by activity, 11 by citations). 33 publications, h-index 14, 1,284 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/hewen-zhou-a5064117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Harvard University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 301 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,284</td></tr>

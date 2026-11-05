@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
-description: "Behrouz Gholamahmadi, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 30 by activity, 7284 by citations. 40 publications, h-index 4, 140 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Behrouz Gholamahmadi, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 30 by activity, 7284 by citations; Europe rank 10 by activity, 1028 by citations). 40 publications, h-index 4, 140 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Aveiro</td></tr>
   <tr><th>Country</th><td>Portugal</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 30 <a href="/data/researchers/biochar/">by activity</a>, rank 7284 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 30 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 7284 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1028 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>140</td></tr>

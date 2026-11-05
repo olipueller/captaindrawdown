@@ -1,7 +1,7 @@
 ---
 title: "D.B. Ingham"
-description: "D.B. Ingham, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 95 by activity, 73 by citations. 834 publications, h-index 69, 20,459 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "D.B. Ingham, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 95 by activity, 73 by citations; Europe rank 62 by activity, 26 by citations). 834 publications, h-index 69, 20,459 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/db-ingham-a5039105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 95 <a href="/data/researchers/beccs/">by activity</a>, rank 73 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 95 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 62 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 26 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>20,459</td></tr>

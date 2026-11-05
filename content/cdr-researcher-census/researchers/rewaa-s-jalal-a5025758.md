@@ -1,7 +1,7 @@
 ---
 title: "Rewaa S. Jalal"
-description: "Rewaa S. Jalal, Jeddah University, Saudi Arabia. 69 publications, h-index 16, 1,864 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Rewaa S. Jalal, Jeddah University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25900 by activity, 73 by citations). 69 publications, h-index 16, 1,864 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Jeddah University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 25900 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>1,864</td></tr>

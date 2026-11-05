@@ -1,7 +1,7 @@
 ---
 title: "Tom Terlouw"
-description: "Tom Terlouw, PSI, Switzerland. 40 publications, h-index 14, 2,480 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tom Terlouw, PSI, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 668 by activity, 2 by citations; Europe rank 220 by activity, 1 by citations). 40 publications, h-index 14, 2,480 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tom-terlouw-a5036170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>PSI</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 668 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 220 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 1 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>2,480</td></tr>

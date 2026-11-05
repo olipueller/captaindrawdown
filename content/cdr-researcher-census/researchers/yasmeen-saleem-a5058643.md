@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
-description: "Yasmeen Saleem, Florida Department of Citrus, United States. 12 publications, h-index 4, 556 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Yasmeen Saleem, Florida Department of Citrus, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23852 by activity, 83 by citations). 12 publications, h-index 4, 556 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Florida Department of Citrus</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23852 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>556</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kalkuhl"
-description: "Matthias Kalkuhl, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 74 by activity, 980 by citations. 231 publications, h-index 32, 4,829 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matthias Kalkuhl, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 74 by activity, 980 by citations; Europe rank 48 by activity, 394 by citations). 231 publications, h-index 32, 4,829 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 74 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 980 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 74 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 980 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 48 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 394 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>4,829</td></tr>

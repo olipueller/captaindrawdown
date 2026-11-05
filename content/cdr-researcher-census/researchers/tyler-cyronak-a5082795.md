@@ -1,7 +1,7 @@
 ---
 title: "Tyler Cyronak"
-description: "Tyler Cyronak, Georgia Southern University, United States. 106 publications, h-index 26, 3,164 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tyler Cyronak, Georgia Southern University, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 207 by activity, 55 by citations). 106 publications, h-index 26, 3,164 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tyler-cyronak-a5082795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Georgia Southern University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 207 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>3,164</td></tr>

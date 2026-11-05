@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
-description: "Zhuozhen Gan, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 80 by activity, 1457 by citations. 14 publications, h-index 8, 591 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Zhuozhen Gan, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 80 by activity, 1457 by citations). 14 publications, h-index 8, 591 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shanghai Jiao Tong University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 80 <a href="/data/researchers/dac/">by activity</a>, rank 1457 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 80 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1457 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>591</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Generic modeling framework for direct air capture by temperature swing adsorption](https://openalex.org/W7160088113)<br><small>with Chengcheng Long, Hao Zou, Rongjie Ma, Shuang Li, [Yihe Miao](/cdr-researcher-census/researchers/yihe-miao-a5086130/), Zixin Zhang and 1 more</small> | DAC | 1 |
 | 2026 | [Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures](https://openalex.org/W7167709412)<br><small>with Qingyang Shao, Chengcheng Long, M Zhang, [Yihe Miao](/cdr-researcher-census/researchers/yihe-miao-a5086130/), Yuehui Li, [Xuancan Zhu](/cdr-researcher-census/researchers/xuancan-zhu-a5072713/)</small> | DAC | 0 |
-| 2026 | [A Mechanistic Framework for CO2 Adsorption over PEI-Functionalized LDO Adsorbents under Coupled Humidity and Temperature Conditions](https://openalex.org/W7204920967)<br><small>with Hao Zou, Chengcheng Long, Man Zhang, Man Zhang, Rongjie Ma, [Yihe Miao](/cdr-researcher-census/researchers/yihe-miao-a5086130/) and 1 more</small> | DAC | 0 |
+| 2026 | [A Mechanistic Framework for CO2 Adsorption over PEI-Functionalized LDO Adsorbents under Coupled Humidity and Temperature Conditions](https://openalex.org/W7204920967)<br><small>with Hao Zou, Chengcheng Long, Man Zhang, Rongjie Ma, [Yihe Miao](/cdr-researcher-census/researchers/yihe-miao-a5086130/) and 1 more</small> | DAC | 0 |
 | 2025 | [Integrated power to methanol processes with steam-assisted direct air capture](https://doi.org/10.1016/j.enconman.2025.119505)<br><small>Energy Conversion and Management · with Man Zhang, Bingyao Ge, Shuai Liu, Shuang Li, Yixiang Shi, [Xuancan Zhu](/cdr-researcher-census/researchers/xuancan-zhu-a5072713/)</small> | DAC | 11 |
 
 ---

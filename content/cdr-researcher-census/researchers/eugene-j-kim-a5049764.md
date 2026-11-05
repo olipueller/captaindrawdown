@@ -1,7 +1,7 @@
 ---
 title: "Eugene J. Kim"
-description: "Eugene J. Kim, Rutgers, The State University of New Jersey, United States. 22 publications, h-index 14, 3,416 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Eugene J. Kim, Rutgers, The State University of New Jersey, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 6415 by activity, 30 by citations). 22 publications, h-index 14, 3,416 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/eugene-j-kim-a5049764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Rutgers, The State University of New Jersey</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 6415 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>3,416</td></tr>

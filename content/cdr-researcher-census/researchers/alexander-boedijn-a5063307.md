@@ -1,7 +1,7 @@
 ---
 title: "Alexander Boedijn"
-description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 81 by activity, 3453 by citations. 28 publications, h-index 4, 59 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 81 by activity, 3453 by citations; Europe rank 30 by activity, 986 by citations). 28 publications, h-index 4, 59 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/alexander-boedijn-a5063307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Wageningen University & Research</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 81 <a href="/data/researchers/dac/">by activity</a>, rank 3453 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 81 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3453 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 986 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>59</td></tr>

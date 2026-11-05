@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
-description: "Kati Koponen, VTT Technical Research Centre of Finland, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 22 by activity, 1296 by citations. 52 publications, h-index 14, 711 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Kati Koponen, VTT Technical Research Centre of Finland, Finland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 22 by activity, 1296 by citations; Europe rank 14 by activity, 570 by citations). 52 publications, h-index 14, 711 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>VTT Technical Research Centre of Finland</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 22 <a href="/data/researchers/beccs/">by activity</a>, rank 1296 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 22 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1296 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 14 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 570 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>711</td></tr>

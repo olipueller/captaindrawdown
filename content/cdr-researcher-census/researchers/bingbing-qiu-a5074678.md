@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Qiu"
-description: "Bingbing Qiu, University of Science and Technology of China, China. 48 publications, h-index 21, 2,621 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Bingbing Qiu, University of Science and Technology of China, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23842 by activity, 42 by citations). 48 publications, h-index 21, 2,621 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/bingbing-qiu-a5074678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Science and Technology of China</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23842 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 42 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,621</td></tr>

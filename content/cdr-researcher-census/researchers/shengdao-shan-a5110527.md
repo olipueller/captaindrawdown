@@ -1,7 +1,7 @@
 ---
 title: "Shengdao Shan"
-description: "Shengdao Shan, Zhejiang University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 21 by activity, 175 by citations. 189 publications, h-index 48, 6,797 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Shengdao Shan, Zhejiang University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 21 by activity, 175 by citations). 189 publications, h-index 48, 6,797 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shengdao-shan-a5110527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Zhejiang University of Science and Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 21 <a href="/data/researchers/biochar/">by activity</a>, rank 175 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 21 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 175 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>48</td></tr>
   <tr><th>Citations</th><td>6,797</td></tr>
@@ -46,7 +46,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Warming increases CO2 emissions in biochar-amended cropland soil](https://openalex.org/W7163586998)<br><small>with Tongyu Xu, Amit kumar, Dafeng Hui, Fei Li, Hepeng Li, Jianming Xue and 5 more</small> | Biochar | 14 |
 | 2026 | [Chitosan-functionalized biochar modulates arsenic speciation, distribution, and stress tolerance during rice growth in contaminated paddy systems: role of natural aging](https://openalex.org/W7167789370)<br><small>with Meng Li, H Chen, Hongni Xiong, Jianhong Li, Jiayi Li, Lizhi He and 7 more</small> | Biochar | 1 |
-| 2026 | [Priming indigenous microbial manganese oxidation with aged biochar for cadmium immobilization in acidic soils](https://doi.org/10.1016/j.cej.2026.174713)<br><small>Chemical Engineering Journal · with Yongchao Li, Anqi Bu, Chuanfeng Zhou, Ping Li, Yesheng Huang, Yesheng Huang and 1 more</small> | Biochar | 0 |
+| 2026 | [Priming indigenous microbial manganese oxidation with aged biochar for cadmium immobilization in acidic soils](https://doi.org/10.1016/j.cej.2026.174713)<br><small>Chemical Engineering Journal · with Yongchao Li, Anqi Bu, Chuanfeng Zhou, Ping Li, Yesheng Huang and 1 more</small> | Biochar | 0 |
 | 2025 | [Biochar promoted soil organic carbon accumulation and aggregate stability by increasing the content of organic complex metal oxides in paddy soil](https://doi.org/10.1016/j.still.2025.106713)<br><small>Soil and Tillage Research · with Jiajun Wu, Antonio Scopa, Bin Zhou, Cheng Liu, Ning Zhao, [Vishnu D. Rajput](/cdr-researcher-census/researchers/vishnu-d-rajput-a5084567/) and 6 more</small> | Biochar | 36 |
 | 2025 | [Aeration-assisted removal of tetracycline from wastewater by biochar: mechanisms and cost-benefit analysis](https://doi.org/10.1016/j.envres.2025.122407)<br><small>Environmental Research · with Lili Liu, H. Wang, Lei Ke, Ming Zhang, [Stephen Joseph](/cdr-researcher-census/researchers/stephen-joseph-a5112737/), Xuan Gao and 1 more</small> | Biochar | 20 |
 | 2025 | [Machine learning prediction of biochar properties derived from food waste](https://doi.org/10.1016/j.jece.2025.116791)<br><small>Journal of environmental chemical engineering · with Ekaterina Kravchenko, D. A. Privizentseva, M. Zhelnin, Sudhakar Srivastava, Tatiana Bauer, [Tatiana Minkina](/cdr-researcher-census/researchers/tatiana-minkina-a5082791/) and 1 more</small> | Biochar | 16 |

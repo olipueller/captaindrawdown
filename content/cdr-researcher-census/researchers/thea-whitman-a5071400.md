@@ -1,7 +1,7 @@
 ---
 title: "Thea Whitman"
-description: "Thea Whitman, University of British Columbia, Canada. 1121 publications, h-index 31, 5,677 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Thea Whitman, University of British Columbia, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 17344 by activity, 11 by citations). 1121 publications, h-index 31, 5,677 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/thea-whitman-a5071400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of British Columbia</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 17344 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>5,677</td></tr>

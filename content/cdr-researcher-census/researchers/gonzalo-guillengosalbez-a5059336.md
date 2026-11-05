@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Guillén‐Gosálbez"
-description: "Gonzalo Guillén‐Gosálbez, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 91 by activity, 83 by citations. 421 publications, h-index 60, 12,445 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Gonzalo Guillén‐Gosálbez, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 91 by activity, 83 by citations; Europe rank 60 by activity, 31 by citations). 421 publications, h-index 60, 12,445 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 91 <a href="/data/researchers/beccs/">by activity</a>, rank 83 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 91 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 60 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>60</td></tr>
   <tr><th>Citations</th><td>12,445</td></tr>

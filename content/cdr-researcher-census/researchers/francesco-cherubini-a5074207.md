@@ -1,7 +1,7 @@
 ---
 title: "Francesco Cherubini"
-description: "Francesco Cherubini, Norwegian University of Science and Technology, Norway. 223 publications, h-index 65, 16,103 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Francesco Cherubini, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 166 by activity, 31 by citations; Europe rank 107 by activity, 11 by citations). 223 publications, h-index 65, 16,103 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/francesco-cherubini-a5074207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Norwegian University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 166 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 31 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 107 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>65</td></tr>
   <tr><th>Citations</th><td>16,103</td></tr>

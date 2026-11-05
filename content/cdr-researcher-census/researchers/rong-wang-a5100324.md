@@ -1,7 +1,7 @@
 ---
 title: "Rong Wang"
-description: "Rong Wang, Fudan University, China. 362 publications, h-index 44, 8,580 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Rong Wang, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 205 by activity, 45 by citations). 362 publications, h-index 44, 8,580 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/rong-wang-a5100324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Fudan University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 205 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>44</td></tr>
   <tr><th>Citations</th><td>8,580</td></tr>

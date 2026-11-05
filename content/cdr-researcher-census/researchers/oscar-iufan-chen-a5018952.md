@@ -1,7 +1,7 @@
 ---
 title: "Oscar Iu‐Fan Chen"
-description: "Oscar Iu‐Fan Chen, Princeton University, United States. 12 publications, h-index 6, 755 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Oscar Iu‐Fan Chen, Princeton University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4134 by activity, 80 by citations). 12 publications, h-index 6, 755 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Princeton University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4134 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>755</td></tr>

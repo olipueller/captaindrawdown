@@ -1,7 +1,7 @@
 ---
 title: "Haozhe Li"
-description: "Haozhe Li, Songshan Lake Materials Laboratory, China. 86 publications, h-index 19, 1,943 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Haozhe Li, Songshan Lake Materials Laboratory, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4131 by activity, 77 by citations). 86 publications, h-index 19, 1,943 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/haozhe-li-a5101457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Songshan Lake Materials Laboratory</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4131 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,943</td></tr>

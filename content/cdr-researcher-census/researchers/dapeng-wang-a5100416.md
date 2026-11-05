@@ -1,7 +1,7 @@
 ---
 title: "Dapeng Wang"
-description: "Dapeng Wang, Chalmers University of Technology, Sweden. 22 publications, h-index 14, 973 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Dapeng Wang, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 2667 by activity, 47 by citations). 22 publications, h-index 14, 973 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/dapeng-wang-a5100416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chalmers University of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 2667 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>973</td></tr>

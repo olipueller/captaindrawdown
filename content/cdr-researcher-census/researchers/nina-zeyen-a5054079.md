@@ -1,7 +1,7 @@
 ---
 title: "Nina Zeyen"
-description: "Nina Zeyen, University of Geneva, Switzerland. 60 publications, h-index 16, 688 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nina Zeyen, University of Geneva, Switzerland. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 188 by activity, 53 by citations; Europe rank 109 by activity, 39 by citations). 60 publications, h-index 16, 688 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nina-zeyen-a5054079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Geneva</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 188 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 53 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 109 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>688</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Michael I. Bird"
-description: "Michael I. Bird, James Cook University, Australia. 515 publications, h-index 90, 29,751 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Michael I. Bird, James Cook University, Australia. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 2248 by activity, 100 by citations). 515 publications, h-index 90, 29,751 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/michael-i-bird-a5061584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>James Cook University</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 2248 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 100 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>90</td></tr>
   <tr><th>Citations</th><td>29,751</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Tobias C. Hull"
-description: "Tobias C. Hull, National Laboratory of the Rockies, United States. 6 publications, h-index 4, 477 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tobias C. Hull, National Laboratory of the Rockies, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4989 by activity, 45 by citations). 6 publications, h-index 4, 477 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tobias-c-hull-a5032739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Laboratory of the Rockies</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4989 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>477</td></tr>

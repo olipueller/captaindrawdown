@@ -1,7 +1,7 @@
 ---
 title: "Thomas Wernberg"
-description: "Thomas Wernberg, University of Western Australia, Australia. 338 publications, h-index 88, 38,862 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Thomas Wernberg, University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 830 by activity, 47 by citations). 338 publications, h-index 88, 38,862 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/thomas-wernberg-a5026692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Western Australia</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 830 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 47 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>88</td></tr>
   <tr><th>Citations</th><td>38,862</td></tr>

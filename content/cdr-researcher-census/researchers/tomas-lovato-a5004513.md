@@ -1,7 +1,7 @@
 ---
 title: "Tomas Lovato"
-description: "Tomas Lovato, Centro Euro-Mediterraneo sui Cambiamenti Climatici, Italy. 94 publications, h-index 18, 2,106 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tomas Lovato, Centro Euro-Mediterraneo sui Cambiamenti Climatici, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 491 by activity, 48 by citations). 94 publications, h-index 18, 2,106 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tomas-lovato-a5004513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centro Euro-Mediterraneo sui Cambiamenti Climatici</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 491 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>2,106</td></tr>

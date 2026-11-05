@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
-description: "Matteo B. Bertagni, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 29 by activity, 82 by citations. 70 publications, h-index 13, 771 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matteo B. Bertagni, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 29 by activity, 82 by citations; Europe rank 19 by activity, 56 by citations). 70 publications, h-index 13, 771 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Politecnico di Torino</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 29 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 82 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 29 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 82 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 19 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 56 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>771</td></tr>

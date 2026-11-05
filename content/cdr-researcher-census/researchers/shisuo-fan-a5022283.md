@@ -1,7 +1,7 @@
 ---
 title: "Shisuo Fan"
-description: "Shisuo Fan, Anhui Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 52 by activity, 106 by citations. 74 publications, h-index 34, 5,108 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Shisuo Fan, Anhui Agricultural University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 52 by activity, 106 by citations). 74 publications, h-index 34, 5,108 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shisuo-fan-a5022283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Anhui Agricultural University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 52 <a href="/data/researchers/biochar/">by activity</a>, rank 106 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 52 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 106 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>5,108</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Thomas Gasser"
-description: "Thomas Gasser, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 27 by activity, 44 by citations; Cross-cutting CDR: rank 33 by activity, 147 by citations. 267 publications, h-index 49, 18,406 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Thomas Gasser, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 27 by activity, 44 by citations; Europe rank 18 by activity, 17 by citations), Cross-cutting CDR (worldwide rank 33 by activity, 147 by citations; Europe rank 21 by activity, 93 by citations). 267 publications, h-index 49, 18,406 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/thomas-gasser-a5062044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,9 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 27 <a href="/data/researchers/beccs/">by activity</a>, rank 44 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 33 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 147 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 27 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 18 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 33 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 147 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 93 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>49</td></tr>
   <tr><th>Citations</th><td>18,406</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://openalex.org/W7162494199)<br><small>with Yue He, [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), Shilong Piao, Tao Wang</small> | Cross-cutting CDR | 2 |
-| 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://doi.org/10.5194/egusphere-egu26-10111)<br><small>with Yue He, Yue He, [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), Shilong Piao, Tao Wang</small> | Cross-cutting CDR | 0 |
+| 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://doi.org/10.5194/egusphere-egu26-10111)<br><small>with Yue He, [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), Shilong Piao, Tao Wang</small> | Cross-cutting CDR | 0 |
 | 2026 | [Probabilistic assessment of land-based carbon dioxide removal and biospheric feedbacks under overshoot pathways](https://doi.org/10.5194/egusphere-egu26-20234)<br><small>with Biqing Zhu, Xinrui Liu, Danni Zhang</small> | Cross-cutting CDR | 0 |
 | 2025 | [Contributions of countries without a carbon neutrality target to limit global warming](https://doi.org/10.1038/s41467-024-55720-x)<br><small>Nature Communications · with Jiaxin Zhou, Jiaying He, Jingmeng Wang, Lei Zhu, Li Liu, Mengjie Han and 5 more</small> | BECCS | 10 |
 | 2025 | [Spaces of anthropogenic CO2 emissions compatible with climate boundaries](https://doi.org/10.1038/s41558-025-02460-5)<br><small>Nature Climate Change · with Thomas Bossy, Franck Lecocq, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), Philippe Bousquet, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | Cross-cutting CDR | 6 |

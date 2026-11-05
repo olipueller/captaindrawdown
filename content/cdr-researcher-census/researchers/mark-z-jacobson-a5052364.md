@@ -1,7 +1,7 @@
 ---
 title: "Mark Z. Jacobson"
-description: "Mark Z. Jacobson, Stanford University, United States. 808 publications, h-index 111, 53,520 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Mark Z. Jacobson, Stanford University, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1301 by activity, 50 by citations). 808 publications, h-index 111, 53,520 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/mark-z-jacobson-a5052364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Stanford University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1301 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 50 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>111</td></tr>
   <tr><th>Citations</th><td>53,520</td></tr>

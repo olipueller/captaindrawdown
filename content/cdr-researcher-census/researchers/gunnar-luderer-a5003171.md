@@ -1,7 +1,7 @@
 ---
 title: "Gunnar Luderer"
-description: "Gunnar Luderer, Technische Universität Berlin, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 70 by activity, 20 by citations. 306 publications, h-index 83, 35,654 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Gunnar Luderer, Technische Universität Berlin, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3032 by activity, 22 by citations; Europe rank 749 by activity, 15 by citations), Cross-cutting CDR (worldwide rank 70 by activity, 20 by citations; Europe rank 46 by activity, 17 by citations). 306 publications, h-index 83, 35,654 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/gunnar-luderer-a5003171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Technische Universität Berlin</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 70 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 20 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3032 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 22 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 749 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 70 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 20 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>83</td></tr>
   <tr><th>Citations</th><td>35,654</td></tr>
@@ -47,8 +48,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
-| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 10 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
+| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 10 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [Exploring techno-economic landscapes of abatement options for hard-to-electrify sectors](https://doi.org/10.1038/s41467-025-59277-1)<br><small>Nature Communications · with Clara Bachorz, Philipp C. Verpoort, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/)</small> | Cross-cutting CDR | 34 |
 | 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7)<br><small>Nature Communications · with Anne Merfort, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/), Gabriel Medeiros Abrahão, [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/) and 2 more</small> | Cross-cutting CDR | 17 |
 | 2024 | [Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement](https://doi.org/10.1126/sciadv.adj3832)<br><small>Science Advances · with [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Benjamin Leon Bodirsky, [David Klein](/cdr-researcher-census/researchers/david-klein-a5102823/), Hermann Lotze‐Campen, Isabelle Weindl and 6 more</small> | Cross-cutting CDR | 43 |

@@ -1,7 +1,7 @@
 ---
 title: "Niall Mac Dowell"
-description: "Niall Mac Dowell, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 5 by activity, 30 by citations; Cross-cutting CDR: rank 35 by activity, 86 by citations; DAC: rank 39 by activity, 218 by citations. 228 publications, h-index 56, 19,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Niall Mac Dowell, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 5 by activity, 30 by citations; Europe rank 5 by activity, 10 by citations), DAC (worldwide rank 39 by activity, 218 by citations; Europe rank 21 by activity, 112 by citations), Cross-cutting CDR (worldwide rank 35 by activity, 86 by citations; Europe rank 23 by activity, 62 by citations). 228 publications, h-index 56, 19,407 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,10 +28,10 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Imperial College London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 5 <a href="/data/researchers/beccs/">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 35 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 86 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 39 <a href="/data/researchers/dac/">by activity</a>, rank 218 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 5 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 5 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 39 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 218 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 112 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 35 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 62 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>56</td></tr>
   <tr><th>Citations</th><td>19,407</td></tr>
@@ -56,10 +56,10 @@ robots: "index, follow"
 | 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8)<br><small>Nature Communications · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), David Keller and 20 more</small> | Cross-cutting CDR | 20 |
 | 2025 | [Bargaining powers in cooperative Carbon Dioxide Removal deployment](https://doi.org/10.1080/14693062.2024.2445167)<br><small>Climate Policy · with Emma Jagu Schippers, David Lowing, Olivier Massol, Solène Chiquier</small> | Cross-cutting CDR | 4 |
 | 2025 | [Decarbonizing the emirates: A roadmap to net-zero emissions by 2050 in the UAE](https://doi.org/10.1016/j.isci.2025.114348)<br><small>iScience · with Roghayeh Yousef</small> | DAC | 3 |
-| 2025 | [A rational lens on prioritizing emission reductions via removal versus abatement](https://doi.org/10.1016/j.joule.2025.102040)<br><small>Joule · with Matthias Mersch, Christos N. Markides, Marwan Sendi, Marwan Sendi</small> | Cross-cutting CDR | 1 |
+| 2025 | [A rational lens on prioritizing emission reductions via removal versus abatement](https://doi.org/10.1016/j.joule.2025.102040)<br><small>Joule · with Matthias Mersch, Christos N. Markides, Marwan Sendi</small> | Cross-cutting CDR | 1 |
 | 2025 | [The Value of Direct Air Carbon Capture and Storage](https://doi.org/10.62849/2025-05)<br><small>with Adam S. Ward, Mai Bui, Nadine Moustafa</small> | DAC | 0 |
 | 2025 | [Carbon Removal](https://doi.org/10.7551/mitpress/15312.001.0001)<br><small>The MIT Press eBooks · with Howard J. Herzog</small> | Cross-cutting CDR | 0 |
-| 2024 | [Geospatial techno-economic and environmental assessment of different energy options for solid sorbent direct air capture](https://doi.org/10.1016/j.crsus.2024.100151)<br><small>Cell Reports Sustainability · with Marwan Sendi, Marwan Sendi, Mai Bui, Paul S. Fennell</small> | DAC | 20 |
+| 2024 | [Geospatial techno-economic and environmental assessment of different energy options for solid sorbent direct air capture](https://doi.org/10.1016/j.crsus.2024.100151)<br><small>Cell Reports Sustainability · with Marwan Sendi, Mai Bui, Paul S. Fennell</small> | DAC | 20 |
 | 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1)<br><small>Research Square (Research Square) (preprint) · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/) and 18 more</small> | Cross-cutting CDR | 7 |
 | 2023 | [The cost of permanent carbon dioxide removal](https://doi.org/10.1016/j.joule.2023.03.006)<br><small>Joule · with Augustin Prado</small> | Cross-cutting CDR | 44 |
 | 2023 | [Pathways to net zero for power and industry in the UK](https://doi.org/10.1016/j.ijggc.2023.103887)<br><small>International journal of greenhouse gas control · with Caroline Ganzer</small> | Cross-cutting CDR | 11 |

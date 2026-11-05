@@ -1,7 +1,7 @@
 ---
 title: "Yi Wai Chiang"
-description: "Yi Wai Chiang, University of Guelph, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 36 by activity, 108 by citations. 111 publications, h-index 30, 3,078 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Yi Wai Chiang, University of Guelph, Canada. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 36 by activity, 108 by citations). 111 publications, h-index 30, 3,078 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Guelph</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 36 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 108 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 36 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 108 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,078</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Reframing Carbon Accounting in Enhanced Rock Weathering: Counterfactuals, stoichiometry, and MRV implications](https://openalex.org/W7168354238)<br><small>with Karam Abu El Haija, Karam Abu El Haija, Yi Wai Chiang, Rafael Mattos Dos Santos</small> | Enhanced Weathering | 0 |
+| 2026 | [Reframing Carbon Accounting in Enhanced Rock Weathering: Counterfactuals, stoichiometry, and MRV implications](https://openalex.org/W7168354238)<br><small>with Karam Abu El Haija, Yi Wai Chiang, Rafael Mattos Dos Santos</small> | Enhanced Weathering | 0 |
 | 2025 | [Tracking pedogenic carbonate formation and alkalinity migration in agricultural soils amended with crushed wollastonite ore – Evidence from field trials in Southwestern Ontario](https://doi.org/10.1016/j.geodrs.2025.e00918)<br><small>Geoderma Regional · with [Reza Khalidy](/cdr-researcher-census/researchers/reza-khalidy-a5010802/), Fatima Haque, [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 7 |
 | 2024 | [Reactive transport modeling of carbon capture in soil amended with fast weathering silicate minerals](https://doi.org/10.21203/rs.3.rs-3851603/v1)<br><small>preprint · with [Reza Khalidy](/cdr-researcher-census/researchers/reza-khalidy-a5010802/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 1 |
 | 2024 | [Tracking pedogenic carbonate formation and migration in agricultural soils amended with crushed wollastonite ore- Evidence from field trials](http://dx.doi.org/10.21203/rs.3.rs-3851689/v1)<br><small>Research Square (Research Square) (preprint) · with [Reza Khalidy](/cdr-researcher-census/researchers/reza-khalidy-a5010802/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 1 |

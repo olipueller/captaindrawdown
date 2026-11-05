@@ -1,7 +1,7 @@
 ---
 title: "Pere Masqué"
-description: "Pere Masqué, Universitat Autònoma de Barcelona, Spain. 472 publications, h-index 69, 17,976 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Pere Masqué, Universitat Autònoma de Barcelona, Spain. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 814 by activity, 30 by citations; Europe rank 366 by activity, 15 by citations). 472 publications, h-index 69, 17,976 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/pere-masque-a5011255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universitat Autònoma de Barcelona</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 814 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 366 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>17,976</td></tr>

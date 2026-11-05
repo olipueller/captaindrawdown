@@ -1,7 +1,7 @@
 ---
 title: "Susanne E. Hamburger"
-description: "Susanne E. Hamburger, Hochschule Geisenheim University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 51 by activity, 14361 by citations. 12 publications, h-index 1, 4 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Susanne E. Hamburger, Hochschule Geisenheim University, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 51 by activity, 14361 by citations; Europe rank 16 by activity, 2044 by citations). 12 publications, h-index 1, 4 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/susanne-e-hamburger-a5116618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,13 +29,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hochschule Geisenheim University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 51 <a href="/data/researchers/biochar/">by activity</a>, rank 14361 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 51 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 14361 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 2044 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>4</td></tr>
   <tr><th>Publications</th><td>12</td></tr>
   <tr><th>Share of publications on CDR</th><td>58.3%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0006-0425-8334">ORCID</a> · <a href="https://openalex.org/A5116618283">OpenAlex</a></td></tr>
 </table>
 

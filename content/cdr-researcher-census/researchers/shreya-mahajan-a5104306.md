@@ -1,7 +1,7 @@
 ---
 title: "Shreya Mahajan"
-description: "Shreya Mahajan, Symbiosis International University, India. 70 publications, h-index 12, 820 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Shreya Mahajan, Symbiosis International University, India. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5489 by activity, 69 by citations). 70 publications, h-index 12, 820 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shreya-mahajan-a5104306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Symbiosis International University</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5489 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>820</td></tr>

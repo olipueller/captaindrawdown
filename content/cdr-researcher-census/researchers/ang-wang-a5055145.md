@@ -1,7 +1,7 @@
 ---
 title: "Ang Wang"
-description: "Ang Wang, Nanjing Tech University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 64 by activity, 470 by citations. 151 publications, h-index 25, 2,001 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ang Wang, Nanjing Tech University, China. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 64 by activity, 470 by citations). 151 publications, h-index 25, 2,001 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ang-wang-a5055145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanjing Tech University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 64 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 470 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 64 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 470 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>25</td></tr>
   <tr><th>Citations</th><td>2,001</td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Wollastonite enhances microbial diversity and ecological network stability](https://doi.org/10.1016/j.apsoil.2026.106894)<br><small>Applied Soil Ecology · with Yanzhi Wang, A. Wang, Chang Liu, Chenxia Su, Chunjie Tian, Chunjie Tian and 9 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Wollastonite enhances microbial diversity and ecological network stability](https://doi.org/10.1016/j.apsoil.2026.106894)<br><small>Applied Soil Ecology · with Yanzhi Wang, A. Wang, Chang Liu, Chenxia Su, Chunjie Tian and 9 more</small> | Enhanced Weathering | 1 |
 | 2026 | [OverlookedSoil Acidity Leads to Significant Overestimationof Carbon Sequestration in Enhanced Rock Weathering](https://openalex.org/W7172516588)<br><small>with Chenxia Su, Charles T. Driscoll, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Ronghua Kang](/cdr-researcher-census/researchers/ronghua-kang-a5032068/), Weixing Zhu, Wentao Huang and 1 more</small> | Enhanced Weathering | 1 |
-| 2026 | [Effects of wollastonite application doses on rice yield and soil carbon sequestration](https://openalex.org/W7211866026)<br><small>with Fangna Wang, Feifei Zhu, Jin Xie, [Ronghua Kang](/cdr-researcher-census/researchers/ronghua-kang-a5032068/), Xin Chen, Xin Chen and 6 more</small> | Enhanced Weathering | 0 |
+| 2026 | [Effects of wollastonite application doses on rice yield and soil carbon sequestration](https://openalex.org/W7211866026)<br><small>with Fangna Wang, Feifei Zhu, Jin Xie, [Ronghua Kang](/cdr-researcher-census/researchers/ronghua-kang-a5032068/), Xin Chen and 6 more</small> | Enhanced Weathering | 0 |
 | 2025 | [Similar mineral-associated organic carbon formation but distinct efficiencies by powdered wollastonite addition between two soils](https://doi.org/10.1016/j.soilbio.2025.109979)<br><small>Soil Biology and Biochemistry · with Yongxue Yan, Feifei Zhu, Liming Yin, Shaobin Yan, Weidong Zhang, Yanfeng Bai and 3 more</small> | Enhanced Weathering | 7 |
 | 2025 | [Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China](https://doi.org/10.1016/j.foreco.2025.123135)<br><small>Forest Ecology and Management · with Zining Wu, Chenxia Su, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Meixia Gao, Qingwei Wang, [Ronghua Kang](/cdr-researcher-census/researchers/ronghua-kang-a5032068/) and 3 more</small> | Enhanced Weathering | 4 |
 | 2025 | [Wollastonite improves soybean yield without toxic trace elements enrichment](https://doi.org/10.1007/s10705-025-10437-1)<br><small>Nutrient Cycling in Agroecosystems · with Yanzhi Wang, Chang Liu, Chao Gong, Chenxia Su, Dong Liu, Feifei Zhu and 7 more</small> | Enhanced Weathering | 2 |

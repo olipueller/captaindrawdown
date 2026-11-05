@@ -1,7 +1,7 @@
 ---
 title: "Bonnie G. Waring"
-description: "Bonnie G. Waring, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 41 by activity, 1094 by citations. 110 publications, h-index 27, 4,412 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Bonnie G. Waring, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 41 by activity, 1094 by citations; Europe rank 27 by activity, 322 by citations). 110 publications, h-index 27, 4,412 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Imperial College London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 41 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1094 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 41 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1094 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 322 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>4,412</td></tr>

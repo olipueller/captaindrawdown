@@ -1,7 +1,7 @@
 ---
 title: "Ala’a H. Al‐Muhtaseb"
-description: "Ala’a H. Al‐Muhtaseb, Sultan Qaboos University, Oman. 279 publications, h-index 79, 22,385 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Ala’a H. Al‐Muhtaseb, Sultan Qaboos University, Oman. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3382 by activity, 21 by citations). 279 publications, h-index 79, 22,385 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Sultan Qaboos University</td></tr>
   <tr><th>Country</th><td>Oman</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3382 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 21 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>79</td></tr>
   <tr><th>Citations</th><td>22,385</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
+| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
 | 2022 | [Atmospheric carbon removal via industrial biochar systems: A techno-economic-environmental study](https://doi.org/10.1016/j.jclepro.2022.133660)<br><small>Journal of Cleaner Production · with [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Donal Moran, [Neha Mehta](/cdr-researcher-census/researchers/neha-mehta-a5026278/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/)</small> | Biochar | 196 |
 
 ---

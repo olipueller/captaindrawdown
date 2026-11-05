@@ -1,7 +1,7 @@
 ---
 title: "Joanna I. House"
-description: "Joanna I. House, The University of Bristol, United Kingdom. 162 publications, h-index 57, 33,057 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Joanna I. House, The University of Bristol, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (Europe rank 77 by activity, 48 by citations). 162 publications, h-index 57, 33,057 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/joanna-i-house-a5036206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>The University of Bristol</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 77 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>57</td></tr>
   <tr><th>Citations</th><td>33,057</td></tr>

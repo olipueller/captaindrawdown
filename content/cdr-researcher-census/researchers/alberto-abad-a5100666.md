@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
-description: "Alberto Abad, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 35 by activity, 314 by citations. 283 publications, h-index 75, 21,738 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Alberto Abad, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 35 by activity, 314 by citations; Europe rank 24 by activity, 125 by citations). 283 publications, h-index 75, 21,738 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/alberto-abad-a5100666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto de Carboquímica</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 35 <a href="/data/researchers/beccs/">by activity</a>, rank 314 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 35 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 314 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 125 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>75</td></tr>
   <tr><th>Citations</th><td>21,738</td></tr>

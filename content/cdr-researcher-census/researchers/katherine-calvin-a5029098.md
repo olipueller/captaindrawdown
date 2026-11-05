@@ -1,7 +1,7 @@
 ---
 title: "Katherine Calvin"
-description: "Katherine Calvin, Pacific Northwest National Laboratory, United States. 302 publications, h-index 72, 38,454 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Katherine Calvin, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 384 by activity, 76 by citations). 302 publications, h-index 72, 38,454 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/katherine-calvin-a5029098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Pacific Northwest National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 384 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>72</td></tr>
   <tr><th>Citations</th><td>38,454</td></tr>

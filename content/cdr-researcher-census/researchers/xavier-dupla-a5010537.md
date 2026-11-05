@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
-description: "Xavier Dupla, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 18 by activity, 89 by citations. 24 publications, h-index 7, 276 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Xavier Dupla, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 18 by activity, 89 by citations; Europe rank 11 by activity, 62 by citations). 24 publications, h-index 7, 276 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 18 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 89 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 18 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 89 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 62 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>276</td></tr>

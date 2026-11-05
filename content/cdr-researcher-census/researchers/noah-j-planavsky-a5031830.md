@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
-description: "Noah J. Planavsky, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 1 by activity, 5 by citations. 538 publications, h-index 85, 29,582 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Noah J. Planavsky, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 1 by activity, 5 by citations). 538 publications, h-index 85, 29,582 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 1 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 5 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 1 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>85</td></tr>
   <tr><th>Citations</th><td>29,582</td></tr>
@@ -117,7 +117,7 @@ robots: "index, follow"
 | 2022 | [Ocean Alkalinity Enhancement Through Blue Carbon Ecosystem Restoration](https://doi.org/10.21203/rs.3.rs-1982110/v1)<br><small>Research Square (Research Square) (preprint) · with [Mojtaba Fakhraee](/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Ocean CDR | 1 |
 | 2022 | [Enhanced continental weathering and organic carbon burial following the end-Permian mass extinction](https://doi.org/10.46427/gold2022.8914)<br><small>Goldschmidt2022 abstracts · with Ying Cui, Markus Adloff, Mayala Nsingi, Qingting Wu</small> | Enhanced Weathering | 0 |
 | 2021 | [The kaolinite shuttle links the Great Oxidation and Lomagundi events](https://doi.org/10.1038/s41467-021-23304-8)<br><small>Nature Communications · with Weiduo Hao, Aivo Lepland, Alexander E. Romashkin, [Daniel S. Alessi](/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/), Kaarel Mänd, Kalle Kirsimäe and 4 more</small> | Enhanced Weathering | 36 |
-| 2021 | [INSIGHTS FROM RIVER CHEMISTRY INTO CARBON CAPTURE POTENTIAL THROUGH SURFICIAL ENHANCED ROCK WEATHERING](https://doi.org/10.1130/abs/2021am-370182)<br><small>Abstracts with programs - Geological Society of America · with Shuang Zhang, [Shuang Zhang](/cdr-researcher-census/researchers/shuang-zhang-a5100321/), Joachim Katchinoff, [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), [Tom Reershemius](/cdr-researcher-census/researchers/tom-reershemius-a5008768/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/) and 1 more</small> | Enhanced Weathering | 0 |
+| 2021 | [INSIGHTS FROM RIVER CHEMISTRY INTO CARBON CAPTURE POTENTIAL THROUGH SURFICIAL ENHANCED ROCK WEATHERING](https://doi.org/10.1130/abs/2021am-370182)<br><small>Abstracts with programs - Geological Society of America · with [Shuang Zhang](/cdr-researcher-census/researchers/shuang-zhang-a5100321/), Joachim Katchinoff, [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), [Tom Reershemius](/cdr-researcher-census/researchers/tom-reershemius-a5008768/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/) and 1 more</small> | Enhanced Weathering | 0 |
 | 2021 | [EVALUATING THE BIOGEOCHEMICAL EFFECTS OF CARBON SEQUESTRATION THROUGH ENHANCED ROCK WEATHERING OF CRUSHED BASALT ON URBAN AND FORESTED SOILS IN APPLETON AND BAILEYS HARBOR, WI](https://doi.org/10.1130/abs/2021am-370162)<br><small>Abstracts with programs - Geological Society of America · with Katie Mahorney, Andrew Knudsen, Eleanor Lemley-Fry, Gillian Buckardt, Relena R. Ribbons</small> | Enhanced Weathering | 0 |
 
 ---

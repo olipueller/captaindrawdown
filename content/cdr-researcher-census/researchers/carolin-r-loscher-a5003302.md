@@ -1,7 +1,7 @@
 ---
 title: "Carolin R. Löscher"
-description: "Carolin R. Löscher, SDU, Denmark. 177 publications, h-index 35, 4,540 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Carolin R. Löscher, SDU, Denmark. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 86 by activity, 43 by citations). 177 publications, h-index 35, 4,540 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/carolin-r-loscher-a5003302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>SDU</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 86 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 43 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>4,540</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Tackling the technological, environmental, legal, and economic challenges of ocean alkalinity enhancement: A case study from the Baltic sea](https://openalex.org/W7171843486)<br><small>with Anu Lahteenmäki‐Uutela, Anu Lähteenmäki-Uutela, Jari Silander, Jáchym Judl, Markus Latvala, Markus Latvala and 4 more</small> | Ocean CDR | 0 |
+| 2026 | [Tackling the technological, environmental, legal, and economic challenges of ocean alkalinity enhancement: A case study from the Baltic sea](https://openalex.org/W7171843486)<br><small>with Anu Lahteenmäki‐Uutela, Anu Lähteenmäki-Uutela, Jari Silander, Jáchym Judl, Markus Latvala and 4 more</small> | Ocean CDR | 0 |
 | 2024 | [Response of Marine Primary Producers to Olivine Additions](https://doi.org/10.5194/egusphere-2023-2884)<br><small>preprint · with [Jakob Rønning](/cdr-researcher-census/researchers/jakob-rnning-a5011278/), M. Jacobsen, Zarah J. Kofoed</small> | Ocean CDR | 1 |
 | 2024 | [Assessment of the potential of different alkaline minerals to mitigate ocean acidification and sequester CO2](https://doi.org/10.5194/egusphere-egu24-21742)<br><small>preprint · with [Jakob Rønning](/cdr-researcher-census/researchers/jakob-rnning-a5011278/)</small> | Enhanced Weathering; Ocean CDR | 0 |
 | 2023 | [Assessing the technical aspects of ocean-alkalinity-enhancement approaches](https://doi.org/10.5194/sp-2-oae2023-3-2023)<br><small>State of the Planet · with [Matthew D. Eisaman](/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/), [Andrew W. Dale](/cdr-researcher-census/researchers/andrew-w-dale-a5042262/), [Greg H. Rau](/cdr-researcher-census/researchers/greg-h-rau-a5035528/), [James Campbell](/cdr-researcher-census/researchers/james-campbell-a5089134/), [Laura Bastianini](/cdr-researcher-census/researchers/laura-bastianini-a5025578/), [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) and 5 more</small> | Ocean CDR | 126 |

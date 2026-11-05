@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
-description: "Michael Fuhr, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 48 by activity, 158 by citations. 19 publications, h-index 10, 422 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Michael Fuhr, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 123 by activity, 32 by citations; Europe rank 77 by activity, 24 by citations), Ocean CDR (worldwide rank 48 by activity, 158 by citations; Europe rank 30 by activity, 57 by citations). 19 publications, h-index 10, 422 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 48 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 158 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 123 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 77 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 48 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 158 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 57 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>422</td></tr>

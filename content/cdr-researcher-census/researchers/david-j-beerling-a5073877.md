@@ -1,7 +1,7 @@
 ---
 title: "David J. Beerling"
-description: "David J. Beerling, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 3 by activity, 1 by citations. 515 publications, h-index 99, 35,484 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "David J. Beerling, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3 by activity, 1 by citations; Europe rank 2 by activity, 1 by citations). 515 publications, h-index 99, 35,484 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/david-j-beerling-a5073877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 3 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 3 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 1 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>99</td></tr>
   <tr><th>Citations</th><td>35,484</td></tr>

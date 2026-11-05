@@ -1,7 +1,7 @@
 ---
 title: "Martin Junginger"
-description: "Martin Junginger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 7 by activity, 96 by citations. 327 publications, h-index 68, 15,013 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Martin Junginger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 7 by activity, 96 by citations; Europe rank 7 by activity, 38 by citations). 327 publications, h-index 68, 15,013 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/martin-junginger-a5070296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utrecht University</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 7 <a href="/data/researchers/beccs/">by activity</a>, rank 96 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 7 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>68</td></tr>
   <tr><th>Citations</th><td>15,013</td></tr>

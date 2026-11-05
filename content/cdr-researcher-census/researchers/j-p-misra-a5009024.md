@@ -1,7 +1,7 @@
 ---
 title: "J. P. Misra"
-description: "J. P. Misra, Graphic Era University, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 65 by activity, 2685 by citations. 25 publications, h-index 5, 50 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "J. P. Misra, Graphic Era University, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 65 by activity, 2685 by citations). 25 publications, h-index 5, 50 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/j-p-misra-a5009024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Graphic Era University</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 65 <a href="/data/researchers/beccs/">by activity</a>, rank 2685 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 65 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2685 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>50</td></tr>

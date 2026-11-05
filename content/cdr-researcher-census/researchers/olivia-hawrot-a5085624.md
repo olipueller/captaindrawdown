@@ -1,7 +1,7 @@
 ---
 title: "Olivia Hawrot"
-description: "Olivia Hawrot, Nano Carbon (Poland), Poland. 13 publications, h-index 6, 453 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Olivia Hawrot, Nano Carbon (Poland), Poland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 234 by activity, 67 by citations; Europe rank 92 by activity, 34 by citations), Ocean CDR (worldwide rank 1065 by activity, 75 by citations; Europe rank 452 by activity, 35 by citations). 13 publications, h-index 6, 453 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/olivia-hawrot-a5085624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nano Carbon (Poland)</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 234 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 67 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 92 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1065 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 75 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 452 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>453</td></tr>

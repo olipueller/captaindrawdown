@@ -1,7 +1,7 @@
 ---
 title: "Baoshan Xing"
-description: "Baoshan Xing, University of Massachusetts Amherst, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 45 by activity, 57 by citations. 1049 publications, h-index 148, 88,105 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Baoshan Xing, University of Massachusetts Amherst, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 45 by activity, 57 by citations). 1049 publications, h-index 148, 88,105 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/baoshan-xing-a5035633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Massachusetts Amherst</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 45 <a href="/data/researchers/biochar/">by activity</a>, rank 57 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 45 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 57 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>148</td></tr>
   <tr><th>Citations</th><td>88,105</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [From promotion to oversight: Biochar colloids enhance rhizodegradation of organic pollutants but accelerate soil organic carbon mineralization](https://openalex.org/W7172252392)<br><small>with Chenchen Cui, Fei Lian, Kaiyue Yin, Kaiyue Yin, Xiaojie Pei, Xingyu Li and 1 more</small> | Biochar; Enhanced Weathering | 0 |
+| 2026 | [From promotion to oversight: Biochar colloids enhance rhizodegradation of organic pollutants but accelerate soil organic carbon mineralization](https://openalex.org/W7172252392)<br><small>with Chenchen Cui, Fei Lian, Kaiyue Yin, Xiaojie Pei, Xingyu Li and 1 more</small> | Biochar; Enhanced Weathering | 0 |
 | 2025 | [Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits](https://openalex.org/W4415022950)<br><small>with Yubing Jiao, Chao Jia, Cheng Cheng, Chuifan Zhou, Fengbo Yu, Jason C. White and 15 more</small> | Biochar | 11 |
 | 2024 | [Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil](https://doi.org/10.1021/acs.est.3c09003)<br><small>Environmental Science & Technology · with Haohua He, Chao Peng, Fengwu Zhou, Jie Liu, [Ke Sun](/cdr-researcher-census/researchers/ke-sun-a5066774/), Ming Zhou and 6 more</small> | Biochar | 82 |
 | 2024 | [From Bulk to Nano: Formation, Features, and Functions of Nano-Black Carbon in Biogeochemical Processes](https://doi.org/10.1021/acs.est.4c07027)<br><small>Environmental Science & Technology · with Fei Lian</small> | Biochar | 54 |

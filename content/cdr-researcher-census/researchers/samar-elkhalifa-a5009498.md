@@ -1,7 +1,7 @@
 ---
 title: "Samar Elkhalifa"
-description: "Samar Elkhalifa, Hamad bin Khalifa University, Qatar. 12 publications, h-index 10, 912 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Samar Elkhalifa, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3810 by activity, 40 by citations). 12 publications, h-index 10, 912 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3810 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 40 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>912</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Rüdiger‐A. Eichel"
-description: "Rüdiger‐A. Eichel, Forschungszentrum Jülich, Germany. 803 publications, h-index 58, 14,946 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Rüdiger‐A. Eichel, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 44 by activity, 601 by citations). 803 publications, h-index 58, 14,946 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/rudigera-eichel-a5089732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 44 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 601 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>14,946</td></tr>

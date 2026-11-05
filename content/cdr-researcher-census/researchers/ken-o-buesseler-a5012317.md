@@ -1,7 +1,7 @@
 ---
 title: "Ken O. Buesseler"
-description: "Ken O. Buesseler, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 99 by activity, 540 by citations. 336 publications, h-index 88, 28,062 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Ken O. Buesseler, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 99 by activity, 540 by citations). 336 publications, h-index 88, 28,062 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 99 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 540 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 99 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 540 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>88</td></tr>
   <tr><th>Citations</th><td>28,062</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with Angelicque White, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Christine Klaas, Daniele Bianchi, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/) and 21 more</small> | Ocean CDR | 7 |
+| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with Angelicque White, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Christine Klaas, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/) and 21 more</small> | Ocean CDR | 7 |
 | 2026 | [Dusting the rust off ocean iron fertilization research studies for mCDR](https://doi.org/10.5194/egusphere-egu26-15868)<br><small>with Paul Morris, Fei Chai, Jessica A. Drysdale, Katherine M. Roche, Kilaparti Ramakrishna, Mark L. Wells and 3 more</small> | Ocean CDR | 0 |
 | 2025 | [An upper-mesopelagic-zone carbon budget for the subarctic North Pacific](https://doi.org/10.5194/bg-22-3301-2025)<br><small>Biogeosciences · with Brandon M. Stephens, Alyson E. Santoro, Amy E. Maas, Andrea J. Fassbender, Claudia R. Benitez‐Nelson, Craig A. Carlson and 14 more</small> | Ocean CDR | 7 |
 | 2025 | [Marine CDR science meets social science – organizing the next generation of ocean iron fertilization field studies](https://doi.org/10.5194/oos2025-487)<br><small>preprint · with Fei Chai, Jessica A. Drysdale, Kilaparti Ramakrishna, Mark L. Wells, Paul J. Morris, Sarah R. Smith and 1 more</small> | Ocean CDR | 0 |

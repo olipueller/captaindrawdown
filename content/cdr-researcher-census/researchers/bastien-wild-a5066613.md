@@ -1,7 +1,7 @@
 ---
 title: "Bastien Wild"
-description: "Bastien Wild, Centre National de la Recherche Scientifique, France. 56 publications, h-index 15, 733 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Bastien Wild, Centre National de la Recherche Scientifique, France. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 751 by activity, 69 by citations; Europe rank 340 by activity, 50 by citations). 56 publications, h-index 15, 733 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/bastien-wild-a5066613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centre National de la Recherche Scientifique</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 751 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 340 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 50 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>733</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Habib Ullah"
-description: "Habib Ullah, University of Exeter Department of Engineering, United Kingdom. 169 publications, h-index 52, 8,664 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Habib Ullah, University of Exeter Department of Engineering, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 137 by activity, 26 by citations). 169 publications, h-index 52, 8,664 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/habib-ullah-a5028656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Exeter Department of Engineering</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 137 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 26 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>8,664</td></tr>

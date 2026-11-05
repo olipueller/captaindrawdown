@@ -1,7 +1,7 @@
 ---
 title: "Brendan R. Carter"
-description: "Brendan R. Carter, CICOES, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 33 by activity, 19 by citations. 137 publications, h-index 33, 4,790 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Brendan R. Carter, CICOES, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 33 by activity, 19 by citations). 137 publications, h-index 33, 4,790 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/brendan-r-carter-a5008670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CICOES</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 33 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 19 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 33 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 19 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>4,790</td></tr>

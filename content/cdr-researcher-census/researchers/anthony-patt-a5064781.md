@@ -1,7 +1,7 @@
 ---
 title: "Anthony Patt"
-description: "Anthony Patt, ETH Zurich, Switzerland. 272 publications, h-index 56, 12,458 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Anthony Patt, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 47 by activity, 118 by citations). 272 publications, h-index 56, 12,458 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/anthony-patt-a5064781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 47 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 118 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>56</td></tr>
   <tr><th>Citations</th><td>12,458</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Manish Ram"
-description: "Manish Ram, Lappeenranta University of Technology, Finland. 34 publications, h-index 20, 3,754 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Manish Ram, Lappeenranta University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3035 by activity, 85 by citations; Europe rank 752 by activity, 40 by citations), Cross-cutting CDR (worldwide rank 10637 by activity, 69 by citations). 34 publications, h-index 20, 3,754 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/manish-ram-a5022314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lappeenranta University of Technology</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3035 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 752 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10637 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>3,754</td></tr>

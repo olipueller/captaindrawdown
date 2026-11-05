@@ -1,7 +1,7 @@
 ---
 title: "Taghi Miri"
-description: "Taghi Miri, The University of Birmingham, United Kingdom. 97 publications, h-index 33, 3,909 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Taghi Miri, The University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5387 by activity, 24 by citations; Europe rank 1482 by activity, 11 by citations). 97 publications, h-index 33, 3,909 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/taghi-miri-a5063355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>The University of Birmingham</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5387 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1482 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>3,909</td></tr>

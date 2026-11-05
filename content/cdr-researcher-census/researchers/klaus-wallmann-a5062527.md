@@ -1,7 +1,7 @@
 ---
 title: "Klaus Wallmann"
-description: "Klaus Wallmann, GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel, Germany. 601 publications, h-index 67, 13,938 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Klaus Wallmann, GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 189 by activity, 46 by citations; Europe rank 110 by activity, 34 by citations). 601 publications, h-index 67, 13,938 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/klaus-wallmann-a5062527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 189 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 110 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>67</td></tr>
   <tr><th>Citations</th><td>13,938</td></tr>

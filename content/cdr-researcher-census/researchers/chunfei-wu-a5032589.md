@@ -1,7 +1,7 @@
 ---
 title: "Chunfei Wu"
-description: "Chunfei Wu, Queen's University Belfast, United Kingdom. 303 publications, h-index 79, 19,856 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Chunfei Wu, Queen's University Belfast, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 178 by activity, 23 by citations). 303 publications, h-index 79, 19,856 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/chunfei-wu-a5032589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Queen's University Belfast</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 178 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>79</td></tr>
   <tr><th>Citations</th><td>19,856</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Finn Müller-Hansen"
-description: "Finn Müller-Hansen, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 37 by activity, 435 by citations. 71 publications, h-index 19, 1,979 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Finn Müller-Hansen, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 37 by activity, 435 by citations; Europe rank 25 by activity, 219 by citations). 71 publications, h-index 19, 1,979 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 37 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 435 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 37 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 435 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 219 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,979</td></tr>
@@ -50,7 +50,7 @@ robots: "index, follow"
 | 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439)<br><small>with Sarah Singleton, Abby Lunstrum, [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/) and 13 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153597928)<br><small>with Sarah Singleton, Rob Bellamy</small> | Cross-cutting CDR | 0 |
 | 2026 | [Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166400972)<br><small>with Rob Bellamy</small> | Cross-cutting CDR | 0 |
-| 2026 | [Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal](https://openalex.org/W7172564256)<br><small>with Rob Bellamy, Rob Bellamy, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Christine Merk, [Christine Merk](/cdr-researcher-census/researchers/christine-merk-a5135538/), Livia Fritz and 3 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal](https://openalex.org/W7172564256)<br><small>with Rob Bellamy, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), [Christine Merk](/cdr-researcher-census/researchers/christine-merk-a5135538/), Livia Fritz and 3 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8)<br><small>Nature Communications · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), David Keller and 20 more</small> | Cross-cutting CDR | 20 |
 | 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1)<br><small>Research Square (Research Square) (preprint) · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/) and 18 more</small> | Cross-cutting CDR | 7 |
 | 2024 | [Attention and positive sentiments towards carbon dioxide removal have grown on social media over the past decade](https://doi.org/10.1038/s43247-024-01914-6)<br><small>Communications Earth & Environment · with Tim Repke, [Emily Cox](/cdr-researcher-census/researchers/emily-cox-a5033239/), [Jan C. Minx](/cdr-researcher-census/researchers/jan-c-minx-a5060648/)</small> | Cross-cutting CDR | 6 |

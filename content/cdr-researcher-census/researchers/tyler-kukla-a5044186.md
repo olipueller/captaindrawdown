@@ -1,7 +1,7 @@
 ---
 title: "Tyler Kukla"
-description: "Tyler Kukla, CarbonPlan, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 80 by activity, 1350 by citations. 79 publications, h-index 13, 551 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tyler Kukla, CarbonPlan, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 80 by activity, 1350 by citations). 79 publications, h-index 13, 551 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tyler-kukla-a5044186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CarbonPlan</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 80 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1350 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 80 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1350 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>551</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways](https://doi.org/10.1038/s43247-026-03375-5)<br><small>Communications Earth & Environment · with Brian Buma, Alexandra Klemme, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/) and 17 more</small> | Enhanced Weathering | 5 |
 | 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
-| 2026 | [Moving fast without breaking things: The benefits of preprinting for CDR research](https://openalex.org/W7172533746)<br><small>preprint · with Chris Allen, Chris Allen</small> | Cross-cutting CDR | 0 |
+| 2026 | [Moving fast without breaking things: The benefits of preprinting for CDR research](https://openalex.org/W7172533746)<br><small>preprint · with Chris Allen</small> | Cross-cutting CDR | 0 |
 | 2026 | [Surface Proton Reservoirs Constrain Alkalinity Export from Enhanced Weathering](https://openalex.org/W7203650037)<br><small>with Kate Maher, David B. Rogers, Zach Perzan</small> | Enhanced Weathering | 0 |
 | 2025 | [Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways](https://doi.org/10.21203/rs.3.rs-7040857/v1)<br><small>preprint · with Brian Buma, Alexandra Klemme, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/) and 17 more</small> | Enhanced Weathering | 3 |
 | 2025 | [Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering](https://doi.org/10.3389/fclim.2025.1582786)<br><small>Frontiers in Climate · with Rebecca B. Neumann, Shuang Zhang, David Butman</small> | Enhanced Weathering; Ocean CDR | 2 |

@@ -1,7 +1,7 @@
 ---
 title: "Dominic C.Y. Foo"
-description: "Dominic C.Y. Foo, University of Nottingham - Malaysia Campus, Malaysia. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 99 by activity, 1619 by citations. 422 publications, h-index 53, 9,785 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Dominic C.Y. Foo, University of Nottingham - Malaysia Campus, Malaysia. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 99 by activity, 1619 by citations). 422 publications, h-index 53, 9,785 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/dominic-cy-foo-a5054417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>University of Nottingham - Malaysia Campus</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 99 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 1619 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 99 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1619 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>9,785</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Indirect carbon emissions of enhanced weathering in Malaysia](https://doi.org/10.20517/cf.2025.54)<br><small>Carbon Footprints · with Aviso Kathleen, [Kathleen B. Aviso](/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/), Ivan Henderson V. Gue, Ivan Henderson V. Gue, [Maria Victoria Migo-Sumagang](/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/), [Raymond R. Tan](/cdr-researcher-census/researchers/raymond-r-tan-a5016388/) and 2 more</small> | Enhanced Weathering | 0 |
+| 2026 | [Indirect carbon emissions of enhanced weathering in Malaysia](https://doi.org/10.20517/cf.2025.54)<br><small>Carbon Footprints · with Aviso Kathleen, [Kathleen B. Aviso](/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/), Ivan Henderson V. Gue, [Maria Victoria Migo-Sumagang](/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/), [Raymond R. Tan](/cdr-researcher-census/researchers/raymond-r-tan-a5016388/) and 2 more</small> | Enhanced Weathering | 0 |
 | 2026 | [Algebraic and automated targeting for inter-region problems in terrestrial carbon management network](https://openalex.org/W7214065123)<br><small>with Jie Shan Wong, Zhe Tao Woon, Yin Ling Tan</small> | Enhanced Weathering | 0 |
 | 2025 | [A fuzzy linear program for optimal allocation of carbon credits in multi-product firms](https://doi.org/10.1016/j.clet.2025.101009)<br><small>Cleaner Engineering and Technology · with [Kathleen B. Aviso](/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/), [Maria Victoria Migo-Sumagang](/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/), [Raymond R. Tan](/cdr-researcher-census/researchers/raymond-r-tan-a5016388/)</small> | Cross-cutting CDR | 2 |
 | 2024 | [Process integration methods for multi-period carbon trading](https://doi.org/10.1016/j.jclepro.2024.141131)<br><small>Journal of Cleaner Production · with [Maria Victoria Migo-Sumagang](/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/), [Kathleen B. Aviso](/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/), Santanu Bandyopadhyay, [Raymond R. Tan](/cdr-researcher-census/researchers/raymond-r-tan-a5016388/)</small> | Cross-cutting CDR | 9 |

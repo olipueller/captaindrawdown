@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
-description: "Jan Willem van Groenigen, Wageningen University & Research, Netherlands. 260 publications, h-index 64, 18,126 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jan Willem van Groenigen, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 108 by activity, 83 by citations). 260 publications, h-index 64, 18,126 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Wageningen University & Research</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 108 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>64</td></tr>
   <tr><th>Citations</th><td>18,126</td></tr>

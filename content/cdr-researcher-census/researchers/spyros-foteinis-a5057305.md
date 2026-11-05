@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
-description: "Spyros Foteinis, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 13 by activity, 48 by citations. 123 publications, h-index 37, 3,917 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Spyros Foteinis, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 13 by activity, 48 by citations; Europe rank 8 by activity, 24 by citations), DAC (worldwide rank 125 by activity, 63 by citations; Europe rank 46 by activity, 32 by citations), Enhanced Weathering (worldwide rank 324 by activity, 88 by citations). 123 publications, h-index 37, 3,917 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Heriot-Watt University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 13 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 48 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 13 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 48 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 125 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 324 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>37</td></tr>
   <tr><th>Citations</th><td>3,917</td></tr>

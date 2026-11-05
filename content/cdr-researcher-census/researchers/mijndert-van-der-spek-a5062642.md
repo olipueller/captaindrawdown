@@ -1,7 +1,7 @@
 ---
 title: "Mijndert van der Spek"
-description: "Mijndert van der Spek, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 15 by activity, 99 by citations; Cross-cutting CDR: rank 69 by activity, 551 by citations. 126 publications, h-index 26, 3,430 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mijndert van der Spek, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 15 by activity, 99 by citations; Europe rank 12 by activity, 47 by citations), Cross-cutting CDR (worldwide rank 69 by activity, 551 by citations; Europe rank 45 by activity, 261 by citations). 126 publications, h-index 26, 3,430 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Heriot-Watt University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 15 <a href="/data/researchers/dac/">by activity</a>, rank 99 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 69 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 551 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 15 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 69 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 551 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 261 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>3,430</td></tr>

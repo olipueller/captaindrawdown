@@ -1,7 +1,7 @@
 ---
 title: "Krishna R. Reddy"
-description: "Krishna R. Reddy, University of Illinois Chicago, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 9 by activity, 2069 by citations. 597 publications, h-index 75, 20,361 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Krishna R. Reddy, University of Illinois Chicago, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 9 by activity, 2069 by citations). 597 publications, h-index 75, 20,361 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/krishna-r-reddy-a5017424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Illinois Chicago</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 9 <a href="/data/researchers/biochar/">by activity</a>, rank 2069 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 9 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 2069 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>75</td></tr>
   <tr><th>Citations</th><td>20,361</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Novel Biogeochemical Cover for Landfill Gas Mitigation: Insights into Microbial Diversity](https://doi.org/10.1061/9780784486757.025)<br><small>with Gaurav Verma, Gaurav Verma</small> | Biochar | 0 |
+| 2026 | [Novel Biogeochemical Cover for Landfill Gas Mitigation: Insights into Microbial Diversity](https://doi.org/10.1061/9780784486757.025)<br><small>with Gaurav Verma</small> | Biochar | 0 |
 | 2025 | [Investigation of biogeochemical landfill covers incorporating different biochars and alkaline industrial byproducts for landfill gas mitigation: A column experiment study](https://doi.org/10.1016/j.scitotenv.2025.179192)<br><small>The Science of The Total Environment · with Gaurav Verma, Stefan J. Green</small> | Biochar | 9 |
 | 2025 | [Integrated resiliency and sustainability assessment of biogeochemical cover system to mitigate landfill gas emissions](https://doi.org/10.1016/j.wasman.2025.115200)<br><small>Waste Management · with Gaurav Verma</small> | Biochar | 3 |
 | 2025 | [Development of Novel Chitosan–Biochar–Bentonite Composite (CBBC) for Contaminant Barriers](https://doi.org/10.1061/9780784486184.022)<br><small>with Banuchandra Nagaraja, Angelica M. Palomino</small> | Biochar | 2 |

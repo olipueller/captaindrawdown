@@ -1,7 +1,7 @@
 ---
 title: "Hailong Li"
-description: "Hailong Li, Central South University, China. 657 publications, h-index 89, 29,405 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Hailong Li, Central South University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 935 by activity, 91 by citations). 657 publications, h-index 89, 29,405 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/hailong-li-a5100440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Central South University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 935 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>89</td></tr>
   <tr><th>Citations</th><td>29,405</td></tr>
@@ -52,7 +53,7 @@ robots: "index, follow"
 | 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471)<br><small>preprint · with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), Jan Škvařil, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang, Kåre Gustafsson</small> | BECCS | 0 |
 | 2022 | [Machine learning predicting and engineering the yield, N content, and specific surface area of biochar derived from pyrolysis of biomass](https://doi.org/10.1007/s42773-022-00183-w)<br><small>Biochar · with [Lijian Leng](/cdr-researcher-census/researchers/lijian-leng-a5016494/), Hao Zhan, Haoyi Peng, Jianping Yang, Lihong Yang, [Weijin Zhang](/cdr-researcher-census/researchers/weijin-zhang-a5103156/) and 4 more</small> | Biochar | 146 |
 | 2022 | [Machine learning assisted predicting and engineering specific surface area and total pore volume of biochar](https://doi.org/10.1016/j.biortech.2022.128417)<br><small>Bioresource Technology · with Haoyi Peng, Lihong Yang, [Weijin Zhang](/cdr-researcher-census/researchers/weijin-zhang-a5103156/), [Zejian Ai](/cdr-researcher-census/researchers/zejian-ai-a5052392/), [Zequn Yang](/cdr-researcher-census/researchers/zequn-yang-a5103118/), [Lijian Leng](/cdr-researcher-census/researchers/lijian-leng-a5016494/)</small> | Biochar | 135 |
-| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Jinyue Yan, KÃ¥re Gustafsson, Kåre Gustafsson, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 0 |
+| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Jinyue Yan, Kåre Gustafsson, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 0 |
 
 ---
 

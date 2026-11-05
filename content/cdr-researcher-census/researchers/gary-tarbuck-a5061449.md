@@ -1,7 +1,7 @@
 ---
 title: "Gary Tarbuck"
-description: "Gary Tarbuck, University College London, United Kingdom. 10 publications, h-index 8, 1,301 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Gary Tarbuck, University College London, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3365 by activity, 95 by citations). 10 publications, h-index 8, 1,301 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/gary-tarbuck-a5061449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University College London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 3365 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>1,301</td></tr>

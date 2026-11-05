@@ -1,7 +1,7 @@
 ---
 title: "Francesco Sabatino"
-description: "Francesco Sabatino, Eindhoven University of Technology, Netherlands. 7 publications, h-index 6, 741 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Francesco Sabatino, Eindhoven University of Technology, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 925 by activity, 30 by citations; Europe rank 297 by activity, 22 by citations). 7 publications, h-index 6, 741 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/francesco-sabatino-a5010085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Eindhoven University of Technology</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 925 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 297 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 22 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>741</td></tr>

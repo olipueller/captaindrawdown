@@ -1,7 +1,7 @@
 ---
 title: "Alan T. Critchley"
-description: "Alan T. Critchley, Verschuren Centre for Sustainability in Energy and Environment, , Canada. 258 publications, h-index 62, 14,690 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Alan T. Critchley, Verschuren Centre for Sustainability in Energy and Environment, , Canada. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5394 by activity, 100 by citations). 258 publications, h-index 62, 14,690 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/alan-t-critchley-a5005360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Verschuren Centre for Sustainability in Energy and Environment, </td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5394 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 100 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>62</td></tr>
   <tr><th>Citations</th><td>14,690</td></tr>

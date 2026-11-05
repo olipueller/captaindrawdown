@@ -1,7 +1,7 @@
 ---
 title: "Zainab T. Al‐Sharify"
-description: "Zainab T. Al‐Sharify, Al Hikma university college, IQ. 139 publications, h-index 30, 3,624 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Zainab T. Al‐Sharify, Al Hikma university college, IQ. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5388 by activity, 25 by citations). 139 publications, h-index 30, 3,624 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Al Hikma university college</td></tr>
   <tr><th>Country</th><td>IQ</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5388 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,624</td></tr>

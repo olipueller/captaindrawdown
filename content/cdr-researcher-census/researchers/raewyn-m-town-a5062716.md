@@ -1,7 +1,7 @@
 ---
 title: "Raewyn M. Town"
-description: "Raewyn M. Town, Universiteit Antwerpen, Belgium. 195 publications, h-index 37, 4,766 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Raewyn M. Town, Universiteit Antwerpen, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 455 by activity, 45 by citations), Enhanced Weathering (worldwide rank 574 by activity, 86 by citations). 195 publications, h-index 37, 4,766 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/raewyn-m-town-a5062716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universiteit Antwerpen</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 455 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 574 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>37</td></tr>
   <tr><th>Citations</th><td>4,766</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Abigail González-Díaz"
-description: "Abigail González-Díaz, Instituto de Investigaciones Eléctricas, Mexico. 32 publications, h-index 14, 1,174 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Abigail González-Díaz, Instituto de Investigaciones Eléctricas, Mexico. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4990 by activity, 56 by citations). 32 publications, h-index 14, 1,174 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto de Investigaciones Eléctricas</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4990 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 56 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,174</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Sorption direct air capture with CO2 utilization](https://doi.org/10.1016/j.pecs.2022.101069)<br><small>Progress in Energy and Combustion Science · with [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/), [Maria Fernanda Rojas Michaga](/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/), [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5016842/), [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5051397/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/) and 3 more</small> | DAC | 323 |
+| 2023 | [Sorption direct air capture with CO2 utilization](https://doi.org/10.1016/j.pecs.2022.101069)<br><small>Progress in Energy and Combustion Science · with [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/), [Maria Fernanda Rojas Michaga](/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/), [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5016842/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/) and 3 more</small> | DAC | 323 |
 
 ---
 

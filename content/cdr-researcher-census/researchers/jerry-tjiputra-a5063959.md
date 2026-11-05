@@ -1,7 +1,7 @@
 ---
 title: "Jerry Tjiputra"
-description: "Jerry Tjiputra, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 97 by activity, 2686 by citations. 340 publications, h-index 53, 13,812 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jerry Tjiputra, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 97 by activity, 2686 by citations). 340 publications, h-index 53, 13,812 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>NORCE Research AS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 97 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 2686 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 97 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2686 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>13,812</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
-description: "Mojtaba Fakhraee, University of Connecticut, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 100 by activity, 115 by citations. 70 publications, h-index 21, 1,440 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mojtaba Fakhraee, University of Connecticut, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 100 by activity, 115 by citations). 70 publications, h-index 21, 1,440 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Connecticut</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 100 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 115 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 100 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 115 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>1,440</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Coupling Acid Neutralization and Resource Recovery to Scale Ocean Alkalinity Enhancement](https://openalex.org/W7163188831)<br><small>with Rocco D’Ascanio, Joachim Katchinoff, [Matthew D. Eisaman](/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/), Nicolas Theunissen, Noah J. Planavsky, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Ocean CDR | 3 |
+| 2026 | [Coupling Acid Neutralization and Resource Recovery to Scale Ocean Alkalinity Enhancement](https://openalex.org/W7163188831)<br><small>with Rocco D’Ascanio, Joachim Katchinoff, [Matthew D. Eisaman](/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/), Nicolas Theunissen, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Ocean CDR | 3 |
 | 2026 | [Seaweed farms enhance alkalinity production and carbon capture](https://doi.org/10.1038/s44458-025-00004-8)<br><small>Communications Sustainability · with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Ocean CDR | 1 |
 | 2026 | [In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems](https://doi.org/10.1038/s43247-026-03342-0)<br><small>Communications Earth & Environment · with Kohen W. Bauer, A. K. Tune, Alex L. Slonimer, Alex Lupin, Alexander L. Slonimer, Alison K. Tune and 5 more</small> | Ocean CDR | 1 |
 | 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2)<br><small>with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Beck Woollen, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Ella Milliken](/cdr-researcher-census/researchers/ella-milliken-a5117487/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Biochar; Enhanced Weathering | 0 |

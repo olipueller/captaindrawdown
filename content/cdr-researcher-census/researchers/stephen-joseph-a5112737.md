@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph"
-description: "Stephen Joseph, UNSW Sydney, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 28 by activity, 275 by citations. 135 publications, h-index 64, 23,745 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Stephen Joseph, UNSW Sydney, Australia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 28 by activity, 275 by citations). 135 publications, h-index 64, 23,745 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/stephen-joseph-a5112737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>UNSW Sydney</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 28 <a href="/data/researchers/biochar/">by activity</a>, rank 275 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 28 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 275 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>64</td></tr>
   <tr><th>Citations</th><td>23,745</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils](https://doi.org/10.21203/rs.3.rs-8691776/v1)<br><small>preprint · with Batool Albar, Adair Gallo, Adair Gallo, Andreia S.F. Farinha, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), George Harrison and 5 more</small> | Biochar | 0 |
+| 2026 | [Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils](https://doi.org/10.21203/rs.3.rs-8691776/v1)<br><small>preprint · with Batool Albar, Adair Gallo, Andreia S.F. Farinha, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), George Harrison and 5 more</small> | Biochar | 0 |
 | 2025 | [Aeration-assisted removal of tetracycline from wastewater by biochar: mechanisms and cost-benefit analysis](https://doi.org/10.1016/j.envres.2025.122407)<br><small>Environmental Research · with Lili Liu, H. Wang, Lei Ke, Ming Zhang, [Shengdao Shan](/cdr-researcher-census/researchers/shengdao-shan-a5110527/), Xuan Gao and 1 more</small> | Biochar | 20 |
 | 2025 | [Biochar Permanence—A Policy Commentary](https://doi.org/10.1111/gcbb.70092)<br><small>GCB Bioenergy · with [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/), [Andrew R. Zimmerman](/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), Cornélia Rumpel and 7 more</small> | Biochar | 16 |
 | 2025 | [Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term](https://doi.org/10.1111/gcbb.70021)<br><small>GCB Bioenergy · with Negar Omidvar, Apsara Amarasinghe, Brittany Elliott, D. K. R. P. L. Dissanayake, Frédérique Reverchon, Hongdou Liu and 8 more</small> | Biochar | 13 |

@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Babin"
-description: "Alexandre Babin, University of British Columbia, Canada. 11 publications, h-index 7, 501 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Alexandre Babin, University of British Columbia, Canada. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3811 by activity, 80 by citations). 11 publications, h-index 7, 501 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/alexandre-babin-a5081732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of British Columbia</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3811 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>501</td></tr>

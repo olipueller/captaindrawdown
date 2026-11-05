@@ -1,7 +1,7 @@
 ---
 title: "Thorben Amann"
-description: "Thorben Amann, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 34 by activity, 15 by citations. 72 publications, h-index 17, 3,943 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Thorben Amann, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 34 by activity, 15 by citations; Europe rank 23 by activity, 12 by citations), Biochar (Europe rank 42 by activity, 1048 by citations). 72 publications, h-index 17, 3,943 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/thorben-amann-a5051923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 34 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 15 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 34 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 15 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 12 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 42 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1048 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>3,943</td></tr>

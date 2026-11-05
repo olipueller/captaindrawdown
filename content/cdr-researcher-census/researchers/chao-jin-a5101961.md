@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
-description: "Chao Jin, Tianjin University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 73 by activity, 392 by citations. 170 publications, h-index 39, 5,551 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Chao Jin, Tianjin University, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 73 by activity, 392 by citations). 170 publications, h-index 39, 5,551 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/chao-jin-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Tianjin University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 73 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 392 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 73 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 392 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
   <tr><th>Citations</th><td>5,551</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain](https://openalex.org/W7167049809)<br><small>with [Jeffrey Dankwa Ampah](/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/), David R. Morrow, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Haifeng Liu](/cdr-researcher-census/researchers/haifeng-liu-a5100325/), Humphrey Adun, [Humphrey Adun](/cdr-researcher-census/researchers/humphrey-adun-a5027923/) and 9 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain](https://openalex.org/W7167049809)<br><small>with [Jeffrey Dankwa Ampah](/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/), David R. Morrow, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Haifeng Liu](/cdr-researcher-census/researchers/haifeng-liu-a5100325/), [Humphrey Adun](/cdr-researcher-census/researchers/humphrey-adun-a5027923/) and 9 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [Scaling carbon removal without delaying emission reductions](https://doi.org/10.1038/s44359-025-00081-x)<br><small>Nature Reviews Clean Technology · with [Jeffrey Dankwa Ampah](/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/), David R. Morrow, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Felix Schenuit](/cdr-researcher-census/researchers/felix-schenuit-a5054371/), [Haifeng Liu](/cdr-researcher-census/researchers/haifeng-liu-a5100325/), [Humphrey Adun](/cdr-researcher-census/researchers/humphrey-adun-a5027923/) and 4 more</small> | Cross-cutting CDR | 8 |
 | 2025 | [Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets](https://doi.org/10.31223/x5g44n)<br><small>preprint · with [Jeffrey Dankwa Ampah](/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/), [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Haifeng Liu](/cdr-researcher-census/researchers/haifeng-liu-a5100325/), [Humphrey Adun](/cdr-researcher-census/researchers/humphrey-adun-a5027923/), [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), Michael O. Dioha and 10 more</small> | Cross-cutting CDR | 0 |
 | 2024 | [Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions](https://doi.org/10.1021/acs.est.3c06866)<br><small>Environmental Science & Technology · with [Jeffrey Dankwa Ampah](/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/), David R. Morrow, [Haifeng Liu](/cdr-researcher-census/researchers/haifeng-liu-a5100325/), [Humphrey Adun](/cdr-researcher-census/researchers/humphrey-adun-a5027923/), [Sandylove Afrane](/cdr-researcher-census/researchers/sandylove-afrane-a5021147/), [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/)</small> | Cross-cutting CDR | 52 |

@@ -1,7 +1,7 @@
 ---
 title: "T. Alan Hatton"
-description: "T. Alan Hatton, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 59 by activity, 1408 by citations. 606 publications, h-index 109, 41,062 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "T. Alan Hatton, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 59 by activity, 1408 by citations). 606 publications, h-index 109, 41,062 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/t-alan-hatton-a5046348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Massachusetts Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 59 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 1408 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 59 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1408 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>109</td></tr>
   <tr><th>Citations</th><td>41,062</td></tr>

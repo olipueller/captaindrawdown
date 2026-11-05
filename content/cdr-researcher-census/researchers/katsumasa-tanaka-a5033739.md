@@ -1,7 +1,7 @@
 ---
 title: "Katsumasa Tanaka"
-description: "Katsumasa Tanaka, LSCE, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 52 by activity, 268 by citations. 352 publications, h-index 33, 6,317 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Katsumasa Tanaka, LSCE, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 52 by activity, 268 by citations; Europe rank 37 by activity, 107 by citations), Enhanced Weathering (worldwide rank 411 by activity, 55 by citations; Europe rank 198 by activity, 40 by citations). 352 publications, h-index 33, 6,317 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>LSCE</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 52 <a href="/data/researchers/beccs/">by activity</a>, rank 268 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 52 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 268 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 107 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 411 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 198 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>6,317</td></tr>
@@ -48,7 +49,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects](https://openalex.org/W7165113393)<br><small>with Daniel Johansson, Didier Hauglustaine, Marianne T. Lund, [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/), Philippe Bousquet, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/) and 5 more</small> | Cross-cutting CDR | 1 |
-| 2026 | [The phosphorus bottleneck in bioenergy-based CDR – and how enhanced rock weathering could break it](https://doi.org/10.5194/egusphere-egu26-5521)<br><small>with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Ibrahim Fayad, Isabel Martinez-Cano, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), Wei Li, [Wei Li](/cdr-researcher-census/researchers/wei-li-a5100318/) and 2 more</small> | Enhanced Weathering | 0 |
+| 2026 | [The phosphorus bottleneck in bioenergy-based CDR – and how enhanced rock weathering could break it](https://doi.org/10.5194/egusphere-egu26-5521)<br><small>with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Ibrahim Fayad, Isabel Martinez-Cano, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), [Wei Li](/cdr-researcher-census/researchers/wei-li-a5100318/) and 2 more</small> | Enhanced Weathering | 0 |
 | 2025 | [Leveraging ecosystems responses to enhanced rock weathering in mitigation scenarios](https://doi.org/10.1038/s41467-025-58284-6)<br><small>Nature Communications · with Yann Gaucher, Daniel Johansson, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | Enhanced Weathering | 14 |
 | 2025 | [Spaces of anthropogenic CO2 emissions compatible with climate boundaries](https://doi.org/10.1038/s41558-025-02460-5)<br><small>Nature Climate Change · with Thomas Bossy, Franck Lecocq, Philippe Bousquet, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), [Thomas Gasser](/cdr-researcher-census/researchers/thomas-gasser-a5062044/)</small> | Cross-cutting CDR | 6 |
 | 2025 | [Potential and costs required for methane removal to compete with BECCS as a mitigation option](https://doi.org/10.1088/1748-9326/ada813)<br><small>Environmental Research Letters · with Yann Gaucher, Daniel Johansson, [Oliviér Boucher](/cdr-researcher-census/researchers/olivier-boucher-a5077051/), [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | BECCS | 3 |

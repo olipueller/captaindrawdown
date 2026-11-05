@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
-description: "Hirdan Katarina de Medeiros Costa, Universidade de São Paulo, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 58 by activity, 643 by citations. 57 publications, h-index 7, 879 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Hirdan Katarina de Medeiros Costa, Universidade de São Paulo, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 58 by activity, 643 by citations). 57 publications, h-index 7, 879 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade de São Paulo</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 58 <a href="/data/researchers/beccs/">by activity</a>, rank 643 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 58 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 643 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>879</td></tr>

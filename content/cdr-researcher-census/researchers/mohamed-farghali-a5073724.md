@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Farghali"
-description: "Mohamed Farghali, Kobe University, Japan. 75 publications, h-index 44, 10,913 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Mohamed Farghali, Kobe University, Japan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 606 by activity, 9 by citations), Biochar (worldwide rank 1117 by activity, 16 by citations). 75 publications, h-index 44, 10,913 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mohamed-farghali-a5073724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kobe University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 606 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 1117 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 16 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>44</td></tr>
   <tr><th>Citations</th><td>10,913</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Khalid F. Almutairi"
-description: "Khalid F. Almutairi, King Saud University, Saudi Arabia. 134 publications, h-index 27, 2,833 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Khalid F. Almutairi, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25898 by activity, 71 by citations). 134 publications, h-index 27, 2,833 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>King Saud University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 25898 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 71 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>2,833</td></tr>

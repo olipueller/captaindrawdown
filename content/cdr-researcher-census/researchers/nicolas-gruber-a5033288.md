@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Gruber"
-description: "Nicolas Gruber, ETH Zürich, Switzerland. 633 publications, h-index 108, 68,954 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Nicolas Gruber, ETH Zürich, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 378 by activity, 28 by citations; Europe rank 161 by activity, 14 by citations). 633 publications, h-index 108, 68,954 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/nicolas-gruber-a5033288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zürich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 378 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 161 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>108</td></tr>
   <tr><th>Citations</th><td>68,954</td></tr>

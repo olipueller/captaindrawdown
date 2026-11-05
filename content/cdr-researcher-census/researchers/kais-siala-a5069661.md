@@ -1,7 +1,7 @@
 ---
 title: "Kais Siala"
-description: "Kais Siala, Technical University of Munich, Germany. 47 publications, h-index 11, 1,170 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Kais Siala, Technical University of Munich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3033 by activity, 23 by citations; Europe rank 750 by activity, 16 by citations). 47 publications, h-index 11, 1,170 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/kais-siala-a5069661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Technical University of Munich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3033 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 750 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 16 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>1,170</td></tr>

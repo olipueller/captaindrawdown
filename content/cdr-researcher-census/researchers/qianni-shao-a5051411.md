@@ -1,7 +1,7 @@
 ---
 title: "Qianni Shao"
-description: "Qianni Shao, Anhui University of Technology, China. 3 publications, h-index 3, 781 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Qianni Shao, Anhui University of Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23846 by activity, 46 by citations). 3 publications, h-index 3, 781 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/qianni-shao-a5051411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Anhui University of Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23846 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>781</td></tr>

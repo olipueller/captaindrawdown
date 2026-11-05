@@ -1,7 +1,7 @@
 ---
 title: "Liam A. Bullock"
-description: "Liam A. Bullock, Instituto Geológico y Minero de España, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 33 by activity, 58 by citations. 57 publications, h-index 15, 631 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Liam A. Bullock, Instituto Geológico y Minero de España, Spain. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 33 by activity, 58 by citations; Europe rank 22 by activity, 42 by citations). 57 publications, h-index 15, 631 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/liam-a-bullock-a5076444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto Geológico y Minero de España</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 33 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 58 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 33 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 58 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>631</td></tr>

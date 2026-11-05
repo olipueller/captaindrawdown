@@ -1,7 +1,7 @@
 ---
 title: "Narcisa Smječanin Omerbegović"
-description: "Narcisa Smječanin Omerbegović, University of Sarajevo, BA. 11 publications, h-index 2, 181 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Narcisa Smječanin Omerbegović, University of Sarajevo, BA. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 504 by activity, 91 by citations). 11 publications, h-index 2, 181 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sarajevo</td></tr>
   <tr><th>Country</th><td>BA</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 504 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>181</td></tr>

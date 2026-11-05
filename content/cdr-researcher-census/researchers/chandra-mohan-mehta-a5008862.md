@@ -1,7 +1,7 @@
 ---
 title: "Chandra Mohan Mehta"
-description: "Chandra Mohan Mehta, Lovely Professional University, India. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 92 by activity, 11114 by citations. 65 publications, h-index 12, 1,064 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Chandra Mohan Mehta, Lovely Professional University, India. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 92 by activity, 11114 by citations). 65 publications, h-index 12, 1,064 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/chandra-mohan-mehta-a5008862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lovely Professional University</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 92 <a href="/data/researchers/biochar/">by activity</a>, rank 11114 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 92 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 11114 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>1,064</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Biochar-based integrated nutrient management improves soil quality and biological functioning in a rice–wheat cropping system](https://openalex.org/W7162249649)<br><small>with Anita Jaswal, Arshdeep Singh, Arun Kumar, J. Jayanthi</small> | Biochar | 0 |
-| 2026 | [Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains](https://openalex.org/W7166156547)<br><small>with Gaurav Sharma, Gaurav Sharma, Eiji Nishihara, Kazuyuki Inubushi, Maqsood Ul Hussan, Munirah Abdullah Al-Dosary and 6 more</small> | Biochar | 0 |
+| 2026 | [Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains](https://openalex.org/W7166156547)<br><small>with Gaurav Sharma, Eiji Nishihara, Kazuyuki Inubushi, Maqsood Ul Hussan, Munirah Abdullah Al-Dosary and 6 more</small> | Biochar | 0 |
 | 2025 | [A comparative study of fresh and residual biochar effects on wheat growth and yield metrics](https://doi.org/10.18393/ejss.1647314)<br><small>EURASIAN JOURNAL OF SOIL SCIENCE (EJSS) · with Gaurav Sharma, Diptanu Banik, Eiji Nishihara, Kazuyuki Inubushi, Prabir K. Patra, Sachiko Hayashida and 3 more</small> | Biochar | 6 |
 | 2025 | [A comparative study of fresh and residual biochar effects on wheat growth and yield metrics](https://openalex.org/W7145396502)<br><small>with Sharma Gaurav, Banik Diptanu, Hayashida Sachiko, Inubushi Kazuyuki, Minkina Tatiana, Nishihara Eiji and 3 more</small> | Biochar | 0 |
 | 2025 | [A comparative study of fresh and residual biochar effects on wheat growth and yield metrics](https://openalex.org/W7208327735)<br><small>with Sharma Gaurav, Banik Diptanu, Chandra M. Mehta, Hayashida Sachiko, Inubushi Kazuyuki, Minkina Tatiana and 4 more</small> | Biochar | 0 |

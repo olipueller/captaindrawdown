@@ -1,7 +1,7 @@
 ---
 title: "Shu Zhang"
-description: "Shu Zhang, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 83 by activity, 835 by citations. 908 publications, h-index 81, 27,361 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Shu Zhang, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 83 by activity, 835 by citations). 908 publications, h-index 81, 27,361 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/shu-zhang-a5100452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanjing Forestry University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 83 <a href="/data/researchers/biochar/">by activity</a>, rank 835 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 83 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 835 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>81</td></tr>
   <tr><th>Citations</th><td>27,361</td></tr>

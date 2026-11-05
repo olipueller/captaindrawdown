@@ -1,7 +1,7 @@
 ---
 title: "Michaela A. Dippold"
-description: "Michaela A. Dippold, University of Göttingen, Germany. 304 publications, h-index 51, 7,798 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Michaela A. Dippold, University of Göttingen, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 38 by activity, 1943 by citations). 304 publications, h-index 51, 7,798 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/michaela-a-dippold-a5054730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Göttingen</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 38 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1943 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>7,798</td></tr>

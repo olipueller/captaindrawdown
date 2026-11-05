@@ -1,7 +1,7 @@
 ---
 title: "Fausto Gallucci"
-description: "Fausto Gallucci, ZEFIRA BV, Netherlands. 592 publications, h-index 71, 16,935 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Fausto Gallucci, ZEFIRA BV, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4108 by activity, 33 by citations; Europe rank 1069 by activity, 25 by citations). 592 publications, h-index 71, 16,935 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/fausto-gallucci-a5085988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ZEFIRA BV</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4108 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 33 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1069 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>71</td></tr>
   <tr><th>Citations</th><td>16,935</td></tr>

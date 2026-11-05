@@ -1,7 +1,7 @@
 ---
 title: "Ella Milliken"
-description: "Ella Milliken, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 39 by activity, 1596 by citations. 16 publications, h-index 1, 7 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ella Milliken, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 39 by activity, 1596 by citations). 16 publications, h-index 1, 7 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ella-milliken-a5117487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,13 +29,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 39 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1596 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 39 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1596 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>7</td></tr>
   <tr><th>Publications</th><td>16</td></tr>
   <tr><th>Share of publications on CDR</th><td>62.5%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0005-6996-3694">ORCID</a> · <a href="https://openalex.org/A5117487314">OpenAlex</a></td></tr>
 </table>
 

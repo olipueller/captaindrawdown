@@ -1,7 +1,7 @@
 ---
 title: "Vasilis Fthenakis"
-description: "Vasilis Fthenakis, Columbia University, United States. 316 publications, h-index 61, 13,615 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Vasilis Fthenakis, Columbia University, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10642 by activity, 74 by citations). 316 publications, h-index 61, 13,615 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/vasilis-fthenakis-a5091528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Columbia University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10642 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>61</td></tr>
   <tr><th>Citations</th><td>13,615</td></tr>

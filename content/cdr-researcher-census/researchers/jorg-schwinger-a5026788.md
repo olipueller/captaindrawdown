@@ -1,7 +1,7 @@
 ---
 title: "Jörg Schwinger"
-description: "Jörg Schwinger, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 26 by activity, 878 by citations; Ocean CDR: rank 29 by activity, 184 by citations. 235 publications, h-index 47, 24,595 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jörg Schwinger, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 26 by activity, 878 by citations; Europe rank 16 by activity, 368 by citations), Ocean CDR (worldwide rank 29 by activity, 184 by citations; Europe rank 18 by activity, 73 by citations). 235 publications, h-index 47, 24,595 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/jorg-schwinger-a5026788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>NORCE Research AS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 26 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 878 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 29 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 184 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 26 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 878 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 368 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 29 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 184 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 18 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 73 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>24,595</td></tr>

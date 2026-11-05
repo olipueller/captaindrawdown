@@ -1,7 +1,7 @@
 ---
 title: "Eli Mitchell-Larson"
-description: "Eli Mitchell-Larson, University of Oxford, United Kingdom. 11 publications, h-index 4, 1,331 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Eli Mitchell-Larson, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1018 by activity, 4 by citations; Europe rank 500 by activity, 2 by citations). 11 publications, h-index 4, 1,331 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>University of Oxford</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1018 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 500 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 2 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>1,331</td></tr>
@@ -47,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2022 | [Net Zero: Science, Origins, and Implications](https://doi.org/10.1146/annurev-environ-112320-105050)<br><small>Annual Review of Environment and Resources · with [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/), Cécile Girardin, [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), [Pierre Friedlingstein](/cdr-researcher-census/researchers/pierre-friedlingstein-a5006387/), Stuart Jenkins, Yadvinder Malhi and 1 more</small> | Cross-cutting CDR | 219 |
-| 2022 | [Understanding carbon dioxyde removal](https://hal.science/hal-04702862)<br><small>SPIRE - Sciences Po Institutional REpository · with François de Rochette, Benjamin Tincq, G. De Temmerman, Sylvain Delerce, Sylvain Delerce, Liam St Louis</small> | Cross-cutting CDR | 0 |
+| 2022 | [Understanding carbon dioxyde removal](https://hal.science/hal-04702862)<br><small>SPIRE - Sciences Po Institutional REpository · with François de Rochette, Benjamin Tincq, G. De Temmerman, Sylvain Delerce, Liam St Louis</small> | Cross-cutting CDR | 0 |
 | 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with [Samuel Fankhauser](/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/), [Cameron Hepburn](/cdr-researcher-census/researchers/cameron-hepburn-a5068254/), [J. M. Kendall](/cdr-researcher-census/researchers/j-m-kendall-a5086300/), [Javier Lezaun](/cdr-researcher-census/researchers/javier-lezaun-a5085557/), [Kaya Axelsson](/cdr-researcher-census/researchers/kaya-axelsson-a5050288/), [Lavanya Rajamani](/cdr-researcher-census/researchers/lavanya-rajamani-a5038389/) and 8 more</small> | Cross-cutting CDR | 960 |
 | 2021 | [Upstream decarbonization through a carbon takeback obligation: An affordable backstop climate policy](https://doi.org/10.1016/j.joule.2021.10.012)<br><small>Joule · with Stuart Jenkins, Matthew C. Ives, R. Stuart Haszeldine, [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/)</small> | Cross-cutting CDR | 58 |
 | 2021 | [Using an emulator to apply a Carbon Takeback Obligation alongside demand-side carbon pricing in Integrated Assessment Models](https://doi.org/10.5194/egusphere-egu21-10961)<br><small>with Stuart Jenkins, Matthew C. Ives, R. Stuart Haszeldine, [Myles Allen](/cdr-researcher-census/researchers/myles-allen-a5090929/)</small> | DAC | 0 |

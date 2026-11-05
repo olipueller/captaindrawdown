@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
-description: "Noah McQueen, Heirloom Carbon Technologies, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 34 by activity, 1 by citations. 25 publications, h-index 13, 2,452 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Noah McQueen, Heirloom Carbon Technologies, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 34 by activity, 1 by citations). 25 publications, h-index 13, 2,452 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Heirloom Carbon Technologies</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 34 <a href="/data/researchers/dac/">by activity</a>, rank 1 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 34 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>2,452</td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 2 |
-| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 0 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 2 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 0 |
 | 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | Cross-cutting CDR | 1 |
 | 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 0 |
 | 2023 | [The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets](https://doi.org/10.1016/j.oneear.2023.06.004)<br><small>One Earth · with [John F. Young](/cdr-researcher-census/researchers/john-f-young-a5108406/), Charithea Charalambous, [Hélène Pilorgé](/cdr-researcher-census/researchers/helene-pilorge-a5038679/), John M. Andrésen, Manuel Ojeda, [Olivia Hawrot](/cdr-researcher-census/researchers/olivia-hawrot-a5085624/) and 5 more</small> | DAC | 211 |

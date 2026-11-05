@@ -1,7 +1,7 @@
 ---
 title: "David Klein"
-description: "David Klein, Potsdam Institute for Climate Impact Research, Germany. 71 publications, h-index 28, 5,739 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "David Klein, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (Europe rank 567 by activity, 42 by citations). 71 publications, h-index 28, 5,739 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/david-klein-a5102823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 567 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>5,739</td></tr>

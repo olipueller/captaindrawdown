@@ -1,7 +1,7 @@
 ---
 title: "Sophie Chlela"
-description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 47 by activity, 1969 by citations. 14 publications, h-index 3, 17 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 47 by activity, 1969 by citations; Europe rank 32 by activity, 847 by citations). 14 publications, h-index 3, 17 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/sophie-chlela-a5010115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centre de Mathématiques Appliquées - CMA</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 47 <a href="/data/researchers/beccs/">by activity</a>, rank 1969 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 47 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1969 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 847 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>17</td></tr>

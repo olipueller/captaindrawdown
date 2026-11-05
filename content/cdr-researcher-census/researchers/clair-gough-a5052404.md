@@ -1,7 +1,7 @@
 ---
 title: "Clair Gough"
-description: "Clair Gough, University of Manchester, United Kingdom. 89 publications, h-index 30, 3,742 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Clair Gough, University of Manchester, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 204 by activity, 84 by citations; Europe rank 131 by activity, 32 by citations). 89 publications, h-index 30, 3,742 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/clair-gough-a5052404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Manchester</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 204 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 84 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 131 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,742</td></tr>

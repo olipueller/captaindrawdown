@@ -1,7 +1,7 @@
 ---
 title: "Javier Arı́stegui"
-description: "Javier Arı́stegui, Universidad de Las Palmas de Gran Canaria, Spain. 338 publications, h-index 58, 11,296 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Javier Arı́stegui, Universidad de Las Palmas de Gran Canaria, Spain. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 126 by activity, 32 by citations; Europe rank 66 by activity, 16 by citations). 338 publications, h-index 58, 11,296 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/javier-arstegui-a5091003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Las Palmas de Gran Canaria</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 126 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 66 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 16 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>11,296</td></tr>

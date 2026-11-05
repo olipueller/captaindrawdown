@@ -1,7 +1,7 @@
 ---
 title: "Anthony D. Ruiz"
-description: "Anthony D. Ruiz, University of California, Riverside, United States. 2 publications, h-index 1, 351 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Anthony D. Ruiz, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5485 by activity, 52 by citations). 2 publications, h-index 1, 351 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, Riverside</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5485 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>351</td></tr>

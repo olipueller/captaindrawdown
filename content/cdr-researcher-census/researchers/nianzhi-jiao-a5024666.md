@@ -1,7 +1,7 @@
 ---
 title: "Nianzhi Jiao"
-description: "Nianzhi Jiao, Xiamen University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 63 by activity, 29 by citations. 442 publications, h-index 57, 16,335 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Nianzhi Jiao, Xiamen University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 63 by activity, 29 by citations). 442 publications, h-index 57, 16,335 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nianzhi-jiao-a5024666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Xiamen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 63 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 29 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 63 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>57</td></tr>
   <tr><th>Citations</th><td>16,335</td></tr>

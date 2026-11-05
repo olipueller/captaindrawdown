@@ -1,7 +1,7 @@
 ---
 title: "L. Khajehnoori"
-description: "L. Khajehnoori, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 83 by activity, 3455 by citations. 4 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "L. Khajehnoori, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 83 by activity, 3455 by citations; Europe rank 32 by activity, 988 by citations). 4 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/l-khajehnoori-a5140697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,13 +26,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Lancashire</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 83 <a href="/data/researchers/dac/">by activity</a>, rank 3455 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 83 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3455 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 988 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>
   <tr><th>Publications</th><td>4</td></tr>
   <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5140697838">OpenAlex</a></td></tr>
 </table>
 
@@ -47,7 +46,7 @@ robots: "index, follow"
 | 2026 | [How Adsorbent Thermodynamics Shape Direct Air Capture Performance: A Global Sensitivity Study](https://openalex.org/W7168269577)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [H.R. Nasriani](/cdr-researcher-census/researchers/hr-nasriani-a5140669/), S. Khani Rasmussen</small> | DAC | 0 |
 | 2026 | [Mathematical Formulation of Sigmoidal Water Adsorption: Klotz vs Weighted Dual-Site Langmuir in mmen-Mg2(dobpdc)](https://openalex.org/W7168282757)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [H.R. Nasriani](/cdr-researcher-census/researchers/hr-nasriani-a5140669/), S. Khani Rasmussen</small> | DAC | 0 |
 | 2026 | [Assessment of TVSA Cycle Configurations for Cooperative Adsorbents with Step-Shaped Isotherms under Direct Air Capture](https://openalex.org/W7168283901)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [H.R. Nasriani](/cdr-researcher-census/researchers/hr-nasriani-a5140669/), S. Khani Rasmussen</small> | DAC | 0 |
-| 2025 | [Multi-Objective Optimization of CO2 Capture from Ambient Air via TVSA Process Modeling](https://openalex.org/W7162301642)<br><small>with M. Nasiri Ghiri, [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), H.R. Nasriani, [H.R. Nasriani](/cdr-researcher-census/researchers/hr-nasriani-a5140669/), K. S Williams, L. Khajehnoori and 2 more</small> | DAC | 0 |
+| 2025 | [Multi-Objective Optimization of CO2 Capture from Ambient Air via TVSA Process Modeling](https://openalex.org/W7162301642)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [H.R. Nasriani](/cdr-researcher-census/researchers/hr-nasriani-a5140669/), K. S Williams, L. Khajehnoori and 2 more</small> | DAC | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Saman Hameed"
-description: "Saman Hameed, University of Leeds, United Kingdom. 21 publications, h-index 9, 512 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Saman Hameed, University of Leeds, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 505 by activity, 92 by citations; Europe rank 286 by activity, 36 by citations). 21 publications, h-index 9, 512 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/saman-hameed-a5069979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Leeds</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 505 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 286 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>512</td></tr>

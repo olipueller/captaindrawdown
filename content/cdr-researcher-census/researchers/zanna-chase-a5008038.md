@@ -1,7 +1,7 @@
 ---
 title: "﻿Zanna Chase"
-description: "﻿Zanna Chase, University of Tasmania, Australia. 219 publications, h-index 40, 5,467 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "﻿Zanna Chase, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 568 by activity, 78 by citations). 219 publications, h-index 40, 5,467 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/zanna-chase-a5008038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 568 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>40</td></tr>
   <tr><th>Citations</th><td>5,467</td></tr>

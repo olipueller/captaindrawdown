@@ -1,7 +1,7 @@
 ---
 title: "Steve Griffiths"
-description: "Steve Griffiths, American University of Sharjah, United Arab Emirates. 109 publications, h-index 37, 6,591 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Steve Griffiths, American University of Sharjah, United Arab Emirates. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4988 by activity, 44 by citations). 109 publications, h-index 37, 6,591 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/steve-griffiths-a5083495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>American University of Sharjah</td></tr>
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4988 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>37</td></tr>
   <tr><th>Citations</th><td>6,591</td></tr>

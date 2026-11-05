@@ -1,7 +1,7 @@
 ---
 title: "Yinghuan Xie"
-description: "Yinghuan Xie, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 84 by activity, 1235 by citations. 13 publications, h-index 3, 28 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Yinghuan Xie, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 84 by activity, 1235 by citations). 13 publications, h-index 3, 28 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yinghuan-xie-a5000973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 84 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 1235 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 84 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1235 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>28</td></tr>

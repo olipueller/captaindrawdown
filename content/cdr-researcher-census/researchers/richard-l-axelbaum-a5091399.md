@@ -1,7 +1,7 @@
 ---
 title: "Richard L. Axelbaum"
-description: "Richard L. Axelbaum, Washington University in St. Louis, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 93 by activity, 1478 by citations. 195 publications, h-index 32, 4,177 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Richard L. Axelbaum, Washington University in St. Louis, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 93 by activity, 1478 by citations). 195 publications, h-index 32, 4,177 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/richard-l-axelbaum-a5091399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Washington University in St. Louis</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 93 <a href="/data/researchers/beccs/">by activity</a>, rank 1478 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 93 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1478 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>4,177</td></tr>

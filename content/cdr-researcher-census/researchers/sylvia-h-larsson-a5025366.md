@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Larsson"
-description: "Sylvia H. Larsson, RISE Research Institutes of Sweden, Sweden. 97 publications, h-index 33, 3,489 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Sylvia H. Larsson, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 466 by activity, 17 by citations). 97 publications, h-index 33, 3,489 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/sylvia-h-larsson-a5025366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RISE Research Institutes of Sweden</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 466 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>3,489</td></tr>

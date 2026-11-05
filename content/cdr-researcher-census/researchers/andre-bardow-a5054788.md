@@ -1,7 +1,7 @@
 ---
 title: "André Bardow"
-description: "André Bardow, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 5 by activity, 3 by citations. 695 publications, h-index 68, 24,465 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "André Bardow, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5 by activity, 3 by citations; Europe rank 5 by activity, 2 by citations), Enhanced Weathering (worldwide rank 4679 by activity, 91 by citations). 695 publications, h-index 68, 24,465 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/andre-bardow-a5054788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 5 <a href="/data/researchers/dac/">by activity</a>, rank 3 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 5 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 2 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4679 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>68</td></tr>
   <tr><th>Citations</th><td>24,465</td></tr>

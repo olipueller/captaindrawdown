@@ -1,7 +1,7 @@
 ---
 title: "Jaime B. Palter"
-description: "Jaime B. Palter, University of Rhode Island, United States. 115 publications, h-index 31, 3,326 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jaime B. Palter, University of Rhode Island, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 288 by activity, 80 by citations). 115 publications, h-index 31, 3,326 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jaime-b-palter-a5056289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Rhode Island</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 288 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>3,326</td></tr>

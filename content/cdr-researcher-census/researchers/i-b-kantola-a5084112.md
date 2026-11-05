@@ -1,7 +1,7 @@
 ---
 title: "I. B. Kantola"
-description: "I. B. Kantola, University of Illinois Urbana-Champaign, United States. 61 publications, h-index 18, 1,790 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "I. B. Kantola, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 116 by activity, 29 by citations). 61 publications, h-index 18, 1,790 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/i-b-kantola-a5084112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Illinois Urbana-Champaign</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 116 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,790</td></tr>

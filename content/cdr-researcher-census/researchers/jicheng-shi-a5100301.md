@@ -1,7 +1,7 @@
 ---
 title: "Jicheng Shi"
-description: "Jicheng Shi, Dalian Jiaotong University, China. 9 publications, h-index 2, 641 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jicheng Shi, Dalian Jiaotong University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23845 by activity, 45 by citations). 9 publications, h-index 2, 641 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jicheng-shi-a5100301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Dalian Jiaotong University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23845 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>641</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Ofélia de Queiroz Fernandes Araújo"
-description: "Ofélia de Queiroz Fernandes Araújo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 38 by activity, 154 by citations. 206 publications, h-index 36, 3,593 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ofélia de Queiroz Fernandes Araújo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 38 by activity, 154 by citations). 206 publications, h-index 36, 3,593 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade Federal do Rio de Janeiro</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 38 <a href="/data/researchers/beccs/">by activity</a>, rank 154 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 38 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 154 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>3,593</td></tr>

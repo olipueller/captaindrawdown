@@ -1,7 +1,7 @@
 ---
 title: "Chiu‐Wen Chen"
-description: "Chiu‐Wen Chen, National Kaohsiung University of Science and Technology, Taiwan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 62 by activity, 40 by citations. 615 publications, h-index 82, 23,267 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Chiu‐Wen Chen, National Kaohsiung University of Science and Technology, Taiwan. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 62 by activity, 40 by citations). 615 publications, h-index 82, 23,267 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/chiuwen-chen-a5010723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Kaohsiung University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Taiwan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 62 <a href="/data/researchers/biochar/">by activity</a>, rank 40 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 62 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 40 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>82</td></tr>
   <tr><th>Citations</th><td>23,267</td></tr>

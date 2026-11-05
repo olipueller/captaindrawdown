@@ -1,7 +1,7 @@
 ---
 title: "Biswa R. Patra"
-description: "Biswa R. Patra, King Tide Carbon Canada Ltd, Canada. 42 publications, h-index 14, 1,884 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Biswa R. Patra, King Tide Carbon Canada Ltd, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 1118 by activity, 77 by citations). 42 publications, h-index 14, 1,884 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/biswa-r-patra-a5002085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>King Tide Carbon Canada Ltd</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 1118 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,884</td></tr>

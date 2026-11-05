@@ -1,7 +1,7 @@
 ---
 title: "Bruno Glaser"
-description: "Bruno Glaser, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 13 by activity, 85 by citations. 390 publications, h-index 81, 28,462 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Bruno Glaser, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 13 by activity, 85 by citations; Europe rank 6 by activity, 14 by citations). 390 publications, h-index 81, 28,462 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/bruno-glaser-a5027366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Martin Luther University Halle-Wittenberg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 13 <a href="/data/researchers/biochar/">by activity</a>, rank 85 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 13 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>81</td></tr>
   <tr><th>Citations</th><td>28,462</td></tr>

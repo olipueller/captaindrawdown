@@ -1,7 +1,7 @@
 ---
 title: "Hiba M. Alkharabsheh"
-description: "Hiba M. Alkharabsheh, Al-Balqa Applied University, JO. 10 publications, h-index 8, 1,084 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Hiba M. Alkharabsheh, Al-Balqa Applied University, JO. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11339 by activity, 65 by citations). 10 publications, h-index 8, 1,084 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Al-Balqa Applied University</td></tr>
   <tr><th>Country</th><td>JO</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 11339 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 65 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>1,084</td></tr>

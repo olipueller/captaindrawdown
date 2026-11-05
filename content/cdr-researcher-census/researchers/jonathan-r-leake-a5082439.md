@@ -1,7 +1,7 @@
 ---
 title: "Jonathan R. Leake"
-description: "Jonathan R. Leake, University of Sheffield, United Kingdom. 200 publications, h-index 75, 16,367 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jonathan R. Leake, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 210 by activity, 41 by citations; Europe rank 122 by activity, 30 by citations). 200 publications, h-index 75, 16,367 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 210 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 41 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 122 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>75</td></tr>
   <tr><th>Citations</th><td>16,367</td></tr>

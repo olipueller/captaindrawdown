@@ -1,7 +1,7 @@
 ---
 title: "Thomas Pregger"
-description: "Thomas Pregger, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany. 154 publications, h-index 30, 4,195 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Thomas Pregger, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10640 by activity, 72 by citations). 154 publications, h-index 30, 4,195 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/thomas-pregger-a5038550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10640 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>4,195</td></tr>

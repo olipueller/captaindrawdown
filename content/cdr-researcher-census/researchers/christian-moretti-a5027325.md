@@ -1,7 +1,7 @@
 ---
 title: "Christian Moretti"
-description: "Christian Moretti, Paul Scherrer Institute, Switzerland. 120 publications, h-index 31, 2,405 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Christian Moretti, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 48 by activity, 119 by citations). 120 publications, h-index 31, 2,405 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/christian-moretti-a5027325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Paul Scherrer Institute</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 48 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 119 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>2,405</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Markus Millinger"
-description: "Markus Millinger, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 99 by activity, 180 by citations. 67 publications, h-index 17, 744 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Markus Millinger, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 99 by activity, 180 by citations). 67 publications, h-index 17, 744 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/markus-millinger-a5029145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RISE Research Institutes of Sweden</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 99 <a href="/data/researchers/beccs/">by activity</a>, rank 180 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 99 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 180 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>744</td></tr>

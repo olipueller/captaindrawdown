@@ -1,7 +1,7 @@
 ---
 title: "Eilhann E. Kwon"
-description: "Eilhann E. Kwon, Hanyang University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 15 by activity, 105 by citations. 610 publications, h-index 94, 33,927 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Eilhann E. Kwon, Hanyang University, South Korea. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 15 by activity, 105 by citations). 610 publications, h-index 94, 33,927 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/eilhann-e-kwon-a5076854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hanyang University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 15 <a href="/data/researchers/biochar/">by activity</a>, rank 105 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 15 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 105 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>94</td></tr>
   <tr><th>Citations</th><td>33,927</td></tr>
@@ -52,7 +52,7 @@ robots: "index, follow"
 | 2026 | [CO2-assisted pyrolysis of Mn-loaded biomass for syngas generation and periodate-activating biochar production](https://openalex.org/W7167787700)<br><small>with Joohyung Lee, Hocheol Song, Youn-Jun Lee</small> | Biochar | 0 |
 | 2025 | [Changing biomass into carbon-negative through dual-step approach: CO2-assisted pyrolysis and biochar-based CO2 adsorption](https://doi.org/10.1016/j.jenvman.2025.125484)<br><small>Journal of Environmental Management · with Jee Young Kim, Hocheol Song, Hoyeon Cha, Taewoo Lee</small> | Biochar | 8 |
 | 2025 | [Valorization of agricultural waste and red mud through CO2-mediated pyrolysis system](https://doi.org/10.1016/j.jenvman.2025.125046)<br><small>Journal of Environmental Management · with Dongho Choi, Hwa Jung Kim, Hyungtae Cho, Seung-Won Kim</small> | Biochar | 7 |
-| 2025 | [Animal manure biochar for the removal of hazardous pollutants from wastewater](https://doi.org/10.48130/bchax-0025-0006)<br><small>Biochar X · with Sangyoon Lee, Gyeongnam Park, Gyeongnam Park, Minyoung Kim, Sungyup Jung</small> | Biochar | 5 |
+| 2025 | [Animal manure biochar for the removal of hazardous pollutants from wastewater](https://doi.org/10.48130/bchax-0025-0006)<br><small>Biochar X · with Sangyoon Lee, Gyeongnam Park, Minyoung Kim, Sungyup Jung</small> | Biochar | 5 |
 | 2024 | [Achieving carbon credits through biomass torrefaction and hydrothermal carbonization: A review](https://doi.org/10.1016/j.rser.2024.115056)<br><small>Renewable and Sustainable Energy Reviews · with [Wei‐Hsin Chen](/cdr-researcher-census/researchers/weihsin-chen-a5057352/), Congyu Zhang, Partha Pratim Biswas, Jo‐Shu Chang</small> | BECCS; Biochar | 42 |
 | 2024 | [Developing a sorptive material of cadmium from pyrolysis of hen manure](https://doi.org/10.1016/j.chemosphere.2024.141262)<br><small>Chemosphere · with Jae-In Lee, Dongho Choi, Jee Young Kim, Seong‐Jik Park, Seung-Won Kim</small> | Biochar | 7 |
 | 2023 | [A critical review on biochar production from pine wastes, upgradation techniques, environmental sustainability, and challenges](https://doi.org/10.1016/j.biortech.2023.129632)<br><small>Bioresource Technology · with Amit Kumar Sharma, Kun‐Yi Andrew Lin, Nishu Goyal, Prakash Bobde, Praveen Kumar Ghodke, [Wei‐Hsin Chen](/cdr-researcher-census/researchers/weihsin-chen-a5057352/)</small> | Biochar | 85 |

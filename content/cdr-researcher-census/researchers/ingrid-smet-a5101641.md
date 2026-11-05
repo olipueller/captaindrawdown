@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
-description: "Ingrid Smet, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 63 by activity, 1837 by citations. 28 publications, h-index 10, 554 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ingrid Smet, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 63 by activity, 1837 by citations; Europe rank 45 by activity, 521 by citations). 28 publications, h-index 10, 554 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 63 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1837 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 63 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1837 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 521 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>554</td></tr>

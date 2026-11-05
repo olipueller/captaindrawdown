@@ -1,7 +1,7 @@
 ---
 title: "Martín Leonardo Battaglia"
-description: "Martín Leonardo Battaglia, Ithaca College, United States. 102 publications, h-index 31, 6,253 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Martín Leonardo Battaglia, Ithaca College, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25899 by activity, 72 by citations). 102 publications, h-index 31, 6,253 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ithaca College</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 25899 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>6,253</td></tr>

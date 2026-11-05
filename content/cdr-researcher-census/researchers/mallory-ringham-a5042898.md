@@ -1,7 +1,7 @@
 ---
 title: "Mallory Ringham"
-description: "Mallory Ringham, Stony Brook University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 21 by activity, 173 by citations. 30 publications, h-index 7, 258 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mallory Ringham, Stony Brook University, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 21 by activity, 173 by citations). 30 publications, h-index 7, 258 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mallory-ringham-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Stony Brook University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 21 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 173 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 21 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 173 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>258</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A novel methodology to characterize the potential impacts of electrochemical ocean alkalinity enhancement on juvenile coho salmon (Oncorhynchus kisutch)](https://doi.org/10.3389/fclim.2025.1717924)<br><small>Frontiers in Climate · with J.C. Loretz, Jeremy Loretz, Kyla Westphal, Matthew P. Galaska, Matthew P. Galaska, Michelle Knowlen and 4 more</small> | Ocean CDR | 2 |
+| 2026 | [A novel methodology to characterize the potential impacts of electrochemical ocean alkalinity enhancement on juvenile coho salmon (Oncorhynchus kisutch)](https://doi.org/10.3389/fclim.2025.1717924)<br><small>Frontiers in Climate · with J.C. Loretz, Jeremy Loretz, Kyla Westphal, Matthew P. Galaska, Michelle Knowlen and 4 more</small> | Ocean CDR | 2 |
 | 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 75 more</small> | Ocean CDR | 0 |
 | 2026 | [Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making](https://openalex.org/W7204276729)<br><small>preprint · with Allison M. Savoie, Alexa Labossiere, Ashley Bird, [Chinmayee V. Subban](/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/), Emma Scott, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/) and 5 more</small> | Ocean CDR | 0 |
 | 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277)<br><small>Frontiers in Environmental Engineering · with Allison M. Savoie, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Carolina Torres Sanchez, [Chinmayee V. Subban](/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/), Dave Hegeman, J.C. Loretz and 9 more</small> | Ocean CDR | 14 |

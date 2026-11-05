@@ -1,7 +1,7 @@
 ---
 title: "Matthew J. Realff"
-description: "Matthew J. Realff, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 14 by activity, 102 by citations. 305 publications, h-index 47, 8,521 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matthew J. Realff, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 14 by activity, 102 by citations). 305 publications, h-index 47, 8,521 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matthew-j-realff-a5078923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Georgia Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 14 <a href="/data/researchers/dac/">by activity</a>, rank 102 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 14 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 102 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>8,521</td></tr>

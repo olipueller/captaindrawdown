@@ -1,7 +1,7 @@
 ---
 title: "Tom Kuppens"
-description: "Tom Kuppens, Vrije Universiteit Brussel, Belgium. 85 publications, h-index 23, 1,890 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tom Kuppens, Vrije Universiteit Brussel, Belgium. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 185 by activity, 30 by citations). 85 publications, h-index 23, 1,890 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tom-kuppens-a5074860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Vrije Universiteit Brussel</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 185 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>1,890</td></tr>

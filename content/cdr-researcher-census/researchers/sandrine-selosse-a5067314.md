@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
-description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 54 by activity, 1970 by citations. 252 publications, h-index 18, 1,074 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 54 by activity, 1970 by citations; Europe rank 38 by activity, 848 by citations). 252 publications, h-index 18, 1,074 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 54 <a href="/data/researchers/beccs/">by activity</a>, rank 1970 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 54 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1970 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 848 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,074</td></tr>

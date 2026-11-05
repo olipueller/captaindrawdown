@@ -1,7 +1,7 @@
 ---
 title: "Henrik Lund"
-description: "Henrik Lund, Aalborg University, Denmark. 584 publications, h-index 85, 34,766 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Henrik Lund, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1475 by activity, 60 by citations; Europe rank 670 by activity, 45 by citations). 584 publications, h-index 85, 34,766 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/henrik-lund-a5103109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Aalborg University</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1475 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 670 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>85</td></tr>
   <tr><th>Citations</th><td>34,766</td></tr>

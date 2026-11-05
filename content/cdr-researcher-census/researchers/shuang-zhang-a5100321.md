@@ -1,7 +1,7 @@
 ---
 title: "Shuang Zhang"
-description: "Shuang Zhang, Texas A&M University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 22 by activity, 13 by citations. 455 publications, h-index 40, 5,838 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Shuang Zhang, Texas A&M University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 22 by activity, 13 by citations). 455 publications, h-index 40, 5,838 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shuang-zhang-a5100321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Texas A&M University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 22 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 13 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 22 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 13 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>40</td></tr>
   <tr><th>Citations</th><td>5,838</td></tr>

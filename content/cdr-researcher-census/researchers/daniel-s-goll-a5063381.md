@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
-description: "Daniel S. Goll, Laboratoire des Sciences du Climat et de l’Environnement, France. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 55 by activity, 7 by citations. 278 publications, h-index 58, 16,698 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Daniel S. Goll, Laboratoire des Sciences du Climat et de l’Environnement, France. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 55 by activity, 7 by citations; Europe rank 39 by activity, 6 by citations), BECCS (worldwide rank 113 by activity, 79 by citations; Europe rank 72 by activity, 30 by citations). 278 publications, h-index 58, 16,698 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Laboratoire des Sciences du Climat et de l’Environnement</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 55 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 7 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 55 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 7 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 113 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 72 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>16,698</td></tr>
@@ -49,7 +50,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [OverlookedSoil Acidity Leads to Significant Overestimationof Carbon Sequestration in Enhanced Rock Weathering](https://openalex.org/W7172516588)<br><small>with Chenxia Su, [Ang Wang](/cdr-researcher-census/researchers/ang-wang-a5055145/), Charles T. Driscoll, [Ronghua Kang](/cdr-researcher-census/researchers/ronghua-kang-a5032068/), Weixing Zhu, Wentao Huang and 1 more</small> | Enhanced Weathering | 1 |
 | 2026 | [Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China](https://doi.org/10.1007/s42773-025-00564-x)<br><small>Biochar · with Mengjie Han, Chenyi Yuan, Dabo Guan, Jianxiang Shen, Jiaxin Zhou, Liang Jing and 9 more</small> | BECCS; Biochar | 0 |
-| 2026 | [The phosphorus bottleneck in bioenergy-based CDR – and how enhanced rock weathering could break it](https://doi.org/10.5194/egusphere-egu26-5521)<br><small>with Ibrahim Fayad, Isabel Martinez-Cano, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), Wei Li, [Wei Li](/cdr-researcher-census/researchers/wei-li-a5100318/), Xianjin He and 2 more</small> | Enhanced Weathering | 0 |
+| 2026 | [The phosphorus bottleneck in bioenergy-based CDR – and how enhanced rock weathering could break it](https://doi.org/10.5194/egusphere-egu26-5521)<br><small>with Ibrahim Fayad, Isabel Martinez-Cano, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), [Wei Li](/cdr-researcher-census/researchers/wei-li-a5100318/), Xianjin He and 2 more</small> | Enhanced Weathering | 0 |
 | 2025 | [Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence](https://doi.org/10.1111/gcb.70483)<br><small>Global Change Biology · with Tongtong Xu, Boyuan Bi, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Huiwen Li, Qiong Chen, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/) and 3 more</small> | Enhanced Weathering | 16 |
 | 2025 | [Leveraging ecosystems responses to enhanced rock weathering in mitigation scenarios](https://doi.org/10.1038/s41467-025-58284-6)<br><small>Nature Communications · with Yann Gaucher, Daniel Johansson, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | Enhanced Weathering | 14 |
 | 2025 | [Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering](https://doi.org/10.1038/s43247-025-02455-2)<br><small>Communications Earth & Environment · with Qiong Chen, Boyuan Bi, Chenlu Li, Guochen Li, Mardin Abdalqadir, Tongtong Xu and 7 more</small> | Enhanced Weathering | 8 |

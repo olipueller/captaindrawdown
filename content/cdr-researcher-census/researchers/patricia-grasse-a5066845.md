@@ -1,7 +1,7 @@
 ---
 title: "Patricia Grasse"
-description: "Patricia Grasse, German Centre for Integrative Biodiversity Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 98 by activity, 130 by citations. 111 publications, h-index 24, 1,716 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Patricia Grasse, German Centre for Integrative Biodiversity Research, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 98 by activity, 130 by citations; Europe rank 60 by activity, 40 by citations). 111 publications, h-index 24, 1,716 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/patricia-grasse-a5066845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>German Centre for Integrative Biodiversity Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 98 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 130 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 98 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 130 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 60 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>24</td></tr>
   <tr><th>Citations</th><td>1,716</td></tr>

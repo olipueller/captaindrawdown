@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
-description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 88 by activity, 4678 by citations. 49 publications, h-index 19, 1,399 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 88 by activity, 4678 by citations; Europe rank 26 by activity, 635 by citations). 49 publications, h-index 19, 1,399 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bangor University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 88 <a href="/data/researchers/biochar/">by activity</a>, rank 4678 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 88 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 4678 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 635 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,399</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover](https://openalex.org/W7170581162)<br><small>with Charlie J. Davis, D Madoc Jones, Davey L. Jones, David R. Chadwick, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Robert W. Brown</small> | Biochar | 0 |
+| 2026 | [Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover](https://openalex.org/W7170581162)<br><small>with Charlie J. Davis, D Madoc Jones, Davey L. Jones, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Robert W. Brown</small> | Biochar | 0 |
 | 2025 | [Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands](https://doi.org/10.1016/j.soilbio.2025.109814)<br><small>Soil Biology and Biochemistry · with Peduruhewa H. Jeewani, Benjamin P. Roberts, Chris Evans, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jack Cook, M. D. Fraser and 1 more</small> | Biochar | 10 |
 | 2025 | [Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment](https://openalex.org/W4407818002)<br><small>with Peduruhewa H. Jeewani, [Davey L. Jones](/cdr-researcher-census/researchers/davey-l-jones-a5064381/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jennifer M. Rhymes, Niall P. McNamara, Chris Evans</small> | Biochar | 9 |
 | 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585)<br><small>preprint · with Clement N. Uguna, [Colin E. Snape](/cdr-researcher-census/researchers/colin-e-snape-a5038069/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Lee A. Stevens, Wei Li, William Meredith and 1 more</small> | Biochar | 1 |

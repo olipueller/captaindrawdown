@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee V. Subban"
-description: "Chinmayee V. Subban, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 65 by activity, 585 by citations. 55 publications, h-index 14, 849 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Chinmayee V. Subban, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 65 by activity, 585 by citations). 55 publications, h-index 14, 849 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Pacific Northwest National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 65 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 585 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 65 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 585 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>849</td></tr>
@@ -56,7 +56,7 @@ robots: "index, follow"
 | 2025 | [Bipolar Membrane Electrodialyzers as Flexible Demand Response Resources: Co-Optimization of Cost Savings and Product Formation](https://doi.org/10.2139/ssrn.5801873)<br><small>SSRN Electronic Journal (preprint) · with Saptarshi Bhattacharya, J.C. Loretz, Michael S. Leonard, [Nicholas Ward](/cdr-researcher-census/researchers/nicholas-ward-a5016338/)</small> | Cross-cutting CDR | 0 |
 | 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521)<br><small>Environmental Research Letters · with Tarang Khangaonkar, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Carolina Torres Sanchez, Krti Tallam, Lakshitha Premathilake, Lenaïg G. Hemery and 8 more</small> | Ocean CDR | 19 |
 | 2024 | [Towards Marine Carbon Dioxide Removal (mCDR) Centers of Excellence](http://doi.org/10.2172/2426023)<br><small>with [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Christian Meinig, M.R. Pinza, Nichols Ward, Simon Geerlofs, USDOE and 1 more</small> | DAC; Ocean CDR | 2 |
-| 2023 | [Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report](https://doi.org/10.2172/2345755)<br><small>with Chinmayee Venkata Subban, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Simon Geerlofs, Christian Meinig</small> | Ocean CDR | 1 |
+| 2023 | [Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report](https://doi.org/10.2172/2345755)<br><small>with Chinmayee Venkata Subban, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Simon Geerlofs, Christian Meinig</small> | Ocean CDR | 1 |
 | 2022 | [Ocean Deacidification Technologies for Marine Aquaculture](https://doi.org/10.3390/jmse10040523)<br><small>Journal of Marine Science and Engineering · with Christopher R. Myers</small> | Ocean CDR | 3 |
 | 2022 | [Optimizing biological carbon uptake by regulating carbonate-bicarbonate equilibrium](http://doi.org/10.2172/1988300)<br><small>with Christopher R. Myers, Charles F. Hibbeln, Scott Edmundson</small> | Ocean CDR | 0 |
 

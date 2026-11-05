@@ -1,7 +1,7 @@
 ---
 title: "Brahim Aïssa"
-description: "Brahim Aïssa, Hamad bin Khalifa University, Qatar. 297 publications, h-index 35, 5,035 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Brahim Aïssa, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5491 by activity, 71 by citations). 297 publications, h-index 35, 5,035 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/brahim-aissa-a5078722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5491 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 71 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>5,035</td></tr>

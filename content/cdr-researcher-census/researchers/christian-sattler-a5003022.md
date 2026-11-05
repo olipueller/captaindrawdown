@@ -1,7 +1,7 @@
 ---
 title: "Christian Sattler"
-description: "Christian Sattler, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 96 by activity, 674 by citations. 597 publications, h-index 54, 9,197 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Christian Sattler, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 96 by activity, 674 by citations; Europe rank 36 by activity, 274 by citations). 597 publications, h-index 54, 9,197 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/christian-sattler-a5003022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 96 <a href="/data/researchers/dac/">by activity</a>, rank 674 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 96 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 674 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 274 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>54</td></tr>
   <tr><th>Citations</th><td>9,197</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
-description: "Diego Marazza, University of Bologna, Italy. 79 publications, h-index 15, 769 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Diego Marazza, University of Bologna, Italy. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 32 by activity, 339 by citations). 79 publications, h-index 15, 769 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Bologna</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 32 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 339 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>769</td></tr>

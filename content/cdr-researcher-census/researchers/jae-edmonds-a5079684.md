@@ -1,7 +1,7 @@
 ---
 title: "Jae Edmonds"
-description: "Jae Edmonds, Pacific Northwest National Laboratory, United States. 361 publications, h-index 78, 48,344 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jae Edmonds, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 835 by activity, 100 by citations). 361 publications, h-index 78, 48,344 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/jae-edmonds-a5079684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Pacific Northwest National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 835 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 100 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>78</td></tr>
   <tr><th>Citations</th><td>48,344</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
+| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
 | 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937)<br><small>with Catrin Harris, Anne Merfort, Cindy G. Azuero-Pedraza, Cindy Giselle Azuero Pedraza, [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Hattie Whittaker and 17 more</small> | BECCS | 0 |
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866)<br><small>with Roan Chadsey, Catrin Harris, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), Hattie Whittaker, Isabela Schmidt Tagomori and 13 more</small> | Biochar; Enhanced Weathering | 0 |
 | 2025 | [Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study](https://doi.org/10.1016/j.egycc.2025.100209)<br><small>Energy and Climate Change · with Ronald D. Sands, Aditya Sinha, Chioke Harris, Christopher Hoehne, Emma Starke, Francisco C. de la Chesnaye and 18 more</small> | BECCS | 2 |

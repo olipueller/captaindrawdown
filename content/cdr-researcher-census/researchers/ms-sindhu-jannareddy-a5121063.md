@@ -1,7 +1,7 @@
 ---
 title: "Ms. Sindhu Jannareddy"
-description: "Ms. Sindhu Jannareddy, Managing Director. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 65 by activity, 20454 by citations; BECCS: rank 70 by activity, 2930 by citations. 5 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ms. Sindhu Jannareddy, Managing Director. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 65 by activity, 20454 by citations), BECCS (worldwide rank 70 by activity, 2930 by citations). 5 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ms-sindhu-jannareddy-a5121063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,14 +25,13 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Managing Director</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 65 <a href="/data/researchers/biochar/">by activity</a>, rank 20454 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 70 <a href="/data/researchers/beccs/">by activity</a>, rank 2930 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 65 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 20454 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 70 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2930 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>
   <tr><th>Publications</th><td>5</td></tr>
   <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5121063427">OpenAlex</a></td></tr>
 </table>
 
@@ -50,7 +49,7 @@ robots: "index, follow"
 | 2026 | [Biochar for climate, circularity and carbon markets: technologies, integrity, deployment gaps and pathways to scale](https://openalex.org/W7171970149)<br><small>with [Dr. C.M. Vivek Vardhan](/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/)</small> | Biochar | 0 |
 | 2026 | [Biochar for climate, circularity and carbon markets: technologies, integrity, deployment gaps and pathways to scale](https://openalex.org/W7171983167)<br><small>with [Dr. C.M. Vivek Vardhan](/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/)</small> | Biochar | 0 |
 | 2026 | [Digital MRV for carbon credits: integrating AI, satellites, IoT and blockchain for reliable climate claims](https://openalex.org/W7171999385)<br><small>with Dr. C.M. Vivek Vardhan</small> | Cross-cutting CDR | 0 |
-| 2026 | [Digital MRV for carbon credits: integrating AI, satellites, IoT and blockchain for reliable climate claims](https://openalex.org/W7172010364)<br><small>with Dr. C.M. Vivek Vardhan, [Dr. C.M. Vivek Vardhan](/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/)</small> | Cross-cutting CDR | 0 |
+| 2026 | [Digital MRV for carbon credits: integrating AI, satellites, IoT and blockchain for reliable climate claims](https://openalex.org/W7172010364)<br><small>with [Dr. C.M. Vivek Vardhan](/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/)</small> | Cross-cutting CDR | 0 |
 | 2026 | [Digital MRV for carbon credits: integrating AI, satellites, IoT and blockchain for reliable climate claims](https://openalex.org/W7172015405)<br><small>with Dr. C.M. Vivek Vardhan</small> | Cross-cutting CDR | 0 |
 | 2026 | [Biochar for climate, circularity and carbon markets: technologies, integrity, deployment gaps and pathways to scale](https://openalex.org/W7172031364)<br><small>with [Dr. C.M. Vivek Vardhan](/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/)</small> | Biochar | 0 |
 

@@ -1,7 +1,7 @@
 ---
 title: "Tom Reershemius"
-description: "Tom Reershemius, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 14 by activity, 78 by citations. 42 publications, h-index 7, 482 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Tom Reershemius, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 14 by activity, 78 by citations; Europe rank 10 by activity, 54 by citations). 42 publications, h-index 7, 482 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Newcastle University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 14 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 78 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 14 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 54 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>482</td></tr>
@@ -68,7 +68,7 @@ robots: "index, follow"
 | 2023 | [Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits](http://arxiv.org/abs/2307.05343)<br><small>arXiv (Cornell University) (preprint) · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), [Evan H. DeLucia](/cdr-researcher-census/researchers/evan-h-delucia-a5044416/), [I. B. Kantola](/cdr-researcher-census/researchers/i-b-kantola-a5084112/) and 10 more</small> | Enhanced Weathering | 5 |
 | 2023 | [Enhanced Rock Weathering in Agricultural Settings: Real-World Analysis of Carbon Dioxide Removal, Crop Yields, and Soil pH](http://dx.doi.org/10.7185/gold2023.18953)<br><small>with Gavrielle Welbel, Isabelle R. Davis, Marya Matlin-Wainer, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Sophie Lieberman, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Enhanced Weathering | 0 |
 | 2022 | [River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering](https://doi.org/10.1002/lno.12244)<br><small>Limnology and Oceanography · with [Shuang Zhang](/cdr-researcher-census/researchers/shuang-zhang-a5100321/), Joachim Katchinoff, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Enhanced Weathering | 64 |
-| 2021 | [INSIGHTS FROM RIVER CHEMISTRY INTO CARBON CAPTURE POTENTIAL THROUGH SURFICIAL ENHANCED ROCK WEATHERING](https://doi.org/10.1130/abs/2021am-370182)<br><small>Abstracts with programs - Geological Society of America · with Shuang Zhang, [Shuang Zhang](/cdr-researcher-census/researchers/shuang-zhang-a5100321/), Joachim Katchinoff, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/) and 1 more</small> | Enhanced Weathering | 0 |
+| 2021 | [INSIGHTS FROM RIVER CHEMISTRY INTO CARBON CAPTURE POTENTIAL THROUGH SURFICIAL ENHANCED ROCK WEATHERING](https://doi.org/10.1130/abs/2021am-370182)<br><small>Abstracts with programs - Geological Society of America · with [Shuang Zhang](/cdr-researcher-census/researchers/shuang-zhang-a5100321/), Joachim Katchinoff, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/) and 1 more</small> | Enhanced Weathering | 0 |
 
 ---
 

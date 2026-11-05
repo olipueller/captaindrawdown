@@ -1,7 +1,7 @@
 ---
 title: "Dirk Paessler"
-description: "Dirk Paessler, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 37 by activity, 1836 by citations. 13 publications, h-index 2, 13 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Dirk Paessler, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 37 by activity, 1836 by citations; Europe rank 25 by activity, 520 by citations). 13 publications, h-index 2, 13 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/dirk-paessler-a5009555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 37 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1836 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 37 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1836 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 520 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>13</td></tr>

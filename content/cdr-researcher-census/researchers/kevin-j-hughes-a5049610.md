@@ -1,7 +1,7 @@
 ---
 title: "Kevin J. Hughes"
-description: "Kevin J. Hughes, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 96 by activity, 74 by citations. 247 publications, h-index 43, 5,777 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Kevin J. Hughes, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 96 by activity, 74 by citations; Europe rank 63 by activity, 27 by citations). 247 publications, h-index 43, 5,777 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/kevin-j-hughes-a5049610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 96 <a href="/data/researchers/beccs/">by activity</a>, rank 74 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 96 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 63 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>43</td></tr>
   <tr><th>Citations</th><td>5,777</td></tr>

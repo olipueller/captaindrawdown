@@ -1,7 +1,7 @@
 ---
 title: "Ashok Pandey"
-description: "Ashok Pandey, Indian Institute of Toxicology Research CSIR, India. 1279 publications, h-index 139, 77,619 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Ashok Pandey, Indian Institute of Toxicology Research CSIR, India. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 535 by activity, 34 by citations). 1279 publications, h-index 139, 77,619 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/ashok-pandey-a5028114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Indian Institute of Toxicology Research CSIR</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 535 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 34 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>139</td></tr>
   <tr><th>Citations</th><td>77,619</td></tr>

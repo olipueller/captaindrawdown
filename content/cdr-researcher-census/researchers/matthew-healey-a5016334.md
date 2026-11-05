@@ -1,7 +1,7 @@
 ---
 title: "Matthew Healey"
-description: "Matthew Healey, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 50 by activity, 2055 by citations. 15 publications, h-index 2, 76 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matthew Healey, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 50 by activity, 2055 by citations; Europe rank 34 by activity, 577 by citations). 15 publications, h-index 2, 76 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matthew-healey-a5016334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>UNDO Carbon Ltd</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 50 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 2055 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 50 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2055 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 577 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>76</td></tr>

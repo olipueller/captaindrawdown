@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Morris"
-description: "Jennifer Morris, Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change, United States. 142 publications, h-index 30, 3,539 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jennifer Morris, Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 101 by activity, 98 by citations). 142 publications, h-index 30, 3,539 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jennifer-morris-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 101 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 98 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,539</td></tr>

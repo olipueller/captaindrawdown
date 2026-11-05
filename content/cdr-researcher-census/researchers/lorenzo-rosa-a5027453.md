@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Rosa"
-description: "Lorenzo Rosa, Carnegie Institution for Science, United States. 184 publications, h-index 40, 8,209 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Lorenzo Rosa, Carnegie Institution for Science, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 120 by activity, 4 by citations), Cross-cutting CDR (worldwide rank 3181 by activity, 89 by citations). 184 publications, h-index 40, 8,209 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/lorenzo-rosa-a5027453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carnegie Institution for Science</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 120 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 3181 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 89 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>40</td></tr>
   <tr><th>Citations</th><td>8,209</td></tr>

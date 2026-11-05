@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
-description: "Susana García, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 67 by activity, 103 by citations. 181 publications, h-index 36, 5,133 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Susana García, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 67 by activity, 103 by citations; Europe rank 29 by activity, 49 by citations). 181 publications, h-index 36, 5,133 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Heriot-Watt University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 67 <a href="/data/researchers/dac/">by activity</a>, rank 103 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 67 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 103 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>5,133</td></tr>

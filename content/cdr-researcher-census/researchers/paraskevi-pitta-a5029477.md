@@ -1,7 +1,7 @@
 ---
 title: "Paraskevi Pitta"
-description: "Paraskevi Pitta, Hellenic Centre for Marine Research, Greece. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 53 by activity, 1474 by citations. 139 publications, h-index 38, 4,976 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Paraskevi Pitta, Hellenic Centre for Marine Research, Greece. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 53 by activity, 1474 by citations; Europe rank 32 by activity, 490 by citations). 139 publications, h-index 38, 4,976 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hellenic Centre for Marine Research</td></tr>
   <tr><th>Country</th><td>Greece</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 53 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 1474 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 53 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1474 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 490 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>4,976</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Mark E. Davis"
-description: "Mark E. Davis, California Institute of Technology, United States. 644 publications, h-index 120, 64,348 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Mark E. Davis, California Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5493 by activity, 98 by citations). 644 publications, h-index 120, 64,348 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/mark-e-davis-a5010404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>California Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5493 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 98 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>120</td></tr>
   <tr><th>Citations</th><td>64,348</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
-description: "Katrin Sievert, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 62 by activity, 125 by citations. 15 publications, h-index 5, 208 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Katrin Sievert, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 62 by activity, 125 by citations; Europe rank 27 by activity, 63 by citations). 15 publications, h-index 5, 208 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 62 <a href="/data/researchers/dac/">by activity</a>, rank 125 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 62 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 125 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 63 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>208</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131)<br><small>with Darius Sultani, [Bjarne Steffen](/cdr-researcher-census/researchers/bjarne-steffen-a5051413/), Claudia Günther, Michael Pahle, Sebastián Osorio, Tobias S. Schmidt and 1 more</small> | BECCS; DAC | 4 |
-| 2026 | [The Uncertain Policy Price of Scaling Direct Air Capture](https://openalex.org/W7139957052)<br><small>preprint · with Leonardo Chiani, Bjerne Steffen, Laurent Drouet, Pietro Andreoni, Tobias Schmidt, Tobias Schmidt and 1 more</small> | DAC | 0 |
+| 2026 | [The Uncertain Policy Price of Scaling Direct Air Capture](https://openalex.org/W7139957052)<br><small>preprint · with Leonardo Chiani, Bjerne Steffen, Laurent Drouet, Pietro Andreoni, Tobias Schmidt and 1 more</small> | DAC | 0 |
 | 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386)<br><small>with Darius Sultani, [Bjarne Steffen](/cdr-researcher-census/researchers/bjarne-steffen-a5051413/), Claudia Günther, Michael Pahle, Sebastián Osorio, Tobias Schmidt and 2 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039)<br><small>Joule · with Vincent Dufour‐Décieux, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Tobias S. Schmidt</small> | Cross-cutting CDR | 8 |
 | 2025 | [Unpacking the bottlenecks of deploying Direct Air Capture at scale](https://doi.org/10.5194/egusphere-egu25-4158)<br><small>preprint · with Leonardo Chiani, [Bjarne Steffen](/cdr-researcher-census/researchers/bjarne-steffen-a5051413/), Laurent Drouet, Pietro Andreoni, Tobias Schmidt, Massimo Tavoni</small> | DAC | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
-description: "Hassan Shokry, Egypt-Japan University of Science and Technology, Egypt. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 74 by activity, 364 by citations. 99 publications, h-index 26, 2,555 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Hassan Shokry, Egypt-Japan University of Science and Technology, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 74 by activity, 364 by citations). 99 publications, h-index 26, 2,555 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Egypt-Japan University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Egypt</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 74 <a href="/data/researchers/biochar/">by activity</a>, rank 364 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 74 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 364 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>2,555</td></tr>

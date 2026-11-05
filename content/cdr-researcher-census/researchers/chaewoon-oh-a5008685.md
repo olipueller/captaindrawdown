@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
-description: "Chaewoon Oh, National Institute of Green Technology, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 33 by activity, 828 by citations. 44 publications, h-index 7, 160 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Chaewoon Oh, National Institute of Green Technology, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 33 by activity, 828 by citations). 44 publications, h-index 7, 160 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Institute of Green Technology</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 33 <a href="/data/researchers/dac/">by activity</a>, rank 828 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 33 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 828 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>160</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Venture capital’s role in corporate financing structure for direct air capture (DAC) technology-based firms in Korea, based on in-depth surveys and interviews](https://openalex.org/W7140031947)<br><small>with Seungyeon Ryoo, Seungyeon Ryoo</small> | DAC | 0 |
+| 2026 | [Venture capital’s role in corporate financing structure for direct air capture (DAC) technology-based firms in Korea, based on in-depth surveys and interviews](https://openalex.org/W7140031947)<br><small>with Seungyeon Ryoo</small> | DAC | 0 |
 | 2026 | [Policy research to formulate project methodologies for carbon credits with direct air carbon capture &amp; utilization (DACCU) technologies](https://openalex.org/W7160596185)<br><small>with Sangjin Oh, Mina Lee, Sangyung Lee</small> | DAC | 0 |
 | 2025 | [Research on the integration of Carbon Dioxide Removal (CDR) approaches into Korea’s emission trading system as an eligible mitigation activity: Based on the Delphi expert survey method](https://doi.org/10.15531/ksccr.2025.16.5.787)<br><small>Journal of Climate Change Research · with BUMSUK SON, Sangjin Oh</small> | Cross-cutting CDR | 0 |
 | 2025 | [Research on the prioritization and appropriate levels of Korea’s policy support options to invigorate the technology innovation of direct air capture (DAC) technologies: Focusing on expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2025.16.5.873)<br><small>Journal of Climate Change Research · with Huicheul Jung</small> | DAC | 0 |

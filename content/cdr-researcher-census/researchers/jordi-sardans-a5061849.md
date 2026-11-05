@@ -1,7 +1,7 @@
 ---
 title: "Jordi Sardans"
-description: "Jordi Sardans, CREAF - Centre de Recerca Ecològica i Aplicacions Forestals, Spain. 878 publications, h-index 101, 42,820 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jordi Sardans, CREAF - Centre de Recerca Ecològica i Aplicacions Forestals, Spain. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 682 by activity, 72 by citations). 878 publications, h-index 101, 42,820 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/jordi-sardans-a5061849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CREAF - Centre de Recerca Ecològica i Aplicacions Forestals</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 682 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>101</td></tr>
   <tr><th>Citations</th><td>42,820</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A Dual Soil Carbon Framework for Enhanced Silicate Rock Weathering: Integrating Organic and Inorganic Carbon Pathways Across Forest and Cropland Ecosystems](https://doi.org/10.3390/f17010144)<br><small>Forests · with Yang Ding, Chao Fang, Chao Fang, Hao Wang, Yifei Mao, Zeding Liu and 2 more</small> | Enhanced Weathering | 1 |
+| 2026 | [A Dual Soil Carbon Framework for Enhanced Silicate Rock Weathering: Integrating Organic and Inorganic Carbon Pathways Across Forest and Cropland Ecosystems](https://doi.org/10.3390/f17010144)<br><small>Forests · with Yang Ding, Chao Fang, Hao Wang, Yifei Mao, Zeding Liu and 2 more</small> | Enhanced Weathering | 1 |
 | 2026 | [Straw, biochar, and silicon-modified biochar regulate soil carbon sequestration through fungal-mediated microaggregation in paddy soils](https://openalex.org/W7163745045)<br><small>preprint · with Xuyang Liu, Li-dong Shen, Lidong Shen, Qiang Jin, Shuang Liang, Weiqi Wang and 3 more</small> | Biochar | 0 |
 | 2025 | [Enhancing soil carbon sequestration in jasmine gardens: Differential effects of straw and biochar on mineral-associated and particulate organic carbon](https://doi.org/10.1016/j.jenvman.2025.126282)<br><small>Journal of Environmental Management · with Xiaomin Ren, Akash Tariq, Jinfang Chen, Li Hou, Liping Ye, Sheng Lin and 6 more</small> | Biochar | 6 |
 | 2025 | [Synergistic plant-fungal interactions under Phragmites australis - mangrove mixed growth regimes boost particulate organic carbon sequestration in estuarine wetlands](https://doi.org/10.1016/j.envres.2025.122271)<br><small>Environmental Research · with Jinfang Chen, Fanjiang Zeng, Jiayi Xu, Ning Hou, Ruojing Yin, Shiyu Chen and 5 more</small> | Ocean CDR | 3 |

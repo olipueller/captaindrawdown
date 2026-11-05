@@ -1,7 +1,7 @@
 ---
 title: "Michael B. McElroy"
-description: "Michael B. McElroy, Planetary Science Institute, United States. 505 publications, h-index 94, 30,343 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Michael B. McElroy, Planetary Science Institute, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3803 by activity, 17 by citations). 505 publications, h-index 94, 30,343 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/michael-b-mcelroy-a5100443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Planetary Science Institute</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3803 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>94</td></tr>
   <tr><th>Citations</th><td>30,343</td></tr>

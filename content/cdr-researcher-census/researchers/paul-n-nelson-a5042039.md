@@ -1,7 +1,7 @@
 ---
 title: "Paul N. Nelson"
-description: "Paul N. Nelson, James Cook University Cairns Campus, Australia. 249 publications, h-index 50, 9,753 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Paul N. Nelson, James Cook University Cairns Campus, Australia. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 817 by activity, 81 by citations). 249 publications, h-index 50, 9,753 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/paul-n-nelson-a5042039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>James Cook University Cairns Campus</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 817 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>9,753</td></tr>

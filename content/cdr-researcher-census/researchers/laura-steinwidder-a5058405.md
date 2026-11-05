@@ -1,7 +1,7 @@
 ---
 title: "Laura Steinwidder"
-description: "Laura Steinwidder, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 11 by activity, 220 by citations. 40 publications, h-index 6, 122 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Laura Steinwidder, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 11 by activity, 220 by citations; Europe rank 8 by activity, 109 by citations). 40 publications, h-index 6, 122 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/laura-steinwidder-a5058405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 11 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 220 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 11 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 220 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 109 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>122</td></tr>
@@ -55,7 +55,7 @@ robots: "index, follow"
 | 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
 | 2026 | [Integrating experiments and models to unravel interactions between soil organic matter and enhanced weathering.](https://doi.org/10.70212/cdrxiv.2026473.v1)<br><small>with [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Bertrand Guenet, Charline Vandenhove, [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Reinaldy Poetra](/cdr-researcher-census/researchers/reinaldy-poetra-a5051333/), Tom Cox and 1 more</small> | Enhanced Weathering | 0 |
 | 2026 | [Synergistic effects of basalt and earthworms: enhanced nutrient availability and altered heavy metal dynamics](https://doi.org/10.5194/egusphere-2026-603)<br><small>with [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Jasper Roussard](/cdr-researcher-census/researchers/jasper-roussard-a5094096/), [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Patrick Frings](/cdr-researcher-census/researchers/patrick-frings-a5066536/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
-| 2026 | [Accounting for uncertainty in carbon fluxes: Towards the integration of Bayesian approaches in enhanced weathering](https://doi.org/10.5194/egusphere-egu26-18487)<br><small>with Kiona Ogle, Kiona Ogle, [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
+| 2026 | [Accounting for uncertainty in carbon fluxes: Towards the integration of Bayesian approaches in enhanced weathering](https://doi.org/10.5194/egusphere-egu26-18487)<br><small>with Kiona Ogle, [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
 | 2026 | [Towards Coupled Organic–Inorganic Modeling of Carbon Cycling In Enhanced Rock Weathering Soils](https://doi.org/10.5194/egusphere-egu26-18210)<br><small>with Charline Vandenhove, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Lucilla Boita, Tom Cox, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
 | 2026 | [Organic and inorganic pathways of CO2 removal during enhanced weathering](https://openalex.org/W7211998762) | Enhanced Weathering | 0 |
 | 2025 | [Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering](https://doi.org/10.1111/gcb.70340)<br><small>Global Change Biology · with Anthony de Schutter, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Patrick Frings](/cdr-researcher-census/researchers/patrick-frings-a5066536/) and 1 more</small> | Enhanced Weathering | 20 |

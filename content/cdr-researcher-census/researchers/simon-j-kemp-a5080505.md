@@ -1,7 +1,7 @@
 ---
 title: "Simon J. Kemp"
-description: "Simon J. Kemp, British Geological Survey, United Kingdom. 137 publications, h-index 27, 2,355 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Simon J. Kemp, British Geological Survey, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3344 by activity, 97 by citations). 137 publications, h-index 27, 2,355 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/simon-j-kemp-a5080505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>British Geological Survey</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 3344 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 97 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>2,355</td></tr>

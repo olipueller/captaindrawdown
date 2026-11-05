@@ -1,7 +1,7 @@
 ---
 title: "Marco Mazzotti"
-description: "Marco Mazzotti, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 9 by activity, 25 by citations. 636 publications, h-index 87, 28,207 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Marco Mazzotti, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 111 by activity, 3 by citations; Europe rank 71 by activity, 3 by citations), DAC (worldwide rank 9 by activity, 25 by citations; Europe rank 9 by activity, 18 by citations). 636 publications, h-index 87, 28,207 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/marco-mazzotti-a5038211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 9 <a href="/data/researchers/dac/">by activity</a>, rank 25 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 111 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 71 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 9 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>87</td></tr>
   <tr><th>Citations</th><td>28,207</td></tr>
@@ -47,12 +48,12 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado</small> | DAC | 5 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado</small> | DAC | 5 |
 | 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/) and 2 more</small> | DAC | 1 |
 | 2026 | [Climate impact of delayed carbon dioxide removal to compensate for legacy emissions](https://doi.org/10.2139/ssrn.6416106)<br><small>SSRN Electronic Journal (preprint) · with Tuvshinjargal Otgonbayar</small> | Cross-cutting CDR | 0 |
-| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado</small> | DAC | 0 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado</small> | DAC | 0 |
 | 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645)<br><small>with N Ferru, [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), Andre Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito and 4 more</small> | DAC | 0 |
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof and 3 more</small> | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof and 3 more</small> | DAC | 0 |
 | 2025 | [Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative](https://doi.org/10.1021/acs.iecr.5c00684)<br><small>Industrial & Engineering Chemistry Research · with Katrina Kloesel, Paolo Gabrielli, [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/), [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/)</small> | BECCS; DAC | 2 |
 | 2025 | [Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil](https://doi.org/10.31223/x55x4s)<br><small>preprint · with Antonio Gasós, [Ronny Pini](/cdr-researcher-census/researchers/ronny-pini-a5039896/), [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/)</small> | DAC | 1 |
 | 2024 | [Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO<sub>2</sub> Storage in Europe](https://doi.org/10.1021/acs.est.3c10041)<br><small>Environmental Science & Technology · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), Daniel Pokras, [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/)</small> | DAC | 69 |

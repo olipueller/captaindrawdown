@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
-description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 69 by activity, 235 by citations. 282 publications, h-index 73, 26,843 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 69 by activity, 235 by citations). 282 publications, h-index 73, 26,843 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>New South Wales Department of Primary Industries</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 69 <a href="/data/researchers/biochar/">by activity</a>, rank 235 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 69 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 235 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>73</td></tr>
   <tr><th>Citations</th><td>26,843</td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils](https://doi.org/10.21203/rs.3.rs-8691776/v1)<br><small>preprint · with Batool Albar, Adair Gallo, Adair Gallo, Andreia S.F. Farinha, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), George Harrison and 5 more</small> | Biochar | 0 |
-| 2026 | [Biochar alters soil aggregate organic carbon component distribution and stability under nitrogen fertilization](https://openalex.org/W7197047036)<br><small>with Jun Zhang, Cheng Li, Cheng Li, Da Dong, Dongyang Li, Fengchang Wu and 10 more</small> | Biochar | 0 |
+| 2026 | [Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils](https://doi.org/10.21203/rs.3.rs-8691776/v1)<br><small>preprint · with Batool Albar, Adair Gallo, Andreia S.F. Farinha, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), George Harrison and 5 more</small> | Biochar | 0 |
+| 2026 | [Biochar alters soil aggregate organic carbon component distribution and stability under nitrogen fertilization](https://openalex.org/W7197047036)<br><small>with Jun Zhang, Cheng Li, Da Dong, Dongyang Li, Fengchang Wu and 10 more</small> | Biochar | 0 |
 | 2025 | [Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment](https://doi.org/10.1016/j.still.2025.106662)<br><small>Soil and Tillage Research · with Jie Liu, Gao Qun, [Ke Sun](/cdr-researcher-census/researchers/ke-sun-a5066774/), Ke‐Qing Xiao, Shishu Zhu, X.H. Gao and 3 more</small> | Biochar | 11 |
 | 2025 | [Optimizing biochar for carbon sequestration: a synergistic approach using machine learning and natural language processing](https://doi.org/10.1007/s42773-024-00424-0)<br><small>Biochar · with Jiayi Li, Caibin Li, Chaojie Wang, Gerard Cornelissen, Hanbo Chen, [Jun Meng](/cdr-researcher-census/researchers/jun-meng-a5100619/) and 5 more</small> | Biochar | 9 |
 | 2024 | [Biochar as a green solution to drive the soil carbon pump](https://doi.org/10.1007/s44246-024-00132-1)<br><small>Carbon Research · with [Yalan Chen](/cdr-researcher-census/researchers/yalan-chen-a5007453/), Anqi Zhang, Chao Liang, Hailiang Dong, Jiaqi Ren, Ke‐Qing Xiao and 2 more</small> | Biochar | 29 |

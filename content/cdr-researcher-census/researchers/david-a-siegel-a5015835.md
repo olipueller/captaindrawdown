@@ -1,7 +1,7 @@
 ---
 title: "David A. Siegel"
-description: "David A. Siegel, University of California, Santa Barbara, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 42 by activity, 68 by citations. 401 publications, h-index 93, 37,397 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "David A. Siegel, University of California, Santa Barbara, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 42 by activity, 68 by citations). 401 publications, h-index 93, 37,397 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/david-a-siegel-a5015835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, Santa Barbara</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 42 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 68 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 42 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>93</td></tr>
   <tr><th>Citations</th><td>37,397</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with [Ken O. Buesseler](/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/), Angelicque White, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Christine Klaas, Daniele Bianchi, Daniele Bianchi and 21 more</small> | Ocean CDR | 7 |
+| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with [Ken O. Buesseler](/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/), Angelicque White, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Christine Klaas, Daniele Bianchi and 21 more</small> | Ocean CDR | 7 |
 | 2026 | [A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration: Governance: Legal, Policy, Justice, and Social Considerations](https://openalex.org/W7213989323)<br><small>with [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), ADAM SUBHAS, David M. Karl, ELIZABETH JEWETT, GABRIELLA KITCH, Galen McKinley and 13 more</small> | Ocean CDR | 0 |
 | 2025 | [An upper-mesopelagic-zone carbon budget for the subarctic North Pacific](https://doi.org/10.5194/bg-22-3301-2025)<br><small>Biogeosciences · with Brandon M. Stephens, Alyson E. Santoro, Amy E. Maas, Andrea J. Fassbender, Claudia R. Benitez‐Nelson, Craig A. Carlson and 14 more</small> | Ocean CDR | 7 |
 | 2025 | [On the Efficiency and Durability of Purposefully Sinking Seaweed Biomass as a Marine Carbon Dioxide Removal Strategy](https://doi.org/10.22541/essoar.176306401.14802254/v1)<br><small>with Michaela Sten, K. Yamamoto, Sebastian J. E. Krause, [Tim DeVries](/cdr-researcher-census/researchers/tim-devries-a5063318/)</small> | Ocean CDR | 0 |

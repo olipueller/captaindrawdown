@@ -1,7 +1,7 @@
 ---
 title: "Oliviér Boucher"
-description: "Oliviér Boucher, Institut Pierre-Simon Laplace, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 41 by activity, 27 by citations. 820 publications, h-index 114, 60,905 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Oliviér Boucher, Institut Pierre-Simon Laplace, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 41 by activity, 27 by citations; Europe rank 27 by activity, 8 by citations). 820 publications, h-index 114, 60,905 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/olivier-boucher-a5077051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Institut Pierre-Simon Laplace</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 41 <a href="/data/researchers/beccs/">by activity</a>, rank 27 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 41 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>114</td></tr>
   <tr><th>Citations</th><td>60,905</td></tr>

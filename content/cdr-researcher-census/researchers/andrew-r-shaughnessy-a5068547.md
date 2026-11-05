@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Shaughnessy"
-description: "Andrew R. Shaughnessy, Pennsylvania State University, United States. 29 publications, h-index 9, 357 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Andrew R. Shaughnessy, Pennsylvania State University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3978 by activity, 74 by citations). 29 publications, h-index 9, 357 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/andrew-r-shaughnessy-a5068547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Pennsylvania State University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 3978 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>357</td></tr>

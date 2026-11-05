@@ -1,7 +1,7 @@
 ---
 title: "Erik S. Button"
-description: "Erik S. Button, Bangor University, United Kingdom. 6 publications, h-index 5, 374 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Erik S. Button, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3019 by activity, 34 by citations). 6 publications, h-index 5, 374 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/erik-s-button-a5016544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bangor University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 3019 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>374</td></tr>

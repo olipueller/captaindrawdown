@@ -1,7 +1,7 @@
 ---
 title: "Pacharapol Nokpho"
-description: "Pacharapol Nokpho, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 75 by activity, 2894 by citations. 11 publications, h-index 6, 75 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Pacharapol Nokpho, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 75 by activity, 2894 by citations). 11 publications, h-index 6, 75 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chulalongkorn University</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 75 <a href="/data/researchers/dac/">by activity</a>, rank 2894 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 75 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2894 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>75</td></tr>

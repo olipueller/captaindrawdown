@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Moosazadeh"
-description: "Mohammad Moosazadeh, Kyung Hee University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 71 by activity, 2292 by citations. 20 publications, h-index 9, 216 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mohammad Moosazadeh, Kyung Hee University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 71 by activity, 2292 by citations). 20 publications, h-index 9, 216 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mohammad-moosazadeh-a5012347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kyung Hee University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 71 <a href="/data/researchers/dac/">by activity</a>, rank 2292 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 71 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2292 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>216</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Techno-economic feasibility and life cycle carbon assessment of an integrated bioenergy driven direct air capture for sustainable hydrogen carrier production](https://openalex.org/W7161278173)<br><small>with Mahmoud Kiannejad Amiri, ChangKyoo Yoo</small> | DAC | 2 |
 | 2026 | [Thermodynamic assessment of a novel liquid direct air capture system integrated with natural gas reforming for synergistic methanol production](https://openalex.org/W7171321388)<br><small>with H S Kim, Shadfar Davoodi, Wafa Suwaileh, Jinwoo Park</small> | DAC | 1 |
-| 2026 | [Direct Air Capture in Low-Carbon Energy Systems: Regeneration Penalties, Renewable Integration, and Carbon Storage Pathways](https://openalex.org/W7212078322)<br><small>with Adrian Chun Minh Loy, Anamika Kushwaha, Anamika Kushwaha, Gopa Nandikes, Jinwoo Park, Lalit Goswami and 7 more</small> | DAC | 0 |
+| 2026 | [Direct Air Capture in Low-Carbon Energy Systems: Regeneration Penalties, Renewable Integration, and Carbon Storage Pathways](https://openalex.org/W7212078322)<br><small>with Adrian Chun Minh Loy, Anamika Kushwaha, Gopa Nandikes, Jinwoo Park, Lalit Goswami and 7 more</small> | DAC | 0 |
 | 2026 | [Regional technoeconomic and life-cycle carbon assessment of direct air capture–based power-to-liquid sustainable aviation fuel production](https://openalex.org/W7214113157)<br><small>with Mahmoud Kiannejad Amiri, Umais Khan, Usama Ali, ChangKyoo Yoo</small> | DAC | 0 |
 
 ---

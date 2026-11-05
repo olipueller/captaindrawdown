@@ -1,7 +1,7 @@
 ---
 title: "Haiping Yang"
-description: "Haiping Yang, State Key Laboratory of Coal Combustion, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 32 by activity, 61 by citations. 575 publications, h-index 88, 36,219 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Haiping Yang, State Key Laboratory of Coal Combustion, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 294 by activity, 8 by citations), Biochar (worldwide rank 32 by activity, 61 by citations). 575 publications, h-index 88, 36,219 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/haiping-yang-a5024934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>State Key Laboratory of Coal Combustion</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 32 <a href="/data/researchers/biochar/">by activity</a>, rank 61 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 294 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 8 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 32 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 61 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>88</td></tr>
   <tr><th>Citations</th><td>36,219</td></tr>
@@ -47,7 +48,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biochar/carbon dots sorbent for the removal of heavy metal ions from wastewater](https://openalex.org/W7151342472)<br><small>with Egor O. Ryabchenko, Darya Silyukova, Jingai Shao, Junjie Zhang, Junjie Zhang, Pavel V. Krivoshapkin and 2 more</small> | Biochar | 0 |
+| 2026 | [Biochar/carbon dots sorbent for the removal of heavy metal ions from wastewater](https://openalex.org/W7151342472)<br><small>with Egor O. Ryabchenko, Darya Silyukova, Jingai Shao, Junjie Zhang, Pavel V. Krivoshapkin and 2 more</small> | Biochar | 0 |
 | 2026 | [Research on the temporal evolution and characteristics of stages in potassium-assisted biomass pyrolysis](https://openalex.org/W7204072071)<br><small>with Yingquan Chen, [Hanping Chen](/cdr-researcher-census/researchers/hanping-chen-a5007450/), Hanyu Zhao, Mingwei Xia, Juping Liu</small> | Biochar | 0 |
 | 2025 | [Biochar production, activation, and applications: A comprehensive technical review](https://doi.org/10.1016/j.ccst.2025.100421)<br><small>Carbon Capture Science & Technology · with L. Sun, Daxin Liang, Dongdong Feng, Fei Huang, Gang Wu, Hongman Sun and 28 more</small> | Biochar | 35 |
 | 2025 | [Temperature-dependent evolution of N-doped biochar: structure, stability, and catalytic performance](https://doi.org/10.1016/j.fuel.2025.137455)<br><small>Fuel · with Wanwan Wang, Han Zhang, Jinjiao Zhu, Qing Yang Zhu, Shihong Zhang, [Hanping Chen](/cdr-researcher-census/researchers/hanping-chen-a5007450/)</small> | Biochar | 9 |

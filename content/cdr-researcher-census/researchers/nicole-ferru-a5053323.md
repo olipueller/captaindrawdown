@@ -1,7 +1,7 @@
 ---
 title: "Nicole Ferru"
-description: "Nicole Ferru, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 44 by activity, 1862 by citations. 13 publications, h-index 4, 152 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nicole Ferru, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 44 by activity, 1862 by citations; Europe rank 24 by activity, 597 by citations). 13 publications, h-index 4, 152 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nicole-ferru-a5053323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 44 <a href="/data/researchers/dac/">by activity</a>, rank 1862 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 44 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1862 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 597 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>152</td></tr>
@@ -47,11 +47,11 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344)<br><small>with André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 5 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344)<br><small>with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 5 |
 | 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872)<br><small>with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/), [Ronny Pini](/cdr-researcher-census/researchers/ronny-pini-a5039896/) and 2 more</small> | DAC | 1 |
-| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360)<br><small>with André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 0 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360)<br><small>with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), Nicolas Antunes Morgado, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 0 |
 | 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645)<br><small>with N Ferru, Andre Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof and 4 more</small> | DAC | 0 |
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/) and 3 more</small> | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/) and 3 more</small> | DAC | 0 |
 
 ---
 

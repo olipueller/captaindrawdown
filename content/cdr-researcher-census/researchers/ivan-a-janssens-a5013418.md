@@ -1,7 +1,7 @@
 ---
 title: "Ivan A. Janssens"
-description: "Ivan A. Janssens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 40 by activity, 12 by citations. 709 publications, h-index 123, 74,732 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Ivan A. Janssens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 40 by activity, 12 by citations; Europe rank 26 by activity, 10 by citations), BECCS (worldwide rank 2236 by activity, 51 by citations; Europe rank 848 by activity, 19 by citations). 709 publications, h-index 123, 74,732 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 40 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 12 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 40 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2236 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 848 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>123</td></tr>
   <tr><th>Citations</th><td>74,732</td></tr>

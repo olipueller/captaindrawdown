@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Yousry"
-description: "Mahmoud Yousry, Ain Shams University Hospital, Egypt. 3 publications, h-index 2, 588 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mahmoud Yousry, Ain Shams University Hospital, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23849 by activity, 80 by citations). 3 publications, h-index 2, 588 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ain Shams University Hospital</td></tr>
   <tr><th>Country</th><td>Egypt</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23849 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>588</td></tr>

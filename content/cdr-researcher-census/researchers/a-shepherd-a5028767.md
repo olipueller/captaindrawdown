@@ -1,7 +1,7 @@
 ---
 title: "A. Shepherd"
-description: "A. Shepherd, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 48 by activity, 178 by citations. 120 publications, h-index 19, 1,350 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "A. Shepherd, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 48 by activity, 178 by citations; Europe rank 33 by activity, 73 by citations). 120 publications, h-index 19, 1,350 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/a-shepherd-a5028767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Aberdeen</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 48 <a href="/data/researchers/beccs/">by activity</a>, rank 178 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 48 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 178 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 33 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 73 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,350</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Samer Fawzy"
-description: "Samer Fawzy, Queen's University Belfast, United Kingdom. 28 publications, h-index 17, 6,629 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Samer Fawzy, Queen's University Belfast, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 395 by activity, 8 by citations; Europe rank 82 by activity, 5 by citations), Cross-cutting CDR (worldwide rank 10631 by activity, 28 by citations; Europe rank 2867 by activity, 20 by citations). 28 publications, h-index 17, 6,629 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/samer-fawzy-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Queen's University Belfast</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 395 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 8 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 82 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 5 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10631 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2867 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>6,629</td></tr>

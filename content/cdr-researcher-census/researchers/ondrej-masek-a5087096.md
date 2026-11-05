@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
-description: "Ondřej Mašek, University of Edinburgh, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 3 by activity, 12 by citations. 260 publications, h-index 65, 14,441 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Ondřej Mašek, University of Edinburgh, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3 by activity, 12 by citations; Europe rank 2 by activity, 6 by citations), BECCS (worldwide rank 3804 by activity, 18 by citations; Europe rank 1362 by activity, 7 by citations). 260 publications, h-index 65, 14,441 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Edinburgh</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 3 <a href="/data/researchers/biochar/">by activity</a>, rank 12 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 3 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3804 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1362 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 7 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>65</td></tr>
   <tr><th>Citations</th><td>14,441</td></tr>
@@ -49,8 +50,8 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Engineering Thermochemistry and Process Technologies to Enable Gigaton‐Scale Sustainable Biochar Production](https://openalex.org/W7165139329)<br><small>with Dengguo Lai, [Christian Wurzer](/cdr-researcher-census/researchers/christian-wurzer-a5052710/), Jiacheng Sun, Mingyu Hu, S Wang, Wolfram Buss and 7 more</small> | Biochar | 1 |
 | 2026 | [Biochar reduces soil thermal conductivity, diffusivity and volumetric heat storage: A global meta-analysis](https://openalex.org/W7166338003)<br><small>preprint · with [Behrouz Gholamahmadi](/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/), Damien Beillouin, K. Weber, Lukáš Trakal</small> | Biochar | 1 |
-| 2026 | [Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations](https://openalex.org/W7140175985)<br><small>preprint · with Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Haitao Huang, Margaret Graham, Zhuodong Lyu and 1 more</small> | Biochar | 0 |
-| 2026 | [Constructing ”Atmosphere-Plant-Biochar-Soil” Full-process model for Comprehensively Evaluating Biochar Carbon Sequestration Potential](https://openalex.org/W7160914702)<br><small>preprint · with Feifan Liu, Jun Liang, Ling Zhao, Xiangyang Gui, Xiangyang Gui, Xiaoke Peng and 2 more</small> | Biochar | 0 |
+| 2026 | [Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations](https://openalex.org/W7140175985)<br><small>preprint · with Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Margaret Graham, Zhuodong Lyu and 1 more</small> | Biochar | 0 |
+| 2026 | [Constructing ”Atmosphere-Plant-Biochar-Soil” Full-process model for Comprehensively Evaluating Biochar Carbon Sequestration Potential](https://openalex.org/W7160914702)<br><small>preprint · with Feifan Liu, Jun Liang, Ling Zhao, Xiangyang Gui, Xiaoke Peng and 2 more</small> | Biochar | 0 |
 | 2026 | [Mechanisms of Mn(II) removal from mining-impacted waters by biochar: Decoupling precipitation and surface complexation via experiments and atomistic simulations](https://openalex.org/W7215863009)<br><small>with Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Margaret Graham, Zhuodong Lyu, Valentina Erastova</small> | Biochar | 0 |
 | 2025 | [Evaluating the two-pool decay model for biochar carbon permanence](https://doi.org/10.1007/s42773-024-00408-0)<br><small>Biochar · with [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), [David Chiaramonti](/cdr-researcher-census/researchers/david-chiaramonti-a5071729/), [Henrik I. Petersen](/cdr-researcher-census/researchers/henrik-i-petersen-a5016856/)</small> | Biochar | 27 |
 | 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5)<br><small>Carbon Research · with [Shuangjun Li](/cdr-researcher-census/researchers/shuangjun-li-a5000532/), Hao Wang, [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), Runkai Chen, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/), Xiangkun Elvis Cao and 4 more</small> | DAC | 10 |

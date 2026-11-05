@@ -1,7 +1,7 @@
 ---
 title: "Mathias Fridahl"
-description: "Mathias Fridahl, Linköping University, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 21 by activity, 77 by citations. 75 publications, h-index 26, 1,866 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mathias Fridahl, Linköping University, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 21 by activity, 77 by citations; Europe rank 13 by activity, 29 by citations). 75 publications, h-index 26, 1,866 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mathias-fridahl-a5081929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Linköping University</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 21 <a href="/data/researchers/beccs/">by activity</a>, rank 77 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 21 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 13 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 29 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>1,866</td></tr>

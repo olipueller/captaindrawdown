@@ -1,7 +1,7 @@
 ---
 title: "Annette Cowie"
-description: "Annette Cowie, University of New England, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 97 by activity, 10 by citations. 285 publications, h-index 69, 23,571 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Annette Cowie, University of New England, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 97 by activity, 10 by citations). 285 publications, h-index 69, 23,571 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/annette-cowie-a5018651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of New England</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 97 <a href="/data/researchers/biochar/">by activity</a>, rank 10 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 97 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 10 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>23,571</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057)<br><small>with George D. Bishop, [Christiane Hennig](/cdr-researcher-census/researchers/christiane-hennig-a5045674/), Colm Duffy, [Göran Berndes](/cdr-researcher-census/researchers/goran-berndes-a5088119/), James Gaffey, John R. Healey and 3 more</small> | BECCS | 4 |
-| 2026 | [Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils](https://doi.org/10.21203/rs.3.rs-8691776/v1)<br><small>preprint · with Batool Albar, Adair Gallo, Adair Gallo, Andreia S.F. Farinha, George Harrison, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/) and 5 more</small> | Biochar | 0 |
+| 2026 | [Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils](https://doi.org/10.21203/rs.3.rs-8691776/v1)<br><small>preprint · with Batool Albar, Adair Gallo, Andreia S.F. Farinha, George Harrison, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/) and 5 more</small> | Biochar | 0 |
 | 2025 | [Estimates vary but credible evidence points to gigaton-scale climate change mitigation potential of biochar](https://doi.org/10.1038/s43247-025-02228-x)<br><small>Communications Earth & Environment · with Zhe Weng</small> | Biochar | 30 |
 | 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8)<br><small>Nature Communications · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), David Keller, [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/) and 20 more</small> | Cross-cutting CDR | 20 |
 | 2025 | [Biochar Permanence—A Policy Commentary](https://doi.org/10.1111/gcbb.70092)<br><small>GCB Bioenergy · with [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/), [Andrew R. Zimmerman](/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), Cornélia Rumpel, [Daniel P. Rasse](/cdr-researcher-census/researchers/daniel-p-rasse-a5060395/) and 7 more</small> | Biochar | 16 |

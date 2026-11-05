@@ -1,7 +1,7 @@
 ---
 title: "Paul de Joannis"
-description: "Paul de Joannis, Centre National de la Recherche Scientifique, France. 6 publications, h-index 3, 22 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Paul de Joannis, Centre National de la Recherche Scientifique, France. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 50 by activity, 658 by citations). 6 publications, h-index 3, 22 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/paul-de-joannis-a5114757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centre National de la Recherche Scientifique</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 50 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 658 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>22</td></tr>

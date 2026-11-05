@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Sundberg"
-description: "Cecilia Sundberg, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 38 by activity, 118 by citations. 152 publications, h-index 40, 4,836 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Cecilia Sundberg, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 38 by activity, 118 by citations; Europe rank 13 by activity, 22 by citations). 152 publications, h-index 40, 4,836 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Swedish University of Agricultural Sciences</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 38 <a href="/data/researchers/biochar/">by activity</a>, rank 118 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 38 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 118 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 13 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 22 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>40</td></tr>
   <tr><th>Citations</th><td>4,836</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Biogas-based hydrogen production and carbon dioxide removal: Techno-economic and climate impact assessment](https://openalex.org/W7169514469)<br><small>with Linus Engstam, Gülru Bulkan, Leandro Janke, Åke Nordberg</small> | Cross-cutting CDR | 1 |
 | 2026 | [Bomb 14 C for tracing biochar mineralization in soil](https://openalex.org/W7214128309)<br><small>with Haichao Li, [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Harald Cederlund, Erik Karltun</small> | Biochar | 0 |
-| 2025 | [Early-stage sustainability assessment of greywater treatment with Moringa oleifera seed extract and biochar](https://doi.org/10.1016/j.jclepro.2025.147349)<br><small>Journal of Cleaner Production · with Catherine Ndinda, Catherine Ndinda, Harry Tibbetts, Lisa Zakrisson, Mary Njenga, Ivan Kozyatnyk</small> | Biochar | 0 |
+| 2025 | [Early-stage sustainability assessment of greywater treatment with Moringa oleifera seed extract and biochar](https://doi.org/10.1016/j.jclepro.2025.147349)<br><small>Journal of Cleaner Production · with Catherine Ndinda, Harry Tibbetts, Lisa Zakrisson, Mary Njenga, Ivan Kozyatnyk</small> | Biochar | 0 |
 | 2024 | [Biochar sustainability](http://dx.doi.org/10.4324/9781003297673-31)<br><small>with [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/)</small> | Biochar | 1 |
 | 2023 | [Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data](https://doi.org/10.1016/j.geoderma.2023.116761)<br><small>Geoderma · with [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Erik Karltun, Haichao Li, Harald Cederlund</small> | Biochar | 97 |
 | 2023 | [Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment](https://doi.org/10.1111/gcbb.13102)<br><small>GCB Bioenergy · with Shivesh Kishore Karan, [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [Elias Azzi](/cdr-researcher-census/researchers/elias-azzi-a5039260/), Stephen A. Wood</small> | Biochar | 56 |

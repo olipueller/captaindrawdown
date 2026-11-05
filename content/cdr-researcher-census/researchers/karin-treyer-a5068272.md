@@ -1,7 +1,7 @@
 ---
 title: "Karin Treyer"
-description: "Karin Treyer, Paul Scherrer Institute, Switzerland. 36 publications, h-index 15, 2,333 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Karin Treyer, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5816 by activity, 66 by citations; Europe rank 1509 by activity, 33 by citations). 36 publications, h-index 15, 2,333 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/karin-treyer-a5068272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Paul Scherrer Institute</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5816 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1509 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>2,333</td></tr>

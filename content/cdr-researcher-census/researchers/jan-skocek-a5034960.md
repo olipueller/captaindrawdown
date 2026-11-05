@@ -1,7 +1,7 @@
 ---
 title: "Jan Skoček"
-description: "Jan Skoček, HeidelbergCement (United States), United States. 66 publications, h-index 30, 3,768 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jan Skoček, HeidelbergCement (United States), United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4681 by activity, 93 by citations). 66 publications, h-index 30, 3,768 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jan-skocek-a5034960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>HeidelbergCement (United States)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4681 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,768</td></tr>

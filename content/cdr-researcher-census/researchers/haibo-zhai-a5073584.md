@@ -1,7 +1,7 @@
 ---
 title: "Haibo Zhai"
-description: "Haibo Zhai, University of Wyoming, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 23 by activity, 676 by citations. 106 publications, h-index 29, 3,509 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Haibo Zhai, University of Wyoming, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 23 by activity, 676 by citations). 106 publications, h-index 29, 3,509 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/haibo-zhai-a5073584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Wyoming</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 23 <a href="/data/researchers/beccs/">by activity</a>, rank 676 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 23 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 676 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>3,509</td></tr>

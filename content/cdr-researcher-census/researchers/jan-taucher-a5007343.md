@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
-description: "Jan Taucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 95 by activity, 35 by citations. 110 publications, h-index 25, 2,139 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jan Taucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 95 by activity, 35 by citations; Europe rank 58 by activity, 17 by citations). 110 publications, h-index 25, 2,139 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 95 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 35 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 95 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 58 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>25</td></tr>
   <tr><th>Citations</th><td>2,139</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2025 | [Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement](https://doi.org/10.5194/bg-22-71-2025)<br><small>Biogeosciences · with Philipp Suessle, Andrea Noche-Ferreira, Kristian Spilling, Mari Vanharanta, Moritz Baumann, [Silvan Urs Goldenberg](/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/) and 1 more</small> | Ocean CDR | 10 |
-| 2025 | [New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics - Version 2.0.](https://doi.org/10.3289/oceannets_d5.8_v2.0)<br><small>with Markus Schartau, Markus Pahlow, Markus Pahlow, [Tronje P. Kemena](/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/), Vanessa Lampe, [Miriam Seifert](/cdr-researcher-census/researchers/miriam-seifert-a5036998/)</small> | Ocean CDR | 0 |
+| 2025 | [New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics - Version 2.0.](https://doi.org/10.3289/oceannets_d5.8_v2.0)<br><small>with Markus Schartau, Markus Pahlow, [Tronje P. Kemena](/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/), Vanessa Lampe, [Miriam Seifert](/cdr-researcher-census/researchers/miriam-seifert-a5036998/)</small> | Ocean CDR | 0 |
 | 2024 | [Plankton food web structure and productivity under ocean alkalinity enhancement](https://doi.org/10.1126/sciadv.ado0264)<br><small>Science Advances · with [Nicolás Sánchez](/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/), Cornelia Jaspers, Daniel Brüggemann, [Silvan Urs Goldenberg](/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/), [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 29 |
 | 2024 | [Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean](https://doi.org/10.1021/acs.est.4c09838)<br><small>Environmental Science & Technology · with Xiaoke Xin, Annegret Stuhr, [Javier Arı́stegui](/cdr-researcher-census/researchers/javier-arstegui-a5091003/), [Silvan Urs Goldenberg](/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/), [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 23 |
 | 2024 | [New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics](http://dx.doi.org/10.3289/oceannets_d5.8)<br><small>with Markus Schartau, [Tronje P. Kemena](/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/), Vanessa Lampe, [Miriam Seifert](/cdr-researcher-census/researchers/miriam-seifert-a5036998/)</small> | Ocean CDR | 2 |

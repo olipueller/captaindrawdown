@@ -1,7 +1,7 @@
 ---
 title: "Mihrimah Ozkan"
-description: "Mihrimah Ozkan, University of California, Riverside, United States. 193 publications, h-index 45, 6,563 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mihrimah Ozkan, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 127 by activity, 27 by citations). 193 publications, h-index 45, 6,563 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, Riverside</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 127 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>6,563</td></tr>

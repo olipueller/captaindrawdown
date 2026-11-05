@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Yu"
-description: "Jiacheng Yu, Tianjin University, China. 30 publications, h-index 12, 480 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jiacheng Yu, Tianjin University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2314 by activity, 60 by citations). 30 publications, h-index 12, 480 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jiacheng-yu-a5051997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Tianjin University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2314 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>480</td></tr>

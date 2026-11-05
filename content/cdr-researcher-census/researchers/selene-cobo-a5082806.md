@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
-description: "Selene Cobo, Universidad de Cantabria, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 62 by activity, 116 by citations. 35 publications, h-index 13, 758 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Selene Cobo, Universidad de Cantabria, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 62 by activity, 116 by citations; Europe rank 44 by activity, 50 by citations). 35 publications, h-index 13, 758 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Cantabria</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 62 <a href="/data/researchers/beccs/">by activity</a>, rank 116 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 62 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 116 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 44 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 50 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>758</td></tr>

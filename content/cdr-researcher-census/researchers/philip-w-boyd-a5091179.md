@@ -1,7 +1,7 @@
 ---
 title: "Philip W. Boyd"
-description: "Philip W. Boyd, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 12 by activity, 2 by citations. 442 publications, h-index 102, 44,354 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Philip W. Boyd, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 12 by activity, 2 by citations). 442 publications, h-index 102, 44,354 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/philip-w-boyd-a5091179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 12 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 2 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 12 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>102</td></tr>
   <tr><th>Citations</th><td>44,354</td></tr>

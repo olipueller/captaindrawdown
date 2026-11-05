@@ -1,7 +1,7 @@
 ---
 title: "Jorge A. R. Navarro"
-description: "Jorge A. R. Navarro, Universidad de Granada, Spain. 311 publications, h-index 51, 10,701 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jorge A. R. Navarro, Universidad de Granada, Spain. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4132 by activity, 78 by citations; Europe rank 1079 by activity, 37 by citations). 311 publications, h-index 51, 10,701 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Granada</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4132 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1079 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>10,701</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Catherine E. Lovelock"
-description: "Catherine E. Lovelock, The University of Queensland, Australia. 479 publications, h-index 97, 39,968 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Catherine E. Lovelock, The University of Queensland, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 1066 by activity, 93 by citations). 479 publications, h-index 97, 39,968 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/catherine-e-lovelock-a5070671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>The University of Queensland</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1066 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>97</td></tr>
   <tr><th>Citations</th><td>39,968</td></tr>

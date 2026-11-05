@@ -1,7 +1,7 @@
 ---
 title: "Dong‐Yeun Koh"
-description: "Dong‐Yeun Koh, Korea Advanced Institute of Science and Technology, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 68 by activity, 2130 by citations. 144 publications, h-index 32, 3,415 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Dong‐Yeun Koh, Korea Advanced Institute of Science and Technology, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 68 by activity, 2130 by citations). 144 publications, h-index 32, 3,415 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/dongyeun-koh-a5082658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Korea Advanced Institute of Science and Technology</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 68 <a href="/data/researchers/dac/">by activity</a>, rank 2130 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 68 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2130 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>3,415</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes](https://openalex.org/W7160511003)<br><small>with Injun Park, Inhwan Park, Karoline L. Hebisch, Minhyung Lee, Sieun Kim</small> | DAC | 4 |
-| 2026 | [Additive manufacturing of architected Ca(OH)2 monoliths for accelerated CO2 mineralization](https://doi.org/10.1016/j.ccst.2026.100568)<br><small>Carbon Capture Science & Technology · with InJun Park, Injun Park, Byeongju Jeon, Huiryung Heo, Jay H. Lee, Siyoung Q. Choi and 1 more</small> | DAC; Enhanced Weathering | 0 |
+| 2026 | [Additive manufacturing of architected Ca(OH)2 monoliths for accelerated CO2 mineralization](https://doi.org/10.1016/j.ccst.2026.100568)<br><small>Carbon Capture Science & Technology · with InJun Park, Byeongju Jeon, Huiryung Heo, Jay H. Lee, Siyoung Q. Choi and 1 more</small> | DAC; Enhanced Weathering | 0 |
 | 2026 | [A Compact Hollow Fiber Electrode Assembly Architecture for Continuous Electrochemical Marine Carbon Dioxide Removal](https://openalex.org/W7165182037)<br><small>with I O Park, Jung Hun Lee, Seung‐Jeong Oh, [T. Alan Hatton](/cdr-researcher-census/researchers/t-alan-hatton-a5046348/), Young Hun Lee</small> | Ocean CDR | 0 |
 | 2026 | [Cycle-by-Cycle Optimization of Direct Air Capture (DAC) Operation under Varying Ambient Air Conditions](https://openalex.org/W7204235278)<br><small>preprint · with Abdulrahman AlMashaan, Aqil Jamal, Jay H. Lee</small> | DAC | 0 |
 | 2026 | [Impregnation of liquid-like nanoparticle organic hybrid materials in mesoporous fiber sorbent with hierarchical structures for scalable direct air capture](https://openalex.org/W7208784480)<br><small>with Yugyeong Sung, Ah‐Hyung Alissa Park, Ingyu Park, Miseong Kim, Seungin Lee, Yeonwook Kim and 2 more</small> | DAC | 0 |

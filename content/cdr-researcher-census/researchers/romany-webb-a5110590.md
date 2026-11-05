@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
-description: "Romany Webb, Columbia University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 32 by activity, 150 by citations. 98 publications, h-index 9, 287 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Romany Webb, Columbia University, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 32 by activity, 150 by citations). 98 publications, h-index 9, 287 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Columbia University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 32 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 150 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 32 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 150 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>287</td></tr>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with [Ken O. Buesseler](/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/), Angelicque White, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Christine Klaas, Daniele Bianchi, Daniele Bianchi and 21 more</small> | Ocean CDR | 7 |
+| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with [Ken O. Buesseler](/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/), Angelicque White, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Christine Klaas, Daniele Bianchi and 21 more</small> | Ocean CDR | 7 |
 | 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
 | 2026 | [The Biodiversity Beyond National Jurisdiction Agreement and its Role in Governance of Marine Carbon Dioxide Removal](https://doi.org/10.2139/ssrn.6023674)<br><small>SSRN Electronic Journal (preprint) · with William C.G. Burns</small> | Ocean CDR | 0 |
 | 2026 | [Regulation of Coastal Weathering in Massachusetts](https://openalex.org/W7148215543)<br><small>with Ashwin Murthy, Korey Silverman-Roati</small> | Enhanced Weathering | 0 |

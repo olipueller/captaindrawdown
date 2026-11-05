@@ -1,7 +1,7 @@
 ---
 title: "Anna A. Stoeckel"
-description: "Anna A. Stoeckel, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 98 by activity, 2273 by citations. 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Anna A. Stoeckel, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 98 by activity, 2273 by citations). 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,13 +29,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 98 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 2273 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 98 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2273 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>3</td></tr>
   <tr><th>Publications</th><td>5</td></tr>
   <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0005-4557-7991">ORCID</a> · <a href="https://openalex.org/A5120424771">OpenAlex</a></td></tr>
 </table>
 

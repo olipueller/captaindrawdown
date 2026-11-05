@@ -1,7 +1,7 @@
 ---
 title: "Peter Wade"
-description: "Peter Wade, Mersen (France), France. 11 publications, h-index 7, 1,787 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Peter Wade, Mersen (France), France. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 567 by activity, 28 by citations; Europe rank 265 by activity, 23 by citations). 11 publications, h-index 7, 1,787 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/peter-wade-a5078655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Mersen (France)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 567 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 265 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>1,787</td></tr>

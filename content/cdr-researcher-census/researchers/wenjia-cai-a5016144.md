@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Cai"
-description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 98 by activity, 66 by citations. 248 publications, h-index 58, 35,557 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 98 by activity, 66 by citations). 248 publications, h-index 58, 35,557 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/wenjia-cai-a5016144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Tsinghua University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 98 <a href="/data/researchers/beccs/">by activity</a>, rank 66 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 98 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>35,557</td></tr>

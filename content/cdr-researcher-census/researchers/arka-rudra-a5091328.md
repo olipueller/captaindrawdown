@@ -1,7 +1,7 @@
 ---
 title: "Arka Rudra"
-description: "Arka Rudra, Aarhus University, Denmark. 66 publications, h-index 16, 867 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Arka Rudra, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 37 by activity, 135 by citations). 66 publications, h-index 16, 867 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/arka-rudra-a5091328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Aarhus University</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 37 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 135 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>867</td></tr>

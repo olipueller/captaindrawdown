@@ -1,7 +1,7 @@
 ---
 title: "Mark Schmidt"
-description: "Mark Schmidt, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. 408 publications, h-index 47, 6,447 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mark Schmidt, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 292 by activity, 52 by citations; Europe rank 155 by activity, 38 by citations). 408 publications, h-index 47, 6,447 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mark-schmidt-a5010139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 292 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 155 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>6,447</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Craig Bettenhausen﻿"
-description: "Craig Bettenhausen﻿. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 53 by activity, 2128 by citations. 876 publications, h-index 6, 205 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Craig Bettenhausen﻿. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 53 by activity, 2128 by citations). 876 publications, h-index 6, 205 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/craig-bettenhausen-a5032647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -19,14 +19,13 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 53 <a href="/data/researchers/dac/">by activity</a>, rank 2128 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 53 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2128 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>205</td></tr>
   <tr><th>Publications</th><td>876</td></tr>
   <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5032647403">OpenAlex</a></td></tr>
 </table>
 

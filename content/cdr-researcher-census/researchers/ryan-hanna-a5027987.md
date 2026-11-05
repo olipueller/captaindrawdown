@@ -1,7 +1,7 @@
 ---
 title: "Ryan Hanna"
-description: "Ryan Hanna, University of California, San Diego, United States. 48 publications, h-index 15, 1,187 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ryan Hanna, University of California, San Diego, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4121 by activity, 92 by citations). 48 publications, h-index 15, 1,187 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ryan-hanna-a5027987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, San Diego</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4121 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>1,187</td></tr>

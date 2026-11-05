@@ -1,7 +1,7 @@
 ---
 title: "Qiyong Xu"
-description: "Qiyong Xu, Peking University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 50 by activity, 2253 by citations. 223 publications, h-index 39, 4,340 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Qiyong Xu, Peking University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 50 by activity, 2253 by citations). 223 publications, h-index 39, 4,340 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/qiyong-xu-a5020897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Peking University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 50 <a href="/data/researchers/biochar/">by activity</a>, rank 2253 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 50 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 2253 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
   <tr><th>Citations</th><td>4,340</td></tr>

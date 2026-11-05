@@ -1,7 +1,7 @@
 ---
 title: "Guozhao Ji"
-description: "Guozhao Ji, Tsinghua University, China. 188 publications, h-index 43, 5,579 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Guozhao Ji, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25902 by activity, 100 by citations). 188 publications, h-index 43, 5,579 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/guozhao-ji-a5060523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Tsinghua University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 25902 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 100 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>43</td></tr>
   <tr><th>Citations</th><td>5,579</td></tr>

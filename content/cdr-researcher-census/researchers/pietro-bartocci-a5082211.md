@@ -1,7 +1,7 @@
 ---
 title: "Pietro Bartocci"
-description: "Pietro Bartocci, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 49 by activity, 6 by citations. 196 publications, h-index 45, 6,320 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Pietro Bartocci, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 49 by activity, 6 by citations; Europe rank 34 by activity, 5 by citations). 196 publications, h-index 45, 6,320 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/pietro-bartocci-a5082211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RISE Research Institutes of Sweden</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 49 <a href="/data/researchers/beccs/">by activity</a>, rank 6 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 49 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 6 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 5 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>6,320</td></tr>

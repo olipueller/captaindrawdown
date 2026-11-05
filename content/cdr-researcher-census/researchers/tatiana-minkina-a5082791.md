@@ -1,7 +1,7 @@
 ---
 title: "Tatiana Minkina"
-description: "Tatiana Minkina, Southern Federal University, Russia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 96 by activity, 493 by citations. 884 publications, h-index 71, 20,438 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Tatiana Minkina, Southern Federal University, Russia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 96 by activity, 493 by citations). 884 publications, h-index 71, 20,438 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/tatiana-minkina-a5082791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Southern Federal University</td></tr>
   <tr><th>Country</th><td>Russia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 96 <a href="/data/researchers/biochar/">by activity</a>, rank 493 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 96 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 493 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>71</td></tr>
   <tr><th>Citations</th><td>20,438</td></tr>

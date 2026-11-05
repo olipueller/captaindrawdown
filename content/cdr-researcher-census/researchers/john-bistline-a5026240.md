@@ -1,7 +1,7 @@
 ---
 title: "John Bistline"
-description: "John Bistline, Electric Power Research Institute, United States. 103 publications, h-index 36, 3,781 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "John Bistline, Electric Power Research Institute, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 322 by activity, 65 by citations). 103 publications, h-index 36, 3,781 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/john-bistline-a5026240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Electric Power Research Institute</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 322 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 65 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>3,781</td></tr>

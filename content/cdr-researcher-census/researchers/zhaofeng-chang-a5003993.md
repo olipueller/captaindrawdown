@@ -1,7 +1,7 @@
 ---
 title: "Zhaofeng Chang"
-description: "Zhaofeng Chang, Kunming University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 75 by activity, 1460 by citations. 74 publications, h-index 21, 1,198 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Zhaofeng Chang, Kunming University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 75 by activity, 1460 by citations). 74 publications, h-index 21, 1,198 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/zhaofeng-chang-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kunming University of Science and Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 75 <a href="/data/researchers/biochar/">by activity</a>, rank 1460 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 75 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1460 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>1,198</td></tr>
@@ -48,8 +48,8 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Biochar regulates soil organic carbon flow pathways via density fraction redistribution and priming effects](https://openalex.org/W7160034768)<br><small>with Danping Wu, Jinsuo Li, Luping Tian, Peng Zhang, Yi Hao, 统 虞 and 1 more</small> | Biochar | 0 |
-| 2026 | [Short-term biochar amendment enhances the chemical stability of soil organic carbon in the labile pools but may inhibit native SOC transformation into stable pool](https://openalex.org/W7166313261)<br><small>with J H Li, Genghao Zhang, Kai Liu, Kai Liu, Luping Tian, Peng Zhang and 4 more</small> | Biochar | 0 |
-| 2026 | [Quantitative contribution of dissolution-driven precipitation to Pb(II) removal by biochars during adsorption process](https://openalex.org/W7167618230)<br><small>with Anila Sikandar, Bo Pan, Bo Pan, Danping Wu, Gang Chu, Jin Zhao and 3 more</small> | Biochar | 0 |
+| 2026 | [Short-term biochar amendment enhances the chemical stability of soil organic carbon in the labile pools but may inhibit native SOC transformation into stable pool](https://openalex.org/W7166313261)<br><small>with J H Li, Genghao Zhang, Kai Liu, Luping Tian, Peng Zhang and 4 more</small> | Biochar | 0 |
+| 2026 | [Quantitative contribution of dissolution-driven precipitation to Pb(II) removal by biochars during adsorption process](https://openalex.org/W7167618230)<br><small>with Anila Sikandar, Bo Pan, Danping Wu, Gang Chu, Jin Zhao and 3 more</small> | Biochar | 0 |
 | 2025 | [Trace amount of Fe-induced defect structures of biochar to activate persulfate for ofloxacin degradation](https://doi.org/10.1016/j.jece.2025.115697)<br><small>Journal of environmental chemical engineering · with Hao Li, Di Lang, Manling Zhang, Peng Zhang, Wei Du, Wenjun Duan and 3 more</small> | Biochar | 0 |
 | 2024 | [Biomass power generation: A pathway to carbon neutrality](https://doi.org/10.1016/j.scitotenv.2024.173080)<br><small>The Science of The Total Environment · with Wei Du, Hao Li, Jianhuai Ye, Jinze Wang, Nan Lin, Peng Zhang and 5 more</small> | BECCS | 45 |
 | 2024 | [Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review](https://doi.org/10.1007/s44246-024-00103-6)<br><small>Carbon Research · with [Baoshan Xing](/cdr-researcher-census/researchers/baoshan-xing-a5035633/), Bo Pan, Guofeng Shen, Jinfeng Zhao, Ke Jiang, Nan Zhao and 5 more</small> | Biochar | 13 |

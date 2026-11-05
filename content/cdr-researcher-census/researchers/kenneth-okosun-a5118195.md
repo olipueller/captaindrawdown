@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Okosun"
-description: "Kenneth Okosun, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 32 by activity, 1097 by citations. 10 publications, h-index 1, 21 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Kenneth Okosun, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 32 by activity, 1097 by citations; Europe rank 20 by activity, 408 by citations). 10 publications, h-index 1, 21 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/kenneth-okosun-a5118195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,13 +26,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 32 <a href="/data/researchers/dac/">by activity</a>, rank 1097 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 32 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1097 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 408 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>21</td></tr>
   <tr><th>Publications</th><td>10</td></tr>
   <tr><th>Share of publications on CDR</th><td>70.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5118195894">OpenAlex</a></td></tr>
 </table>
 
@@ -45,7 +44,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416)<br><small>with [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/) and 1 more</small> | DAC | 1 |
-| 2026 | [Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment](https://juser.fz-juelich.de/record/1055508)<br><small>JuSER (Forschungszentrum Jülich) · with Mak Dukan, [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), Jochen Linssen, [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/)</small> | DAC | 0 |
+| 2026 | [Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment](https://juser.fz-juelich.de/record/1055508)<br><small>JuSER (Forschungszentrum Jülich) · with Mak Dukan, [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/)</small> | DAC | 0 |
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172326523)<br><small>with [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), Henrik Wenzel, [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/) and 1 more</small> | DAC | 0 |
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932)<br><small>with [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/) and 1 more</small> | DAC | 0 |
 | 2025 | [Weather conditions severely impact optimal direct air capture siting](https://doi.org/10.1016/j.adapen.2025.100229)<br><small>Advances in Applied Energy · with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/)</small> | DAC | 19 |

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wilcox"
-description: "Jennifer Wilcox, University of Pennsylvania, United States. 219 publications, h-index 63, 21,641 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jennifer Wilcox, University of Pennsylvania, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 191 by activity, 5 by citations). 219 publications, h-index 63, 21,641 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Pennsylvania</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 191 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>63</td></tr>
   <tr><th>Citations</th><td>21,641</td></tr>

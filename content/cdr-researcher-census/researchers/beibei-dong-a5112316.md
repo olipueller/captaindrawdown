@@ -1,7 +1,7 @@
 ---
 title: "Beibei Dong"
-description: "Beibei Dong, Hebei University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 45 by activity, 697 by citations. 36 publications, h-index 6, 111 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Beibei Dong, Hebei University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 45 by activity, 697 by citations; Europe rank 31 by activity, 295 by citations). 36 publications, h-index 6, 111 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/beibei-dong-a5112316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hebei University of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 45 <a href="/data/researchers/beccs/">by activity</a>, rank 697 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 45 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 697 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 31 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 295 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>111</td></tr>
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2022 | [Technology selection for capturing CO2 from wood pyrolysis](https://doi.org/10.1016/j.enconman.2022.115835)<br><small>Energy Conversion and Management · with Yingying Sun, Hailong Li, Liang Wang, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 19 |
 | 2022 | [Capturing CO2 from Wood Fast Pyrolysis](https://doi.org/10.46855/energy-proceedings-9442)<br><small>preprint · with Yingying Sun, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), Liang Wang, Hailong Li</small> | BECCS | 0 |
 | 2021 | [Dynamic simulation of CO2 capture from biomass power plant by MEA](https://doi.org/10.46855/energy-proceedings-7243)<br><small>preprint · with Changzheng Hu, Hailong Li, Jinyue Yan, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/)</small> | BECCS | 2 |
-| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Hailong Li](/cdr-researcher-census/researchers/hailong-li-a5100440/), Jinyue Yan, KÃ¥re Gustafsson, Kåre Gustafsson, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 0 |
+| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Hailong Li](/cdr-researcher-census/researchers/hailong-li-a5100440/), Jinyue Yan, Kåre Gustafsson, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 0 |
 
 ---
 

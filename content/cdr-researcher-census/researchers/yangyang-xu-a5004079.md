@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Xu"
-description: "Yangyang Xu, Texas A&M University, United States. 213 publications, h-index 41, 6,545 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Yangyang Xu, Texas A&M University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4122 by activity, 93 by citations). 213 publications, h-index 41, 6,545 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yangyang-xu-a5004079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Texas A&M University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4122 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>41</td></tr>
   <tr><th>Citations</th><td>6,545</td></tr>

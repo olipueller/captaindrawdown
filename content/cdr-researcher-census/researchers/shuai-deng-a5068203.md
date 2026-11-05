@@ -1,7 +1,7 @@
 ---
 title: "Shuai Deng"
-description: "Shuai Deng, Tianjin University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 31 by activity, 229 by citations. 353 publications, h-index 53, 10,243 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Shuai Deng, Tianjin University, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 31 by activity, 229 by citations). 353 publications, h-index 53, 10,243 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shuai-deng-a5068203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Tianjin University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 31 <a href="/data/researchers/dac/">by activity</a>, rank 229 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 31 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 229 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>10,243</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Sina Hoseinpoori"
-description: "Sina Hoseinpoori, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 42 by activity, 1556 by citations. 13 publications, h-index 5, 229 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Sina Hoseinpoori, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 42 by activity, 1556 by citations; Europe rank 22 by activity, 530 by citations). 13 publications, h-index 5, 229 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chalmers University of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 42 <a href="/data/researchers/dac/">by activity</a>, rank 1556 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 42 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1556 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 530 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>229</td></tr>

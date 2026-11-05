@@ -1,7 +1,7 @@
 ---
 title: "Daniel C.W. Tsang"
-description: "Daniel C.W. Tsang, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 1 by activity, 1 by citations. 803 publications, h-index 161, 86,785 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Daniel C.W. Tsang, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 1 by activity, 1 by citations). 803 publications, h-index 161, 86,785 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hong Kong University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Hong Kong</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 1 <a href="/data/researchers/biochar/">by activity</a>, rank 1 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 1 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>161</td></tr>
   <tr><th>Citations</th><td>86,785</td></tr>
@@ -60,7 +60,7 @@ robots: "index, follow"
 | 2025 | [Carbon-mineral composite design for microwave-assisted degradation of organic contaminants](https://doi.org/10.1016/j.jenvman.2025.125931)<br><small>Journal of Environmental Management · with Qingyi Liliu, Eakalak Khan, Nigel Graham, [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/), [Zibo Xu](/cdr-researcher-census/researchers/zibo-xu-a5007009/)</small> | Biochar | 4 |
 | 2025 | [Tailored Biochar Production from Waste Biomass Resource in Rural Areas](https://openalex.org/W7116831596)<br><small>with [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/)</small> | Biochar | 2 |
 | 2025 | [Waste‐derived Biochar for Low‐carbon Construction Materials in Rural Areas](https://openalex.org/W7116974651)<br><small>with Fulin Qu, SU Yilin, Weijian Xu, Yipu Guo, Yizhe Wang</small> | Biochar | 1 |
-| 2025 | [Waste‐derived Biochar for Sustainable Rural Revitalization](https://doi.org/10.1002/9781394250301.fmatter)<br><small>with Yuqing Sun, [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/)</small> | Biochar | 0 |
+| 2025 | [Waste‐derived Biochar for Sustainable Rural Revitalization](https://doi.org/10.1002/9781394250301.fmatter)<br><small>with [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/)</small> | Biochar | 0 |
 | 2025 | [Low‐carbon Soil Remediation with Biochar and GGBS](https://openalex.org/W7116966226)<br><small>with Weijian Xu, Jingyi Liang, Yuying Zhang</small> | Biochar | 0 |
 | 2024 | [Scaling biochar solutions for urban carbon dioxide removal](https://doi.org/10.1016/j.oneear.2024.08.008)<br><small>One Earth · with Yuying Zhang, Roya Maboudian, Weijian Xu, [Xiaohong Zhu](/cdr-researcher-census/researchers/xiaohong-zhu-a5039299/), [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/)</small> | Biochar | 17 |
 | 2024 | [Biochar-augmented binders for sustainable stabilization/solidification of wastes](https://doi.org/10.1016/b978-0-323-85459-7.00006-9)<br><small>Elsevier eBooks · with Liang Chen, Lei Wang</small> | Biochar | 1 |

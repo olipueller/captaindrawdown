@@ -1,7 +1,7 @@
 ---
 title: "Cliff S. Law"
-description: "Cliff S. Law, National Institute of Water and Atmospheric Research, New Zealand. 225 publications, h-index 57, 18,221 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Cliff S. Law, National Institute of Water and Atmospheric Research, New Zealand. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 112 by activity, 77 by citations). 225 publications, h-index 57, 18,221 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/cliff-s-law-a5017572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Institute of Water and Atmospheric Research</td></tr>
   <tr><th>Country</th><td>New Zealand</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 112 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>57</td></tr>
   <tr><th>Citations</th><td>18,221</td></tr>

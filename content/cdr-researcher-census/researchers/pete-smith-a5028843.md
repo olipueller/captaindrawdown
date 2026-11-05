@@ -1,7 +1,7 @@
 ---
 title: "Pete Smith"
-description: "Pete Smith, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 39 by activity, 95 by citations. 1430 publications, h-index 172, 120,550 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Pete Smith, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 39 by activity, 95 by citations; Europe rank 26 by activity, 37 by citations), Biochar (Europe rank 29 by activity, 35 by citations). 1430 publications, h-index 172, 120,550 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/pete-smith-a5028843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Aberdeen</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 39 <a href="/data/researchers/beccs/">by activity</a>, rank 95 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 39 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 29 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>172</td></tr>
   <tr><th>Citations</th><td>120,550</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
-description: "Shengsen Wang, Yangzhou University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 35 by activity, 104 by citations. 161 publications, h-index 52, 11,240 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Shengsen Wang, Yangzhou University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 35 by activity, 104 by citations). 161 publications, h-index 52, 11,240 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yangzhou University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 35 <a href="/data/researchers/biochar/">by activity</a>, rank 104 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 35 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 104 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>11,240</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Biochar towards soil carbon neutrality: a critical review](https://openalex.org/W7128493904)<br><small>with Muhammad Mahroz Hussain, Chenhao Zhao, Ganghua Zhou, Huang Yi, Longfei Liu, Wan Qin Yang</small> | Biochar | 3 |
 | 2026 | [Nitrate fertilization with biochar simultaneously enhanced arsenic immobilization and mitigation of greenhouse gas emissions from an organic carbon-enriched paddy soil](https://openalex.org/W7154499892)<br><small>with Wenli Jia, Jian Zhang, Jian Zhu, Ping Chen, Ruidong Yang, Wentao Yang and 2 more</small> | Biochar | 1 |
-| 2026 | [Iron Oxide Types Determine the Regulatory Effects of Biochar on Carbon Emissions from Arsenic-Contaminated Soils](https://openalex.org/W7168252112)<br><small>with Qi Li, Muhammad Mahroz Hussain, Sada Tanzil, Sada Tanzil, Wan Yang, Wenjing Li and 2 more</small> | Biochar | 0 |
+| 2026 | [Iron Oxide Types Determine the Regulatory Effects of Biochar on Carbon Emissions from Arsenic-Contaminated Soils](https://openalex.org/W7168252112)<br><small>with Qi Li, Muhammad Mahroz Hussain, Sada Tanzil, Wan Yang, Wenjing Li and 2 more</small> | Biochar | 0 |
 | 2025 | [Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications](https://doi.org/10.48130/bchax-0025-0008)<br><small>Biochar X · with Nana Wang, Bing Wang, Hailong Wang, Masud Hassan, Pan Wu, Xueyang Zhang</small> | Biochar | 11 |
 | 2024 | [Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products](https://doi.org/10.1007/s11270-024-07580-w)<br><small>Water Air & Soil Pollution · with Quan Tang, Jing Wang, Junqi Niu, Weiqin Yin, Wenxia Dai, Xiaoyuan Yan and 3 more</small> | Biochar | 6 |
 | 2023 | [Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway](https://doi.org/10.1080/26395940.2023.2267755)<br><small>Environmental Pollutants and Bioavailability · with Xianni Yang, Xuemin Xu, Yanyan Lu</small> | Biochar | 3 |

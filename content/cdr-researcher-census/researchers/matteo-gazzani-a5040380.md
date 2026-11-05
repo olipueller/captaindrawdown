@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
-description: "Matteo Gazzani, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 27 by activity, 26 by citations. 126 publications, h-index 38, 6,741 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matteo Gazzani, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 27 by activity, 26 by citations; Europe rank 18 by activity, 19 by citations). 126 publications, h-index 38, 6,741 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utrecht University</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 27 <a href="/data/researchers/dac/">by activity</a>, rank 26 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 27 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 18 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>6,741</td></tr>

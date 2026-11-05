@@ -1,7 +1,7 @@
 ---
 title: "Mohd Rafatullah"
-description: "Mohd Rafatullah, Prince Mohammad bin Fahd University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 24 by activity, 2200 by citations. 299 publications, h-index 58, 16,546 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Mohd Rafatullah, Prince Mohammad bin Fahd University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 24 by activity, 2200 by citations). 299 publications, h-index 58, 16,546 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mohd-rafatullah-a5070149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Prince Mohammad bin Fahd University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 24 <a href="/data/researchers/biochar/">by activity</a>, rank 2200 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 24 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 2200 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>16,546</td></tr>

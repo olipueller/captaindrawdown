@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Hagens"
-description: "Mathilde Hagens, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 8 by activity, 25 by citations; Biochar: rank 72 by activity, 8634 by citations. 79 publications, h-index 18, 1,579 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mathilde Hagens, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 8 by activity, 25 by citations; Europe rank 6 by activity, 21 by citations), Biochar (worldwide rank 72 by activity, 8634 by citations; Europe rank 22 by activity, 1246 by citations). 79 publications, h-index 18, 1,579 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mathilde-hagens-a5069214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Wageningen University & Research</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 8 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 25 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 72 <a href="/data/researchers/biochar/">by activity</a>, rank 8634 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 8 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 21 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 72 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 8634 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1246 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,579</td></tr>

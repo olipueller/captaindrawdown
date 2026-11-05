@@ -1,7 +1,7 @@
 ---
 title: "Neha Mehta"
-description: "Neha Mehta, Queen's University Belfast, United Kingdom. 128 publications, h-index 29, 4,358 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Neha Mehta, Queen's University Belfast, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 1443 by activity, 19 by citations). 128 publications, h-index 29, 4,358 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/neha-mehta-a5026278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Queen's University Belfast</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 1443 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>4,358</td></tr>

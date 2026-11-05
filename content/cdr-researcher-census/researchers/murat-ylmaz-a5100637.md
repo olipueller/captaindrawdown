@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
-description: "Murat Yılmaz, Osmaniye Korkut Ata University, Turkey. 140 publications, h-index 41, 3,691 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Murat Yılmaz, Osmaniye Korkut Ata University, Turkey. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 28 by activity, 20 by citations). 140 publications, h-index 41, 3,691 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Osmaniye Korkut Ata University</td></tr>
   <tr><th>Country</th><td>Turkey</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 28 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>41</td></tr>
   <tr><th>Citations</th><td>3,691</td></tr>

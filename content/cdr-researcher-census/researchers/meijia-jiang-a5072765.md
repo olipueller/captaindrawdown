@@ -1,7 +1,7 @@
 ---
 title: "Meijia Jiang"
-description: "Meijia Jiang, Xiamen University, China. 5 publications, h-index 4, 316 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Meijia Jiang, Xiamen University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5393 by activity, 99 by citations). 5 publications, h-index 4, 316 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/meijia-jiang-a5072765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Xiamen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5393 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>316</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Felix Creutzig"
-description: "Felix Creutzig, University of Sussex, United Kingdom. 333 publications, h-index 79, 29,723 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Felix Creutzig, University of Sussex, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3017 by activity, 87 by citations; Europe rank 739 by activity, 42 by citations). 333 publications, h-index 79, 29,723 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/felix-creutzig-a5078552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>University of Sussex</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3017 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 739 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>79</td></tr>
   <tr><th>Citations</th><td>29,723</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Taejun Song"
-description: "Taejun Song, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 72 by activity, 2293 by citations. 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Taejun Song, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 72 by activity, 2293 by citations). 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/taejun-song-a5122304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,13 +26,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kyungpook National University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 72 <a href="/data/researchers/dac/">by activity</a>, rank 2293 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 72 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2293 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>3</td></tr>
   <tr><th>Publications</th><td>5</td></tr>
   <tr><th>Share of publications on CDR</th><td>80.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5122304284">OpenAlex</a></td></tr>
 </table>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Seedtke"
-description: "Maria Seedtke, Universität Hamburg, Germany. 8 publications, h-index 2, 29 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Maria Seedtke, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 33 by activity, 1375 by citations). 8 publications, h-index 2, 29 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/maria-seedtke-a5083234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 33 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1375 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>29</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Hanping Chen"
-description: "Hanping Chen, Huazhong University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 99 by activity, 60 by citations. 715 publications, h-index 95, 40,501 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Hanping Chen, Huazhong University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2235 by activity, 10 by citations), Biochar (worldwide rank 99 by activity, 60 by citations). 715 publications, h-index 95, 40,501 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/hanping-chen-a5007450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Huazhong University of Science and Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 99 <a href="/data/researchers/biochar/">by activity</a>, rank 60 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2235 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 10 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 99 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>95</td></tr>
   <tr><th>Citations</th><td>40,501</td></tr>

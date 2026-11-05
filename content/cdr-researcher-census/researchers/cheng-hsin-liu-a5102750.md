@@ -1,7 +1,7 @@
 ---
 title: "Cheng-Hsin Liu"
-description: "Cheng-Hsin Liu, Advanced Semiconductor Engineering (Taiwan), Taiwan. 16 publications, h-index 5, 356 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Cheng-Hsin Liu, Advanced Semiconductor Engineering (Taiwan), Taiwan. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4129 by activity, 75 by citations). 16 publications, h-index 5, 356 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Advanced Semiconductor Engineering (Taiwan)</td></tr>
   <tr><th>Country</th><td>Taiwan</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4129 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 75 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>356</td></tr>

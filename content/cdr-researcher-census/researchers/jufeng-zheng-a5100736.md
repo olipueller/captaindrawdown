@@ -1,7 +1,7 @@
 ---
 title: "Jufeng Zheng"
-description: "Jufeng Zheng, Nanjing Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 22 by activity, 520 by citations. 142 publications, h-index 47, 7,997 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jufeng Zheng, Nanjing Agricultural University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 22 by activity, 520 by citations). 142 publications, h-index 47, 7,997 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jufeng-zheng-a5100736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanjing Agricultural University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 22 <a href="/data/researchers/biochar/">by activity</a>, rank 520 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 22 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 520 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>7,997</td></tr>
@@ -49,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands](https://openalex.org/W7136628710)<br><small>with Kaiyue Song, Kun Cheng, Qi Yi, [Rongjun Bian](/cdr-researcher-census/researchers/rongjun-bian-a5072829/), Ruiling Ma, Shaopan Xia and 7 more</small> | Biochar | 1 |
 | 2026 | [Investigating the effects of co-applied basalt and biochar on carbon removal efficiency and grain yield in rice paddy](https://openalex.org/W7154597897)<br><small>with Xueliu Gong, Chenglong Ye, Jiarong Wu, Jingsong Qin, Jinkai Zhao, Kai Zhu and 6 more</small> | Biochar; Enhanced Weathering | 0 |
-| 2026 | [Biochar enhances rice rhizodeposited carbon stabilization through distinct pathways of iron association and aggregate occlusion in two contrasting paddy soils](https://openalex.org/W7161576802)<br><small>with Ruiling Ma, Kun Cheng, Kun Cheng, Qi Yi, [Rongjun Bian](/cdr-researcher-census/researchers/rongjun-bian-a5072829/), Ruiyu Wang and 7 more</small> | Biochar | 0 |
+| 2026 | [Biochar enhances rice rhizodeposited carbon stabilization through distinct pathways of iron association and aggregate occlusion in two contrasting paddy soils](https://openalex.org/W7161576802)<br><small>with Ruiling Ma, Kun Cheng, Qi Yi, [Rongjun Bian](/cdr-researcher-census/researchers/rongjun-bian-a5072829/), Ruiyu Wang and 7 more</small> | Biochar | 0 |
 | 2026 | [Biochar amendment increases microbial necromass carbon accumulation by regulating microbial life strategies in a coastal saline soil](https://openalex.org/W7164346942)<br><small>with Ruiling Ma, Dingyao Lei, Qi Yi, [Rongjun Bian](/cdr-researcher-census/researchers/rongjun-bian-a5072829/), Shaopan Xia, Suping Ji and 3 more</small> | Biochar | 0 |
 | 2025 | [The divergent response of fungal and bacterial necromass carbon in soil aggregates under biochar amendment in paddy soil](https://doi.org/10.1007/s11104-025-07228-6)<br><small>Plant and Soil · with Mengtao Zhu, Kaiyue Song, Man Xu, Qi Yi, [Rongjun Bian](/cdr-researcher-census/researchers/rongjun-bian-a5072829/), Ruiling Ma and 2 more</small> | Biochar | 8 |
 | 2025 | [Biochar amendment reduced microbial necromass carbon accumulation in a paddy soil profile](https://doi.org/10.1016/j.jia.2025.10.001)<br><small>Journal of Integrative Agriculture · with Ruiling Ma, Dingyao Lei, Qi Yi, [Rongjun Bian](/cdr-researcher-census/researchers/rongjun-bian-a5072829/), Shaopan Xia, Shuo Jiang and 5 more</small> | Biochar | 3 |

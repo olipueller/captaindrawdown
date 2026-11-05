@@ -1,7 +1,7 @@
 ---
 title: "Johannes Meyer zu Drewer"
-description: "Johannes Meyer zu Drewer, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 5 by activity, 6666 by citations; Enhanced Weathering: rank 27 by activity, 843 by citations. 19 publications, h-index 4, 50 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Johannes Meyer zu Drewer, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 5 by activity, 6666 by citations; Europe rank 4 by activity, 930 by citations), Enhanced Weathering (worldwide rank 27 by activity, 843 by citations; Europe rank 17 by activity, 252 by citations). 19 publications, h-index 4, 50 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/johannes-meyer-zu-drewer-a5089195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ithaka Institute for Carbon Strategies</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 5 <a href="/data/researchers/biochar/">by activity</a>, rank 6666 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 27 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 843 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 5 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 6666 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 930 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 27 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 843 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 252 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>50</td></tr>

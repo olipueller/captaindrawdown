@@ -1,7 +1,7 @@
 ---
 title: "Baolin Wang"
-description: "Baolin Wang, Qilu University of Technology, China. 45 publications, h-index 13, 465 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Baolin Wang, Qilu University of Technology, China. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 247 by activity, 57 by citations). 45 publications, h-index 13, 465 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/baolin-wang-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Qilu University of Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 247 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 57 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>465</td></tr>

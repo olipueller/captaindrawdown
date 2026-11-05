@@ -1,7 +1,7 @@
 ---
 title: "Johannes Full"
-description: "Johannes Full, Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA, Germany. 23 publications, h-index 15, 724 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Johannes Full, Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (Europe rank 73 by activity, 46 by citations). 23 publications, h-index 15, 724 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/johannes-full-a5008596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 73 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>724</td></tr>

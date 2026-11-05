@@ -1,7 +1,7 @@
 ---
 title: "Adam V. Subhas"
-description: "Adam V. Subhas, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 11 by activity, 149 by citations. 92 publications, h-index 20, 1,440 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Adam V. Subhas, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 11 by activity, 149 by citations). 92 publications, h-index 20, 1,440 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/adam-v-subhas-a5048374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 11 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 149 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 11 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 149 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>1,440</td></tr>

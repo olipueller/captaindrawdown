@@ -1,7 +1,7 @@
 ---
 title: "Siqing Xu"
-description: "Siqing Xu, Abu Dhabi National Oil (United Arab Emirates), United Arab Emirates. 34 publications, h-index 8, 237 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Siqing Xu, Abu Dhabi National Oil (United Arab Emirates), United Arab Emirates. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 206 by activity, 46 by citations). 34 publications, h-index 8, 237 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/siqing-xu-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Abu Dhabi National Oil (United Arab Emirates)</td></tr>
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 206 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>237</td></tr>

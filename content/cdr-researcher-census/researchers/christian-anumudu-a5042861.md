@@ -1,7 +1,7 @@
 ---
 title: "Christian Anumudu"
-description: "Christian Anumudu, Queen Mary University of London, United Kingdom. 53 publications, h-index 21, 2,595 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Christian Anumudu, Queen Mary University of London, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5384 by activity, 21 by citations; Europe rank 1480 by activity, 9 by citations). 53 publications, h-index 21, 2,595 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/christian-anumudu-a5042861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Queen Mary University of London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5384 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 21 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1480 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,595</td></tr>

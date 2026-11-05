@@ -1,7 +1,7 @@
 ---
 title: "Richard A. Feely"
-description: "Richard A. Feely, NOAA Pacific Marine Environmental Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 79 by activity, 113 by citations. 707 publications, h-index 111, 71,685 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Richard A. Feely, NOAA Pacific Marine Environmental Laboratory, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 79 by activity, 113 by citations). 707 publications, h-index 111, 71,685 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/richard-a-feely-a5019328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>NOAA Pacific Marine Environmental Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 79 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 113 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 79 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 113 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>111</td></tr>
   <tr><th>Citations</th><td>71,685</td></tr>

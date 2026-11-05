@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Shahbaz"
-description: "Muhammad Shahbaz, Teesside University, United Kingdom. 161 publications, h-index 46, 7,591 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Muhammad Shahbaz, Teesside University, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 379 by activity, 28 by citations; Europe rank 210 by activity, 9 by citations), Biochar (worldwide rank 4058 by activity, 35 by citations; Europe rank 646 by activity, 9 by citations). 161 publications, h-index 46, 7,591 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Teesside University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 379 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 210 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 4058 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 646 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>46</td></tr>
   <tr><th>Citations</th><td>7,591</td></tr>

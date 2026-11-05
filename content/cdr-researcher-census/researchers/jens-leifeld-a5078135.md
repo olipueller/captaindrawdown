@@ -1,7 +1,7 @@
 ---
 title: "Jens Leifeld"
-description: "Jens Leifeld, Agroscope, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 55 by activity, 47 by citations. 297 publications, h-index 68, 18,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jens Leifeld, Agroscope, Switzerland. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 55 by activity, 47 by citations; Europe rank 19 by activity, 10 by citations). 297 publications, h-index 68, 18,407 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jens-leifeld-a5078135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Agroscope</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 55 <a href="/data/researchers/biochar/">by activity</a>, rank 47 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 55 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 47 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 19 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>68</td></tr>
   <tr><th>Citations</th><td>18,407</td></tr>

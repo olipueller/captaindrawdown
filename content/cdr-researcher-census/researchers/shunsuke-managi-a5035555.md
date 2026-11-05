@@ -1,7 +1,7 @@
 ---
 title: "Shunsuke Managi"
-description: "Shunsuke Managi, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 64 by activity, 1350 by citations. 1028 publications, h-index 71, 23,531 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Shunsuke Managi, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 64 by activity, 1350 by citations). 1028 publications, h-index 71, 23,531 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/shunsuke-managi-a5035555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kyushu University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 64 <a href="/data/researchers/dac/">by activity</a>, rank 1350 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 64 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1350 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>71</td></tr>
   <tr><th>Citations</th><td>23,531</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Long"
-description: "Matthew C. Long, [C]Worthy, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 55 by activity, 34 by citations. 244 publications, h-index 50, 15,135 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Matthew C. Long, [C]Worthy, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 55 by activity, 34 by citations). 244 publications, h-index 50, 15,135 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matthew-c-long-a5055580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>[C]Worthy</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 55 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 34 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 55 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 34 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>15,135</td></tr>

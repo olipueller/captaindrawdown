@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
-description: "Malgorzata Borchers, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 8 by activity, 527 by citations. 24 publications, h-index 8, 264 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Malgorzata Borchers, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 8 by activity, 527 by citations; Europe rank 8 by activity, 225 by citations). 24 publications, h-index 8, 264 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Helmholtz Centre for Environmental Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 8 <a href="/data/researchers/beccs/">by activity</a>, rank 527 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 8 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 527 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 225 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>264</td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A Modular BECCS Process Chain Framework from Biomass to Carbon Removal](https://openalex.org/W7154973210)<br><small>with Viola Schaber, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/), Daniela Thrän, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 0 |
-| 2026 | [A Modular BECCS Process Chain Framework from Biomass to Carbon Removal](https://openalex.org/W7164589645)<br><small>with Viola Schaber, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/), Daniela Thrän, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 0 |
+| 2026 | [A Modular BECCS Process Chain Framework from Biomass to Carbon Removal](https://openalex.org/W7154973210)<br><small>with Viola Schaber, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 0 |
+| 2026 | [A Modular BECCS Process Chain Framework from Biomass to Carbon Removal](https://openalex.org/W7164589645)<br><small>with Viola Schaber, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 0 |
 | 2025 | [Potential contribution of biogas to net zero energy systems – A comparative study of Canada and Germany](https://doi.org/10.1016/j.biombioe.2024.107561)<br><small>Biomass and Bioenergy · with [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), Adekunbi B. Adetona, Jaqueline Daniel‐Gromke, Karl-Friedrich Cyffka, Katja Oehmichen</small> | BECCS | 20 |
 | 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8)<br><small>Nature Communications · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), David Keller and 20 more</small> | Cross-cutting CDR | 20 |
 | 2025 | [Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany](https://doi.org/10.1029/2024ef004902)<br><small>Earth s Future · with [Wanxuan Yao](/cdr-researcher-census/researchers/wanxuan-yao-a5069543/), A. S. Chua, Achim Kopf, Alexander Proelß, Amrita Bhaumik, Amy J. Anschutz and 57 more</small> | Ocean CDR | 9 |

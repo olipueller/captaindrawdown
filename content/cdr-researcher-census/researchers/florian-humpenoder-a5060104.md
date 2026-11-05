@@ -1,7 +1,7 @@
 ---
 title: "Florian Humpenöder"
-description: "Florian Humpenöder, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 18 by activity, 97 by citations; Cross-cutting CDR: rank 85 by activity, 37 by citations. 174 publications, h-index 52, 22,375 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Florian Humpenöder, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 18 by activity, 97 by citations; Europe rank 11 by activity, 39 by citations), Cross-cutting CDR (worldwide rank 85 by activity, 37 by citations; Europe rank 56 by activity, 27 by citations). 174 publications, h-index 52, 22,375 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/florian-humpenoder-a5060104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,9 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 18 <a href="/data/researchers/beccs/">by activity</a>, rank 97 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 85 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 37 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 18 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 97 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 85 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 56 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>22,375</td></tr>

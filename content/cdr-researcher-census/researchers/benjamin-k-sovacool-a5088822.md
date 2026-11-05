@@ -1,7 +1,7 @@
 ---
 title: "Benjamin K. Sovacool"
-description: "Benjamin K. Sovacool, Boston University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 10 by activity, 14 by citations; Cross-cutting CDR: rank 10 by activity, 3 by citations. 1015 publications, h-index 136, 70,230 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Benjamin K. Sovacool, Boston University, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10 by activity, 3 by citations), DAC (worldwide rank 10 by activity, 14 by citations). 1015 publications, h-index 136, 70,230 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,9 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Boston University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 10 <a href="/data/researchers/dac/">by activity</a>, rank 14 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 10 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 10 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 14 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>136</td></tr>
   <tr><th>Citations</th><td>70,230</td></tr>
@@ -58,7 +58,7 @@ robots: "index, follow"
 | 2025 | [Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling](https://doi.org/10.1016/j.jenvman.2025.127633)<br><small>Journal of Environmental Management · with Yuwan Malakar, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), John T. Gardner, Kerryn Brent, Livia Fritz, Talia Jeanneret</small> | DAC | 3 |
 | 2025 | [Collective climate geoengineering futures through a global participatory technology foresight exercise](https://doi.org/10.1016/j.erss.2025.104329)<br><small>Energy Research & Social Science · with Laurence L. Delina, Ben R. Martin</small> | DAC | 2 |
 | 2025 | [Exploring global climate intervention experiments: sociotechnical promises, innovation dynamics, and perceived co-impacts across 20 projects and pilots](https://doi.org/10.1007/s11625-025-01696-6)<br><small>Sustainability Science · with [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Livia Fritz, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/)</small> | Biochar; DAC; Enhanced Weathering | 0 |
-| 2025 | [Assessment report on climate interventions governance strategies](https://doi.org/10.5281/zenodo.17980940)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Lara Aleluia Reis, Lara Aleluia Reis, Pietro Andreoni, Massimo Tavoni</small> | DAC | 0 |
+| 2025 | [Assessment report on climate interventions governance strategies](https://doi.org/10.5281/zenodo.17980940)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Lara Aleluia Reis, Pietro Andreoni, Massimo Tavoni</small> | DAC | 0 |
 | 2024 | [Public perceptions and support of climate intervention technologies across the Global North and Global South](https://doi.org/10.1038/s41467-024-46341-5)<br><small>Nature Communications · with [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Livia Fritz, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/)</small> | Cross-cutting CDR | 93 |
 | 2024 | [Public engagement for inclusive and sustainable governance of climate interventions](https://doi.org/10.1038/s41467-024-48510-y)<br><small>Nature Communications · with Livia Fritz, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/)</small> | Cross-cutting CDR | 80 |
 | 2024 | [Public perceptions on carbon removal from focus groups in 22 countries](https://doi.org/10.1038/s41467-024-47853-w)<br><small>Nature Communications · with [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Livia Fritz</small> | BECCS; DAC; Enhanced Weathering | 65 |

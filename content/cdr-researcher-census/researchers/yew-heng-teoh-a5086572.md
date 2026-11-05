@@ -1,7 +1,7 @@
 ---
 title: "Yew Heng Teoh"
-description: "Yew Heng Teoh, Universiti Sains Malaysia Kampus Kejuruteraan, Malaysia. 116 publications, h-index 32, 3,669 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Yew Heng Teoh, Universiti Sains Malaysia Kampus Kejuruteraan, Malaysia. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 506 by activity, 93 by citations). 116 publications, h-index 32, 3,669 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yew-heng-teoh-a5086572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universiti Sains Malaysia Kampus Kejuruteraan</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 506 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>3,669</td></tr>

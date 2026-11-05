@@ -1,7 +1,7 @@
 ---
 title: "Nicholas Ward"
-description: "Nicholas Ward, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 97 by activity, 512 by citations. 1429 publications, h-index 35, 5,701 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nicholas Ward, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 97 by activity, 512 by citations). 1429 publications, h-index 35, 5,701 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nicholas-ward-a5016338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Pacific Northwest National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 97 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 512 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 97 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 512 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>5,701</td></tr>

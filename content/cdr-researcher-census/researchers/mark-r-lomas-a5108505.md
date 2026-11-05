@@ -1,7 +1,7 @@
 ---
 title: "Mark R. Lomas"
-description: "Mark R. Lomas, University of Sheffield, United Kingdom. 63 publications, h-index 35, 15,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Mark R. Lomas, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 684 by activity, 50 by citations; Europe rank 321 by activity, 37 by citations). 63 publications, h-index 35, 15,088 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mark-r-lomas-a5108505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 684 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 50 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 321 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>15,088</td></tr>

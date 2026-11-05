@@ -1,7 +1,7 @@
 ---
 title: "Christos T. Maravelias"
-description: "Christos T. Maravelias, Princeton University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 29 by activity, 113 by citations. 398 publications, h-index 61, 15,788 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Christos T. Maravelias, Princeton University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 29 by activity, 113 by citations). 398 publications, h-index 61, 15,788 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/christos-t-maravelias-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Princeton University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 29 <a href="/data/researchers/beccs/">by activity</a>, rank 113 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 29 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 113 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>61</td></tr>
   <tr><th>Citations</th><td>15,788</td></tr>

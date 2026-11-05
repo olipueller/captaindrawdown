@@ -1,7 +1,7 @@
 ---
 title: "Foster A. Agblevor"
-description: "Foster A. Agblevor, Utah State University, United States. 152 publications, h-index 50, 6,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Foster A. Agblevor, Utah State University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3801 by activity, 15 by citations). 152 publications, h-index 50, 6,364 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/foster-a-agblevor-a5001408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utah State University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3801 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 15 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>6,364</td></tr>

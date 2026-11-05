@@ -1,7 +1,7 @@
 ---
 title: "Bjarne Steffen"
-description: "Bjarne Steffen, ETH Zurich, Switzerland. 117 publications, h-index 35, 4,852 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Bjarne Steffen, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 40 by activity, 65 by citations). 117 publications, h-index 35, 4,852 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/bjarne-steffen-a5051413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 40 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 65 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>4,852</td></tr>

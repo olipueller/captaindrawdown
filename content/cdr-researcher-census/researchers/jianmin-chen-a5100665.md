@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Chen"
-description: "Jianmin Chen, Fudan University, China. 2259 publications, h-index 121, 88,749 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jianmin Chen, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 447 by activity, 48 by citations). 2259 publications, h-index 121, 88,749 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/jianmin-chen-a5100665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Fudan University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 447 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 48 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>121</td></tr>
   <tr><th>Citations</th><td>88,749</td></tr>

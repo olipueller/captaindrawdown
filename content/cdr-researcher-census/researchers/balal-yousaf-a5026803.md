@@ -1,7 +1,7 @@
 ---
 title: "Balal Yousaf"
-description: "Balal Yousaf, Silesian University of Technology, Poland. 165 publications, h-index 60, 9,719 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Balal Yousaf, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 31 by activity, 29 by citations). 165 publications, h-index 60, 9,719 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/balal-yousaf-a5026803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Silesian University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 31 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 29 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>60</td></tr>
   <tr><th>Citations</th><td>9,719</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils](https://doi.org/10.1016/j.jclepro.2026.147548)<br><small>Journal of Cleaner Production · with Muhammad Ubaid Ali, Cheng Liping, Gongren Hu, Mehr Ahmed Mujtaba Munir, Muhammad Adnan, Muhammad Adnan and 5 more</small> | Biochar | 5 |
+| 2026 | [Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils](https://doi.org/10.1016/j.jclepro.2026.147548)<br><small>Journal of Cleaner Production · with Muhammad Ubaid Ali, Cheng Liping, Gongren Hu, Mehr Ahmed Mujtaba Munir, Muhammad Adnan and 5 more</small> | Biochar | 5 |
 | 2026 | [Nitrogen-Enriched Biochar via Hydrothermal Ammonia Functionalization: Surface Engineering of Bambusa Vulgaris for Optimized Capture of Reactive Black 5](https://openalex.org/W7167696999)<br><small>with Ehigbochie Joy Ofure, Guijian Liu, Ruijia Liu, Yuan Liu</small> | Biochar | 0 |
 | 2024 | [Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater](https://doi.org/10.1016/j.envpol.2024.124365)<br><small>Environmental Pollution · with Muhammad Irtaza Sajjad Haider, Aniqa Ashraf, Guijian Liu, Kiran Aziz, Muhammad Arif, Rabia Safeer and 2 more</small> | Biochar | 66 |
 | 2024 | [The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin](https://openalex.org/W4391847918)<br><small>with Aniqa Ashraf, Audil Rashid, Guijian Liu, Humaira Gulzaman, Muhammad Arif, Muhammad Rashid and 3 more</small> | Biochar | 33 |

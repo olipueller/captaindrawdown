@@ -1,7 +1,7 @@
 ---
 title: "Prabhakar Sharma"
-description: "Prabhakar Sharma, Nagaland University, India. 188 publications, h-index 45, 7,534 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Prabhakar Sharma, Nagaland University, India. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 526 by activity, 38 by citations). 188 publications, h-index 45, 7,534 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/prabhakar-sharma-a5059977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nagaland University</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 526 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>7,534</td></tr>

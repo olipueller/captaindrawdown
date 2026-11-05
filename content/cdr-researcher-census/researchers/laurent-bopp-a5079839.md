@@ -1,7 +1,7 @@
 ---
 title: "Laurent Bopp"
-description: "Laurent Bopp, IPSL, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 28 by activity, 45 by citations. 603 publications, h-index 115, 77,913 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Laurent Bopp, IPSL, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 28 by activity, 45 by citations; Europe rank 17 by activity, 23 by citations). 603 publications, h-index 115, 77,913 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/laurent-bopp-a5079839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>IPSL</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 28 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 45 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 28 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>115</td></tr>
   <tr><th>Citations</th><td>77,913</td></tr>
@@ -57,11 +57,11 @@ robots: "index, follow"
 | 2024 | [Marine carbon dioxide removal may be a future climate solution](https://doi.org/10.1177/29768659241293223)<br><small>Dialogues on climate change. · with [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/)</small> | Ocean CDR | 8 |
 | 2023 | [Monitoring, reporting, and verification for ocean alkalinity enhancement](https://doi.org/10.5194/sp-2-oae2023-12-2023)<br><small>State of the Planet · with [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), Griet Neukermans, [Jaime B. Palter](/cdr-researcher-census/researchers/jaime-b-palter-a5056289/), [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), [Philip W. Boyd](/cdr-researcher-census/researchers/philip-w-boyd-a5091179/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 83 |
 | 2023 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle](https://doi.org/10.5194/bg-20-1195-2023)<br><small>Biogeosciences · with Alban Planchat, A. Yamamoto, Andrew Yool, Hiroyuki Tsujino, James R. Christian, [Jerry Tjiputra](/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/) and 13 more</small> | Ocean CDR | 50 |
-| 2023 | [Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit](https://doi.org/10.1111/gcb.16854)<br><small>Global Change Biology · with Alessandro Tagliabue, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Manon Berger, Manon Berger, Nicolas Barrier, Olivier Maury</small> | Ocean CDR | 50 |
+| 2023 | [Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit](https://doi.org/10.1111/gcb.16854)<br><small>Global Change Biology · with Alessandro Tagliabue, [Benjamin S. Twining](/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/), Manon Berger, Nicolas Barrier, Olivier Maury</small> | Ocean CDR | 50 |
 | 2023 | [Ocean dynamics and biological feedbacks limit the potential of macroalgae carbon dioxide removal](https://doi.org/10.1088/1748-9326/acb06e)<br><small>Environmental Research Letters · with Manon Berger, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Lester Kwiatkowski](/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/)</small> | Ocean CDR | 37 |
 | 2023 | [Contrasting carbon dioxide removal potential and nutrient feedbacks of simulated ocean alkalinity enhancement and macroalgae afforestation](https://doi.org/10.1088/1748-9326/ad08f9)<br><small>Environmental Research Letters · with [Lester Kwiatkowski](/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/), Manon Berger, Stéphane Doléac, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/)</small> | Ocean CDR | 19 |
 | 2022 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle](https://doi.org/10.5194/egusphere-2022-1041)<br><small>preprint · with Alban Planchat, A. Yamamoto, Andrew Yool, Hiroyuki Tsujino, James R. Christian, [Jerry Tjiputra](/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/) and 13 more</small> | Ocean CDR | 9 |
-| 2022 | [Assessing global macroalgal carbon dioxide removal potential using a high-resolution ocean biogeochemistry model](https://doi.org/10.5194/egusphere-egu22-4699)<br><small>preprint · with Manon Berger, Manon Berger, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Lester Kwiatkowski](/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/)</small> | Ocean CDR | 6 |
+| 2022 | [Assessing global macroalgal carbon dioxide removal potential using a high-resolution ocean biogeochemistry model](https://doi.org/10.5194/egusphere-egu22-4699)<br><small>preprint · with Manon Berger, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), [Lester Kwiatkowski](/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/)</small> | Ocean CDR | 6 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Joanna Hrabak"
-description: "Joanna Hrabak, Institute for Chemical Processing of Coal, Poland. 9 publications, h-index 6, 418 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Joanna Hrabak, Institute for Chemical Processing of Coal, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3022 by activity, 45 by citations). 9 publications, h-index 6, 418 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/joanna-hrabak-a5003545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Institute for Chemical Processing of Coal</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 3022 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>418</td></tr>

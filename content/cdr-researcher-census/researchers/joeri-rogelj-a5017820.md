@@ -1,7 +1,7 @@
 ---
 title: "Joeri Rogelj"
-description: "Joeri Rogelj, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 4 by activity, 35 by citations. 449 publications, h-index 93, 45,348 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Joeri Rogelj, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 4 by activity, 35 by citations; Europe rank 4 by activity, 25 by citations). 449 publications, h-index 93, 45,348 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/joeri-rogelj-a5017820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Imperial College London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 4 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 35 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 4 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>93</td></tr>
   <tr><th>Citations</th><td>45,348</td></tr>
@@ -49,8 +49,8 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Alex Popp, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner and 13 more</small> | BECCS | 7 |
 | 2026 | [Short-term action is key for gigaton-scale Direct Air Capture by 2050](https://openalex.org/W7160696878)<br><small>with Tatjana Zurbriggen, Adrian Odenweller, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), [Nicoletta Brazzola](/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/)</small> | DAC | 2 |
-| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
-| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 10 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
+| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 10 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344)<br><small>with Setu Pelz, Adriano Vinca, Carl F. Schleussner, [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Injy Johnstone](/cdr-researcher-census/researchers/injy-johnstone-a5035898/) and 6 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629)<br><small>with Setu Pelz, Adriano Vinca, [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Injy Johnstone](/cdr-researcher-census/researchers/injy-johnstone-a5035898/), Jarmo Kikstra and 5 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Short-term action is key for gigaton-scale Direct Air Capture by 2050](https://openalex.org/W7213522113)<br><small>with Tatjana Zurbriggen, Adrian Odenweller, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), [Nicoletta Brazzola](/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/)</small> | DAC | 0 |

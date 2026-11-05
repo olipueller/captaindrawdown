@@ -1,7 +1,7 @@
 ---
 title: "José Luiz de Medeiros"
-description: "José Luiz de Medeiros, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 37 by activity, 153 by citations. 193 publications, h-index 33, 3,084 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "José Luiz de Medeiros, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 37 by activity, 153 by citations). 193 publications, h-index 33, 3,084 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade Federal do Rio de Janeiro</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 37 <a href="/data/researchers/beccs/">by activity</a>, rank 153 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 37 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 153 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>3,084</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "John A. Raven"
-description: "John A. Raven, University of Dundee, United Kingdom. 696 publications, h-index 122, 58,761 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "John A. Raven, University of Dundee, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 2255 by activity, 51 by citations; Europe rank 735 by activity, 25 by citations). 696 publications, h-index 122, 58,761 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/john-a-raven-a5041675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Dundee</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 2255 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 735 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>122</td></tr>
   <tr><th>Citations</th><td>58,761</td></tr>

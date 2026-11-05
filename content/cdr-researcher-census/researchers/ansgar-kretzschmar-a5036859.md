@@ -1,7 +1,7 @@
 ---
 title: "Ansgar Kretzschmar"
-description: "Ansgar Kretzschmar, Forschungszentrum Jülich, Germany. 33 publications, h-index 8, 324 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ansgar Kretzschmar, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 42 by activity, 599 by citations). 33 publications, h-index 8, 324 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ansgar-kretzschmar-a5036859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 42 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 599 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>324</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Carlos M. Duarte"
-description: "Carlos M. Duarte, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. 1765 publications, h-index 179, 151,300 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Carlos M. Duarte, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 948 by activity, 74 by citations). 1765 publications, h-index 179, 151,300 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/carlos-m-duarte-a5087569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>King Abdullah University of Science and Technology (KAUST)</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 948 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>179</td></tr>
   <tr><th>Citations</th><td>151,300</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Jakob Rønning"
-description: "Jakob Rønning, University of Southern Denmark, Denmark. 7 publications, h-index 3, 142 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jakob Rønning, University of Southern Denmark, Denmark. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 94 by activity, 41 by citations). 7 publications, h-index 3, 142 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jakob-rnning-a5011278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Southern Denmark</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 94 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>142</td></tr>

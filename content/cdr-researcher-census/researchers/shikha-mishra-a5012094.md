@@ -1,7 +1,7 @@
 ---
 title: "Shikha Mishra"
-description: "Shikha Mishra, Kern Medical Center, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 15 by activity, 2681 by citations. 96 publications, h-index 21, 1,886 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Shikha Mishra, Kern Medical Center, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 15 by activity, 2681 by citations). 96 publications, h-index 21, 1,886 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/shikha-mishra-a5012094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kern Medical Center</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 15 <a href="/data/researchers/beccs/">by activity</a>, rank 2681 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 15 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2681 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>1,886</td></tr>

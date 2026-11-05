@@ -1,7 +1,7 @@
 ---
 title: "Michael Wögerer"
-description: "Michael Wögerer, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 82 by activity, 1758 by citations. 35 publications, h-index 5, 169 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Michael Wögerer, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 82 by activity, 1758 by citations). 35 publications, h-index 5, 169 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/michael-wogerer-a5088505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 82 <a href="/data/researchers/beccs/">by activity</a>, rank 1758 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 82 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1758 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>169</td></tr>

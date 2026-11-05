@@ -1,7 +1,7 @@
 ---
 title: "Yong Sik Ok"
-description: "Yong Sik Ok, Korea University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 34 by activity, 9 by citations. 1134 publications, h-index 185, 125,473 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Yong Sik Ok, Korea University, South Korea. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 34 by activity, 9 by citations). 1134 publications, h-index 185, 125,473 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/yong-sik-ok-a5053298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Korea University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 34 <a href="/data/researchers/biochar/">by activity</a>, rank 9 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 34 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>185</td></tr>
   <tr><th>Citations</th><td>125,473</td></tr>

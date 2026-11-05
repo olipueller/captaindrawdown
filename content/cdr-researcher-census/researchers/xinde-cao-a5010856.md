@@ -1,7 +1,7 @@
 ---
 title: "Xinde Cao"
-description: "Xinde Cao, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 66 by activity, 19 by citations. 290 publications, h-index 95, 34,525 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Xinde Cao, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 66 by activity, 19 by citations). 290 publications, h-index 95, 34,525 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/xinde-cao-a5010856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shanghai Jiao Tong University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 66 <a href="/data/researchers/biochar/">by activity</a>, rank 19 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 66 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 19 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>95</td></tr>
   <tr><th>Citations</th><td>34,525</td></tr>

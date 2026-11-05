@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
-description: "Iza Lantgios, Idaho National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 56 by activity, 2290 by citations. 6 publications, h-index 2, 326 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Iza Lantgios, Idaho National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 56 by activity, 2290 by citations). 6 publications, h-index 2, 326 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,13 +29,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Idaho National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 56 <a href="/data/researchers/dac/">by activity</a>, rank 2290 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 56 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2290 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>326</td></tr>
   <tr><th>Publications</th><td>6</td></tr>
   <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9081-8604">ORCID</a> · <a href="https://openalex.org/A5084466466">OpenAlex</a></td></tr>
 </table>
 

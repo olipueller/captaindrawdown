@@ -1,7 +1,7 @@
 ---
 title: "Annette Eschenbach"
-description: "Annette Eschenbach, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 18 by activity, 8005 by citations. 127 publications, h-index 19, 1,284 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Annette Eschenbach, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 18 by activity, 8005 by citations; Europe rank 8 by activity, 1134 by citations). 127 publications, h-index 19, 1,284 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/annette-eschenbach-a5006233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 18 <a href="/data/researchers/biochar/">by activity</a>, rank 8005 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 18 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 8005 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1134 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,284</td></tr>

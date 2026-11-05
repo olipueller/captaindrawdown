@@ -1,7 +1,7 @@
 ---
 title: "Arash Ostovar"
-description: "Arash Ostovar, Malek Ashtar University of Technology, IR. 8 publications, h-index 4, 350 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Arash Ostovar, Malek Ashtar University of Technology, IR. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5490 by activity, 70 by citations). 8 publications, h-index 4, 350 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/arash-ostovar-a5019334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Malek Ashtar University of Technology</td></tr>
   <tr><th>Country</th><td>IR</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5490 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>350</td></tr>

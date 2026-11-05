@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xu"
-description: "Jianming Xu, Zhejiang University, China. 812 publications, h-index 106, 45,124 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jianming Xu, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 224 by activity, 26 by citations). 812 publications, h-index 106, 45,124 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/jianming-xu-a5068464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Zhejiang University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 224 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>106</td></tr>
   <tr><th>Citations</th><td>45,124</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Hydroxyapatite-Modified Biochar Application Derived from Recycled Selenium-Rich Straw Enhances Rice Biofortification and Economic Benefits](https://doi.org/10.1021/acs.est.5c06044)<br><small>Environmental Science & Technology · with Haoran Guan, Henglei Zhang, Kai Wang, Yuan Lv, Xingmei Liu, Xingmei Liu</small> | Biochar | 3 |
+| 2025 | [Hydroxyapatite-Modified Biochar Application Derived from Recycled Selenium-Rich Straw Enhances Rice Biofortification and Economic Benefits](https://doi.org/10.1021/acs.est.5c06044)<br><small>Environmental Science & Technology · with Haoran Guan, Henglei Zhang, Kai Wang, Yuan Lv, Xingmei Liu</small> | Biochar | 3 |
 | 2023 | [Compound-specific stable isotope analysis for characterization of the transformation of γ-HCH induced by biochar](https://doi.org/10.1016/j.chemosphere.2022.137729)<br><small>Chemosphere · with Min Zhu, Yaqing Liu, Yan He</small> | Biochar | 6 |
 | 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901)<br><small>SSRN Electronic Journal (preprint) · with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Guitong Li, Hao‐Li Zhang, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/), Qimei Lin and 7 more</small> | Biochar | 0 |
 | 2022 | [Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups](https://doi.org/10.1016/j.soilbio.2022.108778)<br><small>Soil Biology and Biochemistry · with Ling Lu, Bin Jiang, Brian J. Reid, Chunmei Meng, Fan Ding, [Jitao Lv](/cdr-researcher-census/researchers/jitao-lv-a5110294/) and 4 more</small> | Biochar | 164 |

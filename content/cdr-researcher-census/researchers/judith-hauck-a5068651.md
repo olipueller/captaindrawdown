@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
-description: "Judith Hauck, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 30 by activity, 10 by citations. 316 publications, h-index 42, 21,038 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Judith Hauck, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 30 by activity, 10 by citations; Europe rank 19 by activity, 5 by citations). 316 publications, h-index 42, 21,038 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 30 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 10 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 30 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 10 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 19 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 5 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>42</td></tr>
   <tr><th>Citations</th><td>21,038</td></tr>

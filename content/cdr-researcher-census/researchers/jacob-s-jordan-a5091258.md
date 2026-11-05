@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
-description: "Jacob S. Jordan, Mati Carbon, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 38 by activity, 431 by citations. 56 publications, h-index 12, 521 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jacob S. Jordan, Mati Carbon, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 38 by activity, 431 by citations). 56 publications, h-index 12, 521 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Mati Carbon</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 38 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 431 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 38 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 431 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>521</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Enhanced rock weathering for improved smallholder farmer welfare: An at-scale case study for rice agriculture in India](https://doi.org/10.70212/cdrxiv.2026483.v1)<br><small>with Anikendra Das, Dilip Patidar, Fiona Alder, Indra Sekhar Sen, Jonah Bernstein-Schalet, Laurence Y. Yeung and 8 more</small> | Enhanced Weathering | 0 |
-| 2026 | [On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering](https://openalex.org/W7147478046)<br><small>with Mohammad Afzal Shadab, Noah J. Planavsky, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Valentina Prigiobbe, [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/), Chris Reinhard</small> | Enhanced Weathering | 0 |
+| 2026 | [On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering](https://openalex.org/W7147478046)<br><small>with Mohammad Afzal Shadab, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Valentina Prigiobbe, [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/), Chris Reinhard</small> | Enhanced Weathering | 0 |
 | 2026 | [Increased yields for smallholder farmers from enhanced rock weathering](https://openalex.org/W7163065847)<br><small>with Adrika Maji, Dilip Patidar, Isha Jain, Jonah Bernstein-Schalet, Shantanu Agarwal, Tom M.D. Mills and 2 more</small> | Enhanced Weathering | 0 |
 | 2025 | [Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering](https://doi.org/10.1088/1748-9326/ade0d5)<br><small>Environmental Research Letters · with [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/), [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Shuang Zhang](/cdr-researcher-census/researchers/shuang-zhang-a5100321/), [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Enhanced Weathering | 21 |
 | 2025 | [Enhanced rock weathering for improved farmer welfare in the Global South: An at-scale case study for rice agriculture in India](https://doi.org/10.5194/egusphere-egu25-18512)<br><small>preprint · with Anikendra Das, Jonah Bernstein-Schalet, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Shantanu Agarwal, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/)</small> | Enhanced Weathering | 0 |

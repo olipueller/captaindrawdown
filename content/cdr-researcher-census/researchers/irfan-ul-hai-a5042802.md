@@ -1,7 +1,7 @@
 ---
 title: "Irfan Ul Hai"
-description: "Irfan Ul Hai, Nottingham Trent University, United Kingdom. 18 publications, h-index 8, 491 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Irfan Ul Hai, Nottingham Trent University, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 501 by activity, 88 by citations; Europe rank 284 by activity, 34 by citations). 18 publications, h-index 8, 491 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nottingham Trent University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 501 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 284 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>491</td></tr>

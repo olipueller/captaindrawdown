@@ -1,7 +1,7 @@
 ---
 title: "Mark J. Hovenden"
-description: "Mark J. Hovenden, University of Tasmania, Australia. 158 publications, h-index 35, 5,910 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mark J. Hovenden, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4973 by activity, 88 by citations). 158 publications, h-index 35, 5,910 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mark-j-hovenden-a5081513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4973 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>5,910</td></tr>

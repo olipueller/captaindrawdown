@@ -1,7 +1,7 @@
 ---
 title: "Humphrey Adun"
-description: "Humphrey Adun, Near East University, Cyprus. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 14 by activity, 130 by citations. 87 publications, h-index 32, 2,956 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Humphrey Adun, Near East University, Cyprus. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 14 by activity, 130 by citations; Europe rank 9 by activity, 83 by citations). 87 publications, h-index 32, 2,956 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/humphrey-adun-a5027923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Near East University</td></tr>
   <tr><th>Country</th><td>Cyprus</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 14 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 130 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 14 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 130 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 83 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>2,956</td></tr>

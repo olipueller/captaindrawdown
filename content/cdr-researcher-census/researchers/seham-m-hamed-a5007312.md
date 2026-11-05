@@ -1,7 +1,7 @@
 ---
 title: "Seham M. Hamed"
-description: "Seham M. Hamed, Imam Mohammad ibn Saud Islamic University, Saudi Arabia. 61 publications, h-index 18, 1,499 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Seham M. Hamed, Imam Mohammad ibn Saud Islamic University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3387 by activity, 26 by citations). 61 publications, h-index 18, 1,499 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/seham-m-hamed-a5007312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Imam Mohammad ibn Saud Islamic University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3387 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,499</td></tr>
@@ -47,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/) and 7 more</small> | Biochar | 216 |
-| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/) and 1 more</small> | BECCS | 379 |
+| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/) and 1 more</small> | BECCS | 379 |
 
 ---
 

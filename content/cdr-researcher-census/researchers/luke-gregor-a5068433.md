@@ -1,7 +1,7 @@
 ---
 title: "Luke Gregor"
-description: "Luke Gregor, ETH Zurich, Switzerland. 143 publications, h-index 27, 11,302 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Luke Gregor, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4390 by activity, 44 by citations; Europe rank 1254 by activity, 22 by citations). 143 publications, h-index 27, 11,302 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/luke-gregor-a5068433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4390 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1254 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 22 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>11,302</td></tr>

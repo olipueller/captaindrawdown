@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Hsin Chen"
-description: "Wei‐Hsin Chen, National Cheng Kung University, Taiwan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 14 by activity, 108 by citations. 935 publications, h-index 118, 50,802 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Wei‐Hsin Chen, National Cheng Kung University, Taiwan. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 14 by activity, 108 by citations). 935 publications, h-index 118, 50,802 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/weihsin-chen-a5057352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Cheng Kung University</td></tr>
   <tr><th>Country</th><td>Taiwan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 14 <a href="/data/researchers/biochar/">by activity</a>, rank 108 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 14 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 108 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>118</td></tr>
   <tr><th>Citations</th><td>50,802</td></tr>

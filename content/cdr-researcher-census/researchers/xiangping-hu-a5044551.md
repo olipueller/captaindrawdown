@@ -1,7 +1,7 @@
 ---
 title: "Xiangping Hu"
-description: "Xiangping Hu, Norwegian University of Science and Technology, Norway. 143 publications, h-index 28, 2,457 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Xiangping Hu, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11.4): BECCS (Europe rank 259 by activity, 49 by citations). 143 publications, h-index 28, 2,457 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/xiangping-hu-a5044551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Norwegian University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 259 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>2,457</td></tr>

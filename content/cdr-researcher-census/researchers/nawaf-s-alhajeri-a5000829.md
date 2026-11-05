@@ -1,7 +1,7 @@
 ---
 title: "Nawaf S. Alhajeri"
-description: "Nawaf S. Alhajeri, Kuwait University, KW. 63 publications, h-index 19, 1,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nawaf S. Alhajeri, Kuwait University, KW. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3386 by activity, 25 by citations). 63 publications, h-index 19, 1,364 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kuwait University</td></tr>
   <tr><th>Country</th><td>KW</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3386 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,364</td></tr>
@@ -48,7 +49,7 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Simultaneous recovery of biogas/biochar and degradation of 3,5-Dimethylphenol in anaerobic landfill leachate treatment](https://doi.org/10.1016/j.hazadv.2026.101087)<br><small>Journal of Hazardous Materials Advances · with Ahmed Tawfik, Mohamed N. Khalil, [Mahmoud Nasr](/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/)</small> | Biochar | 2 |
 | 2024 | [Integrating biochar and microbial community for detoxification of wastewater industry containing analgesics](https://doi.org/10.1016/j.jwpe.2023.104767)<br><small>Journal of Water Process Engineering · with Ahmed Tawfik</small> | Biochar | 16 |
-| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
+| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
 
 ---
 

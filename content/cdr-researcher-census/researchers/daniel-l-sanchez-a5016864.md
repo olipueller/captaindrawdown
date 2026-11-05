@@ -1,7 +1,7 @@
 ---
 title: "Daniel L. Sanchez"
-description: "Daniel L. Sanchez, University of California, Berkeley, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 40 by activity, 36 by citations. 96 publications, h-index 29, 4,937 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Daniel L. Sanchez, University of California, Berkeley, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 40 by activity, 36 by citations). 96 publications, h-index 29, 4,937 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, Berkeley</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 40 <a href="/data/researchers/beccs/">by activity</a>, rank 36 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 40 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 36 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>4,937</td></tr>

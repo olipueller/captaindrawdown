@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
-description: "Astley Hastings, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 36 by activity, 177 by citations. 211 publications, h-index 43, 8,435 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Astley Hastings, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 36 by activity, 177 by citations; Europe rank 25 by activity, 72 by citations). 211 publications, h-index 43, 8,435 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Aberdeen</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 36 <a href="/data/researchers/beccs/">by activity</a>, rank 177 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 36 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 177 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 72 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>43</td></tr>
   <tr><th>Citations</th><td>8,435</td></tr>

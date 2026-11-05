@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
-description: "Matthieu Delannoy, Université de Lorraine, France. 92 publications, h-index 13, 517 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matthieu Delannoy, Université de Lorraine, France. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 46 by activity, 408 by citations). 92 publications, h-index 13, 517 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Université de Lorraine</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 46 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 408 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>517</td></tr>

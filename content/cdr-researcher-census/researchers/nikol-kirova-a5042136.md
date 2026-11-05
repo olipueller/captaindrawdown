@@ -1,7 +1,7 @@
 ---
 title: "Nikol Kirova"
-description: "Nikol Kirova, Institute for Advanced Architecture of Catalonia, Spain. 11 publications, h-index 2, 7 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nikol Kirova, Institute for Advanced Architecture of Catalonia, Spain. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 48 by activity, 2136 by citations). 11 publications, h-index 2, 7 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nikol-kirova-a5042136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Institute for Advanced Architecture of Catalonia</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 48 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 2136 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>7</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Ronny Blust"
-description: "Ronny Blust, University of Antwerp, Belgium. 371 publications, h-index 81, 19,619 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Ronny Blust, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 456 by activity, 46 by citations), Enhanced Weathering (worldwide rank 575 by activity, 87 by citations). 371 publications, h-index 81, 19,619 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ronny-blust-a5080111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 456 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 575 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>81</td></tr>
   <tr><th>Citations</th><td>19,619</td></tr>

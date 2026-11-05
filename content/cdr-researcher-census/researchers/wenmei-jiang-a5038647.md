@@ -1,7 +1,7 @@
 ---
 title: "Wenmei Jiang"
-description: "Wenmei Jiang, Sun Yat-sen University, China. 21 publications, h-index 10, 804 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Wenmei Jiang, Sun Yat-sen University, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5487 by activity, 54 by citations). 21 publications, h-index 10, 804 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/wenmei-jiang-a5038647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Sun Yat-sen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5487 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 54 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>804</td></tr>

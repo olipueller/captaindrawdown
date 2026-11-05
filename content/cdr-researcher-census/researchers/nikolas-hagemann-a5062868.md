@@ -1,7 +1,7 @@
 ---
 title: "Nikolas Hagemann"
-description: "Nikolas Hagemann, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 2 by activity, 58 by citations; BECCS: rank 44 by activity, 2684 by citations; Enhanced Weathering: rank 54 by activity, 866 by citations. 87 publications, h-index 22, 4,145 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nikolas Hagemann, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 2 by activity, 58 by citations; Europe rank 1 by activity, 13 by citations), BECCS (worldwide rank 44 by activity, 2684 by citations; Europe rank 30 by activity, 1061 by citations), Enhanced Weathering (worldwide rank 54 by activity, 866 by citations; Europe rank 38 by activity, 261 by citations). 87 publications, h-index 22, 4,145 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ithaka Institute for Carbon Strategies</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 2 <a href="/data/researchers/biochar/">by activity</a>, rank 58 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 44 <a href="/data/researchers/beccs/">by activity</a>, rank 2684 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 54 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 866 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 2 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 58 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 13 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 44 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2684 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 1061 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 54 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 866 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 261 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>22</td></tr>
   <tr><th>Citations</th><td>4,145</td></tr>

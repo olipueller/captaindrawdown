@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Sun"
-description: "Yuqing Sun, Sun Yat-Sen University, China. 265 publications, h-index 64, 14,387 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Yuqing Sun, Sun Yat-Sen University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 116 by activity, 59 by citations). 265 publications, h-index 64, 14,387 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yuqing-sun-a5014667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Sun Yat-Sen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 116 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>64</td></tr>
   <tr><th>Citations</th><td>14,387</td></tr>

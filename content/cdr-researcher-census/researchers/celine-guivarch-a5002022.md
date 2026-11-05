@@ -1,7 +1,7 @@
 ---
 title: "Céline Guivarch"
-description: "Céline Guivarch, École nationale des ponts et chaussées, France. 263 publications, h-index 42, 9,899 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Céline Guivarch, École nationale des ponts et chaussées, France. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8855 by activity, 96 by citations). 263 publications, h-index 42, 9,899 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/celine-guivarch-a5002022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>École nationale des ponts et chaussées</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8855 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>42</td></tr>
   <tr><th>Citations</th><td>9,899</td></tr>

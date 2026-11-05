@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
-description: "Filip J. R. Meysman, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 27 by activity, 221 by citations; Enhanced Weathering: rank 31 by activity, 196 by citations. 346 publications, h-index 61, 14,028 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Filip J. R. Meysman, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 27 by activity, 221 by citations; Europe rank 16 by activity, 88 by citations), Enhanced Weathering (worldwide rank 31 by activity, 196 by citations; Europe rank 20 by activity, 101 by citations). 346 publications, h-index 61, 14,028 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 27 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 221 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 31 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 196 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 27 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 221 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 88 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 31 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 196 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 101 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>61</td></tr>
   <tr><th>Citations</th><td>14,028</td></tr>

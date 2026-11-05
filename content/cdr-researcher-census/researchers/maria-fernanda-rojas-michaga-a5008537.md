@@ -1,7 +1,7 @@
 ---
 title: "Maria Fernanda Rojas Michaga"
-description: "Maria Fernanda Rojas Michaga, University of Sheffield, United Kingdom. 14 publications, h-index 5, 630 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Maria Fernanda Rojas Michaga, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 1105 by activity, 32 by citations; Europe rank 340 by activity, 24 by citations). 14 publications, h-index 5, 630 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 1105 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 340 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>630</td></tr>
@@ -47,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2024 | [A techno-economic and life cycle assessment of a new power and biomass to liquids (PBtL) configuration with negative emissions for producing sustainable aviation fuel (SAF)](https://doi.org/10.1016/j.ecmx.2024.100841)<br><small>Energy Conversion and Management X · with [D.B. Ingham](/cdr-researcher-census/researchers/db-ingham-a5039105/), Evelyn Cardozo, [Kevin J. Hughes](/cdr-researcher-census/researchers/kevin-j-hughes-a5049610/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/)</small> | BECCS | 8 |
-| 2023 | [Sorption direct air capture with CO2 utilization](https://doi.org/10.1016/j.pecs.2022.101069)<br><small>Progress in Energy and Combustion Science · with [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/), [Abigail González-Díaz](/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/), [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5016842/), [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5051397/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/) and 3 more</small> | DAC | 323 |
+| 2023 | [Sorption direct air capture with CO2 utilization](https://doi.org/10.1016/j.pecs.2022.101069)<br><small>Progress in Energy and Combustion Science · with [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/), [Abigail González-Díaz](/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/), [R.Q. Wang](/cdr-researcher-census/researchers/rq-wang-a5016842/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/) and 3 more</small> | DAC | 323 |
 | 2023 | [Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment](https://doi.org/10.1016/j.enconman.2023.117427)<br><small>Energy Conversion and Management · with [D.B. Ingham](/cdr-researcher-census/researchers/db-ingham-a5039105/), Evelyn Cardozo, [Kevin J. Hughes](/cdr-researcher-census/researchers/kevin-j-hughes-a5049610/), [Muhammad Akram](/cdr-researcher-census/researchers/muhammad-akram-a5083409/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/)</small> | DAC | 180 |
 | 2022 | [Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach](https://doi.org/10.1016/j.enconman.2022.115346)<br><small>Energy Conversion and Management · with [D.B. Ingham](/cdr-researcher-census/researchers/db-ingham-a5039105/), Evelyn Cardozo, [Kevin J. Hughes](/cdr-researcher-census/researchers/kevin-j-hughes-a5049610/), [Muhammad Akram](/cdr-researcher-census/researchers/muhammad-akram-a5083409/), [Stavros Michailos](/cdr-researcher-census/researchers/stavros-michailos-a5052441/), [Mohamed Pourkashanian](/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/)</small> | BECCS | 100 |
 

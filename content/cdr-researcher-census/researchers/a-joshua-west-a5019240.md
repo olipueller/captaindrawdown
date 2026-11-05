@@ -1,7 +1,7 @@
 ---
 title: "A. Joshua West"
-description: "A. Joshua West, University of Southern California, United States. 250 publications, h-index 52, 11,107 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "A. Joshua West, University of Southern California, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 404 by activity, 84 by citations). 250 publications, h-index 52, 11,107 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/a-joshua-west-a5019240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Southern California</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 404 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 84 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>11,107</td></tr>
@@ -46,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exchange processes](https://openalex.org/W7172504160)<br><small>preprint · with Robert Hilton, Robert Hilton, Emily Burt, Josh Dean, Joshua Dean, [Kirsty Harrington](/cdr-researcher-census/researchers/kirsty-harrington-a5003735/) and 7 more</small> | Enhanced Weathering | 0 |
+| 2026 | [River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exchange processes](https://openalex.org/W7172504160)<br><small>preprint · with Robert Hilton, Emily Burt, Josh Dean, Joshua Dean, [Kirsty Harrington](/cdr-researcher-census/researchers/kirsty-harrington-a5003735/) and 7 more</small> | Enhanced Weathering | 0 |
 | 2023 | [Arctic Permafrost Thawing Enhances Sulfide Oxidation](https://doi.org/10.1029/2022gb007644)<br><small>Global Biogeochemical Cycles · with Preston Kemeny, Austin J. Chadwick, Gen Li, J. C. Rowland, John S. Magyar, M. Isabel Smith and 9 more</small> | Enhanced Weathering | 27 |
 | 2022 | [Microbial siderophores increase olivine dissolution rates by shunting Fe and Mg into biomass](https://doi.org/10.46427/gold2022.12713)<br><small>Goldschmidt2022 abstracts · with Abby Lunstrum, Martin Van Den Berghe, Seth G. John, Xiaopeng Bian, Kenneth H. Nealson</small> | Enhanced Weathering | 0 |
 | 2021 | [Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum](https://doi.org/10.1126/sciadv.abh4224)<br><small>Science Advances · with [Philip A.E. Pogge von Strandmann](/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [David J. Wilson](/cdr-researcher-census/researchers/david-j-wilson-a5044892/), Ella W. Stokke, [Gary Tarbuck](/cdr-researcher-census/researchers/gary-tarbuck-a5061449/), [Melissa J. Murphy](/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/) and 2 more</small> | Enhanced Weathering | 144 |

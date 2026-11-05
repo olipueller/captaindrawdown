@@ -1,7 +1,7 @@
 ---
 title: "Julia Pongratz"
-description: "Julia Pongratz, Ludwig-Maximilians-Universität München, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 3 by activity, 180 by citations; BECCS: rank 56 by activity, 1867 by citations. 499 publications, h-index 85, 41,357 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Julia Pongratz, Ludwig-Maximilians-Universität München, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 3 by activity, 180 by citations; Europe rank 3 by activity, 102 by citations), BECCS (worldwide rank 56 by activity, 1867 by citations; Europe rank 39 by activity, 804 by citations). 499 publications, h-index 85, 41,357 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/julia-pongratz-a5054849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,9 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Ludwig-Maximilians-Universität München</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 3 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 180 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 56 <a href="/data/researchers/beccs/">by activity</a>, rank 1867 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 180 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 102 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 56 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1867 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 804 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>85</td></tr>
   <tr><th>Citations</th><td>41,357</td></tr>
@@ -67,7 +67,7 @@ robots: "index, follow"
 | 2025 | [Scrutinizing the feasibility of land-based CDR potentials under socio-ecological constraints&amp;#160;](https://doi.org/10.5194/egusphere-egu25-19740)<br><small>preprint</small> | BECCS | 0 |
 | 2025 | [Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario](https://doi.org/10.5194/egusphere-egu25-19617)<br><small>preprint · with Felix Havermann, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Antonia Holland-Cunz, Christian Baatz, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/), [Felix Schenuit](/cdr-researcher-census/researchers/felix-schenuit-a5054371/) and 7 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-egu25-16915)<br><small>preprint · with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Daniele Peano, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), Lars Nieradzik, [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/), [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/) and 11 more</small> | Cross-cutting CDR | 0 |
-| 2025 | [CDR-Bildungsbroschüre 2: CO2-Entnahme erforschen – Schulexperimente und Hintergrundwissen zu Carbon Dioxide Removal (CDR) an Land und im Meer](https://doi.org/10.5281/zenodo.15827130)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with Sally Soria-Dengg, Imke Hoppe, Imke Hoppe, Katrin Geneuss</small> | Cross-cutting CDR | 0 |
+| 2025 | [CDR-Bildungsbroschüre 2: CO2-Entnahme erforschen – Schulexperimente und Hintergrundwissen zu Carbon Dioxide Removal (CDR) an Land und im Meer](https://doi.org/10.5281/zenodo.15827130)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with Sally Soria-Dengg, Imke Hoppe, Katrin Geneuss</small> | Cross-cutting CDR | 0 |
 | 2024 | [How to measure the efficiency of bioenergy crops compared to forestation](https://doi.org/10.5194/bg-21-5005-2024)<br><small>Biogeosciences · with Sabine Egerer, Dorothea Mayer, Stefanie Falk, Tobias Nützel, Wolfgang A. Obermeier</small> | BECCS | 6 |
 | 2024 | [Reviewing differences and uncertainties in land-use CO2 flux estimates](https://doi.org/10.5194/egusphere-egu24-18116)<br><small>preprint · with Wolfgang A. Obermeier, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Clemens Schwingshackl, [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), Ingrid T. Luijkx, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/) and 2 more</small> | Cross-cutting CDR | 1 |
 | 2024 | [Temporal dynamics of terrestrial carbon dioxide removal](https://doi.org/10.5194/egusphere-egu24-18510)<br><small>preprint · with Tobias Nützel, Conor Ó Beoláin, Daniel K. Bampoh, Dieter Gerten, Jens Krause, Sabine Egerer and 3 more</small> | BECCS | 0 |

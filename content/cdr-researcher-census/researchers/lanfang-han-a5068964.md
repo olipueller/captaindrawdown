@@ -1,7 +1,7 @@
 ---
 title: "Lanfang Han"
-description: "Lanfang Han, Guangdong University of Technology, China. 125 publications, h-index 49, 6,847 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Lanfang Han, Guangdong University of Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 151 by activity, 41 by citations). 125 publications, h-index 49, 6,847 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/lanfang-han-a5068964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Guangdong University of Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 151 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 41 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>49</td></tr>
   <tr><th>Citations</th><td>6,847</td></tr>

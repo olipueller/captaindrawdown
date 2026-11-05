@@ -1,7 +1,7 @@
 ---
 title: "Meththika Vithanage"
-description: "Meththika Vithanage, University of Sri Jayewardenepura, LK. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 77 by activity, 198 by citations. 517 publications, h-index 93, 33,558 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Meththika Vithanage, University of Sri Jayewardenepura, LK. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 77 by activity, 198 by citations). 517 publications, h-index 93, 33,558 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/meththika-vithanage-a5053693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sri Jayewardenepura</td></tr>
   <tr><th>Country</th><td>LK</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 77 <a href="/data/researchers/biochar/">by activity</a>, rank 198 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 77 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 198 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>93</td></tr>
   <tr><th>Citations</th><td>33,558</td></tr>

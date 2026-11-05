@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
-description: "Friedrich A. Burger, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 9 by activity, 2375 by citations. 81 publications, h-index 13, 1,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Friedrich A. Burger, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 9 by activity, 2375 by citations; Europe rank 7 by activity, 684 by citations). 81 publications, h-index 13, 1,088 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Bern</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 9 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 2375 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 9 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2375 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 684 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>1,088</td></tr>

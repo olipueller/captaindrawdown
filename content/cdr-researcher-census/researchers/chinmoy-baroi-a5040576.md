@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
-description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 58 by activity, 2891 by citations. 40 publications, h-index 13, 920 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 58 by activity, 2891 by citations). 40 publications, h-index 13, 920 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Illinois Urbana-Champaign</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 58 <a href="/data/researchers/dac/">by activity</a>, rank 2891 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 58 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2891 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>920</td></tr>
@@ -51,7 +51,7 @@ robots: "index, follow"
 | 2024 | [FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)](https://doi.org/10.2172/2483545)<br><small>with Leslie Gioja, Alberto Baumeister, Bajio Varghese, Bajio Varghese Kaleeckal, Brenda Petrilena, Claudio Mazzei and 22 more</small> | DAC | 1 |
 | 2024 | [Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community](https://doi.org/10.2139/ssrn.5013245)<br><small>SSRN Electronic Journal · with Chen Wang, Darryl-Lynn Roberts, Elizabeth Meschewski, J. E. Pike, Jong Sung Lee, Kendall Taft and 9 more</small> | DAC | 0 |
 | 2024 | [Florida Regional Direct Air Capture (DAC) Hub](https://doi.org/10.2139/ssrn.5045251)<br><small>SSRN Electronic Journal · with Jason Dietsch, Andréa Stella, Andy Dubel, Ashleigh Ross, Bryan D. Jones, Darryl-Lynn Roberts and 9 more</small> | DAC | 0 |
-| 2024 | [Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat](https://doi.org/10.2139/ssrn.5066083)<br><small>SSRN Electronic Journal · with Bajio Varghese Kaleeckal, Alberto Baumeister, Kevin Cail, Kevin Cail, Kevin O’Brien, Leslie Gioja and 7 more</small> | DAC | 0 |
+| 2024 | [Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat](https://doi.org/10.2139/ssrn.5066083)<br><small>SSRN Electronic Journal · with Bajio Varghese Kaleeckal, Alberto Baumeister, Kevin Cail, Kevin O’Brien, Leslie Gioja and 7 more</small> | DAC | 0 |
 | 2024 | [Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks](https://doi.org/10.2172/2322436)<br><small>with Kevin O’Brien, Bob Sullivan, Brian Meichtry, Daniel Sutter, Jason Dietsch, Karina Veloso and 3 more</small> | DAC | 0 |
 | 2022 | [FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel's Gary Works Plant Waste Heat](https://openalex.org/W7220799235)<br><small>with Kevin OBrien, Les Gioja</small> | DAC | 0 |
 

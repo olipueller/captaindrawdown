@@ -1,7 +1,7 @@
 ---
 title: "Erik Verbruggen"
-description: "Erik Verbruggen, University of Antwerp, Belgium. 166 publications, h-index 46, 8,833 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Erik Verbruggen, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 163 by activity, 59 by citations; Europe rank 97 by activity, 43 by citations). 166 publications, h-index 46, 8,833 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/erik-verbruggen-a5085648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 163 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 97 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 43 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>46</td></tr>
   <tr><th>Citations</th><td>8,833</td></tr>

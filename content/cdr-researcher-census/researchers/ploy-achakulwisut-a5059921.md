@@ -1,7 +1,7 @@
 ---
 title: "Ploy Achakulwisut"
-description: "Ploy Achakulwisut, Stockholm Environment Institute, United States. 36 publications, h-index 14, 1,782 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ploy Achakulwisut, Stockholm Environment Institute, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1510 by activity, 91 by citations). 36 publications, h-index 14, 1,782 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ploy-achakulwisut-a5059921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Stockholm Environment Institute</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1510 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,782</td></tr>

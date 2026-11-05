@@ -1,7 +1,7 @@
 ---
 title: "Jianping Gan"
-description: "Jianping Gan, Hong Kong University of Science and Technology, Hong Kong. 233 publications, h-index 53, 8,232 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jianping Gan, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4968 by activity, 63 by citations). 233 publications, h-index 53, 8,232 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jianping-gan-a5009715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hong Kong University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Hong Kong</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4968 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>8,232</td></tr>

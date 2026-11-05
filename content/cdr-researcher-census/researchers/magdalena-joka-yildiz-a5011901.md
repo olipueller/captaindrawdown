@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Joka Yildiz"
-description: "Magdalena Joka Yildiz, Bialystok University of Technology, Poland. 29 publications, h-index 10, 377 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Magdalena Joka Yildiz, Bialystok University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 502 by activity, 89 by citations; Europe rank 285 by activity, 35 by citations). 29 publications, h-index 10, 377 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/magdalena-joka-yildiz-a5011901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bialystok University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 502 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 89 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 285 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>377</td></tr>

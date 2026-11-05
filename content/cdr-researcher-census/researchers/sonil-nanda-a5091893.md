@@ -1,7 +1,7 @@
 ---
 title: "Sonil Nanda"
-description: "Sonil Nanda, Dalhousie University, Canada. 254 publications, h-index 69, 17,052 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Sonil Nanda, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 702 by activity, 29 by citations). 254 publications, h-index 69, 17,052 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/sonil-nanda-a5091893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Dalhousie University</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 702 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>17,052</td></tr>

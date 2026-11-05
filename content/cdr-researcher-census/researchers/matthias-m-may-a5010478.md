@@ -1,7 +1,7 @@
 ---
 title: "Matthias M. May"
-description: "Matthias M. May, Universität Tübingen, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 81 by activity, 6072 by citations. 128 publications, h-index 21, 2,854 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Matthias M. May, Universität Tübingen, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 81 by activity, 6072 by citations). 128 publications, h-index 21, 2,854 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/matthias-m-may-a5010478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Universität Tübingen</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 81 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 6072 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 81 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 6072 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,854</td></tr>

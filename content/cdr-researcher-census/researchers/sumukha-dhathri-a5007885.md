@@ -1,7 +1,7 @@
 ---
 title: "Sumukha Dhathri"
-description: "Sumukha Dhathri, University of Freiburg, Germany. 5 publications, h-index 2, 249 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Sumukha Dhathri, University of Freiburg, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3020 by activity, 90 by citations; Europe rank 742 by activity, 45 by citations). 5 publications, h-index 2, 249 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Freiburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3020 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 742 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>249</td></tr>

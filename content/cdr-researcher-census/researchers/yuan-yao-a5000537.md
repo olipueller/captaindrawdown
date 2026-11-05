@@ -1,7 +1,7 @@
 ---
 title: "Yuan Yao"
-description: "Yuan Yao, Yale University, United States. 119 publications, h-index 36, 6,052 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Yuan Yao, Yale University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 528 by activity, 68 by citations). 119 publications, h-index 36, 6,052 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/yuan-yao-a5000537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 528 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>6,052</td></tr>

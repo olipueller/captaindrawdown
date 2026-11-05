@@ -1,7 +1,7 @@
 ---
 title: "Michael Obersteiner"
-description: "Michael Obersteiner, University of Oxford, United Kingdom. 723 publications, h-index 110, 50,403 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Michael Obersteiner, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 491 by activity, 9 by citations; Europe rank 274 by activity, 6 by citations), Enhanced Weathering (worldwide rank 4676 by activity, 64 by citations; Europe rank 1320 by activity, 45 by citations). 723 publications, h-index 110, 50,403 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/michael-obersteiner-a5025780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>University of Oxford</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 491 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 274 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4676 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1320 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>110</td></tr>
   <tr><th>Citations</th><td>50,403</td></tr>

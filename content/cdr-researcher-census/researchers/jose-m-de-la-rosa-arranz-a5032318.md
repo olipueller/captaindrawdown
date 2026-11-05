@@ -1,7 +1,7 @@
 ---
 title: "José M. de la Rosa Arranz"
-description: "José M. de la Rosa Arranz, Instituto de Recursos Naturales y Agrobiología de Sevilla, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 82 by activity, 661 by citations. 309 publications, h-index 33, 4,598 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "José M. de la Rosa Arranz, Instituto de Recursos Naturales y Agrobiología de Sevilla, Spain. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 82 by activity, 661 by citations; Europe rank 24 by activity, 90 by citations). 309 publications, h-index 33, 4,598 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto de Recursos Naturales y Agrobiología de Sevilla</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 82 <a href="/data/researchers/biochar/">by activity</a>, rank 661 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 82 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 661 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 90 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>4,598</td></tr>

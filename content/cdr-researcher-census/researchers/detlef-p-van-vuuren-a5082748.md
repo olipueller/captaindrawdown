@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
-description: "Detlef P. van Vuuren, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 4 by activity, 142 by citations; Cross-cutting CDR: rank 16 by activity, 135 by citations. 875 publications, h-index 150, 125,096 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Detlef P. van Vuuren, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 4 by activity, 142 by citations; Europe rank 4 by activity, 62 by citations), Cross-cutting CDR (worldwide rank 16 by activity, 135 by citations; Europe rank 11 by activity, 87 by citations). 875 publications, h-index 150, 125,096 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,9 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Netherlands Environmental Assessment Agency</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 4 <a href="/data/researchers/beccs/">by activity</a>, rank 142 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 16 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 135 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 4 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 142 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 62 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 16 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 135 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 87 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>150</td></tr>
   <tr><th>Citations</th><td>125,096</td></tr>
@@ -48,9 +48,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, Edward Byers and 29 more</small> | Cross-cutting CDR | 1 |
+| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, Edward Byers and 29 more</small> | Cross-cutting CDR | 1 |
 | 2026 | [Enhanced weathering and biochar can contribute over 50% of carbon removal while reducing costs and resource depletion in China](https://doi.org/10.5194/egusphere-egu26-8183)<br><small>with Rui Wang, Giulio Pistolesi, Isabela Schmidt Tagomori, [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/), [Wenjia Cai](/cdr-researcher-census/researchers/wenjia-cai-a5016144/) and 2 more</small> | BECCS; DAC | 0 |
-| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/) and 10 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Elmar Kriegler](/cdr-researcher-census/researchers/elmar-kriegler-a5023849/) and 10 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Competing for land: mapping potentials and trade-offs of land-based carbon dioxideremoval under climate targets](https://doi.org/10.5194/egusphere-egu26-22823)<br><small>with Oumaima Rhalem, [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/), Meike D. W. Scherrenberg, [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/)</small> | Cross-cutting CDR | 0 |
 | 2026 | [Incorporating Geological Carbon Storage Constraints in Integrated Assessment Models](https://doi.org/10.5194/egusphere-egu26-20568)<br><small>with Catrin Harris, Anne Merfort, Iain De Jonge-Anderson, Iain de Jonge‐Anderson, Samuel Krevor, [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/)</small> | Cross-cutting CDR | 0 |
 | 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937)<br><small>with Catrin Harris, Anne Merfort, Cindy G. Azuero-Pedraza, Cindy Giselle Azuero Pedraza, [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Hattie Whittaker and 17 more</small> | BECCS | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Tareq Al‐Ansari"
-description: "Tareq Al‐Ansari, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 87 by activity, 82 by citations. 424 publications, h-index 62, 14,495 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Tareq Al‐Ansari, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 365 by activity, 28 by citations), BECCS (worldwide rank 380 by activity, 29 by citations), DAC (worldwide rank 87 by activity, 82 by citations). 424 publications, h-index 62, 14,495 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/tareq-alansari-a5086098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 87 <a href="/data/researchers/dac/">by activity</a>, rank 82 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 365 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 380 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 87 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 82 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>62</td></tr>
   <tr><th>Citations</th><td>14,495</td></tr>

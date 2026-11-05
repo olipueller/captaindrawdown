@@ -1,7 +1,7 @@
 ---
 title: "Zhonghao Wan"
-description: "Zhonghao Wan, Yale University, United States. 27 publications, h-index 23, 3,726 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Zhonghao Wan, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3270 by activity, 90 by citations). 27 publications, h-index 23, 3,726 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/zhonghao-wan-a5069468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 3270 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>3,726</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Aaron Ferderer"
-description: "Aaron Ferderer, Commonwealth Scientific and Industrial Research Organisation, Australia. 22 publications, h-index 8, 327 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Aaron Ferderer, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 257 by activity, 31 by citations). 22 publications, h-index 8, 327 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/aaron-ferderer-a5058513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Commonwealth Scientific and Industrial Research Organisation</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 257 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 31 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>327</td></tr>

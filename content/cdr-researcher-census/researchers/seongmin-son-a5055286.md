@@ -1,7 +1,7 @@
 ---
 title: "Seongmin Son"
-description: "Seongmin Son, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 46 by activity, 1863 by citations. 68 publications, h-index 16, 1,178 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Seongmin Son, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 46 by activity, 1863 by citations). 68 publications, h-index 16, 1,178 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/seongmin-son-a5055286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kyungpook National University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 46 <a href="/data/researchers/dac/">by activity</a>, rank 1863 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 46 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1863 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>1,178</td></tr>

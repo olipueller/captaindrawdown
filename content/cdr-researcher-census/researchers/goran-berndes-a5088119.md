@@ -1,7 +1,7 @@
 ---
 title: "Göran Berndes"
-description: "Göran Berndes, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 9 by activity, 35 by citations. 258 publications, h-index 52, 10,950 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Göran Berndes, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 9 by activity, 35 by citations; Europe rank 9 by activity, 14 by citations). 258 publications, h-index 52, 10,950 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/goran-berndes-a5088119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chalmers University of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 9 <a href="/data/researchers/beccs/">by activity</a>, rank 35 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 9 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>10,950</td></tr>

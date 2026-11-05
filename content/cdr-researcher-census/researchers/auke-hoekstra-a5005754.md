@@ -1,7 +1,7 @@
 ---
 title: "Auke Hoekstra"
-description: "Auke Hoekstra, Eindhoven University of Technology, Netherlands. 17 publications, h-index 8, 899 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Auke Hoekstra, Eindhoven University of Technology, Netherlands. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10634 by activity, 66 by citations). 17 publications, h-index 8, 899 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/auke-hoekstra-a5005754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Eindhoven University of Technology</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10634 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>899</td></tr>

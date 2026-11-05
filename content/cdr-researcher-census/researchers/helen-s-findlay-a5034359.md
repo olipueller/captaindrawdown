@@ -1,7 +1,7 @@
 ---
 title: "Helen S. Findlay"
-description: "Helen S. Findlay, Plymouth Marine Laboratory, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 69 by activity, 1004 by citations. 124 publications, h-index 34, 6,071 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Helen S. Findlay, Plymouth Marine Laboratory, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 69 by activity, 1004 by citations; Europe rank 42 by activity, 333 by citations). 124 publications, h-index 34, 6,071 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/helen-s-findlay-a5034359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Plymouth Marine Laboratory</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 69 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 1004 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 69 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1004 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 42 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 333 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>6,071</td></tr>

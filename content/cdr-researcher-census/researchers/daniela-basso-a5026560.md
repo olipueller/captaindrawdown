@@ -1,7 +1,7 @@
 ---
 title: "Daniela Basso"
-description: "Daniela Basso, University of Milano-Bicocca, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 8 by activity, 507 by citations. 274 publications, h-index 31, 3,535 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Daniela Basso, University of Milano-Bicocca, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 8 by activity, 507 by citations; Europe rank 6 by activity, 183 by citations). 274 publications, h-index 31, 3,535 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/daniela-basso-a5026560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Milano-Bicocca</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 8 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 507 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 8 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 507 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 183 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>3,535</td></tr>

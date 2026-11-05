@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
-description: "Giuseppe Cipolla, University of Palermo, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 95 by activity, 68 by citations. 52 publications, h-index 10, 564 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Giuseppe Cipolla, University of Palermo, Italy. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 95 by activity, 68 by citations; Europe rank 61 by activity, 49 by citations). 52 publications, h-index 10, 564 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Palermo</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 95 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 68 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 95 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 61 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>564</td></tr>

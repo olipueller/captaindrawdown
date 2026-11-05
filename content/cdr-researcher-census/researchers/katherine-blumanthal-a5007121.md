@@ -1,7 +1,7 @@
 ---
 title: "Katherine Blumanthal"
-description: "Katherine Blumanthal. 2 publications, h-index 1, 713 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Katherine Blumanthal. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5814 by activity, 12 by citations). 2 publications, h-index 1, 713 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,12 +20,12 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5814 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>713</td></tr>
   <tr><th>Publications</th><td>2</td></tr>
   <tr><th>Share of publications on CDR</th><td>50.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5007121740">OpenAlex</a></td></tr>
 </table>
 

@@ -1,7 +1,7 @@
 ---
 title: "Asma Sarwer"
-description: "Asma Sarwer, COMSATS University Islamabad, Pakistan. 6 publications, h-index 4, 476 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Asma Sarwer, COMSATS University Islamabad, Pakistan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3383 by activity, 22 by citations). 6 publications, h-index 4, 476 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/asma-sarwer-a5000091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>COMSATS University Islamabad</td></tr>
   <tr><th>Country</th><td>Pakistan</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3383 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 22 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>476</td></tr>
@@ -43,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
+| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
 
 ---
 

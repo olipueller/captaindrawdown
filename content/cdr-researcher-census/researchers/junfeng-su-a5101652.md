@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
-description: "Junfeng Su, Xi'an University of Architecture and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 17 by activity, 144 by citations. 266 publications, h-index 51, 7,455 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Junfeng Su, Xi'an University of Architecture and Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 17 by activity, 144 by citations). 266 publications, h-index 51, 7,455 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Xi'an University of Architecture and Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 17 <a href="/data/researchers/biochar/">by activity</a>, rank 144 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 17 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 144 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>7,455</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Polylactic acid-based slow-release carbon source composite kaolin with modified biochar: Synergistic co-removal of nitrate, Cd(II), and diclofenac through manganese redox-coupled denitrification](https://openalex.org/W7143818370)<br><small>with Wenjing Cheng, Jingting Feng, Kun Pu, Yan Liu, Yihan Bai, Yue Wang and 1 more</small> | Biochar | 1 |
-| 2026 | [Simultaneous removal of nitrogen, Cu2+, and bisphenol A in a hydrogel-biochar-AQDS immobilized bioreactor with added bicarbonate: Performance and metagenomic insights](https://openalex.org/W7204198252)<br><small>with Yu Liu, Yu Liu, Xue Li, Xue Li, Yihan Bai, Yue Wang and 2 more</small> | Biochar | 0 |
+| 2026 | [Simultaneous removal of nitrogen, Cu2+, and bisphenol A in a hydrogel-biochar-AQDS immobilized bioreactor with added bicarbonate: Performance and metagenomic insights](https://openalex.org/W7204198252)<br><small>with Yu Liu, Xue Li, Yihan Bai, Yue Wang and 2 more</small> | Biochar | 0 |
 | 2025 | [δ-MnO2-modified peanut shell biochar and humic acid promoted Mn(IV) reduction-driven ammonium oxidation with Cr(VI) removal](https://doi.org/10.1016/j.biortech.2025.133348)<br><small>Bioresource Technology · with Yue Wang, Haihan Zhang, J. Z. Bai, Jingting Feng, Wenjing Cheng, Yihan Bai and 1 more</small> | Biochar | 5 |
 | 2024 | [Modified biochar improved simultaneous nitrate removal and soluble microbial products regulation in low carbon wastewater: Insights from the biocarrier and community function](https://doi.org/10.1016/j.jwpe.2024.105762)<br><small>Journal of Water Process Engineering · with Shuai Zhang, Amjad Ali, Jiabin Wang, Kun Qian, Xiaoyu Hu, Xiaofei Wu</small> | Biochar | 21 |
 | 2024 | [Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization](https://doi.org/10.1016/j.biortech.2024.130567)<br><small>Bioresource Technology · with Meng Cao, Amjad Ali, Lingfei Zhang, Yue Wang, Zhao Wang, Yihan Bai</small> | Biochar | 20 |

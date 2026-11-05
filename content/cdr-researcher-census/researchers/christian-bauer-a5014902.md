@@ -1,7 +1,7 @@
 ---
 title: "Christian Bauer"
-description: "Christian Bauer, Paul Scherrer Institut, Switzerland. 274 publications, h-index 55, 18,202 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Christian Bauer, Paul Scherrer Institut, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 1073 by activity, 4 by citations; Europe rank 328 by activity, 3 by citations), Cross-cutting CDR (worldwide rank 1447 by activity, 99 by citations). 274 publications, h-index 55, 18,202 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/christian-bauer-a5014902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Paul Scherrer Institut</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 1073 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 328 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1447 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>55</td></tr>
   <tr><th>Citations</th><td>18,202</td></tr>

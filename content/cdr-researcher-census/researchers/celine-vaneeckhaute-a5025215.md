@@ -1,7 +1,7 @@
 ---
 title: "Céline Vaneeckhaute"
-description: "Céline Vaneeckhaute, Université Laval, Canada. 136 publications, h-index 29, 3,670 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Céline Vaneeckhaute, Université Laval, Canada. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3812 by activity, 81 by citations). 136 publications, h-index 29, 3,670 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/celine-vaneeckhaute-a5025215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Université Laval</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3812 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>3,670</td></tr>

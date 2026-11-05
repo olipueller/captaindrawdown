@@ -1,7 +1,7 @@
 ---
 title: "Christopher Mutel"
-description: "Christopher Mutel, ecoinvent association, Switzerland. 72 publications, h-index 37, 6,330 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Christopher Mutel, ecoinvent association, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3031 by activity, 21 by citations; Europe rank 748 by activity, 14 by citations). 72 publications, h-index 37, 6,330 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/christopher-mutel-a5044214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ecoinvent association</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3031 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 21 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 748 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>37</td></tr>
   <tr><th>Citations</th><td>6,330</td></tr>

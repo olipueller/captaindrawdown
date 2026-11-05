@@ -1,7 +1,7 @@
 ---
 title: "Marijana Kragulj Isakovski"
-description: "Marijana Kragulj Isakovski, University of Novi Sad, Serbia. 84 publications, h-index 17, 969 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Marijana Kragulj Isakovski, University of Novi Sad, Serbia. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 40 by activity, 654 by citations). 84 publications, h-index 17, 969 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/marijana-kragulj-isakovski-a5007335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Novi Sad</td></tr>
   <tr><th>Country</th><td>Serbia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 40 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 654 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>969</td></tr>

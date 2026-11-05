@@ -1,7 +1,7 @@
 ---
 title: "Éder C. Lima"
-description: "Éder C. Lima, Universidade Federal do Rio Grande do Sul, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 37 by activity, 25 by citations. 495 publications, h-index 98, 32,613 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Éder C. Lima, Universidade Federal do Rio Grande do Sul, Brazil. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 37 by activity, 25 by citations). 495 publications, h-index 98, 32,613 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/eder-c-lima-a5011032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade Federal do Rio Grande do Sul</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 37 <a href="/data/researchers/biochar/">by activity</a>, rank 25 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 37 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>98</td></tr>
   <tr><th>Citations</th><td>32,613</td></tr>

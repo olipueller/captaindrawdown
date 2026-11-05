@@ -1,7 +1,7 @@
 ---
 title: "Peter Landschützer"
-description: "Peter Landschützer, Flanders Marine Institute, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 88 by activity, 18 by citations. 227 publications, h-index 55, 25,522 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Peter Landschützer, Flanders Marine Institute, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 88 by activity, 18 by citations; Europe rank 53 by activity, 7 by citations). 227 publications, h-index 55, 25,522 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/peter-landschutzer-a5091506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Flanders Marine Institute</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 88 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 18 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 88 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 53 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 7 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>55</td></tr>
   <tr><th>Citations</th><td>25,522</td></tr>

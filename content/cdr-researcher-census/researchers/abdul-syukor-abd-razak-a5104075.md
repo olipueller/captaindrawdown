@@ -1,7 +1,7 @@
 ---
 title: "Abdul Syukor Abd Razak"
-description: "Abdul Syukor Abd Razak, Universiti Malaysia Pahang Al-Sultan Abdullah, Malaysia. 21 publications, h-index 12, 1,222 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Abdul Syukor Abd Razak, Universiti Malaysia Pahang Al-Sultan Abdullah, Malaysia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3343 by activity, 74 by citations). 21 publications, h-index 12, 1,222 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universiti Malaysia Pahang Al-Sultan Abdullah</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 3343 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>1,222</td></tr>

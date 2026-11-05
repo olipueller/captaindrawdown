@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
-description: "Kamil Stasiak, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 51 by activity, 352 by citations. 19 publications, h-index 7, 212 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Kamil Stasiak, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 51 by activity, 352 by citations; Europe rank 36 by activity, 150 by citations). 19 publications, h-index 7, 212 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Gdańsk University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 51 <a href="/data/researchers/beccs/">by activity</a>, rank 352 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 51 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 352 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 150 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>212</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption](https://doi.org/10.1016/j.energy.2026.140684)<br><small>Energy · with Chao Fu, Gonzalo del Alamo Serrano, Gonzalo del Alamo Serrano, Halina Pawlak-Kruczek, Krystian Krochmalny, Maja Kaszuba and 11 more</small> | BECCS | 1 |
+| 2026 | [Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption](https://doi.org/10.1016/j.energy.2026.140684)<br><small>Energy · with Chao Fu, Gonzalo del Alamo Serrano, Halina Pawlak-Kruczek, Krystian Krochmalny, Maja Kaszuba and 11 more</small> | BECCS | 1 |
 | 2025 | [The effect of hydrothermal carbonization (HTC) on entrained flow steam gasification of sewage sludge. Experimental validation of various gasification models](https://doi.org/10.1016/j.energy.2025.134885)<br><small>Energy · with Jakub Mularski, Amit Arora, Halina Pawlak-Kruczek, Halina Pawlak–Kruczek, Krystian Krochmalny, Marcin Baranowski and 8 more</small> | BECCS | 7 |
 | 2024 | [Exergy analysis and thermodynamic optimization of a bioenergy with carbon capture and storage gas power plant using Monte Carlo simulation of sewage sludge composition](https://doi.org/10.1016/j.applthermaleng.2024.125312)<br><small>Applied Thermal Engineering · with Ivar S. Ertesvåg, [Paweł Ziółkowski](/cdr-researcher-census/researchers/pawe-ziokowski-a5022146/), [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 7 |
 | 2023 | [Selected Aspects of Performance of Organic Rankine Cycles Incorporated Into Bioenergy With Carbon Capture and Storage Using Gasification of Sewage Sludge](https://doi.org/10.1115/1.4064196)<br><small>Journal of Energy Resources Technology · with [Paweł Ziółkowski](/cdr-researcher-census/researchers/pawe-ziokowski-a5022146/), [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 12 |

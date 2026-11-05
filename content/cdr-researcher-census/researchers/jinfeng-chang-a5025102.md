@@ -1,7 +1,7 @@
 ---
 title: "Jinfeng Chang"
-description: "Jinfeng Chang, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 89 by activity, 321 by citations. 249 publications, h-index 58, 13,549 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Jinfeng Chang, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4675 by activity, 63 by citations), BECCS (worldwide rank 89 by activity, 321 by citations). 249 publications, h-index 58, 13,549 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jinfeng-chang-a5025102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Zhejiang University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 89 <a href="/data/researchers/beccs/">by activity</a>, rank 321 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4675 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 89 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 321 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>13,549</td></tr>

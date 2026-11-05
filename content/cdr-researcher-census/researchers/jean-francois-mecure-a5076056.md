@@ -1,7 +1,7 @@
 ---
 title: "Jean-Francois Mecure"
-description: "Jean-Francois Mecure. 2 publications, h-index 1, 165 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Jean-Francois Mecure. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 2264 by activity, 90 by citations). 2 publications, h-index 1, 165 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,6 +20,7 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 2264 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>165</td></tr>

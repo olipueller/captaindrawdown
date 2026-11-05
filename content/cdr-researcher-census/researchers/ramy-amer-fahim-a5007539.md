@@ -1,7 +1,7 @@
 ---
 title: "Ramy Amer Fahim"
-description: "Ramy Amer Fahim, Egyptian Atomic Energy Authority, Egypt. 30 publications, h-index 21, 2,124 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ramy Amer Fahim, Egyptian Atomic Energy Authority, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23851 by activity, 82 by citations). 30 publications, h-index 21, 2,124 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/ramy-amer-fahim-a5007539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Egyptian Atomic Energy Authority</td></tr>
   <tr><th>Country</th><td>Egypt</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23851 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 82 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,124</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Davey L. Jones"
-description: "Davey L. Jones, Bangor University, United Kingdom. 1199 publications, h-index 131, 72,394 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Davey L. Jones, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 35 by activity, 27 by citations). 1199 publications, h-index 131, 72,394 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/davey-l-jones-a5064381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bangor University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 35 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>131</td></tr>
   <tr><th>Citations</th><td>72,394</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Hamish R. Mackey"
-description: "Hamish R. Mackey, University of Canterbury, New Zealand. 176 publications, h-index 50, 9,015 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Hamish R. Mackey, University of Canterbury, New Zealand. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 927 by activity, 30 by citations), BECCS (worldwide rank 3808 by activity, 38 by citations). 176 publications, h-index 50, 9,015 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Canterbury</td></tr>
   <tr><th>Country</th><td>New Zealand</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 927 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3808 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>9,015</td></tr>

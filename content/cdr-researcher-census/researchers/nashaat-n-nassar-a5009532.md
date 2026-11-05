@@ -1,7 +1,7 @@
 ---
 title: "Nashaat N. Nassar"
-description: "Nashaat N. Nassar, University of Calgary, Canada. 195 publications, h-index 49, 7,987 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Nashaat N. Nassar, University of Calgary, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 2999 by activity, 59 by citations). 195 publications, h-index 49, 7,987 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Calgary</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 2999 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>49</td></tr>
   <tr><th>Citations</th><td>7,987</td></tr>

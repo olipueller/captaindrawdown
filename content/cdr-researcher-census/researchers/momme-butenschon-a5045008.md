@@ -1,7 +1,7 @@
 ---
 title: "Momme Butenschön"
-description: "Momme Butenschön, CMCC Foundation - Euro-Mediterranean Center on Climate Change, Italy. 142 publications, h-index 31, 3,627 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Momme Butenschön, CMCC Foundation - Euro-Mediterranean Center on Climate Change, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 98 by activity, 47 by citations). 142 publications, h-index 31, 3,627 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/momme-butenschon-a5045008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CMCC Foundation - Euro-Mediterranean Center on Climate Change</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 98 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>3,627</td></tr>

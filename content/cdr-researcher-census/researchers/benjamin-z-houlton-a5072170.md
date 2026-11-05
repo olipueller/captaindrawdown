@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
-description: "Benjamin Z. Houlton, Cornell University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 30 by activity, 77 by citations. 183 publications, h-index 44, 13,575 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Benjamin Z. Houlton, Cornell University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 30 by activity, 77 by citations). 183 publications, h-index 44, 13,575 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Cornell University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 30 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 77 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 30 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>44</td></tr>
   <tr><th>Citations</th><td>13,575</td></tr>
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2025 | [Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands](https://doi.org/10.1016/j.scitotenv.2025.180179)<br><small>The Science of The Total Environment · with Jaeeun Sohng, Anthony Debons, Heath Goertzen, Iris Holzer, Isabel P. Montañez, Jasquelin Peña and 4 more</small> | Enhanced Weathering | 13 |
 | 2025 | [Preliminary assessment of crushed rock, compost, and biochar amendments on soil physical properties](https://doi.org/10.1002/ael2.70028)<br><small>Agricultural & Environmental Letters · with Sarah A. Costanzo, Amber Davenport, Iris Holzer, Nall I. Moonilall, Mallika Nocco</small> | Biochar; Enhanced Weathering | 7 |
 | 2025 | [Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways](https://doi.org/10.21203/rs.3.rs-7040857/v1)<br><small>preprint · with Brian Buma, Alexandra Klemme, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), Doria R. Gordon and 17 more</small> | Enhanced Weathering | 3 |
-| 2025 | [&amp;#160;&amp;#8220;Long effects of enhanced rock weathering: the first two years of The Decade Experiment&amp;#8221;](https://doi.org/10.5194/egusphere-egu25-13189)<br><small>preprint · with Chris Evans, Chu-Hsien Tsai, Sean Meagher, Sean Meagher</small> | Enhanced Weathering | 0 |
+| 2025 | [&amp;#160;&amp;#8220;Long effects of enhanced rock weathering: the first two years of The Decade Experiment&amp;#8221;](https://doi.org/10.5194/egusphere-egu25-13189)<br><small>preprint · with Chris Evans, Chu-Hsien Tsai, Sean Meagher</small> | Enhanced Weathering | 0 |
 | 2025 | [Key limitations in enhanced weathering to remove carbon dioxide across agricultural soils](https://doi.org/10.5194/egusphere-egu25-5064)<br><small>preprint · with Feng Tao</small> | Enhanced Weathering | 0 |
 | 2024 | [Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon](https://doi.org/10.1007/s10533-024-01160-0)<br><small>Biogeochemistry · with [Noah W. Sokol](/cdr-researcher-census/researchers/noah-w-sokol-a5011737/), Emily K. Geoghegan, Eric Slessarev, Heath Goertzen, Iris Holzer, Isabel P. Montañez and 7 more</small> | Enhanced Weathering | 36 |
 | 2024 | [Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal](https://doi.org/10.1111/gcb.17132)<br><small>Global Change Biology · with Feng Tao</small> | Enhanced Weathering | 23 |

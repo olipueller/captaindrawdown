@@ -1,7 +1,7 @@
 ---
 title: "Hailong Wang"
-description: "Hailong Wang, Foshan University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 71 by activity, 64 by citations. 1404 publications, h-index 129, 63,137 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Hailong Wang, Foshan University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 71 by activity, 64 by citations). 1404 publications, h-index 129, 63,137 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/hailong-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Foshan University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>rank 71 <a href="/data/researchers/biochar/">by activity</a>, rank 64 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 71 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>129</td></tr>
   <tr><th>Citations</th><td>63,137</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Chitosan-functionalized biochar modulates arsenic speciation, distribution, and stress tolerance during rice growth in contaminated paddy systems: role of natural aging](https://openalex.org/W7167789370)<br><small>with Meng Li, H Chen, Hongni Xiong, Jianhong Li, Jiayi Li, Lizhi He and 7 more</small> | Biochar | 1 |
-| 2026 | [Biochar alters soil aggregate organic carbon component distribution and stability under nitrogen fertilization](https://openalex.org/W7197047036)<br><small>with Jun Zhang, Cheng Li, Cheng Li, Da Dong, Dongyang Li, Fengchang Wu and 10 more</small> | Biochar | 0 |
+| 2026 | [Biochar alters soil aggregate organic carbon component distribution and stability under nitrogen fertilization](https://openalex.org/W7197047036)<br><small>with Jun Zhang, Cheng Li, Da Dong, Dongyang Li, Fengchang Wu and 10 more</small> | Biochar | 0 |
 | 2025 | [Optimizing biochar for carbon sequestration: a synergistic approach using machine learning and natural language processing](https://doi.org/10.1007/s42773-024-00424-0)<br><small>Biochar · with Jiayi Li, Caibin Li, Chaojie Wang, Gerard Cornelissen, Hanbo Chen, [Jun Meng](/cdr-researcher-census/researchers/jun-meng-a5100619/) and 5 more</small> | Biochar | 9 |
 | 2024 | [Opportunities and implementation pathway for China’s forestry development under the “Dual Carbon” strategy](https://doi.org/10.1007/s44246-024-00144-x)<br><small>Carbon Research · with Houzhou Liu, Huazhan Nong, Hui Wang, Yinglong Chen, Yutong He, Min Yu</small> | Cross-cutting CDR | 24 |
 | 2023 | [Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation](https://doi.org/10.1021/acs.est.3c08229)<br><small>Environmental Science & Technology · with Qiang Li, Changxun Yu, Cong‐Qiang Liu, Ji Chen, Jianchao Zhang, Junhui Chen and 12 more</small> | Ocean CDR | 59 |

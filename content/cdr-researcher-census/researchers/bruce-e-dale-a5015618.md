@@ -1,7 +1,7 @@
 ---
 title: "Bruce E. Dale"
-description: "Bruce E. Dale, Michigan State University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 79 by activity, 188 by citations. 448 publications, h-index 96, 34,123 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Bruce E. Dale, Michigan State University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 79 by activity, 188 by citations). 448 publications, h-index 96, 34,123 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/bruce-e-dale-a5015618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Michigan State University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 79 <a href="/data/researchers/beccs/">by activity</a>, rank 188 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 79 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 188 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>96</td></tr>
   <tr><th>Citations</th><td>34,123</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Nick Pidgeon"
-description: "Nick Pidgeon, Cardiff University, United Kingdom. 266 publications, h-index 80, 26,907 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Nick Pidgeon, Cardiff University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 141 by activity, 17 by citations; Europe rank 86 by activity, 14 by citations). 266 publications, h-index 80, 26,907 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/nick-pidgeon-a5053365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,6 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Cardiff University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 141 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 86 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>80</td></tr>
   <tr><th>Citations</th><td>26,907</td></tr>

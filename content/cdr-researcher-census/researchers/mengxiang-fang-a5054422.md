@@ -1,7 +1,7 @@
 ---
 title: "Mengxiang Fang"
-description: "Mengxiang Fang, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 54 by activity, 367 by citations. 275 publications, h-index 47, 8,004 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Mengxiang Fang, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 54 by activity, 367 by citations). 275 publications, h-index 47, 8,004 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/mengxiang-fang-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Zhejiang University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 54 <a href="/data/researchers/dac/">by activity</a>, rank 367 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 54 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 367 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>8,004</td></tr>
@@ -53,7 +53,7 @@ robots: "index, follow"
 | 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y)<br><small>npj Materials Sustainability · with [Shuangjun Li](/cdr-researcher-census/researchers/shuangjun-li-a5000532/), Hui Zhou, Huiyan Zhang, [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), Runkai Chen, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/) and 1 more</small> | DAC | 33 |
 | 2024 | [Direct air capture of CO2 using biochar prepared from sewage sludge: Adsorption capacity and kinetics](https://doi.org/10.1016/j.scitotenv.2024.174887)<br><small>The Science of The Total Environment · with Jun Liu, Chenyang Liang, Kehao Fang, Shaokang Li, Tao Wang, Xinwei Guo and 1 more</small> | Biochar; DAC | 25 |
 | 2024 | [Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis](http://dx.doi.org/10.2139/ssrn.5031041)<br><small>SSRN Electronic Journal (preprint) · with Weishan Liu, Fengsheng Liu, Muhang He, Tao Wang, Xiaoyu Wang, Xin Gu and 2 more</small> | DAC | 0 |
-| 2023 | [Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles](https://doi.org/10.1016/j.ccst.2023.100114)<br><small>Carbon Capture Science & Technology · with Wen‐Juan Shi, T. Wang, [X.J. Zhang](/cdr-researcher-census/researchers/xj-zhang-a5078524/), X.J. Zhang, Yongzhen Ji, [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/)</small> | DAC | 19 |
+| 2023 | [Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles](https://doi.org/10.1016/j.ccst.2023.100114)<br><small>Carbon Capture Science & Technology · with Wen‐Juan Shi, T. Wang, [X.J. Zhang](/cdr-researcher-census/researchers/xj-zhang-a5078524/), Yongzhen Ji, [L. Jiang](/cdr-researcher-census/researchers/l-jiang-a5071854/)</small> | DAC | 19 |
 
 ---
 

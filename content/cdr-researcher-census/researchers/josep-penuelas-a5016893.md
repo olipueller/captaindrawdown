@@ -1,7 +1,7 @@
 ---
 title: "Josep Peñuelas"
-description: "Josep Peñuelas, Consejo Superior de Investigaciones Científicas, Spain. 2129 publications, h-index 189, 159,246 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Josep Peñuelas, Consejo Superior de Investigaciones Científicas, Spain. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 1063 by activity, 14 by citations; Europe rank 435 by activity, 11 by citations), BECCS (worldwide rank 448 by activity, 49 by citations; Europe rank 251 by activity, 18 by citations). 2129 publications, h-index 189, 159,246 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/josep-penuelas-a5016893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Consejo Superior de Investigaciones Científicas</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 1063 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 14 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 435 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 448 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 49 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 251 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>189</td></tr>
   <tr><th>Citations</th><td>159,246</td></tr>

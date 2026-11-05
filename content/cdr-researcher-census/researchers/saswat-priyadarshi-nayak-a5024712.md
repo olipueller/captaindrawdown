@@ -1,7 +1,7 @@
 ---
 title: "Saswat Priyadarshi Nayak"
-description: "Saswat Priyadarshi Nayak, University of California, Riverside, United States. 11 publications, h-index 4, 389 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Saswat Priyadarshi Nayak, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5486 by activity, 53 by citations). 11 publications, h-index 4, 389 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, Riverside</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5486 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 53 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>389</td></tr>

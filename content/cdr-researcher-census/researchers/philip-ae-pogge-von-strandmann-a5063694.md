@@ -1,7 +1,7 @@
 ---
 title: "Philip A.E. Pogge von Strandmann"
-description: "Philip A.E. Pogge von Strandmann, Johannes Gutenberg University Mainz, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 9 by activity, 19 by citations. 203 publications, h-index 51, 8,441 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Philip A.E. Pogge von Strandmann, Johannes Gutenberg University Mainz, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 9 by activity, 19 by citations; Europe rank 7 by activity, 16 by citations). 203 publications, h-index 51, 8,441 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Johannes Gutenberg University Mainz</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 9 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 19 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 9 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 19 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 16 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>8,441</td></tr>

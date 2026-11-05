@@ -1,7 +1,7 @@
 ---
 title: "Daniel Rezo"
-description: "Daniel Rezo, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 12 by activity, 203 by citations. 18 publications, h-index 5, 120 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Daniel Rezo, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 12 by activity, 203 by citations; Europe rank 10 by activity, 99 by citations). 18 publications, h-index 5, 120 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/daniel-rezo-a5093964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>rank 12 <a href="/data/researchers/dac/">by activity</a>, rank 203 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 12 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 203 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 99 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>120</td></tr>

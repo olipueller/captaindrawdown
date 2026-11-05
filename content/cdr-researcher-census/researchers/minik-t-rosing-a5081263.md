@@ -1,7 +1,7 @@
 ---
 title: "Minik T. Rosing"
-description: "Minik T. Rosing, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 86 by activity, 179 by citations. 267 publications, h-index 54, 10,695 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Minik T. Rosing, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 86 by activity, 179 by citations). 267 publications, h-index 54, 10,695 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/minik-t-rosing-a5081263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Copenhagen</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 86 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 179 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 86 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 179 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>54</td></tr>
   <tr><th>Citations</th><td>10,695</td></tr>

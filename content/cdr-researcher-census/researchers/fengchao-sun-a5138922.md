@@ -1,7 +1,7 @@
 ---
 title: "Fengchao Sun"
-description: "Fengchao Sun, Yale School of the Environment, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 94 by activity, 454 by citations. 2 publications, h-index 1, 1 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Fengchao Sun, Yale School of the Environment, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 94 by activity, 454 by citations). 2 publications, h-index 1, 1 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/fengchao-sun-a5138922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,13 +29,12 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale School of the Environment</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 94 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 454 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 94 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 454 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>1</td></tr>
   <tr><th>Publications</th><td>2</td></tr>
   <tr><th>Share of publications on CDR</th><td>50.0%</td></tr>
-  <tr><th>Trajectory</th><td>Unknown</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9369-3074">ORCID</a> · <a href="https://openalex.org/A5138922287">OpenAlex</a></td></tr>
 </table>
 

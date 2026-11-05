@@ -1,7 +1,7 @@
 ---
 title: "Elmar Kriegler"
-description: "Elmar Kriegler, University of Potsdam, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 53 by activity, 22 by citations. 283 publications, h-index 83, 51,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Elmar Kriegler, University of Potsdam, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 53 by activity, 22 by citations; Europe rank 37 by activity, 18 by citations), BECCS (Europe rank 137 by activity, 41 by citations). 283 publications, h-index 83, 51,407 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:24+00:00
 url: "/cdr-researcher-census/researchers/elmar-kriegler-a5023849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,8 +28,9 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>University of Potsdam</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
-  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 53 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 22 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 53 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 22 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 137 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>83</td></tr>
   <tr><th>Citations</th><td>51,407</td></tr>
@@ -47,8 +48,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
-| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, Chris Smith, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 10 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1)<br><small>preprint · with [Keywan Riahi](/cdr-researcher-census/researchers/keywan-riahi-a5035238/), Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 29 more</small> | Cross-cutting CDR | 1 |
+| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960)<br><small>with Karl Scheifinger, Bas van Ruijven, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Daniel Huppmann, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 10 more</small> | Cross-cutting CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480)<br><small>preprint · with [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Amanda Palazzo, [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Astrid Bos, Benjamin Leon Bodirsky, Cindy G. Azuero-Pedraza and 43 more</small> | BECCS | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682)<br><small>preprint · with [Osamu Nishiura](/cdr-researcher-census/researchers/osamu-nishiura-a5037582/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Anne Merfort, [Candelaria Bergero](/cdr-researcher-census/researchers/candelaria-bergero-a5081360/), [Christoph Bertram](/cdr-researcher-census/researchers/christoph-bertram-a5001104/), Cindy G. Azuero-Pedraza and 42 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7)<br><small>Nature Communications · with Anne Merfort, Gabriel Medeiros Abrahão, [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/) and 2 more</small> | Cross-cutting CDR | 17 |

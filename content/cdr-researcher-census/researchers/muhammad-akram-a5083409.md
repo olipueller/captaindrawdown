@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
-description: "Muhammad Akram, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 87 by activity, 189 by citations. 56 publications, h-index 18, 993 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Muhammad Akram, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 87 by activity, 189 by citations). 56 publications, h-index 18, 993 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 87 <a href="/data/researchers/beccs/">by activity</a>, rank 189 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 87 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 189 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>993</td></tr>

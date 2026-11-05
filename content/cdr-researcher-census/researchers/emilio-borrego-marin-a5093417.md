@@ -1,7 +1,7 @@
 ---
 title: "Emilio Borrego-Marin"
-description: "Emilio Borrego-Marin, Universidad de Granada, Spain. 11 publications, h-index 4, 311 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Emilio Borrego-Marin, Universidad de Granada, Spain. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4130 by activity, 76 by citations; Europe rank 1078 by activity, 36 by citations). 11 publications, h-index 4, 311 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Granada</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4130 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1078 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>311</td></tr>

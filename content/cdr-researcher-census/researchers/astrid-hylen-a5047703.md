@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
-description: "Astrid Hylén, CEREGE, France. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 65 by activity, 404 by citations; Ocean CDR: rank 77 by activity, 564 by citations. 62 publications, h-index 12, 457 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Astrid Hylén, CEREGE, France. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 65 by activity, 404 by citations; Europe rank 46 by activity, 145 by citations), Ocean CDR (worldwide rank 77 by activity, 564 by citations; Europe rank 48 by activity, 206 by citations). 62 publications, h-index 12, 457 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CEREGE</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 65 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 404 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>rank 77 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 564 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 65 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 404 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 145 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 77 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 564 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 48 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 206 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>457</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Simon A. T. Redfern"
-description: "Simon A. T. Redfern, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 70 by activity, 3089 by citations. 478 publications, h-index 69, 16,942 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Simon A. T. Redfern, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 70 by activity, 3089 by citations). 478 publications, h-index 69, 16,942 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/simon-a-t-redfern-a5034157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanyang Technological University</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>rank 70 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 3089 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 70 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 3089 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>16,942</td></tr>

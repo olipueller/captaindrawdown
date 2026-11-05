@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
-description: "Ángel Galán‐Martín, Universidad de Jaén, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 88 by activity, 70 by citations. 66 publications, h-index 28, 2,478 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:33+00:00
+description: "Ángel Galán‐Martín, Universidad de Jaén, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 88 by activity, 70 by citations; Europe rank 58 by activity, 24 by citations). 66 publications, h-index 28, 2,478 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Jaén</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>rank 88 <a href="/data/researchers/beccs/">by activity</a>, rank 70 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 88 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 58 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>2,478</td></tr>

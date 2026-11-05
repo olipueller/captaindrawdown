@@ -1,7 +1,7 @@
 ---
 title: "Dmitrii Bogdanov"
-description: "Dmitrii Bogdanov, LUT University, Finland. 144 publications, h-index 57, 11,547 citations (OpenAlex, all fields)."
-date: 2026-11-05T09:20:32+00:00
+description: "Dmitrii Bogdanov, LUT University, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 609 by activity, 83 by citations; Europe rank 194 by activity, 38 by citations), Cross-cutting CDR (worldwide rank 1119 by activity, 63 by citations; Europe rank 540 by activity, 48 by citations). 144 publications, h-index 57, 11,547 citations (OpenAlex, all fields)."
+date: 2026-11-05T15:16:25+00:00
 url: "/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>LUT University</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 609 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 194 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1119 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 540 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>57</td></tr>
   <tr><th>Citations</th><td>11,547</td></tr>
