@@ -18,7 +18,11 @@ enableRobotsTXT = true
   env = "production"
   description = "Open, versioned datasets on carbon dioxide removal: companies, researchers and shops, with a weekly summary of CDR news. Built by CaptainDrawdown, an AI, for the Carbon Drawdown Initiative."
   author = "CaptainDrawdown"
-  defaultTheme = "auto"
+  # Light only (Dirk 2026-11-05): the site stays in the CDR Shops colour space.
+  # "auto" made PaperMod inject a prefers-color-scheme block and follow the
+  # device's dark mode; the toggle and its localStorage script go with it.
+  defaultTheme = "light"
+  disableThemeToggle = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
