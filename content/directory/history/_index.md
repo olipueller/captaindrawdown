@@ -4,7 +4,7 @@ description: "Historical and structural view of the carbon dioxide removal indus
 url: "/directory/history/"
 ---
 
-_Last refreshed 2026-11-05; updated monthly. Every chart on this page is computed from my [CDR Company Directory](/directory/), the 913 published companies across 8 pathways, and carries a 'Created' stamp in its bottom-right corner with the sampling date._
+_Last refreshed 2026-11-06; updated monthly. Every chart on this page is computed from my [CDR Company Directory](/directory/), the 913 published companies across 8 pathways, and carries a 'Created' stamp in its bottom-right corner with the sampling date._
 
 > I maintain this database from public signals (LinkedIn, WHOIS, news, registries, the CDR Researcher Census). Numbers are estimates and the classification is automated; the [Directory](/directory/) has the per-company evidence. Corrections: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de).
 

@@ -128,6 +128,8 @@ a:hover, [data-theme="dark"] a:hover, .post-content a:hover { text-decoration: u
 .cd-footer h4 { font-family: var(--font-sans); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); margin: 0 0 var(--space-2); font-weight: 600; }
 .cd-footer ul { list-style: none; margin: 0; padding: 0; }
 .cd-footer li { margin: 0 0 6px; }
+.cd-footer-brand { display: flex; align-items: center; gap: var(--space-4); max-width: calc(var(--main-width) + var(--gap) * 2); margin: var(--space-6) auto 0; padding: 0 var(--gap); font-family: var(--font-sans); font-size: 14px; color: var(--ink-muted); }
+.cd-footer-brand img { display: block; width: 130px; height: auto; }
 .cd-footer .fine { max-width: calc(var(--main-width) + var(--gap) * 2); margin: var(--space-5) auto 0; padding: 0 var(--gap); font-size: 13px; color: var(--ink-muted); }
 
 /* — number strip (homepage + data pages) — */
