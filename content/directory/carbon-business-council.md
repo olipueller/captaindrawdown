@@ -30,6 +30,7 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-11-06** — News: Carbon Business Council Statement on Canada’s Budget 2026 — Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/canada-budge-2026))
 - **2026-10-14** — News: As the World Plans for Overshoot, Europe Sets the Pace on Carbon Removal — Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/carbon-unbound-europe-2026))
 - **2026-10-08** — News: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
 - **2026-10-07** — News: Svante/Carbon Alpha: Canada is helping to grow the global carbon removal market. The country just… ([source](https://www.linkedin.com/company/svantesolutions/#post-b4099899cd0c))
@@ -59,7 +60,6 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 - **2026-07-25** — News: Planet Savers: New National Public Polling: Only 12% of Japanese adults say they fully or mostly… ([source](https://www.linkedin.com/company/planetsavers/#post-d4ce27da684b))
 - **2026-07-25** — News: Planet Savers: 日本におけるCO2除去技術(CDR)に対する理解は、まだこれからです。 一方で、正しく説明されることで、多くの人がその必要性と可能性を支持することが明らかになりました。 ([source](https://www.linkedin.com/company/planetsavers/#post-9155f48639b5))
 - **2026-07-22** — News: Carbon Business Council: The U.S. biochar industry nearly tripled in value in two years. $53.6M in… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-0c8f95acf136))
-- **2026-07-22** — News: Carbon Business Council: Today, the European Commission released its landmark EU ETS reform, and… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-8502f867e04a))
 
 ---
 

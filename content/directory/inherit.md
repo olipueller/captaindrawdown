@@ -30,6 +30,7 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-11-06** — News: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a... ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-62b6ad417f5b))
 - **2026-10-05** — News: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
 - **2026-10-01** — News: Denmark's first BECCS project begins operations ([source](https://www.qcintel.com/biofuels/article/denmark-s-first-beccs-project-begins-operations-74092.html))
 - **2026-09-19** — News: Supplier spotlight - How Inherit Carbon Solutions is delivering BECCS at scale through biogas… ([source](https://puro.earth/insights/post/supplier-spotlight-how-inherit-carbon-solutions-is-delivering-beccs-at-scale-through-biogas/))

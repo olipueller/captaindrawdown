@@ -35,6 +35,7 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ## History
 
+- **2026-11-06** — News: Heirloom: ETH: How cement plants can remove CO2 from the atmosphere ETH Zürich researchers show... ([source](https://www.linkedin.com/company/heirloom-carbon/#post-9be40016ce85))
 - **2026-10-31** — News: Buy and Sell Heirloom Carbon Technologies Stock, $695.67M Valuation - Forge ([source](https://forgeglobal.com/heirloom-carbon-technologies_stock/))
 - **2026-10-27** — News: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-23** — News: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
@@ -64,7 +65,6 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 - **2026-05-13** — News: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
 - **2026-05-13** — News: Bedrock Initiative | Cascade Climate https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
 - **2026-05-13** — News: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
-- **2026-05-12** — News: Microsoft Carbon Capture 2025, 18M Tonne Rubicon Deal ([source](https://enkiai.com/bp-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 
 ---
 

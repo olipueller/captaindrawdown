@@ -30,6 +30,9 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-11-06** — News: Reposit Carbon: Canada's carbon removal sector is building, but not fast enough. Our new report... ([source](https://www.linkedin.com/company/reposit-carbon/#post-2f94eecc49b6))
+- **2026-11-06** — News: Heirloom: ETH: How cement plants can remove CO2 from the atmosphere ETH Zürich researchers show... ([source](https://www.linkedin.com/company/heirloom-carbon/#post-9be40016ce85))
+- **2026-11-05** — News: Evaneos will invest more than one million in cutting emissions | Demócrata ([source](https://www.democrata.es/en/economy/evaneos-will-allocate-more-than-one-million-euros-until-2030-to-reduce-emissions-from-its-tourism-activity/))
 - **2026-11-05** — News: Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits… ([source](https://doi.org/10.70212/cdrxiv.2026570.v1))
 - **2026-11-05** — News: Clean the Sky - National Removal Planning Tools ([source](https://www.cleanthesky.com/innovation/carbon-gap))
 - **2026-11-03** — News: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
@@ -57,9 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-10-12** — News: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock… ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
 - **2026-10-12** — News: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European… ([source](https://doi.org/10.5194/esd-17-1513-2026))
 - **2026-10-12** — News: Assessing the potential and cost of enhanced rock weathering in China ([source](https://doi.org/10.1038/s43247-026-04136-0))
-- **2026-10-09** — News: Top 10 US Climate Tech Startups Building a Carbon-Free Economy in 2026. - Best Startup US ([source](https://beststartup.us/top-10-us-climate-tech-startups-2026/))
-- **2026-10-08** — News: Growth of the Carbon Capture Chemicals Market Fueled by Increasing Industry Demand Through 2030 ([source](https://www.openpr.com/news/4655416/growth-of-the-carbon-capture-chemicals-market-fueled))
-- **2026-10-06** — News: The 6 next big things in sustainability and energy for 2026 - Fast Company ([source](https://www.fastcompany.com/91612652/sustainability-energy-next-big-things-in-tech-2026))
 
 ---
 

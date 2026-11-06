@@ -30,6 +30,15 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 
 ## History
 
+- **2026-11-06** — News: Scientists are sucking CO2 from the air with sunlight - United States ([source](https://www.europesays.com/us/1168315/))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air | News... ([source](https://keyt.com/news/national-world/cnn-other/2026/11/05/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air… ([source](https://abc17news.com/cnn-other/2026/11/06/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))
+- **2026-11-06** — News: Scientists are sucking CO2 from the air with sunlight - Australia News Beep | NewsBeep.com ([source](https://www.newsbeep.com/au/954518/))
+- **2026-11-06** — News: How Marlon Brando’s former island helped inspire a carbon-removal technology | Межа ([source](https://mezha.net/eng/news/mezha-a23ccb3249ad0494d87e75ad_how_marlon_brando-s))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air - EUROPE... ([source](https://www.europesays.com/3356067/))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air | KRDO ([source](https://krdo.com/cnn-other/2026/11/06/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air - KQ2 |... ([source](https://www.kq2.com/cnn/cnn-other/2026/11/05/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air | CNN ([source](https://www.cnn.com/2026/11/06/climate/carbon-capture-born-on-marlon-brandos-island-intl-hnk))
 - **2026-10-30** — News: Banyu Carbon direct-air-capture prototype trial at CSIRO In-Situ Laboratory — dac ([source](https://www.greatlakesadvocate.com.au/story/9378644/aussie-sun-meets-us-tech-in-carbon-capture-experiment))
 - **2026-10-15** — Status Active → Likely Dead ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-08-15** — Status Suspect → Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))

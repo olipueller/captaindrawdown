@@ -30,6 +30,9 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-11-06** — News: MATI Convenes NDF, FAO and UNCDF at COP31 on Financing Smallholder Farmer Resilience | Middletown... ([source](https://lifestyle.middletownlifemagazine.com/story/811572/mati-convenes-ndf-fao-and-uncdf-at-cop31-on-financing-smallholder-farmer-resilience/))
+- **2026-11-06** — News: MATI Convenes NDF, FAO and UNCDF at COP31 on Financing Smallholder Farmer Resilience - EIN… ([source](https://www.einnews.com/pr_news/954868438/mati-convenes-ndf-fao-and-uncdf-at-cop31-on-financing-smallholder-farmer-resilience))
+- **2026-11-06** — News: MATI Convenes NDF, FAO and UNCDF at COP31 on Financing Smallholder Farmer Resilience ([source](https://www.einpresswire.com/article/954868438/mati-convenes-ndf-fao-and-uncdf-at-cop31-on-financing-smallholder-farmer-resilience))
 - **2026-11-04** — News: Jain Irrigation Partners with Supercritical for Biochar Credits ([source](https://biochartoday.com/news/jain-irrigation-systems-and-supercritical-finalize-agreement-for-up-to-19000-tonnes-of-biochar-carbon-removal-credits/))
 - **2026-10-29** — News: BeZero: As El Niño intensifies, what are we seeing across Indonesia's forest and peatland carbon… ([source](https://www.linkedin.com/company/bezero-carbon/#post-57c368e76d06))
 - **2026-10-22** — News: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in… ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
@@ -57,9 +60,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-07-23** — News: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3… ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
 - **2026-07-23** — News: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
 - **2026-07-23** — News: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has… ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))
-- **2026-07-23** — News: Agreena Carbon Project Earns BBB BeZero Rating, Reinforcing Confidence in Nature-Based Carbon… ([source](https://carboncredits.com/agreena-carbon-project-earns-bbb-bezero-rating-reinforcing-confidence-in-nature-based-carbon-credits/))
-- **2026-07-22** — News: CDR.fyi: The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the… ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
-- **2026-07-22** — News: Grow Indigo: Emergent Ventures India (EVI) has purchased and retired carbon credits on behalf of… ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-1e553fb1fad9))
 
 ---
 

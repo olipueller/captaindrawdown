@@ -29,6 +29,7 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 
 ## History
 
+- **2026-11-06** — News: Enfinium Secures Approval For Wales’ Largest Carbon Capture Project ([source](https://carbonherald.com/enfinium-secures-approval-for-wales-largest-carbon-capture-project/?utm_source=rss&utm_medium=rss&utm_campaign=enfinium-secures-approval-for-wales-largest-carbon-capture-project))
 - **2026-11-04** — News: Ferrybridge carbon capture project — other-emerging ([source](https://enfinium.co.uk/enfinium-launches-consultation-on-proposal-to-build-carbon-capture-technology-at-ferrybridge))
 - **2026-11-04** — News: Parc Adfer carbon capture — other-emerging ([source](https://enfinium.co.uk/parc-adfer-carbon-capture-planning-application-approved-by-flintshire-county-council))
 - **2026-11-04** — News: Parc Adfer carbon capture plant approved despite doubts over 95% claim | Deeside.com ([source](https://www.deeside.com/parc-adfer-carbon-capture-approved-despite-95-capture-doubts/))

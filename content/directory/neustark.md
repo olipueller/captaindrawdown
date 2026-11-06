@@ -34,6 +34,9 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ## History
 
+- **2026-11-06** — News: Bordet: Congratulations to Puro.earth supplier Neustark on its first CORC issuance. neustark has... ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-4fe8899f13fd))
+- **2026-11-06** — News: Neustark: What does it take for a tonne of carbon removal ( #CDR ) to become a credit a buyer can... ([source](https://www.linkedin.com/company/neustark/#post-bdb9a2bc3f58))
+- **2026-11-05** — News: #carbonremoval #cdr #corcs #mineralization #builtenvironment #purostandard #neustark | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7524108474306269185/))
 - **2026-10-24** — News: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
 - **2026-09-29** — News: Nicht das Geld , ... nicht die Emissionsrechte , ... nicht einmal die CO2-Tonnen . (1/11) ([source](https://bsky.app/profile/tiefenbacherin.bsky.social/post/3mwnf72m4mc2p))
 - **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))

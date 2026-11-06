@@ -11,7 +11,7 @@ liveliness: "🟢 Active"
 
 <table class="company-facts">
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
-  <tr><th>Country</th><td>Unknown</td></tr>
+  <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://carbonmeld.com" target="_blank" rel="noopener">https://carbonmeld.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonmeld/" target="_blank" rel="noopener">carbonmeld</a></td></tr>
   <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
@@ -20,7 +20,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-CarbonMeld is an independent carbon-credit screening and scoring tool that publishes quality scores for 650+ voluntary carbon market projects across 9 marketplaces, including CDR project types like biochar, DAC and blue carbon. It applies a standardized AI-assisted scoring pipeline to public registry documents (Verra, Gold Standard, CDM, CORSIA) across four dimensions: registry integrity, transparency, claim safety and documentation quality. Revenue comes from paid document processing, advertising and B2B consulting — it is not a registry, marketplace, or certifier.
+CarbonMeld is an independent carbon-credit screening and scoring platform based in Italy. It scores projects from the major registries and marketplaces (its catalogue lists 30 registries, 12 marketplaces and about 34,000 projects as of November 2026) on four dimensions, registry integrity, transparency, claim safety and documentation quality, using only public registry documents and a public, versioned methodology (v2.2 since October 2026). CDR project types covered include biochar, direct air capture, blue carbon and biogenic carbon capture and storage. Revenue comes from a paid premium subscription with API and MCP access; it is not a registry, marketplace or certifier. How the system works: carbonmeld.com/about-the-system; methodology: carbonmeld.com/methodology.
 
 ![CarbonMeld website](/screenshots/carbonmeld.png)
 
@@ -28,6 +28,7 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-11-06** — Country set to Italy and description updated at the company's request (e-mail from the CarbonMeld team, 6 November 2026) ([source](https://carbonmeld.com/methodology/))
 - **2026-10-14** — News: CarbonMeld: Gold Standard has revised Paris alignment rules for 2026 vintages, easing the… ([source](https://www.linkedin.com/company/carbonmeld/#post-c778bdeb3c7d))
 - **2026-09-04** — News: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African… ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
 - **2026-09-04** — News: CarbonMeld: California's carbon market overhaul is no longer a proposal. On August 31, the state's… ([source](https://www.linkedin.com/company/carbonmeld/#post-e5ca9d21dd8a))
@@ -57,7 +58,6 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 - **2026-05-28** — News: Why the EU Carbon Rally May Be About Market Design, Not Just Higher Prices · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-the-eu-carbon-rally-may-be-about-market-design-not-just-higher-prices/))
 - **2026-05-28** — News: Why Legacy Carbon Credits Are Becoming a Balance-Sheet Problem for Global Buyers · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-legacy-carbon-credits-are-becoming-a-balance-sheet-problem-for-global-buyers/))
 - **2026-05-27** — News: Why EU Carbon Credit Rules Are Splitting the Market Between Inside and Outside the ETS · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-eu-carbon-credit-rules-are-splitting-the-market-between-inside-and-outside-the-ets/))
-- **2026-05-26** — News: Why Strict Additionality Rules Can Hold Back Carbon Sequestration Finance · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-strict-additionality-rules-can-hold-back-carbon-sequestration-finance/))
 
 ---
 

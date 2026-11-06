@@ -30,6 +30,7 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
+- **2026-11-06** — News: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a... ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-62b6ad417f5b))
 - **2026-10-15** — News: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio… ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
 - **2026-10-09** — News: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO2 til EU’s første… ([source](https://www.linkedin.com/company/biocirc/#post-6bdbc48b01fb))
 - **2026-10-05** — News: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
@@ -59,7 +60,6 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 - **2026-05-01** — Status Active → Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-04-19** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://greensand.com/en))
 - **2026-04-19** — Status Active → Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
-- **2026-04-18** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://greensand.com/en))
 
 ---
 

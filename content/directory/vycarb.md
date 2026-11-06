@@ -31,6 +31,7 @@ Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 
 
 ## History
 
+- **2026-11-06** — News: Vycarb Secures A $2.7M Govt Grant For Carbon Capture And Storage In Colorado ([source](https://carbonherald.com/vycarb-secures-a-2-7m-govt-grant-for-carbon-capture-and-storage-in-colorado/?utm_source=rss&utm_medium=rss&utm_campaign=vycarb-secures-a-2-7m-govt-grant-for-carbon-capture-and-storage-in-colorado))
 - **2026-10-15** — News: Vycarb: We’ve demonstrated something that could change CCS entirely: permanently storing low-purity ([source](https://www.linkedin.com/company/vycarb/#post-3f3d973aa7c8))
 - **2026-10-15** — Status Suspect → Active ([source](https://pitchbook.com/profiles/company/515320-12))
 - **2026-09-19** — News: Vycarb Successfully Stores Low-Purity CO2 In Seawater - CleanTechnica ([source](https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/))

@@ -31,6 +31,7 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 
 ## History
 
+- **2026-11-06** — News: Marble: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen… ([source](https://www.linkedin.com/company/marble-climate/#post-82ec0ca76990))
 - **2026-09-09** — News: Marble: ð©ðað¥ ̈ We've signed a project with SPRIND - Bundesagentur fÃ1⁄4r Sprunginnovationen ð¥… ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
 - **2026-07-29** — News: Marble: We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen Germany's ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
 - **2026-07-26** — News: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO2 pressure on carbonate ([source](https://doi.org/10.1007/s11356-026-38071-6))

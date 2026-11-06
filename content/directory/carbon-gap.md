@@ -34,6 +34,7 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-11-06** — News: Carbon Gap: For two years, we worked with local partners to answer one question: How much carbon... ([source](https://www.linkedin.com/company/carbongap/#post-7918a0e2df63))
 - **2026-11-05** — News: mCDR launch | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524017683198267392/))
 - **2026-11-05** — News: Clean the Sky - National Removal Planning Tools ([source](https://www.cleanthesky.com/innovation/carbon-gap))
 - **2026-11-04** — News: Carbon Gap Launches Free National Carbon Removal Assessment Toolkit ([source](https://onestopesg.com/esg-news/carbon-gap-removal-readiness-toolkit))
@@ -63,7 +64,6 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 - **2026-09-16** — News: We&amp;#39;ve had a great start to the day at the Carbon Removal Policy Summit in Brussels. Kaj See ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7505917623486967809/))
 - **2026-09-16** — News: We&amp;#39;re in Brussels today for our Carbon Removal Policy Summit, and the room is full of the… ([source](https://www.linkedin.com/feed/update/urn:li:share:7505893277737328640/))
 - **2026-09-12** — News: Our team will be in New York City and Brussels in the coming weeks. Will we see you there? On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
-- **2026-09-11** — News: Carbon Removal Policy Summit National Level Session | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503757152298115073/))
 
 ---
 

@@ -29,6 +29,7 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-11-06** — News: Patch: Supply says 6%. Buyers say 92%. That's the gap I keep coming back to in our 2026 data... ([source](https://www.linkedin.com/company/usepatch/#post-0b7ef5b4594b))
 - **2026-10-27** — News: Nuffield Scholar Reports Back On Biochar’s Potential ([source](https://www.global-agriculture.com/global-agriculture/nuffield-scholar-reports-back-on-biochars-potential/))
 - **2026-10-27** — News: ADM: ADM is making investments in its Columbus, Nebraska, ethanol plant that are expected to add 20 ([source](https://www.linkedin.com/company/adm/#post-2e622a55e5c9))
 - **2026-10-24** — News: CarbiCrete: CarbiCrete is proud to share that our carbon removals are some of the earliest verified ([source](https://www.linkedin.com/company/carbicrete/#post-4559c307dc65))
@@ -58,7 +59,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-09-07** — News: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to… ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
 - **2026-09-04** — News: Verra’s Latest Carbon Standard Gains Eligibility Under ICVCM’s Core Principles ([source](https://carbonherald.com/verras-latest-carbon-standard-gains-eligibility-under-icvcms-core-principles/?utm_source=rss&utm_medium=rss&utm_campaign=verras-latest-carbon-standard-gains-eligibility-under-icvcms-core-principles))
 - **2026-09-04** — News: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
-- **2026-09-02** — News: Gold Standard: Carbon markets are evolving quickly, with rising integrity expectations. Here are… ([source](https://www.linkedin.com/company/gold-standard/#post-e25e47dea997))
 
 ---
 

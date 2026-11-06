@@ -34,6 +34,7 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 
 ## History
 
+- **2026-11-06** — News: Patch: Supply says 6%. Buyers say 92%. That's the gap I keep coming back to in our 2026 data... ([source](https://www.linkedin.com/company/usepatch/#post-0b7ef5b4594b))
 - **2026-10-29** — News: A patch of the Gulf of Maine turned hot pink: scientists poured 16,500 gallons of lye into the sea… ([source](https://www.futura-sciences.com/en/a-patch-of-the-gulf-of-maine-turned-hot-pink-scientists-poured-16500-gallons-of-lye-into-the-sea-to-help-it-absorb-co2_901932/))
 - **2026-10-20** — News: Munich Climate Week is underway, and Carbon Dioxide Remov ([source](https://www.linkedin.com/feed/update/urn:li:share:7518225992646250496/))
 - **2026-09-08** — News: Is the Cheap Carbon Credit Era Coming to an End? • Carbon Credits ([source](https://carboncredits.com/is-the-cheap-carbon-credit-era-coming-to-an-end/))

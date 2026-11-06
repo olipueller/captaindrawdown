@@ -30,6 +30,8 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-11-06** — News: Assessing the effectiveness of ocean alkalinity enhancement on carbon sequestration and ocean... ([source](https://rsc-src.ca/en/voices/assessing-effectiveness-ocean-alkalinity-enhancement-carbon-sequestration-and-ocean))
+- **2026-11-05** — News: Ocean Alkalinity Enhancement,CO2 Absorption | Eco discussion ([source](https://ecodiscussion.com/ocean-alkalinity-enhancement-absorb-co2/))
 - **2026-11-05** — News: Setting the course for the novel marine carbon removal in the EU ([source](https://carbongap.org/insights/setting-the-course-for-the-novel-marine-carbon-removal-in-the-eu))
 - **2026-11-05** — News: I signed an open letter urging the European Commission to set up a Roadmap for novel marine CDR... ([source](https://bsky.app/profile/jpgattuso.bsky.social/post/3mzklzhqcj22k))
 - **2026-11-05** — News: New Report: Ocean Carbon Removal Shows Promise, But Big Questions Remain ([source](https://news.climate.columbia.edu/2026/09/21/new-report-ocean-carbon-removal-shows-promise-but-big-questions-remain))
@@ -58,8 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-10-29** — News: A patch of the Gulf of Maine turned hot pink: scientists poured 16,500 gallons of lye into the sea… ([source](https://www.futura-sciences.com/en/a-patch-of-the-gulf-of-maine-turned-hot-pink-scientists-poured-16500-gallons-of-lye-into-the-sea-to-help-it-absorb-co2_901932/))
 - **2026-10-29** — News: Biochar did not affect inorganic C sequestration through steel slag weathering, but increased soil… ([source](https://cdrxiv.org/preprint/574))
 - **2026-10-29** — News: The ocean is losing its power to fight global warming: What happens next? - ET Edge Insights ([source](https://etedge-insights.com/sdgs-and-esg/climate-change/the-ocean-is-losing-its-power-to-fight-global-warming-what-happens-next/))
-- **2026-10-29** — News: Ocean pHix: The Autumn Update 2026 is now live. Isometric releases protocol updates twice a year… ([source](https://www.linkedin.com/company/isometric-hq/#post-4e84ac787efc))
-- **2026-10-28** — News: Linearized Carbonate Chemistry for Efficient Modeling of Ocean-Based Carbon Dioxide Removal… ([source](https://cdrxiv.org/preprint/567))
 
 ---
 

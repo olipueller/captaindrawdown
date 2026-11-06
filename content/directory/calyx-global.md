@@ -30,6 +30,7 @@ Calyx Global is an independent carbon credit ratings agency for the voluntary ca
 
 ## History
 
+- **2026-11-06** — News: Calyx Global: As of today, Calyx Global officially applied for recognition under the EU’s ESG... ([source](https://www.linkedin.com/company/calyx-global/#post-68bedf7c6bd8))
 - **2026-10-07** — News: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
 - **2026-09-24** — News: Calyx Global: We said we would reconsider our approach if the market changed. And it has. With the… ([source](https://www.linkedin.com/company/calyx-global/#post-8b0acff8bb2d))
 - **2026-08-31** — News: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or… ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))

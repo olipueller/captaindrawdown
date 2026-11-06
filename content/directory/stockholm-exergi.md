@@ -29,6 +29,7 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-11-06** — News: Microsoft ↔ Stockholm Exergi — beccs ([source](https://www.datacenterdynamics.com/en/news/microsoft-expands-carbon-removal-agreement-with-stockholm-exergi))
 - **2026-11-05** — News: BECCS Stockholm — beccs ([source](https://newenergy-today.com/news/inside-stockholm-exergis-harborfront-project-aiming-to-remove-more-co2-than-the-citys-entire-road-network))
 - **2026-10-08** — News: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
 - **2026-10-08** — News: CDR.fyi: September soars with 1M tonnes contracted Following a relatively slow August (128Kt)… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
@@ -58,7 +59,6 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 - **2026-08-12** — News: Carbonx SAS: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, ([source](https://www.linkedin.com/company/carbonx-world/#post-6b8af173d0db))
 - **2026-08-12** — News: Stockholm Exergi: Cement med nära noll klimatpåverkan? Ja, med hjälp av koldioxidinfångning är det… ([source](https://www.linkedin.com/company/stockholm-exergi/#post-14016e7158d3))
 - **2026-07-31** — News: Microsoft Carbon Capture 2026, 1M Tonne Liferaft Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/microsoft-beccs-data-centers/))
-- **2026-07-29** — News: Bioenergy with Carbon Capture and Storage (BECCS) Market Size, Growth Trends, and Industry Outlook… ([source](https://cervicorninsights.wordpress.com/2026/07/28/bioenergy-with-carbon-capture-and-storage-beccs-market-size/))
 
 ---
 

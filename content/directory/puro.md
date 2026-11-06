@@ -34,6 +34,9 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-11-06** — News: Bordet: Congratulations to Puro.earth supplier Neustark on its first CORC issuance. neustark has... ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-4fe8899f13fd))
+- **2026-11-06** — News: Neustark: What does it take for a tonne of carbon removal ( #CDR ) to become a credit a buyer can... ([source](https://www.linkedin.com/company/neustark/#post-bdb9a2bc3f58))
+- **2026-11-05** — News: #carbonremoval #cdr #corcs #mineralization #builtenvironment #purostandard #neustark | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7524108474306269185/))
 - **2026-11-05** — News: Nellie Mwyndy Cross - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/nellie-mwyndy-cross/))
 - **2026-11-05** — News: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-b026aca78ae0))
 - **2026-11-05** — News: Clean the Sky - Carbon Removal Registries ([source](https://www.cleanthesky.com/innovation/certificates-issued))
@@ -61,9 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-10-22** — News: #cop31 #thinknegative #carbonremoval #cdr #climateaction #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7518649187824123904/))
 - **2026-10-21** — News: Puro: CCS+ DACCS certification is now available through Puro.earth ’s Multi-Program Framework.… ([source](https://www.linkedin.com/company/puro-earth/#post-10d7c3513d8c))
 - **2026-10-19** — News: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano, ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
-- **2026-10-18** — News: Climate startup Tivano secures $606K to turn Namibia’s invasive bush into carbon credits… ([source](https://innovation-village.com/climate-startup-tivano-secures-606k-to-turn-namibias-invasive-bush-into-carbon-credits/))
-- **2026-10-17** — News: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm #crcf | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7516484304361799680/))
-- **2026-10-16** — News: Tivano Carbon: Tivano applies Swiss expertise to carbon dioxide removal (CDR) and underground… ([source](https://www.linkedin.com/company/tivano-carbon/#post-68db978754a5))
 
 ---
 

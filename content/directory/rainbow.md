@@ -30,6 +30,7 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-11-06** — News: SOLER Group: 10 000 TONNES DE CO2 STOCKÉES DURABLEMENT ! SOLER Group entreprise familiale… ([source](https://www.linkedin.com/company/solergroup/#post-a3d032e00d10))
 - **2026-11-02** — News: Mary Teehan: The bioeconomy is having its moment — now it needs to come full circle ([source](https://www.irishexaminer.com/business-columnists/arid-41931669.html))
 - **2026-11-01** — News: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon… ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
 - **2026-10-28** — News: Ambitious carbon removal operators want a registry partner that’s responsive and efficient. That’s ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518950549812174848/))
@@ -59,7 +60,6 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 - **2026-09-14** — News: Biochar Production Equipment: Large & Pilot Scale CDR Solution ([source](https://www.bestongroup.com/biochar-production-equipment/))
 - **2026-09-12** — News: Our team will be in New York City and Brussels in the coming weeks. Will we see you there? On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
 - **2026-09-11** — News: Takachar: We are excited to share that Takachar's Takavator technology has officially earned… ([source](https://www.linkedin.com/company/takachar/#post-78a33acf2b0f))
-- **2026-09-02** — News: A carbon credit buyer recently wrote to us about their experience with one of our methodologies. H ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500824872948887552/))
 
 ---
 

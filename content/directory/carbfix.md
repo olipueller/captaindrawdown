@@ -34,6 +34,7 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-11-06** — News: Beyond Conventional Reservoirs: A Mechanistic Review of CO2 Storage in Basalt and Granite ([source](https://www.mdpi.com/2311-5629/12/4/87))
 - **2026-11-03** — News: Borgarstjórn boðar viðsnúning í rekstri á næstu árum — Orkuveitan ekki til sölu — Vitinn ([source](https://vitinn.news/grein/6f6f0c42-687e-40eb-bd9e-9644bfb325d1))
 - **2026-11-03** — News: Carbon Loop #026 - by Bennett Green - The Carbon Loop ([source](https://carbonloop.substack.com/p/carbon-loop-026))
 - **2026-11-03** — News: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
@@ -63,7 +64,6 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-10-01** — News: The India–EFTA Partnership: One Plus One Equals Three |ForumIAS ([source](https://forumias.com/blog/the-india-efta-partnership-one-plus-one-equals-three/))
 - **2026-10-01** — News: India-EFTA TEPA at One Year UPSC | Best OPSC OAS Coaching Bhubaneswar ([source](https://striveedgeias.in/india-efta-tepa-at-one-year-investment-technology-and-arctic-partnership/))
 - **2026-10-01** — News: Daily Editorial Analysis 1 October 2026 ([source](https://vajiramandravi.com/current-affairs/daily-editorial-analysis-1-october-2026/))
-- **2026-09-30** — News: The India-EFTA partnership, one plus one equals three - The Hindu ([source](https://www.thehindu.com/opinion/lead/the-india-efta-partnership-one-plus-one-equals-three/article71529585.ece))
 
 ---
 
