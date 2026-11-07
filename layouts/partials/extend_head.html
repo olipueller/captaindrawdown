@@ -1,4 +1,10 @@
-{{- /* GoatCounter analytics */ -}}
+{{- /* GoatCounter analytics. On the 404 page count.js would take the canonical
+       link and record "/404.html", losing the address that failed (52 of 290
+       visits in the first relaunch week). Record "/404" + the requested path
+       instead, so broken links show up by name in the weekly usage mail. */ -}}
+{{- if eq .RelPermalink "/404.html" }}
+<script>window.goatcounter = {path: function() { return '/404' + location.pathname; }, title: '404 ' + location.pathname};</script>
+{{- end }}
 <script data-goatcounter="https://captaindrawdown.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 {{- /* Fonts of the design system: Inter (interface, data, headings) and Source Serif 4 (reading) */ -}}
