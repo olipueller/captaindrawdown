@@ -12,10 +12,13 @@
 
 - [Captain Drawdown Data](/data/) — release {{ .version }}, data as of {{ .as_of }}: {{ lang.FormatNumber 0 .headline.companies.published }} published CDR companies ({{ lang.FormatNumber 0 .headline.companies.active_total }} active in the database), {{ lang.FormatNumber 0 .headline.researchers.total }} researchers with CDR papers since 2021 (calibrated estimate {{ lang.FormatNumber 0 .headline.researchers.calibrated_estimate }}), {{ .headline.shops.count }} shops.
 {{- end }}
+- [Release manifest](/data/v1/latest/manifest.json) — the map for agents: every file of the newest release with description, row count, size, licence and SHA-256. Pick the file that answers the question, fetch it, quote its version. The aggregate files are small (researchers per country, per pathway, the top-100 lists, shops); companies.csv is the large one (about 700 KB).
+- Always current: /data/v1/latest/ and the API serve the newest release at a fixed address; pin /data/v1/<version>/ only for a result that must not change, and cite its DOI.
 - [CDR Company Directory data](/data/companies/) — CSV/JSON, CC BY-NC-SA 4.0, with pathway, country, liveliness tier, size class, registries.
 - [CDR Researcher Census data](/data/researchers/) — aggregates by country/pathway/sector and top-100 lists per pathway, CC BY 4.0.
 - [CDR Shops data](/data/shops/) — shops with prices, CC BY 4.0.
-- [JSON API](/api/) — static read-only endpoints under /api/v1/ (index.json, stats.json, companies.json, companies/{slug}.json, countries.json, pathways.json, researchers/by-country.json, researchers/top/{pathway}.json, shops.json, openapi.json). Every response carries version, as_of, license and cite_as.
+- [JSON API](/api/) — static read-only endpoints under /api/v1/, always the newest release; fetch index.json first (endpoints with one-line descriptions), then stats.json, companies.json, companies/{slug}.json, countries.json, pathways.json, researchers/by-country.json, researchers/by-pathway.json, researchers/top/{pathway}.json, shops.json or openapi.json. Every response carries version, as_of, license and cite_as.
+- [MCP server](/api/#mcp-server-for-claude-chatgpt-and-cursor) — `pip install captain-drawdown-mcp` gives Claude Code, Cursor and ChatGPT the same data as tools, read live from the API.
 - [Data changelog](/data/changelog/) — release notes and corrections.
 
 ## What this site is for

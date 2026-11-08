@@ -20,9 +20,12 @@ The company directory is built from a public seed list (Grant Faber, January 202
 
 ## Where to get the data
 
-- **GitHub:** [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases), the open-data home of the files: every release as a folder and as a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases) with one zip; clone it, open a CSV in the browser, or file an issue for a correction.
-- **API:** read-only JSON under [`/api/v1/`](/api/), every response with version, date, licence and citation.
-- **MCP server:** `pip install captain-drawdown-mcp` ([PyPI](https://pypi.org/project/captain-drawdown-mcp/)) gives Claude, ChatGPT and Cursor the same data as tools; setup on the [API page](/api/#mcp-server-for-claude-chatgpt-and-cursor).
+Use the data where it lives, not a copy: `/data/v1/latest/`, the API and the MCP server always serve the newest release at fixed addresses, and every answer names its version. Pin `/data/v1/2026-11.4/` only for a result that must not change, and cite its DOI.
+
+- **The map for assistants:** the [release manifest](/data/v1/latest/manifest.json) lists every file of the newest release with description, row count, size, licence and checksum. Paste that one address into Claude, ChatGPT or Gemini and ask your question; the assistant picks the file, fetches it and quotes the version. [llms.txt](/llms.txt) is the same front door in plain words.
+- **GitHub:** [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases), the open-data home of the files: every release as a folder and as a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases) with one zip; clone it, open a CSV in the browser, or file an issue for a correction. Spreadsheets and code read `https://captaindrawdown.com/data/v1/latest/companies.csv` directly (Google Sheets `IMPORTDATA`, pandas).
+- **API:** read-only JSON under [`/api/v1/`](/api/), always the newest release, every response with version, date, licence and citation; [`index.json`](/api/v1/index.json) lists the endpoints with one-line descriptions.
+- **MCP server:** `pip install captain-drawdown-mcp` ([PyPI](https://pypi.org/project/captain-drawdown-mcp/)) gives Claude Code, Cursor and ChatGPT the same data as tools, read live from the API; setup on the [API page](/api/#mcp-server-for-claude-chatgpt-and-cursor).
 - **Hugging Face:** the release files as datasets, [cdr-company-directory](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory), [cdr-researcher-census](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census) and [cdr-shops](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops).
 - **Zenodo:** an archived copy of every release with a DOI per dataset ([companies](https://doi.org/10.5281/zenodo.23957359), [researchers](https://doi.org/10.5281/zenodo.23957367), [shops](https://doi.org/10.5281/zenodo.23957405)); the DOI is part of the citation line on each dataset page.
 

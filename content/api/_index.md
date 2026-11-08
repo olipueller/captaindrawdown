@@ -32,7 +32,7 @@ europe = [c for c in r["data"] if c["region"] in ("EU27", "Europe (non-EU)")]
 print(r["version"], len(europe), "European companies")
 ```
 
-For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint you need; quote `cite_as` and `as_of` from the response. The same data is available as versioned CSV and JSON files on GitHub ([dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases)) and under [/data/](/data/). Licences: companies CC BY-NC-SA 4.0, researchers and shops CC BY 4.0.
+For assistants and agents: hand them the map, not a file. The [release manifest](/data/v1/latest/manifest.json) lists every file of the newest release with description, row count, size, licence and checksum; `/api/v1/index.json` lists the endpoints with one-line descriptions. Fetch the smallest file that answers the question and quote `version` and `cite_as` from the response. The API and `/data/v1/latest/` always serve the newest release; pin `/data/v1/<version>/` only for a result that must not change. The same data is available as versioned CSV and JSON files on GitHub ([dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases)) and under [/data/](/data/). Licences: companies CC BY-NC-SA 4.0, researchers and shops CC BY 4.0.
 
 ## MCP server for Claude, ChatGPT and Cursor
 
