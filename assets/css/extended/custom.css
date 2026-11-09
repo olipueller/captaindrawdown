@@ -112,6 +112,13 @@ a:hover, [data-theme="dark"] a:hover, .post-content a:hover { text-decoration: u
 .post-content table tbody tr:hover td { background: var(--surface-2); }
 .post-content table td:has(> a:only-child) { white-space: nowrap; }
 .post-content table:not(.cd-table) { display: block; width: max-content; max-width: 100%; overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface-1); }
+/* markdown tables come wrapped by the render hook (layouts/_default/_markup/render-table.html): the wrapper
+   scrolls and carries the border, the table itself fills the width so long text cells wrap instead of being cut off */
+.post-content .cd-tablewrap > table:not(.cd-table) { display: table; width: 100%; max-width: none; overflow: visible; border: 0; border-radius: 0; background: transparent; margin: 0; }
+.post-content .cd-tablewrap { margin: var(--space-5) 0; }
+/* :has(> a:only-child) also matches a long sentence that ends in one link (text nodes are not children),
+   which made whole changelog columns single-line; inside the wrapper every cell wraps */
+.post-content .cd-tablewrap > table td:has(> a:only-child) { white-space: normal; }
 .post-content table a { color: var(--petrol); }
 
 /* — charts on a plate — */
