@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
-description: "Alberto Abad, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 35 by activity, 314 by citations; Europe rank 24 by activity, 125 by citations). 283 publications, h-index 75, 21,738 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Alberto Abad, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 35 by activity, 314 by citations; Europe rank 24 by activity, 125 by citations). 279 publications, h-index 76, 21,212 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/alberto-abad-a5100666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 35 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 314 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 125 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>75</td></tr>
-  <tr><th>Citations</th><td>21,738</td></tr>
-  <tr><th>Publications</th><td>283</td></tr>
+  <tr><th>h-index</th><td>76</td></tr>
+  <tr><th>Citations</th><td>21,212</td></tr>
+  <tr><th>Publications</th><td>279</td></tr>
   <tr><th>Share of publications on CDR</th><td>3.2%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4995-3473">ORCID</a> · <a href="https://openalex.org/A5100666655">OpenAlex</a></td></tr>
@@ -47,15 +47,15 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies](https://doi.org/10.1016/j.enconman.2024.118476)<br><small>Energy Conversion and Management · with Arturo Cabello, [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Yldeney Domingos, Yldeney Silva Domingos, Teresa Mendiara</small> | BECCS | 22 |
+| 2024 | [Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies](https://doi.org/10.1016/j.enconman.2024.118476)<br><small>Energy Conversion and Management · with Arturo Cabello, [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Yldeney Silva Domingos, Teresa Mendiara</small> | BECCS | 24 |
 | 2024 | [Life Cycle Assessment of Wheat Straw Pyrolysis with Volatile Fractions Chemical Looping Combustion](https://doi.org/10.3390/su16104013)<br><small>Sustainability · with Teresa Mendiara, Alberto Navajas, Francisco García‐Labiano, Luis M. Gandía, Mikel Munárriz, Tobias Pröll and 1 more</small> | Biochar | 16 |
-| 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163)<br><small>Fuel · with [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Francisco García‐Labiano, Juan A.C. Ruiz, [Juan Adánez](/cdr-researcher-census/researchers/juan-adanez-a5005651/)</small> | BECCS | 14 |
+| 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163)<br><small>Fuel · with [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Francisco García‐Labiano, Juan A.C. Ruiz, Juan Adánez</small> | BECCS | 14 |
 | 2023 | [Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor](https://doi.org/10.3390/en16093850)<br><small>Energies · with Lu Wang, Aldo Bischi, Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Mauro Zampilli and 2 more</small> | BECCS | 5 |
 | 2023 | [Lecture: Development of BECCS by coupling a CLC combustor to a gas turbine](https://zenodo.org/record/7998201)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with [Pietro Bartocci](/cdr-researcher-census/researchers/pietro-bartocci-a5082211/)</small> | BECCS | 0 |
 | 2022 | [Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency](https://doi.org/10.1016/j.rser.2022.112851)<br><small>Renewable and Sustainable Energy Reviews · with [Pietro Bartocci](/cdr-researcher-census/researchers/pietro-bartocci-a5082211/), Andrea Taiana, Angela Serra, Arturo Cabello, Cristóbal Cortés, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/) and 11 more</small> | BECCS | 16 |
 | 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266)<br><small>Fuel · with Lu Wang, Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), [Hanping Chen](/cdr-researcher-census/researchers/hanping-chen-a5007450/), Liang Wang, [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/) and 7 more</small> | BECCS | 6 |
 | 2022 | [Pressurised Chemical Looping Combustion (PCLC): Air Reactor design](https://doi.org/10.1088/1742-6596/2385/1/012127)<br><small>Journal of Physics Conference Series · with [Pietro Bartocci](/cdr-researcher-census/researchers/pietro-bartocci-a5082211/), Aldo Bischi, Arturo Cabello, Gianni Bidini, [Margarita de Las Obras Loscertales](/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/), Mauro Zampilli and 3 more</small> | BECCS | 2 |
-| 2021 | [Behavior of a manganese-iron mixed oxide doped with titanium in reducing the oxygen demand for CLC of biomass](https://doi.org/10.1016/j.fuel.2021.120381)<br><small>Fuel · with Antón Pérez-Astray, Francisco García‐Labiano, Luis F. de Diego, M.T. Izquierdo, Teresa Mendiara, [Juan Adánez](/cdr-researcher-census/researchers/juan-adanez-a5005651/)</small> | BECCS | 18 |
+| 2021 | [Behavior of a manganese-iron mixed oxide doped with titanium in reducing the oxygen demand for CLC of biomass](https://doi.org/10.1016/j.fuel.2021.120381)<br><small>Fuel · with Antón Pérez-Astray, Francisco García‐Labiano, Luis F. de Diego, M.T. Izquierdo, Teresa Mendiara, Juan Adánez</small> | BECCS | 18 |
 
 ---
 

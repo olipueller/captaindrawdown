@@ -1,7 +1,7 @@
 ---
 title: "Daniela Thrän"
-description: "Daniela Thrän. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 66 by activity, 2926 by citations). 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Daniela Thrän. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 66 by activity, 2926 by citations). 1 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/daniela-thran-a5140066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -24,7 +24,7 @@ robots: "index, follow"
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>
-  <tr><th>Publications</th><td>3</td></tr>
+  <tr><th>Publications</th><td>1</td></tr>
   <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5140066699">OpenAlex</a></td></tr>
 </table>

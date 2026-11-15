@@ -1,7 +1,7 @@
 ---
 title: "P. J. Amal Joseph"
 description: "P. J. Amal Joseph, Mahatma Gandhi Government Arts College, Mahe, Puducherry, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 73 by activity, 2933 by citations). 6 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7149422730)<br><small>with [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [N. L. Janaki](/cdr-researcher-census/researchers/n-l-janaki-a5132958/), S. Priyadarshini, [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/), [Sk. Beebi](/cdr-researcher-census/researchers/sk-beebi-a5033219/)</small> | BECCS | 0 |
-| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170150030)<br><small>with [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [N. L. Janaki](/cdr-researcher-census/researchers/n-l-janaki-a5132958/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/), [Sk. Beebi](/cdr-researcher-census/researchers/sk-beebi-a5033219/)</small> | BECCS | 0 |
-| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170158220)<br><small>with [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [N. L. Janaki](/cdr-researcher-census/researchers/n-l-janaki-a5132958/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/), [Sk. Beebi](/cdr-researcher-census/researchers/sk-beebi-a5033219/)</small> | BECCS | 0 |
+| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7149422730)<br><small>with [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [Janaki NL](/cdr-researcher-census/researchers/janaki-nl-a5123252/), S. Priyadarshini, [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/), [Sk. Beebi](/cdr-researcher-census/researchers/sk-beebi-a5033219/)</small> | BECCS | 0 |
+| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170150030)<br><small>with [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [Janaki NL](/cdr-researcher-census/researchers/janaki-nl-a5123252/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/), [Sk. Beebi](/cdr-researcher-census/researchers/sk-beebi-a5033219/)</small> | BECCS | 0 |
+| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170158220)<br><small>with [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [Janaki NL](/cdr-researcher-census/researchers/janaki-nl-a5123252/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/), [Sk. Beebi](/cdr-researcher-census/researchers/sk-beebi-a5033219/)</small> | BECCS | 0 |
 
 ---
 

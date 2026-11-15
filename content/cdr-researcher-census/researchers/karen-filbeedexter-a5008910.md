@@ -1,7 +1,7 @@
 ---
 title: "Karen Filbee‐Dexter"
-description: "Karen Filbee‐Dexter, University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 371 by activity, 46 by citations). 137 publications, h-index 44, 7,127 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Karen Filbee‐Dexter, University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 371 by activity, 46 by citations). 162 publications, h-index 46, 7,976 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/karen-filbeedexter-a5008910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 371 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>44</td></tr>
-  <tr><th>Citations</th><td>7,127</td></tr>
-  <tr><th>Publications</th><td>137</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.9%</td></tr>
+  <tr><th>h-index</th><td>46</td></tr>
+  <tr><th>Citations</th><td>7,976</td></tr>
+  <tr><th>Publications</th><td>162</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.5%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8413-6797">ORCID</a> · <a href="https://openalex.org/A5008910790">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Temperate Seaweed Farms May Be Better at Reducing Emissions than Removing Carbon](https://doi.org/10.1007/978-3-032-02955-3_12)<br><small>Developments in applied phycology. · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), T Wernberg</small> | Ocean CDR | 1 |
-| 2024 | [Carbon removal and climate change mitigation by seaweed farming: A state of knowledge review](https://doi.org/10.1016/j.scitotenv.2024.170525)<br><small>The Science of The Total Environment · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/)</small> | Ocean CDR | 88 |
-| 2023 | [Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review](https://doi.org/10.1111/brv.12990)<br><small>Biological reviews/Biological reviews of the Cambridge Philosophical Society · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/), [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/), [Rita Melo Franco-Santos](/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/) and 1 more</small> | Ocean CDR | 179 |
+| 2026 | [Temperate Seaweed Farms May Be Better at Reducing Emissions than Removing Carbon](https://doi.org/10.1007/978-3-032-02955-3_12)<br><small>Developments in applied phycology. · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), T Wernberg</small> | Ocean CDR | 3 |
+| 2024 | [Carbon removal and climate change mitigation by seaweed farming: A state of knowledge review](https://doi.org/10.1016/j.scitotenv.2024.170525)<br><small>The Science of The Total Environment · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/)</small> | Ocean CDR | 97 |
+| 2023 | [Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review](https://doi.org/10.1111/brv.12990)<br><small>Biological reviews/Biological reviews of the Cambridge Philosophical Society · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/), [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/), [Rita Melo Franco-Santos](/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/) and 1 more</small> | Ocean CDR | 200 |
 | 2023 | [Temperature sensitivity of detrital photosynthesis](https://openalex.org/W4390166712)<br><small>with [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), Taylor Simpkins, [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/)</small> | Ocean CDR | 4 |
 
 ---

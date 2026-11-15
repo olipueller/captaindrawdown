@@ -1,7 +1,7 @@
 ---
 title: "Pacharapol Nokpho"
-description: "Pacharapol Nokpho, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 75 by activity, 2894 by citations). 11 publications, h-index 6, 75 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Pacharapol Nokpho, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 75 by activity, 2894 by citations). 11 publications, h-index 6, 87 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 75 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2894 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>75</td></tr>
+  <tr><th>Citations</th><td>87</td></tr>
   <tr><th>Publications</th><td>11</td></tr>
-  <tr><th>Share of publications on CDR</th><td>27.3%</td></tr>
+  <tr><th>Share of publications on CDR</th><td>36.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5076032169">OpenAlex</a></td></tr>
 </table>

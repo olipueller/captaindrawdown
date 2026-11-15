@@ -1,7 +1,7 @@
 ---
 title: "Shikha Mishra"
-description: "Shikha Mishra, Kern Medical Center, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 15 by activity, 2681 by citations). 96 publications, h-index 21, 1,886 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Shikha Mishra, Kern Medical Center, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 15 by activity, 2681 by citations). 90 publications, h-index 22, 1,980 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/shikha-mishra-a5012094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 15 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2681 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>21</td></tr>
-  <tr><th>Citations</th><td>1,886</td></tr>
-  <tr><th>Publications</th><td>96</td></tr>
-  <tr><th>Share of publications on CDR</th><td>5.2%</td></tr>
+  <tr><th>h-index</th><td>22</td></tr>
+  <tr><th>Citations</th><td>1,980</td></tr>
+  <tr><th>Publications</th><td>90</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.6%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0428-0738">ORCID</a> · <a href="https://openalex.org/A5012094395">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164418053)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), [J. P. Misra](/cdr-researcher-census/researchers/j-p-misra-a5009024/), Mallikarjun Bhavanari, [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/) and 2 more</small> | BECCS | 1 |
+| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164418053)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), [J. P. Misra](/cdr-researcher-census/researchers/j-p-misra-a5009024/), Mallikarjun Bhavanari, [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/) and 2 more</small> | BECCS | 3 |
 | 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164517513)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), [J. P. Misra](/cdr-researcher-census/researchers/j-p-misra-a5009024/), [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Syed Shams Yazdani](/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/) and 1 more</small> | BECCS | 0 |
 | 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164521410)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), Jyotsna Misra, [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Syed Shams Yazdani](/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/) and 1 more</small> | BECCS | 0 |
 | 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164544818)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), [J. P. Misra](/cdr-researcher-census/researchers/j-p-misra-a5009024/), [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Syed Shams Yazdani](/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/) and 1 more</small> | BECCS | 0 |

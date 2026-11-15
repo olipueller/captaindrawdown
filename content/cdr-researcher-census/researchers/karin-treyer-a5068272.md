@@ -1,7 +1,7 @@
 ---
 title: "Karin Treyer"
-description: "Karin Treyer, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5816 by activity, 66 by citations; Europe rank 1509 by activity, 33 by citations). 36 publications, h-index 15, 2,333 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Karin Treyer, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5816 by activity, 66 by citations; Europe rank 1509 by activity, 33 by citations). 40 publications, h-index 15, 2,513 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/karin-treyer-a5068272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 5816 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1509 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
-  <tr><th>Citations</th><td>2,333</td></tr>
-  <tr><th>Publications</th><td>36</td></tr>
-  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
+  <tr><th>Citations</th><td>2,513</td></tr>
+  <tr><th>Publications</th><td>40</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9845-5633">ORCID</a> · <a href="https://openalex.org/A5068272245">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Prospective site-specific life cycle assessment of ocean alkalinity enhancement](https://openalex.org/W7147493203)<br><small>with Maria Myridinas, Andrea Stöckli, [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [﻿Arnaud Laurent](/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) and 1 more</small> | Ocean CDR | 2 |
+| 2026 | [Prospective site-specific life cycle assessment of ocean alkalinity enhancement](https://openalex.org/W7147493203)<br><small>with Maria Myridinas, Andrea Stöckli, [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [﻿Arnaud Laurent](/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) and 1 more</small> | Ocean CDR | 3 |
 | 2026 | [Prospective site-specific life cycle assessment of ocean alkalinity enhancement](https://openalex.org/W7166828644)<br><small>with Maria Myridinas, Andrea Stöckli, [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [﻿Arnaud Laurent](/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) and 1 more</small> | Ocean CDR | 0 |
-| 2021 | [Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources](https://doi.org/10.1021/acs.est.1c03263)<br><small>Environmental Science & Technology · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 296 |
+| 2021 | [Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources](https://doi.org/10.1021/acs.est.1c03263)<br><small>Environmental Science & Technology · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 324 |
 | 2021 | [On the climate impacts of blue hydrogen production](https://doi.org/10.26434/chemrxiv-2021-hz0qp)<br><small>preprint · with [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), Arvind Ravikumar, Cristina Antonini, Emre Gençer, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), Jaap F. Vente and 9 more</small> | BECCS | 12 |
 
 ---

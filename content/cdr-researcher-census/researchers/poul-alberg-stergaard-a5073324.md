@@ -1,7 +1,7 @@
 ---
 title: "Poul Alberg Østergaard"
-description: "Poul Alberg Østergaard, Aalborg Universitet, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1302 by activity, 61 by citations; Europe rank 611 by activity, 46 by citations). 291 publications, h-index 59, 15,622 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Poul Alberg Østergaard, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1302 by activity, 61 by citations; Europe rank 611 by activity, 46 by citations). 295 publications, h-index 63, 17,352 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/poul-alberg-stergaard-a5073324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/poul-alberg-stergaard-a5073324/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Aalborg Universitet"
+    "name": "Aalborg University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6796-6526",
@@ -26,14 +26,14 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Aalborg Universitet</td></tr>
+  <tr><th>Institution</th><td>Aalborg University</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1302 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 61 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 611 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>59</td></tr>
-  <tr><th>Citations</th><td>15,622</td></tr>
-  <tr><th>Publications</th><td>291</td></tr>
+  <tr><th>h-index</th><td>63</td></tr>
+  <tr><th>Citations</th><td>17,352</td></tr>
+  <tr><th>Publications</th><td>295</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6796-6526">ORCID</a> · <a href="https://openalex.org/A5073324016">OpenAlex</a></td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Standalone and system-level perspectives on hydrogen-based sustainable aviation fuel pathways for Denmark](https://doi.org/10.1016/j.energy.2025.135450)<br><small>Energy · with Hamza Abid, [Brian Vad Mathiesen](/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/), Iva Ridjan Skov</small> | BECCS; DAC | 25 |
-| 2025 | [Quantifying the impacts of policies on compensating for the hard-to-abate emissions of a smart energy city](https://doi.org/10.1016/j.segy.2025.100213)<br><small>Smart Energy · with Tuomas Vanhanen, Arnau Aliana, Jakob Zinck Thellufsen, Jakob Zink Thellufsen, Pertti Järventausta, Peter Sorknæs and 1 more</small> | Cross-cutting CDR | 2 |
-| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 588 |
+| 2025 | [Standalone and system-level perspectives on hydrogen-based sustainable aviation fuel pathways for Denmark](https://doi.org/10.1016/j.energy.2025.135450)<br><small>Energy · with Hamza Abid, [Brian Vad Mathiesen](/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/), Iva Ridjan Skov</small> | BECCS; DAC | 30 |
+| 2025 | [Quantifying the impacts of policies on compensating for the hard-to-abate emissions of a smart energy city](https://doi.org/10.1016/j.segy.2025.100213)<br><small>Smart Energy · with Tuomas Vanhanen, Arnau Aliana, Jakob Zinck Thellufsen, Jakob Zink Thellufsen, Pertti Järventausta, Peter Sorknæs and 1 more</small> | Cross-cutting CDR | 3 |
+| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 644 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Marcin Sajdak"
-description: "Marcin Sajdak, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 1444 by activity, 44 by citations). 124 publications, h-index 26, 2,184 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Marcin Sajdak, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 1444 by activity, 44 by citations). 130 publications, h-index 27, 2,352 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/marcin-sajdak-a5044322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 1444 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>26</td></tr>
-  <tr><th>Citations</th><td>2,184</td></tr>
-  <tr><th>Publications</th><td>124</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.6%</td></tr>
+  <tr><th>h-index</th><td>27</td></tr>
+  <tr><th>Citations</th><td>2,352</td></tr>
+  <tr><th>Publications</th><td>130</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.5%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6037-7748">ORCID</a> · <a href="https://openalex.org/A5044322730">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Perspectives of Using Sewage Sludge Char in CO2 Sequestration on Degraded and Brownfield Sites](https://doi.org/10.3390/en16093945)<br><small>Energies · with Celina Pieszko, Edyta Misztal, Miloud Ouadi, Monika Zajemska, Walter Mucha, Grzegorz Gałko</small> | Biochar | 7 |
-| 2022 | [Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar](https://doi.org/10.1016/j.energy.2022.126128)<br><small>Energy · with [Roksana Muzyka](/cdr-researcher-census/researchers/roksana-muzyka-a5065248/), Edyta Misztal, [Joanna Hrabak](/cdr-researcher-census/researchers/joanna-hrabak-a5003545/), Ying Jiang</small> | Biochar | 260 |
+| 2023 | [Perspectives of Using Sewage Sludge Char in CO2 Sequestration on Degraded and Brownfield Sites](https://doi.org/10.3390/en16093945)<br><small>Energies · with Celina Pieszko, Edyta Misztal, Miloud Ouadi, Monika Zajemska, Walter Mucha, Grzegorz Gałko</small> | Biochar | 8 |
+| 2022 | [Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar](https://doi.org/10.1016/j.energy.2022.126128)<br><small>Energy · with [Roksana Muzyka](/cdr-researcher-census/researchers/roksana-muzyka-a5065248/), Edyta Misztal, [Joanna Hrabak](/cdr-researcher-census/researchers/joanna-hrabak-a5003545/), Ying Jiang</small> | Biochar | 285 |
 
 ---
 

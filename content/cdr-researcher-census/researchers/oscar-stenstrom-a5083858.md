@@ -1,7 +1,7 @@
 ---
 title: "Oscar Stenström"
-description: "Oscar Stenström, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 60 by activity, 1475 by citations; Europe rank 42 by activity, 653 by citations). 12 publications, h-index 2, 15 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Oscar Stenström, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 60 by activity, 1475 by citations; Europe rank 42 by activity, 653 by citations). 10 publications, h-index 2, 26 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 60 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1475 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 42 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 653 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
-  <tr><th>Citations</th><td>15</td></tr>
-  <tr><th>Publications</th><td>12</td></tr>
-  <tr><th>Share of publications on CDR</th><td>41.7%</td></tr>
+  <tr><th>Citations</th><td>26</td></tr>
+  <tr><th>Publications</th><td>10</td></tr>
+  <tr><th>Share of publications on CDR</th><td>40.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0005-6197-6028">ORCID</a> · <a href="https://openalex.org/A5083858474">OpenAlex</a></td></tr>
 </table>
@@ -49,8 +49,8 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Regretting carbon capture from bioenergy – A case study](https://openalex.org/W7160055675)<br><small>with [Magnus Rydén](/cdr-researcher-census/researchers/magnus-ryden-a5041687/)</small> | BECCS | 0 |
 | 2025 | [Decision making beyond models of bioenergy with carbon capture and storage](https://openalex.org/W7205151119) | BECCS | 0 |
-| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537)<br><small>Frontiers in Energy Research · with Dilip Khatiwada, Fabian Levihn, Will Usher, [Magnus Rydén](/cdr-researcher-census/researchers/magnus-ryden-a5041687/)</small> | BECCS | 11 |
-| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709)<br><small>SSRN Electronic Journal (preprint) · with Tharun Kumar Roshan, Tharun Roshan Kumar, [Magnus Rydén](/cdr-researcher-census/researchers/magnus-ryden-a5041687/)</small> | BECCS | 0 |
+| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537)<br><small>Frontiers in Energy Research · with Dilip Khatiwada, Fabian Levihn, Will Usher, [Magnus Rydén](/cdr-researcher-census/researchers/magnus-ryden-a5041687/)</small> | BECCS | 17 |
+| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709)<br><small>SSRN Electronic Journal (preprint) · with Tharun Roshan Kumar, [Magnus Rydén](/cdr-researcher-census/researchers/magnus-ryden-a5041687/)</small> | BECCS | 0 |
 
 ---
 

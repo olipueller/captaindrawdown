@@ -1,7 +1,7 @@
 ---
 title: "Seongmin Son"
-description: "Seongmin Son, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 46 by activity, 1863 by citations). 68 publications, h-index 16, 1,178 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Seongmin Son, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 46 by activity, 1863 by citations). 50 publications, h-index 14, 1,008 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/seongmin-son-a5055286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 46 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1863 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>16</td></tr>
-  <tr><th>Citations</th><td>1,178</td></tr>
-  <tr><th>Publications</th><td>68</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.4%</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>1,008</td></tr>
+  <tr><th>Publications</th><td>50</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8021-197X">ORCID</a> · <a href="https://openalex.org/A5055286957">OpenAlex</a></td></tr>
 </table>

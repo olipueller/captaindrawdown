@@ -1,7 +1,7 @@
 ---
 title: "Kazutaka Umetsu"
-description: "Kazutaka Umetsu, Obihiro University of Agriculture and Veterinary Medicine, Japan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3388 by activity, 78 by citations). 148 publications, h-index 30, 2,455 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Kazutaka Umetsu, Obihiro University of Agriculture and Veterinary Medicine, Japan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3388 by activity, 78 by citations). 143 publications, h-index 30, 2,545 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/kazutaka-umetsu-a5113812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3388 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
-  <tr><th>Citations</th><td>2,455</td></tr>
-  <tr><th>Publications</th><td>148</td></tr>
+  <tr><th>Citations</th><td>2,545</td></tr>
+  <tr><th>Publications</th><td>143</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5113812768">OpenAlex</a></td></tr>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Integration of biogas systems into a carbon zero and hydrogen economy: a review](https://doi.org/10.1007/s10311-022-01468-z)<br><small>Environmental Chemistry Letters · with [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/)</small> | BECCS | 203 |
+| 2022 | [Integration of biogas systems into a carbon zero and hydrogen economy: a review](https://doi.org/10.1007/s10311-022-01468-z)<br><small>Environmental Chemistry Letters · with [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/)</small> | BECCS | 242 |
 
 ---
 

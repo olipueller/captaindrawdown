@@ -1,7 +1,7 @@
 ---
 title: "Helena Paiva"
-description: "Helena Paiva, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3297 by activity, 49 by citations). 37 publications, h-index 16, 1,458 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Helena Paiva, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3297 by activity, 49 by citations). 35 publications, h-index 17, 1,572 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/helena-paiva-a5085536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 3297 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>16</td></tr>
-  <tr><th>Citations</th><td>1,458</td></tr>
-  <tr><th>Publications</th><td>37</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.7%</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>1,572</td></tr>
+  <tr><th>Publications</th><td>35</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.9%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3911-2598">ORCID</a> · <a href="https://openalex.org/A5085536088">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Incorporation of biochar in cementitious materials: A roadmap of biochar selection](https://doi.org/10.1016/j.conbuildmat.2021.122757)<br><small>Construction and Building Materials · with [Hamid Maljaee](/cdr-researcher-census/researchers/hamid-maljaee-a5016325/), [L.A.C. Tarelho](/cdr-researcher-census/researchers/lac-tarelho-a5044429/), Rozita Madadi, [Victor Ferreira](/cdr-researcher-census/researchers/victor-ferreira-a5024064/)</small> | Biochar | 251 |
+| 2021 | [Incorporation of biochar in cementitious materials: A roadmap of biochar selection](https://doi.org/10.1016/j.conbuildmat.2021.122757)<br><small>Construction and Building Materials · with [Hamid Maljaee](/cdr-researcher-census/researchers/hamid-maljaee-a5016325/), [L.A.C. Tarelho](/cdr-researcher-census/researchers/lac-tarelho-a5044429/), Rozita Madadi, [Victor Ferreira](/cdr-researcher-census/researchers/victor-ferreira-a5024064/)</small> | Biochar | 268 |
 
 ---
 

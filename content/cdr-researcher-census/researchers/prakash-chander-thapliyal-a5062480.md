@@ -1,7 +1,7 @@
 ---
 title: "Prakash Chander Thapliyal"
-description: "Prakash Chander Thapliyal, Central Building Research Institute, India. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8851 by activity, 77 by citations). 50 publications, h-index 12, 1,429 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Prakash Chander Thapliyal, Central Building Research Institute, India. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8851 by activity, 77 by citations). 52 publications, h-index 13, 1,566 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/prakash-chander-thapliyal-a5062480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8851 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>12</td></tr>
-  <tr><th>Citations</th><td>1,429</td></tr>
-  <tr><th>Publications</th><td>50</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>1,566</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8532-5589">ORCID</a> · <a href="https://openalex.org/A5062480662">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Low-CO2 emission strategies to achieve net zero target in cement sector](https://doi.org/10.1016/j.jclepro.2023.137466)<br><small>Journal of Cleaner Production · with [Supriya Supriya](/cdr-researcher-census/researchers/supriya-supriya-a5062582/), [Rafiqul Huda Chaudhury](/cdr-researcher-census/researchers/rafiqul-huda-chaudhury-a5027596/), [U. Sharma](/cdr-researcher-census/researchers/u-sharma-a5079733/), [L.P. Singh](/cdr-researcher-census/researchers/lp-singh-a5091533/)</small> | Cross-cutting CDR | 585 |
+| 2023 | [Low-CO2 emission strategies to achieve net zero target in cement sector](https://doi.org/10.1016/j.jclepro.2023.137466)<br><small>Journal of Cleaner Production · with [Supriya Supriya](/cdr-researcher-census/researchers/supriya-supriya-a5062582/), [Rafiqul Huda Chaudhury](/cdr-researcher-census/researchers/rafiqul-huda-chaudhury-a5027596/), [U. Sharma](/cdr-researcher-census/researchers/u-sharma-a5079733/), [L.P. Singh](/cdr-researcher-census/researchers/lp-singh-a5091533/)</small> | Cross-cutting CDR | 642 |
 
 ---
 

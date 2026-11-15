@@ -1,7 +1,7 @@
 ---
 title: "Benjamin S. Twining"
-description: "Benjamin S. Twining, Bigelow Laboratory for Ocean Sciences, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 137 by activity, 94 by citations). 179 publications, h-index 48, 8,650 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Benjamin S. Twining, Bigelow Laboratory for Ocean Sciences, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 137 by activity, 94 by citations). 196 publications, h-index 50, 8,986 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 137 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 94 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>48</td></tr>
-  <tr><th>Citations</th><td>8,650</td></tr>
-  <tr><th>Publications</th><td>179</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.5%</td></tr>
+  <tr><th>h-index</th><td>50</td></tr>
+  <tr><th>Citations</th><td>8,986</td></tr>
+  <tr><th>Publications</th><td>196</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1365-9192">ORCID</a> · <a href="https://openalex.org/A5088517463">OpenAlex</a></td></tr>
 </table>
@@ -47,14 +47,14 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with [Ken O. Buesseler](/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/), Angelicque White, Christine Klaas, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/) and 21 more</small> | Ocean CDR | 7 |
+| 2026 | [The case for ocean iron fertilization field trials](https://doi.org/10.1177/29768659261420631)<br><small>Dialogues on climate change. · with Ken O. Buesseler, Angelicque White, Christine Klaas, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/) and 21 more</small> | Ocean CDR | 8 |
 | 2025 | [Biogenic Iron Oxides as a Source of Iron for Ocean Iron Fertilization](https://doi.org/10.1002/9781394204847.ch20)<br><small>with David Emerson, A Doiron, S. Elizabeth George</small> | Ocean CDR | 0 |
-| 2024 | [Next steps for assessing ocean iron fertilization for marine carbon dioxide removal](https://doi.org/10.3389/fclim.2024.1430957)<br><small>Frontiers in Climate · with [Ken O. Buesseler](/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/), Angelicque White, Anh L. D. Pham, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), Deborah Lynn Steinberg and 16 more</small> | Ocean CDR | 18 |
-| 2024 | [A Cost Model for Ocean Iron Fertilization as a Means of Carbon Dioxide Removal That Compares Ship‐ and Aerial‐Based Delivery, and Estimates Verification Costs](https://doi.org/10.1029/2023ef003732)<br><small>Earth s Future · with David Emerson, Alexander B. Michaud, Laura E. Sofen, Stephen D. Archer</small> | Ocean CDR | 8 |
-| 2023 | [Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit](https://doi.org/10.1111/gcb.16854)<br><small>Global Change Biology · with Alessandro Tagliabue, Manon Berger, Nicolas Barrier, Olivier Maury, [Laurent Bopp](/cdr-researcher-census/researchers/laurent-bopp-a5079839/)</small> | Ocean CDR | 50 |
-| 2023 | [Paths forward for exploring ocean iron fertilization](http://dx.doi.org/10.1575/1912/67120)<br><small>with Angelicaue White, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), Deborah Lynn Steinberg, Dennis J. McGillicuddy, F. Chai and 12 more</small> | Ocean CDR | 0 |
-| 2022 | [Potential use of engineered nanoparticles in ocean fertilization for large-scale atmospheric carbon dioxide removal](https://doi.org/10.1038/s41565-022-01226-w)<br><small>Nature Nanotechnology · with Peyman Babakhani, Caroline L. Peacock, Kullapa Soratana, Mohammed Baalousha, Tanapon Phenrat, Michael F. Hochella</small> | Ocean CDR | 57 |
-| 2021 | [Release from biogenic particles, benthic fluxes, and deep water circulation control Cr and δ53Cr distributions in the ocean interior](https://doi.org/10.1016/j.epsl.2021.117163)<br><small>Earth and Planetary Science Letters · with David J. Janssen, April N. Abbott, Daniel C. Ohnemus, Delphine Gilliard, Jörg Rickli, Michael J. Ellwood and 2 more</small> | Ocean CDR | 30 |
+| 2024 | [Next steps for assessing ocean iron fertilization for marine carbon dioxide removal](https://doi.org/10.3389/fclim.2024.1430957)<br><small>Frontiers in Climate · with Ken O. Buesseler, Angelicque White, Anh L. D. Pham, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), Deborah Lynn Steinberg and 16 more</small> | Ocean CDR | 25 |
+| 2024 | [A Cost Model for Ocean Iron Fertilization as a Means of Carbon Dioxide Removal That Compares Ship‐ and Aerial‐Based Delivery, and Estimates Verification Costs](https://doi.org/10.1029/2023ef003732)<br><small>Earth s Future · with David Emerson, Alexander B. Michaud, Laura E. Sofen, Stephen D. Archer</small> | Ocean CDR | 12 |
+| 2023 | [Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit](https://doi.org/10.1111/gcb.16854)<br><small>Global Change Biology · with Alessandro Tagliabue, Manon Berger, Maury Olivier, Nicolas Barrier, [Laurent Bopp](/cdr-researcher-census/researchers/laurent-bopp-a5079839/)</small> | Ocean CDR | 60 |
+| 2023 | [Paths forward for exploring ocean iron fertilization](http://dx.doi.org/10.1575/1912/67120)<br><small>with Angelicaue White, Daniele Bianchi, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), Deborah Lynn Steinberg, Dennis J. McGillicuddy, F. Chai and 12 more</small> | Ocean CDR | 1 |
+| 2022 | [Potential use of engineered nanoparticles in ocean fertilization for large-scale atmospheric carbon dioxide removal](https://doi.org/10.1038/s41565-022-01226-w)<br><small>Nature Nanotechnology · with Peyman Babakhani, Caroline L. Peacock, Kullapa Soratana, Mohammed Baalousha, Tanapon Phenrat, Michael F. Hochella</small> | Ocean CDR | 63 |
+| 2021 | [Release from biogenic particles, benthic fluxes, and deep water circulation control Cr and δ53Cr distributions in the ocean interior](https://doi.org/10.1016/j.epsl.2021.117163)<br><small>Earth and Planetary Science Letters · with David J. Janssen, April N. Abbott, Daniel C. Ohnemus, Delphine Gilliard, Jörg Rickli, Michael J. Ellwood and 2 more</small> | Ocean CDR | 32 |
 
 ---
 

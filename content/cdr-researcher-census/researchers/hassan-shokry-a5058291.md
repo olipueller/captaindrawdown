@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
-description: "Hassan Shokry, Egypt-Japan University of Science and Technology, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 74 by activity, 364 by citations). 99 publications, h-index 26, 2,555 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Hassan Shokry, Egypt-Japan University of Science and Technology, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 74 by activity, 364 by citations). 124 publications, h-index 28, 2,968 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 74 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 364 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>26</td></tr>
-  <tr><th>Citations</th><td>2,555</td></tr>
-  <tr><th>Publications</th><td>99</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
+  <tr><th>h-index</th><td>28</td></tr>
+  <tr><th>Citations</th><td>2,968</td></tr>
+  <tr><th>Publications</th><td>124</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2712-2035">ORCID</a> · <a href="https://openalex.org/A5058291586">OpenAlex</a></td></tr>
 </table>
@@ -48,14 +48,14 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Dual-Stage Response Surface Methodology Optimization of Sugarcane Bagasse Biochar Production and Methylene Blue Adsorption](https://openalex.org/W7160612858)<br><small>with Mustafá Tolba</small> | Biochar | 1 |
-| 2025 | [Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst](https://doi.org/10.1039/d5ra04070a)<br><small>RSC Advances · with Mohamed Mohamed Gaber, Arafat Toghan, Mahmoud Samy</small> | Biochar | 10 |
-| 2025 | [Courgette Biochar-Activated Periodate System for Efficient Atrazine Degradation: Optimization, Kinetics, Effect of Coexisting Substances, and Real Wastewater Application](https://doi.org/10.3390/catal15111049)<br><small>Catalysts · with Mohamed Mohamed Gaber, Ashour M. Ahmed, M. Abdel Rafea, Mahmoud Samy, Marwa Elkady</small> | Biochar | 4 |
-| 2024 | [Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system](https://doi.org/10.1016/j.chemosphere.2024.143245)<br><small>Chemosphere · with Mohamed Mohamed Gaber, Mahmoud Samy, Ebtesam El‐Bestawy</small> | Biochar | 25 |
-| 2024 | [Effective degradation of synthetic micropollutants and real textile wastewater via a visible light-activated persulfate system using novel spinach leaf-derived biochar](https://doi.org/10.1007/s11356-024-32829-6)<br><small>Environmental Science and Pollution Research · with Mohamed Mohamed Gaber, Mahmoud Samy</small> | Biochar | 23 |
-| 2024 | [Sustainable utilization of plastic-derived graphene for tetracycline wastewater treatment and its recycling for biogas and biochar production](https://doi.org/10.1016/j.jwpe.2024.106554)<br><small>Journal of Water Process Engineering · with Gideon Mensah-Sackey, [Manabu Fujii](/cdr-researcher-census/researchers/manabu-fujii-a5075901/), [Mahmoud Nasr](/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/)</small> | Biochar | 14 |
-| 2023 | [Effective decontamination of methylene blue from aqueous solutions using novel nano-magnetic biochar from green pea peels](https://doi.org/10.1016/j.envres.2023.115272)<br><small>Environmental Research · with Norbert Onen Rubangakene, Ahmed Elwardany, Hidetoshi Sekiguchi, [Manabu Fujii](/cdr-researcher-census/researchers/manabu-fujii-a5075901/), Marwa Elkady</small> | Biochar | 47 |
+| 2025 | [Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst](https://doi.org/10.1039/d5ra04070a)<br><small>RSC Advances · with Mohamed Mohamed Gaber, Arafat Toghan, Mahmoud Samy</small> | Biochar | 12 |
+| 2025 | [Courgette Biochar-Activated Periodate System for Efficient Atrazine Degradation: Optimization, Kinetics, Effect of Coexisting Substances, and Real Wastewater Application](https://doi.org/10.3390/catal15111049)<br><small>Catalysts · with Mohamed Mohamed Gaber, Ashour M. Ahmed, M. Abdel Rafea, Mahmoud Samy, Marwa Elkady</small> | Biochar | 5 |
+| 2024 | [Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system](https://doi.org/10.1016/j.chemosphere.2024.143245)<br><small>Chemosphere · with Mohamed Mohamed Gaber, Mahmoud Samy, Ebtesam El‐Bestawy</small> | Biochar | 30 |
+| 2024 | [Effective degradation of synthetic micropollutants and real textile wastewater via a visible light-activated persulfate system using novel spinach leaf-derived biochar](https://doi.org/10.1007/s11356-024-32829-6)<br><small>Environmental Science and Pollution Research · with Mohamed Mohamed Gaber, Mahmoud Samy</small> | Biochar | 26 |
+| 2024 | [Sustainable utilization of plastic-derived graphene for tetracycline wastewater treatment and its recycling for biogas and biochar production](https://doi.org/10.1016/j.jwpe.2024.106554)<br><small>Journal of Water Process Engineering · with Gideon Mensah-Sackey, Manabu Fujii, [Mahmoud Nasr](/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/)</small> | Biochar | 14 |
+| 2023 | [Effective decontamination of methylene blue from aqueous solutions using novel nano-magnetic biochar from green pea peels](https://doi.org/10.1016/j.envres.2023.115272)<br><small>Environmental Research · with Norbert Onen Rubangakene, Ahmed Elwardany, Hidetoshi Sekiguchi, Manabu Fujii, Marwa Elkady</small> | Biochar | 47 |
 | 2023 | [Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels](https://openalex.org/W7144427956)<br><small>with 学 藤井, Manabu Fujii</small> | Biochar | 0 |
-| 2022 | [Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels](https://doi.org/10.1016/j.cherd.2022.12.003)<br><small>Process Safety and Environmental Protection · with Norbert Onen Rubangakene, Ahmed Elwardany, Hidetoshi Sekiguchi, [Manabu Fujii](/cdr-researcher-census/researchers/manabu-fujii-a5075901/), Marwa Elkady</small> | Biochar | 119 |
+| 2022 | [Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels](https://doi.org/10.1016/j.cherd.2022.12.003)<br><small>Process Safety and Environmental Protection · with Norbert Onen Rubangakene, Ahmed Elwardany, Hidetoshi Sekiguchi, Manabu Fujii, Marwa Elkady</small> | Biochar | 125 |
 
 ---
 

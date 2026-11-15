@@ -1,7 +1,7 @@
 ---
 title: "Mihrimah Ozkan"
-description: "Mihrimah Ozkan, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 127 by activity, 27 by citations). 193 publications, h-index 45, 6,563 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mihrimah Ozkan, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 127 by activity, 27 by citations). 196 publications, h-index 46, 6,975 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 127 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>45</td></tr>
-  <tr><th>Citations</th><td>6,563</td></tr>
-  <tr><th>Publications</th><td>193</td></tr>
+  <tr><th>h-index</th><td>46</td></tr>
+  <tr><th>Citations</th><td>6,975</td></tr>
+  <tr><th>Publications</th><td>196</td></tr>
   <tr><th>Share of publications on CDR</th><td>3.6%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6224-5703">ORCID</a> · <a href="https://openalex.org/A5039562538">OpenAlex</a></td></tr>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Atmospheric alchemy: The energy and cost dynamics of direct air carbon capture](https://doi.org/10.1557/s43581-024-00091-5)<br><small>MRS Energy & Sustainability</small> | DAC | 75 |
-| 2024 | [Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity](https://doi.org/10.1016/j.isci.2024.109154)<br><small>iScience · with Anvaya B. Narappa, Cengiz S. Ozkan, Jason Chun‐Ho Lam, Joan S.E. Jennings, Kamal R. Talluri, M. K. Gajendra Babu and 6 more</small> | DAC | 73 |
-| 2024 | [Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal](https://doi.org/10.1016/j.chempr.2023.12.015)<br><small>Chem · with Amir Shiner, Nadežda Kongi, Steve Oldham, [T. Alan Hatton](/cdr-researcher-census/researchers/t-alan-hatton-a5046348/), Edward Sanders</small> | DAC; Ocean CDR | 13 |
-| 2023 | [The status quo of DAC projects worldwide](https://doi.org/10.1016/j.chempr.2023.11.004)<br><small>Chem · with Carlos J. Jiménez Haertel, Christoph Beuttler, Claude Letourneau, Matt Atwood, Jillian Evanko</small> | DAC | 10 |
-| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990)<br><small>iScience · with [Anthony D. Ruiz](/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/), [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/), [Wenmei Jiang](/cdr-researcher-census/researchers/wenmei-jiang-a5038647/)</small> | DAC | 351 |
-| 2022 | [Progress in carbon dioxide capture materials for deep decarbonization](https://doi.org/10.1016/j.chempr.2021.12.013)<br><small>Chem · with Amir-Ali Akhavi, Ruoxu Shang, William C. Coley, Yi Ma</small> | Cross-cutting CDR | 123 |
-| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with [Radu Custelcean](/cdr-researcher-census/researchers/radu-custelcean-a5064099/)</small> | DAC | 31 |
+| 2024 | [Atmospheric alchemy: The energy and cost dynamics of direct air carbon capture](https://doi.org/10.1557/s43581-024-00091-5)<br><small>MRS Energy & Sustainability</small> | DAC | 91 |
+| 2024 | [Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity](https://doi.org/10.1016/j.isci.2024.109154)<br><small>iScience · with Anvaya B. Narappa, Cengiz S. Ozkan, Jason Chun‐Ho Lam, Joan S.E. Jennings, Kamal R. Talluri, M. K. Gajendra Babu and 6 more</small> | DAC | 81 |
+| 2024 | [Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal](https://doi.org/10.1016/j.chempr.2023.12.015)<br><small>Chem · with Amir Shiner, Nadežda Kongi, Steve Oldham, [T. Alan Hatton](/cdr-researcher-census/researchers/t-alan-hatton-a5046348/), Edward Sanders</small> | DAC; Ocean CDR | 19 |
+| 2023 | [The status quo of DAC projects worldwide](https://doi.org/10.1016/j.chempr.2023.11.004)<br><small>Chem · with Carlos Härtel, Carlos J. Jiménez Haertel, Christoph Beuttler, Claude Letourneau, Matt Atwood, Jillian Evanko</small> | DAC | 11 |
+| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990)<br><small>iScience · with [Anthony D. Ruiz](/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/), [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/), [Wenmei Jiang](/cdr-researcher-census/researchers/wenmei-jiang-a5038647/)</small> | DAC | 384 |
+| 2022 | [Progress in carbon dioxide capture materials for deep decarbonization](https://doi.org/10.1016/j.chempr.2021.12.013)<br><small>Chem · with Amir-Ali Akhavi, Ruoxu Shang, William C. Coley, Yi Ma</small> | Cross-cutting CDR | 126 |
+| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with [Radu Custelcean](/cdr-researcher-census/researchers/radu-custelcean-a5064099/)</small> | DAC | 34 |
 
 ---
 

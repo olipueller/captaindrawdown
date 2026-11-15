@@ -1,7 +1,7 @@
 ---
 title: "Candelaria Bergero"
-description: "Candelaria Bergero, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 112 by activity, 53 by citations). 28 publications, h-index 9, 783 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Candelaria Bergero, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 112 by activity, 53 by citations). 24 publications, h-index 8, 888 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/candelaria-bergero-a5081360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 112 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 53 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>9</td></tr>
-  <tr><th>Citations</th><td>783</td></tr>
-  <tr><th>Publications</th><td>28</td></tr>
-  <tr><th>Share of publications on CDR</th><td>39.3%</td></tr>
+  <tr><th>h-index</th><td>8</td></tr>
+  <tr><th>Citations</th><td>888</td></tr>
+  <tr><th>Publications</th><td>24</td></tr>
+  <tr><th>Share of publications on CDR</th><td>50.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8937-6367">ORCID</a> · <a href="https://openalex.org/A5081360883">OpenAlex</a></td></tr>
 </table>
@@ -47,15 +47,15 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Residual emissions may perpetuate community-scale inequalities in US air pollution](https://openalex.org/W7166668612)<br><small>with Destenie Nock, [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), Inês L. Azevedo, Jing Cheng, [Morgan R. Edwards](/cdr-researcher-census/researchers/morgan-r-edwards-a5113308/), Qiang Zhang and 2 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Residual emissions may perpetuate community-scale inequalities in US air pollution](https://openalex.org/W7166668612)<br><small>with Destenie Nock, [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), Inês L. Azevedo, Jing Cheng, [Morgan R. Edwards](/cdr-researcher-census/researchers/morgan-r-edwards-a5113308/), Qiang Zhang and 2 more</small> | Cross-cutting CDR | 1 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682)<br><small>preprint · with [Osamu Nishiura](/cdr-researcher-census/researchers/osamu-nishiura-a5037582/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Anne Merfort, [Christoph Bertram](/cdr-researcher-census/researchers/christoph-bertram-a5001104/), Cindy G. Azuero-Pedraza, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/) and 42 more</small> | Cross-cutting CDR | 0 |
 | 2025 | [The climate implications of failing to manage carbon](https://doi.org/10.70212/cdrxiv.2025395.v1)<br><small>preprint · with [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), Emily Grubert, [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), [Zebedee Nicholls](/cdr-researcher-census/researchers/zebedee-nicholls-a5049205/), [Steven J. Davis](/cdr-researcher-census/researchers/steven-j-davis-a5021527/)</small> | DAC | 0 |
 | 2025 | [Residual emissions may perpetuate community-scale inequalities of U.S. air pollution in net-zero scenarios](https://doi.org/10.21203/rs.3.rs-7359464/v1)<br><small>preprint · with Destenie Nock, [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), Inês L. Azevedo, Jing Cheng, Qiang Zhang, [Yang Ou](/cdr-researcher-census/researchers/yang-ou-a5060371/) and 1 more</small> | Cross-cutting CDR | 0 |
-| 2024 | [Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios](https://doi.org/10.1088/1748-9326/ad52ab)<br><small>Environmental Research Letters · with Marshall Wise, Patrick Lamers, Yong Wang, Maridee Weber</small> | Biochar | 27 |
+| 2024 | [Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios](https://doi.org/10.1088/1748-9326/ad52ab)<br><small>Environmental Research Letters · with Marshall Wise, Patrick Lamers, Yong Wang, Maridee Weber</small> | Biochar | 32 |
 | 2024 | [Carbon dioxide removal could perpetuate community-scale inequalities of U.S. air pollution in net-zero scenarios](http://dx.doi.org/10.31223/x5qq7t)<br><small>preprint · with Destenie Nock, [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), Inês L. Azevedo, Jing Cheng, Qiang Zhang, [Yang Ou](/cdr-researcher-census/researchers/yang-ou-a5060371/) and 1 more</small> | Cross-cutting CDR | 0 |
 | 2023 | [Pathways to net-zero emissions from aviation](https://doi.org/10.1038/s41893-022-01046-9)<br><small>Nature Sustainability · with Dolf Gielen, Greer Gosnell, [Morgan Bazilian](/cdr-researcher-census/researchers/morgan-bazilian-a5013688/), Seungwoo Kang, [Steven J. Davis](/cdr-researcher-census/researchers/steven-j-davis-a5021527/)</small> | Cross-cutting CDR | 411 |
-| 2023 | [Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system](https://doi.org/10.1038/s41558-023-01604-9)<br><small>Nature Climate Change · with [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), Andrés F. Clarens, Frances Wang, Maridee Weber, [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), Seth Monteith and 2 more</small> | Cross-cutting CDR | 199 |
-| 2023 | [Deep decarbonization and U.S. biofuels production: a coordinated analysis with a detailed structural model and an integrated multisectoral model](http://dx.doi.org/10.1088/1748-9326/acf146)<br><small>Environmental Research Letters · with Laura Vimmerstedt, Emily Newes, Marshall Wise, Steve Peterson, Swaroop Atnoorkar, Daniel Inman</small> | BECCS | 5 |
+| 2023 | [Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system](https://doi.org/10.1038/s41558-023-01604-9)<br><small>Nature Climate Change · with [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), Andrés F. Clarens, Frances Wang, Maridee Weber, [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), Seth Monteith and 2 more</small> | Cross-cutting CDR | 219 |
+| 2023 | [Deep decarbonization and U.S. biofuels production: a coordinated analysis with a detailed structural model and an integrated multisectoral model](http://dx.doi.org/10.1088/1748-9326/acf146)<br><small>Environmental Research Letters · with Laura Vimmerstedt, Emily Newes, Marshall Wise, Steve Peterson, Swaroop Atnoorkar, Daniel Inman</small> | BECCS | 8 |
 | 2023 | [Diverse carbon dioxide removal approaches could reduce energy-water-land impacts](https://zenodo.org/record/7492895)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), Andrés F. Clarens, Frances Wang, Maridee Weber, [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), Seth Monteith and 2 more</small> | Cross-cutting CDR | 1 |
 | 2022 | [Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands](https://doi.org/10.1016/j.esr.2022.100804)<br><small>Energy Strategy Reviews · with Diego V. Chiappori, Evan Davies, Evan J. Arbuckle, [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), Matthew Binsted and 4 more</small> | DAC | 31 |
 | 2022 | [Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios](https://doi.org/10.21203/rs.3.rs-1805544/v1)<br><small>Research Square (Research Square) (preprint) · with Marshall Wise, Patrick Lamers, Yong Wang, Maridee Weber</small> | Biochar | 10 |

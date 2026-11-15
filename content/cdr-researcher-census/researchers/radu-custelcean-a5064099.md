@@ -1,7 +1,7 @@
 ---
 title: "Radu Custelcean"
-description: "Radu Custelcean, Oak Ridge National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 85 by activity, 105 by citations). 435 publications, h-index 47, 8,842 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Radu Custelcean, Oak Ridge National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 85 by activity, 105 by citations). 446 publications, h-index 48, 9,104 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/radu-custelcean-a5064099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 85 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 105 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>47</td></tr>
-  <tr><th>Citations</th><td>8,842</td></tr>
-  <tr><th>Publications</th><td>435</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.8%</td></tr>
-  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>h-index</th><td>48</td></tr>
+  <tr><th>Citations</th><td>9,104</td></tr>
+  <tr><th>Publications</th><td>446</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0727-7972">ORCID</a> · <a href="https://openalex.org/A5064099131">OpenAlex</a></td></tr>
 </table>
 
@@ -43,18 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 9, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [A surface chemistry perspective on CO 2 direct air capture using liquid sorbents](https://openalex.org/W7223157221)<br><small>with Benjamin Doughty, Jan‐Michael Y. Carrillo, Jeffrey D. Einkauf, Joshua T. Damron, Michelle K. Kidder, Robert Lee Sacci and 7 more</small> | DAC | 0 |
+| 2026 | [Hydrogen-bond dynamics, proton transfer, and water mobility in crystalline guanidinium carbonates for direct air capture](https://openalex.org/W7224550002)<br><small>preprint · with Xiaoping Wang, Debmalya Ray, Jeffrey D. Einkauf, Sylwia Pawlędzio, Thiago Pinheiro dos Santos, Vyacheslav S. Bryantsev</small> | DAC | 0 |
 | 2025 | [Quantum Crystallography combined with Neutron Study: Molecular Insights of Crystal Engineering for Carbon Capture Materials](https://doi.org/10.1063/4.0000367)<br><small>Structural Dynamics · with Sylwia Pawlędzio, Jeffrey D. Einkauf, Xiaoping Wang</small> | DAC | 0 |
 | 2024 | [Direct Air Capture of CO2 via Reactive Crystallization](http://dx.doi.org/10.26434/chemrxiv-2024-d0q28-v2)<br><small>preprint · with Diāna Stamberga, Jeffrey D. Einkauf, Meishen Liu</small> | DAC | 1 |
 | 2024 | [<i>In Silico</i> Screening of CO<sub>2</sub>‐Dipeptide Interactions for Bioinspired Carbon Capture](https://doi.org/10.1002/cphc.202400498)<br><small>ChemPhysChem · with Amarachi G. Sylvanus, Grier M. Jones, Konstantinos D. Vogiatzis</small> | DAC | 1 |
 | 2024 | [Integrated Process for Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt; and Electrochemical Conversion to Ethanol](https://doi.org/10.2172/2333761)<br><small>with Costas Tsouris, USDOE, Brandon Iglesias</small> | DAC | 0 |
 | 2024 | [Effective Direct Steam Regeneration of Solid Sorbent Used for Carbon Capture](http://dx.doi.org/10.2139/ssrn.4820508)<br><small>SSRN Electronic Journal (preprint) · with Gyoung Gug Jang, A. S. Meyer, Abishek Kasturi, Diāna Stamberga, Gang Seob Jung, Costas Tsouris</small> | Cross-cutting CDR | 0 |
-| 2022 | [Direct Air Capture of CO<sub>2</sub>Using Solvents](https://doi.org/10.1146/annurev-chembioeng-092120-023936)<br><small>Annual Review of Chemical and Biomolecular Engineering</small> | DAC | 109 |
-| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/)</small> | DAC | 31 |
-| 2021 | [Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering](https://doi.org/10.1039/d1sc04097a)<br><small>Chemical Science</small> | DAC | 80 |
+| 2022 | [Direct Air Capture of CO<sub>2</sub>Using Solvents](https://doi.org/10.1146/annurev-chembioeng-092120-023936)<br><small>Annual Review of Chemical and Biomolecular Engineering</small> | DAC | 122 |
+| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/)</small> | DAC | 34 |
+| 2021 | [Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering](https://doi.org/10.1039/d1sc04097a)<br><small>Chemical Science</small> | DAC | 84 |
 
 ---
 

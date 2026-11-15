@@ -1,7 +1,7 @@
 ---
 title: "Gert Jan Kramer"
-description: "Gert Jan Kramer, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 2991 by activity, 46 by citations; Europe rank 731 by activity, 28 by citations). 162 publications, h-index 43, 7,729 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Gert Jan Kramer, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 2991 by activity, 46 by citations; Europe rank 731 by activity, 28 by citations). 207 publications, h-index 51, 12,579 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 2991 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 731 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>43</td></tr>
-  <tr><th>Citations</th><td>7,729</td></tr>
-  <tr><th>Publications</th><td>162</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
+  <tr><th>h-index</th><td>51</td></tr>
+  <tr><th>Citations</th><td>12,579</td></tr>
+  <tr><th>Publications</th><td>207</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8983-4516">ORCID</a> · <a href="https://openalex.org/A5057459338">OpenAlex</a></td></tr>
 </table>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2024 | [How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?](https://doi.org/10.1021/acs.energyfuels.4c01156)<br><small>Energy & Fuels · with [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 18 |
-| 2021 | [A comparative energy and costs assessment and optimization for direct air capture technologies](https://doi.org/10.1016/j.joule.2021.05.023)<br><small>Joule · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/), [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/), [M. van Sint Annaland](/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 432 |
+| 2021 | [A comparative energy and costs assessment and optimization for direct air capture technologies](https://doi.org/10.1016/j.joule.2021.05.023)<br><small>Joule · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/), [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/), [M. van Sint Annaland](/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 449 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Carlos M. Duarte"
-description: "Carlos M. Duarte, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 948 by activity, 74 by citations). 1765 publications, h-index 179, 151,300 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Carlos M. Duarte, King Abdullah University of Science and Technology, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 948 by activity, 74 by citations). 1595 publications, h-index 181, 157,864 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/carlos-m-duarte-a5087569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/carlos-m-duarte-a5087569/",
   "affiliation": {
     "@type": "Organization",
-    "name": "King Abdullah University of Science and Technology (KAUST)"
+    "name": "King Abdullah University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1213-1361",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>King Abdullah University of Science and Technology (KAUST)</td></tr>
+  <tr><th>Institution</th><td>King Abdullah University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 948 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>179</td></tr>
-  <tr><th>Citations</th><td>151,300</td></tr>
-  <tr><th>Publications</th><td>1765</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.3%</td></tr>
+  <tr><th>h-index</th><td>181</td></tr>
+  <tr><th>Citations</th><td>157,864</td></tr>
+  <tr><th>Publications</th><td>1595</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1213-1361">ORCID</a> · <a href="https://openalex.org/A5087569260">OpenAlex</a></td></tr>
 </table>
@@ -48,8 +48,8 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2025 | [A critical analysis of marine carbon sequestration opportunities in South Korea](https://doi.org/10.1371/journal.pclm.0000591)<br><small>PLOS Climate · with [Peter I. Macreadie](/cdr-researcher-census/researchers/peter-i-macreadie-a5020824/), Finnley Ross, Ji Won Hong, Ho‐Sung Yoon</small> | Ocean CDR | 7 |
-| 2022 | [Sinking seaweed in the deep ocean for carbon neutrality is ahead of science and beyond the ethics](https://doi.org/10.1088/1748-9326/ac82ff)<br><small>Environmental Research Letters · with Aurora M. Ricart, Dorte Krause‐Jensen, Kasper Hancke, Nichole N. Price, [Pere Masqué](/cdr-researcher-census/researchers/pere-masque-a5011255/)</small> | Ocean CDR | 75 |
-| 2021 | [The Potential for Ocean-Based Climate Action: Negative Emissions Technologies and Beyond](https://doi.org/10.3389/fclim.2020.575716)<br><small>Frontiers in Climate · with [Jean‐Pierre Gattuso](/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/), [Phillip Williamson](/cdr-researcher-census/researchers/phillip-williamson-a5039444/), Alexandre Magnan</small> | Ocean CDR | 141 |
+| 2022 | [Sinking seaweed in the deep ocean for carbon neutrality is ahead of science and beyond the ethics](https://doi.org/10.1088/1748-9326/ac82ff)<br><small>Environmental Research Letters · with Aurora M. Ricart, Dorte Krause‐Jensen, Kasper Hancke, Nichole N. Price, [Pere Masqué](/cdr-researcher-census/researchers/pere-masque-a5011255/)</small> | Ocean CDR | 79 |
+| 2021 | [The Potential for Ocean-Based Climate Action: Negative Emissions Technologies and Beyond](https://doi.org/10.3389/fclim.2020.575716)<br><small>Frontiers in Climate · with [Jean‐Pierre Gattuso](/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/), [Phillip Williamson](/cdr-researcher-census/researchers/phillip-williamson-a5039444/), Alexandre Magnan</small> | Ocean CDR | 158 |
 
 ---
 

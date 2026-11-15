@@ -1,7 +1,7 @@
 ---
 title: "M. van Sint Annaland"
-description: "M. van Sint Annaland, Eindhoven University of Technology, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 926 by activity, 31 by citations; Europe rank 298 by activity, 23 by citations). 566 publications, h-index 71, 19,728 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "M. van Sint Annaland, Eindhoven University of Technology, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 926 by activity, 31 by citations; Europe rank 298 by activity, 23 by citations). 550 publications, h-index 72, 20,378 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 926 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 31 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 298 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>71</td></tr>
-  <tr><th>Citations</th><td>19,728</td></tr>
-  <tr><th>Publications</th><td>566</td></tr>
+  <tr><th>h-index</th><td>72</td></tr>
+  <tr><th>Citations</th><td>20,378</td></tr>
+  <tr><th>Publications</th><td>550</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2903-7443">ORCID</a> · <a href="https://openalex.org/A5028427879">OpenAlex</a></td></tr>
@@ -48,9 +48,9 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2024 | [Design and Development of Integrated Direct Air Capture and Methanation Processes](https://doi.org/10.1002/cite.202400076)<br><small>Chemie Ingenieur Technik · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), Ivo Roghair, Mattia Galanti</small> | DAC | 7 |
-| 2022 | [Modeling, Optimization, and Techno-Economic Analysis of Bipolar Membrane Electrodialysis for Direct Air Capture Processes](https://doi.org/10.1021/acs.iecr.2c00889)<br><small>Industrial & Engineering Chemistry Research · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 70 |
-| 2021 | [A comparative energy and costs assessment and optimization for direct air capture technologies](https://doi.org/10.1016/j.joule.2021.05.023)<br><small>Joule · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/), [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/), [Gert Jan Kramer](/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 432 |
-| 2021 | [Separation enhanced methanol and dimethyl ether synthesis](https://resolver.tno.nl/uuid:8a626e30-d2ff-4f94-932c-1204022d3d53)<br><small>TNO Repository · with J. van Kampen, J. de Boon</small> | Cross-cutting CDR | 0 |
+| 2022 | [Modeling, Optimization, and Techno-Economic Analysis of Bipolar Membrane Electrodialysis for Direct Air Capture Processes](https://doi.org/10.1021/acs.iecr.2c00889)<br><small>Industrial & Engineering Chemistry Research · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 72 |
+| 2021 | [A comparative energy and costs assessment and optimization for direct air capture technologies](https://doi.org/10.1016/j.joule.2021.05.023)<br><small>Joule · with [Francesco Sabatino](/cdr-researcher-census/researchers/francesco-sabatino-a5010085/), [Alexa Grimm](/cdr-researcher-census/researchers/alexa-grimm-a5103982/), [Fausto Gallucci](/cdr-researcher-census/researchers/fausto-gallucci-a5085988/), [Gert Jan Kramer](/cdr-researcher-census/researchers/gert-jan-kramer-a5057459/), [Matteo Gazzani](/cdr-researcher-census/researchers/matteo-gazzani-a5040380/)</small> | DAC | 449 |
+| 2021 | [Separation enhanced methanol and dimethyl ether synthesis](https://resolver.tno.nl/uuid:8a626e30-d2ff-4f94-932c-1204022d3d53)<br><small>TNO Repository · with Jasper van Kampen, J. de Boon</small> | Cross-cutting CDR | 0 |
 
 ---
 

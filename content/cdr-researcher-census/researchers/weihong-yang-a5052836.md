@@ -1,7 +1,7 @@
 ---
 title: "Weihong Yang"
 description: "Weihong Yang, KTH Royal Institute of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 296 by activity, 43 by citations; Europe rank 175 by activity, 16 by citations). 328 publications, h-index 59, 11,354 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/weihong-yang-a5052836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Decarbonising the iron and steel industries: Production of carbon-negative direct reduced iron by using biosyngas](https://doi.org/10.1016/j.enconman.2023.116806)<br><small>Energy Conversion and Management · with [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/), Anissa Nurdiawati, Henrik Thunman, Joel Gustavsson, Peter Samuelsson, Rutger Gyllenram and 1 more</small> | BECCS | 57 |
-| 2022 | [Reforming processes for syngas production: A mini-review on the current status, challenges, and prospects for biomass conversion to fuels](https://doi.org/10.1016/j.jaecs.2022.100064)<br><small>Applications in Energy and Combustion Science · with José Juan Bolívar Caballero, [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/)</small> | BECCS | 137 |
-| 2022 | [Renewable hydrogen production from the organic fraction of municipal solid waste through a novel carbon-negative process concept](https://doi.org/10.1016/j.energy.2022.124056)<br><small>Energy · with Shule Wang, Hanmin Yang, [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/), Jianchun Jiang, Pär G. Jönsson, Yuming Wen and 1 more</small> | BECCS | 39 |
-| 2021 | [Novel carbon-negative methane production via integrating anaerobic digestion and pyrolysis of organic fraction of municipal solid waste](https://doi.org/10.1016/j.enconman.2021.115042)<br><small>Energy Conversion and Management · with Shule Wang, [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/), Pär G. Jönsson, Yuming Wen, Ziyi Shi</small> | BECCS | 45 |
+| 2023 | [Decarbonising the iron and steel industries: Production of carbon-negative direct reduced iron by using biosyngas](https://doi.org/10.1016/j.enconman.2023.116806)<br><small>Energy Conversion and Management · with [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/), Anissa Nurdiawati, Henrik Thunman, Joel Gustavsson, Peter Samuelsson, Rutger Gyllenram and 1 more</small> | BECCS | 61 |
+| 2022 | [Reforming processes for syngas production: A mini-review on the current status, challenges, and prospects for biomass conversion to fuels](https://doi.org/10.1016/j.jaecs.2022.100064)<br><small>Applications in Energy and Combustion Science · with José Juan Bolívar Caballero, [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/)</small> | BECCS | 151 |
+| 2022 | [Renewable hydrogen production from the organic fraction of municipal solid waste through a novel carbon-negative process concept](https://doi.org/10.1016/j.energy.2022.124056)<br><small>Energy · with Shule Wang, Hanmin Yang, [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/), Jianchun Jiang, Pär G. Jönsson, Yuming Wen and 1 more</small> | BECCS | 40 |
+| 2021 | [Novel carbon-negative methane production via integrating anaerobic digestion and pyrolysis of organic fraction of municipal solid waste](https://doi.org/10.1016/j.enconman.2021.115042)<br><small>Energy Conversion and Management · with Shule Wang, [Ilman Nuran Zaini](/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/), Pär G. Jönsson, Yuming Wen, Ziyi Shi</small> | BECCS | 46 |
 
 ---
 

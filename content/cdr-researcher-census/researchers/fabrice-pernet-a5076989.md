@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
-description: "Fabrice Pernet, Ifremer Centre de Bretagne, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 54 by activity, 1814 by citations; Europe rank 33 by activity, 553 by citations). 160 publications, h-index 44, 4,754 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Fabrice Pernet, Ifremer Centre de Bretagne, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 54 by activity, 1814 by citations; Europe rank 33 by activity, 553 by citations). 197 publications, h-index 46, 5,248 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 54 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1814 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 33 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 553 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>44</td></tr>
-  <tr><th>Citations</th><td>4,754</td></tr>
-  <tr><th>Publications</th><td>160</td></tr>
-  <tr><th>Share of publications on CDR</th><td>5.0%</td></tr>
+  <tr><th>h-index</th><td>46</td></tr>
+  <tr><th>Citations</th><td>5,248</td></tr>
+  <tr><th>Publications</th><td>197</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.1%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8886-0184">ORCID</a> · <a href="https://openalex.org/A5076989218">OpenAlex</a></td></tr>
 </table>
@@ -49,8 +49,8 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation](https://doi.org/10.1073/pnas.2533459123)<br><small>Proceedings of the National Academy of Sciences · with Christopher J. Gobler, [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/), [Frédéric Gazeau](/cdr-researcher-census/researchers/frederic-gazeau-a5039141/), [Jean‐Pierre Gattuso](/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/), Marc Métian, Nicolas Metzl and 4 more</small> | Ocean CDR | 4 |
 | 2026 | [Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement](https://doi.org/10.1093/icesjms/fsag011)<br><small>ICES Journal of Marine Science · with [Frédéric Gazeau](/cdr-researcher-census/researchers/frederic-gazeau-a5039141/), Hugo Koechlin, Luna Ducoulombier, C. A. Miller</small> | Ocean CDR | 2 |
+| 2026 | [A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy](https://openalex.org/W7160296054)<br><small>with [Phillip Williamson](/cdr-researcher-census/researchers/phillip-williamson-a5039444/), [Frédéric Gazeau](/cdr-researcher-census/researchers/frederic-gazeau-a5039141/)</small> | Ocean CDR | 2 |
 | 2026 | [Three challenges to marine carbon dioxide removal](https://openalex.org/W7161979500)<br><small>with Victor Brun, Chris Bowler, [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), Hans-O. Pörtner, Hans‐Otto Pörtner, [Helen S. Findlay](/cdr-researcher-census/researchers/helen-s-findlay-a5034359/) and 14 more</small> | Ocean CDR | 2 |
-| 2026 | [A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy](https://openalex.org/W7160296054)<br><small>with [Phillip Williamson](/cdr-researcher-census/researchers/phillip-williamson-a5039444/), [Frédéric Gazeau](/cdr-researcher-census/researchers/frederic-gazeau-a5039141/)</small> | Ocean CDR | 1 |
 | 2026 | [Alkaline mineral dissolution can impair embryonic development in the Pacific oyster (Magallana gigas), raising caution for ocean alkalinity enhancement](https://openalex.org/W7149234278)<br><small>with C. A. Miller, [Frédéric Gazeau](/cdr-researcher-census/researchers/frederic-gazeau-a5039141/), Geochemistry, Hugo Koechlin, Luna Ducoulombier, Research Programme in Earth Sciences Utrecht (DES / IVAU) and 2 more</small> | Ocean CDR | 0 |
 | 2026 | [Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments](https://openalex.org/W7164188186)<br><small>with [Sonja Geilert](/cdr-researcher-census/researchers/sonja-geilert-a5043903/), Andre Baldermann, Jessica Volz, Lucille Hoogerdijk, Mariëtte Wolthers, Yasmina Ben Hammou Abboud and 1 more</small> | Enhanced Weathering; Ocean CDR | 0 |
 | 2025 | [The alkalinity generation potential of olivine and oyster shell for laboratory experiments: testing the effects of ocean alkalinity enhancement](https://doi.org/10.1088/2515-7620/adf0cd)<br><small>Environmental Research Communications · with C. A. Miller</small> | Ocean CDR | 3 |

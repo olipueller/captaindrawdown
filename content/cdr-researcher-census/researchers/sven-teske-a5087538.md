@@ -1,7 +1,7 @@
 ---
 title: "Sven Teske"
-description: "Sven Teske, University of Technology Sydney, Australia. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10639 by activity, 71 by citations). 127 publications, h-index 20, 2,150 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sven Teske, University of Technology Sydney, Australia. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10639 by activity, 71 by citations). 165 publications, h-index 21, 2,510 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sven-teske-a5087538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10639 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 71 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>20</td></tr>
-  <tr><th>Citations</th><td>2,150</td></tr>
-  <tr><th>Publications</th><td>127</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.8%</td></tr>
+  <tr><th>h-index</th><td>21</td></tr>
+  <tr><th>Citations</th><td>2,510</td></tr>
+  <tr><th>Publications</th><td>165</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9582-2469">ORCID</a> · <a href="https://openalex.org/A5087538924">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 588 |
+| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 644 |
 
 ---
 

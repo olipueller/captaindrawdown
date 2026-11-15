@@ -1,7 +1,7 @@
 ---
 title: "Qianni Shao"
-description: "Qianni Shao, Anhui University of Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23846 by activity, 46 by citations). 3 publications, h-index 3, 781 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Qianni Shao, Anhui University of Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23846 by activity, 46 by citations). 3 publications, h-index 3, 823 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/qianni-shao-a5051411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23846 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
-  <tr><th>Citations</th><td>781</td></tr>
+  <tr><th>Citations</th><td>823</td></tr>
   <tr><th>Publications</th><td>3</td></tr>
   <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Application of biochar for the adsorption of organic pollutants from wastewater: Modification strategies, mechanisms and challenges](https://doi.org/10.1016/j.seppur.2022.121925)<br><small>Separation and Purification Technology · with [Bingbing Qiu](/cdr-researcher-census/researchers/bingbing-qiu-a5074678/), [Chen-Hao Yang](/cdr-researcher-census/researchers/chen-hao-yang-a5113654/), [Jicheng Shi](/cdr-researcher-census/researchers/jicheng-shi-a5100301/), [Huaqiang Chu](/cdr-researcher-census/researchers/huaqiang-chu-a5100743/)</small> | Biochar | 649 |
+| 2022 | [Application of biochar for the adsorption of organic pollutants from wastewater: Modification strategies, mechanisms and challenges](https://doi.org/10.1016/j.seppur.2022.121925)<br><small>Separation and Purification Technology · with [Bingbing Qiu](/cdr-researcher-census/researchers/bingbing-qiu-a5074678/), [Chen-Hao Yang](/cdr-researcher-census/researchers/chen-hao-yang-a5113654/), [Jicheng Shi](/cdr-researcher-census/researchers/jicheng-shi-a5100301/), [Huaqiang Chu](/cdr-researcher-census/researchers/huaqiang-chu-a5100743/)</small> | Biochar | 675 |
 
 ---
 

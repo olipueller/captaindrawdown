@@ -1,7 +1,7 @@
 ---
 title: "Zhiyu Wei"
-description: "Zhiyu Wei, Huazhong University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3806 by activity, 20 by citations). 3 publications, h-index 3, 468 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Zhiyu Wei, China-EU Institute for Clean and Renewable Energy, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3806 by activity, 20 by citations). 3 publications, h-index 3, 481 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/zhiyu-wei-a5014773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,20 +16,20 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhiyu-wei-a5014773/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Huazhong University of Science and Technology"
+    "name": "China-EU Institute for Clean and Renewable Energy"
   },
   "sameAs": "https://openalex.org/A5014773948"
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Huazhong University of Science and Technology</td></tr>
+  <tr><th>Institution</th><td>China-EU Institute for Clean and Renewable Energy</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3806 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 20 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
-  <tr><th>Citations</th><td>468</td></tr>
+  <tr><th>Citations</th><td>481</td></tr>
   <tr><th>Publications</th><td>3</td></tr>
   <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z)<br><small>Nature Communications · with [Qing Yang](/cdr-researcher-census/researchers/qing-yang-a5100605/), [Chris Nielsen](/cdr-researcher-census/researchers/chris-nielsen-a5047617/), [Chuguang Zheng](/cdr-researcher-census/researchers/chuguang-zheng-a5100294/), [Foster A. Agblevor](/cdr-researcher-census/researchers/foster-a-agblevor-a5001408/), [Francesco Fantozzi](/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/), [G.Q. Chen](/cdr-researcher-census/researchers/gq-chen-a5057491/) and 7 more</small> | BECCS | 402 |
+| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z)<br><small>Nature Communications · with [Qing Yang](/cdr-researcher-census/researchers/qing-yang-a5100605/), [Chris Nielsen](/cdr-researcher-census/researchers/chris-nielsen-a5047617/), [Chuguang Zheng](/cdr-researcher-census/researchers/chuguang-zheng-a5100294/), [Foster A. Agblevor](/cdr-researcher-census/researchers/foster-a-agblevor-a5001408/), [Francesco Fantozzi](/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/), [G.Q. Chen](/cdr-researcher-census/researchers/gq-chen-a5057491/) and 7 more</small> | BECCS | 406 |
 
 ---
 

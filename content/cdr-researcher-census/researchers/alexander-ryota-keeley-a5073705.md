@@ -1,7 +1,7 @@
 ---
 title: "Alexander Ryota Keeley"
-description: "Alexander Ryota Keeley, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 63 by activity, 1349 by citations). 81 publications, h-index 21, 2,250 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Alexander Ryota Keeley, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 63 by activity, 1349 by citations). 89 publications, h-index 22, 2,611 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 63 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1349 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>21</td></tr>
-  <tr><th>Citations</th><td>2,250</td></tr>
-  <tr><th>Publications</th><td>81</td></tr>
-  <tr><th>Share of publications on CDR</th><td>6.2%</td></tr>
+  <tr><th>h-index</th><td>22</td></tr>
+  <tr><th>Citations</th><td>2,611</td></tr>
+  <tr><th>Publications</th><td>89</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8578-6297">ORCID</a> · <a href="https://openalex.org/A5073705863">OpenAlex</a></td></tr>
 </table>
@@ -48,10 +48,10 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Renewable energy vs. direct air capture and utilization at the macroeconomic level: A Computable General Equilibruim analysis in Japan](https://doi.org/10.1016/j.jclepro.2026.147536)<br><small>Journal of Cleaner Production · with Bin Shi, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 1 |
-| 2026 | [Scalable carbon solutions: life cycle insights and public willingness to adopt direct air capture and utilization systems](https://openalex.org/W7161836448)<br><small>with [Andrew Chapman](/cdr-researcher-census/researchers/andrew-chapman-a5018157/), Dyah Ika Rinawati, Junya Kumagai, Kenichi Kurita, Sunbin Yoo, Tianhui Fan and 1 more</small> | DAC | 0 |
-| 2025 | [Psychological and socio-economic drivers of public acceptance for direct air capture and utilization technology](https://doi.org/10.1016/j.jclepro.2025.145962)<br><small>Journal of Cleaner Production · with [Andrew Chapman](/cdr-researcher-census/researchers/andrew-chapman-a5018157/), Kyomyoung Koo, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 6 |
-| 2024 | [The nexus between direct air capture technology and CO2 emissions in the transport sector](https://doi.org/10.1016/j.apenergy.2024.123112)<br><small>Applied Energy · with Emre Ünal, [Andrew Chapman](/cdr-researcher-census/researchers/andrew-chapman-a5018157/), Nezir Köse, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 6 |
-| 2024 | [Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation](https://doi.org/10.21203/rs.3.rs-3892596/v1)<br><small>preprint · with [Andrew Chapman](/cdr-researcher-census/researchers/andrew-chapman-a5018157/), Dyah Ika Rinawati, Junya Kumagai, Kenichi Kurita, Sunbin Yoo, Tianhui Fan and 1 more</small> | DAC | 0 |
+| 2026 | [Scalable carbon solutions: life cycle insights and public willingness to adopt direct air capture and utilization systems](https://openalex.org/W7161836448)<br><small>with Andrew Chapman, Dyah Ika Rinawati, Junya Kumagai, Kenichi Kurita, Sunbin Yoo, Tianhui Fan and 1 more</small> | DAC | 0 |
+| 2025 | [Psychological and socio-economic drivers of public acceptance for direct air capture and utilization technology](https://doi.org/10.1016/j.jclepro.2025.145962)<br><small>Journal of Cleaner Production · with Andrew Chapman, Kyomyoung Koo, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 7 |
+| 2024 | [The nexus between direct air capture technology and CO2 emissions in the transport sector](https://doi.org/10.1016/j.apenergy.2024.123112)<br><small>Applied Energy · with Emre Ünal, Andrew Chapman, Nezir Köse, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 8 |
+| 2024 | [Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation](https://doi.org/10.21203/rs.3.rs-3892596/v1)<br><small>preprint · with Andrew Chapman, Dyah Ika Rinawati, Junya Kumagai, Kenichi Kurita, Sunbin Yoo, Tianhui Fan and 1 more</small> | DAC | 0 |
 
 ---
 

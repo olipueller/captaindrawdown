@@ -1,6 +1,6 @@
 ---
 title: "CDR Company Directory — Data"
-description: "913 published carbon removal companies as CSV and JSON, versioned monthly, CC BY-NC-SA 4.0."
+description: "911 published carbon removal companies as CSV and JSON, versioned monthly, CC BY-NC-SA 4.0."
 url: "/data/companies/"
 ---
 
@@ -29,8 +29,8 @@ url: "/data/companies/"
       }
     }
   ],
-  "version": "2026-11.4",
-  "dateModified": "2026-11-05",
+  "version": "2026-11",
+  "dateModified": "2026-11-15",
   "keywords": [
     "carbon dioxide removal",
     "CDR",
@@ -45,21 +45,21 @@ url: "/data/companies/"
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.4/companies.csv"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11/companies.csv"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/json",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.4/companies.json"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11/companies.json"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/zip",
-      "contentUrl": "https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip"
+      "contentUrl": "https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11/captaindrawdown-data-2026-11.zip"
     }
   ],
   "sameAs": [
-    "https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4"
+    "https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11"
   ]
 }
 </script>
@@ -67,28 +67,28 @@ url: "/data/companies/"
 <div class="cd-split">
 <div class="cd-main">
 
-**913 published companies** in release 2026-11.4 (data as of 2026-11-05), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review, academic institutions and companies whose only pathway is afforestation stay in the database but are not published. 403 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
+**911 published companies** in release 2026-11 (data as of 2026-11-15), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review, academic institutions, companies whose only pathway is afforestation, and companies whose captured carbon goes back into the atmosphere (CO2 for fuels, greenhouses, beverages or food) stay in the database but are not published. 405 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
 
 <div class="cd-tables">
 
 | Region | Companies |
 |---|---|
 | United States | 273 |
-| EU27 | 246 |
+| EU27 | 248 |
 | Europe (non-EU) | 157 |
 | Rest of world | 107 |
 | Canada | 56 |
 | India | 27 |
 | Australia & New Zealand | 23 |
-| Japan | 10 |
-| China | 9 |
-| Unknown | 5 |
+| China | 8 |
+| Japan | 8 |
+| Unknown | 4 |
 
 | Primary pathway | Companies |
 |---|---|
-| Biochar | 377 |
+| Biochar | 378 |
 | Enabling Tech | 179 |
-| DAC | 125 |
+| DAC | 122 |
 | BECCS | 84 |
 | Mineralization | 42 |
 | Ocean CDR | 42 |
@@ -98,16 +98,16 @@ url: "/data/companies/"
 </div>
 
 </div>
-<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">913</span><span class="lbl">published companies</span><h4>Download</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4">GitHub folder</a> · <a href="https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip">zip</a></li><li>companies: <a href="/data/v1/2026-11.4/companies.csv">CSV</a> · <a href="/data/v1/2026-11.4/companies.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="lic">CC BY-NC-SA 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957359</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957359">10.5281/zenodo.23957359</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957358">10.5281/zenodo.23957358</a></small></p><h4>Use the data</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases">GitHub repository</a></li><li><a href="/api/v1/companies.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11 · data as of 2026-11-15</p><span class="num">911</span><span class="lbl">published companies</span><h4>Download</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11">GitHub folder</a> · <a href="https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11/captaindrawdown-data-2026-11.zip">zip</a></li><li>companies: <a href="/data/v1/2026-11/companies.csv">CSV</a> · <a href="/data/v1/2026-11/companies.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="lic">CC BY-NC-SA 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957359</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957359">10.5281/zenodo.23957359</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957358">10.5281/zenodo.23957358</a></small></p><h4>Use the data</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases">GitHub repository</a></li><li><a href="/api/v1/companies.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory">Hugging Face</a></li><li><a href="/data/v1/2026-11/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
 </div>
 
 ## Download
 
-All files of release 2026-11.4 on GitHub: [folder `v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4) · [one zip](https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.4/captaindrawdown-data-2026-11.4.zip) · [manifest](/data/v1/2026-11.4/manifest.json). The links below are the same files served by this site.
+All files of release 2026-11 on GitHub: [folder `v1/2026-11/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11) · [one zip](https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11/captaindrawdown-data-2026-11.zip) · [manifest](/data/v1/2026-11/manifest.json). The links below are the same files served by this site.
 
 | File | Rows | Size | Format |
 |---|---|---|---|
-| companies | 913 | 680 KB | [CSV](/data/v1/2026-11.4/companies.csv) · [JSON](/data/v1/2026-11.4/companies.json) |
+| companies | 911 | 679 KB | [CSV](/data/v1/2026-11/companies.csv) · [JSON](/data/v1/2026-11/companies.json) |
 
 ## Fields
 
@@ -126,13 +126,13 @@ The directory started from Grant Faber's public list of CDR companies (January 2
 
 ## Versions
 
-This page describes release **2026-11.4** (data as of 2026-11-05). Every release is a folder in the public GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) ([`v1/2026-11.4/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.4), the newest also under `v1/latest/`) and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11.4) with everything as one zip; this site serves the same files under `/data/v1/2026-11.4/` and [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11.4/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/), and issues can be opened on GitHub.
+This page describes release **2026-11** (data as of 2026-11-15). Every release is a folder in the public GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) ([`v1/2026-11/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11), the newest also under `v1/latest/`) and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11) with everything as one zip; this site serves the same files under `/data/v1/2026-11/` and [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/), and issues can be opened on GitHub.
 
 ## Licence and citation
 
 Licence: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). DOI: [10.5281/zenodo.23957359](https://doi.org/10.5281/zenodo.23957359) (Zenodo, one DOI for all versions). Cite as:
 
-> Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957359
+> Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957359
 
 ## Corrections and removal
 

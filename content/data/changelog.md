@@ -8,6 +8,10 @@ Newest first. A release covers all three datasets and stays available as a folde
 
 | Date | Version | Dataset | What changed |
 |---|---|---|---|
+| 2026-11-15 | 2026-11 | All | Release 2026-11: 911 published companies (1,470 active), 57,175 researchers (calibrated estimate 53,199), 14 shops; 6 pathway top lists. |
+| 2026-11-15 | 2026-11 | Companies | First release: 911 published companies from 66 countries; largest pathways Biochar 378, Enabling Tech 179, DAC 122, BECCS 84. |
+| 2026-11-15 | 2026-11 | Researchers | First release: 57,175 researchers listed (calibrated estimate 53,199) from 16,488 papers; 6 pathway top lists. |
+| 2026-11-15 | 2026-11 | Shops | First release: 14 shops with a live checkout and third-party certification; prices in per tonne CO₂. |
 | 2026-11-05 | 2026-11.4 | All | Release 2026-11.4, the first public release (5 November 2026): 913 published companies (1,470 monitored), 55,865 researchers (calibrated estimate 51,946), 14 shops; six pathway top lists, two lists each (most active, most cited).<br>Scope: high-permanence pathways only. Soil carbon research is not published (it held 42,911 of the 95,329 researchers listed internally in October, mostly agricultural soil science); General CDR counts a paper only when it carries no other pathway tag and is labelled Cross-cutting CDR; companies whose only pathway is afforestation are not published. |
 | 2026-11-05 | 2026-11.4 | Companies | First release: 913 published companies from 65 countries; largest pathways Biochar 377, Enabling Tech 179, DAC 125, BECCS 84. |
 | 2026-11-05 | 2026-11.4 | Researchers | First release: 55,865 researchers listed (calibrated estimate 51,946) from 15,896 papers; 6 pathway top lists. |

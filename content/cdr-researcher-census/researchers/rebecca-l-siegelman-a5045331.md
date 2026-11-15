@@ -1,7 +1,7 @@
 ---
 title: "Rebecca L. Siegelman"
-description: "Rebecca L. Siegelman, University of California Berkeley, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11976 by activity, 39 by citations). 67 publications, h-index 23, 3,830 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Rebecca L. Siegelman, University of California Berkeley, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11976 by activity, 39 by citations). 76 publications, h-index 23, 3,914 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/rebecca-l-siegelman-a5045331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 11976 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 39 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
-  <tr><th>Citations</th><td>3,830</td></tr>
-  <tr><th>Publications</th><td>67</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.5%</td></tr>
+  <tr><th>Citations</th><td>3,914</td></tr>
+  <tr><th>Publications</th><td>76</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4249-6118">ORCID</a> · <a href="https://openalex.org/A5045331909">OpenAlex</a></td></tr>
 </table>

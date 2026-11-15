@@ -1,7 +1,7 @@
 ---
 title: "Marta Camps Arbestain"
-description: "Marta Camps Arbestain, Massey University, New Zealand. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3980 by activity, 13 by citations). 196 publications, h-index 34, 7,055 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Marta Camps Arbestain, Massey University, New Zealand. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3980 by activity, 13 by citations). 208 publications, h-index 37, 10,302 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 3980 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 13 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>34</td></tr>
-  <tr><th>Citations</th><td>7,055</td></tr>
-  <tr><th>Publications</th><td>196</td></tr>
+  <tr><th>h-index</th><td>37</td></tr>
+  <tr><th>Citations</th><td>10,302</td></tr>
+  <tr><th>Publications</th><td>208</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5354-2087">ORCID</a> · <a href="https://openalex.org/A5001884455">OpenAlex</a></td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Assessment and integration of different methodologies for the characterisation of carbon aromaticity and structure in biochar](https://doi.org/10.1016/j.coal.2025.104925)<br><small>International Journal of Coal Geology · with K. Alami Sounni, Christopher J. Tighe, Joeri Kaal, Maria‐Magdalena Titirici, G. Siavalas</small> | Biochar | 2 |
-| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/) and 2 more</small> | Biochar | 949 |
+| 2025 | [Assessment and integration of different methodologies for the characterisation of carbon aromaticity and structure in biochar](https://doi.org/10.1016/j.coal.2025.104925)<br><small>International Journal of Coal Geology · with K. Alami Sounni, Christopher J. Tighe, Joeri Kaal, Maria‐Magdalena Titirici, G. Siavalas</small> | Biochar | 5 |
+| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/) and 2 more</small> | Biochar | 1,051 |
 
 ---
 

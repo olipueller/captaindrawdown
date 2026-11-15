@@ -1,7 +1,7 @@
 ---
 title: "Steve Griffiths"
-description: "Steve Griffiths, American University of Sharjah, United Arab Emirates. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4988 by activity, 44 by citations). 109 publications, h-index 37, 6,591 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Steve Griffiths, American University of Sharjah, United Arab Emirates. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4988 by activity, 44 by citations). 95 publications, h-index 37, 7,327 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/steve-griffiths-a5083495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 4988 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>37</td></tr>
-  <tr><th>Citations</th><td>6,591</td></tr>
-  <tr><th>Publications</th><td>109</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.9%</td></tr>
+  <tr><th>Citations</th><td>7,327</td></tr>
+  <tr><th>Publications</th><td>95</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.1%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9593-4724">ORCID</a> · <a href="https://openalex.org/A5083495826">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world](https://doi.org/10.1016/j.rser.2023.113215)<br><small>Renewable and Sustainable Energy Reviews · with [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/), [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/), [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/), [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) and 2 more</small> | DAC | 453 |
+| 2023 | [Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world](https://doi.org/10.1016/j.rser.2023.113215)<br><small>Renewable and Sustainable Energy Reviews · with [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/), [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/), [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/), [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) and 2 more</small> | DAC | 490 |
 
 ---
 

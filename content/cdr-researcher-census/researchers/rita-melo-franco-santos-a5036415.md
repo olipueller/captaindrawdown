@@ -1,7 +1,7 @@
 ---
 title: "Rita Melo Franco-Santos"
-description: "Rita Melo Franco-Santos, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4392 by activity, 87 by citations). 32 publications, h-index 10, 1,083 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Rita Melo Franco-Santos, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4392 by activity, 87 by citations). 54 publications, h-index 10, 1,146 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4392 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
-  <tr><th>Citations</th><td>1,083</td></tr>
-  <tr><th>Publications</th><td>32</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.1%</td></tr>
+  <tr><th>Citations</th><td>1,146</td></tr>
+  <tr><th>Publications</th><td>54</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7846-3425">ORCID</a> · <a href="https://openalex.org/A5036415586">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review](https://doi.org/10.1111/brv.12990)<br><small>Biological reviews/Biological reviews of the Cambridge Philosophical Society · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/), [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/) and 1 more</small> | Ocean CDR | 179 |
+| 2023 | [Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review](https://doi.org/10.1111/brv.12990)<br><small>Biological reviews/Biological reviews of the Cambridge Philosophical Society · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Jennifer Howard](/cdr-researcher-census/researchers/jennifer-howard-a5029102/), [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/) and 1 more</small> | Ocean CDR | 200 |
 
 ---
 

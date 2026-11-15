@@ -1,7 +1,7 @@
 ---
 title: "Ofélia de Queiroz Fernandes Araújo"
-description: "Ofélia de Queiroz Fernandes Araújo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 38 by activity, 154 by citations). 206 publications, h-index 36, 3,593 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ofélia de Queiroz Fernandes Araújo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 38 by activity, 154 by citations). 221 publications, h-index 36, 3,802 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 38 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 154 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
-  <tr><th>Citations</th><td>3,593</td></tr>
-  <tr><th>Publications</th><td>206</td></tr>
-  <tr><th>Share of publications on CDR</th><td>5.3%</td></tr>
+  <tr><th>Citations</th><td>3,802</td></tr>
+  <tr><th>Publications</th><td>221</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.0%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4041-7161">ORCID</a> · <a href="https://openalex.org/A5005281241">OpenAlex</a></td></tr>
 </table>
@@ -52,12 +52,12 @@ robots: "index, follow"
 | 2024 | [Exergy Analysis of Offshore Natural Gas Partial Oxidation to Methanol Coupled to Power Generation with CO2 Capture](https://doi.org/10.1016/b978-0-443-15740-0.00058-6)<br><small>Elsevier eBooks · with George Victor Brigagão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | Cross-cutting CDR | 3 |
 | 2024 | [BIOENERGY WITH CARBON CAPTURE AND STORAGE VIA LANDFILL GAS OXY-COMBUSTION](http://dx.doi.org/10.22533/at.ed.9102419015)<br><small>with George Victor Brigagão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 0 |
 | 2023 | [Enhancing Efficiency of Corncob-Fired Power Generation with Carbon Capture and Storage](http://dx.doi.org/10.1051/e3sconf/202340703001)<br><small>E3S Web of Conferences · with George Victor Brigagão, Matheus de Andrade Cruz, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 1 |
-| 2022 | [Sewage-Water Treatment and Sewage-Sludge Management with Power Production as Bioenergy with Carbon Capture System: A Review](https://doi.org/10.3390/pr10040788)<br><small>Processes · with Israel Bernardo S. Poblete, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 27 |
-| 2021 | [Bioenergy production from sugarcane bagasse with carbon capture and storage: Surrogate models for techno-economic decisions](https://doi.org/10.1016/j.rser.2021.111486)<br><small>Renewable and Sustainable Energy Reviews · with Igor Lapenda Wiesberg, Jeiveison Gobério Soares Santos Maia, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/), João B. V. Bastos, Raphael V. Paes de Mello</small> | BECCS | 37 |
+| 2022 | [Sewage-Water Treatment and Sewage-Sludge Management with Power Production as Bioenergy with Carbon Capture System: A Review](https://doi.org/10.3390/pr10040788)<br><small>Processes · with Israel Bernardo S. Poblete, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 28 |
+| 2021 | [Bioenergy production from sugarcane bagasse with carbon capture and storage: Surrogate models for techno-economic decisions](https://doi.org/10.1016/j.rser.2021.111486)<br><small>Renewable and Sustainable Energy Reviews · with Igor Lapenda Wiesberg, Jeiveison Gobério Soares Santos Maia, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/), João B. V. Bastos, Raphael V. Paes de Mello</small> | BECCS | 43 |
 | 2021 | [A zero-emission sustainable landfill-gas-to-wire oxyfuel process: Bioenergy with carbon capture and sequestration](https://doi.org/10.1016/j.rser.2020.110686)<br><small>Renewable and Sustainable Energy Reviews · with George Victor Brigagão, Hrvoje Mikulčić, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/), Neven Duić</small> | BECCS | 32 |
 | 2021 | [Sewage-water treatment with bio-energy production and carbon capture and storage](https://doi.org/10.1016/j.chemosphere.2021.131763)<br><small>Chemosphere · with Israel Bernardo S. Poblete, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 23 |
 | 2021 | [Upgrading exergy utilization and sustainability via supersonic separators: Offshore processing of carbonated natural gas](https://doi.org/10.1016/j.jclepro.2021.127524)<br><small>Journal of Cleaner Production · with Igor Lapenda Wiesberg, Lara de Oliveira Arinelli, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | Cross-cutting CDR | 13 |
-| 2021 | [Sugarcane-based ethanol biorefineries with bioenergy production from bagasse: thermodynamic, economic, and emissions assessments](https://doi.org/10.1016/b978-0-12-821879-2.00005-3)<br><small>Elsevier eBooks · with Raquel de Freitas Dias Milão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 5 |
+| 2021 | [Sugarcane-based ethanol biorefineries with bioenergy production from bagasse: thermodynamic, economic, and emissions assessments](https://doi.org/10.1016/b978-0-12-821879-2.00005-3)<br><small>Elsevier eBooks · with Raquel de Freitas Dias Milão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 6 |
 
 ---
 

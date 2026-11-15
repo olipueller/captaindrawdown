@@ -1,7 +1,7 @@
 ---
 title: "Andrey Lessa Derci Augustynczik"
-description: "Andrey Lessa Derci Augustynczik, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 81 by activity, 1757 by citations). 89 publications, h-index 18, 1,213 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Andrey Lessa Derci Augustynczik, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 81 by activity, 1757 by citations). 100 publications, h-index 19, 1,465 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 81 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1757 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>18</td></tr>
-  <tr><th>Citations</th><td>1,213</td></tr>
-  <tr><th>Publications</th><td>89</td></tr>
-  <tr><th>Share of publications on CDR</th><td>6.7%</td></tr>
-  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,465</td></tr>
+  <tr><th>Publications</th><td>100</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5513-5496">ORCID</a> · <a href="https://openalex.org/A5067345650">OpenAlex</a></td></tr>
 </table>
 
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Alex Popp, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner, [Gaurav Ganti](/cdr-researcher-census/researchers/gaurav-ganti-a5002533/) and 13 more</small> | BECCS | 7 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480)<br><small>preprint · with [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Amanda Palazzo, Astrid Bos, Benjamin Leon Bodirsky, Cindy G. Azuero-Pedraza, Clàudia Rodés-Bachs and 43 more</small> | BECCS | 0 |
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner, [Gaurav Ganti](/cdr-researcher-census/researchers/gaurav-ganti-a5002533/), Jeff Price and 12 more</small> | BECCS | 15 |
+| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480)<br><small>preprint · with [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Amanda Palazzo, Astrid Bos, Benjamin Leon Bodirsky, Cindy G. Azuero-Pedraza, Clàudia Rodés-Bachs and 43 more</small> | BECCS | 1 |
 | 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028)<br><small>preprint · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Florian Kraxner, Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/), [Michael Wögerer](/cdr-researcher-census/researchers/michael-wogerer-a5088505/) and 9 more</small> | BECCS | 0 |
 | 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645)<br><small>preprint · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), Nicole Forstenhäusler, Peter Havlík, Rachel Warren and 2 more</small> | Cross-cutting CDR | 0 |
 | 2023 | [Fire Weather Compromises Large Scale Afforestation Scenarios](https://doi.org/10.5194/egusphere-egu23-12337)<br><small>preprint · with Felix Jäger, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Jonas Schwaab, [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/) and 6 more</small> | Cross-cutting CDR | 3 |

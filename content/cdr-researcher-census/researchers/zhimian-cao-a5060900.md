@@ -1,7 +1,7 @@
 ---
 title: "Zhimian Cao"
-description: "Zhimian Cao, Xiamen University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4971 by activity, 66 by citations). 82 publications, h-index 22, 2,092 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Zhimian Cao, Xiamen University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4971 by activity, 66 by citations). 70 publications, h-index 23, 2,204 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/zhimian-cao-a5060900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4971 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>22</td></tr>
-  <tr><th>Citations</th><td>2,092</td></tr>
-  <tr><th>Publications</th><td>82</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>2,204</td></tr>
+  <tr><th>Publications</th><td>70</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.4%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4189-2036">ORCID</a> · <a href="https://openalex.org/A5060900445">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends](https://doi.org/10.1146/annurev-earth-032320-090746)<br><small>Annual Review of Earth and Planetary Sciences · with [Minhan Dai](/cdr-researcher-census/researchers/minhan-dai-a5000330/), [Eileen E. Hofmann](/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/), [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/), [Feifei Meng](/cdr-researcher-census/researchers/feifei-meng-a5100839/), [Goulven G. Laruelle](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/), [Guizhi Wang](/cdr-researcher-census/researchers/guizhi-wang-a5051534/) and 7 more</small> | Ocean CDR | 245 |
+| 2022 | [Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends](https://doi.org/10.1146/annurev-earth-032320-090746)<br><small>Annual Review of Earth and Planetary Sciences · with [Minhan Dai](/cdr-researcher-census/researchers/minhan-dai-a5000330/), [Eileen E. Hofmann](/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/), [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/), [Feifei Meng](/cdr-researcher-census/researchers/feifei-meng-a5100839/), [Goulven G. Laruelle](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/), [Guizhi Wang](/cdr-researcher-census/researchers/guizhi-wang-a5051534/) and 7 more</small> | Ocean CDR | 282 |
 
 ---
 

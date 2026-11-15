@@ -1,7 +1,7 @@
 ---
 title: "Santhana Krishnan"
-description: "Santhana Krishnan, Universiti Sains Malaysia, Malaysia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 887 by activity, 52 by citations). 140 publications, h-index 39, 5,453 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Santhana Krishnan, Prince of Songkla University, Thailand. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 887 by activity, 52 by citations). 119 publications, h-index 40, 5,547 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/santhana-krishnan-a5030060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/santhana-krishnan-a5030060/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universiti Sains Malaysia"
+    "name": "Prince of Songkla University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7901-3637",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Universiti Sains Malaysia</td></tr>
-  <tr><th>Country</th><td>Malaysia</td></tr>
+  <tr><th>Institution</th><td>Prince of Songkla University</td></tr>
+  <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 887 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>39</td></tr>
-  <tr><th>Citations</th><td>5,453</td></tr>
-  <tr><th>Publications</th><td>140</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.6%</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>40</td></tr>
+  <tr><th>Citations</th><td>5,547</td></tr>
+  <tr><th>Publications</th><td>119</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.2%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7901-3637">ORCID</a> · <a href="https://openalex.org/A5030060115">OpenAlex</a></td></tr>
 </table>
@@ -47,11 +47,11 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Biochar and sustainable environmental development towards adsorptive removal of pollutants: Modern advancements and future insight](https://doi.org/10.1016/j.psep.2023.03.069)<br><small>Process Safety and Environmental Protection · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 69 |
-| 2023 | [Pristine and modified biochar applications as multifunctional component towards sustainable future: Recent advances and new insights](https://doi.org/10.1016/j.scitotenv.2023.169608)<br><small>The Science of The Total Environment · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 43 |
-| 2023 | [Comprehensive assessment of biochar integration in agricultural soil conditioning: Advantages, drawbacks, and future prospects](https://doi.org/10.1016/j.pce.2023.103508)<br><small>Physics and Chemistry of the Earth Parts A/B/C · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/), Madzlan Aziz, [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 20 |
-| 2022 | [Biochar production techniques utilizing biomass waste-derived materials and environmental applications – A review](https://doi.org/10.1016/j.hazadv.2022.100134)<br><small>Journal of Hazardous Materials Advances · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/), [Haspina Sulaiman](/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 350 |
-| 2022 | [Advanced techniques in the production of biochar from lignocellulosic biomass and environmental applications](https://doi.org/10.1016/j.clema.2022.100137)<br><small>Cleaner Materials · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/), [Haspina Sulaiman](/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 165 |
+| 2023 | [Biochar and sustainable environmental development towards adsorptive removal of pollutants: Modern advancements and future insight](https://doi.org/10.1016/j.psep.2023.03.069)<br><small>Process Safety and Environmental Protection · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 74 |
+| 2023 | [Pristine and modified biochar applications as multifunctional component towards sustainable future: Recent advances and new insights](https://doi.org/10.1016/j.scitotenv.2023.169608)<br><small>The Science of The Total Environment · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 46 |
+| 2023 | [Comprehensive assessment of biochar integration in agricultural soil conditioning: Advantages, drawbacks, and future prospects](https://doi.org/10.1016/j.pce.2023.103508)<br><small>Physics and Chemistry of the Earth Parts A/B/C · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/), Madzlan Aziz, [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 23 |
+| 2022 | [Biochar production techniques utilizing biomass waste-derived materials and environmental applications – A review](https://doi.org/10.1016/j.hazadv.2022.100134)<br><small>Journal of Hazardous Materials Advances · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/), [Haspina Sulaiman](/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 389 |
+| 2022 | [Advanced techniques in the production of biochar from lignocellulosic biomass and environmental applications](https://doi.org/10.1016/j.clema.2022.100137)<br><small>Cleaner Materials · with [Farah Amalina](/cdr-researcher-census/researchers/farah-amalina-a5031183/), [A. W. Zularisam](/cdr-researcher-census/researchers/a-w-zularisam-a5110295/), [Abdul Syukor Abd Razak](/cdr-researcher-census/researchers/abdul-syukor-abd-razak-a5104075/), [Haspina Sulaiman](/cdr-researcher-census/researchers/haspina-sulaiman-a5026554/), [Mohd Nasrullah](/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/)</small> | Biochar | 179 |
 
 ---
 

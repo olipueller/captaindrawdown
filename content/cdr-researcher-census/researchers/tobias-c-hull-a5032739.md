@@ -1,7 +1,7 @@
 ---
 title: "Tobias C. Hull"
-description: "Tobias C. Hull, National Laboratory of the Rockies, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4989 by activity, 45 by citations). 6 publications, h-index 4, 477 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Tobias C. Hull, Colorado School of Mines, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4989 by activity, 45 by citations). 6 publications, h-index 4, 518 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/tobias-c-hull-a5032739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tobias-c-hull-a5032739/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Laboratory of the Rockies"
+    "name": "Colorado School of Mines"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0848-7848",
@@ -26,13 +26,13 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>National Laboratory of the Rockies</td></tr>
+  <tr><th>Institution</th><td>Colorado School of Mines</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 4989 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
-  <tr><th>Citations</th><td>477</td></tr>
+  <tr><th>Citations</th><td>518</td></tr>
   <tr><th>Publications</th><td>6</td></tr>
   <tr><th>Share of publications on CDR</th><td>16.7%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world](https://doi.org/10.1016/j.rser.2023.113215)<br><small>Renewable and Sustainable Energy Reviews · with [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/), [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/), [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/), [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) and 2 more</small> | DAC | 453 |
+| 2023 | [Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world](https://doi.org/10.1016/j.rser.2023.113215)<br><small>Renewable and Sustainable Energy Reviews · with [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/), [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/), [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/), [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) and 2 more</small> | DAC | 490 |
 
 ---
 

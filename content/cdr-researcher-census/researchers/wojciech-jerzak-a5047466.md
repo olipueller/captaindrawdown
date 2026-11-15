@@ -1,7 +1,7 @@
 ---
 title: "Wojciech Jerzak"
-description: "Wojciech Jerzak, AGH University of Krakow, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 41 by activity, 776 by citations). 76 publications, h-index 16, 873 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Wojciech Jerzak, AGH University of Krakow, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 41 by activity, 776 by citations). 78 publications, h-index 17, 1,026 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/wojciech-jerzak-a5047466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 41 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 776 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>16</td></tr>
-  <tr><th>Citations</th><td>873</td></tr>
-  <tr><th>Publications</th><td>76</td></tr>
-  <tr><th>Share of publications on CDR</th><td>5.3%</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>1,026</td></tr>
+  <tr><th>Publications</th><td>78</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8791-9671">ORCID</a> · <a href="https://openalex.org/A5047466959">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [Waste biomass valorisation into high-performance CO2 adsorbents: Feedstock-dependent effects of demineralisation and KOH activation](https://openalex.org/W7171283035)<br><small>with Barbara Dutka, Izabela Kalemba-Rec, Izabela Kalemba–Rec, Krystian Sokołowski, Aneta Magdziarz</small> | Biochar | 1 |
 | 2026 | [Effect of steam-enriched CO2 atmosphere on the properties of biochar derived from food waste gasification](https://openalex.org/W7203504163)<br><small>with Aneta Magdziarz, Agata Mlonka-Mędrala, Izabela Kalemba–Rec, Marek Plata, Małgorzata Sieradzka, Łukasz Korzeniowski</small> | Biochar | 1 |
-| 2026 | [Waste biomass valorisation into high-performance CO2 adsorbents: Feedstock-dependent effects of demineralisation and KOH activation](https://openalex.org/W7171283035)<br><small>with Barbara Dutka, Izabela Kalemba-Rec, Izabela Kalemba–Rec, Krystian Sokołowski, Aneta Magdziarz</small> | Biochar | 0 |
-| 2025 | [Valorisation of food industry waste into high-performance biochar for environmental applications](https://doi.org/10.1038/s41598-025-11580-z)<br><small>Scientific Reports · with Małgorzata Sieradzka, Agata Mlonka-Mędrala, Agnieszka Kopia, Aleksandra Błoniarz, Anna Marszałek, Izabela Kalemba–Rec and 4 more</small> | Biochar | 17 |
-| 2025 | [Direct Air Capture Using Pyrolysis and Gasification Chars: Key Findings and Future Research Needs](https://doi.org/10.3390/en18154120)<br><small>Energies · with Bin Li, Dennys Correia da Silva, Glauber Cruz</small> | Biochar; DAC | 8 |
+| 2025 | [Valorisation of food industry waste into high-performance biochar for environmental applications](https://doi.org/10.1038/s41598-025-11580-z)<br><small>Scientific Reports · with Małgorzata Sieradzka, Agata Mlonka-Mędrala, Agnieszka Kopia, Aleksandra Błoniarz, Anna Marszałek, Izabela Kalemba–Rec and 4 more</small> | Biochar | 21 |
+| 2025 | [Direct Air Capture Using Pyrolysis and Gasification Chars: Key Findings and Future Research Needs](https://doi.org/10.3390/en18154120)<br><small>Energies · with [Bin Li](/cdr-researcher-census/researchers/bin-li-a5100365/), Dennys Correia da Silva, Glauber Cruz</small> | Biochar; DAC | 8 |
 | 2025 | [Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis](https://doi.org/10.1016/j.jaap.2025.107472)<br><small>Journal of Analytical and Applied Pyrolysis · with Zhiwu Tan, Dongjing Liu, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), Huimin Huang, Mingfeng Wang, Qingfa Zhang and 6 more</small> | Biochar | 3 |
 
 ---

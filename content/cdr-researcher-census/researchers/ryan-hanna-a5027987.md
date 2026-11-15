@@ -1,7 +1,7 @@
 ---
 title: "Ryan Hanna"
-description: "Ryan Hanna, University of California, San Diego, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4121 by activity, 92 by citations). 48 publications, h-index 15, 1,187 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ryan Hanna, University of California San Diego, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4121 by activity, 92 by citations). 36 publications, h-index 11, 989 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ryan-hanna-a5027987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ryan-hanna-a5027987/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California, San Diego"
+    "name": "University of California San Diego"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8120-8676",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of California, San Diego</td></tr>
+  <tr><th>Institution</th><td>University of California San Diego</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 4121 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>15</td></tr>
-  <tr><th>Citations</th><td>1,187</td></tr>
-  <tr><th>Publications</th><td>48</td></tr>
-  <tr><th>Share of publications on CDR</th><td>8.3%</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>11</td></tr>
+  <tr><th>Citations</th><td>989</td></tr>
+  <tr><th>Publications</th><td>36</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8120-8676">ORCID</a> · <a href="https://openalex.org/A5027987967">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Removing atmospheric CO<sub>2</sub> through mass scaleup of crops with enhanced root systems](https://doi.org/10.1088/1748-9326/adc31b)<br><small>Environmental Research Letters · with Daniela Faggiani Dias, Jack A. Gilbert, Jeffrey Sachnik, Wolfgang Busch, [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | Cross-cutting CDR | 7 |
-| 2025 | [The scalability and carbon removal potential of ocean alkalinity enhancement](https://doi.org/10.21203/rs.3.rs-7956805/v1)<br><small>preprint · with Connor Mack, Daniela Faggiani Dias, [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | Ocean CDR | 0 |
-| 2021 | [Emergency deployment of direct air capture as a response to the climate crisis](https://doi.org/10.1038/s41467-020-20437-0)<br><small>Nature Communications · with [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/), [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 246 |
+| 2025 | [Removing atmospheric CO<sub>2</sub> through mass scaleup of crops with enhanced root systems](https://doi.org/10.1088/1748-9326/adc31b)<br><small>Environmental Research Letters · with Daniela Faggiani Dias, Jack A. Gilbert, Jeffrey Sachnik, Wolfgang Busch, [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | Cross-cutting CDR | 10 |
+| 2025 | [The scalability and carbon removal potential of ocean alkalinity enhancement](https://doi.org/10.21203/rs.3.rs-7956805/v1)<br><small>preprint · with Connor Mack, Daniela Faggiani Dias, [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | Ocean CDR | 1 |
+| 2021 | [Emergency deployment of direct air capture as a response to the climate crisis](https://doi.org/10.1038/s41467-020-20437-0)<br><small>Nature Communications · with [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/), [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 260 |
 | 2021 | [Emergency responses to the climate crisis: The case of direct air capture of CO2](https://doi.org/10.5194/egusphere-egu21-9269)<br><small>with [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/), [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 0 |
 
 ---

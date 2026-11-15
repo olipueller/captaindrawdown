@@ -1,7 +1,7 @@
 ---
 title: "Kalu Davies"
-description: "Kalu Davies, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 2247 by activity, 99 by citations). 12 publications, h-index 7, 530 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Kalu Davies, James Cook University, Australia. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 2247 by activity, 99 by citations). 12 publications, h-index 6, 561 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/kalu-davies-a5004833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kalu-davies-a5004833/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Sheffield"
+    "name": "James Cook University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8487-6725",
@@ -26,13 +26,13 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of Sheffield</td></tr>
-  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Institution</th><td>James Cook University</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 2247 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>7</td></tr>
-  <tr><th>Citations</th><td>530</td></tr>
+  <tr><th>h-index</th><td>6</td></tr>
+  <tr><th>Citations</th><td>561</td></tr>
   <tr><th>Publications</th><td>12</td></tr>
   <tr><th>Share of publications on CDR</th><td>16.7%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2024 | [In-Field Carbon Dioxide Removal Via Weathering of Crushed Basalt Applied to Acidic Tropical Agricultural Soil](http://dx.doi.org/10.2139/ssrn.4904649)<br><small>SSRN Electronic Journal (preprint) · with F Holden, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Hannah Green, [Michael I. Bird](/cdr-researcher-census/researchers/michael-i-bird-a5061584/), Ruby Hume, [Paul N. Nelson](/cdr-researcher-census/researchers/paul-n-nelson-a5042039/)</small> | Enhanced Weathering | 0 |
-| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023)<br><small>Applied Geochemistry · with [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), Binoy Sarkar, [Evan H. DeLucia](/cdr-researcher-census/researchers/evan-h-delucia-a5044416/), [I. B. Kantola](/cdr-researcher-census/researchers/i-b-kantola-a5084112/), [Jonathan R. Leake](/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/), [Kok Loong Yeong](/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/) and 9 more</small> | Enhanced Weathering | 162 |
+| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023)<br><small>Applied Geochemistry · with [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Binoy Sarkar](/cdr-researcher-census/researchers/binoy-sarkar-a5083577/), [Evan H. DeLucia](/cdr-researcher-census/researchers/evan-h-delucia-a5044416/), [I. B. Kantola](/cdr-researcher-census/researchers/i-b-kantola-a5084112/), [Jonathan R. Leake](/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/), [Kok Loong Yeong](/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/) and 9 more</small> | Enhanced Weathering | 193 |
 
 ---
 

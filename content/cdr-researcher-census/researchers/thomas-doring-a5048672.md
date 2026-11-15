@@ -1,7 +1,7 @@
 ---
 title: "Thomas Döring"
-description: "Thomas Döring, Universität Bonn Landwirtschaftliche Fakultät, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4674 by activity, 38 by citations; Europe rank 1319 by activity, 28 by citations). 393 publications, h-index 42, 7,307 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Thomas Döring, University of Bonn, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4674 by activity, 38 by citations; Europe rank 1319 by activity, 28 by citations). 403 publications, h-index 45, 7,833 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/thomas-doring-a5048672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thomas-doring-a5048672/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e4t Bonn Landwirtschaftliche Fakult\u00e4t"
+    "name": "University of Bonn"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9074-5978",
@@ -26,14 +26,14 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Universität Bonn Landwirtschaftliche Fakultät</td></tr>
+  <tr><th>Institution</th><td>University of Bonn</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4674 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1319 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>42</td></tr>
-  <tr><th>Citations</th><td>7,307</td></tr>
-  <tr><th>Publications</th><td>393</td></tr>
+  <tr><th>h-index</th><td>45</td></tr>
+  <tr><th>Citations</th><td>7,833</td></tr>
+  <tr><th>Publications</th><td>403</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.5%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9074-5978">ORCID</a> · <a href="https://openalex.org/A5048672804">OpenAlex</a></td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Remineralizing soils? The agricultural usage of silicate rock powders: A review](https://doi.org/10.1016/j.scitotenv.2021.150976)<br><small>The Science of The Total Environment · with [Philipp Swoboda](/cdr-researcher-census/researchers/philipp-swoboda-a5038674/), [Martin Hamer](/cdr-researcher-census/researchers/martin-hamer-a5078777/)</small> | Enhanced Weathering | 257 |
+| 2021 | [Remineralizing soils? The agricultural usage of silicate rock powders: A review](https://doi.org/10.1016/j.scitotenv.2021.150976)<br><small>The Science of The Total Environment · with [Philipp Swoboda](/cdr-researcher-census/researchers/philipp-swoboda-a5038674/), [Martin Hamer](/cdr-researcher-census/researchers/martin-hamer-a5078777/)</small> | Enhanced Weathering | 297 |
 
 ---
 

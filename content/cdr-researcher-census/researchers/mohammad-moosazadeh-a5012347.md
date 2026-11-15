@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Moosazadeh"
-description: "Mohammad Moosazadeh, Kyung Hee University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 71 by activity, 2292 by citations). 20 publications, h-index 9, 216 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mohammad Moosazadeh, Kyung Hee University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 71 by activity, 2292 by citations). 22 publications, h-index 9, 246 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/mohammad-moosazadeh-a5012347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 71 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2292 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
-  <tr><th>Citations</th><td>216</td></tr>
-  <tr><th>Publications</th><td>20</td></tr>
-  <tr><th>Share of publications on CDR</th><td>15.0%</td></tr>
+  <tr><th>Citations</th><td>246</td></tr>
+  <tr><th>Publications</th><td>22</td></tr>
+  <tr><th>Share of publications on CDR</th><td>18.2%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5714-9787">ORCID</a> · <a href="https://openalex.org/A5012347041">OpenAlex</a></td></tr>
 </table>

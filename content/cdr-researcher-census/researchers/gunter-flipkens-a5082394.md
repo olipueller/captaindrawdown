@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
-description: "Gunter Flipkens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 205 by activity, 44 by citations), Enhanced Weathering (worldwide rank 573 by activity, 85 by citations). 19 publications, h-index 5, 185 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Gunter Flipkens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 205 by activity, 44 by citations), Enhanced Weathering (worldwide rank 573 by activity, 85 by citations). 16 publications, h-index 5, 215 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -33,9 +33,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 573 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
-  <tr><th>Citations</th><td>185</td></tr>
-  <tr><th>Publications</th><td>19</td></tr>
-  <tr><th>Share of publications on CDR</th><td>26.3%</td></tr>
+  <tr><th>Citations</th><td>215</td></tr>
+  <tr><th>Publications</th><td>16</td></tr>
+  <tr><th>Share of publications on CDR</th><td>31.2%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5645-4672">ORCID</a> · <a href="https://openalex.org/A5082394090">OpenAlex</a></td></tr>
 </table>
@@ -49,10 +49,10 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement](https://doi.org/10.5194/bg-23-399-2026)<br><small>Biogeosciences · with Greet Lembregts, [Filip J. R. Meysman](/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/)</small> | Ocean CDR | 4 |
-| 2023 | [Enhanced olivine dissolution in seawater through continuous grain collisions](https://doi.org/10.1016/j.gca.2023.09.002)<br><small>Geochimica et Cosmochimica Acta · with [Filip J. R. Meysman](/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/), Géraldine Fiers, [Michael Fuhr](/cdr-researcher-census/researchers/michael-fuhr-a5072752/), [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/), [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/)</small> | Enhanced Weathering; Ocean CDR | 47 |
-| 2023 | [Acute bioaccumulation and chronic toxicity of olivine in the marine amphipod Gammarus locusta](https://doi.org/10.1016/j.aquatox.2023.106662)<br><small>Aquatic Toxicology · with Katharina Horoba, Kobe Bostyn, Luna Geerts, [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/), [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/)</small> | Enhanced Weathering | 22 |
-| 2023 | [Olivine avoidance behaviour by marine gastropods (Littorina littorea L.) and amphipods (Gammarus locusta L.) within the context of ocean alkalinity enhancement](https://doi.org/10.1016/j.ecoenv.2023.115840)<br><small>Ecotoxicology and Environmental Safety · with Jordy Salden, Kyle T’Jollyn, [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/), Vincent Dujardin, [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/)</small> | Enhanced Weathering; Ocean CDR | 12 |
-| 2021 | [Deriving Nickel (Ni(II)) and Chromium (Cr(III)) Based Environmentally Safe Olivine Guidelines for Coastal Enhanced Silicate Weathering](https://doi.org/10.1021/acs.est.1c02974)<br><small>Environmental Science & Technology · with [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/), [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/)</small> | Enhanced Weathering; Ocean CDR | 88 |
+| 2023 | [Enhanced olivine dissolution in seawater through continuous grain collisions](https://doi.org/10.1016/j.gca.2023.09.002)<br><small>Geochimica et Cosmochimica Acta · with [Filip J. R. Meysman](/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/), Géraldine Fiers, [Michael Fuhr](/cdr-researcher-census/researchers/michael-fuhr-a5072752/), [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/), [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/)</small> | Enhanced Weathering; Ocean CDR | 53 |
+| 2023 | [Acute bioaccumulation and chronic toxicity of olivine in the marine amphipod Gammarus locusta](https://doi.org/10.1016/j.aquatox.2023.106662)<br><small>Aquatic Toxicology · with Katharina Horoba, Kobe Bostyn, Luna Geerts, [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/), [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/)</small> | Enhanced Weathering | 26 |
+| 2023 | [Olivine avoidance behaviour by marine gastropods (Littorina littorea L.) and amphipods (Gammarus locusta L.) within the context of ocean alkalinity enhancement](https://doi.org/10.1016/j.ecoenv.2023.115840)<br><small>Ecotoxicology and Environmental Safety · with Jordy Salden, Kyle T’Jollyn, [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/), Vincent Dujardin, [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/)</small> | Enhanced Weathering; Ocean CDR | 15 |
+| 2021 | [Deriving Nickel (Ni(II)) and Chromium (Cr(III)) Based Environmentally Safe Olivine Guidelines for Coastal Enhanced Silicate Weathering](https://doi.org/10.1021/acs.est.1c02974)<br><small>Environmental Science & Technology · with [Ronny Blust](/cdr-researcher-census/researchers/ronny-blust-a5080111/), [Raewyn M. Town](/cdr-researcher-census/researchers/raewyn-m-town-a5062716/)</small> | Enhanced Weathering; Ocean CDR | 97 |
 
 ---
 

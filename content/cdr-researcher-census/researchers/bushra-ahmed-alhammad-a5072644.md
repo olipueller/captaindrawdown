@@ -1,7 +1,7 @@
 ---
 title: "Bushra Ahmed Alhammad"
-description: "Bushra Ahmed Alhammad, Prince Sattam bin Abdulaziz University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25897 by activity, 70 by citations). 51 publications, h-index 24, 3,493 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Bushra Ahmed Alhammad, Prince Sattam Bin Abdulaziz University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25897 by activity, 70 by citations). 52 publications, h-index 27, 3,802 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Prince Sattam bin Abdulaziz University"
+    "name": "Prince Sattam Bin Abdulaziz University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0501-1628",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Prince Sattam bin Abdulaziz University</td></tr>
+  <tr><th>Institution</th><td>Prince Sattam Bin Abdulaziz University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 25897 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>24</td></tr>
-  <tr><th>Citations</th><td>3,493</td></tr>
-  <tr><th>Publications</th><td>51</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
+  <tr><th>h-index</th><td>27</td></tr>
+  <tr><th>Citations</th><td>3,802</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0501-1628">ORCID</a> · <a href="https://openalex.org/A5072644187">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/), [Rewaa S. Jalal](/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/) and 1 more</small> | Biochar | 538 |
+| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/), [Rewaa S. Jalal](/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/) and 1 more</small> | Biochar | 597 |
 
 ---
 

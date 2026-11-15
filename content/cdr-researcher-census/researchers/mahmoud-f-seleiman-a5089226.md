@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud F. Seleiman"
-description: "Mahmoud F. Seleiman, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11340 by activity, 66 by citations). 254 publications, h-index 50, 10,884 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mahmoud F. Seleiman, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11340 by activity, 66 by citations). 267 publications, h-index 52, 12,066 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 11340 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>50</td></tr>
-  <tr><th>Citations</th><td>10,884</td></tr>
-  <tr><th>Publications</th><td>254</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.4%</td></tr>
+  <tr><th>h-index</th><td>52</td></tr>
+  <tr><th>Citations</th><td>12,066</td></tr>
+  <tr><th>Publications</th><td>267</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4779-9414">ORCID</a> · <a href="https://openalex.org/A5089226341">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar](https://doi.org/10.3390/life13102098)<br><small>Life · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), B. O. Danga, Benson Mochoge, Muhammad Ali Raza, Naeem Khan, Riziki Mwadalu and 1 more</small> | Biochar | 17 |
-| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/), [Rewaa S. Jalal](/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/) and 1 more</small> | Biochar | 538 |
+| 2023 | [Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar](https://doi.org/10.3390/life13102098)<br><small>Life · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), B. O. Danga, Benson Mochoge, Muhammad Ali Raza, Naeem Khan, Riziki Mwadalu and 1 more</small> | Biochar | 23 |
+| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/), [Rewaa S. Jalal](/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/) and 1 more</small> | Biochar | 597 |
 
 ---
 

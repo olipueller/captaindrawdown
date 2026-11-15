@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
-description: "Jitao Lv, Qingdao University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11140 by activity, 96 by citations). 86 publications, h-index 38, 5,686 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jitao Lv, Chinese Academy of Sciences, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11140 by activity, 96 by citations). 122 publications, h-index 46, 6,931 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jitao-lv-a5110294/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao University of Science and Technology"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0009-0009-7909-134X",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Qingdao University of Science and Technology</td></tr>
+  <tr><th>Institution</th><td>Chinese Academy of Sciences</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 11140 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>38</td></tr>
-  <tr><th>Citations</th><td>5,686</td></tr>
-  <tr><th>Publications</th><td>86</td></tr>
-  <tr><th>Share of publications on CDR</th><td>10.5%</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>46</td></tr>
+  <tr><th>Citations</th><td>6,931</td></tr>
+  <tr><th>Publications</th><td>122</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0009-7909-134X">ORCID</a> · <a href="https://openalex.org/A5110294470">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities](https://doi.org/10.1021/acs.est.3c02620)<br><small>Environmental Science & Technology · with Lei Luo, Jiaxiao Wang, Tianran Sun, [Yi Yang](/cdr-researcher-census/researchers/yi-yang-a5073299/), Zhengang Liu, Yong‐Guan Zhu</small> | Biochar | 312 |
-| 2022 | [Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups](https://doi.org/10.1016/j.soilbio.2022.108778)<br><small>Soil Biology and Biochemistry · with Ling Lu, Bin Jiang, Brian J. Reid, Chunmei Meng, Fan Ding, [Yakov Kuzyakov](/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/) and 4 more</small> | Biochar | 164 |
+| 2023 | [Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities](https://doi.org/10.1021/acs.est.3c02620)<br><small>Environmental Science & Technology · with Lei Luo, Jiaxiao Wang, Tianran Sun, [Yi Yang](/cdr-researcher-census/researchers/yi-yang-a5073299/), Zhengang Liu, Yong‐Guan Zhu</small> | Biochar | 332 |
+| 2022 | [Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups](https://doi.org/10.1016/j.soilbio.2022.108778)<br><small>Soil Biology and Biochemistry · with Ling Lu, Bin Jiang, Brian J. Reid, Chunmei Meng, Fan Ding and 5 more</small> | Biochar | 169 |
 
 ---
 

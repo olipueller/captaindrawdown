@@ -1,7 +1,7 @@
 ---
 title: "Rémy Bayard"
-description: "Rémy Bayard, Institut National des Sciences Appliquées de Lyon, France. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3021 by activity, 38 by citations). 149 publications, h-index 32, 2,913 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Rémy Bayard, Institut National des Sciences Appliquées de Lyon, France. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3021 by activity, 38 by citations). 172 publications, h-index 34, 3,277 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/remy-bayard-a5084089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 3021 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>32</td></tr>
-  <tr><th>Citations</th><td>2,913</td></tr>
-  <tr><th>Publications</th><td>149</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
+  <tr><th>h-index</th><td>34</td></tr>
+  <tr><th>Citations</th><td>3,277</td></tr>
+  <tr><th>Publications</th><td>172</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3925-3107">ORCID</a> · <a href="https://openalex.org/A5084089667">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [A review on hydrothermal carbonization of potential biomass wastes, characterization and environmental applications of hydrochar, and biorefinery perspectives of the process](https://doi.org/10.1016/j.scitotenv.2022.159627)<br><small>The Science of The Total Environment · with Matheus Cavali, Adenise Lorenci Woiciechowski, Carlos Ricardo Soccol, [Hassen Benbelkacem](/cdr-researcher-census/researchers/hassen-benbelkacem-a5041950/), Julia Dutra de Sena, Nelson Libardi and 2 more</small> | Biochar | 319 |
+| 2022 | [A review on hydrothermal carbonization of potential biomass wastes, characterization and environmental applications of hydrochar, and biorefinery perspectives of the process](https://doi.org/10.1016/j.scitotenv.2022.159627)<br><small>The Science of The Total Environment · with Matheus Cavali, Adenise Lorenci Woiciechowski, Carlos Ricardo Soccol, [Hassen Benbelkacem](/cdr-researcher-census/researchers/hassen-benbelkacem-a5041950/), Julia Dutra de Sena, Nelson Libardi and 2 more</small> | Biochar | 332 |
 
 ---
 

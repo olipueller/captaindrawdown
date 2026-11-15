@@ -1,7 +1,7 @@
 ---
 title: "Marwa El‐Azazy"
-description: "Marwa El‐Azazy, Qatar University, Qatar. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23850 by activity, 81 by citations). 79 publications, h-index 25, 2,104 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Marwa El‐Azazy, Qatar University, Qatar. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23850 by activity, 81 by citations). 81 publications, h-index 26, 2,292 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/marwa-elazazy-a5089720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23850 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>25</td></tr>
-  <tr><th>Citations</th><td>2,104</td></tr>
-  <tr><th>Publications</th><td>79</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.3%</td></tr>
+  <tr><th>h-index</th><td>26</td></tr>
+  <tr><th>Citations</th><td>2,292</td></tr>
+  <tr><th>Publications</th><td>81</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8522-2731">ORCID</a> · <a href="https://openalex.org/A5089720663">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 511 |
+| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 556 |
 
 ---
 

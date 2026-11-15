@@ -1,7 +1,7 @@
 ---
 title: "Yubin Zhang"
-description: "Yubin Zhang, Ningbo University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2317 by activity, 63 by citations). 53 publications, h-index 20, 2,357 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Yubin Zhang, Northwestern Polytechnical University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2317 by activity, 63 by citations). 49 publications, h-index 20, 2,597 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/yubin-zhang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yubin-zhang-a5100700/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ningbo University"
+    "name": "Northwestern Polytechnical University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5367-4119",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Ningbo University</td></tr>
+  <tr><th>Institution</th><td>Northwestern Polytechnical University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 2317 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
-  <tr><th>Citations</th><td>2,357</td></tr>
-  <tr><th>Publications</th><td>53</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
+  <tr><th>Citations</th><td>2,597</td></tr>
+  <tr><th>Publications</th><td>49</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5367-4119">ORCID</a> · <a href="https://openalex.org/A5100700238">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review](https://doi.org/10.1007/s10311-023-01694-z)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ahmed K. Rashwan](/cdr-researcher-census/researchers/ahmed-k-rashwan-a5065290/), [Bingbing Fang](/cdr-researcher-census/researchers/bingbing-fang-a5111766/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/), [Jiacheng Yu](/cdr-researcher-census/researchers/jiacheng-yu-a5051997/) and 5 more</small> | BECCS | 223 |
+| 2024 | [Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review](https://doi.org/10.1007/s10311-023-01694-z)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ahmed K. Rashwan](/cdr-researcher-census/researchers/ahmed-k-rashwan-a5065290/), [Bingbing Fang](/cdr-researcher-census/researchers/bingbing-fang-a5111766/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/), [Jiacheng Yu](/cdr-researcher-census/researchers/jiacheng-yu-a5051997/) and 5 more</small> | BECCS | 266 |
 
 ---
 

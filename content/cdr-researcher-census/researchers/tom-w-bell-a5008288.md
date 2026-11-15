@@ -1,7 +1,7 @@
 ---
 title: "Tom W. Bell"
-description: "Tom W. Bell, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 1077 by activity, 91 by citations). 257 publications, h-index 32, 3,942 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Tom W. Bell, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 1077 by activity, 91 by citations). 258 publications, h-index 32, 3,925 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/tom-w-bell-a5008288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,8 +32,8 @@ robots: "index, follow"
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1077 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
-  <tr><th>Citations</th><td>3,942</td></tr>
-  <tr><th>Publications</th><td>257</td></tr>
+  <tr><th>Citations</th><td>3,925</td></tr>
+  <tr><th>Publications</th><td>258</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0173-2866">ORCID</a> · <a href="https://openalex.org/A5008288085">OpenAlex</a></td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Comparing Kelp Conveyance Strategies for Marine Carbon Dioxide Removal with Farmed Macroalgae](http://dx.doi.org/10.31223/x5m66b)<br><small>preprint · with Sebastian J. E. Krause, Daniel P. Dauhajre, David L. Valentine, Robert J. Miller, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/)</small> | Ocean CDR | 1 |
+| 2023 | [Comparing Kelp Conveyance Strategies for Marine Carbon Dioxide Removal with Farmed Macroalgae](http://dx.doi.org/10.31223/x5m66b)<br><small>preprint · with Sebastian J. E. Krause, Daniel P. Dauhajre, David L. Valentine, Robert J. Miller, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/)</small> | Ocean CDR | 3 |
 | 2023 | [Considerations for Regional Simulations of Seaweed Carbon Dioxide Removal](http://dx.doi.org/10.31223/x52q1n)<br><small>preprint · with Daniel P. Dauhajre, [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/)</small> | Ocean CDR | 0 |
-| 2021 | [Assessing the sequestration time scales of some ocean-based carbon dioxide reduction strategies](https://doi.org/10.1088/1748-9326/ac0be0)<br><small>Environmental Research Letters · with [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), [Tim DeVries](/cdr-researcher-census/researchers/tim-devries-a5063318/)</small> | Ocean CDR | 172 |
+| 2021 | [Assessing the sequestration time scales of some ocean-based carbon dioxide reduction strategies](https://doi.org/10.1088/1748-9326/ac0be0)<br><small>Environmental Research Letters · with [David A. Siegel](/cdr-researcher-census/researchers/david-a-siegel-a5015835/), [Scott C. Doney](/cdr-researcher-census/researchers/scott-c-doney-a5019762/), [Tim DeVries](/cdr-researcher-census/researchers/tim-devries-a5063318/)</small> | Ocean CDR | 197 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Renato Rodrigues"
-description: "Renato Rodrigues, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 964 by activity, 38 by citations; Europe rank 477 by activity, 28 by citations). 54 publications, h-index 14, 1,673 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Renato Rodrigues, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 964 by activity, 38 by citations; Europe rank 477 by activity, 28 by citations). 64 publications, h-index 17, 1,985 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/renato-rodrigues-a5073007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 964 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 477 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>1,673</td></tr>
-  <tr><th>Publications</th><td>54</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.4%</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>1,985</td></tr>
+  <tr><th>Publications</th><td>64</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.2%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5863-5514">ORCID</a> · <a href="https://openalex.org/A5073007132">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement](https://doi.org/10.1126/sciadv.adj3832)<br><small>Science Advances · with [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Benjamin Leon Bodirsky, [David Klein](/cdr-researcher-census/researchers/david-klein-a5102823/), [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), Hermann Lotze‐Campen and 6 more</small> | Cross-cutting CDR | 43 |
-| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z)<br><small>Nature Energy · with [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [Antoine Levesque](/cdr-researcher-census/researchers/antoine-levesque-a5030957/), [Christoph Bertram](/cdr-researcher-census/researchers/christoph-bertram-a5001104/), [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/) and 11 more</small> | Cross-cutting CDR | 571 |
-| 2021 | [Narrative-driven alternative roads to achieve mid-century CO2 net neutrality in Europe](https://doi.org/10.1016/j.energy.2021.121908)<br><small>Energy · with [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), James Price, Panagiotis Fragkos, Pelopidas Siskos, [Robert Pietzcker](/cdr-researcher-census/researchers/robert-pietzcker-a5091356/), Theofano Fotiou and 2 more</small> | Cross-cutting CDR | 89 |
+| 2024 | [Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement](https://doi.org/10.1126/sciadv.adj3832)<br><small>Science Advances · with [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Benjamin Leon Bodirsky, David Klein, [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), Hermann Lotze‐Campen and 6 more</small> | Cross-cutting CDR | 50 |
+| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z)<br><small>Nature Energy · with [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [Antoine Levesque](/cdr-researcher-census/researchers/antoine-levesque-a5030957/), [Christoph Bertram](/cdr-researcher-census/researchers/christoph-bertram-a5001104/), [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/) and 11 more</small> | Cross-cutting CDR | 622 |
+| 2021 | [Narrative-driven alternative roads to achieve mid-century CO2 net neutrality in Europe](https://doi.org/10.1016/j.energy.2021.121908)<br><small>Energy · with [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), James Price, Panagiotis Fragkos, Pelopidas Siskos, [Robert Pietzcker](/cdr-researcher-census/researchers/robert-pietzcker-a5091356/), Theofano Fotiou and 2 more</small> | Cross-cutting CDR | 95 |
 | 2021 | [Tightening EU ETS targets in line with the European Green Deal: Impacts on the decarbonization of the EU power sector](https://ideas.repec.org/p/zbw/esprep/222579.html)<br><small>EconStor Preprints · with [Robert Pietzcker](/cdr-researcher-census/researchers/robert-pietzcker-a5091356/), Sebastián Osorio</small> | Cross-cutting CDR | 0 |
 
 ---

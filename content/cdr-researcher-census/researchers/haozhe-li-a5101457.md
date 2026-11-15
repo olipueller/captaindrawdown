@@ -1,7 +1,7 @@
 ---
 title: "Haozhe Li"
-description: "Haozhe Li, Songshan Lake Materials Laboratory, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4131 by activity, 77 by citations). 86 publications, h-index 19, 1,943 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Haozhe Li, Qilu University of Technology, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4131 by activity, 77 by citations). 80 publications, h-index 20, 2,049 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/haozhe-li-a5101457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haozhe-li-a5101457/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Songshan Lake Materials Laboratory"
+    "name": "Qilu University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2764-7106",
@@ -26,14 +26,14 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Songshan Lake Materials Laboratory</td></tr>
+  <tr><th>Institution</th><td>Qilu University of Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 4131 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>19</td></tr>
-  <tr><th>Citations</th><td>1,943</td></tr>
-  <tr><th>Publications</th><td>86</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>2,049</td></tr>
+  <tr><th>Publications</th><td>80</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2764-7106">ORCID</a> · <a href="https://openalex.org/A5101457756">OpenAlex</a></td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks](https://doi.org/10.1021/jacs.3c14125)<br><small>Journal of the American Chemical Society · with [Oscar Iu‐Fan Chen](/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/), [Ali H. Alawadhi](/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/), [Cheng-Hsin Liu](/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/), [Emilio Borrego-Marin](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/), [Jorge A. R. Navarro](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/), [Kaiyu Wang](/cdr-researcher-census/researchers/kaiyu-wang-a5100626/) and 1 more</small> | DAC | 273 |
+| 2024 | [Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks](https://doi.org/10.1021/jacs.3c14125)<br><small>Journal of the American Chemical Society · with [Oscar Iu‐Fan Chen](/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/), [Ali H. Alawadhi](/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/), [Cheng-Hsin Liu](/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/), [Emilio Borrego-Marin](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/), [Jorge A. R. Navarro](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/), [Kaiyu Wang](/cdr-researcher-census/researchers/kaiyu-wang-a5100626/) and 1 more</small> | DAC | 287 |
 
 ---
 

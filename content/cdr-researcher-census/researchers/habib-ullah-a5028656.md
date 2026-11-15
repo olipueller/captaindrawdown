@@ -1,7 +1,7 @@
 ---
 title: "Habib Ullah"
-description: "Habib Ullah, University of Exeter Department of Engineering, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 137 by activity, 26 by citations). 169 publications, h-index 52, 8,664 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Habib Ullah, University of Exeter, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 137 by activity, 26 by citations). 88 publications, h-index 44, 6,251 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/habib-ullah-a5028656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/habib-ullah-a5028656/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Exeter Department of Engineering"
+    "name": "University of Exeter"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9290-0265",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of Exeter Department of Engineering</td></tr>
+  <tr><th>Institution</th><td>University of Exeter</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 137 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 26 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>52</td></tr>
-  <tr><th>Citations</th><td>8,664</td></tr>
-  <tr><th>Publications</th><td>169</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.0%</td></tr>
+  <tr><th>h-index</th><td>44</td></tr>
+  <tr><th>Citations</th><td>6,251</td></tr>
+  <tr><th>Publications</th><td>88</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9290-0265">ORCID</a> · <a href="https://openalex.org/A5028656875">OpenAlex</a></td></tr>
 </table>
@@ -47,11 +47,11 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [A systematic review on machine learning-aided design of engineered biochar for soil and water contaminant removal](https://doi.org/10.3389/fsoil.2025.1623083)<br><small>Frontiers in Soil Science · with Y.T. Ge, Abubakr M. Idris, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Guo Yu, Kaiyang Ying, Muhammad Ubaid Ali</small> | Biochar | 7 |
-| 2023 | [Synthesis of novel magnetic activated carbon for effective Cr(VI) removal via synergistic adsorption and chemical reduction](https://doi.org/10.1016/j.eti.2023.103092)<br><small>Environmental Technology & Innovation · with Zhenyu Wu, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Enas Ali, Haiyi Huang, Hua Zhang, Honghu Zeng</small> | Biochar | 80 |
-| 2023 | [Fabrication and characterization of magnetic eucalyptus carbon for efficient Cr(VI) removal in aqueous solution and its mechanisms](https://openalex.org/W4379741369)<br><small>with Hua Zhang, Ahmed Arafat, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Awais Khan, Enas Ali, Honghu Zeng and 4 more</small> | Biochar | 17 |
-| 2021 | [Comparative study on characterization and adsorption properties of phosphoric acid activated biochar and nitrogen-containing modified biochar employing Eucalyptus as a precursor](https://doi.org/10.1016/j.jclepro.2021.127046)<br><small>Journal of Cleaner Production · with Ze Lu, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Aziz-Ur-Rahim Bacha, Hua Zhang, Huiting Zeng, Iqra Nabi and 1 more</small> | Biochar | 145 |
-| 2021 | [Efficient performance of magnesium oxide loaded biochar for the significant removal of Pb2+ and Cd2+ from aqueous solution](https://doi.org/10.1016/j.ecoenv.2021.112426)<br><small>Ecotoxicology and Environmental Safety · with Qingliang Shi, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Aziz-Ur-Rahim Bacha, Honghu Zeng, Hua Zhang, Huiting Zeng and 2 more</small> | Biochar | 128 |
+| 2025 | [A systematic review on machine learning-aided design of engineered biochar for soil and water contaminant removal](https://doi.org/10.3389/fsoil.2025.1623083)<br><small>Frontiers in Soil Science · with Y.T. Ge, Abubakr M. Idris, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Guo Yu, Kaiyang Ying, Muhammad Ubaid Ali</small> | Biochar | 8 |
+| 2023 | [Synthesis of novel magnetic activated carbon for effective Cr(VI) removal via synergistic adsorption and chemical reduction](https://doi.org/10.1016/j.eti.2023.103092)<br><small>Environmental Technology & Innovation · with Zhenyu Wu, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Enas Ali, Haiyi Huang, Hua Zhang, Honghu Zeng</small> | Biochar | 85 |
+| 2023 | [Fabrication and characterization of magnetic eucalyptus carbon for efficient Cr(VI) removal in aqueous solution and its mechanisms](https://openalex.org/W4379741369)<br><small>with Hua Zhang, Ahmed Arafat, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Awais Khan, Enas Ali, Honghu Zeng and 4 more</small> | Biochar | 18 |
+| 2021 | [Comparative study on characterization and adsorption properties of phosphoric acid activated biochar and nitrogen-containing modified biochar employing Eucalyptus as a precursor](https://doi.org/10.1016/j.jclepro.2021.127046)<br><small>Journal of Cleaner Production · with Ze Lu, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Aziz-Ur-Rahim Bacha, Hua Zhang, Huiting Zeng, Iqra Nabi and 1 more</small> | Biochar | 148 |
+| 2021 | [Efficient performance of magnesium oxide loaded biochar for the significant removal of Pb2+ and Cd2+ from aqueous solution](https://doi.org/10.1016/j.ecoenv.2021.112426)<br><small>Ecotoxicology and Environmental Safety · with Qingliang Shi, [Asfandyar Shahab](/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/), Aziz-Ur-Rahim Bacha, Honghu Zeng, Hua Zhang, Huiting Zeng and 2 more</small> | Biochar | 131 |
 
 ---
 

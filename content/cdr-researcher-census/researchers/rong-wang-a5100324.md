@@ -1,7 +1,7 @@
 ---
 title: "Rong Wang"
-description: "Rong Wang, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 205 by activity, 45 by citations). 362 publications, h-index 44, 8,580 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Rong Wang, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 205 by activity, 45 by citations). 149 publications, h-index 57, 11,495 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/rong-wang-a5100324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 205 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>44</td></tr>
-  <tr><th>Citations</th><td>8,580</td></tr>
-  <tr><th>Publications</th><td>362</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.4%</td></tr>
+  <tr><th>h-index</th><td>57</td></tr>
+  <tr><th>Citations</th><td>11,495</td></tr>
+  <tr><th>Publications</th><td>149</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.4%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1962-0165">ORCID</a> · <a href="https://openalex.org/A5100324905">OpenAlex</a></td></tr>
 </table>
@@ -49,8 +49,8 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2024 | [A review of influencing factors for policy interventions in the deployment of bioenergy with carbon capture and storage](https://doi.org/10.1016/j.nxsust.2024.100040)<br><small>Next Sustainability · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/) and 5 more</small> | BECCS | 11 |
 | 2024 | [Requirement on the Capacity of Energy Storage to Meet the 2 °C Goal](https://doi.org/10.3390/su16093753)<br><small>Sustainability · with Yi‐Fei Deng, [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Yijing Wang, Yuankang Xiong</small> | BECCS | 4 |
-| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [James H. Clark](/cdr-researcher-census/researchers/james-h-clark-a5007470/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/) and 9 more</small> | BECCS | 131 |
-| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 119 |
+| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [James H. Clark](/cdr-researcher-census/researchers/james-h-clark-a5007470/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/) and 9 more</small> | BECCS | 144 |
+| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 127 |
 
 ---
 

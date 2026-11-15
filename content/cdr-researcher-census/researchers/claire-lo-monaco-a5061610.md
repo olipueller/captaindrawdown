@@ -1,7 +1,7 @@
 ---
 title: "Claire Lo Monaco"
-description: "Claire Lo Monaco, Sorbonne University, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 254 by activity, 90 by citations; Europe rank 119 by activity, 38 by citations). 144 publications, h-index 22, 4,162 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Claire Lo Monaco, Sorbonne University, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 254 by activity, 90 by citations; Europe rank 119 by activity, 38 by citations). 218 publications, h-index 23, 4,848 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 254 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 119 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>22</td></tr>
-  <tr><th>Citations</th><td>4,162</td></tr>
-  <tr><th>Publications</th><td>144</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.5%</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>4,848</td></tr>
+  <tr><th>Publications</th><td>218</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5653-5018">ORCID</a> · <a href="https://openalex.org/A5061610509">OpenAlex</a></td></tr>
 </table>
@@ -47,12 +47,12 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset](https://doi.org/10.5194/essd-17-1075-2025)<br><small>Earth system science data · with Nicolas Metzl, Aline Tribollet, Bruno Bombled, Bruno Lansard, Catherine Goyet, Christophe Rabouille and 25 more</small> | Ocean CDR | 10 |
-| 2024 | [Indian Ocean Acidification and Its Driving Mechanisms Over the Last Four Decades (1980–2019)](https://doi.org/10.1029/2024gb008139)<br><small>Global Biogeochemical Cycles · with Kunal Chakraborty, Balaji Baduru, Frédéric Chevallier, Marion Gehlen, Nicolas Metzl, P. C. Joshi and 3 more</small> | Ocean CDR | 23 |
+| 2025 | [An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset](https://doi.org/10.5194/essd-17-1075-2025)<br><small>Earth system science data · with Nicolas Metzl, Aline Tribollet, Bruno Bombled, Bruno Lansard, Catherine Goyet, Christophe Rabouille and 25 more</small> | Ocean CDR | 18 |
+| 2024 | [Indian Ocean Acidification and Its Driving Mechanisms Over the Last Four Decades (1980–2019)](https://doi.org/10.1029/2024gb008139)<br><small>Global Biogeochemical Cycles · with Kunal Chakraborty, Balaji Baduru, Frédéric Chevallier, Marion Gehlen, Nicolas Metzl, P. C. Joshi and 3 more</small> | Ocean CDR | 25 |
 | 2024 | [A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset](https://doi.org/10.5194/essd-16-89-2024)<br><small>Earth system science data · with Nicolas Metzl, Aline Tribollet, Anne Petrenko, Bruno Lansard, Christophe Rabouille, Claude Mignon and 28 more</small> | Ocean CDR | 15 |
 | 2024 | [An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset](https://doi.org/10.5194/essd-2024-464)<br><small>preprint · with Nicolas Metzl, Aline Tribollet, Bruno Bombled, Bruno Lansard, Catherine Goyet, Christophe Rabouille and 25 more</small> | Ocean CDR | 1 |
-| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://openalex.org/W4226279429)<br><small>with Henry C. Bittig, Sara Jütterström</small> | Ocean CDR | 102 |
-| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://doi.org/10.5194/essd-2021-234)<br><small>with Siv K. Lauvset, A. Velo, Akihiko Murata, Alex Kozyr, Are Olsen, Benjamin Pfeil and 26 more</small> | Ocean CDR | 23 |
+| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://openalex.org/W4226279429)<br><small>with [Siv K. Lauvset](/cdr-researcher-census/researchers/siv-k-lauvset-a5082511/), Alex Kozyr, [Benjamin Pfeil](/cdr-researcher-census/researchers/benjamin-pfeil-a5032040/), [Bronte Tilbrook](/cdr-researcher-census/researchers/bronte-tilbrook-a5074458/), [Carsten Schirnick](/cdr-researcher-census/researchers/carsten-schirnick-a5047049/), [Emil Jeansson](/cdr-researcher-census/researchers/emil-jeansson-a5046416/) and 11 more</small> | Ocean CDR | 162 |
+| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://doi.org/10.5194/essd-2021-234)<br><small>with [Siv K. Lauvset](/cdr-researcher-census/researchers/siv-k-lauvset-a5082511/), A. Velo, Akihiko Murata, Alex Kozyr, Are Olsen, [Benjamin Pfeil](/cdr-researcher-census/researchers/benjamin-pfeil-a5032040/) and 26 more</small> | Ocean CDR | 23 |
 
 ---
 

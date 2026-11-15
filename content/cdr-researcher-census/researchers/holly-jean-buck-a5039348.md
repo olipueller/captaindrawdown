@@ -1,7 +1,7 @@
 ---
 title: "Holly Jean Buck"
-description: "Holly Jean Buck, University at Buffalo, State University of New York, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 146 by activity, 95 by citations). 70 publications, h-index 26, 2,169 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Holly Jean Buck, University at Buffalo, State University of New York, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 146 by activity, 95 by citations). 77 publications, h-index 29, 2,640 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/holly-jean-buck-a5039348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 146 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>26</td></tr>
-  <tr><th>Citations</th><td>2,169</td></tr>
-  <tr><th>Publications</th><td>70</td></tr>
-  <tr><th>Share of publications on CDR</th><td>15.7%</td></tr>
+  <tr><th>h-index</th><td>29</td></tr>
+  <tr><th>Citations</th><td>2,640</td></tr>
+  <tr><th>Publications</th><td>77</td></tr>
+  <tr><th>Share of publications on CDR</th><td>14.3%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8940-1238">ORCID</a> · <a href="https://openalex.org/A5039348391">OpenAlex</a></td></tr>
 </table>
@@ -47,16 +47,16 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Naturalness catalyzes public support for carbon dioxide removal and low-carbon energy technologies](https://openalex.org/W7169762364)<br><small>with Sarah Coffin, Amanda R. Carrico, Ezra M. Markowitz, Jonathon P. Schuldt, Kaitlin T. Raimi, Shahzeen Z. Attari and 4 more</small> | Cross-cutting CDR | 1 |
-| 2023 | [Why residual emissions matter right now](https://doi.org/10.1038/s41558-022-01592-2)<br><small>Nature Climate Change · with [Jens Friis Lund](/cdr-researcher-census/researchers/jens-friis-lund-a5005629/), [Wim Carton](/cdr-researcher-census/researchers/wim-carton-a5059900/), [Nils Markusson](/cdr-researcher-census/researchers/nils-markusson-a5004419/)</small> | Cross-cutting CDR | 188 |
-| 2023 | [Net zero and the unexplored politics of residual emissions](https://doi.org/10.1016/j.erss.2023.103035)<br><small>Energy Research & Social Science · with [Jens Friis Lund](/cdr-researcher-census/researchers/jens-friis-lund-a5005629/), [Nils Markusson](/cdr-researcher-census/researchers/nils-markusson-a5004419/), [Wim Carton](/cdr-researcher-census/researchers/wim-carton-a5059900/)</small> | Cross-cutting CDR | 68 |
-| 2023 | [Controversies of carbon dioxide removal](https://doi.org/10.1038/s43017-023-00493-y)<br><small>Nature Reviews Earth & Environment · with Kevin Anderson, [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), Lili Fuhr, [Oliver Geden](/cdr-researcher-census/researchers/oliver-geden-a5016996/), Eve Tamme</small> | Cross-cutting CDR | 51 |
-| 2022 | [Soil science in the time of climate mitigation](https://doi.org/10.1007/s10533-022-00952-6)<br><small>Biogeochemistry · with Ronald Amundson, Kate Lajtha</small> | Cross-cutting CDR | 17 |
+| 2026 | [Naturalness catalyzes public support for carbon dioxide removal and low-carbon energy technologies](https://openalex.org/W7169762364)<br><small>with Sarah Coffin, Amanda R. Carrico, Ezra M. Markowitz, Jonathon P. Schuldt, Kaitlin T. Raimi, Shahzeen Z. Attari and 4 more</small> | Cross-cutting CDR | 2 |
+| 2023 | [Why residual emissions matter right now](https://doi.org/10.1038/s41558-022-01592-2)<br><small>Nature Climate Change · with [Jens Friis Lund](/cdr-researcher-census/researchers/jens-friis-lund-a5005629/), [Wim Carton](/cdr-researcher-census/researchers/wim-carton-a5059900/), [Nils Markusson](/cdr-researcher-census/researchers/nils-markusson-a5004419/)</small> | Cross-cutting CDR | 232 |
+| 2023 | [Net zero and the unexplored politics of residual emissions](https://doi.org/10.1016/j.erss.2023.103035)<br><small>Energy Research & Social Science · with [Jens Friis Lund](/cdr-researcher-census/researchers/jens-friis-lund-a5005629/), [Nils Markusson](/cdr-researcher-census/researchers/nils-markusson-a5004419/), [Wim Carton](/cdr-researcher-census/researchers/wim-carton-a5059900/)</small> | Cross-cutting CDR | 76 |
+| 2023 | [Controversies of carbon dioxide removal](https://doi.org/10.1038/s43017-023-00493-y)<br><small>Nature Reviews Earth & Environment · with Kevin Anderson, [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), Lili Fuhr, [Oliver Geden](/cdr-researcher-census/researchers/oliver-geden-a5016996/), Eve Tamme</small> | Cross-cutting CDR | 60 |
+| 2022 | [Soil science in the time of climate mitigation](https://doi.org/10.1007/s10533-022-00952-6)<br><small>Biogeochemistry · with Ronald Amundson, Kate Lajtha</small> | Cross-cutting CDR | 18 |
 | 2022 | [Why Residual Emissions Matter Right Now](https://doi.org/10.2139/ssrn.4069521)<br><small>SSRN Electronic Journal · with [Jens Friis Lund](/cdr-researcher-census/researchers/jens-friis-lund-a5005629/), [Wim Carton](/cdr-researcher-census/researchers/wim-carton-a5059900/), [Nils Markusson](/cdr-researcher-census/researchers/nils-markusson-a5004419/)</small> | Cross-cutting CDR | 11 |
-| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Duncan McLaren, Kerryn Brent, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 66 |
-| 2021 | [Environmental and climate justice and technological carbon removal](https://doi.org/10.1016/j.tej.2021.107002)<br><small>The Electricity Journal · with Maya Batres, Deepika Nagabhushan, Ester Rekhelman, Frances Wang, Rachel Licker, Rudra Kapila and 2 more</small> | Cross-cutting CDR | 62 |
-| 2021 | [Mining the air: Political ecologies of the circular carbon economy](https://doi.org/10.1177/25148486211061452)<br><small>Environment and Planning E Nature and Space</small> | Cross-cutting CDR | 34 |
-| 2021 | [Social science for the next decade of carbon capture and storage](https://doi.org/10.1016/j.tej.2021.107003)<br><small>The Electricity Journal</small> | Cross-cutting CDR | 31 |
+| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456)<br><small>Frontiers in Climate · with [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Duncan McLaren, Kerryn Brent, [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 80 |
+| 2021 | [Environmental and climate justice and technological carbon removal](https://doi.org/10.1016/j.tej.2021.107002)<br><small>The Electricity Journal · with Maya Batres, Deepika Nagabhushan, Ester Rekhelman, Frances Wang, Rachel Licker, Rudra Kapila and 2 more</small> | Cross-cutting CDR | 67 |
+| 2021 | [Mining the air: Political ecologies of the circular carbon economy](https://doi.org/10.1177/25148486211061452)<br><small>Environment and Planning E Nature and Space</small> | Cross-cutting CDR | 40 |
+| 2021 | [Social science for the next decade of carbon capture and storage](https://doi.org/10.1016/j.tej.2021.107003)<br><small>The Electricity Journal</small> | Cross-cutting CDR | 36 |
 
 ---
 

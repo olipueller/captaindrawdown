@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
-description: "Hirdan Katarina de Medeiros Costa, Universidade de São Paulo, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 58 by activity, 643 by citations). 57 publications, h-index 7, 879 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Hirdan Katarina de Medeiros Costa, Universidade de São Paulo, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 58 by activity, 643 by citations). 58 publications, h-index 7, 961 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,10 +32,10 @@ robots: "index, follow"
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 58 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 643 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
-  <tr><th>Citations</th><td>879</td></tr>
-  <tr><th>Publications</th><td>57</td></tr>
-  <tr><th>Share of publications on CDR</th><td>8.8%</td></tr>
-  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Citations</th><td>961</td></tr>
+  <tr><th>Publications</th><td>58</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5106-6251">ORCID</a> · <a href="https://openalex.org/A5070667153">OpenAlex</a></td></tr>
 </table>
 
@@ -43,12 +43,13 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Pesquisa e disseminação do conhecimento sobre BECCS no Brasil](https://doi.org/10.54033/cadpedv22n10-149)<br><small>Caderno Pedagógico · with Lívia Maria Pires de Campos, Hirdan Katarina de Medeiros Costa, Edmilson Moutinho dos Santos</small> | BECCS | 0 |
-| 2023 | [Bioenergy with Carbon Capture and Storage (BECCS) in Brazil: A Review](https://doi.org/10.3390/en16042021)<br><small>Energies · with Brenda Honório Mazzeu Silveira, Edmilson Moutinho Dos Santos</small> | BECCS | 37 |
+| 2026 | [Regulatory Divergence in BECCS Deployment — A Comparative Analysis of Policy Frameworks in Brazilian State of São Paulo and the North Sea Regions](https://openalex.org/W7225661488)<br><small>with Marcos Eduardo Melo dos Santos, DALMO DE SOUZA AMORIM, Fernando de Paiva Pieroni, Hugo Leonardo Melo dos Santos, Taluia Croso, Edmilson Moutinho Dos Santos</small> | BECCS | 0 |
+| 2025 | [Pesquisa e disseminação do conhecimento sobre BECCS no Brasil](https://doi.org/10.54033/cadpedv22n10-149)<br><small>Caderno Pedagógico · with Lívia Maria Pires de Campos, Edmilson Moutinho dos Santos</small> | BECCS | 0 |
+| 2023 | [Bioenergy with Carbon Capture and Storage (BECCS) in Brazil: A Review](https://doi.org/10.3390/en16042021)<br><small>Energies · with Brenda Honório Mazzeu Silveira, Edmilson Moutinho Dos Santos</small> | BECCS | 40 |
 | 2023 | [Análise do CBIO como passo inicial ao desenvolvimento de BECCS no Brasil](https://doi.org/10.55905/rdelosv16.n46-016)<br><small>DELOS Desarrollo Local Sostenible · with Brenda Honório Mazzeu Silveira, Edmilson Moutinho Dos Santos</small> | BECCS | 3 |
 | 2023 | [Building knowledge on climate change issues: the methodological development of data collection by the RCGI group](http://dx.doi.org/10.53660/clm-2600-23u24)<br><small>Concilium · with Andrieza de Aquino Eslabão, Geraldo Lavigne de Lemos, Murilo Tadeu Werneck Fagá, Edmílson Moutinho dos Santos</small> | BECCS | 0 |
 | 2022 | [The benefit of the RenovaBio Programme for the BECCS market in Brazil](https://doi.org/10.48072/2525-7579.rog.2022.440)<br><small>Technical Papers ... Rio Oil & Gas · with Edmilson Moutinho Dos Santos, Brenda Honório Mazzeu Silveira</small> | BECCS | 0 |

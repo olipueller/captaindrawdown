@@ -1,7 +1,7 @@
 ---
 title: "Supriya Supriya"
-description: "Supriya Supriya, Rayat Bahra University, India. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8853 by activity, 79 by citations). 251 publications, h-index 15, 1,242 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Supriya Supriya, Rayat Bahra University, India. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8853 by activity, 79 by citations). 245 publications, h-index 15, 1,438 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/supriya-supriya-a5062582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8853 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
-  <tr><th>Citations</th><td>1,242</td></tr>
-  <tr><th>Publications</th><td>251</td></tr>
+  <tr><th>Citations</th><td>1,438</td></tr>
+  <tr><th>Publications</th><td>245</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.4%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5062582777">OpenAlex</a></td></tr>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Low-CO2 emission strategies to achieve net zero target in cement sector](https://doi.org/10.1016/j.jclepro.2023.137466)<br><small>Journal of Cleaner Production · with [Prakash Chander Thapliyal](/cdr-researcher-census/researchers/prakash-chander-thapliyal-a5062480/), [Rafiqul Huda Chaudhury](/cdr-researcher-census/researchers/rafiqul-huda-chaudhury-a5027596/), [U. Sharma](/cdr-researcher-census/researchers/u-sharma-a5079733/), [L.P. Singh](/cdr-researcher-census/researchers/lp-singh-a5091533/)</small> | Cross-cutting CDR | 585 |
+| 2023 | [Low-CO2 emission strategies to achieve net zero target in cement sector](https://doi.org/10.1016/j.jclepro.2023.137466)<br><small>Journal of Cleaner Production · with [Prakash Chander Thapliyal](/cdr-researcher-census/researchers/prakash-chander-thapliyal-a5062480/), [Rafiqul Huda Chaudhury](/cdr-researcher-census/researchers/rafiqul-huda-chaudhury-a5027596/), [U. Sharma](/cdr-researcher-census/researchers/u-sharma-a5079733/), [L.P. Singh](/cdr-researcher-census/researchers/lp-singh-a5091533/)</small> | Cross-cutting CDR | 642 |
 
 ---
 

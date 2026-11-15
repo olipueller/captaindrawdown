@@ -1,7 +1,7 @@
 ---
 title: "Sk. Beebi"
-description: "Sk. Beebi, Maharaj Vijayaram Gajapathi Raj College of Engineering, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 75 by activity, 2935 by citations). 13 publications, h-index 6, 73 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sk. Beebi. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 75 by activity, 2935 by citations). 19 publications, h-index 6, 78 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sk-beebi-a5033219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,24 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sk. Beebi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sk-beebi-a5033219/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Maharaj Vijayaram Gajapathi Raj College of Engineering"
-  },
   "sameAs": "https://openalex.org/A5033219026"
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Maharaj Vijayaram Gajapathi Raj College of Engineering</td></tr>
-  <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 75 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2935 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>73</td></tr>
-  <tr><th>Publications</th><td>13</td></tr>
-  <tr><th>Share of publications on CDR</th><td>23.1%</td></tr>
+  <tr><th>Citations</th><td>78</td></tr>
+  <tr><th>Publications</th><td>19</td></tr>
+  <tr><th>Share of publications on CDR</th><td>15.8%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5033219026">OpenAlex</a></td></tr>
 </table>
@@ -44,9 +38,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7149422730)<br><small>with [P. J. Amal Joseph](/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/), [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [N. L. Janaki](/cdr-researcher-census/researchers/n-l-janaki-a5132958/), S. Priyadarshini, [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/)</small> | BECCS | 0 |
-| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170150030)<br><small>with [P. J. Amal Joseph](/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/), [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [N. L. Janaki](/cdr-researcher-census/researchers/n-l-janaki-a5132958/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/)</small> | BECCS | 0 |
-| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170158220)<br><small>with [P. J. Amal Joseph](/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/), [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [N. L. Janaki](/cdr-researcher-census/researchers/n-l-janaki-a5132958/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/)</small> | BECCS | 0 |
+| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7149422730)<br><small>with [P. J. Amal Joseph](/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/), [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [Janaki NL](/cdr-researcher-census/researchers/janaki-nl-a5123252/), S. Priyadarshini, [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/)</small> | BECCS | 0 |
+| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170150030)<br><small>with [P. J. Amal Joseph](/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/), [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [Janaki NL](/cdr-researcher-census/researchers/janaki-nl-a5123252/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/)</small> | BECCS | 0 |
+| 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170158220)<br><small>with [P. J. Amal Joseph](/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/), [G. Sailaja](/cdr-researcher-census/researchers/g-sailaja-a5132964/), [Janaki NL](/cdr-researcher-census/researchers/janaki-nl-a5123252/), [S.Priyadarshini](/cdr-researcher-census/researchers/spriyadarshini-a5132661/)</small> | BECCS | 0 |
 
 ---
 

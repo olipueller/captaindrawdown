@@ -1,7 +1,7 @@
 ---
 title: "Theophilus Nii Odai Mensah"
-description: "Theophilus Nii Odai Mensah, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3036 by activity, 86 by citations; Europe rank 753 by activity, 41 by citations). 19 publications, h-index 13, 914 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Theophilus Nii Odai Mensah, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3036 by activity, 86 by citations; Europe rank 753 by activity, 41 by citations). 25 publications, h-index 14, 1,029 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 3036 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 753 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>13</td></tr>
-  <tr><th>Citations</th><td>914</td></tr>
-  <tr><th>Publications</th><td>19</td></tr>
-  <tr><th>Share of publications on CDR</th><td>10.5%</td></tr>
-  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>1,029</td></tr>
+  <tr><th>Publications</th><td>25</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0331-0253">ORCID</a> · <a href="https://openalex.org/A5023009602">OpenAlex</a></td></tr>
 </table>
 
@@ -43,12 +43,13 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-2 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+3 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 2, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals](https://doi.org/10.1016/j.jclepro.2022.133920)<br><small>Journal of Cleaner Production · with Tansu Galimova, [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/), Hannu Karjunen, Mahdi Fasihi, [Manish Ram](/cdr-researcher-census/researchers/manish-ram-a5022314/) and 2 more</small> | DAC | 143 |
-| 2022 | [Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios](https://doi.org/10.1002/pip.3659)<br><small>Progress in Photovoltaics Research and Applications · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), David Moser, [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/), E. Román, E. Vartiainen and 8 more</small> | DAC | 106 |
+| 2026 | [Biomass and bioenergy: A systematic and critical review of the global sustainable potential until 2050](https://openalex.org/W7221771644)<br><small>with [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/), [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/)</small> | BECCS | 0 |
+| 2022 | [Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals](https://doi.org/10.1016/j.jclepro.2022.133920)<br><small>Journal of Cleaner Production · with Tansu Galimova, [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/), Hannu Karjunen, Mahdi Fasihi, [Manish Ram](/cdr-researcher-census/researchers/manish-ram-a5022314/) and 2 more</small> | DAC | 148 |
+| 2022 | [Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios](https://doi.org/10.1002/pip.3659)<br><small>Progress in Photovoltaics Research and Applications · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), David Moser, [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/), E. Román, E. Vartiainen and 8 more</small> | DAC | 116 |
 
 ---
 

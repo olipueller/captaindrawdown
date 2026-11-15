@@ -1,7 +1,7 @@
 ---
 title: "Luca Campion"
-description: "Luca Campion, Hasselt University, Belgium. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 132 by activity, 42 by citations). 8 publications, h-index 4, 600 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Luca Campion, Hasselt University, Belgium. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 132 by activity, 42 by citations). 35 publications, h-index 4, 677 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/luca-campion-a5066955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,10 +32,10 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>Europe: rank 132 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
-  <tr><th>Citations</th><td>600</td></tr>
-  <tr><th>Publications</th><td>8</td></tr>
-  <tr><th>Share of publications on CDR</th><td>12.5%</td></tr>
-  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Citations</th><td>677</td></tr>
+  <tr><th>Publications</th><td>35</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8774-2765">ORCID</a> · <a href="https://openalex.org/A5066955972">OpenAlex</a></td></tr>
 </table>
 
@@ -43,13 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-3 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Lifecycle environmental impacts of biochar in Belgium: The influence of biochar feedstocks, production temperatures, and applications](https://openalex.org/W7165575229)<br><small>with Campion Luca, Malina Robert, Pape Thomsen Tobias, Tobias Pape Thomsen, Weidema Bo, Kuppens Tom and 1 more</small> | Biochar | 1 |
+| 2026 | [Lifecycle environmental impacts of biochar in Belgium: The influence of biochar feedstocks, production temperatures, and applications](https://openalex.org/W7165575229)<br><small>with Campion Luca, Bo P. Weidema, Malina Robert, Pape Thomsen Tobias, [Robert Malina](/cdr-researcher-census/researchers/robert-malina-a5063845/), Tobias Pape Thomsen and 3 more</small> | Biochar | 1 |
 | 2026 | [Policy mixes and industry emergence: actor heterogeneity in the Danish biochar value chainat](https://openalex.org/W7213568765)<br><small>with Pernille Billum Jensen, Simon Bolwig, Jesper Sebastian Boock</small> | Biochar | 0 |
-| 2023 | [The costs and benefits of biochar production and use: A systematic review](https://doi.org/10.1016/j.jclepro.2023.137138)<br><small>Journal of Cleaner Production · with Madina Bekchanova, [Robert Malina](/cdr-researcher-census/researchers/robert-malina-a5063845/), [Tom Kuppens](/cdr-researcher-census/researchers/tom-kuppens-a5074860/)</small> | Biochar | 274 |
+| 2026 | [Pathways for biochar carbon removal: A national foresight study](https://openalex.org/W7214296217)<br><small>with L. Campion, M.J. Spaniol, Matthew J. Spaniol, T.P. Thomsen</small> | Biochar | 0 |
+| 2023 | [The costs and benefits of biochar production and use: A systematic review](https://doi.org/10.1016/j.jclepro.2023.137138)<br><small>Journal of Cleaner Production · with Madina Bekchanova, [Robert Malina](/cdr-researcher-census/researchers/robert-malina-a5063845/), [Tom Kuppens](/cdr-researcher-census/researchers/tom-kuppens-a5074860/)</small> | Biochar | 303 |
 
 ---
 

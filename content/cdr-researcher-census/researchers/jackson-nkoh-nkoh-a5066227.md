@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
-description: "Jackson Nkoh Nkoh, Shenzhen University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 81 by activity, 9780 by citations). 81 publications, h-index 25, 1,894 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jackson Nkoh Nkoh, Shenzhen University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 81 by activity, 9780 by citations). 79 publications, h-index 26, 2,045 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 81 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 9780 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>25</td></tr>
-  <tr><th>Citations</th><td>1,894</td></tr>
-  <tr><th>Publications</th><td>81</td></tr>
-  <tr><th>Share of publications on CDR</th><td>8.6%</td></tr>
+  <tr><th>h-index</th><td>26</td></tr>
+  <tr><th>Citations</th><td>2,045</td></tr>
+  <tr><th>Publications</th><td>79</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.9%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6708-1886">ORCID</a> · <a href="https://openalex.org/A5066227449">OpenAlex</a></td></tr>
 </table>
@@ -48,8 +48,8 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Exogenous organic matter modulates cadmium uptake in rice (Oryza sativa L.): Linking root surface chemistry to metal translocation and tolerance](https://openalex.org/W7140457657)<br><small>with Weiwei Huan, Kewei Li, Hailong Lu</small> | Biochar | 1 |
-| 2025 | [The Synergistic Effects of Rice Straw-Pyrolyzed Biochar and Compost on Acidity Mitigation and Carbon Sequestration in Acidic Soils: A Comparative Study](https://doi.org/10.3390/su17104408)<br><small>Sustainability · with Xiaoying Pan, Jiuyu Li, Renyong Shi, Tianchu Shu, Xiaoxia Mao, Ren‐kou Xu</small> | Biochar | 5 |
-| 2025 | [Biomass burning and biochar: developments in Sub-Saharan Africa](https://doi.org/10.1515/psr-2023-0016)<br><small>Physical Sciences Reviews · with Adefarati Oloruntoba, Ahmed Olalekan Omoniyi, Emmanuel Sunday Okeke, Fidelis Odedishemi Ajibade, Oluremi Ishola Adeniran, Oluremi Isola Adeniran and 3 more</small> | Biochar | 2 |
+| 2025 | [The Synergistic Effects of Rice Straw-Pyrolyzed Biochar and Compost on Acidity Mitigation and Carbon Sequestration in Acidic Soils: A Comparative Study](https://doi.org/10.3390/su17104408)<br><small>Sustainability · with Xiaoying Pan, Jiuyu Li, Rongguang Shi, Tianchu Shu, Xiaoxia Mao, Ren‐kou Xu</small> | Biochar | 8 |
+| 2025 | [Biomass burning and biochar: developments in Sub-Saharan Africa](https://doi.org/10.1515/psr-2023-0016)<br><small>Physical Sciences Reviews · with Adefarati Oloruntoba, Ahmed Olalekan Omoniyi, Emmanuel Sunday Okeke, Fidelis Odedishemi Ajibade, Oluremi Isola Adeniran, Olusanya Olaseinde and 2 more</small> | Biochar | 6 |
 | 2025 | [Direct Biochar–Root Interactions May Alter Cadmium Sequestration at the Interface: A Hydroponic Study](https://doi.org/10.3390/agronomy16010062)<br><small>Agronomy · with C. P. Jiang, Lihui Xiang, Qiang Liu, Yu Cheng, H. J. Lü</small> | Biochar | 2 |
 | 2025 | [Biochar-induced root surface functionalization enhances cadmium sequestration but increases translocation risk in rice (Oryza sativa L.)](https://doi.org/10.2139/ssrn.5599662)<br><small>SSRN Electronic Journal (preprint) · with Chenyan Jiang, Lihui Xiang, Qiang Liu, Yu Cheng, Hailong Lu</small> | Biochar | 0 |
 | 2025 | [Direct Biochar-Root Interactions Alter Cadmium Sequestration at the Interface: A Hydroponic Study Unveiling a Novel Mechanism Beyond Soil Immobilization](https://doi.org/10.2139/ssrn.5676728)<br><small>SSRN Electronic Journal (preprint) · with Chenyan Jiang, Lihui Xiang, Qiang Liu, Yu Cheng, Hailong Lu</small> | Biochar | 0 |

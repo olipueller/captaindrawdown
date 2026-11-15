@@ -1,7 +1,7 @@
 ---
 title: "Ajay K. Dalai"
-description: "Ajay K. Dalai, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 85 by activity, 17 by citations). 509 publications, h-index 89, 31,175 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Ajay K. Dalai, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 85 by activity, 17 by citations). 520 publications, h-index 91, 32,473 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 85 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>89</td></tr>
-  <tr><th>Citations</th><td>31,175</td></tr>
-  <tr><th>Publications</th><td>509</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
+  <tr><th>h-index</th><td>91</td></tr>
+  <tr><th>Citations</th><td>32,473</td></tr>
+  <tr><th>Publications</th><td>520</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2092-4078">ORCID</a> · <a href="https://openalex.org/A5054937059">OpenAlex</a></td></tr>
 </table>
@@ -47,15 +47,15 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Oil Palm Shell-Derived Activated Carbon: Adsorption Kinetics, Thermodynamics, and Interaction Mechanism for Lufenuron 50-EC Pesticide](https://doi.org/10.1021/acsomega.4c10096)<br><small>ACS Omega · with David Alejandro Jeison Nuñez, David Nuñez-Vargas, Juan Barraza, Juan Barraza-Burgos, Juan Guerrero-Perez, Juan Sebastián Pachón Guerrero and 2 more</small> | Biochar | 2 |
+| 2026 | [Oil Palm Shell-Derived Activated Carbon: Adsorption Kinetics, Thermodynamics, and Interaction Mechanism for Lufenuron 50-EC Pesticide](https://doi.org/10.1021/acsomega.4c10096)<br><small>ACS Omega · with David Alejandro Jeison Nuñez, Juan Barraza, Juan Sebastián Pachón Guerrero, Luis Diaz, Venu Babu Borugadda</small> | Biochar | 4 |
 | 2026 | [Oat Hull Valorization: Integrated Biofuel and Hydrochar Production via Hydrothermal Processing](https://openalex.org/W7162203072)<br><small>with Manpreet Singh, Falguni Pattnaik</small> | Biochar | 1 |
-| 2025 | [KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater](https://doi.org/10.3390/su17052170)<br><small>Sustainability · with Shivangi Jha, Bishnu Acharya, Falguni Pattnaik, Oscar Zapata</small> | Biochar | 5 |
+| 2025 | [KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater](https://doi.org/10.3390/su17052170)<br><small>Sustainability · with Shivangi Jha, Bishnu Acharya, Falguni Pattnaik, Oscar Zapata</small> | Biochar | 6 |
 | 2025 | [Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater](https://doi.org/10.1016/j.biombioe.2025.108237)<br><small>Biomass and Bioenergy · with Shivangi Jha, Bishnu Acharya, Falguni Pattnaik, Oscar Zapata</small> | Biochar | 5 |
-| 2024 | [Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products](https://doi.org/10.1016/j.bcab.2024.103379)<br><small>Biocatalysis and Agricultural Biotechnology · with Shivangi Jha, Bishnu Acharya, Falguni Pattnaik, Oscar Zapata, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/)</small> | Biochar | 17 |
-| 2023 | [A Review of Carbon Capture and Valorization Technologies](https://doi.org/10.3390/en16062589)<br><small>Energies · with Jiban Podder, [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), Falguni Pattnaik, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/)</small> | DAC | 83 |
-| 2022 | [Synthesis of Biochar From Lignocellulosic Biomass for Diverse Industrial Applications and Energy Harvesting: Effects of Pyrolysis Conditions on the Physicochemical Properties of Biochar](https://doi.org/10.3389/fmats.2022.870184)<br><small>Frontiers in Materials · with Alivia Mukherjee, [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), Jiban Podder</small> | Biochar | 160 |
-| 2021 | [Hydrochar: A Review on Its Production Technologies and Applications](https://doi.org/10.3390/catal11080939)<br><small>Catalysts · with Shima Masoumi, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), Venu Babu Borugadda</small> | Biochar | 360 |
-| 2021 | [Biochar production, activation and adsorptive applications: a review](https://doi.org/10.1007/s10311-020-01165-9)<br><small>Environmental Chemistry Letters · with [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), Alivia Mukherjee, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/)</small> | Biochar | 239 |
+| 2024 | [Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products](https://doi.org/10.1016/j.bcab.2024.103379)<br><small>Biocatalysis and Agricultural Biotechnology · with Shivangi Jha, Bishnu Acharya, Falguni Pattnaik, Oscar Zapata, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/)</small> | Biochar | 19 |
+| 2023 | [A Review of Carbon Capture and Valorization Technologies](https://doi.org/10.3390/en16062589)<br><small>Energies · with Jiban Podder, [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), Falguni Pattnaik, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/)</small> | DAC | 89 |
+| 2022 | [Synthesis of Biochar From Lignocellulosic Biomass for Diverse Industrial Applications and Energy Harvesting: Effects of Pyrolysis Conditions on the Physicochemical Properties of Biochar](https://doi.org/10.3389/fmats.2022.870184)<br><small>Frontiers in Materials · with Alivia Mukherjee, [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), Jiban Podder</small> | Biochar | 177 |
+| 2021 | [Hydrochar: A Review on Its Production Technologies and Applications](https://doi.org/10.3390/catal11080939)<br><small>Catalysts · with Shima Masoumi, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), Venu Babu Borugadda</small> | Biochar | 383 |
+| 2021 | [Biochar production, activation and adsorptive applications: a review](https://doi.org/10.1007/s10311-020-01165-9)<br><small>Environmental Chemistry Letters · with [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), Alivia Mukherjee, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/)</small> | Biochar | 256 |
 | 2021 | [Taguchi-based process optimization for activation of agro-food waste biochar and performance test for dye adsorption](https://doi.org/10.1016/j.chemosphere.2021.131531)<br><small>Chemosphere · with [Biswa R. Patra](/cdr-researcher-census/researchers/biswa-r-patra-a5002085/), [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), Venkatesh Meda</small> | Biochar | 114 |
 
 ---

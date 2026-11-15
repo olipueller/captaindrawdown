@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
-description: "Margarita de Las Obras Loscertales, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 30 by activity, 376 by citations; Europe rank 20 by activity, 162 by citations). 50 publications, h-index 10, 385 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Margarita de Las Obras Loscertales, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 30 by activity, 376 by citations; Europe rank 20 by activity, 162 by citations). 69 publications, h-index 15, 789 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 30 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 376 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 162 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>10</td></tr>
-  <tr><th>Citations</th><td>385</td></tr>
-  <tr><th>Publications</th><td>50</td></tr>
-  <tr><th>Share of publications on CDR</th><td>14.0%</td></tr>
+  <tr><th>h-index</th><td>15</td></tr>
+  <tr><th>Citations</th><td>789</td></tr>
+  <tr><th>Publications</th><td>69</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.1%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9362-6077">ORCID</a> · <a href="https://openalex.org/A5057397603">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Syngas Production from Liquid and Solid Fractions of Swine Manure in a 0.5 kWth Chemical Looping Gasification Unit](https://doi.org/10.3390/en19020317)<br><small>Energies · with Yldeney Domingos, Yldeney Silva Domingos, M.T. Izquierdo, María Izquierdo, A. Abad</small> | BECCS | 1 |
-| 2024 | [Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies](https://doi.org/10.1016/j.enconman.2024.118476)<br><small>Energy Conversion and Management · with Arturo Cabello, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Yldeney Domingos, Yldeney Silva Domingos, Teresa Mendiara</small> | BECCS | 22 |
-| 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163)<br><small>Fuel · with [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Francisco García‐Labiano, Juan A.C. Ruiz, [Juan Adánez](/cdr-researcher-census/researchers/juan-adanez-a5005651/)</small> | BECCS | 14 |
+| 2026 | [Syngas Production from Liquid and Solid Fractions of Swine Manure in a 0.5 kWth Chemical Looping Gasification Unit](https://doi.org/10.3390/en19020317)<br><small>Energies · with Yldeney Silva Domingos, M.T. Izquierdo, María Izquierdo, A. Abad</small> | BECCS | 1 |
+| 2024 | [Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies](https://doi.org/10.1016/j.enconman.2024.118476)<br><small>Energy Conversion and Management · with Arturo Cabello, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Yldeney Silva Domingos, Teresa Mendiara</small> | BECCS | 24 |
+| 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163)<br><small>Fuel · with [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Francisco García‐Labiano, Juan A.C. Ruiz, Juan Adánez</small> | BECCS | 14 |
 | 2023 | [Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor](https://doi.org/10.3390/en16093850)<br><small>Energies · with Lu Wang, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Aldo Bischi, Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), Mauro Zampilli and 2 more</small> | BECCS | 5 |
 | 2022 | [Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency](https://doi.org/10.1016/j.rser.2022.112851)<br><small>Renewable and Sustainable Energy Reviews · with [Pietro Bartocci](/cdr-researcher-census/researchers/pietro-bartocci-a5082211/), [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Andrea Taiana, Angela Serra, Arturo Cabello, Cristóbal Cortés and 11 more</small> | BECCS | 16 |
 | 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266)<br><small>Fuel · with Lu Wang, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), [Hanping Chen](/cdr-researcher-census/researchers/hanping-chen-a5007450/), Liang Wang and 7 more</small> | BECCS | 6 |

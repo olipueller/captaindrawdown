@@ -1,7 +1,7 @@
 ---
 title: "Joanna Hrabak"
-description: "Joanna Hrabak, Institute for Chemical Processing of Coal, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3022 by activity, 45 by citations). 9 publications, h-index 6, 418 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Joanna Hrabak, Institute for Chemical Processing of Coal, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3022 by activity, 45 by citations). 14 publications, h-index 6, 461 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/joanna-hrabak-a5003545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>Europe: rank 3022 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>418</td></tr>
-  <tr><th>Publications</th><td>9</td></tr>
-  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
+  <tr><th>Citations</th><td>461</td></tr>
+  <tr><th>Publications</th><td>14</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5548-0003">ORCID</a> · <a href="https://openalex.org/A5003545600">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar](https://doi.org/10.1016/j.energy.2022.126128)<br><small>Energy · with [Roksana Muzyka](/cdr-researcher-census/researchers/roksana-muzyka-a5065248/), Edyta Misztal, Ying Jiang, [Marcin Sajdak](/cdr-researcher-census/researchers/marcin-sajdak-a5044322/)</small> | Biochar | 260 |
+| 2022 | [Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar](https://doi.org/10.1016/j.energy.2022.126128)<br><small>Energy · with [Roksana Muzyka](/cdr-researcher-census/researchers/roksana-muzyka-a5065248/), Edyta Misztal, Ying Jiang, [Marcin Sajdak](/cdr-researcher-census/researchers/marcin-sajdak-a5044322/)</small> | Biochar | 285 |
 
 ---
 

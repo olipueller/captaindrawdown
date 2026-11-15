@@ -1,7 +1,7 @@
 ---
 title: "Sophie Chlela"
-description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 47 by activity, 1969 by citations; Europe rank 32 by activity, 847 by citations). 14 publications, h-index 3, 17 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 47 by activity, 1969 by citations; Europe rank 32 by activity, 847 by citations). 25 publications, h-index 5, 53 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sophie-chlela-a5010115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,11 +27,11 @@ robots: "index, follow"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 47 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1969 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 847 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Early-career</td></tr>
-  <tr><th>h-index</th><td>3</td></tr>
-  <tr><th>Citations</th><td>17</td></tr>
-  <tr><th>Publications</th><td>14</td></tr>
-  <tr><th>Share of publications on CDR</th><td>78.6%</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>53</td></tr>
+  <tr><th>Publications</th><td>25</td></tr>
+  <tr><th>Share of publications on CDR</th><td>44.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5010115224">OpenAlex</a></td></tr>
 </table>
@@ -45,14 +45,14 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Land–energy nexus to assess the contribution of carbon dioxide removal in net-zero emission pathways](https://openalex.org/W7165203742)<br><small>with Nicklas Forsell, [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | DAC | 0 |
-| 2025 | [The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions](https://doi.org/10.1016/j.scitotenv.2025.179271)<br><small>The Science of The Total Environment · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 8 |
-| 2025 | [Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation](https://doi.org/10.1007/s40518-025-00271-y)<br><small>Current Sustainable/Renewable Energy Reports · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 3 |
+| 2025 | [The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions](https://doi.org/10.1016/j.scitotenv.2025.179271)<br><small>The Science of The Total Environment · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 11 |
+| 2025 | [Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation](https://doi.org/10.1007/s40518-025-00271-y)<br><small>Current Sustainable/Renewable Energy Reports · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 7 |
 | 2025 | [Balancing between carbon dioxide removal options: what are the lessons learned from techno-economic modelling?](https://hal.science/hal-05453344)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 0 |
 | 2024 | [Water use in a sustainable net zero energy system: what are the implications of employing bioenergy with carbon capture and storage?](https://doi.org/10.54337/ijsepm.8159)<br><small>International Journal of Sustainable Energy Planning and Management · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | BECCS | 5 |
 | 2024 | [From Theory to Practice: Modeling Biomass Supply and Carbon Dioxide Removal for Climate Goals](https://hal.science/hal-04863144)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | BECCS | 0 |
 | 2024 | [Climate actions effects on ressource sustainability in a carbon constrained world](https://hal.science/hal-04863274)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | BECCS | 0 |
 | 2024 | [Integrated modeling of the global energy system for pathways with carbon dioxide removal](https://openalex.org/W7152035442)<br><small>with Sophie Chlela</small> | BECCS | 0 |
-| 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1)<br><small>Implementing the UN sustainable development goals - regional perspectives · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 2 |
+| 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1)<br><small>Implementing the UN sustainable development goals - regional perspectives · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | Cross-cutting CDR | 3 |
 | 2022 | [Biomass from the carbon dioxide removal and carbon neutrality perspective: a long term assessment using TIAM-FR](https://hal.science/hal-03934511)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | BECCS | 0 |
 | 2022 | [Techno-economic assessment of bio-based Carbon Dioxide Removal using TIAM-FR](https://hal.science/hal-03934516)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sandrine Selosse](/cdr-researcher-census/researchers/sandrine-selosse-a5067314/)</small> | BECCS | 0 |
 

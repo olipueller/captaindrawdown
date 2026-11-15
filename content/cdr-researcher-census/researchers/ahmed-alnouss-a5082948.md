@@ -1,7 +1,7 @@
 ---
 title: "Ahmed AlNouss"
-description: "Ahmed AlNouss, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 1262 by activity, 32 by citations). 98 publications, h-index 26, 2,566 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ahmed AlNouss, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 1262 by activity, 32 by citations). 98 publications, h-index 28, 2,785 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ahmed-alnouss-a5082948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,8 +31,8 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 1262 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>26</td></tr>
-  <tr><th>Citations</th><td>2,566</td></tr>
+  <tr><th>h-index</th><td>28</td></tr>
+  <tr><th>Citations</th><td>2,785</td></tr>
   <tr><th>Publications</th><td>98</td></tr>
   <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Developing integrated direct air capture and bioenergy with carbon capture and storage systems: progress towards 2 °C and 1.5 °C climate goals](https://doi.org/10.1016/j.enconman.2023.117687)<br><small>Energy Conversion and Management · with Eric C. Okonkwo, [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS; DAC | 66 |
-| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734)<br><small>Resources Conservation and Recycling · with [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/), [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/), [Ikhlas Ghiat](/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/), [Samar Elkhalifa](/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS | 283 |
+| 2023 | [Developing integrated direct air capture and bioenergy with carbon capture and storage systems: progress towards 2 °C and 1.5 °C climate goals](https://doi.org/10.1016/j.enconman.2023.117687)<br><small>Energy Conversion and Management · with Eric C. Okonkwo, [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS; DAC | 71 |
+| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734)<br><small>Resources Conservation and Recycling · with [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/), [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/), [Ikhlas Ghiat](/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/), [Samar Elkhalifa](/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS | 309 |
 
 ---
 

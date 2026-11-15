@@ -1,7 +1,7 @@
 ---
 title: "Paweł Ziółkowski"
-description: "Paweł Ziółkowski, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 33 by activity, 329 by citations; Europe rank 23 by activity, 132 by citations). 165 publications, h-index 23, 1,738 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Paweł Ziółkowski, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 33 by activity, 329 by citations; Europe rank 23 by activity, 132 by citations). 146 publications, h-index 24, 1,730 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/pawe-ziokowski-a5022146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 33 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 329 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 132 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>23</td></tr>
-  <tr><th>Citations</th><td>1,738</td></tr>
-  <tr><th>Publications</th><td>165</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.2%</td></tr>
+  <tr><th>h-index</th><td>24</td></tr>
+  <tr><th>Citations</th><td>1,730</td></tr>
+  <tr><th>Publications</th><td>146</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7480-0420">ORCID</a> · <a href="https://openalex.org/A5022146966">OpenAlex</a></td></tr>
 </table>
@@ -48,11 +48,11 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption](https://doi.org/10.1016/j.energy.2026.140684)<br><small>Energy · with Chao Fu, Gonzalo del Alamo Serrano, Halina Pawlak-Kruczek, [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), Krystian Krochmalny and 11 more</small> | BECCS | 1 |
-| 2025 | [The effect of hydrothermal carbonization (HTC) on entrained flow steam gasification of sewage sludge. Experimental validation of various gasification models](https://doi.org/10.1016/j.energy.2025.134885)<br><small>Energy · with Jakub Mularski, Amit Arora, Halina Pawlak-Kruczek, Halina Pawlak–Kruczek, [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), Krystian Krochmalny and 8 more</small> | BECCS | 7 |
-| 2024 | [Exergy analysis and thermodynamic optimization of a bioenergy with carbon capture and storage gas power plant using Monte Carlo simulation of sewage sludge composition](https://doi.org/10.1016/j.applthermaleng.2024.125312)<br><small>Applied Thermal Engineering · with [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), Ivar S. Ertesvåg, [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 7 |
-| 2023 | [Selected Aspects of Performance of Organic Rankine Cycles Incorporated Into Bioenergy With Carbon Capture and Storage Using Gasification of Sewage Sludge](https://doi.org/10.1115/1.4064196)<br><small>Journal of Energy Resources Technology · with [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 12 |
-| 2023 | [Comparative Study of Oxygen Separation Using Cryogenic and Membrane Techniques for nCO2PP](https://doi.org/10.52202/069564-0260)<br><small>with Maja Kaszuba, [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | Cross-cutting CDR | 5 |
-| 2023 | [Performance of cryogenic oxygen production unit with exhaust gas bleed for sewage sludge gasification and different oxygen purities](https://doi.org/10.24425/ather.2023.147537)<br><small>Archives of Thermodynamics · with Maja Kaszuba, [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 5 |
+| 2025 | [The effect of hydrothermal carbonization (HTC) on entrained flow steam gasification of sewage sludge. Experimental validation of various gasification models](https://doi.org/10.1016/j.energy.2025.134885)<br><small>Energy · with Jakub Mularski, Amit Arora, Halina Pawlak-Kruczek, [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), Krystian Krochmalny, Marcin Baranowski and 7 more</small> | BECCS | 8 |
+| 2024 | [Exergy analysis and thermodynamic optimization of a bioenergy with carbon capture and storage gas power plant using Monte Carlo simulation of sewage sludge composition](https://doi.org/10.1016/j.applthermaleng.2024.125312)<br><small>Applied Thermal Engineering · with [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), Ivar S. Ertesvåg, [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 8 |
+| 2023 | [Selected Aspects of Performance of Organic Rankine Cycles Incorporated Into Bioenergy With Carbon Capture and Storage Using Gasification of Sewage Sludge](https://doi.org/10.1115/1.4064196)<br><small>Journal of Energy Resources Technology · with [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 11 |
+| 2023 | [Comparative Study of Oxygen Separation Using Cryogenic and Membrane Techniques for nCO2PP](https://doi.org/10.52202/069564-0260)<br><small>with Maja Kaszuba, [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | Cross-cutting CDR | 4 |
+| 2023 | [Performance of cryogenic oxygen production unit with exhaust gas bleed for sewage sludge gasification and different oxygen purities](https://doi.org/10.24425/ather.2023.147537)<br><small>Archives of Thermodynamics · with Maja Kaszuba, [Dariusz Mikielewicz](/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/)</small> | BECCS | 4 |
 | 2021 | [Mathematical modelling of gasification process of sewage sludge in reactor of negative CO2 emission power plant](https://doi.org/10.1016/j.energy.2021.122601)<br><small>Energy · with Halina Pawlak-Kruczek, Jakub Mularski, Janusz Badur, [Kamil Stasiak](/cdr-researcher-census/researchers/kamil-stasiak-a5006549/), Krystian Krochmalny, Milad Amiri and 3 more</small> | BECCS | 45 |
 
 ---

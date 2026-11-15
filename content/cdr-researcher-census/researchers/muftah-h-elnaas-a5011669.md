@@ -1,7 +1,7 @@
 ---
 title: "Muftah H. El‐Naas"
-description: "Muftah H. El‐Naas, Qatar University, Qatar. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 672 by activity, 51 by citations). 201 publications, h-index 52, 10,729 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Muftah H. El‐Naas, Qatar University, Qatar. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 672 by activity, 51 by citations). 201 publications, h-index 53, 11,356 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/muftah-h-elnaas-a5011669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,8 +31,8 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 672 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>52</td></tr>
-  <tr><th>Citations</th><td>10,729</td></tr>
+  <tr><th>h-index</th><td>53</td></tr>
+  <tr><th>Citations</th><td>11,356</td></tr>
   <tr><th>Publications</th><td>201</td></tr>
   <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System](https://doi.org/10.1002/ese3.70122)<br><small>Energy Science & Engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Namra Mir, [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/)</small> | DAC | 4 |
+| 2025 | [Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System](https://doi.org/10.1002/ese3.70122)<br><small>Energy Science & Engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Namra Mir, [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/)</small> | DAC | 6 |
 | 2024 | [A techno-economic assessment of conventional and modified Solvay processes for CO2 capture and reject brine desalination](https://doi.org/10.1016/j.jclepro.2024.143087)<br><small>Journal of Cleaner Production · with Dina Ewis, Sabla Y. Alnouri</small> | Cross-cutting CDR | 14 |
-| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b)<br><small>RSC Advances · with [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 112 |
-| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991)<br><small>Environmental Technology & Innovation · with [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), [Arash Ostovar](/cdr-researcher-census/researchers/arash-ostovar-a5019334/), [Brahim Aïssa](/cdr-researcher-census/researchers/brahim-aissa-a5078722/), [Nashaat N. Nassar](/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 280 |
+| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b)<br><small>RSC Advances · with [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 121 |
+| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991)<br><small>Environmental Technology & Innovation · with [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), [Arash Ostovar](/cdr-researcher-census/researchers/arash-ostovar-a5019334/), [Brahim Aïssa](/cdr-researcher-census/researchers/brahim-aissa-a5078722/), [Nashaat N. Nassar](/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 308 |
 
 ---
 

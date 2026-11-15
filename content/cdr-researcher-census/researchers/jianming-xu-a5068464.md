@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xu"
 description: "Jianming Xu, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 224 by activity, 26 by citations). 812 publications, h-index 106, 45,124 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/jianming-xu-a5068464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,15 +47,15 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Hydroxyapatite-Modified Biochar Application Derived from Recycled Selenium-Rich Straw Enhances Rice Biofortification and Economic Benefits](https://doi.org/10.1021/acs.est.5c06044)<br><small>Environmental Science & Technology · with Haoran Guan, Henglei Zhang, Kai Wang, Yuan Lv, Xingmei Liu</small> | Biochar | 3 |
+| 2025 | [Hydroxyapatite-Modified Biochar Application Derived from Recycled Selenium-Rich Straw Enhances Rice Biofortification and Economic Benefits](https://doi.org/10.1021/acs.est.5c06044)<br><small>Environmental Science & Technology · with Haoran Guan, Henglei Zhang, Kai Wang, Yuan Lv, Xingmei Liu</small> | Biochar | 5 |
 | 2023 | [Compound-specific stable isotope analysis for characterization of the transformation of γ-HCH induced by biochar](https://doi.org/10.1016/j.chemosphere.2022.137729)<br><small>Chemosphere · with Min Zhu, Yaqing Liu, Yan He</small> | Biochar | 6 |
 | 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901)<br><small>SSRN Electronic Journal (preprint) · with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Guitong Li, Hao‐Li Zhang, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/), Qimei Lin and 7 more</small> | Biochar | 0 |
-| 2022 | [Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups](https://doi.org/10.1016/j.soilbio.2022.108778)<br><small>Soil Biology and Biochemistry · with Ling Lu, Bin Jiang, Brian J. Reid, Chunmei Meng, Fan Ding, [Jitao Lv](/cdr-researcher-census/researchers/jitao-lv-a5110294/) and 4 more</small> | Biochar | 164 |
-| 2022 | [Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria](https://doi.org/10.1007/s00374-022-01643-y)<br><small>Biology and Fertility of Soils · with Yingyi Fu, Bhupinder Pal Singh, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/), Muhammad Auwal, Yu Luo</small> | Biochar | 84 |
-| 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176)<br><small>Geoderma · with Huaiting Liu, [Jihui Li](/cdr-researcher-census/researchers/jihui-li-a5071052/), Jorge L. Mazza Rodrigues, Peng Leng, Tao Wang, Xiaoqing Song and 3 more</small> | Biochar | 36 |
-| 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x)<br><small>Biochar · with Zhongmin Dai, Caixian Tang, Hang Zhu, Haojie Xu, [Jihui Li](/cdr-researcher-census/researchers/jihui-li-a5071052/), Peng Leng and 1 more</small> | Biochar | 380 |
-| 2021 | [Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization](https://doi.org/10.1007/s00374-020-01539-9)<br><small>Biology and Fertility of Soils · with Zhiyi Chen, Amit Kumar, Bhupinder Pal Singh, Hua Tu, Tida Ge, Yingyi Fu and 1 more</small> | Biochar | 42 |
-| 2021 | [Rhizosphere microbiome modulated effects of biochar on ryegrass 15N uptake and rhizodeposited 13C allocation in soil](https://doi.org/10.1007/s11104-021-04845-9)<br><small>Plant and Soil · with Yingyi Fu, Amit Kumar, Bhupinder Pal Singh, Brian J. Reid, Lijun Chen, Lu Luan and 10 more</small> | Biochar | 25 |
+| 2022 | [Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups](https://doi.org/10.1016/j.soilbio.2022.108778)<br><small>Soil Biology and Biochemistry · with Ling Lu, Bin Jiang, Brian J. Reid, Chunmei Meng, Fan Ding and 5 more</small> | Biochar | 169 |
+| 2022 | [Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria](https://doi.org/10.1007/s00374-022-01643-y)<br><small>Biology and Fertility of Soils · with Yingyi Fu, Bhupinder Pal Singh, [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/), Muhammad Auwal, Yu Luo</small> | Biochar | 87 |
+| 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176)<br><small>Geoderma · with Huaiting Liu, [Jihui Li](/cdr-researcher-census/researchers/jihui-li-a5071052/), Jorge L. Mazza Rodrigues, Peng Leng, Tao Wang, Xiaoqing Song and 3 more</small> | Biochar | 38 |
+| 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x)<br><small>Biochar · with Zhongmin Dai, Caixian Tang, Hang Zhu, Haojie Xu, [Jihui Li](/cdr-researcher-census/researchers/jihui-li-a5071052/), Peng Leng and 1 more</small> | Biochar | 408 |
+| 2021 | [Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization](https://doi.org/10.1007/s00374-020-01539-9)<br><small>Biology and Fertility of Soils · with Zhiyi Chen, Amit Kumar, Bhupinder Pal Singh, Hua Tu, Tida Ge, Yingyi Fu and 1 more</small> | Biochar | 41 |
+| 2021 | [Rhizosphere microbiome modulated effects of biochar on ryegrass 15N uptake and rhizodeposited 13C allocation in soil](https://doi.org/10.1007/s11104-021-04845-9)<br><small>Plant and Soil · with Yingyi Fu, Amit Kumar, Bhupinder Pal Singh, Brian J. Reid, Lijun Chen, Lu Luan and 10 more</small> | Biochar | 27 |
 
 ---
 

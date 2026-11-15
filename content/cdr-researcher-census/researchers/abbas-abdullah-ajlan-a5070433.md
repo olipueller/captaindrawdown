@@ -1,7 +1,7 @@
 ---
 title: "Abbas Abdullah Ajlan"
-description: "Abbas Abdullah Ajlan, Taiz University, YE. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23847 by activity, 78 by citations). 2 publications, h-index 2, 535 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Abbas Abdullah Ajlan. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23847 by activity, 78 by citations). 4 publications, h-index 2, 592 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Abbas Abdullah Ajlan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Taiz University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-1850-4293",
     "https://openalex.org/A5070433037"
@@ -26,15 +22,13 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Taiz University</td></tr>
-  <tr><th>Country</th><td>YE</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23847 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
-  <tr><th>Citations</th><td>535</td></tr>
-  <tr><th>Publications</th><td>2</td></tr>
-  <tr><th>Share of publications on CDR</th><td>50.0%</td></tr>
+  <tr><th>Citations</th><td>592</td></tr>
+  <tr><th>Publications</th><td>4</td></tr>
+  <tr><th>Share of publications on CDR</th><td>25.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1850-4293">ORCID</a> · <a href="https://openalex.org/A5070433037">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +41,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 511 |
+| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 556 |
 
 ---
 

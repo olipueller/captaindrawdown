@@ -1,7 +1,7 @@
 ---
 title: "Sibel Eker"
-description: "Sibel Eker, Radboud University Nijmegen, Netherlands. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4677 by activity, 65 by citations; Europe rank 1321 by activity, 46 by citations). 92 publications, h-index 20, 1,552 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sibel Eker, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4677 by activity, 65 by citations; Europe rank 1321 by activity, 46 by citations). 119 publications, h-index 22, 1,794 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sibel-eker-a5013637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sibel-eker-a5013637/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Radboud University Nijmegen"
+    "name": "International Institute for Applied Systems Analysis"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2264-132X",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Radboud University Nijmegen</td></tr>
-  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4677 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 65 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1321 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>20</td></tr>
-  <tr><th>Citations</th><td>1,552</td></tr>
-  <tr><th>Publications</th><td>92</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
+  <tr><th>h-index</th><td>22</td></tr>
+  <tr><th>Citations</th><td>1,794</td></tr>
+  <tr><th>Publications</th><td>119</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2264-132X">ORCID</a> · <a href="https://openalex.org/A5013637117">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock](https://doi.org/10.1038/s41561-021-00798-x)<br><small>Nature Geoscience · with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), [Jinfeng Chang](/cdr-researcher-census/researchers/jinfeng-chang-a5025102/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/) and 6 more</small> | Enhanced Weathering | 198 |
+| 2021 | [Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock](https://doi.org/10.1038/s41561-021-00798-x)<br><small>Nature Geoscience · with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), [Jinfeng Chang](/cdr-researcher-census/researchers/jinfeng-chang-a5025102/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/) and 6 more</small> | Enhanced Weathering | 218 |
 | 2021 | [Public Outreach and Interactive Learning with En-ROADS Global Energy and Climate Simulator](https://doi.org/10.5194/egusphere-egu21-7334)<br><small>with Charles B. Jones, Florian Kapmeier, Jack Homer, John D. Sterman, Juliette N. Rooney‐Varga, Lori Siegel and 3 more</small> | Cross-cutting CDR | 0 |
 
 ---

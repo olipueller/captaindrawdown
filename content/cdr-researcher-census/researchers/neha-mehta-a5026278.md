@@ -1,7 +1,7 @@
 ---
 title: "Neha Mehta"
-description: "Neha Mehta, Queen's University Belfast, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 1443 by activity, 19 by citations). 128 publications, h-index 29, 4,358 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Neha Mehta, University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 1443 by activity, 19 by citations). 69 publications, h-index 20, 3,512 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/neha-mehta-a5026278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/neha-mehta-a5026278/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Queen's University Belfast"
+    "name": "University of Birmingham"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0846-0549",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Queen's University Belfast</td></tr>
+  <tr><th>Institution</th><td>University of Birmingham</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 1443 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>29</td></tr>
-  <tr><th>Citations</th><td>4,358</td></tr>
-  <tr><th>Publications</th><td>128</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.6%</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>3,512</td></tr>
+  <tr><th>Publications</th><td>69</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.9%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0846-0549">ORCID</a> · <a href="https://openalex.org/A5026278045">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/) and 7 more</small> | Biochar | 216 |
-| 2022 | [Atmospheric carbon removal via industrial biochar systems: A techno-economic-environmental study](https://doi.org/10.1016/j.jclepro.2022.133660)<br><small>Journal of Cleaner Production · with [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), Donal Moran, [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/)</small> | Biochar | 196 |
+| 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/) and 7 more</small> | Biochar | 242 |
+| 2022 | [Atmospheric carbon removal via industrial biochar systems: A techno-economic-environmental study](https://doi.org/10.1016/j.jclepro.2022.133660)<br><small>Journal of Cleaner Production · with [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), Donal Moran, [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/)</small> | Biochar | 212 |
 
 ---
 

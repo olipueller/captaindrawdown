@@ -1,7 +1,7 @@
 ---
 title: "Brian Vad Mathiesen"
-description: "Brian Vad Mathiesen, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10636 by activity, 68 by citations). 439 publications, h-index 69, 25,803 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Brian Vad Mathiesen, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10636 by activity, 68 by citations). 440 publications, h-index 71, 28,242 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10636 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>69</td></tr>
-  <tr><th>Citations</th><td>25,803</td></tr>
-  <tr><th>Publications</th><td>439</td></tr>
+  <tr><th>h-index</th><td>71</td></tr>
+  <tr><th>Citations</th><td>28,242</td></tr>
+  <tr><th>Publications</th><td>440</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3917-1184">ORCID</a> · <a href="https://openalex.org/A5011646264">OpenAlex</a></td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Standalone and system-level perspectives on hydrogen-based sustainable aviation fuel pathways for Denmark](https://doi.org/10.1016/j.energy.2025.135450)<br><small>Energy · with Hamza Abid, Iva Ridjan Skov, [Poul Alberg Østergaard](/cdr-researcher-census/researchers/poul-alberg-stergaard-a5073324/)</small> | BECCS; DAC | 25 |
-| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 588 |
+| 2025 | [Standalone and system-level perspectives on hydrogen-based sustainable aviation fuel pathways for Denmark](https://doi.org/10.1016/j.energy.2025.135450)<br><small>Energy · with Hamza Abid, Iva Ridjan Skov, [Poul Alberg Østergaard](/cdr-researcher-census/researchers/poul-alberg-stergaard-a5073324/)</small> | BECCS; DAC | 30 |
+| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 644 |
 | 2022 | [The role of sustainable bioenergy in a fully decarbonised society](https://doi.org/10.1016/j.renene.2022.06.026)<br><small>Renewable Energy · with [Henrik Lund](/cdr-researcher-census/researchers/henrik-lund-a5103109/), Andrei David Korberg, Iva Ridjan Skov, Jakob Zinck Thellufsen, Miguel Chang, Peter Sorknæs and 1 more</small> | BECCS | 86 |
 
 ---

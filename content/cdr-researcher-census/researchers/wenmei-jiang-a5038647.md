@@ -1,7 +1,7 @@
 ---
 title: "Wenmei Jiang"
-description: "Wenmei Jiang, Sun Yat-sen University, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5487 by activity, 54 by citations). 21 publications, h-index 10, 804 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Wenmei Jiang, Chinese Academy of Sciences, China. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5487 by activity, 54 by citations). 19 publications, h-index 8, 442 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/wenmei-jiang-a5038647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,22 +16,22 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenmei-jiang-a5038647/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sun Yat-sen University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5038647841"
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Sun Yat-sen University</td></tr>
+  <tr><th>Institution</th><td>Chinese Academy of Sciences</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 5487 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 54 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>10</td></tr>
-  <tr><th>Citations</th><td>804</td></tr>
-  <tr><th>Publications</th><td>21</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
+  <tr><th>h-index</th><td>8</td></tr>
+  <tr><th>Citations</th><td>442</td></tr>
+  <tr><th>Publications</th><td>19</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5038647841">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990)<br><small>iScience · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/), [Anthony D. Ruiz](/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/), [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/)</small> | DAC | 351 |
+| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990)<br><small>iScience · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/), [Anthony D. Ruiz](/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/), [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/)</small> | DAC | 384 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Zeynep Clulow"
-description: "Zeynep Clulow, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 837 by activity, 10 by citations; Europe rank 269 by activity, 7 by citations). 16 publications, h-index 6, 867 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Zeynep Clulow, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 837 by activity, 10 by citations; Europe rank 269 by activity, 7 by citations). 17 publications, h-index 6, 942 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/zeynep-clulow-a5091372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 837 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 10 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 269 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 7 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>867</td></tr>
-  <tr><th>Publications</th><td>16</td></tr>
-  <tr><th>Share of publications on CDR</th><td>25.0%</td></tr>
+  <tr><th>Citations</th><td>942</td></tr>
+  <tr><th>Publications</th><td>17</td></tr>
+  <tr><th>Share of publications on CDR</th><td>23.5%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7297-2018">ORCID</a> · <a href="https://openalex.org/A5091372787">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Communicating and regulating marine carbon dioxide removal (mCDR)](https://openalex.org/W7155102855)<br><small>with Jan Bazyli Klakla, [Christine Merk](/cdr-researcher-census/researchers/christine-merk-a5135538/), Ginevra Le Moli, Manfredi Marciante, Yelena Yermakova</small> | Ocean CDR | 0 |
-| 2024 | [Expert insights into future trajectories: assessing cost reductions and scalability of carbon dioxide removal technologies](https://doi.org/10.3389/fclim.2024.1331901)<br><small>Frontiers in Climate · with Manon Abegg, Lucrezia Nava, [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/)</small> | BECCS; DAC | 24 |
-| 2022 | [Direct air capture: process technology, techno-economic and socio-political challenges](https://doi.org/10.1039/d1ee03523a)<br><small>Energy & Environmental Science · with [María Erans](/cdr-researcher-census/researchers/maria-erans-a5025793/), [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/), [Dawid P. Hanak](/cdr-researcher-census/researchers/dawid-p-hanak-a5070456/), [Eloy S. Sanz-Pérez](/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/), [Greg A. Mutch](/cdr-researcher-census/researchers/greg-a-mutch-a5016518/)</small> | DAC | 690 |
+| 2026 | [Communicating and regulating marine carbon dioxide removal (mCDR)](https://openalex.org/W7155102855)<br><small>with Jan Bazyli Klakla, Christine Merk, Ginevra Le Moli, Manfredi Marciante, Yelena Yermakova</small> | Ocean CDR | 1 |
+| 2024 | [Expert insights into future trajectories: assessing cost reductions and scalability of carbon dioxide removal technologies](https://doi.org/10.3389/fclim.2024.1331901)<br><small>Frontiers in Climate · with Manon Abegg, Lucrezia Nava, [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/)</small> | BECCS; DAC | 30 |
+| 2022 | [Direct air capture: process technology, techno-economic and socio-political challenges](https://doi.org/10.1039/d1ee03523a)<br><small>Energy & Environmental Science · with [María Erans](/cdr-researcher-census/researchers/maria-erans-a5025793/), [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/), [Dawid P. Hanak](/cdr-researcher-census/researchers/dawid-p-hanak-a5070456/), [Eloy S. Sanz-Pérez](/cdr-researcher-census/researchers/eloy-s-sanz-perez-a5015931/), [Greg A. Mutch](/cdr-researcher-census/researchers/greg-a-mutch-a5016518/)</small> | DAC | 728 |
 | 2022 | [Political and Socio-economic Challenges of Greenhouse Gas Removal Technologies](https://doi.org/10.1039/9781839165245-00390)<br><small>with [David Reiner](/cdr-researcher-census/researchers/david-reiner-a5085217/)</small> | DAC | 3 |
 
 ---

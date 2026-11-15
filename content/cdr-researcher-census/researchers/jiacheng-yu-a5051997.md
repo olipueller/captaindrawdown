@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Yu"
-description: "Jiacheng Yu, Tianjin University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2314 by activity, 60 by citations). 30 publications, h-index 12, 480 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jiacheng Yu, Institute of Geology and Geophysics, Chinese Academy of Sciences, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2314 by activity, 60 by citations). 28 publications, h-index 13, 500 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/jiacheng-yu-a5051997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiacheng-yu-a5051997/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tianjin University"
+    "name": "Institute of Geology and Geophysics, Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3860-4232",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Tianjin University</td></tr>
+  <tr><th>Institution</th><td>Institute of Geology and Geophysics, Chinese Academy of Sciences</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 2314 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>12</td></tr>
-  <tr><th>Citations</th><td>480</td></tr>
-  <tr><th>Publications</th><td>30</td></tr>
-  <tr><th>Share of publications on CDR</th><td>6.7%</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>500</td></tr>
+  <tr><th>Publications</th><td>28</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3860-4232">ORCID</a> · <a href="https://openalex.org/A5051997611">OpenAlex</a></td></tr>
 </table>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2025 | [Direct CO<sub>2</sub> Mineralization of Steel Slag Accelerated by <i>Sporosarcina pasteurii</i>](https://doi.org/10.1021/acs.energyfuels.5c00935)<br><small>Energy & Fuels · with Yuele Zhang, Xiang Xu, Yanjun Zhang, Changqian Cao</small> | Enhanced Weathering | 7 |
-| 2024 | [Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review](https://doi.org/10.1007/s10311-023-01694-z)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ahmed K. Rashwan](/cdr-researcher-census/researchers/ahmed-k-rashwan-a5065290/), [Bingbing Fang](/cdr-researcher-census/researchers/bingbing-fang-a5111766/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/), [Lin Chen](/cdr-researcher-census/researchers/lin-chen-a5100443/) and 5 more</small> | BECCS | 223 |
+| 2024 | [Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review](https://doi.org/10.1007/s10311-023-01694-z)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ahmed K. Rashwan](/cdr-researcher-census/researchers/ahmed-k-rashwan-a5065290/), [Bingbing Fang](/cdr-researcher-census/researchers/bingbing-fang-a5111766/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/), [Lin Chen](/cdr-researcher-census/researchers/lin-chen-a5100443/) and 5 more</small> | BECCS | 266 |
 
 ---
 

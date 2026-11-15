@@ -1,7 +1,7 @@
 ---
 title: "Magnus Rydén"
-description: "Magnus Rydén, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 90 by activity, 1120 by citations). 137 publications, h-index 45, 5,747 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Magnus Rydén, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 90 by activity, 1120 by citations). 147 publications, h-index 46, 6,394 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/magnus-ryden-a5041687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 90 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1120 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>45</td></tr>
-  <tr><th>Citations</th><td>5,747</td></tr>
-  <tr><th>Publications</th><td>137</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.6%</td></tr>
-  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>h-index</th><td>46</td></tr>
+  <tr><th>Citations</th><td>6,394</td></tr>
+  <tr><th>Publications</th><td>147</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.7%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7348-761X">ORCID</a> · <a href="https://openalex.org/A5041687423">OpenAlex</a></td></tr>
 </table>
 
@@ -48,9 +48,9 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Regretting carbon capture from bioenergy – A case study](https://openalex.org/W7160055675)<br><small>with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/)</small> | BECCS | 0 |
-| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537)<br><small>Frontiers in Energy Research · with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/), Dilip Khatiwada, Fabian Levihn, Will Usher</small> | BECCS | 11 |
-| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709)<br><small>SSRN Electronic Journal (preprint) · with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/), Tharun Kumar Roshan, Tharun Roshan Kumar</small> | BECCS | 0 |
-| 2023 | [An improved method for feeding ash model compounds to a bubbling fluidized bed – CLC experiments with ilmenite, methane, and K<sub>2</sub>CO<sub>3</sub>](https://doi.org/10.1002/ghg.2218)<br><small>Greenhouse Gases Science and Technology · with Felicia Störner, Henrik Leion, Pavleta Knutsson, Tobias Mattisson</small> | BECCS | 8 |
+| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537)<br><small>Frontiers in Energy Research · with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/), Dilip Khatiwada, Fabian Levihn, Will Usher</small> | BECCS | 17 |
+| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709)<br><small>SSRN Electronic Journal (preprint) · with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/), Tharun Roshan Kumar</small> | BECCS | 0 |
+| 2023 | [An improved method for feeding ash model compounds to a bubbling fluidized bed – CLC experiments with ilmenite, methane, and K<sub>2</sub>CO<sub>3</sub>](https://doi.org/10.1002/ghg.2218)<br><small>Greenhouse Gases Science and Technology · with Felicia Störner, Henrik Leion, Pavleta Knutsson, Tobias Mattisson</small> | BECCS | 9 |
 
 ---
 

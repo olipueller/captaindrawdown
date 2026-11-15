@@ -1,7 +1,7 @@
 ---
 title: "Richard L. Axelbaum"
-description: "Richard L. Axelbaum, Washington University in St. Louis, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 93 by activity, 1478 by citations). 195 publications, h-index 32, 4,177 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Richard L. Axelbaum, Washington University in St. Louis, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 93 by activity, 1478 by citations). 212 publications, h-index 33, 4,254 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/richard-l-axelbaum-a5091399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 93 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1478 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>32</td></tr>
-  <tr><th>Citations</th><td>4,177</td></tr>
-  <tr><th>Publications</th><td>195</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
-  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>4,254</td></tr>
+  <tr><th>Publications</th><td>212</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8958-146X">ORCID</a> · <a href="https://openalex.org/A5091399109">OpenAlex</a></td></tr>
 </table>
 
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [A full-scale staged, pressurized oxy-biomass combustion towards BECCS: Performance assessment via CFD approach](https://doi.org/10.1016/j.energy.2025.136262)<br><small>Energy · with Xiangdong Li, Gaofeng Dai, Guan Wang, Houzhang Tan, Hui Lin, Jiaye Zhang and 4 more</small> | BECCS | 8 |
-| 2025 | [Innovative performance evaluation and process simulation of a 550 MW staged, pressurized oxy-biomass combustion power plant for negative carbon emissions](https://doi.org/10.1016/j.renene.2025.124534)<br><small>Renewable Energy · with Xiangdong Li, Bin Liu, Gaofeng Dai, Guan Wang, Hui Lin, Jiaye Zhang and 3 more</small> | BECCS | 3 |
+| 2025 | [A full-scale staged, pressurized oxy-biomass combustion towards BECCS: Performance assessment via CFD approach](https://doi.org/10.1016/j.energy.2025.136262)<br><small>Energy · with Xiangdong Li, Gaofeng Dai, Guan Wang, Houzhang Tan, Hui Lin, Jiaye Zhang and 4 more</small> | BECCS | 9 |
+| 2025 | [Innovative performance evaluation and process simulation of a 550 MW staged, pressurized oxy-biomass combustion power plant for negative carbon emissions](https://doi.org/10.1016/j.renene.2025.124534)<br><small>Renewable Energy · with Xiangdong Li, Bin Liu, Gaofeng Dai, Guan Wang, Hui Lin, Jiaye Zhang and 3 more</small> | BECCS | 5 |
 | 2024 | [Process Design and Techno-Economic Analysis of the Modular Staged Pressurized Oxy-Combustion (SPOC) Power Plant for Biomass](https://openalex.org/W7138839705)<br><small>with NETL, Andrew Maxson, Babul Patel, Duarte Magalhaes, Gabrielle Farrell, Mao Cheng and 2 more</small> | BECCS | 0 |
 | 2023 | [Process Design and Techno-Economic Analysis of the Modular Staged Pressurized Oxy-Combustion (SPOC) Power Plant for Biomass](https://openalex.org/W7138854224)<br><small>with NETL, Andrew Maxson, Duarte Magalhaes, George Booras, Mao Cheng, Piyush Verma and 2 more</small> | BECCS | 0 |
 

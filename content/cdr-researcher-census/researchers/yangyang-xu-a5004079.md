@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Xu"
-description: "Yangyang Xu, Texas A&M University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4122 by activity, 93 by citations). 213 publications, h-index 41, 6,545 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Yangyang Xu, Texas A&M University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4122 by activity, 93 by citations). 165 publications, h-index 41, 6,404 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/yangyang-xu-a5004079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 4122 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>41</td></tr>
-  <tr><th>Citations</th><td>6,545</td></tr>
-  <tr><th>Publications</th><td>213</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.8%</td></tr>
+  <tr><th>Citations</th><td>6,404</td></tr>
+  <tr><th>Publications</th><td>165</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7173-7761">ORCID</a> · <a href="https://openalex.org/A5004079337">OpenAlex</a></td></tr>
 </table>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Scaling up enhanced rock weathering for equitable climate change mitigation](https://doi.org/10.1038/s44458-026-00034-w)<br><small>Communications Sustainability · with Ying Tu, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), Feng Tao, Linah Ababneh, N. Butler, Natalia Butler and 4 more</small> | Enhanced Weathering | 2 |
-| 2025 | [Removing atmospheric CO<sub>2</sub> through mass scaleup of crops with enhanced root systems](https://doi.org/10.1088/1748-9326/adc31b)<br><small>Environmental Research Letters · with Daniela Faggiani Dias, Jack A. Gilbert, Jeffrey Sachnik, [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), Wolfgang Busch, [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | Cross-cutting CDR | 7 |
-| 2025 | [The social costs of solar radiation management](https://doi.org/10.1038/s44168-025-00273-y)<br><small>npj Climate Action · with Jacob Bronsther</small> | Cross-cutting CDR | 3 |
-| 2025 | [Evaluating temporal trade-offs in climate effects from carbon dioxide removal strategies across different metrics: a case study on wetland restoration](https://doi.org/10.1088/1748-9326/adeb9d)<br><small>Environmental Research Letters · with Stavroula S. Sartzetakis, Emily A. Ury, Ilissa Ocko, Tianyi Sun, Brian Buma</small> | Cross-cutting CDR | 1 |
-| 2024 | [Opinion: A research roadmap for exploring atmospheric methane removal via iron salt aerosol](https://doi.org/10.5194/acp-24-5659-2024)<br><small>Atmospheric chemistry and physics · with K. Gorham, Alfonso Saiz‐Lopez, Chloe Brashear, Daphne Meidan, Erika Reinhardt, Maarten M. J. W. van Herpen and 7 more</small> | Cross-cutting CDR | 13 |
+| 2026 | [Scaling up enhanced rock weathering for equitable climate change mitigation](https://doi.org/10.1038/s44458-026-00034-w)<br><small>Communications Sustainability · with Ying Tu, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), Feng Tao, Linah Ababneh, N. Butler, Natalia Butler and 4 more</small> | Enhanced Weathering | 4 |
+| 2025 | [Removing atmospheric CO<sub>2</sub> through mass scaleup of crops with enhanced root systems](https://doi.org/10.1088/1748-9326/adc31b)<br><small>Environmental Research Letters · with Daniela Faggiani Dias, Jack A. Gilbert, Jeffrey Sachnik, [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), Wolfgang Busch, [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | Cross-cutting CDR | 10 |
+| 2025 | [The social costs of solar radiation management](https://doi.org/10.1038/s44168-025-00273-y)<br><small>npj Climate Action · with Jacob Bronsther</small> | Cross-cutting CDR | 8 |
+| 2025 | [Evaluating temporal trade-offs in climate effects from carbon dioxide removal strategies across different metrics: a case study on wetland restoration](https://doi.org/10.1088/1748-9326/adeb9d)<br><small>Environmental Research Letters · with Stavroula S. Sartzetakis, Emily A. Ury, Ilissa Ocko, Tianyi Sun, Brian Buma</small> | Cross-cutting CDR | 2 |
+| 2024 | [Opinion: A research roadmap for exploring atmospheric methane removal via iron salt aerosol](https://doi.org/10.5194/acp-24-5659-2024)<br><small>Atmospheric chemistry and physics · with K. Gorham, Alfonso Saiz‐Lopez, Chloe Brashear, Daphne Meidan, Erika Reinhardt, Maarten M. J. W. van Herpen and 7 more</small> | Cross-cutting CDR | 17 |
 | 2023 | [Exploring potential atmospheric methane removal approaches: an example research roadmap for chlorine radical enhancement](https://doi.org/10.22541/essoar.169755495.51174285/v1)<br><small>preprint · with K. Gorham, Alfonso Saiz‐Lopez, Chloe Brashear, Daphne Meidan, Erika Reinhardt, Maarten M. J. W. van Herpen and 7 more</small> | Cross-cutting CDR | 1 |
-| 2021 | [Emergency deployment of direct air capture as a response to the climate crisis](https://doi.org/10.1038/s41467-020-20437-0)<br><small>Nature Communications · with [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 246 |
+| 2021 | [Emergency deployment of direct air capture as a response to the climate crisis](https://doi.org/10.1038/s41467-020-20437-0)<br><small>Nature Communications · with [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 260 |
 | 2021 | [Emergency responses to the climate crisis: The case of direct air capture of CO2](https://doi.org/10.5194/egusphere-egu21-9269)<br><small>with [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), [Ahmed Abdulla](/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 0 |
 
 ---

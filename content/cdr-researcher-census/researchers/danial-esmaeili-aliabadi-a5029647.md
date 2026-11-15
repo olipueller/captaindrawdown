@@ -1,7 +1,7 @@
 ---
 title: "Danial Esmaeili Aliabadi"
-description: "Danial Esmaeili Aliabadi, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 26 by activity, 1159 by citations; Europe rank 17 by activity, 508 by citations). 70 publications, h-index 14, 606 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Danial Esmaeili Aliabadi, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 26 by activity, 1159 by citations; Europe rank 17 by activity, 508 by citations). 85 publications, h-index 16, 723 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/danial-esmaeili-aliabadi-a5029647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 26 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1159 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 508 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>606</td></tr>
-  <tr><th>Publications</th><td>70</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
+  <tr><th>h-index</th><td>16</td></tr>
+  <tr><th>Citations</th><td>723</td></tr>
+  <tr><th>Publications</th><td>85</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.2%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2922-2400">ORCID</a> · <a href="https://openalex.org/A5029647177">OpenAlex</a></td></tr>
 </table>
@@ -43,16 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, DAC 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6, Cross-cutting CDR 1, DAC 1, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective](https://openalex.org/W7196976408)<br><small>with [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Danial Esmaeili Aliabadi, Matthias Jordan, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/) and 2 more</small> | Cross-cutting CDR | 1 |
 | 2026 | [Modeling the integration of BECCS into German bioenergy system](https://openalex.org/W7138825365)<br><small>with [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 0 |
 | 2026 | [Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany](https://openalex.org/W7167934690)<br><small>with Matthias Jordan, [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Sandra Franziska Gutjahr, Sandra Gutjahr, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS; DAC | 0 |
-| 2026 | [Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective](https://openalex.org/W7196976408)<br><small>with [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Danial Esmaeili Aliabadi, Matthias Jordan, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/) and 2 more</small> | Cross-cutting CDR | 0 |
-| 2025 | [Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives](https://doi.org/10.1111/gcbb.70075)<br><small>GCB Bioenergy · with [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/), Danny Otto, Joshua Röbisch, [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Nils Matzner, Nóra Szarka and 2 more</small> | BECCS | 4 |
-| 2025 | [Man0EUvRE: Energy System Modelling for Transition to a net-Zero 2050 for EU via REPowerEU: Deliverable 3.1 Executive Summaries of Case Studies](https://openalex.org/W7140259401)<br><small>with Danial Esmaeili Aliabadi, Ana Estanqueiro, Anders Arvesen, António Couto, Carlos Mantilla and 22 more</small> | BECCS | 0 |
-| 2024 | [A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany](https://doi.org/10.1088/1748-9326/ad7edd)<br><small>Environmental Research Letters · with [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Matthias Jordan, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 14 |
+| 2026 | [Evaluating Bio-based CDR Pathways through an Integrated Energy-land Optimization Framework for Germany](https://openalex.org/W7220932603)<br><small>with M. Sadr, D.E. Aliabadi, M. Borchers, [Malgorzata Borchers](/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/), R. Wollnik, [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/) and 1 more</small> | BECCS; Biochar | 0 |
+| 2025 | [Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives](https://doi.org/10.1111/gcbb.70075)<br><small>GCB Bioenergy · with [Ronja Wollnik](/cdr-researcher-census/researchers/ronja-wollnik-a5098773/), Danny Otto, Joshua Röbisch, [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Nils Matzner, Nóra Szarka and 2 more</small> | BECCS | 5 |
+| 2025 | [Man0EUvRE: Energy System Modelling for Transition to a net-Zero 2050 for EU via REPowerEU: Deliverable 3.1 Executive Summaries of Case Studies](https://openalex.org/W7140259401)<br><small>with Danial Esmaeili Aliabadi, Ana I. Estanqueiro, Anders Arvesen, António Couto, Carlos Mantilla and 22 more</small> | BECCS | 0 |
+| 2024 | [A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany](https://doi.org/10.1088/1748-9326/ad7edd)<br><small>Environmental Research Letters · with [Mohammad Sadr](/cdr-researcher-census/researchers/mohammad-sadr-a5038945/), Matthias Jordan, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/)</small> | BECCS | 17 |
 
 ---
 

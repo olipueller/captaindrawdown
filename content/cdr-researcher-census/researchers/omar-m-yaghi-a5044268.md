@@ -1,7 +1,7 @@
 ---
 title: "Omar M. Yaghi"
-description: "Omar M. Yaghi, University of California Berkeley, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 104 by activity, 73 by citations). 943 publications, h-index 201, 252,890 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Omar M. Yaghi, University of California Berkeley, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 104 by activity, 73 by citations). 945 publications, h-index 201, 256,849 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/omar-m-yaghi-a5044268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,8 +32,8 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 104 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>201</td></tr>
-  <tr><th>Citations</th><td>252,890</td></tr>
-  <tr><th>Publications</th><td>943</td></tr>
+  <tr><th>Citations</th><td>256,849</td></tr>
+  <tr><th>Publications</th><td>945</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5611-3325">ORCID</a> · <a href="https://openalex.org/A5044268160">OpenAlex</a></td></tr>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [Dynamic Hydrogen Bonding Networks Govern CO2 Adsorption in COF-999](https://openalex.org/W7161632209)<br><small>preprint · with Liping Liu, Hilal Daglar, Ilja Siepmann, Zihui Zhou, Laura Gagliardi</small> | DAC | 1 |
 | 2026 | [Molecular Origins of CO2 Capture Behavior in Amine-Appended Nanoporous Frameworks](https://openalex.org/W7202158640)<br><small>preprint · with Liping Liu, Hilal Daglar, Ilja Siepmann, Zihui Zhou, Laura Gagliardi</small> | DAC | 1 |
-| 2026 | [Dynamic Hydrogen Bonding Networks Govern CO2 Adsorption in COF-999](https://openalex.org/W7161632209)<br><small>preprint · with Liping Liu, Hilal Daglar, Ilja Siepmann, Zihui Zhou, Laura Gagliardi</small> | DAC | 0 |
 | 2025 | [Direct Air Capture and Electromicrobial Production (DAC-EMP) (Final Technical Report for ARPA-E Project)](https://doi.org/10.2172/2547042)<br><small>with Douglas S. Clark, Peidong Yang, David Moore</small> | DAC | 0 |
-| 2024 | [Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks](https://doi.org/10.1021/jacs.3c14125)<br><small>Journal of the American Chemical Society · with [Oscar Iu‐Fan Chen](/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/), [Ali H. Alawadhi](/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/), [Cheng-Hsin Liu](/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/), [Emilio Borrego-Marin](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/), [Haozhe Li](/cdr-researcher-census/researchers/haozhe-li-a5101457/), [Jorge A. R. Navarro](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/) and 1 more</small> | DAC | 273 |
+| 2024 | [Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks](https://doi.org/10.1021/jacs.3c14125)<br><small>Journal of the American Chemical Society · with [Oscar Iu‐Fan Chen](/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/), [Ali H. Alawadhi](/cdr-researcher-census/researchers/ali-h-alawadhi-a5032842/), [Cheng-Hsin Liu](/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/), [Emilio Borrego-Marin](/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/), [Haozhe Li](/cdr-researcher-census/researchers/haozhe-li-a5101457/), [Jorge A. R. Navarro](/cdr-researcher-census/researchers/jorge-a-r-navarro-a5000234/) and 1 more</small> | DAC | 287 |
 
 ---
 

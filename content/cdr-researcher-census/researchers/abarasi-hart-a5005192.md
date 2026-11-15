@@ -1,7 +1,7 @@
 ---
 title: "Abarasi Hart"
-description: "Abarasi Hart, University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5383 by activity, 20 by citations; Europe rank 1479 by activity, 8 by citations). 98 publications, h-index 33, 4,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Abarasi Hart, Aston University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5383 by activity, 20 by citations; Europe rank 1479 by activity, 8 by citations). 95 publications, h-index 33, 3,427 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/abarasi-hart-a5005192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abarasi-hart-a5005192/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Birmingham"
+    "name": "Aston University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4433-5887",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of Birmingham</td></tr>
+  <tr><th>Institution</th><td>Aston University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5383 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 20 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1479 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
-  <tr><th>Citations</th><td>4,364</td></tr>
-  <tr><th>Publications</th><td>98</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
+  <tr><th>Citations</th><td>3,427</td></tr>
+  <tr><th>Publications</th><td>95</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4433-5887">ORCID</a> · <a href="https://openalex.org/A5005192899">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Enhancing carbon neutrality: the role of biomass in CO2 uptake](https://doi.org/10.1016/b978-0-443-22127-9.00003-2)<br><small>Elsevier eBooks · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/)</small> | BECCS | 9 |
-| 2021 | [Minimizing carbon footprint via microalgae as a biological capture](https://doi.org/10.1016/j.ccst.2021.100007)<br><small>Carbon Capture Science & Technology · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/), [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/), [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/), [Zainab T. Al‐Sharify](/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/)</small> | Ocean CDR | 327 |
+| 2024 | [Enhancing carbon neutrality: the role of biomass in CO2 uptake](https://doi.org/10.1016/b978-0-443-22127-9.00003-2)<br><small>Elsevier eBooks · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/)</small> | BECCS | 10 |
+| 2021 | [Minimizing carbon footprint via microalgae as a biological capture](https://doi.org/10.1016/j.ccst.2021.100007)<br><small>Carbon Capture Science & Technology · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/), [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/), [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/), [Zainab T. Al‐Sharify](/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/)</small> | Ocean CDR | 355 |
 
 ---
 

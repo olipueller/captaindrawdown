@@ -1,7 +1,7 @@
 ---
 title: "Simon A. T. Redfern"
-description: "Simon A. T. Redfern, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 70 by activity, 3089 by citations). 478 publications, h-index 69, 16,942 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Simon A. T. Redfern, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 70 by activity, 3089 by citations). 529 publications, h-index 70, 17,078 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/simon-a-t-redfern-a5034157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 70 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 3089 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>69</td></tr>
-  <tr><th>Citations</th><td>16,942</td></tr>
-  <tr><th>Publications</th><td>478</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
+  <tr><th>h-index</th><td>70</td></tr>
+  <tr><th>Citations</th><td>17,078</td></tr>
+  <tr><th>Publications</th><td>529</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9513-0147">ORCID</a> · <a href="https://openalex.org/A5034157561">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [System openness governs detectable signals of enhanced rock weathering in soils: a global meta-analysis](https://openalex.org/W7204551737)<br><small>preprint · with Z Ouyang, Zhaofeng Ouyang, Meitong Song, Xiaodan Tang, Yuyan Zhao</small> | Enhanced Weathering | 1 |
+| 2026 | [One chemistry, many pathways: Comparing carbon-negative cement, enhanced weathering, and ocean alkalinity enhancement](https://openalex.org/W7213236195)<br><small>with Chin-Hsien Cheng, Sasithorn Chornkrathok</small> | Enhanced Weathering; Ocean CDR | 1 |
 | 2026 | [Evaluating Coral Response to Modified Seawater-Water Chemistry and Coral Health](https://doi.org/10.6084/m9.figshare.31419197)<br><small>Figshare</small> | Ocean CDR | 0 |
-| 2026 | [System openness governs detectable signals of enhanced rock weathering in soils: a global meta-analysis](https://openalex.org/W7204551737)<br><small>preprint · with Z Ouyang, Zhaofeng Ouyang, Meitong Song, Xiaodan Tang, Yuyan Zhao</small> | Enhanced Weathering | 0 |
-| 2026 | [One chemistry, many pathways: Comparing carbon-negative cement, enhanced weathering, and ocean alkalinity enhancement](https://openalex.org/W7213236195)<br><small>with Chin-Hsien Cheng, Sasithorn Chornkrathok</small> | Enhanced Weathering; Ocean CDR | 0 |
 | 2026 | [From Field Trial to Carbon Register: Evidence Gaps and an Auditable Earth-Information Architecture for Verifiable Enhanced Weathering](https://openalex.org/W7214061978)<br><small>preprint · with Xiaolei Feng</small> | Enhanced Weathering; Ocean CDR | 0 |
 | 2025 | [Enhanced Rock Weathering (ERW) Carbon Insetting in Southeast Asia for Sustainable Supply Chains: Life Cycle Analysis (LCA) and Techno-Economic Assessment (TEA)](https://doi.org/10.22541/essoar.173867443.39432642/v1)<br><small>preprint · with Yiwen Zhang, Zhengxin He</small> | Enhanced Weathering | 0 |
 | 2025 | [Potentials of Enhanced Rock Weathering (ERW) Carbon Insetting in Southeast Asia to Form a More Sustainable Supply Chain: Life Cycle Analysis and Techno-Economic Analysis](https://doi.org/10.5194/egusphere-egu25-18551)<br><small>preprint · with Y. Zhang</small> | Enhanced Weathering | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
-description: "Steef V. Hanssen, Radboud University Nijmegen, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 50 by activity, 528 by citations; Europe rank 35 by activity, 226 by citations). 45 publications, h-index 17, 2,292 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Steef V. Hanssen, Radboud University Nijmegen, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 50 by activity, 528 by citations; Europe rank 35 by activity, 226 by citations). 44 publications, h-index 18, 2,553 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 50 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 528 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 226 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>17</td></tr>
-  <tr><th>Citations</th><td>2,292</td></tr>
-  <tr><th>Publications</th><td>45</td></tr>
-  <tr><th>Share of publications on CDR</th><td>17.8%</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>2,553</td></tr>
+  <tr><th>Publications</th><td>44</td></tr>
+  <tr><th>Share of publications on CDR</th><td>18.2%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7673-8509">ORCID</a> · <a href="https://openalex.org/A5085343190">OpenAlex</a></td></tr>
 </table>
@@ -47,12 +47,12 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Forest-based climate mitigation: a systems perspective focused on bio-energy and carbon](https://doi.org/10.5194/egusphere-egu26-6829)<br><small>with Stefan C. Dekker, Hugo J. de Boer, Maria Milca Santos, Hans de Kroon</small> | BECCS | 0 |
-| 2025 | [Comparing GHG Emissions of Residue‐Based BECCS to Alternative Biomass Uses](https://doi.org/10.1111/gcbb.70089)<br><small>GCB Bioenergy · with Scott Cummings, Floor van der Hilst, [Martin Junginger](/cdr-researcher-census/researchers/martin-junginger-a5070296/), A.S. Duden</small> | BECCS | 1 |
+| 2026 | [Forest-based climate mitigation: a systems perspective focused on bio-energy and carbon](https://doi.org/10.5194/egusphere-egu26-6829)<br><small>with Stefan C. Dekker, Hugo J. de Boer, Maria J. Santos, Maria Milca Santos, Hans de Kroon</small> | BECCS | 0 |
+| 2025 | [Comparing GHG Emissions of Residue‐Based BECCS to Alternative Biomass Uses](https://doi.org/10.1111/gcbb.70089)<br><small>GCB Bioenergy · with Scott Cummings, Floor van der Hilst, [Martin Junginger](/cdr-researcher-census/researchers/martin-junginger-a5070296/), A.S. Duden</small> | BECCS | 2 |
 | 2025 | [Comparing GHG Emissions of Residue-Based BECCS to Alternative Biomass Uses](https://openalex.org/W7149228288)<br><small>with Susan Caroline Alvarado Cummings, A.S. Duden, Biobased Economy, Floor van der Hilst, [Martin Junginger](/cdr-researcher-census/researchers/martin-junginger-a5070296/), Sub Physics of devices begr 1/1/17</small> | BECCS | 0 |
-| 2023 | [The global mismatch between equitable carbon dioxide removal liability and capacity](https://doi.org/10.1093/nsr/nwad254)<br><small>National Science Review · with Yang Pu, D’Maris Coffman, Hua Liao, Jia-Ning Kang, Lan-Cui Liu, Pengtao Wang and 5 more</small> | Cross-cutting CDR | 33 |
+| 2023 | [The global mismatch between equitable carbon dioxide removal liability and capacity](https://doi.org/10.1093/nsr/nwad254)<br><small>National Science Review · with Yang Pu, D’Maris Coffman, Hua Liao, Jia-Ning Kang, Lan-Cui Liu, Pengtao Wang and 5 more</small> | Cross-cutting CDR | 39 |
 | 2022 | [Global implications of lignocellulosic crop-based BECCS for terrestrial vertebrate biodiversity](https://doi.org/10.5194/egusphere-egu22-8855)<br><small>preprint · with [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), Mirza Čengić, [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/), Zoran J. N. Steinmann, Mark A. J. Huijbregts</small> | BECCS | 0 |
-| 2021 | [Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity](https://doi.org/10.1111/gcbb.12911)<br><small>GCB Bioenergy · with [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), Mirza Čengić, [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/), Zoran J. N. Steinmann, Mark A. J. Huijbregts</small> | BECCS | 51 |
+| 2021 | [Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity](https://doi.org/10.1111/gcbb.12911)<br><small>GCB Bioenergy · with [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), Mirza Čengić, [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/), Zoran J. N. Steinmann, Mark A. J. Huijbregts</small> | BECCS | 55 |
 
 ---
 

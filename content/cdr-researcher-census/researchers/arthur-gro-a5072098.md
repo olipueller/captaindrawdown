@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
-description: "Arthur Groß, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 31 by activity, 165 by citations; Europe rank 11 by activity, 32 by citations). 23 publications, h-index 8, 802 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Arthur Groß, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 31 by activity, 165 by citations; Europe rank 11 by activity, 32 by citations). 38 publications, h-index 9, 935 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 31 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 165 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>8</td></tr>
-  <tr><th>Citations</th><td>802</td></tr>
-  <tr><th>Publications</th><td>23</td></tr>
-  <tr><th>Share of publications on CDR</th><td>39.1%</td></tr>
-  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>935</td></tr>
+  <tr><th>Publications</th><td>38</td></tr>
+  <tr><th>Share of publications on CDR</th><td>31.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4076-5118">ORCID</a> · <a href="https://openalex.org/A5072098302">OpenAlex</a></td></tr>
 </table>
 
@@ -47,16 +47,16 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556)<br><small>with [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), David Houben, Joshua T. Padilla, José Lucas Martins Melo, Kurt Arnold Spokas, Kurt Spokas and 6 more</small> | Biochar | 6 |
-| 2026 | [Biochar's Climate Functions: Crafting a Potent Product for the Carbon Market](https://openalex.org/W7162005671)<br><small>with Arthur Gross, Bruno Glaser</small> | Biochar | 0 |
-| 2026 | [Biochar: From Terra Preta Discovery to Modern Industry](https://openalex.org/W7162011505)<br><small>with Bruno Glaser, Arthur Gross</small> | Biochar | 0 |
+| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556)<br><small>with [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), David Houben, Joshua T. Padilla, José Lucas Martins Melo, Kurt Arnold Spokas, Kurt Spokas and 6 more</small> | Biochar | 7 |
+| 2026 | [Biochar's Climate Functions: Crafting a Potent Product for the Carbon Market](https://openalex.org/W7162005671)<br><small>with [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
+| 2026 | [Biochar: From Terra Preta Discovery to Modern Industry](https://openalex.org/W7162011505)<br><small>with [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
 | 2026 | [Weathering of biochar : implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7164121400)<br><small>with N.S. Bolan, (und viele weitere)</small> | Biochar | 0 |
 | 2025 | [Relevance of biochar metabolization—evidence from a long-term biochar field experiment](https://doi.org/10.3389/fsufs.2025.1578363)<br><small>Frontiers in Sustainable Food Systems · with [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), Marko Šolić, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Snežana Maletić](/cdr-researcher-census/researchers/snezana-maletic-a5001570/)</small> | Biochar | 8 |
 | 2025 | [Vertical biochar transport in soil in a long-term field experiment in Germany](https://doi.org/10.5194/egusphere-egu25-18297)<br><small>preprint · with Ryan Pearson, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
-| 2024 | [Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany](https://doi.org/10.1016/j.scitotenv.2024.176340)<br><small>The Science of The Total Environment · with Daniel A. Fischer, Steven Polifka, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 100 |
-| 2024 | [Impact of Biochar Aging on Soil Physicochemical Properties](https://doi.org/10.3390/agronomy14123007)<br><small>Agronomy · with Tamara Apostolović, [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), [Heike Knicker](/cdr-researcher-census/researchers/heike-knicker-a5013681/), [José M. de la Rosa Arranz](/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/), Álvaro Fernando García Rodríguez, [Snežana Maletić](/cdr-researcher-census/researchers/snezana-maletic-a5001570/)</small> | Biochar | 26 |
+| 2024 | [Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany](https://doi.org/10.1016/j.scitotenv.2024.176340)<br><small>The Science of The Total Environment · with Daniel A. Fischer, Steven Polifka, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 109 |
+| 2024 | [Impact of Biochar Aging on Soil Physicochemical Properties](https://doi.org/10.3390/agronomy14123007)<br><small>Agronomy · with Tamara Apostolović, [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), Heike Knicker, [José M. de la Rosa Arranz](/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/), Álvaro Fernando García Rodríguez, [Snežana Maletić](/cdr-researcher-census/researchers/snezana-maletic-a5001570/)</small> | Biochar | 26 |
 | 2024 | [Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany](https://doi.org/10.5194/egusphere-egu24-9944)<br><small>preprint · with Daniel Fischer, Steven Polifka, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
-| 2021 | [Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis](https://doi.org/10.3390/agronomy11122474)<br><small>Agronomy · with [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 204 |
+| 2021 | [Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis](https://doi.org/10.3390/agronomy11122474)<br><small>Agronomy · with [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 229 |
 
 ---
 

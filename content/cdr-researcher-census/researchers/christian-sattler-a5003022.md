@@ -1,7 +1,7 @@
 ---
 title: "Christian Sattler"
-description: "Christian Sattler, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 96 by activity, 674 by citations; Europe rank 36 by activity, 274 by citations). 597 publications, h-index 54, 9,197 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Christian Sattler, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 96 by activity, 674 by citations; Europe rank 36 by activity, 274 by citations). 615 publications, h-index 57, 9,574 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/christian-sattler-a5003022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 96 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 674 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 274 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>54</td></tr>
-  <tr><th>Citations</th><td>9,197</td></tr>
-  <tr><th>Publications</th><td>597</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
+  <tr><th>h-index</th><td>57</td></tr>
+  <tr><th>Citations</th><td>9,574</td></tr>
+  <tr><th>Publications</th><td>615</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4314-1124">ORCID</a> · <a href="https://openalex.org/A5003022004">OpenAlex</a></td></tr>
 </table>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://doi.org/10.1007/s40518-025-00255-y)<br><small>Current Sustainable/Renewable Energy Reports · with Enric Prats‐Salvado, [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 0 |
-| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://openalex.org/W7147152197)<br><small>with Enric Prats Salvadó, [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 0 |
-| 2024 | [A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production](https://doi.org/10.1016/j.ijhydene.2024.10.026)<br><small>International Journal of Hydrogen Energy · with Enric Prats‐Salvado, [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 7 |
-| 2024 | [Synergies between Direct Air Capture and Solar Hydrogen andFuel Production](https://openalex.org/W7128980604)<br><small>elib (German Aerospace Center) · with Enric Prats Salvadó, [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 0 |
-| 2022 | [Solar calcium looping cycle for CO2 capturing in a cement plant. Definition of process parameters and reactors selection](https://doi.org/10.1016/j.solener.2022.04.031)<br><small>Solar Energy · with Juan Pablo Rincon Duarte, Bruno Lachmann, Dorottya Kriechbaumer, Martin Roeb, Stefania Tescari, Thomas Fend</small> | Cross-cutting CDR | 35 |
-| 2022 | [Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels](https://doi.org/10.3390/en15145017)<br><small>Energies · with Enric Prats‐Salvado, [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 21 |
-| 2021 | [Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol](https://doi.org/10.3390/en14164818)<br><small>Energies · with Enric Prats‐Salvado, [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 15 |
+| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://doi.org/10.1007/s40518-025-00255-y)<br><small>Current Sustainable/Renewable Energy Reports · with [Enric Prats‐Salvado](/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/), [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 0 |
+| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://openalex.org/W7147152197)<br><small>with [Enric Prats‐Salvado](/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/), [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 0 |
+| 2024 | [A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production](https://doi.org/10.1016/j.ijhydene.2024.10.026)<br><small>International Journal of Hydrogen Energy · with [Enric Prats‐Salvado](/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/), [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 7 |
+| 2024 | [Synergies between Direct Air Capture and Solar Hydrogen andFuel Production](https://openalex.org/W7128980604)<br><small>elib (German Aerospace Center) · with [Enric Prats‐Salvado](/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/), [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 0 |
+| 2022 | [Solar calcium looping cycle for CO2 capturing in a cement plant. Definition of process parameters and reactors selection](https://doi.org/10.1016/j.solener.2022.04.031)<br><small>Solar Energy · with Juan Pablo Rincon Duarte, Bruno Lachmann, Dorottya Kriechbaumer, Martin Roeb, Stefania Tescari, Thomas Fend</small> | Cross-cutting CDR | 36 |
+| 2022 | [Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels](https://doi.org/10.3390/en15145017)<br><small>Energies · with [Enric Prats‐Salvado](/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/), [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 25 |
+| 2021 | [Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol](https://doi.org/10.3390/en14164818)<br><small>Energies · with [Enric Prats‐Salvado](/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/), [Nathalie Monnerie](/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/)</small> | DAC | 16 |
 
 ---
 

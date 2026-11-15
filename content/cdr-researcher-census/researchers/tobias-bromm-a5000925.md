@@ -1,7 +1,7 @@
 ---
 title: "Tobias Bromm"
-description: "Tobias Bromm, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 87 by activity, 180 by citations; Europe rank 25 by activity, 33 by citations). 42 publications, h-index 11, 680 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Tobias Bromm, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 87 by activity, 180 by citations; Europe rank 25 by activity, 33 by citations). 57 publications, h-index 11, 728 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/tobias-bromm-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 87 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 180 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
-  <tr><th>Citations</th><td>680</td></tr>
-  <tr><th>Publications</th><td>42</td></tr>
-  <tr><th>Share of publications on CDR</th><td>19.0%</td></tr>
+  <tr><th>Citations</th><td>728</td></tr>
+  <tr><th>Publications</th><td>57</td></tr>
+  <tr><th>Share of publications on CDR</th><td>14.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5914-2917">ORCID</a> · <a href="https://openalex.org/A5000925986">OpenAlex</a></td></tr>
 </table>
@@ -51,10 +51,10 @@ robots: "index, follow"
 | 2026 | [The hydrogen puzzle in rock-enhanced biochar : pyrogenic coating, mineral redox and pore accessibility](https://openalex.org/W7206170808)<br><small>with [Johannes Meyer zu Drewer](/cdr-researcher-census/researchers/johannes-meyer-zu-drewer-a5089195/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), (und viele weitere)</small> | Biochar; Enhanced Weathering | 0 |
 | 2025 | [Relevance of biochar metabolization—evidence from a long-term biochar field experiment](https://doi.org/10.3389/fsufs.2025.1578363)<br><small>Frontiers in Sustainable Food Systems · with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), Marko Šolić, [Snežana Maletić](/cdr-researcher-census/researchers/snezana-maletic-a5001570/)</small> | Biochar | 8 |
 | 2025 | [Vertical biochar transport in soil in a long-term field experiment in Germany](https://doi.org/10.5194/egusphere-egu25-18297)<br><small>preprint · with Ryan Pearson, [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
-| 2024 | [Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany](https://doi.org/10.1016/j.scitotenv.2024.176340)<br><small>The Science of The Total Environment · with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), Daniel A. Fischer, Steven Polifka, [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 100 |
+| 2024 | [Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany](https://doi.org/10.1016/j.scitotenv.2024.176340)<br><small>The Science of The Total Environment · with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), Daniel A. Fischer, Steven Polifka, [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 109 |
 | 2024 | [Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany](https://doi.org/10.5194/egusphere-egu24-9944)<br><small>preprint · with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), Daniel Fischer, Steven Polifka, [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
-| 2021 | [Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis](https://doi.org/10.3390/agronomy11122474)<br><small>Agronomy · with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 204 |
-| 2021 | [Microwave-assisted combustion to produce benzene polycarboxylic acids as molecular markers for biochar identification and quantification](https://doi.org/10.1007/s42773-021-00124-z)<br><small>Biochar · with [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), Heike Maennicke, Marie Guenther</small> | Biochar | 20 |
+| 2021 | [Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis](https://doi.org/10.3390/agronomy11122474)<br><small>Agronomy · with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 229 |
+| 2021 | [Microwave-assisted combustion to produce benzene polycarboxylic acids as molecular markers for biochar identification and quantification](https://doi.org/10.1007/s42773-021-00124-z)<br><small>Biochar · with [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), Heike Maennicke, Marie Guenther</small> | Biochar | 23 |
 
 ---
 

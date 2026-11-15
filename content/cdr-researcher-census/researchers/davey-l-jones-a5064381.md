@@ -1,7 +1,7 @@
 ---
 title: "Davey L. Jones"
-description: "Davey L. Jones, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 35 by activity, 27 by citations). 1199 publications, h-index 131, 72,394 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Davey L. Jones, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 35 by activity, 27 by citations). 1043 publications, h-index 131, 73,346 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/davey-l-jones-a5064381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>Europe: rank 35 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>131</td></tr>
-  <tr><th>Citations</th><td>72,394</td></tr>
-  <tr><th>Publications</th><td>1199</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.8%</td></tr>
+  <tr><th>Citations</th><td>73,346</td></tr>
+  <tr><th>Publications</th><td>1043</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1482-4209">ORCID</a> · <a href="https://openalex.org/A5064381910">OpenAlex</a></td></tr>
 </table>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Harnessing peatland rewetting for effective biochar-based carbon dioxide removal](https://doi.org/10.1007/s42773-025-00524-5)<br><small>Biochar · with Jennifer M. Rhymes, Fabrizio Albanito, Niall P. McNamara, Chris Evans</small> | Biochar | 3 |
-| 2025 | [Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands](https://doi.org/10.1016/j.soilbio.2025.109814)<br><small>Soil Biology and Biochemistry · with Peduruhewa H. Jeewani, Benjamin P. Roberts, Chris Evans, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jack Cook, M. D. Fraser and 1 more</small> | Biochar | 10 |
-| 2025 | [Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment](https://openalex.org/W4407818002)<br><small>with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jennifer M. Rhymes, Niall P. McNamara, [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), Chris Evans</small> | Biochar | 9 |
+| 2026 | [Harnessing peatland rewetting for effective biochar-based carbon dioxide removal](https://doi.org/10.1007/s42773-025-00524-5)<br><small>Biochar · with Jennifer M. Rhymes, Fabrizio Albanito, Niall P. McNamara, Chris Evans</small> | Biochar | 5 |
+| 2025 | [Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment](https://openalex.org/W4407818002)<br><small>with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jennifer M. Rhymes, Niall P. McNamara, [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), Chris Evans</small> | Biochar | 14 |
+| 2025 | [Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands](https://doi.org/10.1016/j.soilbio.2025.109814)<br><small>Soil Biology and Biochemistry · with Peduruhewa H. Jeewani, Benjamin P. Roberts, Chris Evans, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jack Cook, M. D. Fraser and 1 more</small> | Biochar | 14 |
 | 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585)<br><small>preprint · with [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), Clement N. Uguna, [Colin E. Snape](/cdr-researcher-census/researchers/colin-e-snape-a5038069/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Lee A. Stevens, Wei Li and 1 more</small> | Biochar | 1 |
-| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167)<br><small>with [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), [Colin E. Snape](/cdr-researcher-census/researchers/colin-e-snape-a5038069/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Genevieve R. Hodgins, Helen West, Paul N. Wilson and 1 more</small> | Biochar | 16 |
+| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167)<br><small>with [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), [Colin E. Snape](/cdr-researcher-census/researchers/colin-e-snape-a5038069/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Genevieve R. Hodgins, Helen West, Paul N. Wilson and 1 more</small> | Biochar | 18 |
 | 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901)<br><small>SSRN Electronic Journal (preprint) · with Peduruhewa H. Jeewani, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Guitong Li, Hao‐Li Zhang, [Jianming Xu](/cdr-researcher-census/researchers/jianming-xu-a5068464/), [Lukas Van Zwieten](/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/) and 7 more</small> | Biochar | 0 |
-| 2022 | [Deep-C storage: Biological, chemical and physical strategies to enhance carbon stocks in agricultural subsoils](https://doi.org/10.1016/j.soilbio.2022.108697)<br><small>Soil Biology and Biochemistry · with [Erik S. Button](/cdr-researcher-census/researchers/erik-s-button-a5016544/), Daniel V. Murphy, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jennifer Pett‐Ridge, [Yakov Kuzyakov](/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/)</small> | Biochar | 330 |
+| 2022 | [Deep-C storage: Biological, chemical and physical strategies to enhance carbon stocks in agricultural subsoils](https://doi.org/10.1016/j.soilbio.2022.108697)<br><small>Soil Biology and Biochemistry · with Erik S. Button, Daniel V. Murphy, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jennifer Pett‐Ridge, [Yakov Kuzyakov](/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/)</small> | Biochar | 350 |
 
 ---
 

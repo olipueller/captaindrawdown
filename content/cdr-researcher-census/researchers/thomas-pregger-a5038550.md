@@ -1,7 +1,7 @@
 ---
 title: "Thomas Pregger"
-description: "Thomas Pregger, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10640 by activity, 72 by citations). 154 publications, h-index 30, 4,195 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Thomas Pregger, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10640 by activity, 72 by citations). 200 publications, h-index 33, 4,826 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/thomas-pregger-a5038550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thomas-pregger-a5038550/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt (DLR)"
+    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6728-7451",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Deutsches Zentrum für Luft- und Raumfahrt (DLR)</td></tr>
+  <tr><th>Institution</th><td>Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10640 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>30</td></tr>
-  <tr><th>Citations</th><td>4,195</td></tr>
-  <tr><th>Publications</th><td>154</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.6%</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>4,826</td></tr>
+  <tr><th>Publications</th><td>200</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.5%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6728-7451">ORCID</a> · <a href="https://openalex.org/A5038550568">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 588 |
+| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 644 |
 
 ---
 

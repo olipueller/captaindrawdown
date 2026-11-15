@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
-description: "Reza Khalidy, University of Guelph. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 76 by activity, 217 by citations). 24 publications, h-index 9, 291 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Reza Khalidy, University of Guelph. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 76 by activity, 217 by citations). 27 publications, h-index 9, 301 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 76 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 217 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
-  <tr><th>Citations</th><td>291</td></tr>
-  <tr><th>Publications</th><td>24</td></tr>
-  <tr><th>Share of publications on CDR</th><td>58.3%</td></tr>
+  <tr><th>Citations</th><td>301</td></tr>
+  <tr><th>Publications</th><td>27</td></tr>
+  <tr><th>Share of publications on CDR</th><td>51.9%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6769-9691">ORCID</a> · <a href="https://openalex.org/A5010802809">OpenAlex</a></td></tr>
 </table>
@@ -47,17 +47,17 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2025 | [Tracking pedogenic carbonate formation and alkalinity migration in agricultural soils amended with crushed wollastonite ore – Evidence from field trials in Southwestern Ontario](https://doi.org/10.1016/j.geodrs.2025.e00918)<br><small>Geoderma Regional · with Fatima Haque, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 7 |
-| 2025 | [Probing Sources and Pathways of Error in Enhanced Rock Weathering Field Monitoring: Impact of Plot Setup and Uncertainty Propagation](https://doi.org/10.13140/rg.2.2.30844.81288)<br><small>with Rafael Mattos Dos Santos, Andrea Gabriela Monsalve Chacon, Ayda Amidi, Francisco Gerson Araújo, Rebecca B. Neumann, Xinran Liu and 1 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Probing Sources and Pathways of Error in Enhanced Rock Weathering Field Monitoring: Impact of Plot Setup and Uncertainty Propagation](https://doi.org/10.13140/rg.2.2.30844.81288)<br><small>with Rafael Mattos Dos Santos, Andrea Gabriela Monsalve Chacon, Ayda Amidi, Francisco Gerson Araújo, [Rebecca B. Neumann](/cdr-researcher-census/researchers/rebecca-b-neumann-a5018422/), Xinran Liu and 1 more</small> | Enhanced Weathering | 0 |
 | 2024 | [Reactive transport modeling of carbon capture in soil amended with fast weathering silicate minerals](https://doi.org/10.21203/rs.3.rs-3851603/v1)<br><small>preprint · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 1 |
 | 2024 | [Tracking pedogenic carbonate formation and migration in agricultural soils amended with crushed wollastonite ore- Evidence from field trials](http://dx.doi.org/10.21203/rs.3.rs-3851689/v1)<br><small>Research Square (Research Square) (preprint) · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 1 |
-| 2023 | [Constraining the Capacity of Global Croplands to CO<sub>2</sub> Drawdown via Mineral Weathering](https://doi.org/10.1021/acsearthspacechem.2c00374)<br><small>ACS Earth and Space Chemistry · with Fatima Haque, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 26 |
-| 2023 | [Fate and migration of enhanced rock weathering products through soil horizons; implications of irrigation and percolation regimes](https://doi.org/10.1016/j.catena.2023.107524)<br><small>CATENA · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 21 |
-| 2023 | [Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture](https://doi.org/10.3389/feart.2023.1215930)<br><small>Frontiers in Earth Science · with [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/), Fatima Haque, Francisco S. M. Araujo, Hiral Jariwala, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/)</small> | Enhanced Weathering | 15 |
+| 2023 | [Constraining the Capacity of Global Croplands to CO<sub>2</sub> Drawdown via Mineral Weathering](https://doi.org/10.1021/acsearthspacechem.2c00374)<br><small>ACS Earth and Space Chemistry · with Fatima Haque, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 27 |
+| 2023 | [Fate and migration of enhanced rock weathering products through soil horizons; implications of irrigation and percolation regimes](https://doi.org/10.1016/j.catena.2023.107524)<br><small>CATENA · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 22 |
+| 2023 | [Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture](https://doi.org/10.3389/feart.2023.1215930)<br><small>Frontiers in Earth Science · with [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/), Fatima Haque, Francisco S. M. Araujo, Hiral Jariwala, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/)</small> | Enhanced Weathering | 14 |
 | 2023 | [Transport and fate of wollastonite weathering products through soil and subsoil under realistic irrigation/rainfall conditions](http://dx.doi.org/10.5194/egusphere-egu23-17289)<br><small>preprint · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 0 |
 | 2023 | [Fate and Migration of Enhanced Rock Weathering Products Through Soil Horizons; Implications for Climate Change Via Wollastonite Amendment](http://dx.doi.org/10.2139/ssrn.4522787)<br><small>SSRN Electronic Journal (preprint) · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 0 |
 | 2022 | [Role of Local Climate, Innate SIC Content, and Soil Ph on Amended Mineral Weathering Rates and Capacity to Accumulate Pedogenic Carbonates in Croplands](https://doi.org/10.2139/ssrn.4277725)<br><small>SSRN Electronic Journal · with Fatima Haque, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 2 |
 | 2022 | [Long-term field studies in Canada on monitoring pedogenic carbonate formation in agricultural soils via enhanced weathering of wollastonite: status and latest findings](https://doi.org/10.5194/egusphere-egu22-13056)<br><small>preprint · with [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 0 |
-| 2021 | [Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.](https://doi.org/10.3791/61996)<br><small>Journal of Visualized Experiments · with Fatima Haque, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 13 |
+| 2021 | [Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.](https://doi.org/10.3791/61996)<br><small>Journal of Visualized Experiments · with Fatima Haque, [Yi Wai Chiang](/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/), [Rafael M. Santos](/cdr-researcher-census/researchers/rafael-m-santos-a5100699/)</small> | Enhanced Weathering | 20 |
 
 ---
 

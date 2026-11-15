@@ -1,7 +1,7 @@
 ---
 title: "Benedict Probst"
-description: "Benedict Probst, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 36 by activity, 2107 by citations; Europe rank 24 by activity, 773 by citations). 58 publications, h-index 13, 1,030 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Benedict Probst, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 36 by activity, 2107 by citations; Europe rank 24 by activity, 773 by citations). 64 publications, h-index 19, 1,254 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/benedict-probst-a5091139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 36 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2107 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 773 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>13</td></tr>
-  <tr><th>Citations</th><td>1,030</td></tr>
-  <tr><th>Publications</th><td>58</td></tr>
-  <tr><th>Share of publications on CDR</th><td>15.5%</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,254</td></tr>
+  <tr><th>Publications</th><td>64</td></tr>
+  <tr><th>Share of publications on CDR</th><td>17.2%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1149-8938">ORCID</a> · <a href="https://openalex.org/A5091139976">OpenAlex</a></td></tr>
 </table>
@@ -43,19 +43,21 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 10, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Ten new insights in climate science 2025](https://doi.org/10.1017/sus.2025.10043)<br><small>Global Sustainability · with Daniel Ospina, Aaron Redman, Adrian Heilemann, Akira Mori, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Anders Persson and 69 more</small> | Cross-cutting CDR | 8 |
-| 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153545592)<br><small>with [Injy Johnstone](/cdr-researcher-census/researchers/injy-johnstone-a5035898/), Sarah Singleton</small> | Cross-cutting CDR | 1 |
-| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439)<br><small>with Sarah Singleton, Abby Lunstrum, [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/), [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/) and 13 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439)<br><small>with Sarah Singleton, Abby Lunstrum, [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/), [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/) and 14 more</small> | Cross-cutting CDR | 20 |
+| 2026 | [Ten new insights in climate science 2025](https://doi.org/10.1017/sus.2025.10043)<br><small>Global Sustainability · with Daniel Ospina, Aaron Redman, Adrian Heilemann, Akira Mori, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Anders Persson and 70 more</small> | Cross-cutting CDR | 12 |
+| 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153545592)<br><small>with [Injy Johnstone](/cdr-researcher-census/researchers/injy-johnstone-a5035898/), Sarah Singleton</small> | Cross-cutting CDR | 3 |
 | 2026 | [Fixing carbon credits requires a new financing model](https://openalex.org/W7160894633)<br><small>with Florian Egli</small> | Cross-cutting CDR | 0 |
 | 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166410517)<br><small>with [Injy Johnstone](/cdr-researcher-census/researchers/injy-johnstone-a5035898/)</small> | Cross-cutting CDR | 0 |
 | 2026 | [Fixing carbon credits requires a new financing model](https://openalex.org/W7167733885)<br><small>with Florian Manuel Egli</small> | Cross-cutting CDR | 0 |
-| 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8)<br><small>Nature Communications · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), David Keller, [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/) and 20 more</small> | Cross-cutting CDR | 20 |
+| 2026 | [Analyzing the Dynamics of Innovation Networks in Climate Technologies Using Large Language Models](https://openalex.org/W7171347300)<br><small>with M. Toetzke, Malte Toetzke, B. Probst, L. Anadon, Laura Díaz Anadón, S. Feuerriegel and 2 more</small> | DAC | 0 |
+| 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8)<br><small>Nature Communications · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), David Keller, [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/) and 20 more</small> | Cross-cutting CDR | 37 |
 | 2025 | [Ten New Insights in Climate Science 2025 (accepted manuscript)](https://doi.org/10.5281/zenodo.18026053)<br><small>Zenodo (CERN European Organization for Nuclear Research) (preprint) · with Daniel Ospina, Aaron Redman, Adrian Heilemann, Akira Mori, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Anna‐Maria Virkkala and 66 more</small> | Cross-cutting CDR | 0 |
 | 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1)<br><small>Research Square (Research Square) (preprint) · with [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/) and 18 more</small> | Cross-cutting CDR | 7 |
+| 2024 | [The State of Carbon Dioxide Removal 2024 - A Global, Independent Scientific Assessment of Carbon Dioxide Removal - 2nd Edition](https://openalex.org/W7162905165)<br><small>with S. Smith, B. Probst, E. Cox, F. Müller-Hansen, F. Schenuit, [Felix Schenuit](/cdr-researcher-census/researchers/felix-schenuit-a5054371/) and 20 more</small> | Cross-cutting CDR | 0 |
 
 ---
 

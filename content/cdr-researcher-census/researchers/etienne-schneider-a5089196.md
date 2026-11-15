@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
-description: "Etienne Schneider, University of Vienna, Austria. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 92 by activity, 733 by citations). 43 publications, h-index 11, 621 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Etienne Schneider, University of Vienna, Austria. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 92 by activity, 733 by citations). 41 publications, h-index 13, 746 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 92 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 733 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>11</td></tr>
-  <tr><th>Citations</th><td>621</td></tr>
-  <tr><th>Publications</th><td>43</td></tr>
-  <tr><th>Share of publications on CDR</th><td>14.0%</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>746</td></tr>
+  <tr><th>Publications</th><td>41</td></tr>
+  <tr><th>Share of publications on CDR</th><td>17.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4243-7337">ORCID</a> · <a href="https://openalex.org/A5089196024">OpenAlex</a></td></tr>
 </table>
@@ -49,11 +49,11 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [The renaissance of carbon capture and storage in Germany and the politics of conditionality](https://openalex.org/W7171359895)<br><small>with Tobias Haas, [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Zoé Hüttenhain, Joza Koinzer</small> | Cross-cutting CDR | 0 |
 | 2026 | [Mitigation deterrence in emissions trading schemes: Managing low quality demand for carbon removal](https://openalex.org/W7212355457)<br><small>with [Nils Markusson](/cdr-researcher-census/researchers/nils-markusson-a5004419/), [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/)</small> | Cross-cutting CDR | 0 |
-| 2025 | [Carbon removal, mitigation deterrence and the politics of target separation. Evidence from the EU 2040 climate target negotiation](https://doi.org/10.1088/1748-9326/add0c9)<br><small>Environmental Research Letters · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/)</small> | Cross-cutting CDR | 13 |
-| 2025 | [Existing demand-side climate change mitigation policies neglect avoid options](https://doi.org/10.1038/s43247-025-02800-5)<br><small>Communications Earth & Environment · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Carolin Hirt, Christian Dorninger, Dominik Wiedenhofer, Willi Haas, Simone Gingrich</small> | Cross-cutting CDR | 8 |
-| 2024 | [Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries](https://doi.org/10.3389/fclim.2023.1268736)<br><small>Frontiers in Climate · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Tobias Haas</small> | Cross-cutting CDR | 18 |
-| 2024 | [The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal](https://doi.org/10.1016/j.erss.2024.103697)<br><small>Energy Research & Social Science · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Carolin Hirt, Danyal Maneka, Simone Gingrich</small> | Cross-cutting CDR | 10 |
-| 2023 | [Carbon dioxide removal and mitigation deterrence in EU climate policy: Towards a research approach](https://doi.org/10.1016/j.envsci.2023.103591)<br><small>Environmental Science & Policy · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/)</small> | Cross-cutting CDR | 48 |
+| 2025 | [Carbon removal, mitigation deterrence and the politics of target separation. Evidence from the EU 2040 climate target negotiation](https://doi.org/10.1088/1748-9326/add0c9)<br><small>Environmental Research Letters · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/)</small> | Cross-cutting CDR | 16 |
+| 2025 | [Existing demand-side climate change mitigation policies neglect avoid options](https://doi.org/10.1038/s43247-025-02800-5)<br><small>Communications Earth & Environment · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Carolin Hirt, Christian Dorninger, Dominik Wiedenhofer, Willi Haas, Simone Gingrich</small> | Cross-cutting CDR | 14 |
+| 2024 | [Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries](https://doi.org/10.3389/fclim.2023.1268736)<br><small>Frontiers in Climate · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Tobias Haas</small> | Cross-cutting CDR | 24 |
+| 2024 | [The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal](https://doi.org/10.1016/j.erss.2024.103697)<br><small>Energy Research & Social Science · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), Carolin Hirt, Danyal Maneka, Simone Gingrich</small> | Cross-cutting CDR | 12 |
+| 2023 | [Carbon dioxide removal and mitigation deterrence in EU climate policy: Towards a research approach](https://doi.org/10.1016/j.envsci.2023.103591)<br><small>Environmental Science & Policy · with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/)</small> | Cross-cutting CDR | 57 |
 
 ---
 

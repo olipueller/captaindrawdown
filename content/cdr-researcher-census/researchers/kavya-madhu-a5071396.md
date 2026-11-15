@@ -1,7 +1,7 @@
 ---
 title: "Kavya Madhu"
-description: "Kavya Madhu, University of Freiburg, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3018 by activity, 88 by citations; Europe rank 740 by activity, 43 by citations). 7 publications, h-index 5, 326 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Kavya Madhu, University of Freiburg, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3018 by activity, 88 by citations; Europe rank 740 by activity, 43 by citations). 6 publications, h-index 5, 357 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/kavya-madhu-a5071396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 3018 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 740 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 43 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
-  <tr><th>Citations</th><td>326</td></tr>
-  <tr><th>Publications</th><td>7</td></tr>
-  <tr><th>Share of publications on CDR</th><td>28.6%</td></tr>
+  <tr><th>Citations</th><td>357</td></tr>
+  <tr><th>Publications</th><td>6</td></tr>
+  <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1606-7747">ORCID</a> · <a href="https://openalex.org/A5071396297">OpenAlex</a></td></tr>
 </table>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2023 | [Addendum to: Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment](https://doi.org/10.1038/s41560-023-01312-w)<br><small>Nature Energy · with [Stefan Pauliuk](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/), [Sumukha Dhathri](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/), [Felix Creutzig](/cdr-researcher-census/researchers/felix-creutzig-a5078552/)</small> | DAC | 5 |
-| 2021 | [Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment](https://doi.org/10.1038/s41560-021-00922-6)<br><small>Nature Energy · with [Stefan Pauliuk](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/), [Sumukha Dhathri](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/), [Felix Creutzig](/cdr-researcher-census/researchers/felix-creutzig-a5078552/)</small> | DAC | 241 |
+| 2021 | [Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment](https://doi.org/10.1038/s41560-021-00922-6)<br><small>Nature Energy · with [Stefan Pauliuk](/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/), [Sumukha Dhathri](/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/), [Felix Creutzig](/cdr-researcher-census/researchers/felix-creutzig-a5078552/)</small> | DAC | 260 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Henrik Lund"
-description: "Henrik Lund, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1475 by activity, 60 by citations; Europe rank 670 by activity, 45 by citations). 584 publications, h-index 85, 34,766 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Henrik Lund, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1475 by activity, 60 by citations; Europe rank 670 by activity, 45 by citations). 573 publications, h-index 88, 37,705 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/henrik-lund-a5103109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1475 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 670 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>85</td></tr>
-  <tr><th>Citations</th><td>34,766</td></tr>
-  <tr><th>Publications</th><td>584</td></tr>
+  <tr><th>h-index</th><td>88</td></tr>
+  <tr><th>Citations</th><td>37,705</td></tr>
+  <tr><th>Publications</th><td>573</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.5%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4930-7885">ORCID</a> · <a href="https://openalex.org/A5103109813">OpenAlex</a></td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Carbon neutral societies and smart energy systems](https://doi.org/10.1016/b978-0-443-14137-9.00008-5)<br><small>Elsevier eBooks</small> | Cross-cutting CDR | 3 |
-| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 588 |
+| 2024 | [Carbon neutral societies and smart energy systems](https://doi.org/10.1016/b978-0-443-14137-9.00008-5)<br><small>Elsevier eBooks</small> | Cross-cutting CDR | 4 |
+| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Ashish Gulagi](/cdr-researcher-census/researchers/ashish-gulagi-a5023017/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/) and 16 more</small> | Cross-cutting CDR | 644 |
 | 2022 | [The role of sustainable bioenergy in a fully decarbonised society](https://doi.org/10.1016/j.renene.2022.06.026)<br><small>Renewable Energy · with Andrei David Korberg, [Brian Vad Mathiesen](/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/), Iva Ridjan Skov, Jakob Zinck Thellufsen, Miguel Chang, Peter Sorknæs and 1 more</small> | BECCS | 86 |
 
 ---

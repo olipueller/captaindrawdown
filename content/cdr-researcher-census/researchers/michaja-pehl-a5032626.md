@@ -1,7 +1,7 @@
 ---
 title: "Michaja Pehl"
-description: "Michaja Pehl, Leibniz Association, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 3091 by activity, 55 by citations; Europe rank 1095 by activity, 40 by citations). 45 publications, h-index 19, 4,678 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Michaja Pehl, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 3091 by activity, 55 by citations; Europe rank 1095 by activity, 40 by citations). 57 publications, h-index 20, 5,136 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/michaja-pehl-a5032626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michaja-pehl-a5032626/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leibniz Association"
+    "name": "Potsdam Institute for Climate Impact Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2349-6515",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Leibniz Association</td></tr>
+  <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 3091 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1095 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>19</td></tr>
-  <tr><th>Citations</th><td>4,678</td></tr>
-  <tr><th>Publications</th><td>45</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.4%</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>5,136</td></tr>
+  <tr><th>Publications</th><td>57</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.5%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2349-6515">ORCID</a> · <a href="https://openalex.org/A5032626255">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Multiple pathways towards sustainable development goals and climate targets](https://doi.org/10.1088/1748-9326/ad80af)<br><small>Environmental Research Letters · with Bjoern Soergel, Alessio Mastrucci, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), Ana Paula Aguiar, Ariel Macaspac Hernández and 29 more</small> | Cross-cutting CDR | 40 |
-| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z)<br><small>Nature Energy · with [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [Antoine Levesque](/cdr-researcher-census/researchers/antoine-levesque-a5030957/), [Christoph Bertram](/cdr-researcher-census/researchers/christoph-bertram-a5001104/), [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/) and 11 more</small> | Cross-cutting CDR | 571 |
+| 2024 | [Multiple pathways towards sustainable development goals and climate targets](https://doi.org/10.1088/1748-9326/ad80af)<br><small>Environmental Research Letters · with Bjoern Soergel, Alessio Mastrucci, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), Ana Paula Aguiar, Ariel Macaspac Hernández and 29 more</small> | Cross-cutting CDR | 52 |
+| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z)<br><small>Nature Energy · with [Gunnar Luderer](/cdr-researcher-census/researchers/gunnar-luderer-a5003171/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [Antoine Levesque](/cdr-researcher-census/researchers/antoine-levesque-a5030957/), [Christoph Bertram](/cdr-researcher-census/researchers/christoph-bertram-a5001104/), [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/) and 11 more</small> | Cross-cutting CDR | 622 |
 
 ---
 

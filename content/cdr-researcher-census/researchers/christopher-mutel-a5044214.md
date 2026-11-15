@@ -1,7 +1,7 @@
 ---
 title: "Christopher Mutel"
-description: "Christopher Mutel, ecoinvent association, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3031 by activity, 21 by citations; Europe rank 748 by activity, 14 by citations). 72 publications, h-index 37, 6,330 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Christopher Mutel, ecoinvent association, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3031 by activity, 21 by citations; Europe rank 748 by activity, 14 by citations). 93 publications, h-index 37, 7,032 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/christopher-mutel-a5044214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 3031 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 21 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 748 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>37</td></tr>
-  <tr><th>Citations</th><td>6,330</td></tr>
-  <tr><th>Publications</th><td>72</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
+  <tr><th>Citations</th><td>7,032</td></tr>
+  <tr><th>Publications</th><td>93</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7898-9862">ORCID</a> · <a href="https://openalex.org/A5044214441">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models](https://doi.org/10.1016/j.rser.2022.112311)<br><small>Renewable and Sustainable Energy Reviews · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 559 |
+| 2022 | [PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models](https://doi.org/10.1016/j.rser.2022.112311)<br><small>Renewable and Sustainable Energy Reviews · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 640 |
 | 2022 | [PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models](https://doi.org/10.26434/chemrxiv-2022-hp48d)<br><small>preprint · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 37 |
 
 ---

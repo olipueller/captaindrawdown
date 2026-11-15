@@ -1,7 +1,7 @@
 ---
 title: "Zhaofeng Chang"
-description: "Zhaofeng Chang, Kunming University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 75 by activity, 1460 by citations). 74 publications, h-index 21, 1,198 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Zhaofeng Chang, Kunming University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 75 by activity, 1460 by citations). 62 publications, h-index 23, 1,273 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/zhaofeng-chang-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 75 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1460 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>21</td></tr>
-  <tr><th>Citations</th><td>1,198</td></tr>
-  <tr><th>Publications</th><td>74</td></tr>
-  <tr><th>Share of publications on CDR</th><td>14.9%</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>1,273</td></tr>
+  <tr><th>Publications</th><td>62</td></tr>
+  <tr><th>Share of publications on CDR</th><td>17.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6250-8809">ORCID</a> · <a href="https://openalex.org/A5003993455">OpenAlex</a></td></tr>
 </table>
@@ -51,11 +51,11 @@ robots: "index, follow"
 | 2026 | [Short-term biochar amendment enhances the chemical stability of soil organic carbon in the labile pools but may inhibit native SOC transformation into stable pool](https://openalex.org/W7166313261)<br><small>with J H Li, Genghao Zhang, Kai Liu, Luping Tian, Peng Zhang and 4 more</small> | Biochar | 0 |
 | 2026 | [Quantitative contribution of dissolution-driven precipitation to Pb(II) removal by biochars during adsorption process](https://openalex.org/W7167618230)<br><small>with Anila Sikandar, Bo Pan, Danping Wu, Gang Chu, Jin Zhao and 3 more</small> | Biochar | 0 |
 | 2025 | [Trace amount of Fe-induced defect structures of biochar to activate persulfate for ofloxacin degradation](https://doi.org/10.1016/j.jece.2025.115697)<br><small>Journal of environmental chemical engineering · with Hao Li, Di Lang, Manling Zhang, Peng Zhang, Wei Du, Wenjun Duan and 3 more</small> | Biochar | 0 |
-| 2024 | [Biomass power generation: A pathway to carbon neutrality](https://doi.org/10.1016/j.scitotenv.2024.173080)<br><small>The Science of The Total Environment · with Wei Du, Hao Li, Jianhuai Ye, Jinze Wang, Nan Lin, Peng Zhang and 5 more</small> | BECCS | 45 |
-| 2024 | [Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review](https://doi.org/10.1007/s44246-024-00103-6)<br><small>Carbon Research · with [Baoshan Xing](/cdr-researcher-census/researchers/baoshan-xing-a5035633/), Bo Pan, Guofeng Shen, Jinfeng Zhao, Ke Jiang, Nan Zhao and 5 more</small> | Biochar | 13 |
-| 2023 | [Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses](https://doi.org/10.1007/s44246-023-00056-2)<br><small>Carbon Research · with Muhammed Mustapha Ibrahim, A. A. Yusuf, Jerry Joseph, Xianzhen Luo, Zhimin Li, Enqing Hou</small> | Biochar | 27 |
+| 2024 | [Biomass power generation: A pathway to carbon neutrality](https://doi.org/10.1016/j.scitotenv.2024.173080)<br><small>The Science of The Total Environment · with Wei Du, Hao Li, Jianhuai Ye, Jinze Wang, Nan Lin, Peng Zhang and 6 more</small> | BECCS | 47 |
+| 2024 | [Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review](https://doi.org/10.1007/s44246-024-00103-6)<br><small>Carbon Research · with [Baoshan Xing](/cdr-researcher-census/researchers/baoshan-xing-a5035633/), Bo Pan, Guofeng Shen, Jinfeng Zhao, Ke Jiang, Nan Zhao and 5 more</small> | Biochar | 16 |
+| 2023 | [Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses](https://doi.org/10.1007/s44246-023-00056-2)<br><small>Carbon Research · with Muhammed Mustapha Ibrahim, A. A. Yusuf, Jerry Joseph, Xianzhen Luo, Zhimin Li, Enqing Hou</small> | Biochar | 28 |
 | 2023 | [The dual effect of disodium anthraquinone-2,6-disulfonate (AQDS) on the Cr(VI) removal by biochar: The enhanced electron transfer and the inhibited adsorption](https://doi.org/10.1016/j.chemosphere.2023.140245)<br><small>Chemosphere · with Xue Wang, Can Li, Di Lang, Hao Li, Lijuan Liu, Meixuan Wu and 6 more</small> | Biochar | 7 |
-| 2022 | [Fe3O4 loaded on ball milling biochar enhanced bisphenol a removal by activating persulfate: Performance and activating mechanism](https://doi.org/10.1016/j.jenvman.2022.115661)<br><small>Journal of Environmental Management · with Yunjiang Yu, Anqi Wang, Chenyin Dong, Haobo Guo, Mingdeng Xiang, Senhao Xu and 1 more</small> | Biochar | 54 |
+| 2022 | [Fe3O4 loaded on ball milling biochar enhanced bisphenol a removal by activating persulfate: Performance and activating mechanism](https://doi.org/10.1016/j.jenvman.2022.115661)<br><small>Journal of Environmental Management · with Yunjiang Yu, Anqi Wang, Chenyin Dong, Haobo Guo, Mingdeng Xiang, Senhao Xu and 1 more</small> | Biochar | 55 |
 
 ---
 

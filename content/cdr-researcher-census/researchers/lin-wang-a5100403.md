@@ -1,7 +1,7 @@
 ---
 title: "Lin Wang"
-description: "Lin Wang, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2239 by activity, 54 by citations). 480 publications, h-index 69, 16,383 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Lin Wang, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2239 by activity, 54 by citations). 388 publications, h-index 66, 16,103 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/lin-wang-a5100403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 2239 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 54 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>69</td></tr>
-  <tr><th>Citations</th><td>16,383</td></tr>
-  <tr><th>Publications</th><td>480</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.4%</td></tr>
+  <tr><th>h-index</th><td>66</td></tr>
+  <tr><th>Citations</th><td>16,103</td></tr>
+  <tr><th>Publications</th><td>388</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.5%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4905-3432">ORCID</a> · <a href="https://openalex.org/A5100403169">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [James H. Clark](/cdr-researcher-census/researchers/james-h-clark-a5007470/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/) and 9 more</small> | BECCS | 131 |
-| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 119 |
+| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [James H. Clark](/cdr-researcher-census/researchers/james-h-clark-a5007470/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/) and 9 more</small> | BECCS | 144 |
+| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 127 |
 
 ---
 

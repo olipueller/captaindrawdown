@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Qiu"
-description: "Bingbing Qiu, University of Science and Technology of China, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23842 by activity, 42 by citations). 48 publications, h-index 21, 2,621 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Bingbing Qiu, Anhui University of Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23842 by activity, 42 by citations). 44 publications, h-index 20, 2,704 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/bingbing-qiu-a5074678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,22 +16,22 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bingbing-qiu-a5074678/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Science and Technology of China"
+    "name": "Anhui University of Technology"
   },
   "sameAs": "https://openalex.org/A5074678834"
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of Science and Technology of China</td></tr>
+  <tr><th>Institution</th><td>Anhui University of Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23842 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 42 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>21</td></tr>
-  <tr><th>Citations</th><td>2,621</td></tr>
-  <tr><th>Publications</th><td>48</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>2,704</td></tr>
+  <tr><th>Publications</th><td>44</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5074678834">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Application of biochar for the adsorption of organic pollutants from wastewater: Modification strategies, mechanisms and challenges](https://doi.org/10.1016/j.seppur.2022.121925)<br><small>Separation and Purification Technology · with [Chen-Hao Yang](/cdr-researcher-census/researchers/chen-hao-yang-a5113654/), [Jicheng Shi](/cdr-researcher-census/researchers/jicheng-shi-a5100301/), [Qianni Shao](/cdr-researcher-census/researchers/qianni-shao-a5051411/), [Huaqiang Chu](/cdr-researcher-census/researchers/huaqiang-chu-a5100743/)</small> | Biochar | 649 |
+| 2022 | [Application of biochar for the adsorption of organic pollutants from wastewater: Modification strategies, mechanisms and challenges](https://doi.org/10.1016/j.seppur.2022.121925)<br><small>Separation and Purification Technology · with [Chen-Hao Yang](/cdr-researcher-census/researchers/chen-hao-yang-a5113654/), [Jicheng Shi](/cdr-researcher-census/researchers/jicheng-shi-a5100301/), [Qianni Shao](/cdr-researcher-census/researchers/qianni-shao-a5051411/), [Huaqiang Chu](/cdr-researcher-census/researchers/huaqiang-chu-a5100743/)</small> | Biochar | 675 |
 
 ---
 

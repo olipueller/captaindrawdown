@@ -1,7 +1,7 @@
 ---
 title: "Nainesh Modi"
-description: "Nainesh Modi, Gujarat University, India. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 77 by activity, 3452 by citations). 62 publications, h-index 6, 168 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Nainesh Modi, Gujarat University, India. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 77 by activity, 3452 by citations). 83 publications, h-index 6, 191 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/nainesh-modi-a5031147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 77 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3452 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>168</td></tr>
-  <tr><th>Publications</th><td>62</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.6%</td></tr>
+  <tr><th>Citations</th><td>191</td></tr>
+  <tr><th>Publications</th><td>83</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3790-632X">ORCID</a> · <a href="https://openalex.org/A5031147093">OpenAlex</a></td></tr>
 </table>

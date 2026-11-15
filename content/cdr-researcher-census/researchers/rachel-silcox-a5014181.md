@@ -1,7 +1,7 @@
 ---
 title: "Rachel Silcox"
-description: "Rachel Silcox, University of Michigan, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 82 by activity, 2010 by citations). 27 publications, h-index 5, 93 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Rachel Silcox, University of Michigan, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 82 by activity, 2010 by citations). 24 publications, h-index 5, 104 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/rachel-silcox-a5014181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 82 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2010 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
-  <tr><th>Citations</th><td>93</td></tr>
-  <tr><th>Publications</th><td>27</td></tr>
-  <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
+  <tr><th>Citations</th><td>104</td></tr>
+  <tr><th>Publications</th><td>24</td></tr>
+  <tr><th>Share of publications on CDR</th><td>37.5%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9101-2100">ORCID</a> · <a href="https://openalex.org/A5014181867">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [Effective Precipitate Cleaning with a Reversible Flow Cell Sustains Stable Energy Intensity for Oceanic CO <sub>2</sub> Removal](https://openalex.org/W7167365258)<br><small>with Fernando Villavicencio, Tavi Kipnis, Rohini Bala Chandran</small> | Ocean CDR | 1 |
 | 2026 | [Effective Precipitate Cleaning with ReversibleFlow Cell Sustains Stable Energy Intensity forOceanic CO2 Removal](https://doi.org/10.26434/chemrxiv-2026-b66r3)<br><small>with Fernando Villavicencio, Tavi Kipnis, Rohini Bala Chandran</small> | Ocean CDR | 0 |
 | 2026 | [Modeling and Experimental Evaluation of Electrochemical Reactors for Carbon and Nitrogen Circularity](https://openalex.org/W7162464880) | Ocean CDR | 0 |
-| 2026 | [Effective Precipitate Cleaning with a Reversible Flow Cell Sustains Stable Energy Intensity for Oceanic CO <sub>2</sub> Removal](https://openalex.org/W7167365258)<br><small>with Fernando Villavicencio, Tavi Kipnis, Rohini Bala Chandran</small> | Ocean CDR | 0 |
 | 2026 | [EffectivePrecipitateCleaning with a Reversible FlowCell Sustains Stable Energy Intensity for Oceanic CO<sub>2</sub> Removal](https://openalex.org/W7167475952)<br><small>with Fernando Villavicencio, Tavi Kipnis, Rohini Bala Chandran</small> | Ocean CDR | 0 |
 | 2025 | [Modeling and Experimental Validation of Fouling Removal through Mass Transport Enhancement in a pH-Shifting Electrochemical Device for Oceanic CO <sub>2</sub> Removal](https://doi.org/10.1149/ma2025-02261471mtgabs)<br><small>ECS Meeting Abstracts · with Fernando Villavicencio, Nicole France, Tavi Kipnis, Rohini Bala Chandran</small> | DAC; Ocean CDR | 0 |
 | 2024 | [Demand-side flexibility enables cost savings in a reversible pH-swing electrochemical process for oceanic CO2 removal](http://dx.doi.org/10.1016/j.xcrp.2024.101884)<br><small>Cell Reports Physical Science · with Rohini Bala Chandran</small> | DAC; Ocean CDR | 9 |

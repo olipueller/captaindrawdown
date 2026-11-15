@@ -1,7 +1,7 @@
 ---
 title: "Qiyong Xu"
-description: "Qiyong Xu, Peking University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 50 by activity, 2253 by citations). 223 publications, h-index 39, 4,340 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Qiyong Xu, Peking University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 50 by activity, 2253 by citations). 202 publications, h-index 39, 4,437 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/qiyong-xu-a5020897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 50 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 2253 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
-  <tr><th>Citations</th><td>4,340</td></tr>
-  <tr><th>Publications</th><td>223</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.6%</td></tr>
+  <tr><th>Citations</th><td>4,437</td></tr>
+  <tr><th>Publications</th><td>202</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.5%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9396-9958">ORCID</a> · <a href="https://openalex.org/A5020897120">OpenAlex</a></td></tr>
 </table>
@@ -52,10 +52,10 @@ robots: "index, follow"
 | 2026 | [Structure-performance relationship of MOF-derived cu/N-doped biochar composites for efficient H2S removal: Insights into adsorption and regeneration mechanisms](https://openalex.org/W7221034040)<br><small>with Riying Qi, Dandan Huang, Jiakang Li, Jie Huang, Ning Wang, Shirin Jazbia and 3 more</small> | Biochar | 0 |
 | 2025 | [Microbial assembly regulated microbial succession of biochar-mediated CH4 biofiltration to resume function under H2S stress](https://doi.org/10.1016/j.cej.2025.160071)<br><small>Chemical Engineering Journal · with Dandan Huang, Huaihai Chen, Jiang Wu, Ning Wang, Rujie Zhang, Xinyue Bai and 1 more</small> | Biochar | 10 |
 | 2025 | [Biochar-based rhizosphere engineering for enhanced CH4 removal in landfill cover soil](https://doi.org/10.1016/j.jenvman.2025.126348)<br><small>Journal of Environmental Management · with Rujie Zhang, Huaihai Chen, Jiahui Chen, Jianfei Ye, Jiang Wu, Jie Wang and 2 more</small> | Biochar | 4 |
-| 2023 | [Climate Change Impact of Diverse Food Waste Valorization Processes beyond Anaerobic Digestion](https://doi.org/10.1021/acssuschemeng.3c00145)<br><small>ACS Sustainable Chemistry & Engineering · with Jing Guo, Hua Zhang, Nanlin Liao, Pinjing He, Qian Zeng, Xingyu Zhou and 1 more</small> | Biochar | 17 |
+| 2023 | [Climate Change Impact of Diverse Food Waste Valorization Processes beyond Anaerobic Digestion](https://doi.org/10.1021/acssuschemeng.3c00145)<br><small>ACS Sustainable Chemistry & Engineering · with Jing Guo, Hua Zhang, Nanlin Liao, Pinjing He, Qian Zeng, Xingyu Zhou and 1 more</small> | Biochar | 19 |
 | 2023 | [Enhanced methane oxidation efficiency by digestate biochar in landfill cover soil: Microbial shifts and carbon metabolites insights](https://openalex.org/W4387025786)<br><small>with Xinyue Bai, Dandan Huang, Mingshuai Shao, Ning Wang, Qian Wang, Yuke Chen</small> | Biochar | 4 |
 | 2022 | [The influencing mechanism of O2, H2O, and CO2 on the H2S removal of food waste digestate-derived biochar with abundant minerals](https://doi.org/10.1007/s42773-022-00199-2)<br><small>Biochar · with Dandan Huang, Ning Wang, Xinyue Bai, Yuke Chen</small> | Biochar | 25 |
-| 2022 | [The efficiency and mechanism of humidity in alleviating CO2 inhibition on H2S adsorption to straw biochars](https://doi.org/10.1016/j.envres.2022.113008)<br><small>Environmental Research · with Dandan Huang, Ming-Shen Liang, Ning Wang</small> | Biochar | 14 |
+| 2022 | [The efficiency and mechanism of humidity in alleviating CO2 inhibition on H2S adsorption to straw biochars](https://doi.org/10.1016/j.envres.2022.113008)<br><small>Environmental Research · with Dandan Huang, Ming-Shen Liang, Ning Wang</small> | Biochar | 13 |
 
 ---
 

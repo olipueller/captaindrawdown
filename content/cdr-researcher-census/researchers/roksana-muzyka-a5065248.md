@@ -1,7 +1,7 @@
 ---
 title: "Roksana Muzyka"
-description: "Roksana Muzyka, Politechnika Śląska, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3023 by activity, 46 by citations). 91 publications, h-index 18, 2,089 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Roksana Muzyka, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3023 by activity, 46 by citations). 91 publications, h-index 18, 2,222 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/roksana-muzyka-a5065248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/roksana-muzyka-a5065248/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Politechnika \u015al\u0105ska"
+    "name": "Silesian University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6722-9710",
@@ -26,13 +26,13 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Politechnika Śląska</td></tr>
+  <tr><th>Institution</th><td>Silesian University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 3023 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
-  <tr><th>Citations</th><td>2,089</td></tr>
+  <tr><th>Citations</th><td>2,222</td></tr>
   <tr><th>Publications</th><td>91</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar](https://doi.org/10.1016/j.energy.2022.126128)<br><small>Energy · with Edyta Misztal, [Joanna Hrabak](/cdr-researcher-census/researchers/joanna-hrabak-a5003545/), Ying Jiang, [Marcin Sajdak](/cdr-researcher-census/researchers/marcin-sajdak-a5044322/)</small> | Biochar | 260 |
+| 2022 | [Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar](https://doi.org/10.1016/j.energy.2022.126128)<br><small>Energy · with Edyta Misztal, [Joanna Hrabak](/cdr-researcher-census/researchers/joanna-hrabak-a5003545/), Ying Jiang, [Marcin Sajdak](/cdr-researcher-census/researchers/marcin-sajdak-a5044322/)</small> | Biochar | 285 |
 
 ---
 

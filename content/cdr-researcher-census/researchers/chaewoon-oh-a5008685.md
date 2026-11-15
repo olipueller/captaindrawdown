@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
-description: "Chaewoon Oh, National Institute of Green Technology, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 33 by activity, 828 by citations). 44 publications, h-index 7, 160 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Chaewoon Oh, National Institute of Green Technology, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 33 by activity, 828 by citations). 38 publications, h-index 7, 173 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 33 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 828 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
-  <tr><th>Citations</th><td>160</td></tr>
-  <tr><th>Publications</th><td>44</td></tr>
-  <tr><th>Share of publications on CDR</th><td>20.5%</td></tr>
+  <tr><th>Citations</th><td>173</td></tr>
+  <tr><th>Publications</th><td>38</td></tr>
+  <tr><th>Share of publications on CDR</th><td>23.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1357-5519">ORCID</a> · <a href="https://openalex.org/A5008685099">OpenAlex</a></td></tr>
 </table>
@@ -49,10 +49,10 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Venture capital’s role in corporate financing structure for direct air capture (DAC) technology-based firms in Korea, based on in-depth surveys and interviews](https://openalex.org/W7140031947)<br><small>with Seungyeon Ryoo</small> | DAC | 0 |
 | 2026 | [Policy research to formulate project methodologies for carbon credits with direct air carbon capture &amp; utilization (DACCU) technologies](https://openalex.org/W7160596185)<br><small>with Sangjin Oh, Mina Lee, Sangyung Lee</small> | DAC | 0 |
-| 2025 | [Research on the integration of Carbon Dioxide Removal (CDR) approaches into Korea’s emission trading system as an eligible mitigation activity: Based on the Delphi expert survey method](https://doi.org/10.15531/ksccr.2025.16.5.787)<br><small>Journal of Climate Change Research · with BUMSUK SON, Sangjin Oh</small> | Cross-cutting CDR | 0 |
-| 2025 | [Research on the prioritization and appropriate levels of Korea’s policy support options to invigorate the technology innovation of direct air capture (DAC) technologies: Focusing on expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2025.16.5.873)<br><small>Journal of Climate Change Research · with Huicheul Jung</small> | DAC | 0 |
+| 2025 | [Research on the integration of Carbon Dioxide Removal (CDR) approaches into Korea’s emission trading system as an eligible mitigation activity: Based on the Delphi expert survey method](https://doi.org/10.15531/ksccr.2025.16.5.787)<br><small>Journal of Climate Change Research · with BUMSUK SON, Sangjin Oh</small> | Cross-cutting CDR | 1 |
+| 2025 | [Research on the prioritization and appropriate levels of Korea’s policy support options to invigorate the technology innovation of direct air capture (DAC) technologies: Focusing on expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2025.16.5.873)<br><small>Journal of Climate Change Research · with Huicheul Jung, Hye-Ryoung Jung</small> | DAC | 0 |
 | 2024 | [Korea’s technological level evaluation compared with global direct air capture (DAC) and reactive capture and conversion (RCC) technologies: Expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2024.15.4.489)<br><small>Journal of Climate Change Research · with Yewon Song, Sangjin Oh</small> | DAC | 5 |
-| 2024 | [Contestation in social acceptance of direct air capture (DAC) technologies in Korea by differing framings over governance principles](https://doi.org/10.1016/j.joitmc.2024.100403)<br><small>Journal of Open Innovation Technology Market and Complexity</small> | DAC | 2 |
+| 2024 | [Contestation in social acceptance of direct air capture (DAC) technologies in Korea by differing framings over governance principles](https://doi.org/10.1016/j.joitmc.2024.100403)<br><small>Journal of Open Innovation Technology Market and Complexity</small> | DAC | 3 |
 | 2023 | [Market-pull, technology-push, and regulatory stringency determinants: All in need in firms' decisions for large-scale demonstration of direct air capture technologies](https://doi.org/10.1016/j.erss.2023.103339)<br><small>Energy Research & Social Science · with Yewon Song</small> | DAC | 12 |
 | 2023 | [Analysis of Korea’s negotiating position on removal activities under the Article 6.4 mechanism of the Paris Agreement: From the perspective of direct air capture technologies](https://doi.org/10.15531/ksccr.2023.14.5.521)<br><small>Journal of Climate Change Research · with Yewon Song, Raehyun Kim</small> | DAC | 3 |
 | 2022 | [Korea’s Policy Direction on the Research &amp; Development of Direct Air Carbon Capture and Storage (DACCS) Technologies : Focusing on DAC technologies](https://doi.org/10.15531/ksccr.2022.13.1.075)<br><small>Journal of Climate Change Research · with Yewon Song</small> | DAC | 10 |

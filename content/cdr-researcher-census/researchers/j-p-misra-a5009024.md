@@ -1,7 +1,7 @@
 ---
 title: "J. P. Misra"
-description: "J. P. Misra, Graphic Era University, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 65 by activity, 2685 by citations). 25 publications, h-index 5, 50 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "J. P. Misra, Graphic Era University, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 65 by activity, 2685 by citations). 16 publications, h-index 4, 37 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/j-p-misra-a5009024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,10 +28,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 65 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2685 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>5</td></tr>
-  <tr><th>Citations</th><td>50</td></tr>
-  <tr><th>Publications</th><td>25</td></tr>
-  <tr><th>Share of publications on CDR</th><td>12.0%</td></tr>
+  <tr><th>h-index</th><td>4</td></tr>
+  <tr><th>Citations</th><td>37</td></tr>
+  <tr><th>Publications</th><td>16</td></tr>
+  <tr><th>Share of publications on CDR</th><td>18.8%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5009024968">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164418053)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), Mallikarjun Bhavanari, [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Shikha Mishra](/cdr-researcher-census/researchers/shikha-mishra-a5012094/) and 2 more</small> | BECCS | 1 |
+| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164418053)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), Mallikarjun Bhavanari, [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Shikha Mishra](/cdr-researcher-census/researchers/shikha-mishra-a5012094/) and 2 more</small> | BECCS | 3 |
 | 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164517513)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Shikha Mishra](/cdr-researcher-census/researchers/shikha-mishra-a5012094/), [Syed Shams Yazdani](/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/) and 1 more</small> | BECCS | 0 |
 | 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164544818)<br><small>with [Vishwajit Kumar](/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/), [Bhavanari Mallikarjun](/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/), [Prakash Peralam Yegneswaran](/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/), [Pratham Joshi](/cdr-researcher-census/researchers/pratham-joshi-a5009569/), [Shikha Mishra](/cdr-researcher-census/researchers/shikha-mishra-a5012094/), [Syed Shams Yazdani](/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/) and 1 more</small> | BECCS | 0 |
 

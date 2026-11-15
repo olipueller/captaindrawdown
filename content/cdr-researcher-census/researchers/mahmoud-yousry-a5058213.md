@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Yousry"
-description: "Mahmoud Yousry, Ain Shams University Hospital, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23849 by activity, 80 by citations). 3 publications, h-index 2, 588 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mahmoud Yousry, Ain Shams University, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23849 by activity, 80 by citations). 3 publications, h-index 2, 661 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,20 +16,20 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ain Shams University Hospital"
+    "name": "Ain Shams University"
   },
   "sameAs": "https://openalex.org/A5058213049"
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Ain Shams University Hospital</td></tr>
+  <tr><th>Institution</th><td>Ain Shams University</td></tr>
   <tr><th>Country</th><td>Egypt</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23849 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
-  <tr><th>Citations</th><td>588</td></tr>
+  <tr><th>Citations</th><td>661</td></tr>
   <tr><th>Publications</th><td>3</td></tr>
   <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 511 |
+| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 556 |
 
 ---
 

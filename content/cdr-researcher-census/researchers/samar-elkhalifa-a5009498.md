@@ -1,7 +1,7 @@
 ---
 title: "Samar Elkhalifa"
-description: "Samar Elkhalifa, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3810 by activity, 40 by citations). 12 publications, h-index 10, 912 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Samar Elkhalifa, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3810 by activity, 40 by citations). 13 publications, h-index 10, 974 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3810 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 40 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
-  <tr><th>Citations</th><td>912</td></tr>
-  <tr><th>Publications</th><td>12</td></tr>
-  <tr><th>Share of publications on CDR</th><td>8.3%</td></tr>
+  <tr><th>Citations</th><td>974</td></tr>
+  <tr><th>Publications</th><td>13</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2534-6919">ORCID</a> · <a href="https://openalex.org/A5009498039">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734)<br><small>Resources Conservation and Recycling · with [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Ahmed AlNouss](/cdr-researcher-census/researchers/ahmed-alnouss-a5082948/), [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/), [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/), [Ikhlas Ghiat](/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS | 283 |
+| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734)<br><small>Resources Conservation and Recycling · with [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Ahmed AlNouss](/cdr-researcher-census/researchers/ahmed-alnouss-a5082948/), [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/), [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/), [Ikhlas Ghiat](/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS | 309 |
 
 ---
 

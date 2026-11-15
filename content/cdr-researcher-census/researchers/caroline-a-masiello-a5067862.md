@@ -1,7 +1,7 @@
 ---
 title: "Caroline A. Masiello"
-description: "Caroline A. Masiello, Rice University, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3291 by activity, 14 by citations). 197 publications, h-index 48, 18,266 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Caroline A. Masiello, Rice University, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3291 by activity, 14 by citations). 202 publications, h-index 51, 19,344 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 3291 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 14 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>48</td></tr>
-  <tr><th>Citations</th><td>18,266</td></tr>
-  <tr><th>Publications</th><td>197</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
-  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>h-index</th><td>51</td></tr>
+  <tr><th>Citations</th><td>19,344</td></tr>
+  <tr><th>Publications</th><td>202</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2102-6229">ORCID</a> · <a href="https://openalex.org/A5067862970">OpenAlex</a></td></tr>
 </table>
 
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Evaluating Biochar Crediting Protocols for Durable Carbon Removal](https://openalex.org/W7213455153)<br><small>preprint · with Shreya Mukhopadhyay, Julia Seay, Saran Sohi, Thembelihle Chaza, Xiaodong Gao, Kenneth B. Medlock</small> | Biochar | 0 |
-| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/), [Marta Camps Arbestain](/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/) and 2 more</small> | Biochar | 949 |
+| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/), [Marta Camps Arbestain](/cdr-researcher-census/researchers/marta-camps-arbestain-a5001884/) and 2 more</small> | Biochar | 1,051 |
 
 ---
 

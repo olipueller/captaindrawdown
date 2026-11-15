@@ -1,7 +1,7 @@
 ---
 title: "Eugene J. Kim"
-description: "Eugene J. Kim, Rutgers, The State University of New Jersey, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 6415 by activity, 30 by citations). 22 publications, h-index 14, 3,416 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Eugene J. Kim, University of California, Berkeley, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 6415 by activity, 30 by citations). 18 publications, h-index 12, 3,293 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/eugene-j-kim-a5049764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eugene-j-kim-a5049764/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Rutgers, The State University of New Jersey"
+    "name": "University of California, Berkeley"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3474-3676",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Rutgers, The State University of New Jersey</td></tr>
+  <tr><th>Institution</th><td>University of California, Berkeley</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 6415 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>3,416</td></tr>
-  <tr><th>Publications</th><td>22</td></tr>
-  <tr><th>Share of publications on CDR</th><td>9.1%</td></tr>
+  <tr><th>h-index</th><td>12</td></tr>
+  <tr><th>Citations</th><td>3,293</td></tr>
+  <tr><th>Publications</th><td>18</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3474-3676">ORCID</a> · <a href="https://openalex.org/A5049764872">OpenAlex</a></td></tr>
 </table>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2021 | [Porous materials for carbon dioxide separations](https://doi.org/10.1038/s41563-021-01054-8)<br><small>Nature Materials · with [Rebecca L. Siegelman](/cdr-researcher-census/researchers/rebecca-l-siegelman-a5045331/), [Jeffrey R. Long](/cdr-researcher-census/researchers/jeffrey-r-long-a5042591/)</small> | Cross-cutting CDR | 696 |
-| 2021 | [Deep CCS: Moving Beyond 90% Carbon Dioxide Capture](https://doi.org/10.1021/acs.est.0c07390)<br><small>Environmental Science & Technology · with Matthew N. Dods, [Jeffrey R. Long](/cdr-researcher-census/researchers/jeffrey-r-long-a5042591/), Simon C. Weston</small> | Cross-cutting CDR | 87 |
+| 2021 | [Deep CCS: Moving Beyond 90% Carbon Dioxide Capture](https://doi.org/10.1021/acs.est.0c07390)<br><small>Environmental Science & Technology · with Matthew N. Dods, [Jeffrey R. Long](/cdr-researcher-census/researchers/jeffrey-r-long-a5042591/), Simon C. Weston</small> | Cross-cutting CDR | 83 |
 
 ---
 

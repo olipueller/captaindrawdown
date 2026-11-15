@@ -1,7 +1,7 @@
 ---
 title: "Ramy Amer Fahim"
-description: "Ramy Amer Fahim, Egyptian Atomic Energy Authority, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23851 by activity, 82 by citations). 30 publications, h-index 21, 2,124 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ramy Amer Fahim, Egyptian Atomic Energy Authority, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23851 by activity, 82 by citations). 30 publications, h-index 21, 2,248 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ramy-amer-fahim-a5007539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,7 +32,7 @@ robots: "index, follow"
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23851 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 82 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
-  <tr><th>Citations</th><td>2,124</td></tr>
+  <tr><th>Citations</th><td>2,248</td></tr>
   <tr><th>Publications</th><td>30</td></tr>
   <tr><th>Share of publications on CDR</th><td>3.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/) and 4 more</small> | Biochar | 511 |
+| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/) and 4 more</small> | Biochar | 556 |
 
 ---
 

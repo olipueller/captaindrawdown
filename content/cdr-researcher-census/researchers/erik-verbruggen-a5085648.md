@@ -1,7 +1,7 @@
 ---
 title: "Erik Verbruggen"
-description: "Erik Verbruggen, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 163 by activity, 59 by citations; Europe rank 97 by activity, 43 by citations). 166 publications, h-index 46, 8,833 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Erik Verbruggen, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 163 by activity, 59 by citations; Europe rank 97 by activity, 43 by citations). 181 publications, h-index 48, 9,647 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/erik-verbruggen-a5085648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 163 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 97 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 43 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>46</td></tr>
-  <tr><th>Citations</th><td>8,833</td></tr>
-  <tr><th>Publications</th><td>166</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.2%</td></tr>
+  <tr><th>h-index</th><td>48</td></tr>
+  <tr><th>Citations</th><td>9,647</td></tr>
+  <tr><th>Publications</th><td>181</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7015-1515">ORCID</a> · <a href="https://openalex.org/A5085648246">OpenAlex</a></td></tr>
 </table>
@@ -49,11 +49,11 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Interactions between silicate weathering and ectomycorrhiza in severely acidified forests](https://openalex.org/W7161900345)<br><small>with Thomas Rombouts, Håkan Wallander, Judith Sitters, Matteo Campioli, Robrecht Van Der Bauwhede, E Verbruggen</small> | Enhanced Weathering | 0 |
 | 2025 | [Effects of basalt amendment and mycorrhizal inoculation on soil chemical properties and maize growth](https://doi.org/10.1101/2025.11.03.686277)<br><small>preprint · with [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), [Laura Steinwidder](/cdr-researcher-census/researchers/laura-steinwidder-a5058405/), Maria Luiza Maes, [Patrick Frings](/cdr-researcher-census/researchers/patrick-frings-a5066536/) and 1 more</small> | Enhanced Weathering | 0 |
-| 2023 | [Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells](https://doi.org/10.1016/j.agrformet.2023.109610)<br><small>Agricultural and Forest Meteorology · with Simon Reynaert, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Hans J. De Boeck, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), Ivan Nijs, Miguel Portillo‐Estrada and 3 more</small> | Enhanced Weathering | 13 |
+| 2023 | [Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells](https://doi.org/10.1016/j.agrformet.2023.109610)<br><small>Agricultural and Forest Meteorology · with Simon Reynaert, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Hans J. De Boeck, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), Ivan Nijs, Miguel Portillo‐Estrada and 3 more</small> | Enhanced Weathering | 16 |
 | 2023 | [Basalt Addition Improved Climate Change Adaptation Potential of Young Grassland Monocultures Under More Persistent Precipitation Regimes](http://dx.doi.org/10.2139/ssrn.4409460)<br><small>SSRN Electronic Journal (preprint) · with Simon Reynaert, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Hans J. De Boeck, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), Ivan Nijs, Miguel Portillo‐Estrada and 3 more</small> | Enhanced Weathering | 1 |
 | 2022 | [Enhanced weathering in acid and alkaline agricultural soils: greenhouse gas emissions and soil bacterial communities implications](https://doi.org/10.5194/egusphere-egu22-13396)<br><small>preprint · with [Sílvia Poblador](/cdr-researcher-census/researchers/silvia-poblador-a5084556/), Coline Le Noir de Carlan, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 1 |
-| 2021 | [Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?](https://doi.org/10.1111/gcb.15993)<br><small>Global Change Biology · with [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Eric Struyf](/cdr-researcher-census/researchers/eric-struyf-a5029778/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 8 more</small> | Enhanced Weathering | 133 |
-| 2021 | [Can arbuscular mycorrhizal fungi speed up carbon sequestration by enhanced weathering?](https://doi.org/10.1002/ppp3.10179)<br><small>Plants People Planet · with [Eric Struyf](/cdr-researcher-census/researchers/eric-struyf-a5029778/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 55 |
+| 2021 | [Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?](https://doi.org/10.1111/gcb.15993)<br><small>Global Change Biology · with [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Eric Struyf](/cdr-researcher-census/researchers/eric-struyf-a5029778/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 8 more</small> | Enhanced Weathering | 153 |
+| 2021 | [Can arbuscular mycorrhizal fungi speed up carbon sequestration by enhanced weathering?](https://doi.org/10.1002/ppp3.10179)<br><small>Plants People Planet · with [Eric Struyf](/cdr-researcher-census/researchers/eric-struyf-a5029778/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 66 |
 | 2021 | [Carbon sequestration through enhanced weathering processes on <i>Trictum aestivum </i>production in an acidic and an alkaline soil: yield and N<sub>2</sub>O emissions co-benefits.](https://doi.org/10.7185/gold2021.7232)<br><small>Goldschmidt2021 abstracts · with [Sílvia Poblador](/cdr-researcher-census/researchers/silvia-poblador-a5084556/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
 
 ---

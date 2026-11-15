@@ -1,7 +1,7 @@
 ---
 title: "Kais Siala"
-description: "Kais Siala, Technical University of Munich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3033 by activity, 23 by citations; Europe rank 750 by activity, 16 by citations). 47 publications, h-index 11, 1,170 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Kais Siala, Potsdam-Institut für Klimafolgenforschung (PIK) e V, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3033 by activity, 23 by citations; Europe rank 750 by activity, 16 by citations). 38 publications, h-index 11, 1,284 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/kais-siala-a5069661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kais-siala-a5069661/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technical University of Munich"
+    "name": "Potsdam-Institut f\u00fcr Klimafolgenforschung (PIK) e V"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9080-0014",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Technical University of Munich</td></tr>
+  <tr><th>Institution</th><td>Potsdam-Institut für Klimafolgenforschung (PIK) e V</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 3033 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 750 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 16 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
-  <tr><th>Citations</th><td>1,170</td></tr>
-  <tr><th>Publications</th><td>47</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.3%</td></tr>
+  <tr><th>Citations</th><td>1,284</td></tr>
+  <tr><th>Publications</th><td>38</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9080-0014">ORCID</a> · <a href="https://openalex.org/A5069661755">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models](https://doi.org/10.1016/j.rser.2022.112311)<br><small>Renewable and Sustainable Energy Reviews · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 559 |
+| 2022 | [PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models](https://doi.org/10.1016/j.rser.2022.112311)<br><small>Renewable and Sustainable Energy Reviews · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 640 |
 | 2022 | [PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models](https://doi.org/10.26434/chemrxiv-2022-hp48d)<br><small>preprint · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christian Bauer](/cdr-researcher-census/researchers/christian-bauer-a5014902/), [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 37 |
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Ashish Gulagi"
-description: "Ashish Gulagi, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10633 by activity, 65 by citations; Europe rank 2869 by activity, 50 by citations). 41 publications, h-index 27, 5,114 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ashish Gulagi, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10633 by activity, 65 by citations; Europe rank 2869 by activity, 50 by citations). 58 publications, h-index 28, 5,644 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ashish-gulagi-a5023017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10633 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 65 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2869 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 50 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>27</td></tr>
-  <tr><th>Citations</th><td>5,114</td></tr>
-  <tr><th>Publications</th><td>41</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.9%</td></tr>
+  <tr><th>h-index</th><td>28</td></tr>
+  <tr><th>Citations</th><td>5,644</td></tr>
+  <tr><th>Publications</th><td>58</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.4%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3440-1577">ORCID</a> · <a href="https://openalex.org/A5023017428">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/), [Brian Vad Mathiesen](/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/) and 16 more</small> | Cross-cutting CDR | 588 |
-| 2022 | [Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals](https://doi.org/10.1016/j.jclepro.2022.133920)<br><small>Journal of Cleaner Production · with Tansu Galimova, [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/), Hannu Karjunen, Mahdi Fasihi, [Manish Ram](/cdr-researcher-census/researchers/manish-ram-a5022314/), [Siavash Khalili](/cdr-researcher-census/researchers/siavash-khalili-a5019517/) and 2 more</small> | DAC | 143 |
+| 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402)<br><small>IEEE Access · with [Christian Breyer](/cdr-researcher-census/researchers/christian-breyer-a5078913/), [A.A. Solomon](/cdr-researcher-census/researchers/aa-solomon-a5078685/), [Arman Aghahosseini](/cdr-researcher-census/researchers/arman-aghahosseini-a5035523/), [Auke Hoekstra](/cdr-researcher-census/researchers/auke-hoekstra-a5005754/), [Ayobami Solomon Oyewo](/cdr-researcher-census/researchers/ayobami-solomon-oyewo-a5033557/), [Brian Vad Mathiesen](/cdr-researcher-census/researchers/brian-vad-mathiesen-a5011646/) and 16 more</small> | Cross-cutting CDR | 644 |
+| 2022 | [Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals](https://doi.org/10.1016/j.jclepro.2022.133920)<br><small>Journal of Cleaner Production · with Tansu Galimova, [Dmitrii Bogdanov](/cdr-researcher-census/researchers/dmitrii-bogdanov-a5091516/), Hannu Karjunen, Mahdi Fasihi, [Manish Ram](/cdr-researcher-census/researchers/manish-ram-a5022314/), [Siavash Khalili](/cdr-researcher-census/researchers/siavash-khalili-a5019517/) and 2 more</small> | DAC | 148 |
 
 ---
 

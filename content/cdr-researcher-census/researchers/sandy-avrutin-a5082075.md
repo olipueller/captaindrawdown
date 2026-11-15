@@ -1,7 +1,7 @@
 ---
 title: "Sandy Avrutin"
-description: "Sandy Avrutin, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 75 by activity, 3835 by citations; Europe rank 46 by activity, 1061 by citations). 21 publications, h-index 2, 6 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sandy Avrutin, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 75 by activity, 3835 by citations; Europe rank 46 by activity, 1061 by citations). 15 publications, h-index 2, 13 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sandy-avrutin-a5082075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 75 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 3835 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 1061 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
-  <tr><th>Citations</th><td>6</td></tr>
-  <tr><th>Publications</th><td>21</td></tr>
-  <tr><th>Share of publications on CDR</th><td>28.6%</td></tr>
+  <tr><th>Citations</th><td>13</td></tr>
+  <tr><th>Publications</th><td>15</td></tr>
+  <tr><th>Share of publications on CDR</th><td>46.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3064-2712">ORCID</a> · <a href="https://openalex.org/A5082075493">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 76 more</small> | Ocean CDR | 2 |
 | 2026 | [Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of the Air-Sea CO <sub>2</sub> Flux and Surface Ocean pCO <sub>2</sub> in European Waters under a Low- and a High-Emission Scenario](https://doi.org/10.5194/egusphere-2026-926)<br><small>with Chiara Ciscato, Neha Mehendale, [Tronje P. Kemena](/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/)</small> | Ocean CDR | 0 |
 | 2026 | [Using the Seasonal Cycle in the Ocean Carbonate System for Monitoring and Guiding OAE](https://doi.org/10.5194/egusphere-egu26-18169)<br><small>with [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Chiara Ciscato</small> | Ocean CDR | 0 |
 | 2026 | [Monitoring Environmental Impacts of mCDR Field Tests: CDRmare HUB Workshop Report](https://openalex.org/W7149214733)<br><small>with Christian-Benjamin Sarpey, Alexander Proelss, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/) and 3 more</small> | Ocean CDR | 0 |
-| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 75 more</small> | Ocean CDR | 0 |
 | 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7162539958)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Anwesha Ghosh, B. van Dam, Baker Matovu, Chelsey Baker and 16 more</small> | Ocean CDR | 0 |
 | 2026 | [Ocean alkalinity enhancement: Insights and considerations for application](https://openalex.org/W7212142082)<br><small>preprint · with Steffen Swoboda, Andy W. Dale, [Michael Fuhr](/cdr-researcher-census/researchers/michael-fuhr-a5072752/), Mirco Wölfelschneider, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
 | 2024 | [Seasonal Variability in the Ocean Carbonate System under Ocean Alkalinity Enhancement&amp;#160;](https://doi.org/10.5194/egusphere-egu24-18243)<br><small>preprint · with [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/)</small> | Ocean CDR | 0 |

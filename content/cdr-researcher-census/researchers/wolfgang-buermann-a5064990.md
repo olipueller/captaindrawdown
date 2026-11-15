@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Buermann"
-description: "Wolfgang Buermann, University of Augsburg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4678 by activity, 66 by citations; Europe rank 1322 by activity, 47 by citations). 128 publications, h-index 48, 11,433 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Wolfgang Buermann, University of Augsburg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4678 by activity, 66 by citations; Europe rank 1322 by activity, 47 by citations). 142 publications, h-index 48, 11,525 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/wolfgang-buermann-a5064990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4678 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1322 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>48</td></tr>
-  <tr><th>Citations</th><td>11,433</td></tr>
-  <tr><th>Publications</th><td>128</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.8%</td></tr>
+  <tr><th>Citations</th><td>11,525</td></tr>
+  <tr><th>Publications</th><td>142</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5064990648">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock](https://doi.org/10.1038/s41561-021-00798-x)<br><small>Nature Geoscience · with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), [Jinfeng Chang](/cdr-researcher-census/researchers/jinfeng-chang-a5025102/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/) and 6 more</small> | Enhanced Weathering | 198 |
+| 2021 | [Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock](https://doi.org/10.1038/s41561-021-00798-x)<br><small>Nature Geoscience · with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), [Jinfeng Chang](/cdr-researcher-census/researchers/jinfeng-chang-a5025102/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/) and 6 more</small> | Enhanced Weathering | 218 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Martin Hamer"
-description: "Martin Hamer, Hochschule Bonn-Rhein-Sieg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4673 by activity, 37 by citations; Europe rank 1318 by activity, 27 by citations). 48 publications, h-index 6, 317 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Martin Hamer, Hochschule Bonn-Rhein-Sieg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4673 by activity, 37 by citations; Europe rank 1318 by activity, 27 by citations). 55 publications, h-index 6, 378 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/martin-hamer-a5078777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4673 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1318 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>317</td></tr>
-  <tr><th>Publications</th><td>48</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
+  <tr><th>Citations</th><td>378</td></tr>
+  <tr><th>Publications</th><td>55</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8406-6717">ORCID</a> · <a href="https://openalex.org/A5078777984">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Remineralizing soils? The agricultural usage of silicate rock powders: A review](https://doi.org/10.1016/j.scitotenv.2021.150976)<br><small>The Science of The Total Environment · with [Philipp Swoboda](/cdr-researcher-census/researchers/philipp-swoboda-a5038674/), [Thomas Döring](/cdr-researcher-census/researchers/thomas-doring-a5048672/)</small> | Enhanced Weathering | 257 |
+| 2021 | [Remineralizing soils? The agricultural usage of silicate rock powders: A review](https://doi.org/10.1016/j.scitotenv.2021.150976)<br><small>The Science of The Total Environment · with [Philipp Swoboda](/cdr-researcher-census/researchers/philipp-swoboda-a5038674/), [Thomas Döring](/cdr-researcher-census/researchers/thomas-doring-a5048672/)</small> | Enhanced Weathering | 297 |
 
 ---
 

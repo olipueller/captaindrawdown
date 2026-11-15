@@ -1,7 +1,7 @@
 ---
 title: "Sarah Deutz"
-description: "Sarah Deutz, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 340 by activity, 18 by citations; Europe rank 126 by activity, 11 by citations). 37 publications, h-index 10, 2,041 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sarah Deutz, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 340 by activity, 18 by citations; Europe rank 126 by activity, 11 by citations). 43 publications, h-index 10, 2,206 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sarah-deutz-a5086401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 340 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 126 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
-  <tr><th>Citations</th><td>2,041</td></tr>
-  <tr><th>Publications</th><td>37</td></tr>
-  <tr><th>Share of publications on CDR</th><td>10.8%</td></tr>
+  <tr><th>Citations</th><td>2,206</td></tr>
+  <tr><th>Publications</th><td>43</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8062-7684">ORCID</a> · <a href="https://openalex.org/A5086401812">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies](https://doi.org/10.2139/ssrn.5278865)<br><small>SSRN Electronic Journal (preprint) · with [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), Linda Engelman, Martina Ziefle and 7 more</small> | DAC | 5 |
-| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798)<br><small>SSRN Electronic Journal · with [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), Carla Esch, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Matthias Weßling, [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 0 |
-| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9)<br><small>Nature Energy · with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 615 |
+| 2025 | [From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies](https://doi.org/10.2139/ssrn.5278865)<br><small>SSRN Electronic Journal (preprint) · with Lara Meuleneers, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), Linda Engelmann, Martina Ziefle and 7 more</small> | DAC | 4 |
+| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798)<br><small>SSRN Electronic Journal · with Lara Meuleneers, Carla Esch, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Matthias Weßling, [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 0 |
+| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9)<br><small>Nature Energy · with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 653 |
 | 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2)<br><small>preprint · with [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/)</small> | DAC | 0 |
 
 ---

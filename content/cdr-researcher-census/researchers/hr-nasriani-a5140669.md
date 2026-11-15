@@ -1,7 +1,7 @@
 ---
 title: "H.R. Nasriani"
 description: "H.R. Nasriani, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 82 by activity, 3454 by citations; Europe rank 31 by activity, 987 by citations). 8 publications, h-index 2, 5 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/hr-nasriani-a5140669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,10 +44,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [How Adsorbent Thermodynamics Shape Direct Air Capture Performance: A Global Sensitivity Study](https://openalex.org/W7168269577)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/), S. Khani Rasmussen</small> | DAC | 0 |
-| 2026 | [Mathematical Formulation of Sigmoidal Water Adsorption: Klotz vs Weighted Dual-Site Langmuir in mmen-Mg2(dobpdc)](https://openalex.org/W7168282757)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/), S. Khani Rasmussen</small> | DAC | 0 |
-| 2026 | [Assessment of TVSA Cycle Configurations for Cooperative Adsorbents with Step-Shaped Isotherms under Direct Air Capture](https://openalex.org/W7168283901)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/), S. Khani Rasmussen</small> | DAC | 0 |
-| 2025 | [Multi-Objective Optimization of CO2 Capture from Ambient Air via TVSA Process Modeling](https://openalex.org/W7162301642)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5140599/), H.R. Nasriani, K. S Williams, [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/) and 2 more</small> | DAC | 0 |
+| 2026 | [How Adsorbent Thermodynamics Shape Direct Air Capture Performance: A Global Sensitivity Study](https://openalex.org/W7168269577)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5053360/), [Hamid Reza Nasriani](/cdr-researcher-census/researchers/hamid-reza-nasriani-a5019937/), [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/), S. Khani Rasmussen</small> | DAC | 0 |
+| 2026 | [Mathematical Formulation of Sigmoidal Water Adsorption: Klotz vs Weighted Dual-Site Langmuir in mmen-Mg2(dobpdc)](https://openalex.org/W7168282757)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5053360/), [Hamid Reza Nasriani](/cdr-researcher-census/researchers/hamid-reza-nasriani-a5019937/), [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/), S. Khani Rasmussen</small> | DAC | 0 |
+| 2026 | [Assessment of TVSA Cycle Configurations for Cooperative Adsorbents with Step-Shaped Isotherms under Direct Air Capture](https://openalex.org/W7168283901)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5053360/), [Hamid Reza Nasriani](/cdr-researcher-census/researchers/hamid-reza-nasriani-a5019937/), [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/), S. Khani Rasmussen</small> | DAC | 0 |
+| 2025 | [Multi-Objective Optimization of CO2 Capture from Ambient Air via TVSA Process Modeling](https://openalex.org/W7162301642)<br><small>with [M. Nasiri Ghiri](/cdr-researcher-census/researchers/m-nasiri-ghiri-a5053360/), H.R. Nasriani, [Hamid Reza Nasriani](/cdr-researcher-census/researchers/hamid-reza-nasriani-a5019937/), K. S Williams, [L. Khajehnoori](/cdr-researcher-census/researchers/l-khajehnoori-a5140697/) and 3 more</small> | DAC | 1 |
 
 ---
 

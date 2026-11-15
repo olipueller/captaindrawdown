@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
-description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 58 by activity, 2891 by citations). 40 publications, h-index 13, 920 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 58 by activity, 2891 by citations). 44 publications, h-index 13, 961 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 58 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2891 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
-  <tr><th>Citations</th><td>920</td></tr>
-  <tr><th>Publications</th><td>40</td></tr>
-  <tr><th>Share of publications on CDR</th><td>15.0%</td></tr>
+  <tr><th>Citations</th><td>961</td></tr>
+  <tr><th>Publications</th><td>44</td></tr>
+  <tr><th>Share of publications on CDR</th><td>18.2%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0346-732X">ORCID</a> · <a href="https://openalex.org/A5040576621">OpenAlex</a></td></tr>
 </table>
@@ -43,17 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub](https://doi.org/10.2139/ssrn.5069312)<br><small>SSRN Electronic Journal · with Kevin O’Brien, Alberto Baumeister, Andréa Stella, Ashleigh Ross, Bajio Varghese Kaleeckal, Benjamin Gardner and 14 more</small> | DAC | 0 |
-| 2024 | [FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)](https://doi.org/10.2172/2483545)<br><small>with Leslie Gioja, Alberto Baumeister, Bajio Varghese, Bajio Varghese Kaleeckal, Brenda Petrilena, Claudio Mazzei and 22 more</small> | DAC | 1 |
+| 2025 | [Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub](https://doi.org/10.2139/ssrn.5069312)<br><small>SSRN Electronic Journal · with Kevin O’Brien, Alberto Baumeister, Andréa Stella, Ashleigh Ross, Bajio Varghese Kaleeckal, Benjamin Gardner and 13 more</small> | DAC | 0 |
+| 2024 | [FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)](https://doi.org/10.2172/2483545)<br><small>with Leslie Gioja, [USDOE Office of Fossil Energy (FE)](/cdr-researcher-census/researchers/usdoe-office-of-fossil-energy-fe-a5147699/), Alberto Baumeister, Bajio Varghese, Bajio Varghese Kaleeckal, Brenda Petrilena and 23 more</small> | DAC | 2 |
+| 2024 | [Integrating Direct Air Capture (DAC) with Microreactors: Pathways to Net Negative](http://dx.doi.org/10.2139/ssrn.5026762)<br><small>SSRN Electronic Journal · with Kevin O’Brien, April Novak, Timothy P. Grunloh, Jiajun He</small> | DAC | 0 |
 | 2024 | [Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community](https://doi.org/10.2139/ssrn.5013245)<br><small>SSRN Electronic Journal · with Chen Wang, Darryl-Lynn Roberts, Elizabeth Meschewski, J. E. Pike, Jong Sung Lee, Kendall Taft and 9 more</small> | DAC | 0 |
 | 2024 | [Florida Regional Direct Air Capture (DAC) Hub](https://doi.org/10.2139/ssrn.5045251)<br><small>SSRN Electronic Journal · with Jason Dietsch, Andréa Stella, Andy Dubel, Ashleigh Ross, Bryan D. Jones, Darryl-Lynn Roberts and 9 more</small> | DAC | 0 |
 | 2024 | [Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat](https://doi.org/10.2139/ssrn.5066083)<br><small>SSRN Electronic Journal · with Bajio Varghese Kaleeckal, Alberto Baumeister, Kevin Cail, Kevin O’Brien, Leslie Gioja and 7 more</small> | DAC | 0 |
-| 2024 | [Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks](https://doi.org/10.2172/2322436)<br><small>with Kevin O’Brien, Bob Sullivan, Brian Meichtry, Daniel Sutter, Jason Dietsch, Karina Veloso and 3 more</small> | DAC | 0 |
-| 2022 | [FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel's Gary Works Plant Waste Heat](https://openalex.org/W7220799235)<br><small>with Kevin OBrien, Les Gioja</small> | DAC | 0 |
+| 2024 | [Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks](https://doi.org/10.2172/2322436)<br><small>with Kevin O’Brien, [USDOE Office of Fossil Energy (FE)](/cdr-researcher-census/researchers/usdoe-office-of-fossil-energy-fe-a5147699/), Bob Sullivan, Brian Meichtry, Daniel Sutter, Jason Dietsch and 4 more</small> | DAC | 0 |
+| 2022 | [FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel's Gary Works Plant Waste Heat](https://openalex.org/W7220799235)<br><small>with Kevin OBrien, Les Gioja, Leslie Gioja</small> | DAC | 0 |
 
 ---
 

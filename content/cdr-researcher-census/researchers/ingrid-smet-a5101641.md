@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
-description: "Ingrid Smet, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 63 by activity, 1837 by citations; Europe rank 45 by activity, 521 by citations). 28 publications, h-index 10, 554 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ingrid Smet, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 63 by activity, 1837 by citations; Europe rank 45 by activity, 521 by citations). 32 publications, h-index 8, 269 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 63 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1837 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 521 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>10</td></tr>
-  <tr><th>Citations</th><td>554</td></tr>
-  <tr><th>Publications</th><td>28</td></tr>
-  <tr><th>Share of publications on CDR</th><td>25.0%</td></tr>
+  <tr><th>h-index</th><td>8</td></tr>
+  <tr><th>Citations</th><td>269</td></tr>
+  <tr><th>Publications</th><td>32</td></tr>
+  <tr><th>Share of publications on CDR</th><td>34.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4783-4232">ORCID</a> · <a href="https://openalex.org/A5101641069">OpenAlex</a></td></tr>
 </table>
@@ -43,7 +43,7 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 11, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -53,7 +53,10 @@ robots: "index, follow"
 | 2026 | [Assessing mineral dissolution and secondary mineral formation during enhanced weathering on agricultural sites](https://doi.org/10.5194/egusphere-egu26-4047)<br><small>with [Philip A.E. Pogge von Strandmann](/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/), [Anna A. Stoeckel](/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/), [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), [Ralf Steffens](/cdr-researcher-census/researchers/ralf-steffens-a5036254/), [Dirk Paessler](/cdr-researcher-census/researchers/dirk-paessler-a5009555/)</small> | Enhanced Weathering | 0 |
 | 2026 | [Carbon dioxide removal efficiency of co-applied and co-pyrolyzed feedstocks for enhanced rock weathering and biochar in a sandy soil](https://openalex.org/W7157869705)<br><small>with [Maria-Elena Vorrath](/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/), Cierra Aldrich, [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), Dirk Eifler, Ivo Neumann, [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/) and 14 more</small> | Biochar; Enhanced Weathering | 0 |
 | 2026 | [Carbon dioxide removal efficiency of co-applied and co-pyrolyzed feedstocks for enhanced rock weathering and biochar in a sandy soil](https://openalex.org/W7163563160)<br><small>with [Maria-Elena Vorrath](/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/), Cierra Aldrich, [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), Dirk Eifler, Ivo Neumann, [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/) and 14 more</small> | Biochar; Enhanced Weathering | 0 |
-| 2025 | [Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal](https://doi.org/10.5194/egusphere-2025-5402)<br><small>with [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), [Anna A. Stoeckel](/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Bruno Casimiro, [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), Johannes A. C. Barth and 6 more</small> | Enhanced Weathering | 2 |
+| 2026 | [Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits and trace-metal concerns](https://openalex.org/W7224336954)<br><small>preprint · with [Xavier Dupla](/cdr-researcher-census/researchers/xavier-dupla-a5010537/), Benjamin Möller, Emily E. E. M. te Pas, Emma Bonvin, Favour Etinkumoh, [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/) and 6 more</small> | Enhanced Weathering | 0 |
+| 2026 | [A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock weathering](https://openalex.org/W7224859017)<br><small>preprint · with [Melissa J. Murphy](/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/), [Anna A. Stoeckel](/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/), [Dirk Paessler](/cdr-researcher-census/researchers/dirk-paessler-a5009555/), [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), [Ralf Steffens](/cdr-researcher-census/researchers/ralf-steffens-a5036254/), [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/)</small> | Enhanced Weathering | 0 |
+| 2026 | [GH2025 — soil and feedstock characterisation data of the Carbdown greenhouse mesocosm experiment for enhanced rock weathering](https://openalex.org/W7224937937)<br><small>with [Dirk Paessler](/cdr-researcher-census/researchers/dirk-paessler-a5009555/), [Anna A. Stoeckel](/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/), [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), Jens Hartmann, [Ralf Steffens](/cdr-researcher-census/researchers/ralf-steffens-a5036254/), [Melissa J. Murphy](/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal](https://doi.org/10.5194/egusphere-2025-5402)<br><small>with [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), [Anna A. Stoeckel](/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Bruno Casimiro, [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), Johannes A. C. Barth and 6 more</small> | Enhanced Weathering | 6 |
 | 2023 | [Monitoring CO2 Concentrations in Soil Gas: A Novel MRV Approach for Cropland-Based ERW?](http://dx.doi.org/10.31223/x5267r)<br><small>preprint · with [Dirk Paessler](/cdr-researcher-census/researchers/dirk-paessler-a5009555/), [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), [Ralf Steffens](/cdr-researcher-census/researchers/ralf-steffens-a5036254/)</small> | Enhanced Weathering | 3 |
 
 ---

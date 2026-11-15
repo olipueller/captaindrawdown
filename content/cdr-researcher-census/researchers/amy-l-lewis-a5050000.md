@@ -1,7 +1,7 @@
 ---
 title: "Amy L. Lewis"
-description: "Amy L. Lewis, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 1056 by activity, 18 by citations; Europe rank 433 by activity, 15 by citations). 6 publications, h-index 5, 712 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Amy L. Lewis, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 1056 by activity, 18 by citations; Europe rank 433 by activity, 15 by citations). 6 publications, h-index 5, 806 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/amy-l-lewis-a5050000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,7 +32,7 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 1056 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 433 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
-  <tr><th>Citations</th><td>712</td></tr>
+  <tr><th>Citations</th><td>806</td></tr>
   <tr><th>Publications</th><td>6</td></tr>
   <tr><th>Share of publications on CDR</th><td>66.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), [Jean-Francois Mecure](/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/), [Maria Val Martin](/cdr-researcher-census/researchers/maria-val-martin-a5037090/), [Mark R. Lomas](/cdr-researcher-census/researchers/mark-r-lomas-a5108505/) and 10 more</small> | Enhanced Weathering | 165 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), Jean-Francois Mecure, [Jean-François Mercure](/cdr-researcher-census/researchers/jean-francois-mercure-a5082655/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/), [Maria Val Martin](/cdr-researcher-census/researchers/maria-val-martin-a5037090/) and 11 more</small> | Enhanced Weathering | 184 |
 | 2022 | [Detection and Quantification of Low Levels of Carbonate Mineral Species Using Thermogravimetric-Mass Spectrometry to Validate Co2 Drawdown Via Enhanced Rock Weathering](https://doi.org/10.2139/ssrn.4064430)<br><small>SSRN Electronic Journal · with [Simon J. Kemp](/cdr-researcher-census/researchers/simon-j-kemp-a5080505/), Jeremy Rushton</small> | Enhanced Weathering | 2 |
-| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023)<br><small>Applied Geochemistry · with Binoy Sarkar, [Evan H. DeLucia](/cdr-researcher-census/researchers/evan-h-delucia-a5044416/), [I. B. Kantola](/cdr-researcher-census/researchers/i-b-kantola-a5084112/), [Jonathan R. Leake](/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/), [Kalu Davies](/cdr-researcher-census/researchers/kalu-davies-a5004833/), [Kok Loong Yeong](/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/) and 9 more</small> | Enhanced Weathering | 162 |
+| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023)<br><small>Applied Geochemistry · with [Binoy Sarkar](/cdr-researcher-census/researchers/binoy-sarkar-a5083577/), [Evan H. DeLucia](/cdr-researcher-census/researchers/evan-h-delucia-a5044416/), [I. B. Kantola](/cdr-researcher-census/researchers/i-b-kantola-a5084112/), [Jonathan R. Leake](/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/), [Kalu Davies](/cdr-researcher-census/researchers/kalu-davies-a5004833/), [Kok Loong Yeong](/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/) and 9 more</small> | Enhanced Weathering | 193 |
 
 ---
 

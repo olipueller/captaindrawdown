@@ -1,7 +1,7 @@
 ---
 title: "Norman Julius Steinert"
-description: "Norman Julius Steinert, CICERO Center for International Climate Research, Norway. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 54 by activity, 144 by citations; Europe rank 38 by activity, 91 by citations). 151 publications, h-index 15, 893 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Norman Julius Steinert, CICERO Center for International Climate Research, Norway. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 54 by activity, 144 by citations; Europe rank 38 by activity, 91 by citations). 125 publications, h-index 19, 1,394 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/norman-julius-steinert-a5029222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 54 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 144 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 91 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>15</td></tr>
-  <tr><th>Citations</th><td>893</td></tr>
-  <tr><th>Publications</th><td>151</td></tr>
-  <tr><th>Share of publications on CDR</th><td>6.6%</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,394</td></tr>
+  <tr><th>Publications</th><td>125</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2154-5857">ORCID</a> · <a href="https://openalex.org/A5029222116">OpenAlex</a></td></tr>
 </table>
@@ -47,15 +47,15 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models](https://openalex.org/W7152019078)<br><small>with Abigail L. S. Swann, Anastasia Romanou, Benjamin M. Sanderson, Charles D. Koven, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), Cristian Proistosecu and 11 more</small> | Cross-cutting CDR | 0 |
-| 2026 | [Land carbon response to positive, zero, and negative CO 2 emissions across Earth system models](https://openalex.org/W7212030484)<br><small>with Abigail L. S. Swann, Anastasia Romanou, Benjamin M. Sanderson, Charles D. Koven, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), Cristian Proistosecu and 15 more</small> | Cross-cutting CDR | 0 |
-| 2026 | [Impacts and limitations of avoiding temperature overshoot with stratospheric aerosol injections](https://openalex.org/W7213366905)<br><small>preprint · with [Jerry Tjiputra](/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/), Dirk Olivié, [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Nadine Goris, Rosie A. Fisher, Huiji Lee</small> | Cross-cutting CDR | 0 |
-| 2025 | [Continued permafrost ecosystem carbon loss under net-zero and negative emissions](https://doi.org/10.1126/sciadv.adn8819)<br><small>Science Advances · with So‐Won Park, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), [Jongsoo Shin](/cdr-researcher-census/researchers/jongsoo-shin-a5079999/), Jung Soo Mun, [Soon‐Il An](/cdr-researcher-census/researchers/soonil-an-a5033866/), [Jong‐Seong Kug](/cdr-researcher-census/researchers/jongseong-kug-a5091389/)</small> | Cross-cutting CDR | 18 |
-| 2025 | [Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot](https://doi.org/10.1029/2024ef005787)<br><small>Earth s Future · with [Jong‐Seong Kug](/cdr-researcher-census/researchers/jongseong-kug-a5091389/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Robin Chadwick, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/)</small> | Cross-cutting CDR | 7 |
-| 2024 | [Overconfidence in climate overshoot](https://doi.org/10.1038/s41586-024-08020-9)<br><small>Nature · with [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), Benjamin M. Sanderson, Biqing Zhu, Chahan M. Kropf, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Emily Theokritoff and 23 more</small> | Cross-cutting CDR | 178 |
-| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25)<br><small>Global Sustainability · with Mercedes Bustamante, Aaron Redman, Aditi Mukherji, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Aniek Hebinck, Anja Rammig and 71 more</small> | Cross-cutting CDR | 47 |
+| 2026 | [Land carbon response to positive, zero, and negative CO 2 emissions across Earth system models](https://openalex.org/W7212030484)<br><small>with Abigail L. S. Swann, Anastasia Romanou, Benjamin M. Sanderson, Charles D. Koven, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), Cristian Proistosescu and 14 more</small> | Cross-cutting CDR | 1 |
+| 2026 | [Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models](https://openalex.org/W7152019078)<br><small>with Abigail L. S. Swann, Anastasia Romanou, Benjamin M. Sanderson, Charles D. Koven, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), Cristian Proistosescu and 11 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Impacts and limitations of avoiding temperature overshoot with stratospheric aerosol injections](https://openalex.org/W7213366905)<br><small>preprint · with Jerry Tjiputra, Dirk Olivié, [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Nadine Goris, Rosie A. Fisher, Huiji Lee</small> | Cross-cutting CDR | 0 |
+| 2025 | [Continued permafrost ecosystem carbon loss under net-zero and negative emissions](https://doi.org/10.1126/sciadv.adn8819)<br><small>Science Advances · with So‐Won Park, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), Jin-Hyuk Mun, [Jongsoo Shin](/cdr-researcher-census/researchers/jongsoo-shin-a5079999/), Jung Soo Mun, [Soon‐Il An](/cdr-researcher-census/researchers/soonil-an-a5033866/) and 1 more</small> | Cross-cutting CDR | 24 |
+| 2025 | [Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot](https://doi.org/10.1029/2024ef005787)<br><small>Earth s Future · with [Jong‐Seong Kug](/cdr-researcher-census/researchers/jongseong-kug-a5091389/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Robin Chadwick, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/)</small> | Cross-cutting CDR | 11 |
+| 2024 | [Overconfidence in climate overshoot](https://doi.org/10.1038/s41586-024-08020-9)<br><small>Nature · with [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), Benjamin M. Sanderson, Biqing Zhu, Chahan M. Kropf, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Emily Theokritoff and 23 more</small> | Cross-cutting CDR | 235 |
+| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25)<br><small>Global Sustainability · with Mercedes Bustamante, Aaron Redman, Aditi Mukherji, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Aniek Hebinck, Anja Rammig and 71 more</small> | Cross-cutting CDR | 57 |
 | 2023 | [Regional surface climate irreversibility under temperature overshoot scenarios](https://doi.org/10.5194/egusphere-egu23-8383)<br><small>preprint · with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/)</small> | Cross-cutting CDR | 0 |
-| 2022 | [Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations](https://doi.org/10.5194/esd-13-1641-2022)<br><small>Earth System Dynamics · with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Ali Asaadi, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/)</small> | Cross-cutting CDR | 49 |
+| 2022 | [Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations](https://doi.org/10.5194/esd-13-1641-2022)<br><small>Earth System Dynamics · with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Ali Asaadi, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/)</small> | Cross-cutting CDR | 62 |
 | 2022 | [Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration](https://doi.org/10.5194/esd-2022-39)<br><small>preprint · with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Ali Asaadi, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/)</small> | Cross-cutting CDR | 1 |
 
 ---

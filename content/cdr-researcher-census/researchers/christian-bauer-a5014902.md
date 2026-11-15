@@ -1,7 +1,7 @@
 ---
 title: "Christian Bauer"
-description: "Christian Bauer, Paul Scherrer Institut, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 1073 by activity, 4 by citations; Europe rank 328 by activity, 3 by citations), Cross-cutting CDR (worldwide rank 1447 by activity, 99 by citations). 274 publications, h-index 55, 18,202 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Christian Bauer, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 1073 by activity, 4 by citations; Europe rank 328 by activity, 3 by citations), Cross-cutting CDR (worldwide rank 1447 by activity, 99 by citations). 129 publications, h-index 55, 18,988 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/christian-bauer-a5014902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christian-bauer-a5014902/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Paul Scherrer Institut"
+    "name": "Paul Scherrer Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1083-9200",
@@ -26,16 +26,16 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Paul Scherrer Institut</td></tr>
+  <tr><th>Institution</th><td>Paul Scherrer Institute</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 1073 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 328 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1447 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>55</td></tr>
-  <tr><th>Citations</th><td>18,202</td></tr>
-  <tr><th>Publications</th><td>274</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.3%</td></tr>
+  <tr><th>Citations</th><td>18,988</td></tr>
+  <tr><th>Publications</th><td>129</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1083-9200">ORCID</a> · <a href="https://openalex.org/A5014902122">OpenAlex</a></td></tr>
 </table>
@@ -48,14 +48,14 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Prospective site-specific life cycle assessment of ocean alkalinity enhancement](https://openalex.org/W7147493203)<br><small>with Maria Myridinas, Andrea Stöckli, [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/), [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [﻿Arnaud Laurent](/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) and 1 more</small> | Ocean CDR | 2 |
+| 2026 | [Prospective site-specific life cycle assessment of ocean alkalinity enhancement](https://openalex.org/W7147493203)<br><small>with Maria Myridinas, Andrea Stöckli, [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/), [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [﻿Arnaud Laurent](/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) and 1 more</small> | Ocean CDR | 3 |
 | 2026 | [Prospective site-specific life cycle assessment of ocean alkalinity enhancement](https://openalex.org/W7166828644)<br><small>with Maria Myridinas, Andrea Stöckli, [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/), [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [﻿Arnaud Laurent](/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) and 1 more</small> | Ocean CDR | 0 |
-| 2022 | [PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models](https://doi.org/10.1016/j.rser.2022.112311)<br><small>Renewable and Sustainable Energy Reviews · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/), [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 559 |
-| 2022 | [Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies](https://doi.org/10.1016/j.adapen.2022.100108)<br><small>Advances in Applied Energy · with Gunhild A. Reigstad, Evangelos Panos, Gianfranco Guidati, Jonathan Pearce, Julian Straus, Lionel Avignon and 7 more</small> | Cross-cutting CDR | 88 |
+| 2022 | [PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models](https://doi.org/10.1016/j.rser.2022.112311)<br><small>Renewable and Sustainable Energy Reviews · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/), [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 640 |
+| 2022 | [Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies](https://doi.org/10.1016/j.adapen.2022.100108)<br><small>Advances in Applied Energy · with Gunhild A. Reigstad, Evangelos Panos, Gianfranco Guidati, Jonathan Pearce, Julian Straus, Lionel Avignon and 7 more</small> | Cross-cutting CDR | 99 |
 | 2022 | [PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models](https://doi.org/10.26434/chemrxiv-2022-hp48d)<br><small>preprint · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), [Christopher Mutel](/cdr-researcher-census/researchers/christopher-mutel-a5044214/), [Kais Siala](/cdr-researcher-census/researchers/kais-siala-a5069661/), [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/) and 2 more</small> | DAC | 37 |
 | 2022 | [Climate-neutral aviation: will it fly?](https://doi.org/10.21203/rs.3.rs-2185970/v1)<br><small>preprint · with [Romain Sacchi](/cdr-researcher-census/researchers/romain-sacchi-a5027573/), [Alois Dirnaichner](/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/), [B. Cox](/cdr-researcher-census/researchers/b-cox-a5023730/), Paolo Gabrielli, [Viola Becattini](/cdr-researcher-census/researchers/viola-becattini-a5055416/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | Cross-cutting CDR | 1 |
-| 2021 | [Life cycle assessment of carbon dioxide removal technologies: a critical review](https://doi.org/10.1039/d0ee03757e)<br><small>Energy & Environmental Science · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), [Lorenzo Rosa](/cdr-researcher-census/researchers/lorenzo-rosa-a5027453/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | Cross-cutting CDR | 352 |
-| 2021 | [Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources](https://doi.org/10.1021/acs.est.1c03263)<br><small>Environmental Science & Technology · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 296 |
+| 2021 | [Life cycle assessment of carbon dioxide removal technologies: a critical review](https://doi.org/10.1039/d0ee03757e)<br><small>Energy & Environmental Science · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), [Lorenzo Rosa](/cdr-researcher-census/researchers/lorenzo-rosa-a5027453/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | Cross-cutting CDR | 385 |
+| 2021 | [Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources](https://doi.org/10.1021/acs.est.1c03263)<br><small>Environmental Science & Technology · with [Tom Terlouw](/cdr-researcher-census/researchers/tom-terlouw-a5036170/), [Karin Treyer](/cdr-researcher-census/researchers/karin-treyer-a5068272/), [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 324 |
 | 2021 | [On the climate impacts of blue hydrogen production](https://doi.org/10.26434/chemrxiv-2021-hz0qp)<br><small>preprint · with Arvind Ravikumar, Cristina Antonini, Emre Gençer, [Falko Ueckerdt](/cdr-researcher-census/researchers/falko-ueckerdt-a5075840/), Jaap F. Vente, Jon Gibbins and 9 more</small> | BECCS | 12 |
 
 ---

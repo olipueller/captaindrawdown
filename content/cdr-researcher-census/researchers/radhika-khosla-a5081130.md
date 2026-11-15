@@ -1,7 +1,7 @@
 ---
 title: "Radhika Khosla"
-description: "Radhika Khosla, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11972 by activity, 17 by citations; Europe rank 3266 by activity, 14 by citations). 75 publications, h-index 27, 4,215 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Radhika Khosla, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11972 by activity, 17 by citations; Europe rank 3266 by activity, 14 by citations). 80 publications, h-index 29, 4,801 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/radhika-khosla-a5081130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 11972 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3266 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>27</td></tr>
-  <tr><th>Citations</th><td>4,215</td></tr>
-  <tr><th>Publications</th><td>75</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.3%</td></tr>
+  <tr><th>h-index</th><td>29</td></tr>
+  <tr><th>Citations</th><td>4,801</td></tr>
+  <tr><th>Publications</th><td>80</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7730-8041">ORCID</a> · <a href="https://openalex.org/A5081130011">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with [Samuel Fankhauser](/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/), [Cameron Hepburn](/cdr-researcher-census/researchers/cameron-hepburn-a5068254/), [Eli Mitchell-Larson](/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/), [J. M. Kendall](/cdr-researcher-census/researchers/j-m-kendall-a5086300/), [Javier Lezaun](/cdr-researcher-census/researchers/javier-lezaun-a5085557/), [Kaya Axelsson](/cdr-researcher-census/researchers/kaya-axelsson-a5050288/) and 8 more</small> | Cross-cutting CDR | 960 |
+| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with [Samuel Fankhauser](/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/), [Cameron Hepburn](/cdr-researcher-census/researchers/cameron-hepburn-a5068254/), [Eli Mitchell-Larson](/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/), [J. M. Kendall](/cdr-researcher-census/researchers/j-m-kendall-a5086300/), [Javier Lezaun](/cdr-researcher-census/researchers/javier-lezaun-a5085557/), [Kaya Axelsson](/cdr-researcher-census/researchers/kaya-axelsson-a5050288/) and 8 more</small> | Cross-cutting CDR | 1,093 |
 
 ---
 

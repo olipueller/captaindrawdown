@@ -1,7 +1,7 @@
 ---
 title: "André Faaij"
-description: "André Faaij, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 31 by activity, 381 by citations; Europe rank 21 by activity, 166 by citations). 526 publications, h-index 99, 39,333 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "André Faaij, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 31 by activity, 381 by citations; Europe rank 21 by activity, 166 by citations). 637 publications, h-index 105, 42,558 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/andre-faaij-a5068756/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 31 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 381 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 166 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>99</td></tr>
-  <tr><th>Citations</th><td>39,333</td></tr>
-  <tr><th>Publications</th><td>526</td></tr>
+  <tr><th>h-index</th><td>105</td></tr>
+  <tr><th>Citations</th><td>42,558</td></tr>
+  <tr><th>Publications</th><td>637</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1224-5940">ORCID</a> · <a href="https://openalex.org/A5068756115">OpenAlex</a></td></tr>
@@ -48,11 +48,11 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Scenario space exploration for robust energy planning](https://openalex.org/W7213422099)<br><small>with Amirhossein Fattahi, Carlos Felipe Blanco, Mobi van der Linden, Rebeka Béres</small> | BECCS | 0 |
-| 2025 | [Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050](https://doi.org/10.1016/j.resconrec.2025.108528)<br><small>Resources Conservation and Recycling · with Fan Yang, Bingquan Zhang, Hans Meerman, Jinrui Zhang, Qi Li, Tianyang Lei and 2 more</small> | BECCS | 4 |
+| 2025 | [Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050](https://doi.org/10.1016/j.resconrec.2025.108528)<br><small>Resources Conservation and Recycling · with Fan Yang, Bingquan Zhang, Hans Meerman, Jinrui Zhang, Qi Li, Tianyang Lei and 2 more</small> | BECCS | 7 |
 | 2023 | [BECCS as climate mitigation option in a Brazilian low carbon energy system: Estimating potential and effect of gigatonne scale CO2 storage](https://doi.org/10.1016/j.ijggc.2023.103945)<br><small>International journal of greenhouse gas control · with Tjerk Lap, Floor van der Hilst, René Benders</small> | BECCS | 16 |
-| 2023 | [Exploring the spatiotemporal evolution of bioenergy with carbon capture and storage and decarbonization of oil refineries with a national energy system model of Colombia](https://doi.org/10.1016/j.esr.2023.101232)<br><small>Energy Strategy Reviews · with Ahmed Younis, Lorena Suárez Bermúdez, René Benders, Tjerk Lap, Édgar Eduardo Yáñez Angarita</small> | BECCS | 5 |
-| 2022 | [Repairing What Policy Is Missing Out on: A Constructive View on Prospects and Preconditions for Sustainable Biobased Economy Options to Mitigate and Adapt to Climate Change](https://doi.org/10.3390/en15165955)<br><small>Energies</small> | BECCS | 11 |
-| 2021 | [Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions](https://doi.org/10.1016/j.ijggc.2021.103519)<br><small>International journal of greenhouse gas control · with Fan Yang, Hans Meerman</small> | BECCS | 28 |
+| 2023 | [Exploring the spatiotemporal evolution of bioenergy with carbon capture and storage and decarbonization of oil refineries with a national energy system model of Colombia](https://doi.org/10.1016/j.esr.2023.101232)<br><small>Energy Strategy Reviews · with Ahmed Younis, Lorena Suárez Bermúdez, René Benders, Tjerk Lap, Édgar Eduardo Yáñez Angarita</small> | BECCS | 9 |
+| 2022 | [Repairing What Policy Is Missing Out on: A Constructive View on Prospects and Preconditions for Sustainable Biobased Economy Options to Mitigate and Adapt to Climate Change](https://doi.org/10.3390/en15165955)<br><small>Energies</small> | BECCS | 14 |
+| 2021 | [Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions](https://doi.org/10.1016/j.ijggc.2021.103519)<br><small>International journal of greenhouse gas control · with Fan Yang, Hans Meerman</small> | BECCS | 33 |
 | 2021 | [Negative Emission Potentials in Industrial Sectors Due to Carbon Capture and Biomass](https://doi.org/10.2139/ssrn.3818159)<br><small>SSRN Electronic Journal · with Fan Yang, Hans Meerman</small> | BECCS | 1 |
 
 ---

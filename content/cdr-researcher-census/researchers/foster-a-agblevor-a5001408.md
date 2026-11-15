@@ -1,7 +1,7 @@
 ---
 title: "Foster A. Agblevor"
-description: "Foster A. Agblevor, Utah State University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3801 by activity, 15 by citations). 152 publications, h-index 50, 6,364 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Foster A. Agblevor, Utah State University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3801 by activity, 15 by citations). 152 publications, h-index 50, 6,542 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/foster-a-agblevor-a5001408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,7 +32,7 @@ robots: "index, follow"
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3801 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 15 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
-  <tr><th>Citations</th><td>6,364</td></tr>
+  <tr><th>Citations</th><td>6,542</td></tr>
   <tr><th>Publications</th><td>152</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z)<br><small>Nature Communications · with [Qing Yang](/cdr-researcher-census/researchers/qing-yang-a5100605/), [Chris Nielsen](/cdr-researcher-census/researchers/chris-nielsen-a5047617/), [Chuguang Zheng](/cdr-researcher-census/researchers/chuguang-zheng-a5100294/), [Francesco Fantozzi](/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/), [G.Q. Chen](/cdr-researcher-census/researchers/gq-chen-a5057491/), [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/) and 7 more</small> | BECCS | 402 |
+| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z)<br><small>Nature Communications · with [Qing Yang](/cdr-researcher-census/researchers/qing-yang-a5100605/), [Chris Nielsen](/cdr-researcher-census/researchers/chris-nielsen-a5047617/), [Chuguang Zheng](/cdr-researcher-census/researchers/chuguang-zheng-a5100294/), [Francesco Fantozzi](/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/), [G.Q. Chen](/cdr-researcher-census/researchers/gq-chen-a5057491/), [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/) and 7 more</small> | BECCS | 406 |
 
 ---
 

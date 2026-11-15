@@ -1,7 +1,7 @@
 ---
 title: "Seham M. Hamed"
-description: "Seham M. Hamed, Imam Mohammad ibn Saud Islamic University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3387 by activity, 26 by citations). 61 publications, h-index 18, 1,499 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Seham M. Hamed, Imam Mohammad ibn Saud Islamic University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3387 by activity, 26 by citations). 60 publications, h-index 19, 1,656 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/seham-m-hamed-a5007312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3387 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>18</td></tr>
-  <tr><th>Citations</th><td>1,499</td></tr>
-  <tr><th>Publications</th><td>61</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,656</td></tr>
+  <tr><th>Publications</th><td>60</td></tr>
   <tr><th>Share of publications on CDR</th><td>3.3%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6697-3572">ORCID</a> · <a href="https://openalex.org/A5007312912">OpenAlex</a></td></tr>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/) and 7 more</small> | Biochar | 216 |
-| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/) and 1 more</small> | BECCS | 379 |
+| 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/) and 7 more</small> | Biochar | 242 |
+| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5035608/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/) and 1 more</small> | BECCS | 407 |
 
 ---
 

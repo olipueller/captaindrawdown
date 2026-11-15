@@ -1,7 +1,7 @@
 ---
 title: "Alexander Boedijn"
-description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 81 by activity, 3453 by citations; Europe rank 30 by activity, 986 by citations). 28 publications, h-index 4, 59 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 81 by activity, 3453 by citations; Europe rank 30 by activity, 986 by citations). 113 publications, h-index 5, 106 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/alexander-boedijn-a5063307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 81 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3453 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 986 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>4</td></tr>
-  <tr><th>Citations</th><td>59</td></tr>
-  <tr><th>Publications</th><td>28</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>106</td></tr>
+  <tr><th>Publications</th><td>113</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.5%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6490-2914">ORCID</a> · <a href="https://openalex.org/A5063307293">OpenAlex</a></td></tr>
 </table>

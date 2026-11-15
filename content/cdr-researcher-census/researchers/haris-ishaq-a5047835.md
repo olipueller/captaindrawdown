@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
-description: "Haris Ishaq, University of Victoria, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 23 by activity, 398 by citations). 87 publications, h-index 29, 4,439 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Haris Ishaq, University of Victoria, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 23 by activity, 398 by citations). 87 publications, h-index 31, 4,753 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,8 +31,8 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 23 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 398 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>29</td></tr>
-  <tr><th>Citations</th><td>4,439</td></tr>
+  <tr><th>h-index</th><td>31</td></tr>
+  <tr><th>Citations</th><td>4,753</td></tr>
   <tr><th>Publications</th><td>87</td></tr>
   <tr><th>Share of publications on CDR</th><td>13.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -49,14 +49,14 @@ robots: "index, follow"
 |---|---|---|---:|
 | 2026 | [Sustainable Process Systems Modeling of a Geothermal Powered Direct Air Capture and District Heating Concept](https://openalex.org/W7155213416) | DAC | 0 |
 | 2026 | [Process-level assessment of renewable hydrogen-fueled calcination for direct air capture decarbonization](https://openalex.org/W7172489572) | DAC | 0 |
-| 2025 | [Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies](https://doi.org/10.1007/s11356-025-35890-x)<br><small>Environmental Science and Pollution Research · with Mehar U Nisa, Curran Crawford</small> | Ocean CDR | 5 |
+| 2025 | [Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies](https://doi.org/10.1007/s11356-025-35890-x)<br><small>Environmental Science and Pollution Research · with Mehar U Nisa, Curran Crawford</small> | Ocean CDR | 10 |
 | 2025 | [Dynamic modeling and optimal control schemes for an offshore-wind powered direct air capture system with energy storage options](https://doi.org/10.1016/j.scitotenv.2025.179537)<br><small>The Science of The Total Environment · with Muhammad Faisal Shehzad, Curran Crawfrod</small> | DAC | 5 |
-| 2024 | [Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets](https://doi.org/10.1016/j.enconman.2023.117869)<br><small>Energy Conversion and Management · with Curran Crawford</small> | Cross-cutting CDR | 255 |
-| 2024 | [Scaling considerations and optimal control for an offshore wind powered direct air capture system](https://doi.org/10.1088/2515-7655/ad31ba)<br><small>Journal of Physics Energy · with Stefan Radic Webster, Curran Crawford</small> | DAC | 8 |
-| 2024 | [Design considerations for the marinisation of offshore direct air capture](https://doi.org/10.1016/j.energy.2024.133864)<br><small>Energy · with Ryan Foxall, Curran Crawford</small> | DAC | 3 |
+| 2024 | [Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets](https://doi.org/10.1016/j.enconman.2023.117869)<br><small>Energy Conversion and Management · with Curran Crawford</small> | Cross-cutting CDR | 280 |
+| 2024 | [Scaling considerations and optimal control for an offshore wind powered direct air capture system](https://doi.org/10.1088/2515-7655/ad31ba)<br><small>Journal of Physics Energy · with Stefan Radic Webster, Curran Crawford</small> | DAC | 9 |
+| 2024 | [Design considerations for the marinisation of offshore direct air capture](https://doi.org/10.1016/j.energy.2024.133864)<br><small>Energy · with Ryan Foxall, Curran Crawford</small> | DAC | 2 |
 | 2024 | [Dynamic Modeling and Optimal Control Schemes for an Offshore-Wind Driven Direct Air Capture System Including Energy Storage](http://dx.doi.org/10.2139/ssrn.4944116)<br><small>SSRN Electronic Journal (preprint) · with Muhammad Faisal Shehzad, Curran Crawford</small> | Cross-cutting CDR | 0 |
-| 2023 | [Offshore wind energy prospects for power-to-direct air capture and power-to-gas](https://doi.org/10.1016/j.ijhydene.2023.06.164)<br><small>International Journal of Hydrogen Energy · with Muhammad Faisal Shehzad, Curran Crawford</small> | DAC | 23 |
-| 2023 | [Linear programming model predictive control for offshore wind-direct air capture system using battery storage](http://dx.doi.org/10.23919/ecc57647.2023.10178329)<br><small>with Muhammad Faisal Shehzad, Curran Crawford</small> | DAC | 0 |
+| 2023 | [Offshore wind energy prospects for power-to-direct air capture and power-to-gas](https://doi.org/10.1016/j.ijhydene.2023.06.164)<br><small>International Journal of Hydrogen Energy · with Muhammad Faisal Shehzad, Curran Crawford</small> | DAC | 22 |
+| 2023 | [Linear programming model predictive control for offshore wind-direct air capture system using battery storage](http://dx.doi.org/10.23919/ecc57647.2023.10178329)<br><small>with Muhammad Faisal Shehzad, Curran Crawford</small> | DAC | 1 |
 | 2022 | [Potential of offshore wind energy for direct air capture](https://doi.org/10.1002/er.8506)<br><small>International Journal of Energy Research · with Curran Crawford</small> | DAC | 18 |
 | 2022 | [Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture](https://doi.org/10.1016/j.jcou.2022.102154)<br><small>Journal of CO2 Utilization · with Ryan Foxall, Curran Crawford</small> | DAC | 16 |
 

@@ -1,7 +1,7 @@
 ---
 title: "Nouman Rafique Mirza"
-description: "Nouman Rafique Mirza, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 61 by activity, 1348 by citations). 18 publications, h-index 12, 635 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Nouman Rafique Mirza, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 61 by activity, 1348 by citations). 18 publications, h-index 12, 664 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 61 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1348 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
-  <tr><th>Citations</th><td>635</td></tr>
+  <tr><th>Citations</th><td>664</td></tr>
   <tr><th>Publications</th><td>18</td></tr>
-  <tr><th>Share of publications on CDR</th><td>16.7%</td></tr>
+  <tr><th>Share of publications on CDR</th><td>27.8%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0595-8413">ORCID</a> · <a href="https://openalex.org/A5036697628">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate](https://openalex.org/W7155634468)<br><small>with Sofia Lazareva, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Nouman Mirza, Robert D. Bennett, Sam Chen</small> | DAC | 2 |
+| 2026 | [Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate](https://openalex.org/W7155634468)<br><small>with Sofia Lazareva, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Robert D. Bennett, Sam Chen</small> | DAC | 2 |
 | 2026 | [Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate](https://doi.org/10.2139/ssrn.6331975)<br><small>SSRN Electronic Journal (preprint) · with Sofia Lazareva, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Robert D. Bennett, Sam Chen</small> | DAC; Enhanced Weathering | 0 |
-| 2026 | [Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture](https://openalex.org/W7207749051)<br><small>with Nouman Mirza, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Robert D. Bennett, M. Simone</small> | DAC | 0 |
+| 2026 | [Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture](https://openalex.org/W7207749051)<br><small>with Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Robert D. Bennett, M. Simone, Michela Iezzi Simone</small> | DAC | 0 |
 | 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974)<br><small>Cleaner Engineering and Technology · with [Dia Milani](/cdr-researcher-census/researchers/dia-milani-a5067927/), Geoffrey Drewer, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Haftom Weldekidan, Michael Rae, [Paul Feron](/cdr-researcher-census/researchers/paul-feron-a5057846/) and 4 more</small> | DAC; Enhanced Weathering | 1 |
 | 2022 | [Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study](https://doi.org/10.1016/j.seppur.2022.122418)<br><small>Separation and Purification Technology · with Amr Omar, Debra Fernandes, Jessica Allen, Qiyuan Li, Robert A. Taylor, Shuaifei Zhao and 2 more</small> | DAC | 10 |
 

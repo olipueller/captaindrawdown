@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Howard"
-description: "Jennifer Howard, Conservation International, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 1189 by activity, 50 by citations). 42 publications, h-index 20, 2,931 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jennifer Howard, Conservation International, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 1189 by activity, 50 by citations). 44 publications, h-index 21, 3,401 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/jennifer-howard-a5029102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1189 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 50 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>20</td></tr>
-  <tr><th>Citations</th><td>2,931</td></tr>
-  <tr><th>Publications</th><td>42</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
+  <tr><th>h-index</th><td>21</td></tr>
+  <tr><th>Citations</th><td>3,401</td></tr>
+  <tr><th>Publications</th><td>44</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.5%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3483-7768">ORCID</a> · <a href="https://openalex.org/A5029102606">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Carbon removal and climate change mitigation by seaweed farming: A state of knowledge review](https://doi.org/10.1016/j.scitotenv.2024.170525)<br><small>The Science of The Total Environment · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/), [Karen Filbee‐Dexter](/cdr-researcher-census/researchers/karen-filbeedexter-a5008910/)</small> | Ocean CDR | 88 |
-| 2023 | [Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review](https://doi.org/10.1111/brv.12990)<br><small>Biological reviews/Biological reviews of the Cambridge Philosophical Society · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/), [Rita Melo Franco-Santos](/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/) and 1 more</small> | Ocean CDR | 179 |
+| 2024 | [Carbon removal and climate change mitigation by seaweed farming: A state of knowledge review](https://doi.org/10.1016/j.scitotenv.2024.170525)<br><small>The Science of The Total Environment · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/), [Karen Filbee‐Dexter](/cdr-researcher-census/researchers/karen-filbeedexter-a5008910/)</small> | Ocean CDR | 97 |
+| 2023 | [Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review](https://doi.org/10.1111/brv.12990)<br><small>Biological reviews/Biological reviews of the Cambridge Philosophical Society · with [Albert Pessarrodona](/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/), [Emily Pidgeon](/cdr-researcher-census/researchers/emily-pidgeon-a5090618/), [Luka Seamus Wright](/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/), [Mathew A. Vanderklift](/cdr-researcher-census/researchers/mathew-a-vanderklift-a5109633/), [Rita Melo Franco-Santos](/cdr-researcher-census/researchers/rita-melo-franco-santos-a5036415/), [Thomas Wernberg](/cdr-researcher-census/researchers/thomas-wernberg-a5026692/) and 1 more</small> | Ocean CDR | 200 |
 
 ---
 

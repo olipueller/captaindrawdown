@@ -1,7 +1,7 @@
 ---
 title: "Ikhlas Ghiat"
-description: "Ikhlas Ghiat, Hamad Bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3809 by activity, 39 by citations). 32 publications, h-index 12, 1,227 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ikhlas Ghiat, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3809 by activity, 39 by citations). 32 publications, h-index 12, 1,342 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hamad Bin Khalifa University"
+    "name": "Hamad bin Khalifa University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4421-9413",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Hamad Bin Khalifa University</td></tr>
+  <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3809 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 39 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
-  <tr><th>Citations</th><td>1,227</td></tr>
+  <tr><th>Citations</th><td>1,342</td></tr>
   <tr><th>Publications</th><td>32</td></tr>
-  <tr><th>Share of publications on CDR</th><td>9.4%</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.5%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4421-9413">ORCID</a> · <a href="https://openalex.org/A5037973198">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019)<br><small>IOP Conference Series Earth and Environmental Science · with Y Bicer, [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), A Banu, Aliya Banu, I Ghiat, T Al-Ansari and 4 more</small> | DAC | 0 |
-| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201)<br><small>Journal of environmental chemical engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/)</small> | DAC | 17 |
+| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019)<br><small>IOP Conference Series Earth and Environmental Science · with [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), Aliya Banu, T Al-Ansari, [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 1 |
+| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201)<br><small>Journal of environmental chemical engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/)</small> | DAC | 20 |
 | 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794)<br><small>Systems and Control Transactions · with [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | DAC | 2 |
-| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734)<br><small>Resources Conservation and Recycling · with [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Ahmed AlNouss](/cdr-researcher-census/researchers/ahmed-alnouss-a5082948/), [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/), [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/), [Samar Elkhalifa](/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS | 283 |
+| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734)<br><small>Resources Conservation and Recycling · with [Muhammad Shahbaz](/cdr-researcher-census/researchers/muhammad-shahbaz-a5015276/), [Ahmed AlNouss](/cdr-researcher-census/researchers/ahmed-alnouss-a5082948/), [Gordon McKay](/cdr-researcher-census/researchers/gordon-mckay-a5022819/), [Hamish R. Mackey](/cdr-researcher-census/researchers/hamish-r-mackey-a5032149/), [Samar Elkhalifa](/cdr-researcher-census/researchers/samar-elkhalifa-a5009498/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | BECCS | 309 |
 
 ---
 

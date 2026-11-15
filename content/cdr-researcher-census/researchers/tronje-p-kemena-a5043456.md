@@ -1,7 +1,7 @@
 ---
 title: "Tronje P. Kemena"
-description: "Tronje P. Kemena, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 47 by activity, 1870 by citations; Europe rank 29 by activity, 568 by citations). 51 publications, h-index 5, 105 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Tronje P. Kemena, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 47 by activity, 1870 by citations; Europe rank 29 by activity, 568 by citations). 43 publications, h-index 5, 126 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 47 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1870 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 568 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
-  <tr><th>Citations</th><td>105</td></tr>
-  <tr><th>Publications</th><td>51</td></tr>
-  <tr><th>Share of publications on CDR</th><td>25.5%</td></tr>
+  <tr><th>Citations</th><td>126</td></tr>
+  <tr><th>Publications</th><td>43</td></tr>
+  <tr><th>Share of publications on CDR</th><td>32.6%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2894-8314">ORCID</a> · <a href="https://openalex.org/A5043456533">OpenAlex</a></td></tr>
 </table>
@@ -43,7 +43,7 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 12, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -52,12 +52,13 @@ robots: "index, follow"
 | 2026 | [Assessing the global potential of Expanding Coastal Vegetated Ecosystems as a Carbon Dioxide Removal Method: results from a parameterization in an Earth System Model](https://openalex.org/W7151123042)<br><small>with Margarita Liadova, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/)</small> | Cross-cutting CDR | 0 |
 | 2026 | [Assessing the global potential of Expanding Coastal Vegetated Ecosystems as a Carbon Dioxide Removal Method: results from a parameterization in an Earth System Model](https://openalex.org/W7172307699)<br><small>with Margarita Liadova, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/)</small> | Cross-cutting CDR | 0 |
 | 2026 | [A comparison of metrics for CO 2 uptake efficiency of regional ocean alkalinity enhancement in an Earth system model](https://openalex.org/W7203686153)<br><small>preprint · with Vanessa Teske, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
-| 2025 | [CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks](https://doi.org/10.1088/1748-9326/adc617)<br><small>Environmental Research Letters · with Hao‐Wei Wey, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Rosie A. Fisher, Spencer Liddicoat, T. Hajima and 5 more</small> | Ocean CDR | 7 |
-| 2025 | [Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of CO2 Air-Sea Gas Exchange and ocean pCO2 in European Waters under Low and High Emission Scenarios](https://doi.org/10.5194/egusphere-egu25-16142)<br><small>preprint · with Chiara Ciscato, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), [Momme Butenschön](/cdr-researcher-census/researchers/momme-butenschon-a5045008/), Neha Mehendale</small> | Ocean CDR | 0 |
+| 2026 | [Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency and Carbon Cycle Responses](https://openalex.org/W7223170206)<br><small>preprint · with Anusha Sathyanadh, Antti‐Ilari Partanen, Claudia Eisenring, David Keller, [Judith Hauck](/cdr-researcher-census/researchers/judith-hauck-a5068651/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/) and 6 more</small> | Ocean CDR | 0 |
+| 2025 | [CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks](https://doi.org/10.1088/1748-9326/adc617)<br><small>Environmental Research Letters · with Hao‐Wei Wey, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Rosie A. Fisher, Spencer Liddicoat, Tilo Ziehn and 4 more</small> | Ocean CDR | 9 |
+| 2025 | [Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of CO2 Air-Sea Gas Exchange and ocean pCO2 in European Waters under Low and High Emission Scenarios](https://doi.org/10.5194/egusphere-egu25-16142)<br><small>preprint · with Chiara Ciscato, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Momme Butenschön, Neha Mehendale</small> | Ocean CDR | 0 |
 | 2025 | [New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics - Version 2.0.](https://doi.org/10.3289/oceannets_d5.8_v2.0)<br><small>with Markus Schartau, [Jan Taucher](/cdr-researcher-census/researchers/jan-taucher-a5007343/), Markus Pahlow, Vanessa Lampe, [Miriam Seifert](/cdr-researcher-census/researchers/miriam-seifert-a5036998/)</small> | Ocean CDR | 0 |
-| 2024 | [New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics](http://dx.doi.org/10.3289/oceannets_d5.8)<br><small>with Markus Schartau, [Jan Taucher](/cdr-researcher-census/researchers/jan-taucher-a5007343/), Vanessa Lampe, [Miriam Seifert](/cdr-researcher-census/researchers/miriam-seifert-a5036998/)</small> | Ocean CDR | 2 |
+| 2024 | [New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics](http://dx.doi.org/10.3289/oceannets_d5.8)<br><small>with Markus Schartau, [Jan Taucher](/cdr-researcher-census/researchers/jan-taucher-a5007343/), Markus Pahlow, Vanessa Lampe, [Miriam Seifert](/cdr-researcher-census/researchers/miriam-seifert-a5036998/)</small> | Ocean CDR | 2 |
 | 2024 | [Regional differences in uptake during simulation of ocean alkalinity enhancement in an Earth system model](https://orcid.org/0000-0003-2894-8314>,)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR) · with Neha Mehendale, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
-| 2023 | [Analysis (report) of high- resolution modelling of efficacy, and regional impacts of selected ocean NETs close to the deployment sites](https://doi.org/10.3289/oceannets_d4.3_v1)<br><small>with [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Neha Mehendale</small> | Ocean CDR | 2 |
+| 2023 | [Analysis (report) of high- resolution modelling of efficacy, and regional impacts of selected ocean NETs close to the deployment sites](https://doi.org/10.3289/oceannets_d4.3_v1)<br><small>with [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Neha Mehendale</small> | Ocean CDR | 3 |
 | 2023 | [Simulating Ocean Alkalinity Enhancement along the European Coast in an Earth System Model](https://doi.org/10.5194/egusphere-egu23-15984)<br><small>preprint · with Neha Mehendale, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Hao‐Wei Wey, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
 | 2022 | [Coupled Model Simulations of Carbon Dioxide Removal via Ocean Alkalinity Enhancement and Large-scale Afforestation and Reforestation](https://doi.org/10.5194/egusphere-egu22-7662)<br><small>preprint · with Hao‐Wei Wey, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
 

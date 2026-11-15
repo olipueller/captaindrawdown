@@ -1,7 +1,7 @@
 ---
 title: "Adewale George Adeniyi"
-description: "Adewale George Adeniyi, University of Ilorin, Nigeria. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 41 by activity, 1052 by citations). 319 publications, h-index 53, 10,095 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Adewale George Adeniyi, University of Ilorin, Nigeria. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 41 by activity, 1052 by citations). 328 publications, h-index 55, 10,861 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 41 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1052 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>53</td></tr>
-  <tr><th>Citations</th><td>10,095</td></tr>
-  <tr><th>Publications</th><td>319</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.1%</td></tr>
+  <tr><th>h-index</th><td>55</td></tr>
+  <tr><th>Citations</th><td>10,861</td></tr>
+  <tr><th>Publications</th><td>328</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6615-5361">ORCID</a> · <a href="https://openalex.org/A5039101252">OpenAlex</a></td></tr>
 </table>
@@ -43,20 +43,22 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 12, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A critical review on metal/metal oxide-modified sugarcane biochar](https://openalex.org/W7164556639)<br><small>with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Hussein Kehinde Okoro</small> | Biochar | 3 |
-| 2026 | [Preparations, Modifications, Properties, and Environmental Applications of Animal Manure-Derived Biochar: A Review](https://openalex.org/W7167661412)<br><small>with Ebuka Chizitere Emenike, Harvis Bamidele Saka, Joy Adeleke, Joy Chinaza Olatunbosun, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Marcellinus Chibuike Ogudo and 2 more</small> | Biochar | 0 |
-| 2025 | [Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems](https://doi.org/10.1515/ijcre-2024-0248)<br><small>International Journal of Chemical Reactor Engineering · with Abdelrahman O. Ezzat, Ebuka Chizitere Emenike, Hamad A. Al‐Lohedan, Hambali Umar Hambali, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Mubarak A. Amoloye and 4 more</small> | BECCS; Biochar | 6 |
-| 2025 | [Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods](https://doi.org/10.1007/s12155-025-10934-9)<br><small>BioEnergy Research · with Bolaji Ibrahim Busari, Abdelrahman O. Ezzat, Ebuka Chizitere Emenike, Hamad A. Al‐Lohedan, Joshua Emeghai, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/) and 2 more</small> | Biochar | 5 |
-| 2024 | [Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars](https://doi.org/10.1016/j.heliyon.2024.e35485)<br><small>Heliyon · with Abdelrahman O. Ezzat, Ebuka Chizitere Emenike, Hamad A. Al‐Lohedan, Harvis Bamidele Saka, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/) and 3 more</small> | Biochar | 14 |
-| 2024 | [Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar](https://doi.org/10.1007/s12355-024-01520-y)<br><small>Sugar Tech · with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Ashraf M. M. Abdelbacki, Chika J. Okorie, Ebuka Chizitere Emenike, Ifeoluwa Peter Oyekunle, Taiwo Temitayo Micheal</small> | Biochar | 7 |
-| 2023 | [Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy](https://doi.org/10.1007/s42247-023-00538-4)<br><small>Emergent Materials · with Ebuka Chizitere Emenike, Victor Temitope Amusa, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/)</small> | Biochar | 33 |
-| 2023 | [Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors](https://doi.org/10.1080/17597269.2023.2281099)<br><small>Biofuels · with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Ebuka Chizitere Emenike, Joy Adeleke, Samuel Ogunniyi, Taiwo Temitayo Micheal</small> | Biochar | 23 |
+| 2026 | [A critical review on metal/metal oxide-modified sugarcane biochar](https://openalex.org/W7164556639)<br><small>with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Hussein Kehinde Okoro</small> | Biochar | 4 |
+| 2026 | [Preparations, Modifications, Properties, and Environmental Applications of Animal Manure-Derived Biochar: A Review](https://openalex.org/W7167661412)<br><small>with [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Harvis Bamidele Saka, Joy Adeleke, Joy Chinaza Olatunbosun, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Marcellinus Chibuike Ogudo and 2 more</small> | Biochar | 1 |
+| 2026 | [Carbon Credits for Researchers in the Emerging Climate Economy](https://openalex.org/W7221505891)<br><small>with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Victor Aderibigbe, [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/)</small> | Biochar | 0 |
+| 2026 | [Facile synthesis of sugarcane-based biochar using a non-electrical gasifier for the sequestration of 2,4-dichlorophenoxyacetic acid](https://openalex.org/W7225004482)<br><small>with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Hussein K. Okoro</small> | Biochar | 0 |
+| 2025 | [Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems](https://doi.org/10.1515/ijcre-2024-0248)<br><small>International Journal of Chemical Reactor Engineering · with Abdelrahman O. Ezzat, [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Hamad A. Al‐Lohedan, Hambali Umar Hambali, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Mubarak A. Amoloye and 4 more</small> | BECCS; Biochar | 6 |
+| 2025 | [Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods](https://doi.org/10.1007/s12155-025-10934-9)<br><small>BioEnergy Research · with Bolaji Ibrahim Busari, Abdelrahman O. Ezzat, [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Hamad A. Al‐Lohedan, Joshua Emeghai, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/) and 2 more</small> | Biochar | 6 |
+| 2024 | [Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars](https://doi.org/10.1016/j.heliyon.2024.e35485)<br><small>Heliyon · with Abdelrahman O. Ezzat, [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Hamad A. Al‐Lohedan, Harvis Bamidele Saka, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/) and 3 more</small> | Biochar | 14 |
+| 2024 | [Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar](https://doi.org/10.1007/s12355-024-01520-y)<br><small>Sugar Tech · with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Ashraf M. M. Abdelbacki, Chika J. Okorie, [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Ifeoluwa Peter Oyekunle, Taiwo Temitayo Micheal</small> | Biochar | 7 |
+| 2023 | [Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy](https://doi.org/10.1007/s42247-023-00538-4)<br><small>Emergent Materials · with [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Victor Temitope Amusa, [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/)</small> | Biochar | 35 |
+| 2023 | [Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors](https://doi.org/10.1080/17597269.2023.2281099)<br><small>Biofuels · with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/), Joy Adeleke, Samuel Ogunniyi, Taiwo Temitayo Micheal</small> | Biochar | 23 |
 | 2023 | [Comparative Study of Biochars from the Retort Co-Carbonization of Corn Cob and Polyethylene Wastes](https://doi.org/10.11113/mjcat.v7n1.168)<br><small>Malaysian Journal of Catalysis · with Mubarak A. Amoloye, Sulyman A. Abdulkareem</small> | Biochar | 3 |
-| 2022 | [Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves](https://doi.org/10.1016/j.clet.2022.100564)<br><small>Cleaner Engineering and Technology · with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Victor Temitope Amusa, Ebuka Chizitere Emenike</small> | Biochar | 41 |
+| 2022 | [Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves](https://doi.org/10.1016/j.clet.2022.100564)<br><small>Cleaner Engineering and Technology · with [Kingsley O. Iwuozor](/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/), Victor Temitope Amusa, [Ebuka Chizitere Emenike](/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/)</small> | Biochar | 43 |
 
 ---
 

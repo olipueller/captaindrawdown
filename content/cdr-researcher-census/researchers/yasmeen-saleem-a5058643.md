@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
-description: "Yasmeen Saleem, Florida Department of Citrus, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23852 by activity, 83 by citations). 12 publications, h-index 4, 556 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Yasmeen Saleem, University of Sargodha, Pakistan. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23852 by activity, 83 by citations). 11 publications, h-index 5, 626 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Florida Department of Citrus"
+    "name": "University of Sargodha"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4695-8447",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Florida Department of Citrus</td></tr>
-  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Institution</th><td>University of Sargodha</td></tr>
+  <tr><th>Country</th><td>Pakistan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 23852 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>4</td></tr>
-  <tr><th>Citations</th><td>556</td></tr>
-  <tr><th>Publications</th><td>12</td></tr>
-  <tr><th>Share of publications on CDR</th><td>8.3%</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>626</td></tr>
+  <tr><th>Publications</th><td>11</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4695-8447">ORCID</a> · <a href="https://openalex.org/A5058643685">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/) and 4 more</small> | Biochar | 511 |
+| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [Ahmed M. Elgarahy](/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/) and 4 more</small> | Biochar | 556 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Jingchun Tang"
-description: "Jingchun Tang, Nankai University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 490 by activity, 32 by citations). 290 publications, h-index 78, 21,144 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Jingchun Tang, Nankai University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 490 by activity, 32 by citations). 289 publications, h-index 79, 21,616 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/jingchun-tang-a5004062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 490 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>78</td></tr>
-  <tr><th>Citations</th><td>21,144</td></tr>
-  <tr><th>Publications</th><td>290</td></tr>
+  <tr><th>h-index</th><td>79</td></tr>
+  <tr><th>Citations</th><td>21,616</td></tr>
+  <tr><th>Publications</th><td>289</td></tr>
   <tr><th>Share of publications on CDR</th><td>3.1%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7633-1701">ORCID</a> · <a href="https://openalex.org/A5004062905">OpenAlex</a></td></tr>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Three-dimensionally structured MoS2@biochar breaks through the bottleneck in antibiotic wastewater treatment: Greater efficiency and self-motivated oxidation pathway](https://doi.org/10.1016/j.jhazmat.2024.136871)<br><small>Journal of Hazardous Materials · with Kai Hu, Boxiong Shen, Honghong Lyu, Zhenzhong Hu</small> | Biochar | 7 |
-| 2023 | [Mechanistic details of the removal of 2,4,6-trichlorophenol from aqueous solution by iron and nitrogen co-doped biochar: Characterization, performance, and mechanism studies](https://doi.org/10.1016/j.seppur.2023.125750)<br><small>Separation and Purification Technology · with Shakeel Ahmad, Feilong Gao, Hyokchol Mun, Mingyi Zhang, Xinzuo Yang</small> | Biochar | 25 |
-| 2022 | [Biochar affects greenhouse gas emissions in various environments: A critical review](https://doi.org/10.1002/ldr.4405)<br><small>Land Degradation and Development · with Honghong Lyu, Chengfang Zhang, Hui Zhang, Mengwei Chu, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/), [Scott X. Chang](/cdr-researcher-census/researchers/scott-x-chang-a5086611/) and 1 more</small> | Biochar | 124 |
-| 2022 | [Silicon (Si) modification of biochars from different Si-bearing precursors improves cadmium remediation](https://doi.org/10.1016/j.cej.2022.141194)<br><small>Chemical Engineering Journal · with Linan Liu, Cholnam Ri, R. M. Ellam, Shakeel Ahmad, Xiaolong Li, Xinzuo Yang and 1 more</small> | Biochar | 88 |
-| 2022 | [Enhanced nitrobenzene removal in soil by biochar supported sulfidated nano zerovalent iron: Solubilization effect and mechanism](https://doi.org/10.1016/j.scitotenv.2022.153960)<br><small>The Science of The Total Environment · with Feilong Gao, Chengfang Zhang, Li Song, Qinglong Liu, Shakeel Ahmad, Yu Chen and 1 more</small> | Biochar | 47 |
-| 2021 | [Enhancement of persulfate activation by Fe-biochar composites: Synergism of Fe and N-doped biochar](https://doi.org/10.1016/j.apcatb.2021.120926)<br><small>Applied Catalysis B: Environmental · with Peng Huang, Cuiping Wang, Peng Zhang, Hongwen Sun</small> | Biochar | 356 |
-| 2021 | [Insight into the mechanisms of ball-milled biochar addition on soil tetracycline degradation enhancement: Physicochemical properties and microbial community structure](https://doi.org/10.1016/j.chemosphere.2021.132691)<br><small>Chemosphere · with Yanfang Sun, Honghong Lyu, Yizhi Wang, Zi Cheng</small> | Biochar | 77 |
+| 2024 | [Three-dimensionally structured MoS2@biochar breaks through the bottleneck in antibiotic wastewater treatment: Greater efficiency and self-motivated oxidation pathway](https://doi.org/10.1016/j.jhazmat.2024.136871)<br><small>Journal of Hazardous Materials · with Kai Hu, Boxiong Shen, Honghong Lyu, Zhenzhong Hu</small> | Biochar | 8 |
+| 2023 | [Mechanistic details of the removal of 2,4,6-trichlorophenol from aqueous solution by iron and nitrogen co-doped biochar: Characterization, performance, and mechanism studies](https://doi.org/10.1016/j.seppur.2023.125750)<br><small>Separation and Purification Technology · with Shakeel Ahmad, Feilong Gao, Hyokchol Mun, Mingyi Zhang, Xinzuo Yang</small> | Biochar | 24 |
+| 2022 | [Biochar affects greenhouse gas emissions in various environments: A critical review](https://doi.org/10.1002/ldr.4405)<br><small>Land Degradation and Development · with Honghong Lyu, Chengfang Zhang, Hui Zhang, Mengwei Chu, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/), [Scott X. Chang](/cdr-researcher-census/researchers/scott-x-chang-a5086611/) and 1 more</small> | Biochar | 137 |
+| 2022 | [Silicon (Si) modification of biochars from different Si-bearing precursors improves cadmium remediation](https://doi.org/10.1016/j.cej.2022.141194)<br><small>Chemical Engineering Journal · with Linan Liu, Cholnam Ri, R. M. Ellam, Shakeel Ahmad, Xiaolong Li, Xinzuo Yang and 1 more</small> | Biochar | 84 |
+| 2022 | [Enhanced nitrobenzene removal in soil by biochar supported sulfidated nano zerovalent iron: Solubilization effect and mechanism](https://doi.org/10.1016/j.scitotenv.2022.153960)<br><small>The Science of The Total Environment · with Feilong Gao, Chengfang Zhang, Li Song, Qinglong Liu, Shakeel Ahmad, Yu Chen and 1 more</small> | Biochar | 46 |
+| 2021 | [Enhancement of persulfate activation by Fe-biochar composites: Synergism of Fe and N-doped biochar](https://doi.org/10.1016/j.apcatb.2021.120926)<br><small>Applied Catalysis B: Environmental · with Peng Huang, Cuiping Wang, Peng Zhang, Hongwen Sun</small> | Biochar | 346 |
+| 2021 | [Insight into the mechanisms of ball-milled biochar addition on soil tetracycline degradation enhancement: Physicochemical properties and microbial community structure](https://doi.org/10.1016/j.chemosphere.2021.132691)<br><small>Chemosphere · with Yanfang Sun, Honghong Lyu, Yizhi Wang, Zi Cheng</small> | Biochar | 76 |
 
 ---
 

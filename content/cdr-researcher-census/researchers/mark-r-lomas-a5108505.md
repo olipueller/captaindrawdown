@@ -1,7 +1,7 @@
 ---
 title: "Mark R. Lomas"
-description: "Mark R. Lomas, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 684 by activity, 50 by citations; Europe rank 321 by activity, 37 by citations). 63 publications, h-index 35, 15,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mark R. Lomas, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 684 by activity, 50 by citations; Europe rank 321 by activity, 37 by citations). 65 publications, h-index 35, 15,244 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/mark-r-lomas-a5108505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 684 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 50 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 321 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
-  <tr><th>Citations</th><td>15,088</td></tr>
-  <tr><th>Publications</th><td>63</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
+  <tr><th>Citations</th><td>15,244</td></tr>
+  <tr><th>Publications</th><td>65</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5108505480">OpenAlex</a></td></tr>
 </table>
@@ -44,9 +44,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2)<br><small>Nature · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Adam Wolf, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/) and 14 more</small> | Enhanced Weathering | 59 |
-| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302)<br><small>arXiv (Cornell University) (preprint) · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Adam Wolf, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/) and 14 more</small> | Enhanced Weathering | 1 |
-| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), [Jean-Francois Mecure](/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/), [Maria Val Martin](/cdr-researcher-census/researchers/maria-val-martin-a5037090/) and 10 more</small> | Enhanced Weathering | 165 |
+| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2)<br><small>Nature · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Adam Wolf](/cdr-researcher-census/researchers/adam-wolf-a5085532/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/) and 14 more</small> | Enhanced Weathering | 80 |
+| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302)<br><small>arXiv (Cornell University) (preprint) · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Adam Wolf](/cdr-researcher-census/researchers/adam-wolf-a5085532/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/) and 15 more</small> | Enhanced Weathering | 2 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), Jean-Francois Mecure, [Jean-François Mercure](/cdr-researcher-census/researchers/jean-francois-mercure-a5082655/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/) and 11 more</small> | Enhanced Weathering | 184 |
 
 ---
 

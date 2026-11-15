@@ -1,7 +1,7 @@
 ---
 title: "Siqing Xu"
-description: "Siqing Xu, Abu Dhabi National Oil (United Arab Emirates), United Arab Emirates. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 206 by activity, 46 by citations). 34 publications, h-index 8, 237 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Siqing Xu, Abu Dhabi National Oil (United Arab Emirates), United Arab Emirates. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 206 by activity, 46 by citations). 30 publications, h-index 9, 254 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/siqing-xu-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 206 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>8</td></tr>
-  <tr><th>Citations</th><td>237</td></tr>
-  <tr><th>Publications</th><td>34</td></tr>
-  <tr><th>Share of publications on CDR</th><td>17.6%</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>254</td></tr>
+  <tr><th>Publications</th><td>30</td></tr>
+  <tr><th>Share of publications on CDR</th><td>20.0%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0005-4075-0476">ORCID</a> · <a href="https://openalex.org/A5101093754">OpenAlex</a></td></tr>
 </table>
@@ -51,8 +51,8 @@ robots: "index, follow"
 | 2024 | [Requirement on the Capacity of Energy Storage to Meet the 2 °C Goal](https://doi.org/10.3390/su16093753)<br><small>Sustainability · with Yi‐Fei Deng, [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Yijing Wang, Yuankang Xiong, [Rong Wang](/cdr-researcher-census/researchers/rong-wang-a5100324/)</small> | BECCS | 4 |
 | 2024 | [Falaha CCS Project - Pioneering Low Carbon Solutions with CO2 Sequestration in Deep Carbonate Saline Aquifers](https://doi.org/10.2118/222367-ms)<br><small>with Abiodun Jaiyeola, Anna Deminova, Aurifullah Vantala, B. Al Braiki, B. El Yosef, Benjamin Thompson and 11 more</small> | Cross-cutting CDR | 3 |
 | 2023 | [CCS in Onshore Deep Carbonate Saline Aquifer: Fast-Track from Feasibility to Project Implementation](https://doi.org/10.2118/216533-ms)<br><small>with Aaesha Keebali, Ahmed BinAmro, Aurifullah Vantala, B. El Yosef, Dilshad Ahmed, Gurbandurdy Arbadov and 11 more</small> | Cross-cutting CDR | 8 |
-| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [James H. Clark](/cdr-researcher-census/researchers/james-h-clark-a5007470/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Junji Cao](/cdr-researcher-census/researchers/junji-cao-a5000320/) and 9 more</small> | BECCS | 131 |
-| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 119 |
+| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [James H. Clark](/cdr-researcher-census/researchers/james-h-clark-a5007470/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Junji Cao](/cdr-researcher-census/researchers/junji-cao-a5000320/) and 9 more</small> | BECCS | 144 |
+| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 127 |
 
 ---
 

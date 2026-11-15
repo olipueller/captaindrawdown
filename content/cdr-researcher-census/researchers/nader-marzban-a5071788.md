@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
-description: "Nader Marzban, Leibniz Institute for Agricultural Engineering and Bioeconomy, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 95 by activity, 1602 by citations; Europe rank 27 by activity, 187 by citations). 59 publications, h-index 19, 1,145 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Nader Marzban, Leibniz Institute for Agricultural Engineering and Bioeconomy, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 95 by activity, 1602 by citations; Europe rank 27 by activity, 187 by citations). 57 publications, h-index 20, 1,270 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,11 +30,11 @@ robots: "index, follow"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 95 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1602 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 187 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>19</td></tr>
-  <tr><th>Citations</th><td>1,145</td></tr>
-  <tr><th>Publications</th><td>59</td></tr>
-  <tr><th>Share of publications on CDR</th><td>10.2%</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>1,270</td></tr>
+  <tr><th>Publications</th><td>57</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.5%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7787-7706">ORCID</a> · <a href="https://openalex.org/A5071788034">OpenAlex</a></td></tr>
 </table>
@@ -47,11 +47,11 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review](https://doi.org/10.1016/j.rser.2026.116775)<br><small>Renewable and Sustainable Energy Reviews · with Ehsan Sarlaki, Atefe Malekian, Giulia Ischia, Maryam Ahmadi, Meisam Rezaei, Meisam Tabatabaei and 5 more</small> | Biochar | 5 |
+| 2026 | [Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review](https://doi.org/10.1016/j.rser.2026.116775)<br><small>Renewable and Sustainable Energy Reviews · with Ehsan Sarlaki, Atefe Malekian, Giulia Ischia, Maryam Ahmadi, Meisam Rezaei, Meisam Tabatabaei and 5 more</small> | Biochar | 8 |
+| 2026 | [Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration](https://openalex.org/W7167362631)<br><small>with Saman Ghobadian, Matthias Kraume, Meisam Tabatabaei, Mortaza Aghbashlo, Osvaldo Romero Romero</small> | Biochar | 2 |
 | 2026 | [CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION](https://doi.org/10.46754/ps.2026.01.002)<br><small>PLANETARY SUSTAINABILITY · with Ehsan Sarlaki</small> | Biochar | 1 |
-| 2026 | [Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration](https://openalex.org/W7167362631)<br><small>with Saman Ghobadian, Matthias Kraume, Meisam Tabatabaei, Mortaza Aghbashlo, Osvaldo Romero Romero</small> | Biochar | 1 |
-| 2025 | [Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production](https://doi.org/10.18331/brj2025.12.1.4)<br><small>Biofuel Research Journal · with Agata Olszewska‐Widdrat, Arman Arefi, Christiane Herrmann, Lisa Schulz-Nielsen, Marios Psarianos, Oliver Schlüter and 6 more</small> | Biochar | 64 |
-| 2025 | [Transitioning from hydrothermal carbonization to humification for producing artificial humic substances](https://doi.org/10.1016/j.biortech.2025.133306)<br><small>Bioresource Technology · with Giulia Ischia, Johannes Schmidt, Alexander Volikov</small> | Biochar | 25 |
+| 2025 | [Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production](https://doi.org/10.18331/brj2025.12.1.4)<br><small>Biofuel Research Journal · with Agata Olszewska‐Widdrat, Arman Arefi, Christiane Herrmann, Lisa Schulz-Nielsen, Marios Psarianos, Oliver Schlüter and 6 more</small> | Biochar | 78 |
+| 2025 | [Transitioning from hydrothermal carbonization to humification for producing artificial humic substances](https://doi.org/10.1016/j.biortech.2025.133306)<br><small>Bioresource Technology · with Giulia Ischia, Johannes Schmidt, Alexander Volikov</small> | Biochar | 30 |
 | 2025 | [Artificial Humic Substances Via Hydrothermal Conversion of Biomass: Unlocking the Transition from Carbonization to Humification](https://doi.org/10.2139/ssrn.5364855)<br><small>SSRN Electronic Journal (preprint) · with Giulia Ischia, Johannes Schmidt, Alexander Volikov</small> | Biochar | 0 |
 
 ---

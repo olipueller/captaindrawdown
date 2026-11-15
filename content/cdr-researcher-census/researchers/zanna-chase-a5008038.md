@@ -1,7 +1,7 @@
 ---
 title: "﻿Zanna Chase"
-description: "﻿Zanna Chase, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 568 by activity, 78 by citations). 219 publications, h-index 40, 5,467 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "﻿Zanna Chase, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 568 by activity, 78 by citations). 215 publications, h-index 42, 5,584 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/zanna-chase-a5008038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 568 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>40</td></tr>
-  <tr><th>Citations</th><td>5,467</td></tr>
-  <tr><th>Publications</th><td>219</td></tr>
+  <tr><th>h-index</th><td>42</td></tr>
+  <tr><th>Citations</th><td>5,584</td></tr>
+  <tr><th>Publications</th><td>215</td></tr>
   <tr><th>Share of publications on CDR</th><td>1.4%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5060-779X">ORCID</a> · <a href="https://openalex.org/A5008038356">OpenAlex</a></td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 75 more</small> | Ocean CDR | 0 |
-| 2024 | [Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification](https://doi.org/10.5194/bg-21-2777-2024)<br><small>Biogeosciences · with [Aaron Ferderer](/cdr-researcher-census/researchers/aaron-ferderer-a5058513/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), Kirralee G. Baker, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 47 |
-| 2022 | [Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community](https://doi.org/10.5194/bg-19-5375-2022)<br><small>Biogeosciences · with [Aaron Ferderer](/cdr-researcher-census/researchers/aaron-ferderer-a5058513/), Fraser Kennedy, [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 159 |
+| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 76 more</small> | Ocean CDR | 2 |
+| 2024 | [Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification](https://doi.org/10.5194/bg-21-2777-2024)<br><small>Biogeosciences · with [Aaron Ferderer](/cdr-researcher-census/researchers/aaron-ferderer-a5058513/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), Kirralee G. Baker, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 55 |
+| 2022 | [Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community](https://doi.org/10.5194/bg-19-5375-2022)<br><small>Biogeosciences · with [Aaron Ferderer](/cdr-researcher-census/researchers/aaron-ferderer-a5058513/), Fraser Kennedy, [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 180 |
 
 ---
 

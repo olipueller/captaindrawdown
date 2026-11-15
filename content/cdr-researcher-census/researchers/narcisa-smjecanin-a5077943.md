@@ -1,7 +1,7 @@
 ---
 title: "Narcisa Smječanin"
 description: "Narcisa Smječanin, University of Sarajevo, BA. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 503 by activity, 90 by citations). 28 publications, h-index 15, 698 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/narcisa-smjecanin-a5077943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Cutting-edge biomass gasification technologies for renewable energy generation and achieving net zero emissions](https://doi.org/10.1016/j.enconman.2024.119213)<br><small>Energy Conversion and Management · with [Farooq Sher](/cdr-researcher-census/researchers/farooq-sher-a5038687/), Alexander Chupin, [Bohong Wang](/cdr-researcher-census/researchers/bohong-wang-a5022265/), [Irfan Ul Hai](/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/), [Narcisa Smječanin Omerbegović](/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/), [Saman Hameed](/cdr-researcher-census/researchers/saman-hameed-a5069979/) and 2 more</small> | BECCS | 146 |
-| 2024 | [Bioenergy with carbon capture and storage technology to achieve net zero emissions–A review](https://doi.org/10.1016/j.rser.2024.115229)<br><small>Renewable and Sustainable Energy Reviews · with [Farooq Sher](/cdr-researcher-census/researchers/farooq-sher-a5038687/), [Bohong Wang](/cdr-researcher-census/researchers/bohong-wang-a5022265/), [Irfan Ul Hai](/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/), [Narcisa Smječanin Omerbegović](/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/), [Saman Hameed](/cdr-researcher-census/researchers/saman-hameed-a5069979/), Tazien Rashid and 2 more</small> | BECCS | 44 |
+| 2024 | [Cutting-edge biomass gasification technologies for renewable energy generation and achieving net zero emissions](https://doi.org/10.1016/j.enconman.2024.119213)<br><small>Energy Conversion and Management · with [Farooq Sher](/cdr-researcher-census/researchers/farooq-sher-a5038687/), Alexander Chupin, [Bohong Wang](/cdr-researcher-census/researchers/bohong-wang-a5022265/), [Irfan Ul Hai](/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/), [Narcisa Smječanin Omerbegović](/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/), [Saman Hameed](/cdr-researcher-census/researchers/saman-hameed-a5069979/) and 2 more</small> | BECCS | 164 |
+| 2024 | [Bioenergy with carbon capture and storage technology to achieve net zero emissions–A review](https://doi.org/10.1016/j.rser.2024.115229)<br><small>Renewable and Sustainable Energy Reviews · with [Farooq Sher](/cdr-researcher-census/researchers/farooq-sher-a5038687/), [Bohong Wang](/cdr-researcher-census/researchers/bohong-wang-a5022265/), [Irfan Ul Hai](/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/), [Narcisa Smječanin Omerbegović](/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/), [Saman Hameed](/cdr-researcher-census/researchers/saman-hameed-a5069979/), Tazien Rashid and 2 more</small> | BECCS | 50 |
 
 ---
 

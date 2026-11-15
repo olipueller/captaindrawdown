@@ -1,7 +1,7 @@
 ---
 title: "Anthony D. Ruiz"
-description: "Anthony D. Ruiz, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5485 by activity, 52 by citations). 2 publications, h-index 1, 351 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Anthony D. Ruiz, University of California, Riverside, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5485 by activity, 52 by citations). 1 publications, h-index 1, 384 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 5485 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
-  <tr><th>Citations</th><td>351</td></tr>
-  <tr><th>Publications</th><td>2</td></tr>
-  <tr><th>Share of publications on CDR</th><td>50.0%</td></tr>
+  <tr><th>Citations</th><td>384</td></tr>
+  <tr><th>Publications</th><td>1</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5014537746">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990)<br><small>iScience · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/), [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/), [Wenmei Jiang](/cdr-researcher-census/researchers/wenmei-jiang-a5038647/)</small> | DAC | 351 |
+| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990)<br><small>iScience · with [Mihrimah Ozkan](/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/), [Saswat Priyadarshi Nayak](/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/), [Wenmei Jiang](/cdr-researcher-census/researchers/wenmei-jiang-a5038647/)</small> | DAC | 384 |
 
 ---
 

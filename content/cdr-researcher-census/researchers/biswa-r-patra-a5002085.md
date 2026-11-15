@@ -1,7 +1,7 @@
 ---
 title: "Biswa R. Patra"
-description: "Biswa R. Patra, King Tide Carbon Canada Ltd, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 1118 by activity, 77 by citations). 42 publications, h-index 14, 1,884 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Biswa R. Patra, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 1118 by activity, 77 by citations). 40 publications, h-index 15, 2,073 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/biswa-r-patra-a5002085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/biswa-r-patra-a5002085/",
   "affiliation": {
     "@type": "Organization",
-    "name": "King Tide Carbon Canada Ltd"
+    "name": "University of Saskatchewan"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3240-1047",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>King Tide Carbon Canada Ltd</td></tr>
+  <tr><th>Institution</th><td>University of Saskatchewan</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 1118 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>1,884</td></tr>
-  <tr><th>Publications</th><td>42</td></tr>
-  <tr><th>Share of publications on CDR</th><td>11.9%</td></tr>
+  <tr><th>h-index</th><td>15</td></tr>
+  <tr><th>Citations</th><td>2,073</td></tr>
+  <tr><th>Publications</th><td>40</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.5%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3240-1047">ORCID</a> · <a href="https://openalex.org/A5002085357">OpenAlex</a></td></tr>
 </table>
@@ -48,9 +48,9 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Synthesis of agricultural biomass‐derived biochar‐based epoxy coatings with corrosion resistance and surface protection properties](https://doi.org/10.1002/cjce.70271)<br><small>The Canadian Journal of Chemical Engineering · with Bijayalaxmi Maharana, Debarpita Ghosal, Ranjita Swain, Rudra Narayan Mohapatro, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), Sunita Routray and 1 more</small> | Biochar | 1 |
-| 2023 | [A Review of Carbon Capture and Valorization Technologies](https://doi.org/10.3390/en16062589)<br><small>Energies · with Jiban Podder, Falguni Pattnaik, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/)</small> | DAC | 83 |
-| 2022 | [Synthesis of Biochar From Lignocellulosic Biomass for Diverse Industrial Applications and Energy Harvesting: Effects of Pyrolysis Conditions on the Physicochemical Properties of Biochar](https://doi.org/10.3389/fmats.2022.870184)<br><small>Frontiers in Materials · with Alivia Mukherjee, Jiban Podder, [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/)</small> | Biochar | 160 |
-| 2021 | [Biochar production, activation and adsorptive applications: a review](https://doi.org/10.1007/s10311-020-01165-9)<br><small>Environmental Chemistry Letters · with Alivia Mukherjee, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/)</small> | Biochar | 239 |
+| 2023 | [A Review of Carbon Capture and Valorization Technologies](https://doi.org/10.3390/en16062589)<br><small>Energies · with Jiban Podder, Falguni Pattnaik, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/)</small> | DAC | 89 |
+| 2022 | [Synthesis of Biochar From Lignocellulosic Biomass for Diverse Industrial Applications and Energy Harvesting: Effects of Pyrolysis Conditions on the Physicochemical Properties of Biochar](https://doi.org/10.3389/fmats.2022.870184)<br><small>Frontiers in Materials · with Alivia Mukherjee, Jiban Podder, [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/)</small> | Biochar | 177 |
+| 2021 | [Biochar production, activation and adsorptive applications: a review](https://doi.org/10.1007/s10311-020-01165-9)<br><small>Environmental Chemistry Letters · with Alivia Mukherjee, [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/)</small> | Biochar | 256 |
 | 2021 | [Taguchi-based process optimization for activation of agro-food waste biochar and performance test for dye adsorption](https://doi.org/10.1016/j.chemosphere.2021.131531)<br><small>Chemosphere · with [Ajay K. Dalai](/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/), [Sonil Nanda](/cdr-researcher-census/researchers/sonil-nanda-a5091893/), Venkatesh Meda</small> | Biochar | 114 |
 
 ---

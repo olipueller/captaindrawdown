@@ -1,7 +1,7 @@
 ---
 title: "Tatiana Ilyina"
-description: "Tatiana Ilyina, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 225 by activity, 39 by citations). 349 publications, h-index 62, 32,941 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Tatiana Ilyina, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 225 by activity, 39 by citations). 310 publications, h-index 63, 34,967 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/tatiana-ilyina-a5039577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 225 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>62</td></tr>
-  <tr><th>Citations</th><td>32,941</td></tr>
-  <tr><th>Publications</th><td>349</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.3%</td></tr>
+  <tr><th>h-index</th><td>63</td></tr>
+  <tr><th>Citations</th><td>34,967</td></tr>
+  <tr><th>Publications</th><td>310</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.6%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3475-4842">ORCID</a> · <a href="https://openalex.org/A5039577948">OpenAlex</a></td></tr>
 </table>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Overshoot and (ir)reversibility to 2300 in two CO <sub>2</sub> -emissions driven Earth System Models](https://doi.org/10.5194/egusphere-2025-5292)<br><small>with [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Ada Gjermundsen, Adakudlu Muralidhar, Alejandro Romero-Prieto, Chao Li, Christopher Wells and 5 more</small> | Cross-cutting CDR | 2 |
-| 2024 | [The need for carbon-emissions-driven climate projections in CMIP7](https://doi.org/10.5194/gmd-17-8141-2024)<br><small>Geoscientific model development · with Benjamin M. Sanderson, Abigail L. S. Swann, Abigail Snyder, Andrew D. King, B. H. Samset, Ben Booth and 21 more</small> | Cross-cutting CDR | 61 |
+| 2025 | [Overshoot and (ir)reversibility to 2300 in two CO <sub>2</sub> -emissions driven Earth System Models](https://doi.org/10.5194/egusphere-2025-5292)<br><small>with [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Ada Gjermundsen, Adakudlu Muralidhar, Alejandro Romero-Prieto, Chao Li, Christopher Wells and 5 more</small> | Cross-cutting CDR | 7 |
+| 2024 | [The need for carbon-emissions-driven climate projections in CMIP7](https://doi.org/10.5194/gmd-17-8141-2024)<br><small>Geoscientific model development · with Benjamin M. Sanderson, Abigail L. S. Swann, Abigail Snyder, Andrew D. King, B. H. Samset, Ben Booth and 21 more</small> | Cross-cutting CDR | 100 |
 | 2024 | [Constraining glacial ocean carbon cycle &amp;#8211; A multi-model study](https://doi.org/10.5194/egusphere-egu24-17501)<br><small>preprint · with Bo Liu, André Paul, Christoph Voelker, Malte Heinemann, Matteo Willeit, Michael Schulz and 6 more</small> | Ocean CDR | 0 |
-| 2023 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle](https://doi.org/10.5194/bg-20-1195-2023)<br><small>Biogeosciences · with Alban Planchat, A. Yamamoto, Andrew Yool, Hiroyuki Tsujino, James R. Christian, [Jerry Tjiputra](/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/) and 13 more</small> | Ocean CDR | 50 |
+| 2023 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle](https://doi.org/10.5194/bg-20-1195-2023)<br><small>Biogeosciences · with Alban Planchat, A. Yamamoto, Andrew Yool, Hiroyuki Tsujino, James R. Christian, Jerry Tjiputra and 13 more</small> | Ocean CDR | 69 |
 | 2023 | [Multimodel comparison of weathering fluxes during the last deglaciation](https://doi.org/10.5194/egusphere-egu23-8404)<br><small>preprint · with Fanny Lhardy, Bo Liu, Matteo Willeit, Nathaëlle Bouttes, Stefan Hagemann, Takasumi Kurahashi‐Nakamura</small> | Enhanced Weathering | 0 |
-| 2022 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle](https://doi.org/10.5194/egusphere-2022-1041)<br><small>preprint · with Alban Planchat, A. Yamamoto, Andrew Yool, Hiroyuki Tsujino, James R. Christian, [Jerry Tjiputra](/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/) and 13 more</small> | Ocean CDR | 9 |
-| 2021 | [The Sensitivity of the Marine Carbonate System to Regional Ocean Alkalinity Enhancement](https://doi.org/10.3389/fclim.2021.624075)<br><small>Frontiers in Climate · with Daniel Burt, Friederike Fröb</small> | Ocean CDR | 102 |
+| 2022 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle](https://doi.org/10.5194/egusphere-2022-1041)<br><small>preprint · with Alban Planchat, A. Yamamoto, Andrew Yool, Hiroyuki Tsujino, James R. Christian, Jerry Tjiputra and 13 more</small> | Ocean CDR | 9 |
+| 2021 | [The Sensitivity of the Marine Carbonate System to Regional Ocean Alkalinity Enhancement](https://doi.org/10.3389/fclim.2021.624075)<br><small>Frontiers in Climate · with Daniel Burt, Friederike Fröb</small> | Ocean CDR | 112 |
 | 2021 | [Variations of ocean biogeochemistry in a transient deglacial simulation with MPI-ESM](https://doi.org/10.5194/egusphere-egu21-3073)<br><small>with Bo Liu, Katharina Six, Thomas Extier</small> | Ocean CDR | 0 |
 
 ---

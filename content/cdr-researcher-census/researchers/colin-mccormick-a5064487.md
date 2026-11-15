@@ -1,7 +1,7 @@
 ---
 title: "Colin McCormick"
-description: "Colin McCormick, Georgetown University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5813 by activity, 11 by citations). 105 publications, h-index 14, 2,277 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Colin McCormick, Georgetown University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5813 by activity, 11 by citations). 63 publications, h-index 11, 1,197 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/colin-mccormick-a5064487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 5813 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>2,277</td></tr>
-  <tr><th>Publications</th><td>105</td></tr>
-  <tr><th>Share of publications on CDR</th><td>6.7%</td></tr>
+  <tr><th>h-index</th><td>11</td></tr>
+  <tr><th>Citations</th><td>1,197</td></tr>
+  <tr><th>Publications</th><td>63</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9023-6460">ORCID</a> · <a href="https://openalex.org/A5064487270">OpenAlex</a></td></tr>
 </table>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Part 1: Industrial CDR using aqueous solvents](http://dx.doi.org/10.21428/23398f7c.482c898c)<br><small>with Paul Reginato</small> | Cross-cutting CDR | 0 |
+| 2023 | [Part 1: Industrial CDR using aqueous solvents](http://dx.doi.org/10.21428/23398f7c.482c898c)<br><small>with Paul Reginato</small> | Cross-cutting CDR | 1 |
 | 2023 | [Introduction: Roadmap for impact of biotechnology in carbon dioxide removal](https://doi.org/10.21428/23398f7c.498d0b47)<br><small>with Paul Reginato</small> | Cross-cutting CDR | 0 |
-| 2022 | [Assessing the optimal uses of biomass: Carbon and energy price conditions for the Aines Principle to apply](https://doi.org/10.3389/fclim.2022.993230)<br><small>Frontiers in Climate · with Caleb M. Woodall</small> | BECCS | 12 |
-| 2022 | [Towards Responsible and Informed Ocean-Based Carbon Dioxide Removal: Research and Governance Priorities](https://doi.org/10.46830/wrirpt.21.00090)<br><small>with Katie Lebling, Eliza Northrop, Elizabeth Bridgwater</small> | Ocean CDR | 10 |
+| 2022 | [Towards Responsible and Informed Ocean-Based Carbon Dioxide Removal: Research and Governance Priorities](https://doi.org/10.46830/wrirpt.21.00090)<br><small>with Katie Lebling, Eliza Northrop, Elizabeth Bridgwater</small> | Ocean CDR | 14 |
+| 2022 | [Assessing the optimal uses of biomass: Carbon and energy price conditions for the Aines Principle to apply](https://doi.org/10.3389/fclim.2022.993230)<br><small>Frontiers in Climate · with Caleb M. Woodall</small> | BECCS | 13 |
 | 2022 | [Assessing the Optimal Uses of Biomass: Carbon and Energy Price Conditions for the Aines Principle to Apply](https://doi.org/10.2139/ssrn.4086946)<br><small>SSRN Electronic Journal · with Caleb M. Woodall</small> | BECCS | 1 |
-| 2021 | [A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future](https://doi.org/10.1088/2516-1083/abf1ce)<br><small>Progress in Energy · with [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), [Katherine Blumanthal](/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/), [Katherine Vaz Gomes](/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/), [Maxwell Pisciotta](/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/), [Jennifer Wilcox](/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/)</small> | DAC | 709 |
-| 2021 | [Biomass Carbon Removal and Storage (BiRCS) Roadmap](https://doi.org/10.2172/1763937)<br><small>with David Sandalow, Julio Friedmann, Roger D. Aines, USDOE National Nuclear Security Administration (NNSA), [Daniel L. Sanchez](/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/)</small> | Cross-cutting CDR | 53 |
+| 2021 | [A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future](https://doi.org/10.1088/2516-1083/abf1ce)<br><small>Progress in Energy · with [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), [Katherine Blumanthal](/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/), [Katherine Vaz Gomes](/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/), [Maxwell Pisciotta](/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/), [Jennifer Wilcox](/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/)</small> | DAC | 773 |
+| 2021 | [Biomass Carbon Removal and Storage (BiRCS) Roadmap](https://doi.org/10.2172/1763937)<br><small>with David Sandalow, Julio Friedmann, Roger D. Aines, USDOE National Nuclear Security Administration (NNSA), [Daniel L. Sanchez](/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/)</small> | Cross-cutting CDR | 56 |
 
 ---
 

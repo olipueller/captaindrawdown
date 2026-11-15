@@ -1,7 +1,7 @@
 ---
 title: "Arash Ostovar"
-description: "Arash Ostovar, Malek Ashtar University of Technology, IR. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5490 by activity, 70 by citations). 8 publications, h-index 4, 350 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Arash Ostovar, Malek Ashtar University of Technology, IR. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5490 by activity, 70 by citations). 9 publications, h-index 4, 384 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/arash-ostovar-a5019334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, DAC</th><td>worldwide: rank 5490 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
-  <tr><th>Citations</th><td>350</td></tr>
-  <tr><th>Publications</th><td>8</td></tr>
-  <tr><th>Share of publications on CDR</th><td>12.5%</td></tr>
+  <tr><th>Citations</th><td>384</td></tr>
+  <tr><th>Publications</th><td>9</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7041-5063">ORCID</a> · <a href="https://openalex.org/A5019334746">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991)<br><small>Environmental Technology & Innovation · with [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), [Brahim Aïssa](/cdr-researcher-census/researchers/brahim-aissa-a5078722/), [Muftah H. El‐Naas](/cdr-researcher-census/researchers/muftah-h-elnaas-a5011669/), [Nashaat N. Nassar](/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 280 |
+| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991)<br><small>Environmental Technology & Innovation · with [Ahmed Sodiq](/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/), [Brahim Aïssa](/cdr-researcher-census/researchers/brahim-aissa-a5078722/), [Muftah H. El‐Naas](/cdr-researcher-census/researchers/muftah-h-elnaas-a5011669/), [Nashaat N. Nassar](/cdr-researcher-census/researchers/nashaat-n-nassar-a5009532/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 308 |
 
 ---
 

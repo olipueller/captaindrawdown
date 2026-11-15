@@ -1,7 +1,7 @@
 ---
 title: "Victor N. Balashov"
-description: "Victor N. Balashov, Togliatti State University, Russia. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3980 by activity, 76 by citations). 67 publications, h-index 16, 1,226 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Victor N. Balashov, Pennsylvania State University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3980 by activity, 76 by citations). 53 publications, h-index 15, 1,190 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/victor-n-balashov-a5015936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,22 +16,22 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/victor-n-balashov-a5015936/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Togliatti State University"
+    "name": "Pennsylvania State University"
   },
   "sameAs": "https://openalex.org/A5015936596"
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Togliatti State University</td></tr>
-  <tr><th>Country</th><td>Russia</td></tr>
+  <tr><th>Institution</th><td>Pennsylvania State University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 3980 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>16</td></tr>
-  <tr><th>Citations</th><td>1,226</td></tr>
-  <tr><th>Publications</th><td>67</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.5%</td></tr>
+  <tr><th>h-index</th><td>15</td></tr>
+  <tr><th>Citations</th><td>1,190</td></tr>
+  <tr><th>Publications</th><td>53</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5015936596">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [How temperature-dependent silicate weathering acts as Earth’s geological thermostat](https://doi.org/10.1126/science.add2922)<br><small>Science · with [Susan L. Brantley](/cdr-researcher-census/researchers/susan-l-brantley-a5024774/), [Andrew R. Shaughnessy](/cdr-researcher-census/researchers/andrew-r-shaughnessy-a5068547/), [Marina I. Lebedeva](/cdr-researcher-census/researchers/marina-i-lebedeva-a5065386/)</small> | Enhanced Weathering | 182 |
+| 2023 | [How temperature-dependent silicate weathering acts as Earth’s geological thermostat](https://doi.org/10.1126/science.add2922)<br><small>Science · with [Susan L. Brantley](/cdr-researcher-census/researchers/susan-l-brantley-a5024774/), [Andrew R. Shaughnessy](/cdr-researcher-census/researchers/andrew-r-shaughnessy-a5068547/), [Marina I. Lebedeva](/cdr-researcher-census/researchers/marina-i-lebedeva-a5065386/)</small> | Enhanced Weathering | 201 |
 
 ---
 

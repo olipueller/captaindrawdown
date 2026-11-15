@@ -1,7 +1,7 @@
 ---
 title: "Adel M. Al‐Saif"
-description: "Adel M. Al‐Saif, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25895 by activity, 68 by citations). 57 publications, h-index 14, 1,159 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Adel M. Al‐Saif, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25895 by activity, 68 by citations). 63 publications, h-index 16, 1,342 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/adel-m-alsaif-a5114137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,10 +28,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 25895 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>1,159</td></tr>
-  <tr><th>Publications</th><td>57</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.8%</td></tr>
+  <tr><th>h-index</th><td>16</td></tr>
+  <tr><th>Citations</th><td>1,342</td></tr>
+  <tr><th>Publications</th><td>63</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5114137950">OpenAlex</a></td></tr>
 </table>
@@ -44,7 +44,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/) and 1 more</small> | Biochar | 538 |
+| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/) and 1 more</small> | Biochar | 597 |
 
 ---
 

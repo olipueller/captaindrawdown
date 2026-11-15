@@ -1,7 +1,7 @@
 ---
 title: "Jaime B. Palter"
-description: "Jaime B. Palter, University of Rhode Island, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 288 by activity, 80 by citations). 115 publications, h-index 31, 3,326 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jaime B. Palter, University of Rhode Island, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 288 by activity, 80 by citations). 115 publications, h-index 33, 3,507 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/jaime-b-palter-a5056289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,8 +31,8 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 288 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>31</td></tr>
-  <tr><th>Citations</th><td>3,326</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>3,507</td></tr>
   <tr><th>Publications</th><td>115</td></tr>
   <tr><th>Share of publications on CDR</th><td>4.3%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
@@ -43,15 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 75 more</small> | Ocean CDR | 0 |
-| 2023 | [Monitoring, reporting, and verification for ocean alkalinity enhancement](https://doi.org/10.5194/sp-2-oae2023-12-2023)<br><small>State of the Planet · with [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), Griet Neukermans, [Laurent Bopp](/cdr-researcher-census/researchers/laurent-bopp-a5079839/), [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), [Philip W. Boyd](/cdr-researcher-census/researchers/philip-w-boyd-a5091179/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 83 |
-| 2023 | [Modelling considerations for research on ocean alkalinity enhancement (OAE)](https://doi.org/10.5194/sp-2-oae2023-9-2023)<br><small>State of the Planet · with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Christopher K. Algar, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Jann Paul Mattern and 5 more</small> | Ocean CDR | 60 |
-| 2023 | [Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed](https://doi.org/10.5194/bg-20-1963-2023)<br><small>Biogeosciences · with Linquan Mu, Hongjie Wang</small> | Ocean CDR | 27 |
-| 2023 | [The Science We Need to Assess Marine Carbon Dioxide Removal](https://doi.org/10.1029/2023eo230214)<br><small>Eos · with [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), Patrick A. Rafter, Clare E. Reimers</small> | Ocean CDR | 19 |
+| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 76 more</small> | Ocean CDR | 2 |
+| 2023 | [Monitoring, reporting, and verification for ocean alkalinity enhancement](https://doi.org/10.5194/sp-2-oae2023-12-2023)<br><small>State of the Planet · with [David T. Ho](/cdr-researcher-census/researchers/david-t-ho-a5080281/), Griet Neukermans, [Laurent Bopp](/cdr-researcher-census/researchers/laurent-bopp-a5079839/), [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), [Philip W. Boyd](/cdr-researcher-census/researchers/philip-w-boyd-a5091179/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 106 |
+| 2023 | [Modelling considerations for research on ocean alkalinity enhancement (OAE)](https://doi.org/10.5194/sp-2-oae2023-9-2023)<br><small>State of the Planet · with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Christopher K. Algar, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Jann Paul Mattern and 5 more</small> | Ocean CDR | 74 |
+| 2023 | [Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed](https://doi.org/10.5194/bg-20-1963-2023)<br><small>Biogeosciences · with Linquan Mu, Hongjie Wang</small> | Ocean CDR | 33 |
+| 2023 | [The Science We Need to Assess Marine Carbon Dioxide Removal](https://doi.org/10.1029/2023eo230214)<br><small>Eos · with [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), [Matthew C. Long](/cdr-researcher-census/researchers/matthew-c-long-a5055580/), Patrick A. Rafter, Clare E. Reimers</small> | Ocean CDR | 21 |
+| 2023 | [Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)](https://doi.org/10.5194/sp-2023-10)<br><small>preprint · with [Katja Fennel](/cdr-researcher-census/researchers/katja-fennel-a5000863/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Christopher K. Algar, [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/), Jann Paul Mattern and 5 more</small> | Ocean CDR | 21 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Abdulla"
-description: "Ahmed Abdulla, Carleton University, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 591 by activity, 81 by citations). 57 publications, h-index 17, 1,016 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ahmed Abdulla, Carleton University, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 591 by activity, 81 by citations). 52 publications, h-index 18, 1,087 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 591 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>17</td></tr>
-  <tr><th>Citations</th><td>1,016</td></tr>
-  <tr><th>Publications</th><td>57</td></tr>
-  <tr><th>Share of publications on CDR</th><td>8.8%</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>1,087</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.6%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4980-1717">ORCID</a> · <a href="https://openalex.org/A5037298843">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Liquid solvent direct air capture’s cost and carbon dioxide removal vary with ambient environmental conditions](https://doi.org/10.1038/s43247-024-01773-1)<br><small>Communications Earth & Environment · with Patrick Shorey</small> | DAC | 21 |
+| 2024 | [Liquid solvent direct air capture’s cost and carbon dioxide removal vary with ambient environmental conditions](https://doi.org/10.1038/s43247-024-01773-1)<br><small>Communications Earth & Environment · with Patrick Shorey</small> | DAC | 24 |
 | 2024 | [Integrating climate and physical constraints into assessments of net capture from direct air capture facilities](https://doi.org/10.1073/pnas.2410824121)<br><small>Proceedings of the National Academy of Sciences · with Patrick Shorey</small> | DAC | 3 |
 | 2024 | [Laying the foundations for negative emissions technologies: insights from a workshop](https://doi.org/10.1088/1748-9326/ad786d)<br><small>Environmental Research Letters · with Patrick Shorey, Grace Awuor Arwa, Kristen R. Schell</small> | Cross-cutting CDR | 1 |
-| 2021 | [Emergency deployment of direct air capture as a response to the climate crisis](https://doi.org/10.1038/s41467-020-20437-0)<br><small>Nature Communications · with [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 246 |
+| 2021 | [Emergency deployment of direct air capture as a response to the climate crisis](https://doi.org/10.1038/s41467-020-20437-0)<br><small>Nature Communications · with [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 260 |
 | 2021 | [Emergency responses to the climate crisis: The case of direct air capture of CO2](https://doi.org/10.5194/egusphere-egu21-9269)<br><small>with [Ryan Hanna](/cdr-researcher-census/researchers/ryan-hanna-a5027987/), [Yangyang Xu](/cdr-researcher-census/researchers/yangyang-xu-a5004079/), [David G. Victor](/cdr-researcher-census/researchers/david-g-victor-a5062589/)</small> | DAC | 0 |
 
 ---

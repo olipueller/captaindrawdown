@@ -1,7 +1,7 @@
 ---
 title: "Negar Vakilifard"
-description: "Negar Vakilifard, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3343 by activity, 71 by citations). 31 publications, h-index 7, 640 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Negar Vakilifard, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 3343 by activity, 71 by citations). 26 publications, h-index 7, 708 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/negar-vakilifard-a5006193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 3343 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 71 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
-  <tr><th>Citations</th><td>640</td></tr>
-  <tr><th>Publications</th><td>31</td></tr>
-  <tr><th>Share of publications on CDR</th><td>6.5%</td></tr>
+  <tr><th>Citations</th><td>708</td></tr>
+  <tr><th>Publications</th><td>26</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1596-1587">ORCID</a> · <a href="https://openalex.org/A5006193955">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), [Jean-Francois Mecure](/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/), [Maria Val Martin](/cdr-researcher-census/researchers/maria-val-martin-a5037090/) and 10 more</small> | Enhanced Weathering | 165 |
-| 2021 | [The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs](https://doi.org/10.1088/1748-9326/ac1818)<br><small>Environmental Research Letters · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Neil R. Edwards](/cdr-researcher-census/researchers/neil-r-edwards-a5032958/), [Philip B. Holden](/cdr-researcher-census/researchers/philip-b-holden-a5000461/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/)</small> | Enhanced Weathering | 27 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), Jean-Francois Mecure, [Jean-François Mercure](/cdr-researcher-census/researchers/jean-francois-mercure-a5082655/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/) and 11 more</small> | Enhanced Weathering | 184 |
+| 2021 | [The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs](https://doi.org/10.1088/1748-9326/ac1818)<br><small>Environmental Research Letters · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Neil R. Edwards](/cdr-researcher-census/researchers/neil-r-edwards-a5032958/), [Philip B. Holden](/cdr-researcher-census/researchers/philip-b-holden-a5000461/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/)</small> | Enhanced Weathering | 32 |
 
 ---
 

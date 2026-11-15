@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Nakao"
-description: "Atsushi Nakao, Kyoto Prefectural University, Japan. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 79 by activity, 1178 by citations). 141 publications, h-index 23, 1,413 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Atsushi Nakao, Kyoto Prefectural University, Japan. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 79 by activity, 1178 by citations). 103 publications, h-index 23, 1,416 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/atsushi-nakao-a5038863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 79 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1178 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
-  <tr><th>Citations</th><td>1,413</td></tr>
-  <tr><th>Publications</th><td>141</td></tr>
-  <tr><th>Share of publications on CDR</th><td>7.8%</td></tr>
+  <tr><th>Citations</th><td>1,416</td></tr>
+  <tr><th>Publications</th><td>103</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8405-234X">ORCID</a> · <a href="https://openalex.org/A5038863863">OpenAlex</a></td></tr>
 </table>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [The potential of enhanced rock weathering for CO2 removal and soil organic carbon storage via organo-mineral aggregation: the trade-off induced by basaltic rock particle size](https://doi.org/10.1007/s10533-025-01296-7)<br><small>Biogeochemistry · with Puu-Tai Yang, Emi Matsumura, [Kohei Kurokawa](/cdr-researcher-census/researchers/kohei-kurokawa-a5067284/), Rota Wagai</small> | Enhanced Weathering | 3 |
-| 2026 | [Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction](https://openalex.org/W7160712276)<br><small>with [Kohei Kurokawa](/cdr-researcher-census/researchers/kohei-kurokawa-a5067284/), Hodaka Tomita, Katashi Kubo, Kazuki Azuma, Kazuki Nomura, Junta Yanai</small> | Enhanced Weathering | 1 |
-| 2026 | [Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan](https://doi.org/10.5194/egusphere-egu26-16903)<br><small>with Chia-Yu Yang, Hayato Maruyama, Hiroshi Uchibayashi, Hotaka Tomita, Junta Yanai, [Kohei Kurokawa](/cdr-researcher-census/researchers/kohei-kurokawa-a5067284/) and 1 more</small> | Enhanced Weathering | 0 |
-| 2025 | [Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan](https://doi.org/10.1007/s10705-025-10414-8)<br><small>Nutrient Cycling in Agroecosystems · with Yilin Yang, Gen Kosaka, Hayato Maruyama, Hiroshi Uchibayashi, Kanta Kuramochi, Shoichiro Hamamoto and 4 more</small> | Enhanced Weathering | 6 |
-| 2025 | [Impact of basalt application on soil chemical properties and elemental uptake by paddy rice through enhanced rock weathering](https://doi.org/10.1080/00380768.2024.2448457)<br><small>Soil Science & Plant Nutrition · with Hiroshi Uchibayashi, Hayato Maruyama, [Kohei Kurokawa](/cdr-researcher-census/researchers/kohei-kurokawa-a5067284/), Shoichiro Hamamoto, Toshihiro Watanabe, Yo Toma and 1 more</small> | Enhanced Weathering | 3 |
-| 2025 | [Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application](https://doi.org/10.1002/saj2.70136)<br><small>Soil Science Society of America Journal · with Yan Zhu, Hayato Maruyama, Hiroshi Uchibayashi, Junichi Kashiwagi, Takahiro Tatsuno, Taku Nishimura and 4 more</small> | Enhanced Weathering | 1 |
-| 2025 | [Contribution of primary and secondary mineral phases to organo-mineral aggregation during crushed basalt weathering in the presence of fresh plant residue](https://doi.org/10.5194/egusphere-egu25-20079)<br><small>preprint · with Puu-Tai Yang, [Kohei Kurokawa](/cdr-researcher-census/researchers/kohei-kurokawa-a5067284/), Toshihiro Kogure, Rota Wagai</small> | Enhanced Weathering | 0 |
+| 2026 | [The potential of enhanced rock weathering for CO2 removal and soil organic carbon storage via organo-mineral aggregation: the trade-off induced by basaltic rock particle size](https://doi.org/10.1007/s10533-025-01296-7)<br><small>Biogeochemistry · with Puu-Tai Yang, Emi Matsumura, Kohei Kurokawa, Rota Wagai</small> | Enhanced Weathering | 5 |
+| 2026 | [Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction](https://openalex.org/W7160712276)<br><small>with Kohei Kurokawa, Hodaka Tomita, Katashi Kubo, Kazuki Azuma, Kazuki Nomura, Junta Yanai</small> | Enhanced Weathering | 2 |
+| 2026 | [Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan](https://doi.org/10.5194/egusphere-egu26-16903)<br><small>with Chia-Yu Yang, Hayato Maruyama, Hiroshi Uchibayashi, Hotaka Tomita, Junta Yanai, Kohei Kurokawa and 1 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan](https://doi.org/10.1007/s10705-025-10414-8)<br><small>Nutrient Cycling in Agroecosystems · with Yilin Yang, Gen Kosaka, Hayato Maruyama, Hiroshi Uchibayashi, Kanta Kuramochi, Shoichiro Hamamoto and 4 more</small> | Enhanced Weathering | 10 |
+| 2025 | [Impact of basalt application on soil chemical properties and elemental uptake by paddy rice through enhanced rock weathering](https://doi.org/10.1080/00380768.2024.2448457)<br><small>Soil Science & Plant Nutrition · with Hiroshi Uchibayashi, Hayato Maruyama, Kohei Kurokawa, Shoichiro Hamamoto, Toshihiro Watanabe, Yo Toma and 1 more</small> | Enhanced Weathering | 6 |
+| 2025 | [Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application](https://doi.org/10.1002/saj2.70136)<br><small>Soil Science Society of America Journal · with Yan Zhu, Hayato Maruyama, Hiroshi Uchibayashi, Junichi Kashiwagi, Takahiro Tatsuno, Taku Nishimura and 4 more</small> | Enhanced Weathering | 3 |
+| 2025 | [Contribution of primary and secondary mineral phases to organo-mineral aggregation during crushed basalt weathering in the presence of fresh plant residue](https://doi.org/10.5194/egusphere-egu25-20079)<br><small>preprint · with Puu-Tai Yang, Kohei Kurokawa, Toshihiro Kogure, Rota Wagai</small> | Enhanced Weathering | 0 |
 | 2022 | [Summary of the Current Research and Implications for the Future](https://doi.org/10.1007/978-981-16-5425-1_10)<br><small>with Sota Tanaka, Junta Yanai, Shinichi Abe</small> | Cross-cutting CDR | 0 |
 
 ---

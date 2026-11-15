@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Elgarahy"
-description: "Ahmed M. Elgarahy, Egyptian Propylene & Polypropylene Company, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11138 by activity, 31 by citations). 95 publications, h-index 47, 10,325 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ahmed M. Elgarahy, Port Said University, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11138 by activity, 31 by citations). 106 publications, h-index 47, 11,415 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ahmed-m-elgarahy-a5076554/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Egyptian Propylene & Polypropylene Company"
+    "name": "Port Said University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4959-2652",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Egyptian Propylene & Polypropylene Company</td></tr>
+  <tr><th>Institution</th><td>Port Said University</td></tr>
   <tr><th>Country</th><td>Egypt</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 11138 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 31 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
-  <tr><th>Citations</th><td>10,325</td></tr>
-  <tr><th>Publications</th><td>95</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
+  <tr><th>Citations</th><td>11,415</td></tr>
+  <tr><th>Publications</th><td>106</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4959-2652">ORCID</a> · <a href="https://openalex.org/A5076554164">OpenAlex</a></td></tr>
 </table>
@@ -47,8 +47,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/), Kim Hoong Ng and 7 more</small> | Biochar | 216 |
-| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 511 |
+| 2023 | [Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review](https://doi.org/10.1007/s10311-023-01573-7)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), Abdelazeem S. Eltaweil, Amir Ayyad, Eman M. Abd El-Monaem, [Ikko Ihara](/cdr-researcher-census/researchers/ikko-ihara-a5024902/), Kim Hoong Ng and 7 more</small> | Biochar | 242 |
+| 2022 | [Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01424-x)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Abbas Abdullah Ajlan](/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/), [M. I. A. Abdel Maksoud](/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/), [Mahmoud Yousry](/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/), [Marwa El‐Azazy](/cdr-researcher-census/researchers/marwa-elazazy-a5089720/), [Mohamed Farghali](/cdr-researcher-census/researchers/mohamed-farghali-a5073724/) and 4 more</small> | Biochar | 556 |
 
 ---
 

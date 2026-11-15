@@ -1,7 +1,7 @@
 ---
 title: "Ansgar Kretzschmar"
-description: "Ansgar Kretzschmar, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 42 by activity, 599 by citations). 33 publications, h-index 8, 324 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Ansgar Kretzschmar, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 42 by activity, 599 by citations). 52 publications, h-index 9, 343 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/ansgar-kretzschmar-a5036859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>Europe: rank 42 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 599 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>8</td></tr>
-  <tr><th>Citations</th><td>324</td></tr>
-  <tr><th>Publications</th><td>33</td></tr>
-  <tr><th>Share of publications on CDR</th><td>12.1%</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>343</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8606-4974">ORCID</a> · <a href="https://openalex.org/A5036859012">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Co-Adsorption of H2O and CO2 on a Commercial Material for Direct Air Capture (DAC)](https://openalex.org/W7153696312)<br><small>with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/), Rüdiger-A. Eichel, [Rüdiger‐A. Eichel](/cdr-researcher-census/researchers/rudigera-eichel-a5089732/)</small> | DAC | 0 |
-| 2025 | [Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects](https://doi.org/10.1039/d4se01783h)<br><small>Sustainable Energy & Fuels · with [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/), Chang Ryul Jung, Gbenga Jerome, [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Leandros Paschalidis, Nicolas Kruse and 6 more</small> | DAC | 6 |
-| 2025 | [CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://doi.org/10.1149/ma2025-02281535mtgabs)<br><small>ECS Meeting Abstracts · with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Bernhard Schmid, Muhammad Tayyab, Sergio Sanz, Urbain Nzotcha, [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/) and 1 more</small> | DAC | 0 |
-| 2025 | [CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://openalex.org/W7162159534)<br><small>with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Bernhard Schmid, Muhammad Tayyab, Sergio Sanz, Urbain Nzotcha, [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/) and 2 more</small> | DAC | 0 |
+| 2026 | [Co-Adsorption of H2O and CO2 on a Commercial Material for Direct Air Capture (DAC)](https://openalex.org/W7153696312)<br><small>with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Victor Selmert, Rüdiger‐A. Eichel</small> | DAC | 0 |
+| 2025 | [Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects](https://doi.org/10.1039/d4se01783h)<br><small>Sustainable Energy & Fuels · with Victor Selmert, Chang Ryul Jung, Gbenga Jerome, [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Leandros Paschalidis, Nicolas Kruse and 6 more</small> | DAC | 8 |
+| 2025 | [CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://doi.org/10.1149/ma2025-02281535mtgabs)<br><small>ECS Meeting Abstracts · with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Bernhard Schmid, Muhammad Tayyab, Sergio Sanz, Urbain Nzotcha, Victor Selmert and 1 more</small> | DAC | 0 |
+| 2025 | [CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://openalex.org/W7162159534)<br><small>with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Bernhard Schmid, Muhammad Tayyab, Sergio Sanz, Urbain Nzotcha and 2 more</small> | DAC | 0 |
 
 ---
 

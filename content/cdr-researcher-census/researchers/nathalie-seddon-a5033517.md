@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Seddon"
-description: "Nathalie Seddon, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1290 by activity, 11 by citations; Europe rank 606 by activity, 8 by citations). 132 publications, h-index 50, 16,519 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Nathalie Seddon, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1290 by activity, 11 by citations; Europe rank 606 by activity, 8 by citations). 181 publications, h-index 49, 17,717 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/nathalie-seddon-a5033517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1290 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 606 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>50</td></tr>
-  <tr><th>Citations</th><td>16,519</td></tr>
-  <tr><th>Publications</th><td>132</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.0%</td></tr>
+  <tr><th>h-index</th><td>49</td></tr>
+  <tr><th>Citations</th><td>17,717</td></tr>
+  <tr><th>Publications</th><td>181</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1880-6104">ORCID</a> · <a href="https://openalex.org/A5033517220">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [The role of bioenergy with carbon capture and storage in the UK’s sustainable future](https://doi.org/10.5287/ora-erdzxqav4)<br><small>Oxford University Research Archive (ORA) (University of Oxford) · with Alison Smith, Aline Sotteroni, Bradley Smith, John Lynch, Olivia Spring, Jonny Hazell</small> | BECCS | 0 |
-| 2023 | [Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050](https://doi.org/10.1111/gcb.16984)<br><small>Global Change Biology · with Aline C. Soterroni, Fernando M. Ramos, Jean Pierre Ometto, Mariana Império, Marluce Scarabello, [Michael Obersteiner](/cdr-researcher-census/researchers/michael-obersteiner-a5025780/) and 6 more</small> | Cross-cutting CDR | 33 |
+| 2025 | [The role of bioenergy with carbon capture and storage in the UK’s sustainable future](https://doi.org/10.5287/ora-erdzxqav4)<br><small>Oxford University Research Archive (ORA) (University of Oxford) · with Alison Smith, Aline C. Soterroni, Bradley Smith, John Lynch, Olivia Spring, Jonny Hazell</small> | BECCS | 0 |
+| 2023 | [Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050](https://doi.org/10.1111/gcb.16984)<br><small>Global Change Biology · with Aline C. Soterroni, Fernando M. Ramos, Jean Pierre Ometto, Mariana Império, Marluce Scarabello, [Michael Obersteiner](/cdr-researcher-census/researchers/michael-obersteiner-a5025780/) and 6 more</small> | Cross-cutting CDR | 45 |
 | 2022 | [Nature-Based Solutions Are Critical for Putting Brazil on Track Towards Net Zero](https://doi.org/10.20944/preprints202211.0054.v1)<br><small>Preprints.org (preprint) · with Aline C. Soterroni, Fernando Ramos, Jean Pierre Ometto, Mariana Império, Marluce Scarabello, [Michael Obersteiner](/cdr-researcher-census/researchers/michael-obersteiner-a5025780/) and 6 more</small> | Cross-cutting CDR | 3 |
-| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with [Samuel Fankhauser](/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/), [Cameron Hepburn](/cdr-researcher-census/researchers/cameron-hepburn-a5068254/), [Eli Mitchell-Larson](/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/), [J. M. Kendall](/cdr-researcher-census/researchers/j-m-kendall-a5086300/), [Javier Lezaun](/cdr-researcher-census/researchers/javier-lezaun-a5085557/), [Kaya Axelsson](/cdr-researcher-census/researchers/kaya-axelsson-a5050288/) and 8 more</small> | Cross-cutting CDR | 960 |
+| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w)<br><small>Nature Climate Change · with [Samuel Fankhauser](/cdr-researcher-census/researchers/samuel-fankhauser-a5060993/), [Cameron Hepburn](/cdr-researcher-census/researchers/cameron-hepburn-a5068254/), [Eli Mitchell-Larson](/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/), [J. M. Kendall](/cdr-researcher-census/researchers/j-m-kendall-a5086300/), [Javier Lezaun](/cdr-researcher-census/researchers/javier-lezaun-a5085557/), [Kaya Axelsson](/cdr-researcher-census/researchers/kaya-axelsson-a5050288/) and 8 more</small> | Cross-cutting CDR | 1,093 |
 
 ---
 

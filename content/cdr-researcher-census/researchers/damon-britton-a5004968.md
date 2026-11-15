@@ -1,7 +1,7 @@
 ---
 title: "Damon Britton"
-description: "Damon Britton, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 265 by activity, 84 by citations). 27 publications, h-index 13, 761 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Damon Britton, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 265 by activity, 84 by citations). 44 publications, h-index 13, 838 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/damon-britton-a5004968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 265 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 84 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
-  <tr><th>Citations</th><td>761</td></tr>
-  <tr><th>Publications</th><td>27</td></tr>
-  <tr><th>Share of publications on CDR</th><td>11.1%</td></tr>
+  <tr><th>Citations</th><td>838</td></tr>
+  <tr><th>Publications</th><td>44</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.1%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9029-7527">ORCID</a> · <a href="https://openalex.org/A5004968540">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Strategic research priorities for marine climate interventions in Australia](https://openalex.org/W7160906941)<br><small>with Kerryn Brent, Andrew Lenton, Bronte Tilbrook, Clothilde Langlais, Elizabeth H. Shadwick, Erin L. Bohensky and 16 more</small> | Ocean CDR | 0 |
+| 2026 | [Strategic research priorities for marine climate interventions in Australia](https://openalex.org/W7160906941)<br><small>with Kerryn Brent, Andrew Lenton, [Bronte Tilbrook](/cdr-researcher-census/researchers/bronte-tilbrook-a5074458/), Clothilde Langlais, Elizabeth H. Shadwick, Erin L. Bohensky and 16 more</small> | Ocean CDR | 0 |
 | 2026 | [Rethinking ocean alkalinity enhancement](https://openalex.org/W7220931578)<br><small>with [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), [Astrid Hylén](/cdr-researcher-census/researchers/astrid-hylen-a5047703/), [Dariia Atamanchuk](/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/), [Michael Fuhr](/cdr-researcher-census/researchers/michael-fuhr-a5072752/), [Sara Nawaz](/cdr-researcher-census/researchers/sara-nawaz-a5083576/), Tyler Rohr</small> | Ocean CDR | 0 |
 | 2025 | [Moderate ocean alkalinity enhancement likely to have minimal effects on a habitat‐forming kelp across multiple life stages](https://doi.org/10.1002/lno.70029)<br><small>Limnology and Oceanography · with Wouter Visch, [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/)</small> | Ocean CDR | 5 |
-| 2022 | [Forensic carbon accounting: Assessing the role of seaweeds for carbon sequestration](https://doi.org/10.1111/jpy.13249)<br><small>Journal of Phycology · with [Catriona L. Hurd](/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/), [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/), [Ellie R. Paine](/cdr-researcher-census/researchers/ellie-r-paine-a5004557/), [John A. Raven](/cdr-researcher-census/researchers/john-a-raven-a5041675/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), [Mark J. Hovenden](/cdr-researcher-census/researchers/mark-j-hovenden-a5081513/) and 2 more</small> | Ocean CDR | 179 |
+| 2022 | [Forensic carbon accounting: Assessing the role of seaweeds for carbon sequestration](https://doi.org/10.1111/jpy.13249)<br><small>Journal of Phycology · with [Catriona L. Hurd](/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/), [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/), [Ellie R. Paine](/cdr-researcher-census/researchers/ellie-r-paine-a5004557/), [John A. Raven](/cdr-researcher-census/researchers/john-a-raven-a5041675/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/), [Mark J. Hovenden](/cdr-researcher-census/researchers/mark-j-hovenden-a5081513/) and 2 more</small> | Ocean CDR | 199 |
 
 ---
 

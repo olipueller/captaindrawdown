@@ -1,7 +1,7 @@
 ---
 title: "Hailong Li"
-description: "Hailong Li, Central South University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 935 by activity, 91 by citations). 657 publications, h-index 89, 29,405 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Hailong Li, Mälardalen University, Sweden. 457 publications, h-index 75, 21,306 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/hailong-li-a5100440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,44 +16,44 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hailong-li-a5100440/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Central South University"
+    "name": "M\u00e4lardalen University"
   },
   "sameAs": [
-    "https://orcid.org/0000-0003-0652-6655",
-    "https://openalex.org/A5100440681"
+    "https://orcid.org/0000-0002-6279-4446",
+    "https://openalex.org/A5100440677"
   ]
 }
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Central South University</td></tr>
-  <tr><th>Country</th><td>China</td></tr>
-  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 935 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Institution</th><td>Mälardalen University</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>89</td></tr>
-  <tr><th>Citations</th><td>29,405</td></tr>
-  <tr><th>Publications</th><td>657</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.1%</td></tr>
+  <tr><th>h-index</th><td>75</td></tr>
+  <tr><th>Citations</th><td>21,306</td></tr>
+  <tr><th>Publications</th><td>457</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
-  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0652-6655">ORCID</a> · <a href="https://openalex.org/A5100440681">OpenAlex</a></td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6279-4446">ORCID</a> · <a href="https://openalex.org/A5100440677">OpenAlex</a></td></tr>
 </table>
 
 <p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 4, BECCS 2, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Functionalization of Hierarchically Porous Silica with Mixed Diethanolamine and Polyethyleneimine for Efficient CO2 capture from Air](https://openalex.org/W7165376933)<br><small>preprint · with Keping Chen, Fuyin Xie, Lei Liu, Y LI, Yuanhao Sun, [Zequn Yang](/cdr-researcher-census/researchers/zequn-yang-a5103118/) and 1 more</small> | DAC | 0 |
-| 2025 | [Adsorption characteristics of ammonia nitrogen by modified waste corn straw-based biochar](https://doi.org/10.1007/s11356-025-37046-3)<br><small>Environmental Science and Pollution Research · with Jie Li, Li Wang, Peng Wang, Yunji Pang, Zhang Tie-jun</small> | Biochar | 3 |
-| 2024 | [A complete review on the oxygen-containing functional groups of biochar: Formation mechanisms, detection methods, engineering, and applications](https://doi.org/10.1016/j.scitotenv.2024.174081)<br><small>The Science of The Total Environment · with Jiefeng Chen, Jianbing Cao, Jianping Yang, Junhui Zhou, [Lijian Leng](/cdr-researcher-census/researchers/lijian-leng-a5016494/), Mingguang Zhang and 6 more</small> | Biochar | 197 |
-| 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471)<br><small>preprint · with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), Jan Škvařil, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang, Kåre Gustafsson</small> | BECCS | 0 |
-| 2022 | [Machine learning predicting and engineering the yield, N content, and specific surface area of biochar derived from pyrolysis of biomass](https://doi.org/10.1007/s42773-022-00183-w)<br><small>Biochar · with [Lijian Leng](/cdr-researcher-census/researchers/lijian-leng-a5016494/), Hao Zhan, Haoyi Peng, Jianping Yang, Lihong Yang, [Weijin Zhang](/cdr-researcher-census/researchers/weijin-zhang-a5103156/) and 4 more</small> | Biochar | 146 |
-| 2022 | [Machine learning assisted predicting and engineering specific surface area and total pore volume of biochar](https://doi.org/10.1016/j.biortech.2022.128417)<br><small>Bioresource Technology · with Haoyi Peng, Lihong Yang, [Weijin Zhang](/cdr-researcher-census/researchers/weijin-zhang-a5103156/), [Zejian Ai](/cdr-researcher-census/researchers/zejian-ai-a5052392/), [Zequn Yang](/cdr-researcher-census/researchers/zequn-yang-a5103118/), [Lijian Leng](/cdr-researcher-census/researchers/lijian-leng-a5016494/)</small> | Biochar | 135 |
-| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Jinyue Yan, Kåre Gustafsson, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 0 |
+| 2025 | [Selecting proper technologies for capturing CO2 from bioenergy conversion](https://openalex.org/W4409987405)<br><small>with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Worrada Nookuea, Zhixin Yu</small> | BECCS | 6 |
+| 2024 | [Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective](https://doi.org/10.1016/j.jclepro.2024.142917)<br><small>Journal of Cleaner Production · with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang</small> | BECCS | 13 |
+| 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471)<br><small>preprint · with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), [Hailong Li](/cdr-researcher-census/researchers/hailong-li-a5100440/), Jan Škvařil, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang and 1 more</small> | BECCS | 0 |
+| 2022 | [Technology selection for capturing CO2 from wood pyrolysis](https://doi.org/10.1016/j.enconman.2022.115835)<br><small>Energy Conversion and Management · with Yingying Sun, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Liang Wang, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 21 |
+| 2022 | [Capturing CO2 from Wood Fast Pyrolysis](https://doi.org/10.46855/energy-proceedings-9442)<br><small>preprint · with Yingying Sun, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), Liang Wang</small> | BECCS | 0 |
+| 2021 | [Dynamic simulation of CO2 capture from biomass power plant by MEA](https://doi.org/10.46855/energy-proceedings-7243)<br><small>preprint · with Changzheng Hu, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Jinyue Yan, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/)</small> | BECCS | 2 |
+| 2021 | [A Method to Assess the CO2 Capture Potential from a Biomass-fired CHP](https://doi.org/10.46855/energy-proceedings-8381)<br><small>preprint · with Shuo Wang, Changzheng Hu, Hailong Li, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Ronald Wennersten</small> | BECCS | 1 |
+| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Hailong Li](/cdr-researcher-census/researchers/hailong-li-a5100440/), Jinyue Yan, Kåre Gustafsson and 1 more</small> | BECCS | 0 |
 
 ---
 

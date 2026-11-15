@@ -1,7 +1,7 @@
 ---
 title: "James H. Clark"
-description: "James H. Clark, Univrsity of York, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2237 by activity, 52 by citations; Europe rank 849 by activity, 20 by citations). 1130 publications, h-index 108, 50,000 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "James H. Clark, University of York, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2237 by activity, 52 by citations; Europe rank 849 by activity, 20 by citations). 974 publications, h-index 108, 48,821 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/james-h-clark-a5007470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/james-h-clark-a5007470/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Univrsity of York"
+    "name": "University of York"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5860-2480",
@@ -26,14 +26,14 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Univrsity of York</td></tr>
+  <tr><th>Institution</th><td>University of York</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 2237 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 849 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>108</td></tr>
-  <tr><th>Citations</th><td>50,000</td></tr>
-  <tr><th>Publications</th><td>1130</td></tr>
+  <tr><th>Citations</th><td>48,821</td></tr>
+  <tr><th>Publications</th><td>974</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.4%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5860-2480">ORCID</a> · <a href="https://openalex.org/A5007470779">OpenAlex</a></td></tr>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Enhanced Carbon Sequestration of Sustainable Biochar via Metal Salt Regulation: Insight into Reaction Mechanism and Carbon Footprint](https://doi.org/10.1021/acssuschemeng.4c07181)<br><small>ACS Sustainable Chemistry & Engineering · with Shaojie Zhou, Bin Chen, Jiajun Fan, Qi Wang, Qian Wang, Shurong Wang and 3 more</small> | Biochar | 7 |
-| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Junji Cao](/cdr-researcher-census/researchers/junji-cao-a5000320/) and 9 more</small> | BECCS | 131 |
-| 2022 | [Tailoring wood waste biochar as a reusable microwave absorbent for pollutant removal: Structure-property-performance relationship and iron-carbon interaction](https://doi.org/10.1016/j.biortech.2022.127838)<br><small>Bioresource Technology · with [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/), [Deyi Hou](/cdr-researcher-census/researchers/deyi-hou-a5065266/), Nigel Graham, Qiaozhi Zhang, [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/), [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 59 |
-| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 119 |
+| 2024 | [Enhanced Carbon Sequestration of Sustainable Biochar via Metal Salt Regulation: Insight into Reaction Mechanism and Carbon Footprint](https://doi.org/10.1021/acssuschemeng.4c07181)<br><small>ACS Sustainable Chemistry & Engineering · with Shaojie Zhou, Bin Chen, Jiajun Fan, Qi Wang, Qian Wang, Shurong Wang and 3 more</small> | Biochar | 11 |
+| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with [Siqing Xu](/cdr-researcher-census/researchers/siqing-xu-a5101093/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), [Jianmin Chen](/cdr-researcher-census/researchers/jianmin-chen-a5100665/), [Jordi Sardans](/cdr-researcher-census/researchers/jordi-sardans-a5061849/), [Josep Peñuelas](/cdr-researcher-census/researchers/josep-penuelas-a5016893/), [Junji Cao](/cdr-researcher-census/researchers/junji-cao-a5000320/) and 9 more</small> | BECCS | 144 |
+| 2022 | [Tailoring wood waste biochar as a reusable microwave absorbent for pollutant removal: Structure-property-performance relationship and iron-carbon interaction](https://doi.org/10.1016/j.biortech.2022.127838)<br><small>Bioresource Technology · with [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/), [Deyi Hou](/cdr-researcher-census/researchers/deyi-hou-a5065266/), Nigel Graham, Qiaozhi Zhang, [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/), [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 62 |
+| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with [Xiaofan Xing](/cdr-researcher-census/researchers/xiaofan-xing-a5036107/), Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 127 |
 
 ---
 

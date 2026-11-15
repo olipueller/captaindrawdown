@@ -1,7 +1,7 @@
 ---
 title: "Taejun Song"
-description: "Taejun Song, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 72 by activity, 2293 by citations). 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Taejun Song, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 72 by activity, 2293 by citations). 4 publications, h-index 1, 3 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/taejun-song-a5122304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,8 +30,8 @@ robots: "index, follow"
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>3</td></tr>
-  <tr><th>Publications</th><td>5</td></tr>
-  <tr><th>Share of publications on CDR</th><td>80.0%</td></tr>
+  <tr><th>Publications</th><td>4</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5122304284">OpenAlex</a></td></tr>
 </table>
 

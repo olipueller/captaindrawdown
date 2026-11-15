@@ -1,7 +1,7 @@
 ---
 title: "Morgan Bazilian"
-description: "Morgan Bazilian, Colorado School of Mines, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4987 by activity, 43 by citations). 344 publications, h-index 77, 26,254 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Morgan Bazilian, Colorado School of Mines, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4987 by activity, 43 by citations). 422 publications, h-index 82, 29,903 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/morgan-bazilian-a5013688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 4987 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 43 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>77</td></tr>
-  <tr><th>Citations</th><td>26,254</td></tr>
-  <tr><th>Publications</th><td>344</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.6%</td></tr>
+  <tr><th>h-index</th><td>82</td></tr>
+  <tr><th>Citations</th><td>29,903</td></tr>
+  <tr><th>Publications</th><td>422</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.5%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1650-8071">ORCID</a> · <a href="https://openalex.org/A5013688046">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2023 | [Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world](https://doi.org/10.1016/j.rser.2023.113215)<br><small>Renewable and Sustainable Energy Reviews · with [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/), [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/), [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/), [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) and 2 more</small> | DAC | 453 |
+| 2023 | [Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world](https://doi.org/10.1016/j.rser.2023.113215)<br><small>Renewable and Sustainable Energy Reviews · with [Hope McLaughlin](/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/), [Anna A. Littlefield](/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/), [Austin Kinzer](/cdr-researcher-census/researchers/austin-kinzer-a5065497/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), [Jinsoo Kim](/cdr-researcher-census/researchers/jinsoo-kim-a5100390/), [Maia Menefee](/cdr-researcher-census/researchers/maia-menefee-a5066162/) and 2 more</small> | DAC | 490 |
 | 2023 | [Pathways to net-zero emissions from aviation](https://doi.org/10.1038/s41893-022-01046-9)<br><small>Nature Sustainability · with [Candelaria Bergero](/cdr-researcher-census/researchers/candelaria-bergero-a5081360/), Dolf Gielen, Greer Gosnell, Seungwoo Kang, [Steven J. Davis](/cdr-researcher-census/researchers/steven-j-davis-a5021527/)</small> | Cross-cutting CDR | 411 |
 
 ---

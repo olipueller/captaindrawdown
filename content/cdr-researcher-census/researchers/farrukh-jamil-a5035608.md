@@ -1,7 +1,7 @@
 ---
 title: "Farrukh Jamil"
-description: "Farrukh Jamil, COMSATS University Islamabad, Pakistan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3385 by activity, 24 by citations). 51 publications, h-index 17, 1,336 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Farrukh Jamil, COMSATS University Islamabad, Pakistan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3385 by activity, 24 by citations). 26 publications, h-index 9, 216 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/farrukh-jamil-a5035608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 3385 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>17</td></tr>
-  <tr><th>Citations</th><td>1,336</td></tr>
-  <tr><th>Publications</th><td>51</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.9%</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>216</td></tr>
+  <tr><th>Publications</th><td>26</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3590-6529">ORCID</a> · <a href="https://openalex.org/A5035608164">OpenAlex</a></td></tr>
 </table>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2025 | [Integrated approach for response surface methodology optimization in biochar and bio-oil production from Moringa seeds: Pyrolysis enhancement with zeolite catalyst](https://doi.org/10.1016/j.biteb.2025.102123)<br><small>Bioresource Technology Reports · with Hatim Dafalla, Abrar Inayat, Chaouki Ghenaï, [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), Lisandra Rocha‐Meneses, Abdallah Shanableh</small> | Biochar | 6 |
-| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 379 |
+| 2022 | [Algal biomass valorization for biofuel production and carbon sequestration: a review](https://doi.org/10.1007/s10311-022-01458-1)<br><small>Environmental Chemistry Letters · with [Asma Sarwer](/cdr-researcher-census/researchers/asma-sarwer-a5000091/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [Ala’a H. Al‐Muhtaseb](/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/), [Farrukh Jamil](/cdr-researcher-census/researchers/farrukh-jamil-a5027227/), [Nawaf S. Alhajeri](/cdr-researcher-census/researchers/nawaf-s-alhajeri-a5000829/), [Seham M. Hamed](/cdr-researcher-census/researchers/seham-m-hamed-a5007312/) and 1 more</small> | BECCS | 407 |
 
 ---
 

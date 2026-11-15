@@ -1,7 +1,7 @@
 ---
 title: "Geoffrey J. Blanford"
-description: "Geoffrey J. Blanford, Electric Power Research Institute, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 753 by activity, 72 by citations). 62 publications, h-index 29, 2,860 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Geoffrey J. Blanford, Electric Power Research Institute, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 753 by activity, 72 by citations). 77 publications, h-index 30, 3,387 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/geoffrey-j-blanford-a5000988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 753 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>29</td></tr>
-  <tr><th>Citations</th><td>2,860</td></tr>
-  <tr><th>Publications</th><td>62</td></tr>
-  <tr><th>Share of publications on CDR</th><td>3.2%</td></tr>
+  <tr><th>h-index</th><td>30</td></tr>
+  <tr><th>Citations</th><td>3,387</td></tr>
+  <tr><th>Publications</th><td>77</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.2%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8765-9059">ORCID</a> · <a href="https://openalex.org/A5000988653">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study](https://doi.org/10.1016/j.egycc.2025.100196)<br><small>Energy and Climate Change · with Robert X. Gao, Charles Rossmann, Geoff Blanford, [John Bistline](/cdr-researcher-census/researchers/john-bistline-a5026240/), Matteo Muratori, Matthew Binsted and 7 more</small> | DAC | 10 |
-| 2025 | [Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study](https://doi.org/10.1016/j.egycc.2025.100209)<br><small>Energy and Climate Change · with Ronald D. Sands, Aditya Sinha, Chioke Harris, Christopher Hoehne, Emma Starke, Francisco C. de la Chesnaye and 18 more</small> | BECCS | 2 |
-| 2023 | [Net-zero CO2 by 2050 scenarios for the United States in the Energy Modeling Forum 37 study](https://doi.org/10.1016/j.egycc.2023.100104)<br><small>Energy and Climate Change · with Morgan Browning, Allen A. Fawcett, Chioke Harris, Gale Boyd, Geoff Blanford, [Jae Edmonds](/cdr-researcher-census/researchers/jae-edmonds-a5079684/) and 7 more</small> | DAC | 105 |
-| 2021 | [Impact of carbon dioxide removal technologies on deep decarbonization of the electric power sector](https://doi.org/10.1038/s41467-021-23554-6)<br><small>Nature Communications · with [John Bistline](/cdr-researcher-census/researchers/john-bistline-a5026240/)</small> | BECCS; DAC | 163 |
+| 2025 | [Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study](https://doi.org/10.1016/j.egycc.2025.100196)<br><small>Energy and Climate Change · with Robert X. Gao, Charles Rossmann, [John Bistline](/cdr-researcher-census/researchers/john-bistline-a5026240/), Matteo Muratori, Matthew Binsted, Matthias Fripp and 6 more</small> | DAC | 13 |
+| 2025 | [Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study](https://doi.org/10.1016/j.egycc.2025.100209)<br><small>Energy and Climate Change · with Ronald D. Sands, Aditya Sinha, Chioke Harris, Christopher Hoehne, Emma Starke, Francisco C. de la Chesnaye and 18 more</small> | BECCS | 3 |
+| 2023 | [Net-zero CO2 by 2050 scenarios for the United States in the Energy Modeling Forum 37 study](https://doi.org/10.1016/j.egycc.2023.100104)<br><small>Energy and Climate Change · with Morgan Browning, Allen A. Fawcett, Chioke Harris, Gale Boyd, Jae Edmonds, James McFarland and 6 more</small> | DAC | 111 |
+| 2021 | [Impact of carbon dioxide removal technologies on deep decarbonization of the electric power sector](https://doi.org/10.1038/s41467-021-23554-6)<br><small>Nature Communications · with [John Bistline](/cdr-researcher-census/researchers/john-bistline-a5026240/)</small> | BECCS; DAC | 173 |
 
 ---
 

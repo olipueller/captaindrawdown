@@ -1,7 +1,7 @@
 ---
 title: "Zainab T. Al‐Sharify"
-description: "Zainab T. Al‐Sharify, Al Hikma university college, IQ. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5388 by activity, 25 by citations). 139 publications, h-index 30, 3,624 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Zainab T. Al‐Sharify, Al Hikma university college, IQ. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5388 by activity, 25 by citations). 147 publications, h-index 32, 4,176 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5388 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>30</td></tr>
-  <tr><th>Citations</th><td>3,624</td></tr>
-  <tr><th>Publications</th><td>139</td></tr>
+  <tr><th>h-index</th><td>32</td></tr>
+  <tr><th>Citations</th><td>4,176</td></tr>
+  <tr><th>Publications</th><td>147</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3870-3815">ORCID</a> · <a href="https://openalex.org/A5072834607">OpenAlex</a></td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Minimizing carbon footprint via microalgae as a biological capture](https://doi.org/10.1016/j.ccst.2021.100007)<br><small>Carbon Capture Science & Technology · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/), [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/), [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/), [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/)</small> | Ocean CDR | 327 |
+| 2021 | [Minimizing carbon footprint via microalgae as a biological capture](https://doi.org/10.1016/j.ccst.2021.100007)<br><small>Carbon Capture Science & Technology · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/), [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/), [KeChrist Obileke](/cdr-researcher-census/researchers/kechrist-obileke-a5067258/), [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/)</small> | Ocean CDR | 355 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rewaa S. Jalal"
-description: "Rewaa S. Jalal, Jeddah University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25900 by activity, 73 by citations). 69 publications, h-index 16, 1,864 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Rewaa S. Jalal, University of Jeddah, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25900 by activity, 73 by citations). 102 publications, h-index 18, 2,030 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rewaa-s-jalal-a5025758/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jeddah University"
+    "name": "University of Jeddah"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8372-9117",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>Jeddah University</td></tr>
+  <tr><th>Institution</th><td>University of Jeddah</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 25900 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>16</td></tr>
-  <tr><th>Citations</th><td>1,864</td></tr>
-  <tr><th>Publications</th><td>69</td></tr>
-  <tr><th>Share of publications on CDR</th><td>1.4%</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>2,030</td></tr>
+  <tr><th>Publications</th><td>102</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8372-9117">ORCID</a> · <a href="https://openalex.org/A5025758936">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/) and 1 more</small> | Biochar | 538 |
+| 2021 | [Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review](https://doi.org/10.3390/agronomy11050993)<br><small>Agronomy · with [Hiba M. Alkharabsheh](/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/), [Ashwag Shami](/cdr-researcher-census/researchers/ashwag-shami-a5083302/), [Bushra Ahmed Alhammad](/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/), [Khalid F. Almutairi](/cdr-researcher-census/researchers/khalid-f-almutairi-a5040003/), [Mahmoud F. Seleiman](/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/), [Martín Leonardo Battaglia](/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/) and 1 more</small> | Biochar | 597 |
 
 ---
 

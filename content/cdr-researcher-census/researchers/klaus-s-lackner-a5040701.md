@@ -1,7 +1,7 @@
 ---
 title: "Klaus S. Lackner"
-description: "Klaus S. Lackner, Arizona State University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 57 by activity, 230 by citations). 224 publications, h-index 47, 15,126 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Klaus S. Lackner, Arizona State University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 57 by activity, 230 by citations). 245 publications, h-index 48, 15,918 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/klaus-s-lackner-a5040701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
   <tr><th>Top lists, DAC</th><td>worldwide: rank 57 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 230 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>47</td></tr>
-  <tr><th>Citations</th><td>15,126</td></tr>
-  <tr><th>Publications</th><td>224</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.7%</td></tr>
+  <tr><th>h-index</th><td>48</td></tr>
+  <tr><th>Citations</th><td>15,918</td></tr>
+  <tr><th>Publications</th><td>245</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.4%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5509-6327">ORCID</a> · <a href="https://openalex.org/A5040701303">OpenAlex</a></td></tr>
 </table>
@@ -47,12 +47,12 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)](https://doi.org/10.2172/3014196)<br><small>with Office of Sustainable Transportation. Bioenergy Technologies Office (BETO) USDOE Office of Energy Efficiency and Renewable Energy (EERE), USDOE Office of Technology Commercialization (OTC); USDOE Office of Energy Efficiency and Renewable Energy (EERE), Amory Lowe, Arizona State Univ., Tempe, AZ (United States), Garrett Cole and 15 more</small> | DAC | 1 |
-| 2026 | [Meteorology-driven screening of moisture swing sorbents for passive direct air capture](https://openalex.org/W7162085331)<br><small>with Mohammad Abu Talha, John Cirucci</small> | DAC | 0 |
-| 2026 | [Distributed Mafic Rock Resources for Carbon Mineralization in Arizona](https://openalex.org/W7205708410)<br><small>with USDOE Office of Fossil Energy and Carbon Management (FECM), Adam Sjolund, Andrea Wrenn, Arizona State Univ., Tempe, AZ (United States), Brian Gootee, Connor Grayson and 8 more</small> | DAC; Enhanced Weathering | 0 |
+| 2026 | [ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)](https://doi.org/10.2172/3014196)<br><small>with Office of Sustainable Transportation. Bioenergy Technologies Office (BETO) USDOE Office of Energy Efficiency and Renewable Energy (EERE), USDOE Office of Technology Commercialization (OTC); USDOE Office of Energy Efficiency and Renewable Energy (EERE), Amory Lowe, Arizona State Univ., Tempe, AZ (United States), Garrett Cole and 15 more</small> | DAC | 2 |
+| 2026 | [Meteorology-driven screening of moisture swing sorbents for passive direct air capture](https://openalex.org/W7162085331)<br><small>with Mohammad Abu Talha, John Cirucci</small> | DAC | 1 |
+| 2026 | [Distributed Mafic Rock Resources for Carbon Mineralization in Arizona](https://openalex.org/W7205708410)<br><small>with [USDOE Office of Fossil Energy (FE)](/cdr-researcher-census/researchers/usdoe-office-of-fossil-energy-fe-a5147699/), USDOE Office of Fossil Energy and Carbon Management (FECM), Adam Sjolund, Andrea Wrenn, Arizona State Univ., Tempe, AZ (United States), Brian F. Gootee and 10 more</small> | DAC; Enhanced Weathering | 0 |
 | 2024 | [Spatiotemporal Adaptive Passive Direct Air Capture](https://doi.org/10.2172/2448422)<br><small>with James Austell, Adam Berger, Chad Baker, John Cirucci, Katherine Dombrowski, M. C. Marsh and 3 more</small> | DAC | 1 |
 | 2022 | [Mining Air for Fuels and Fine Chemicals](https://doi.org/10.2172/1869810)<br><small>with [Matthew Green](/cdr-researcher-census/researchers/matthew-green-a5100626/), Alexander T. Bridge, Benny D. Freeman, Edwin A. Smith, Hoda Shokrollahzadeh Behbahani, Horacio Lopez Marques and 11 more</small> | DAC | 0 |
-| 2021 | [Buying down the Cost of Direct Air Capture](https://doi.org/10.1021/acs.iecr.0c04839)<br><small>Industrial & Engineering Chemistry Research · with Habib Azarabadi</small> | DAC | 110 |
+| 2021 | [Buying down the Cost of Direct Air Capture](https://doi.org/10.1021/acs.iecr.0c04839)<br><small>Industrial & Engineering Chemistry Research · with Habib Azarabadi</small> | DAC | 122 |
 
 ---
 

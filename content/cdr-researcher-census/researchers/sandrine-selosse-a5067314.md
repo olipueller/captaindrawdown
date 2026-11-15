@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
-description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 54 by activity, 1970 by citations; Europe rank 38 by activity, 848 by citations). 252 publications, h-index 18, 1,074 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 54 by activity, 1970 by citations; Europe rank 38 by activity, 848 by citations). 269 publications, h-index 20, 1,250 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 54 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1970 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 848 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>18</td></tr>
-  <tr><th>Citations</th><td>1,074</td></tr>
-  <tr><th>Publications</th><td>252</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>1,250</td></tr>
+  <tr><th>Publications</th><td>269</td></tr>
   <tr><th>Share of publications on CDR</th><td>5.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1516-6129">ORCID</a> · <a href="https://openalex.org/A5067314498">OpenAlex</a></td></tr>
@@ -48,19 +48,19 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Land–energy nexus to assess the contribution of carbon dioxide removal in net-zero emission pathways](https://openalex.org/W7165203742)<br><small>with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/), Nicklas Forsell</small> | DAC | 0 |
-| 2025 | [The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions](https://doi.org/10.1016/j.scitotenv.2025.179271)<br><small>The Science of The Total Environment · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 8 |
-| 2025 | [Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation](https://doi.org/10.1007/s40518-025-00271-y)<br><small>Current Sustainable/Renewable Energy Reports · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 3 |
+| 2025 | [The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions](https://doi.org/10.1016/j.scitotenv.2025.179271)<br><small>The Science of The Total Environment · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 11 |
+| 2025 | [Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation](https://doi.org/10.1007/s40518-025-00271-y)<br><small>Current Sustainable/Renewable Energy Reports · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 7 |
 | 2025 | [Balancing between carbon dioxide removal options: what are the lessons learned from techno-economic modelling?](https://hal.science/hal-05453344)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 0 |
 | 2024 | [Water use in a sustainable net zero energy system: what are the implications of employing bioenergy with carbon capture and storage?](https://doi.org/10.54337/ijsepm.8159)<br><small>International Journal of Sustainable Energy Planning and Management · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 5 |
 | 2024 | [Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry](https://doi.org/10.2139/ssrn.4778876)<br><small>SSRN Electronic Journal (preprint) · with Lucas Desport, Carlos Andrade, Damien Corral</small> | Cross-cutting CDR | 1 |
 | 2024 | [From Theory to Practice: Modeling Biomass Supply and Carbon Dioxide Removal for Climate Goals](https://hal.science/hal-04863144)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
 | 2024 | [Climate actions effects on ressource sustainability in a carbon constrained world](https://hal.science/hal-04863274)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
-| 2023 | [Deploying direct air capture at scale: How close to reality?](https://doi.org/10.1016/j.eneco.2023.107244)<br><small>Energy Economics · with Lucas Desport, [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), Howard J. Herzog, [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), Yen-Heng Henry Chen, Sergey Paltsev</small> | DAC | 30 |
-| 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1)<br><small>Implementing the UN sustainable development goals - regional perspectives · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 2 |
-| 2023 | [Net-Zero Emission Opportunities for the Iron and Steel Industry at a Global Scale](http://dx.doi.org/10.46855/energy-proceedings-10409)<br><small>preprint · with Lucas Desport, Carlos Andrade</small> | BECCS | 0 |
-| 2023 | [Exploring the conditions and implications of deploying direct air capture at scale](https://hal.science/hal-04298491)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with Lucas Desport, [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), Henry Chen, Howard J. Herzog, [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), Sergey Paltsev</small> | DAC | 0 |
+| 2023 | [Deploying direct air capture at scale: How close to reality?](https://doi.org/10.1016/j.eneco.2023.107244)<br><small>Energy Economics · with Lucas Desport, [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), [Howard J. Herzog](/cdr-researcher-census/researchers/howard-j-herzog-a5108415/), [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), Y.-H. Henry Chen, Yen-Heng Henry Chen and 1 more</small> | DAC | 36 |
+| 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1)<br><small>Implementing the UN sustainable development goals - regional perspectives · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 3 |
+| 2023 | [Exploring the conditions and implications of deploying direct air capture at scale](https://hal.science/hal-04298491)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with Lucas Desport, [Angelo Gurgel](/cdr-researcher-census/researchers/angelo-gurgel-a5086031/), Henry Chen, [Howard J. Herzog](/cdr-researcher-census/researchers/howard-j-herzog-a5108415/), [Jennifer Morris](/cdr-researcher-census/researchers/jennifer-morris-a5077783/), Y.-H. Henry Chen and 1 more</small> | DAC | 0 |
 | 2022 | [Biomass from the carbon dioxide removal and carbon neutrality perspective: a long term assessment using TIAM-FR](https://hal.science/hal-03934511)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
 | 2022 | [Techno-economic assessment of bio-based Carbon Dioxide Removal using TIAM-FR](https://hal.science/hal-03934516)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
+| 2022 | [Net-Zero Emission Opportunities for the Iron and Steel Industry at a Global Scale](https://openalex.org/W4361229156)<br><small>with Lucas Desport</small> | BECCS | 0 |
 
 ---
 

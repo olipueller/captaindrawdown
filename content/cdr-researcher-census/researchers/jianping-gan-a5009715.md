@@ -1,7 +1,7 @@
 ---
 title: "Jianping Gan"
-description: "Jianping Gan, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4968 by activity, 63 by citations). 233 publications, h-index 53, 8,232 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jianping Gan, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4968 by activity, 63 by citations). 272 publications, h-index 54, 8,644 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/jianping-gan-a5009715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,10 +28,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4968 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>53</td></tr>
-  <tr><th>Citations</th><td>8,232</td></tr>
-  <tr><th>Publications</th><td>233</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.9%</td></tr>
+  <tr><th>h-index</th><td>54</td></tr>
+  <tr><th>Citations</th><td>8,644</td></tr>
+  <tr><th>Publications</th><td>272</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5009715756">OpenAlex</a></td></tr>
 </table>
@@ -44,8 +44,8 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Carbonate weathering enhances nitrogen assimilatory uptake in rivers globally](https://doi.org/10.1038/s41561-025-01680-w)<br><small>Nature Geoscience · with Hongkai Qi, Aditya Nugraha Putra, Haoran Wang, Jiu Jimmy Jiao, Xingxing Kuang, Yi Liu</small> | Enhanced Weathering | 12 |
-| 2022 | [Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends](https://doi.org/10.1146/annurev-earth-032320-090746)<br><small>Annual Review of Earth and Planetary Sciences · with [Minhan Dai](/cdr-researcher-census/researchers/minhan-dai-a5000330/), [Eileen E. Hofmann](/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/), [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/), [Feifei Meng](/cdr-researcher-census/researchers/feifei-meng-a5100839/), [Goulven G. Laruelle](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/), [Guizhi Wang](/cdr-researcher-census/researchers/guizhi-wang-a5051534/) and 7 more</small> | Ocean CDR | 245 |
+| 2025 | [Carbonate weathering enhances nitrogen assimilatory uptake in rivers globally](https://doi.org/10.1038/s41561-025-01680-w)<br><small>Nature Geoscience · with Hongkai Qi, Aditya Nugraha Putra, Haoran Wang, Jiu Jimmy Jiao, Xingxing Kuang, Yi Liu</small> | Enhanced Weathering | 14 |
+| 2022 | [Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends](https://doi.org/10.1146/annurev-earth-032320-090746)<br><small>Annual Review of Earth and Planetary Sciences · with [Minhan Dai](/cdr-researcher-census/researchers/minhan-dai-a5000330/), [Eileen E. Hofmann](/cdr-researcher-census/researchers/eileen-e-hofmann-a5071321/), [Fabrice Lacroix](/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/), [Feifei Meng](/cdr-researcher-census/researchers/feifei-meng-a5100839/), [Goulven G. Laruelle](/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/), [Guizhi Wang](/cdr-researcher-census/researchers/guizhi-wang-a5051534/) and 7 more</small> | Ocean CDR | 282 |
 
 ---
 

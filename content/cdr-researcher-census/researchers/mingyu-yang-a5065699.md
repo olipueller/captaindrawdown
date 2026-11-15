@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Yang"
-description: "Mingyu Yang, Nanjing University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10630 by activity, 27 by citations). 15 publications, h-index 8, 3,564 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mingyu Yang, Nanjing University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10630 by activity, 27 by citations). 15 publications, h-index 8, 4,163 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/mingyu-yang-a5065699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,7 +32,7 @@ robots: "index, follow"
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10630 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
-  <tr><th>Citations</th><td>3,564</td></tr>
+  <tr><th>Citations</th><td>4,163</td></tr>
   <tr><th>Publications</th><td>15</td></tr>
   <tr><th>Share of publications on CDR</th><td>6.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Circular economy strategies for combating climate change and other environmental issues](https://doi.org/10.1007/s10311-022-01499-6)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Goodluck Msigwa](/cdr-researcher-census/researchers/goodluck-msigwa-a5005216/), [Jiangjiang Wang](/cdr-researcher-census/researchers/jiangjiang-wang-a5078303/), [Lin Chen](/cdr-researcher-census/researchers/lin-chen-a5101747/), [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/) and 1 more</small> | Cross-cutting CDR | 823 |
+| 2022 | [Circular economy strategies for combating climate change and other environmental issues](https://doi.org/10.1007/s10311-022-01499-6)<br><small>Environmental Chemistry Letters · with [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Goodluck Msigwa](/cdr-researcher-census/researchers/goodluck-msigwa-a5005216/), [Jiangjiang Wang](/cdr-researcher-census/researchers/jiangjiang-wang-a5078303/), [Lin Chen](/cdr-researcher-census/researchers/lin-chen-a5101747/), [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/) and 1 more</small> | Cross-cutting CDR | 1,005 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Elias Azzi"
-description: "Elias Azzi, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 47 by activity, 129 by citations; Europe rank 15 by activity, 25 by citations). 33 publications, h-index 13, 762 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Elias Azzi, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 47 by activity, 129 by citations; Europe rank 15 by activity, 25 by citations). 32 publications, h-index 14, 873 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/elias-azzi-a5039260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,11 +31,11 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 47 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 129 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 15 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>13</td></tr>
-  <tr><th>Citations</th><td>762</td></tr>
-  <tr><th>Publications</th><td>33</td></tr>
-  <tr><th>Share of publications on CDR</th><td>36.4%</td></tr>
-  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>873</td></tr>
+  <tr><th>Publications</th><td>32</td></tr>
+  <tr><th>Share of publications on CDR</th><td>40.6%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4865-3401">ORCID</a> · <a href="https://openalex.org/A5039260792">OpenAlex</a></td></tr>
 </table>
 
@@ -48,18 +48,18 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Bomb 14 C for tracing biochar mineralization in soil](https://openalex.org/W7214128309)<br><small>with Haichao Li, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/), Harald Cederlund, Erik Karltun</small> | Biochar | 0 |
-| 2024 | [Biochar, greenhouse gas accounting, and climate change mitigation](https://doi.org/10.4324/9781003297673-30)<br><small>with [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Zhe Weng, [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/)</small> | Biochar | 10 |
+| 2024 | [Biochar, greenhouse gas accounting, and climate change mitigation](https://doi.org/10.4324/9781003297673-30)<br><small>with [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Zhe Weng, [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/)</small> | Biochar | 12 |
 | 2024 | [Biochar sustainability](http://dx.doi.org/10.4324/9781003297673-31)<br><small>with [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 1 |
-| 2023 | [Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data](https://doi.org/10.1016/j.geoderma.2023.116761)<br><small>Geoderma · with Erik Karltun, Haichao Li, Harald Cederlund, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 97 |
-| 2023 | [Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment](https://doi.org/10.1111/gcbb.13102)<br><small>GCB Bioenergy · with Shivesh Kishore Karan, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), Stephen A. Wood</small> | Biochar | 56 |
-| 2023 | [Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability](https://doi.org/10.1007/s11367-023-02144-2)<br><small>The International Journal of Life Cycle Assessment · with Lisa Zakrisson, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | BECCS; Biochar | 23 |
+| 2023 | [Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data](https://doi.org/10.1016/j.geoderma.2023.116761)<br><small>Geoderma · with Erik Karltun, Haichao Li, Harald Cederlund, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 112 |
+| 2023 | [Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment](https://doi.org/10.1111/gcbb.13102)<br><small>GCB Bioenergy · with Shivesh Kishore Karan, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), Stephen A. Wood</small> | Biochar | 63 |
+| 2023 | [Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability](https://doi.org/10.1007/s11367-023-02144-2)<br><small>The International Journal of Life Cycle Assessment · with Lisa Zakrisson, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | BECCS; Biochar | 27 |
 | 2023 | [Modelling Biochar Long-Term Carbon Storage in Soil with Harmonized Analysis of Incubation Data](http://dx.doi.org/10.2139/ssrn.4601106)<br><small>SSRN Electronic Journal (preprint) · with Erik Karltun, Haichao Li, Harald Cederlund, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 1 |
 | 2023 | [Revisiting biochar decomposition data and long-term stability estimates: a transparent and reproducible analysis](http://dx.doi.org/10.5194/egusphere-egu23-5625)<br><small>preprint · with [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 0 |
-| 2022 | [Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden](https://doi.org/10.1007/s42773-022-00144-3)<br><small>Biochar · with Erik Karltun, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 54 |
+| 2022 | [Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden](https://doi.org/10.1007/s42773-022-00144-3)<br><small>Biochar · with Erik Karltun, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 68 |
 | 2022 | [Bioenergy with or without carbon dioxide removal: influence of functional unit choice and parameter variability](https://doi.org/10.31223/x5zk9c)<br><small>preprint · with Lisa Zakrisson, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | BECCS; Biochar | 1 |
 | 2022 | [A Spatial Framework for Prioritizing Biochar Application to Arable Land: A Case Study for Sweden](https://doi.org/10.2139/ssrn.4144164)<br><small>SSRN Electronic Journal · with Shivesh Kishore Karan, Erik Karltun, Fabian Osslund, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 1 |
-| 2021 | [Biochar produced from wood waste for soil remediation in Sweden: Carbon sequestration and other environmental impacts](https://doi.org/10.1016/j.scitotenv.2021.145953)<br><small>The Science of The Total Environment · with Asterios Papageorgiou, Anja Enell, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 103 |
-| 2021 | [Assessing the diverse environmental effects of biochar systems: An evaluation framework](https://doi.org/10.1016/j.jenvman.2021.112154)<br><small>Journal of Environmental Management · with Erik Karltun, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 44 |
+| 2021 | [Biochar produced from wood waste for soil remediation in Sweden: Carbon sequestration and other environmental impacts](https://doi.org/10.1016/j.scitotenv.2021.145953)<br><small>The Science of The Total Environment · with Asterios Papageorgiou, Anja Enell, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 112 |
+| 2021 | [Assessing the diverse environmental effects of biochar systems: An evaluation framework](https://doi.org/10.1016/j.jenvman.2021.112154)<br><small>Journal of Environmental Management · with Erik Karltun, [Cecilia Sundberg](/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/)</small> | Biochar | 46 |
 
 ---
 

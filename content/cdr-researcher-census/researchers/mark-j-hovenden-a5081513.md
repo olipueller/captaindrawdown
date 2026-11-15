@@ -1,7 +1,7 @@
 ---
 title: "Mark J. Hovenden"
-description: "Mark J. Hovenden, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4973 by activity, 88 by citations). 158 publications, h-index 35, 5,910 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mark J. Hovenden, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4973 by activity, 88 by citations). 148 publications, h-index 37, 6,361 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/mark-j-hovenden-a5081513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4973 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>35</td></tr>
-  <tr><th>Citations</th><td>5,910</td></tr>
-  <tr><th>Publications</th><td>158</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.6%</td></tr>
+  <tr><th>h-index</th><td>37</td></tr>
+  <tr><th>Citations</th><td>6,361</td></tr>
+  <tr><th>Publications</th><td>148</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7208-9700">ORCID</a> · <a href="https://openalex.org/A5081513207">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Forensic carbon accounting: Assessing the role of seaweeds for carbon sequestration](https://doi.org/10.1111/jpy.13249)<br><small>Journal of Phycology · with [Catriona L. Hurd](/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/), [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/), [Damon Britton](/cdr-researcher-census/researchers/damon-britton-a5004968/), [Ellie R. Paine](/cdr-researcher-census/researchers/ellie-r-paine-a5004557/), [John A. Raven](/cdr-researcher-census/researchers/john-a-raven-a5041675/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/) and 2 more</small> | Ocean CDR | 179 |
+| 2022 | [Forensic carbon accounting: Assessing the role of seaweeds for carbon sequestration](https://doi.org/10.1111/jpy.13249)<br><small>Journal of Phycology · with [Catriona L. Hurd](/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/), [Cliff S. Law](/cdr-researcher-census/researchers/cliff-s-law-a5017572/), [Damon Britton](/cdr-researcher-census/researchers/damon-britton-a5004968/), [Ellie R. Paine](/cdr-researcher-census/researchers/ellie-r-paine-a5004557/), [John A. Raven](/cdr-researcher-census/researchers/john-a-raven-a5041675/), [Lennart T. Bach](/cdr-researcher-census/researchers/lennart-t-bach-a5044360/) and 2 more</small> | Ocean CDR | 199 |
 
 ---
 

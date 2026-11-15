@@ -1,7 +1,7 @@
 ---
 title: "Mingjing He"
-description: "Mingjing He, Hong Kong Polytechnic University, Hong Kong. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 4050 by activity, 55 by citations). 35 publications, h-index 22, 4,891 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mingjing He, Hong Kong Polytechnic University, Hong Kong. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 4050 by activity, 55 by citations). 35 publications, h-index 23, 5,231 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/mingjing-he-a5068928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,8 +31,8 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 4050 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>22</td></tr>
-  <tr><th>Citations</th><td>4,891</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>5,231</td></tr>
   <tr><th>Publications</th><td>35</td></tr>
   <tr><th>Share of publications on CDR</th><td>8.6%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Life-cycle assessment of pyrolysis processes for sustainable production of biochar from agro-residues](https://doi.org/10.1016/j.biortech.2022.127601)<br><small>Bioresource Technology · with Xiefei Zhu, [Chunfei Wu](/cdr-researcher-census/researchers/chunfei-wu-a5032589/), Claudia Labianca, [Siming You](/cdr-researcher-census/researchers/siming-you-a5083497/), Zejun Luo, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 249 |
-| 2021 | [Insights into the adsorption of pharmaceuticals and personal care products (PPCPs) on biochar and activated carbon with the aid of machine learning](https://doi.org/10.1016/j.jhazmat.2021.127060)<br><small>Journal of Hazardous Materials · with Xinzhe Zhu, [Daniel S. Alessi](/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/), [Deyi Hou](/cdr-researcher-census/researchers/deyi-hou-a5065266/), [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/), [Zhonghao Wan](/cdr-researcher-census/researchers/zhonghao-wan-a5069468/), [Zibo Xu](/cdr-researcher-census/researchers/zibo-xu-a5007009/) and 1 more</small> | Biochar | 214 |
-| 2021 | [Impacts of different activation processes on the carbon stability of biochar for oxidation resistance](https://doi.org/10.1016/j.biortech.2021.125555)<br><small>Bioresource Technology · with [Zibo Xu](/cdr-researcher-census/researchers/zibo-xu-a5007009/), [Xiaoyun Xu](/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/), [Xinde Cao](/cdr-researcher-census/researchers/xinde-cao-a5010856/), [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 169 |
+| 2022 | [Life-cycle assessment of pyrolysis processes for sustainable production of biochar from agro-residues](https://doi.org/10.1016/j.biortech.2022.127601)<br><small>Bioresource Technology · with Xiefei Zhu, [Chunfei Wu](/cdr-researcher-census/researchers/chunfei-wu-a5032589/), Claudia Labianca, [Siming You](/cdr-researcher-census/researchers/siming-you-a5083497/), Zejun Luo, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 271 |
+| 2021 | [Insights into the adsorption of pharmaceuticals and personal care products (PPCPs) on biochar and activated carbon with the aid of machine learning](https://doi.org/10.1016/j.jhazmat.2021.127060)<br><small>Journal of Hazardous Materials · with Xinzhe Zhu, [Daniel S. Alessi](/cdr-researcher-census/researchers/daniel-s-alessi-a5054059/), [Deyi Hou](/cdr-researcher-census/researchers/deyi-hou-a5065266/), [Yuqing Sun](/cdr-researcher-census/researchers/yuqing-sun-a5014667/), [Zhonghao Wan](/cdr-researcher-census/researchers/zhonghao-wan-a5069468/), [Zibo Xu](/cdr-researcher-census/researchers/zibo-xu-a5007009/) and 1 more</small> | Biochar | 215 |
+| 2021 | [Impacts of different activation processes on the carbon stability of biochar for oxidation resistance](https://doi.org/10.1016/j.biortech.2021.125555)<br><small>Bioresource Technology · with [Zibo Xu](/cdr-researcher-census/researchers/zibo-xu-a5007009/), [Xiaoyun Xu](/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/), [Xinde Cao](/cdr-researcher-census/researchers/xinde-cao-a5010856/), [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 171 |
 
 ---
 

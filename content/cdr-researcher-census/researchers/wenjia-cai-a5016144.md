@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Cai"
-description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 98 by activity, 66 by citations). 248 publications, h-index 58, 35,557 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:24+00:00
+description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 98 by activity, 66 by citations). 254 publications, h-index 60, 25,417 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/wenjia-cai-a5016144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 98 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>58</td></tr>
-  <tr><th>Citations</th><td>35,557</td></tr>
-  <tr><th>Publications</th><td>248</td></tr>
+  <tr><th>h-index</th><td>60</td></tr>
+  <tr><th>Citations</th><td>25,417</td></tr>
+  <tr><th>Publications</th><td>254</td></tr>
   <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4436-512X">ORCID</a> · <a href="https://openalex.org/A5016144119">OpenAlex</a></td></tr>
@@ -47,13 +47,13 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China](https://doi.org/10.1007/s42773-025-00564-x)<br><small>Biochar · with Mengjie Han, Chenyi Yuan, Dabo Guan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Jianxiang Shen, Jiaxin Zhou and 9 more</small> | BECCS; Biochar | 0 |
+| 2026 | [Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China](https://doi.org/10.1007/s42773-025-00564-x)<br><small>Biochar · with Mengjie Han, Chenyi Yuan, Dabo Guan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Jianxiang Shen, Jiaxin Zhou and 11 more</small> | BECCS; Biochar | 1 |
 | 2026 | [Enhanced weathering and biochar can contribute over 50% of carbon removal while reducing costs and resource depletion in China](https://doi.org/10.5194/egusphere-egu26-8183)<br><small>with Rui Wang, [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), Giulio Pistolesi, Isabela Schmidt Tagomori, [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), [Vassilis Daioglou](/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/) and 2 more</small> | BECCS; DAC | 0 |
 | 2026 | [Integrating Health Co-benefits into Climate Mitigation Policymaking](https://doi.org/10.5194/egusphere-egu26-16575)<br><small>with Jianxiang Shen</small> | Cross-cutting CDR | 0 |
 | 2023 | [The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future](https://doi.org/10.1016/s2468-2667(23)00245-1)<br><small>The Lancet Public Health · with Shihui Zhang, Bing Xu, Bo Lü, Borong Lin, Can Wang, Chao Ren and 69 more</small> | Cross-cutting CDR | 96 |
 | 2023 | [Towards carbon-neutral sustainable development of China](https://doi.org/10.1088/1748-9326/acd12e)<br><small>Environmental Research Letters · with Jintai Lin, Ji Nie, Tao Wang, Xu Yue, Yu Liu, Qiang Zhang</small> | Cross-cutting CDR | 12 |
-| 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263)<br><small>Applied Energy · with [Yuwei Weng](/cdr-researcher-census/researchers/yuwei-weng-a5044770/), [Can Wang](/cdr-researcher-census/researchers/can-wang-a5100428/)</small> | BECCS | 185 |
-| 2021 | [A fine-resolution estimation of the biomass resource potential across China from 2020 to 2100](https://doi.org/10.1016/j.resconrec.2021.105944)<br><small>Resources Conservation and Recycling · with Yaoyu Nie, [Can Wang](/cdr-researcher-census/researchers/can-wang-a5100428/), Guorui Huang, Haoran Li, Jin Li, Jingying Fu and 4 more</small> | BECCS | 36 |
+| 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263)<br><small>Applied Energy · with Yuwei Weng, [Can Wang](/cdr-researcher-census/researchers/can-wang-a5100428/)</small> | BECCS | 188 |
+| 2021 | [A fine-resolution estimation of the biomass resource potential across China from 2020 to 2100](https://doi.org/10.1016/j.resconrec.2021.105944)<br><small>Resources Conservation and Recycling · with Yaoyu Nie, [Can Wang](/cdr-researcher-census/researchers/can-wang-a5100428/), Guorui Huang, Haoran Li, Jin Li, Jingying Fu and 4 more</small> | BECCS | 37 |
 
 ---
 

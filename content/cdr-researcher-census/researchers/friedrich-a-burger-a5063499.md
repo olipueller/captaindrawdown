@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
-description: "Friedrich A. Burger, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 9 by activity, 2375 by citations; Europe rank 7 by activity, 684 by citations). 81 publications, h-index 13, 1,088 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Friedrich A. Burger, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 9 by activity, 2375 by citations; Europe rank 7 by activity, 684 by citations). 59 publications, h-index 16, 1,270 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 9 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2375 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 684 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>13</td></tr>
-  <tr><th>Citations</th><td>1,088</td></tr>
-  <tr><th>Publications</th><td>81</td></tr>
-  <tr><th>Share of publications on CDR</th><td>19.8%</td></tr>
+  <tr><th>h-index</th><td>16</td></tr>
+  <tr><th>Citations</th><td>1,270</td></tr>
+  <tr><th>Publications</th><td>59</td></tr>
+  <tr><th>Share of publications on CDR</th><td>27.1%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7781-8498">ORCID</a> · <a href="https://openalex.org/A5063499543">OpenAlex</a></td></tr>
 </table>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
+| 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://openalex.org/W7161565573)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 6 |
 | 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://doi.org/10.5194/egusphere-2026-255)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 2 |
-| 2026 | [Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement](https://openalex.org/W7160897274)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), Urs Hofmann Elizondo, [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 2 |
-| 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://openalex.org/W7161565573)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 2 |
+| 2026 | [Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement](https://openalex.org/W7160897274)<br><small>with [Hendrik Großelindemann](/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/), Urs Hofmann Elizondo, [Thomas L. Frölicher](/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/)</small> | Ocean CDR | 1 |
 | 2026 | [Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"](https://openalex.org/W7154272919) | Ocean CDR | 0 |
 | 2026 | [Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"](https://openalex.org/W7154278765) | Ocean CDR | 0 |
 | 2026 | [Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"](https://openalex.org/W7154330080) | Ocean CDR | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Thea Whitman"
-description: "Thea Whitman, University of British Columbia, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 17344 by activity, 11 by citations). 1121 publications, h-index 31, 5,677 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Thea Whitman, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 17344 by activity, 11 by citations). 1782 publications, h-index 33, 5,864 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/thea-whitman-a5071400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thea-whitman-a5071400/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of British Columbia"
+    "name": "University of Wisconsin\u2013Madison"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2269-5598",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of British Columbia</td></tr>
-  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Institution</th><td>University of Wisconsin–Madison</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>worldwide: rank 17344 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>31</td></tr>
-  <tr><th>Citations</th><td>5,677</td></tr>
-  <tr><th>Publications</th><td>1121</td></tr>
-  <tr><th>Share of publications on CDR</th><td>0.3%</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>5,864</td></tr>
+  <tr><th>Publications</th><td>1782</td></tr>
+  <tr><th>Share of publications on CDR</th><td>0.2%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2269-5598">ORCID</a> · <a href="https://openalex.org/A5071400992">OpenAlex</a></td></tr>
 </table>
@@ -48,7 +48,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2022 | [Effects of physical, chemical, and biological ageing on the mineralization of pine wood biochar by a Streptomyces isolate](https://doi.org/10.1371/journal.pone.0265663)<br><small>PLoS ONE · with Nayela Zeba, Kevin Panke-Buisse, Timothy D. Berry</small> | Biochar | 40 |
-| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/) and 2 more</small> | Biochar | 949 |
+| 2021 | [Biochar in climate change mitigation](https://doi.org/10.1038/s41561-021-00852-8)<br><small>Nature Geoscience · with [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Caroline A. Masiello](/cdr-researcher-census/researchers/caroline-a-masiello-a5067862/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), [Dominic Woolf](/cdr-researcher-census/researchers/dominic-woolf-a5010625/), [James E. Amonette](/cdr-researcher-census/researchers/james-e-amonette-a5047097/) and 2 more</small> | Biochar | 1,051 |
 
 ---
 

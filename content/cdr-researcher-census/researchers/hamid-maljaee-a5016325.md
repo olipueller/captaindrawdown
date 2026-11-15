@@ -1,7 +1,7 @@
 ---
 title: "Hamid Maljaee"
-description: "Hamid Maljaee, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3296 by activity, 48 by citations). 20 publications, h-index 11, 889 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Hamid Maljaee, Riscos e Sustentabilidade na Construção, Portugal. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3296 by activity, 48 by citations). 21 publications, h-index 12, 955 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/hamid-maljaee-a5016325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hamid-maljaee-a5016325/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Aveiro"
+    "name": "Riscos e Sustentabilidade na Constru\u00e7\u00e3o"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1429-8621",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>University of Aveiro</td></tr>
+  <tr><th>Institution</th><td>Riscos e Sustentabilidade na Construção</td></tr>
   <tr><th>Country</th><td>Portugal</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 3296 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>11</td></tr>
-  <tr><th>Citations</th><td>889</td></tr>
-  <tr><th>Publications</th><td>20</td></tr>
-  <tr><th>Share of publications on CDR</th><td>5.0%</td></tr>
+  <tr><th>h-index</th><td>12</td></tr>
+  <tr><th>Citations</th><td>955</td></tr>
+  <tr><th>Publications</th><td>21</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1429-8621">ORCID</a> · <a href="https://openalex.org/A5016325847">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Incorporation of biochar in cementitious materials: A roadmap of biochar selection](https://doi.org/10.1016/j.conbuildmat.2021.122757)<br><small>Construction and Building Materials · with [Helena Paiva](/cdr-researcher-census/researchers/helena-paiva-a5085536/), [L.A.C. Tarelho](/cdr-researcher-census/researchers/lac-tarelho-a5044429/), Rozita Madadi, [Victor Ferreira](/cdr-researcher-census/researchers/victor-ferreira-a5024064/)</small> | Biochar | 251 |
+| 2021 | [Incorporation of biochar in cementitious materials: A roadmap of biochar selection](https://doi.org/10.1016/j.conbuildmat.2021.122757)<br><small>Construction and Building Materials · with [Helena Paiva](/cdr-researcher-census/researchers/helena-paiva-a5085536/), [L.A.C. Tarelho](/cdr-researcher-census/researchers/lac-tarelho-a5044429/), Rozita Madadi, [Victor Ferreira](/cdr-researcher-census/researchers/victor-ferreira-a5024064/)</small> | Biochar | 268 |
 
 ---
 

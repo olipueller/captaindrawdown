@@ -1,7 +1,7 @@
 ---
 title: "Jiangjiang Wang"
-description: "Jiangjiang Wang, North China Electric Power University - Baoding Campus, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10628 by activity, 25 by citations). 282 publications, h-index 54, 13,066 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Jiangjiang Wang, North China Electric Power University, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10628 by activity, 25 by citations). 268 publications, h-index 55, 13,530 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/jiangjiang-wang-a5078303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiangjiang-wang-a5078303/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North China Electric Power University - Baoding Campus"
+    "name": "North China Electric Power University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4920-9035",
@@ -26,14 +26,14 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>North China Electric Power University - Baoding Campus</td></tr>
+  <tr><th>Institution</th><td>North China Electric Power University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10628 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
-  <tr><th>h-index</th><td>54</td></tr>
-  <tr><th>Citations</th><td>13,066</td></tr>
-  <tr><th>Publications</th><td>282</td></tr>
+  <tr><th>h-index</th><td>55</td></tr>
+  <tr><th>Citations</th><td>13,530</td></tr>
+  <tr><th>Publications</th><td>268</td></tr>
   <tr><th>Share of publications on CDR</th><td>0.4%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4920-9035">ORCID</a> · <a href="https://openalex.org/A5078303039">OpenAlex</a></td></tr>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Circular economy strategies for combating climate change and other environmental issues](https://doi.org/10.1007/s10311-022-01499-6)<br><small>Environmental Chemistry Letters · with [Mingyu Yang](/cdr-researcher-census/researchers/mingyu-yang-a5065699/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Goodluck Msigwa](/cdr-researcher-census/researchers/goodluck-msigwa-a5005216/), [Lin Chen](/cdr-researcher-census/researchers/lin-chen-a5101747/), [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/) and 1 more</small> | Cross-cutting CDR | 823 |
+| 2022 | [Circular economy strategies for combating climate change and other environmental issues](https://doi.org/10.1007/s10311-022-01499-6)<br><small>Environmental Chemistry Letters · with [Mingyu Yang](/cdr-researcher-census/researchers/mingyu-yang-a5065699/), [Ahmed I. Osman](/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/), [David W. Rooney](/cdr-researcher-census/researchers/david-w-rooney-a5103043/), [Goodluck Msigwa](/cdr-researcher-census/researchers/goodluck-msigwa-a5005216/), [Lin Chen](/cdr-researcher-census/researchers/lin-chen-a5101747/), [Samer Fawzy](/cdr-researcher-census/researchers/samer-fawzy-a5023515/) and 1 more</small> | Cross-cutting CDR | 1,005 |
 
 ---
 

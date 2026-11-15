@@ -1,7 +1,7 @@
 ---
 title: "KeChrist Obileke"
-description: "KeChrist Obileke, University of Fort Hare, South Africa. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5386 by activity, 23 by citations). 56 publications, h-index 19, 2,407 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "KeChrist Obileke, University of Fort Hare, South Africa. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5386 by activity, 23 by citations). 56 publications, h-index 20, 2,763 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/kechrist-obileke-a5067258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,9 +30,9 @@ robots: "index, follow"
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5386 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>19</td></tr>
-  <tr><th>Citations</th><td>2,407</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>20</td></tr>
+  <tr><th>Citations</th><td>2,763</td></tr>
   <tr><th>Publications</th><td>56</td></tr>
   <tr><th>Share of publications on CDR</th><td>5.4%</td></tr>
   <tr><th>Trajectory</th><td>Exiting</td></tr>
@@ -47,9 +47,9 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Enhancing carbon neutrality: the role of biomass in CO2 uptake](https://doi.org/10.1016/b978-0-443-22127-9.00003-2)<br><small>Elsevier eBooks · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/)</small> | BECCS | 9 |
+| 2024 | [Enhancing carbon neutrality: the role of biomass in CO2 uptake](https://doi.org/10.1016/b978-0-443-22127-9.00003-2)<br><small>Elsevier eBooks · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/)</small> | BECCS | 10 |
 | 2024 | [Sustainability evaluation of current biogas upgrading techniques](https://doi.org/10.1016/b978-0-443-22372-3.00008-x)<br><small>Elsevier eBooks</small> | BECCS | 2 |
-| 2021 | [Minimizing carbon footprint via microalgae as a biological capture](https://doi.org/10.1016/j.ccst.2021.100007)<br><small>Carbon Capture Science & Technology · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/), [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/), [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/), [Zainab T. Al‐Sharify](/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/)</small> | Ocean CDR | 327 |
+| 2021 | [Minimizing carbon footprint via microalgae as a biological capture](https://doi.org/10.1016/j.ccst.2021.100007)<br><small>Carbon Capture Science & Technology · with [Helen Onyeaka](/cdr-researcher-census/researchers/helen-onyeaka-a5058807/), [Abarasi Hart](/cdr-researcher-census/researchers/abarasi-hart-a5005192/), [Christian Anumudu](/cdr-researcher-census/researchers/christian-anumudu-a5042861/), [Taghi Miri](/cdr-researcher-census/researchers/taghi-miri-a5063355/), [Zainab T. Al‐Sharify](/cdr-researcher-census/researchers/zainab-t-alsharify-a5072834/)</small> | Ocean CDR | 355 |
 
 ---
 

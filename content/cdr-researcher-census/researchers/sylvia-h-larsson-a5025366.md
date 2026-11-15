@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Larsson"
-description: "Sylvia H. Larsson, RISE Research Institutes of Sweden, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 466 by activity, 17 by citations). 97 publications, h-index 33, 3,489 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Sylvia H. Larsson, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 466 by activity, 17 by citations). 93 publications, h-index 34, 3,638 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/sylvia-h-larsson-a5025366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sylvia-h-larsson-a5025366/",
   "affiliation": {
     "@type": "Organization",
-    "name": "RISE Research Institutes of Sweden"
+    "name": "Swedish University of Agricultural Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5647-3630",
@@ -26,15 +26,15 @@ robots: "index, follow"
 </script>
 
 <table class="company-facts cd-facts">
-  <tr><th>Institution</th><td>RISE Research Institutes of Sweden</td></tr>
+  <tr><th>Institution</th><td>Swedish University of Agricultural Sciences</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
   <tr><th>Top lists, Biochar</th><td>Europe: rank 466 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>33</td></tr>
-  <tr><th>Citations</th><td>3,489</td></tr>
-  <tr><th>Publications</th><td>97</td></tr>
-  <tr><th>Share of publications on CDR</th><td>4.1%</td></tr>
+  <tr><th>h-index</th><td>34</td></tr>
+  <tr><th>Citations</th><td>3,638</td></tr>
+  <tr><th>Publications</th><td>93</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.3%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5647-3630">ORCID</a> · <a href="https://openalex.org/A5025366942">OpenAlex</a></td></tr>
 </table>
@@ -47,10 +47,10 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Microalgae biomass as a sustainable precursor to produce nitrogen-doped biochar for efficient removal of emerging pollutants from aqueous media](https://openalex.org/W4221136916)<br><small>with María González‐Hourcade, [Alejandro Grimm](/cdr-researcher-census/researchers/alejandro-grimm-a5061702/), [Glaydson S. dos Reis](/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/), Van Minh Dinh, [Éder C. Lima](/cdr-researcher-census/researchers/eder-c-lima-a5011032/), Francesco G. Gentili</small> | Biochar | 183 |
-| 2022 | [A comparative study of chemical treatment by MgCl2, ZnSO4, ZnCl2, and KOH on physicochemical properties and acetaminophen adsorption performance of biobased porous materials from tree bark residues](https://doi.org/10.1016/j.colsurfa.2022.128626)<br><small>Colloids and Surfaces A Physicochemical and Engineering Aspects · with [Glaydson S. dos Reis](/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/), Guilherme Luiz Dotto, Manon Mathieu, Marine Guy, Mikael Thyrel, Mohamed Jebrane and 1 more</small> | Biochar | 122 |
-| 2022 | [Process Parameters Optimization, Characterization, and Application of KOH-Activated Norway Spruce Bark Graphitic Biochars for Efficient Azo Dye Adsorption](https://doi.org/10.3390/molecules27020456)<br><small>Molecules · with Marine Guy, Frédéric Rousseau, Guilherme Luiz Dotto, Helinando Pequeno de Oliveira, Ioannis Anastopoulos, Manon Mathieu and 4 more</small> | Biochar | 82 |
-| 2022 | [Hardwood spent mushroom substrate–based activated biochar as a sustainable bioresource for removal of emerging pollutants from wastewater](https://doi.org/10.1007/s13399-022-02618-7)<br><small>Biomass Conversion and Biorefinery · with [Alejandro Grimm](/cdr-researcher-census/researchers/alejandro-grimm-a5061702/), [Glaydson S. dos Reis](/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/), Jyri‐Pekka Mikkola, Van Minh Dinh, [Éder C. Lima](/cdr-researcher-census/researchers/eder-c-lima-a5011032/), Shaojun Xiong</small> | Biochar | 66 |
+| 2022 | [Microalgae biomass as a sustainable precursor to produce nitrogen-doped biochar for efficient removal of emerging pollutants from aqueous media](https://openalex.org/W4221136916)<br><small>with María González‐Hourcade, [Alejandro Grimm](/cdr-researcher-census/researchers/alejandro-grimm-a5061702/), [Glaydson S. dos Reis](/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/), [Van Minh Dinh](/cdr-researcher-census/researchers/van-minh-dinh-a5044864/), [Éder C. Lima](/cdr-researcher-census/researchers/eder-c-lima-a5011032/), Francesco G. Gentili</small> | Biochar | 190 |
+| 2022 | [A comparative study of chemical treatment by MgCl2, ZnSO4, ZnCl2, and KOH on physicochemical properties and acetaminophen adsorption performance of biobased porous materials from tree bark residues](https://doi.org/10.1016/j.colsurfa.2022.128626)<br><small>Colloids and Surfaces A Physicochemical and Engineering Aspects · with [Glaydson S. dos Reis](/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/), Guilherme Luiz Dotto, Manon Mathieu, Marine Guy, Mikael Thyrel, Mohamed Jebrane and 1 more</small> | Biochar | 129 |
+| 2022 | [Process Parameters Optimization, Characterization, and Application of KOH-Activated Norway Spruce Bark Graphitic Biochars for Efficient Azo Dye Adsorption](https://doi.org/10.3390/molecules27020456)<br><small>Molecules · with Marine Guy, Frédéric Rousseau, Guilherme Luiz Dotto, Helinando Pequeno de Oliveira, Ioannis Anastopoulos, Manon Mathieu and 4 more</small> | Biochar | 83 |
+| 2022 | [Hardwood spent mushroom substrate–based activated biochar as a sustainable bioresource for removal of emerging pollutants from wastewater](https://doi.org/10.1007/s13399-022-02618-7)<br><small>Biomass Conversion and Biorefinery · with [Alejandro Grimm](/cdr-researcher-census/researchers/alejandro-grimm-a5061702/), [Glaydson S. dos Reis](/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/), Jyri‐Pekka Mikkola, [Van Minh Dinh](/cdr-researcher-census/researchers/van-minh-dinh-a5044864/), [Éder C. Lima](/cdr-researcher-census/researchers/eder-c-lima-a5011032/), Shaojun Xiong</small> | Biochar | 69 |
 
 ---
 

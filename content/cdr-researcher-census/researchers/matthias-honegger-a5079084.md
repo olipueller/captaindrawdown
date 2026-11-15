@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
-description: "Matthias Honegger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 51 by activity, 140 by citations; Europe rank 36 by activity, 89 by citations). 57 publications, h-index 14, 946 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Matthias Honegger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 51 by activity, 140 by citations; Europe rank 36 by activity, 89 by citations). 82 publications, h-index 16, 1,121 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 51 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 140 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 89 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
-  <tr><th>h-index</th><td>14</td></tr>
-  <tr><th>Citations</th><td>946</td></tr>
-  <tr><th>Publications</th><td>57</td></tr>
-  <tr><th>Share of publications on CDR</th><td>29.8%</td></tr>
+  <tr><th>h-index</th><td>16</td></tr>
+  <tr><th>Citations</th><td>1,121</td></tr>
+  <tr><th>Publications</th><td>82</td></tr>
+  <tr><th>Share of publications on CDR</th><td>20.7%</td></tr>
   <tr><th>Trajectory</th><td>Declining</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0978-5759">ORCID</a> · <a href="https://openalex.org/A5079084697">OpenAlex</a></td></tr>
 </table>
@@ -47,23 +47,23 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Considering durability in carbon dioxide removal strategies for climate change mitigation](https://doi.org/10.1080/14693062.2025.2501267)<br><small>Climate Policy · with Charlotte Streck, Christian Barry, Deborah Lawrence, Eve Tamme, Garrett Cullity, Jason Funk and 8 more</small> | Cross-cutting CDR | 15 |
-| 2025 | [Review of Economics and Policies of Carbon Dioxide Removal](https://doi.org/10.1007/s40518-025-00252-1)<br><small>Current Sustainable/Renewable Energy Reports · with So‐Young Oh, Jenna Greene, Axel Michaelowa</small> | BECCS | 14 |
-| 2025 | [Exploring key dimensions of policy instruments for carbon dioxide removal](https://doi.org/10.1080/14693062.2025.2521118)<br><small>Climate Policy · with Malte Winkler, Alicia Vollmer, Antonia Holland-Cunz, Matthias Poralla, Soyoung Oh, Axel Michaelowa</small> | Cross-cutting CDR | 5 |
-| 2025 | [Effective and fair policy to mobilize industrial carbon dioxide removal](https://doi.org/10.1007/s11027-025-10235-8)<br><small>Mitigation and Adaptation Strategies for Global Change · with So‐Young Oh, Axel Michaelowa, Olivia Wallis, Samuel Eberenz, Matthias Poralla</small> | BECCS; DAC | 3 |
-| 2024 | [An earth system governance research agenda for carbon removal](https://doi.org/10.1016/j.esg.2024.100204)<br><small>Earth System Governance · with [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), Aarti Gupta, Amanda C. Borth, Calum Brown, Celina Scott-Buechler, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/) and 9 more</small> | Cross-cutting CDR | 12 |
+| 2025 | [Considering durability in carbon dioxide removal strategies for climate change mitigation](https://doi.org/10.1080/14693062.2025.2501267)<br><small>Climate Policy · with Charlotte Streck, Christian Barry, Deborah Lawrence, Eve Tamme, Garrett Cullity, Jason Funk and 8 more</small> | Cross-cutting CDR | 20 |
+| 2025 | [Review of Economics and Policies of Carbon Dioxide Removal](https://doi.org/10.1007/s40518-025-00252-1)<br><small>Current Sustainable/Renewable Energy Reports · with So‐Young Oh, Jenna Greene, Axel Michaelowa</small> | BECCS | 16 |
+| 2025 | [Exploring key dimensions of policy instruments for carbon dioxide removal](https://doi.org/10.1080/14693062.2025.2521118)<br><small>Climate Policy · with Malte Winkler, Alicia Vollmer, Antonia Holland-Cunz, Matthias Poralla, Soyoung Oh, Axel Michaelowa</small> | Cross-cutting CDR | 7 |
+| 2025 | [Effective and fair policy to mobilize industrial carbon dioxide removal](https://doi.org/10.1007/s11027-025-10235-8)<br><small>Mitigation and Adaptation Strategies for Global Change · with So‐Young Oh, Axel Michaelowa, Olivia Wallis, Samuel Eberenz, Matthias Poralla</small> | BECCS; DAC | 5 |
+| 2024 | [An earth system governance research agenda for carbon removal](https://doi.org/10.1016/j.esg.2024.100204)<br><small>Earth System Governance · with [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), Aarti Gupta, Amanda C. Borth, Calum Brown, Celina Scott-Buechler, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/) and 9 more</small> | Cross-cutting CDR | 13 |
 | 2024 | [Productive in disagreement: stakeholder deliberation insights on carbon dioxide removal in Germany](https://doi.org/10.3389/fclim.2024.1465613)<br><small>Frontiers in Climate · with Maria Apergi, Martin Hellmich, Sabine Reinecke, Samuel Eberenz, Dennis Tänzler</small> | Cross-cutting CDR | 5 |
-| 2023 | [International carbon markets for carbon dioxide removal](https://doi.org/10.1371/journal.pclm.0000118)<br><small>PLOS Climate · with Axel Michaelowa, Malte Winkler, Matthias Poralla, Sandra Dalfiume, Ankita Nayak</small> | Cross-cutting CDR | 54 |
-| 2023 | [Toward the effective and fair funding of CO2 removal technologies](https://doi.org/10.1038/s41467-023-36199-4)<br><small>Nature Communications</small> | Cross-cutting CDR | 25 |
+| 2023 | [International carbon markets for carbon dioxide removal](https://doi.org/10.1371/journal.pclm.0000118)<br><small>PLOS Climate · with Axel Michaelowa, Malte Winkler, Matthias Poralla, Sandra Dalfiume, Ankita Nayak</small> | Cross-cutting CDR | 67 |
+| 2023 | [Toward the effective and fair funding of CO2 removal technologies](https://doi.org/10.1038/s41467-023-36199-4)<br><small>Nature Communications</small> | Cross-cutting CDR | 28 |
 | 2023 | [Liability in Hubs](https://zenodo.org/record/7785870)<br><small>Zenodo (CERN European Organization for Nuclear Research)</small> | Cross-cutting CDR | 0 |
 | 2023 | [Accounting of leakage](https://zenodo.org/record/7785854)<br><small>Zenodo (CERN European Organization for Nuclear Research)</small> | Cross-cutting CDR | 0 |
 | 2023 | [Accounting of BECCS](https://zenodo.org/record/7785551)<br><small>Zenodo (CERN European Organization for Nuclear Research)</small> | BECCS | 0 |
 | 2023 | [Accounting Readiness](https://zenodo.org/record/7785975)<br><small>Zenodo (CERN European Organization for Nuclear Research)</small> | Cross-cutting CDR | 0 |
 | 2023 | [Accounting of DAC](https://zenodo.org/record/7785962)<br><small>Zenodo (CERN European Organization for Nuclear Research)</small> | Cross-cutting CDR | 0 |
-| 2022 | [The ABC of Governance Principles for Carbon Dioxide Removal Policy](https://doi.org/10.3389/fclim.2022.884163)<br><small>Frontiers in Climate · with Antonia Holland-Cunz, Axel Michaelowa, Benno Pokorny, Christian Baatz, Matthias Poralla, Samuel Eberenz and 1 more</small> | Cross-cutting CDR | 45 |
-| 2021 | [Who Is Paying for Carbon Dioxide Removal? Designing Policy Instruments for Mobilizing Negative Emissions Technologies](https://doi.org/10.3389/fclim.2021.672996)<br><small>Frontiers in Climate · with Axel Michaelowa, Matthias Poralla, Hanna-Mari Ahonen</small> | Cross-cutting CDR | 93 |
-| 2021 | [Is carbon dioxide removal ‘mitigation of climate change’?](https://doi.org/10.1111/reel.12401)<br><small>Review of European Comparative & International Environmental Law · with Wil Burns, David R. Morrow</small> | Cross-cutting CDR | 58 |
-| 2021 | [Sewage treatment for the skies: mobilising carbon dioxide removal through public policies and private financing](https://openalex.org/W3210700920)<br><small>Zurich Open Repository and Archive (University of Zurich) · with Matthias Poralla, Axel Michaelowa, Hanna-Mari Ahonen, Anne‐Kathrin Weber</small> | Cross-cutting CDR | 5 |
+| 2022 | [The ABC of Governance Principles for Carbon Dioxide Removal Policy](https://doi.org/10.3389/fclim.2022.884163)<br><small>Frontiers in Climate · with Antonia Holland-Cunz, Axel Michaelowa, Benno Pokorny, Christian Baatz, Matthias Poralla, Samuel Eberenz and 1 more</small> | Cross-cutting CDR | 52 |
+| 2021 | [Who Is Paying for Carbon Dioxide Removal? Designing Policy Instruments for Mobilizing Negative Emissions Technologies](https://doi.org/10.3389/fclim.2021.672996)<br><small>Frontiers in Climate · with Axel Michaelowa, Matthias Poralla, Hanna-Mari Ahonen</small> | Cross-cutting CDR | 108 |
+| 2021 | [Is carbon dioxide removal ‘mitigation of climate change’?](https://doi.org/10.1111/reel.12401)<br><small>Review of European Comparative & International Environmental Law · with Wil Burns, David R. Morrow</small> | Cross-cutting CDR | 65 |
+| 2021 | [Sewage treatment for the skies: mobilising carbon dioxide removal through public policies and private financing](https://openalex.org/W3210700920)<br><small>Zurich Open Repository and Archive (University of Zurich) · with Matthias Poralla, Axel Michaelowa, Hanna-Mari Ahonen, Anne‐Kathrin Weber</small> | Cross-cutting CDR | 6 |
 
 ---
 

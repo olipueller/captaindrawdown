@@ -1,7 +1,7 @@
 ---
 title: "Quinn Zacharias"
-description: "Quinn Zacharias, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 68 by activity, 1950 by citations). 10 publications, h-index 2, 17 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Quinn Zacharias, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 68 by activity, 1950 by citations). 8 publications, h-index 2, 18 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/quinn-zacharias-a5086059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 68 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1950 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
-  <tr><th>Citations</th><td>17</td></tr>
-  <tr><th>Publications</th><td>10</td></tr>
-  <tr><th>Share of publications on CDR</th><td>80.0%</td></tr>
+  <tr><th>Citations</th><td>18</td></tr>
+  <tr><th>Publications</th><td>8</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
   <tr><th>Trajectory</th><td>Growing</td></tr>
   <tr><th>Profiles</th><td><a href="https://openalex.org/A5086059587">OpenAlex</a></td></tr>
 </table>
@@ -45,7 +45,7 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed](https://doi.org/10.1007/s10705-026-10476-2)<br><small>Nutrient Cycling in Agroecosystems · with David A. Foster, David Foster, Emmanuel Nyavor, Evelin Pihlap, [Fengchao Sun](/cdr-researcher-census/researchers/fengchao-sun-a5138922/), Joshua L. Warren and 6 more</small> | Enhanced Weathering | 3 |
-| 2026 | [Evaluating trace-metal responses to field deployment of enhanced rock weathering across agricultural and riparian soils](https://doi.org/10.70212/cdrxiv.2026463.v1)<br><small>with [Fengchao Sun](/cdr-researcher-census/researchers/fengchao-sun-a5138922/), Joshua L. Warren, [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), Robert M. Rioux, Wyatt Tagte, [James E. Saiers](/cdr-researcher-census/researchers/james-e-saiers-a5029882/)</small> | Enhanced Weathering | 1 |
+| 2026 | [Evaluating trace-metal responses to field deployment of enhanced rock weathering across agricultural and riparian soils](https://doi.org/10.70212/cdrxiv.2026463.v1)<br><small>with [Fengchao Sun](/cdr-researcher-census/researchers/fengchao-sun-a5138922/), Joshua L. Warren, [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), Robert A. Rioux, Robert M. Rioux, Wyatt Tagte and 1 more</small> | Enhanced Weathering | 1 |
 | 2026 | [Repurposing enhanced rock weathering for brownfield cleanup: a practical carbonate–silicate remineralization method for stabilizing cationic metals in shallow soils](https://openalex.org/W7146948541) | Enhanced Weathering | 0 |
 | 2026 | [Repurposing Enhanced Rock Weathering for Cationic‐Metal Stabilization: A Nature‐Based Protocol for Contaminated‐Soil Remediation](https://openalex.org/W7211865998) | Enhanced Weathering | 0 |
 | 2026 | [Multiple lines of evidence reveal rapid, seasonal watershed responses to enhanced weathering](https://openalex.org/W7214892934)<br><small>with [Fengchao Sun](/cdr-researcher-census/researchers/fengchao-sun-a5138922/), Aaron A. MacDonald, Boriana Kalderon-Asael, Esmeralda Garcia, James B. Shanley, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/) and 6 more</small> | Enhanced Weathering | 0 |

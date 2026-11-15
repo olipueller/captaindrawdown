@@ -1,7 +1,7 @@
 ---
 title: "Alexander Sauer"
-description: "Alexander Sauer, University of Stuttgart, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 42 by activity, 104 by citations; Europe rank 28 by activity, 44 by citations). 322 publications, h-index 23, 2,303 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Alexander Sauer, University of Stuttgart, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 42 by activity, 104 by citations; Europe rank 28 by activity, 44 by citations). 335 publications, h-index 25, 2,606 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/alexander-sauer-a5037568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
   <tr><th>Top lists, BECCS</th><td>worldwide: rank 42 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 104 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 28 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>23</td></tr>
-  <tr><th>Citations</th><td>2,303</td></tr>
-  <tr><th>Publications</th><td>322</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
+  <tr><th>h-index</th><td>25</td></tr>
+  <tr><th>Citations</th><td>2,606</td></tr>
+  <tr><th>Publications</th><td>335</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3822-1514">ORCID</a> · <a href="https://openalex.org/A5037568055">OpenAlex</a></td></tr>
 </table>
@@ -48,12 +48,12 @@ robots: "index, follow"
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Towards a circular bioeconomy: A bi-criteria site level decision support for potential cluster nodes exemplified by hydrogen production in Baden-Württemberg](https://doi.org/10.1016/j.jclepro.2026.147589)<br><small>Journal of Cleaner Production · with Steffen Kiemel, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Simon Glöser‐Chahoud, Yuanxin Song</small> | BECCS | 0 |
-| 2023 | [Carbon-negative hydrogen production (HyBECCS): An exemplary techno-economic and environmental assessment](https://doi.org/10.1016/j.ijhydene.2023.09.252)<br><small>International Journal of Hydrogen Energy · with [Johannes Full](/cdr-researcher-census/researchers/johannes-full-a5008596/), Marcel Geller, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Sonja Ziehn, Tobias Schließ</small> | BECCS | 28 |
-| 2023 | [Perspectives of Biogas Plants as BECCS Facilities: A Comparative Analysis of Biomethane vs. Biohydrogen Production with Carbon Capture and Storage or Use (CCS/CCU)](https://doi.org/10.3390/en16135066)<br><small>Energies · with [Johannes Full](/cdr-researcher-census/researchers/johannes-full-a5008596/), Edgar Gamero, Hans‐Peter Schmid, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Silja Hohmann, Sonja Ziehn and 1 more</small> | BECCS | 22 |
-| 2022 | [Carbon‐negative hydrogen production: Fundamentals for a techno‐economic and environmental assessment of HyBECCS approaches](https://doi.org/10.1111/gcbb.12932)<br><small>GCB Bioenergy · with [Johannes Full](/cdr-researcher-census/researchers/johannes-full-a5008596/), Marcel Geller, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Sonja Ziehn</small> | BECCS | 27 |
-| 2022 | [Biogas Plants as Hydrogen Production Facilities and Greenhouse Gas Sinks: Technology Comparison, Challenges and Potentials for Carbon Negative Hydrogen Production (HyBECCS)](https://doi.org/10.1016/j.procir.2022.04.031)<br><small>Procedia CIRP · with [Johannes Full](/cdr-researcher-census/researchers/johannes-full-a5008596/), [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Yannick Baumgarten, Yağmur Damla Dokur</small> | BECCS | 7 |
-| 2021 | [A New Perspective for Climate Change Mitigation—Introducing Carbon-Negative Hydrogen Production from Biomass with Carbon Capture and Storage (HyBECCS)](https://doi.org/10.3390/su13074026)<br><small>Sustainability · with [Johannes Full](/cdr-researcher-census/researchers/johannes-full-a5008596/), [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Steffen Merseburg</small> | BECCS | 62 |
-| 2021 | [Carbon-Negative Hydrogen Production (HyBECCS) from Organic Waste Materials in Germany: How to Estimate Bioenergy and Greenhouse Gas Mitigation Potential](https://doi.org/10.3390/en14227741)<br><small>Energies · with [Johannes Full](/cdr-researcher-census/researchers/johannes-full-a5008596/), Mathias Trauner, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/)</small> | BECCS | 22 |
+| 2023 | [Carbon-negative hydrogen production (HyBECCS): An exemplary techno-economic and environmental assessment](https://doi.org/10.1016/j.ijhydene.2023.09.252)<br><small>International Journal of Hydrogen Energy · with Johannes Full, Marcel Geller, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Sonja Ziehn, Tobias Schließ</small> | BECCS | 28 |
+| 2023 | [Perspectives of Biogas Plants as BECCS Facilities: A Comparative Analysis of Biomethane vs. Biohydrogen Production with Carbon Capture and Storage or Use (CCS/CCU)](https://doi.org/10.3390/en16135066)<br><small>Energies · with Johannes Full, Edgar Gamero, Hans‐Peter Schmid, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Silja Hohmann, Sonja Ziehn and 1 more</small> | BECCS | 24 |
+| 2022 | [Carbon‐negative hydrogen production: Fundamentals for a techno‐economic and environmental assessment of HyBECCS approaches](https://doi.org/10.1111/gcbb.12932)<br><small>GCB Bioenergy · with Johannes Full, Marcel Geller, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Sonja Ziehn</small> | BECCS | 27 |
+| 2022 | [Biogas Plants as Hydrogen Production Facilities and Greenhouse Gas Sinks: Technology Comparison, Challenges and Potentials for Carbon Negative Hydrogen Production (HyBECCS)](https://doi.org/10.1016/j.procir.2022.04.031)<br><small>Procedia CIRP · with Johannes Full, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Yannick Baumgarten, Yağmur Damla Dokur</small> | BECCS | 7 |
+| 2021 | [A New Perspective for Climate Change Mitigation—Introducing Carbon-Negative Hydrogen Production from Biomass with Carbon Capture and Storage (HyBECCS)](https://doi.org/10.3390/su13074026)<br><small>Sustainability · with Johannes Full, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/), Steffen Merseburg</small> | BECCS | 69 |
+| 2021 | [Carbon-Negative Hydrogen Production (HyBECCS) from Organic Waste Materials in Germany: How to Estimate Bioenergy and Greenhouse Gas Mitigation Potential](https://doi.org/10.3390/en14227741)<br><small>Energies · with Johannes Full, Mathias Trauner, [Robert Miehe](/cdr-researcher-census/researchers/robert-miehe-a5070424/)</small> | BECCS | 22 |
 
 ---
 

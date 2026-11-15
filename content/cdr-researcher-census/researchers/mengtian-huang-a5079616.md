@@ -1,7 +1,7 @@
 ---
 title: "Mengtian Huang"
-description: "Mengtian Huang, China Meteorological Administration, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11980 by activity, 87 by citations). 79 publications, h-index 32, 14,035 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Mengtian Huang, China Meteorological Administration, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11980 by activity, 87 by citations). 75 publications, h-index 33, 14,613 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:06+00:00
 url: "/cdr-researcher-census/researchers/mengtian-huang-a5079616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,10 +31,10 @@ robots: "index, follow"
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
   <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 11980 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
-  <tr><th>h-index</th><td>32</td></tr>
-  <tr><th>Citations</th><td>14,035</td></tr>
-  <tr><th>Publications</th><td>79</td></tr>
-  <tr><th>Share of publications on CDR</th><td>2.5%</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>14,613</td></tr>
+  <tr><th>Publications</th><td>75</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.7%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1092-1562">ORCID</a> · <a href="https://openalex.org/A5079616465">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2021 | [Achieving Paris Agreement temperature goals requires carbon neutrality by middle century with far-reaching transitions in the whole society](https://doi.org/10.1016/j.accre.2021.03.004)<br><small>Advances in Climate Change Research · with [Panmao Zhai](/cdr-researcher-census/researchers/panmao-zhai-a5003077/)</small> | Cross-cutting CDR | 501 |
+| 2021 | [Achieving Paris Agreement temperature goals requires carbon neutrality by middle century with far-reaching transitions in the whole society](https://doi.org/10.1016/j.accre.2021.03.004)<br><small>Advances in Climate Change Research · with [Panmao Zhai](/cdr-researcher-census/researchers/panmao-zhai-a5003077/)</small> | Cross-cutting CDR | 527 |
 
 ---
 

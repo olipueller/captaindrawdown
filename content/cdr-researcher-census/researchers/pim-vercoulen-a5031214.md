@@ -1,7 +1,7 @@
 ---
 title: "Pim Vercoulen"
-description: "Pim Vercoulen, Cambridge Econometrics (United Kingdom), United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4367 by activity, 96 by citations). 17 publications, h-index 6, 1,067 citations (OpenAlex, all fields)."
-date: 2026-11-05T15:16:25+00:00
+description: "Pim Vercoulen, Cambridge Econometrics (United Kingdom), United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4367 by activity, 96 by citations). 21 publications, h-index 6, 1,297 citations (OpenAlex, all fields)."
+date: 2026-11-15T05:16:07+00:00
 url: "/cdr-researcher-census/researchers/pim-vercoulen-a5031214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -32,9 +32,9 @@ robots: "index, follow"
   <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4367 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
-  <tr><th>Citations</th><td>1,067</td></tr>
-  <tr><th>Publications</th><td>17</td></tr>
-  <tr><th>Share of publications on CDR</th><td>5.9%</td></tr>
+  <tr><th>Citations</th><td>1,297</td></tr>
+  <tr><th>Publications</th><td>21</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
   <tr><th>Trajectory</th><td>Stable</td></tr>
   <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2468-5513">ORCID</a> · <a href="https://openalex.org/A5031214393">OpenAlex</a></td></tr>
 </table>
@@ -47,7 +47,7 @@ robots: "index, follow"
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), [Jean-Francois Mecure](/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/), [Maria Val Martin](/cdr-researcher-census/researchers/maria-val-martin-a5037090/) and 10 more</small> | Enhanced Weathering | 165 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with [Euripides P. Kantzas](/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/), [Amy L. Lewis](/cdr-researcher-census/researchers/amy-l-lewis-a5050000/), [Hector Pollitt](/cdr-researcher-census/researchers/hector-pollitt-a5034117/), Jean-Francois Mecure, [Jean-François Mercure](/cdr-researcher-census/researchers/jean-francois-mercure-a5082655/), [Lyla L. Taylor](/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/) and 11 more</small> | Enhanced Weathering | 184 |
 
 ---
 
