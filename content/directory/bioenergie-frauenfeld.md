@@ -30,6 +30,7 @@ Bioenergie Frauenfeld AG is a Swiss wood CHP plant operator jointly owned by Ene
 
 ## History
 
+- **2026-11-13** — News: Bioenergie Frauenfeld: More than 70% of all biochar carbon removal delivered worldwide in… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-542926d6ae99))
 - **2026-10-12** — News: Bioenergie Frauenfeld: Bioenergie Frauenfeld AG issues first Credits into Isometric registry We… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-d3b934415a1f))
 - **2026-09-06** — News: Bioenergie Frauenfeld: ð± Bioenergie Frauenfeld AG issues first Credits into Isometric… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-03ca7a7db669))
 - **2026-08-12** — News: Isometric: Isometric has certified its first carbon removal project in Switzerland. Bioenergie… ([source](https://www.linkedin.com/company/exponential-hq/#post-7fb5e90ba3e3))

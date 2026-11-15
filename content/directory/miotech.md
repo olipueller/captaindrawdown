@@ -5,7 +5,7 @@ type: "directory"
 description: "Through its carbon asset team, MioTech develops biochar CDR projects (pyrolysis of agricultural waste applied to farmland) registered on Puro.earth, with plans to diversify into geological storage…"
 url: "/directory/miotech/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Hong Kong</td></tr>
   <tr><th>Website</th><td><a href="https://www.miotech.com/" target="_blank" rel="noopener">https://www.miotech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/miotech/" target="_blank" rel="noopener">miotech</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ MioTech is a Hong Kong/Shanghai-based AI-powered ESG and sustainability data sof
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
 - **2026-09-15** — Status Suspect → Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
 - **2026-06-15** — Status Active → Suspect ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))
 - **2026-05-01** — Status Suspect → Active ([source](https://carbonfreeaviation.com/miotech-becomes-the-first-biochar-supplier-in-china-to-issue-corcs/))

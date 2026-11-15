@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes wood and agricultural waste into biochar, then compounds the biochar with bioplastic binders to produce injection-moldable thermoplastic granules used in long-lived products (facade panels…"
 url: "/directory/made-of-air/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.madeofair.com/" target="_blank" rel="noopener">https://www.madeofair.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/made-of-air/" target="_blank" rel="noopener">made-of-air</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Made of Air is a Berlin-based carbon-negative materials company, founded in 2016
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.materially.eu/en/made-of-air-2/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://www.materially.eu/en/made-of-air-2/))
 - **2026-08-06** — News: Made of Air: Sequoia façade panels weigh just 9.8 kg/m2 - significantly reducing structural load… ([source](https://www.linkedin.com/company/made-of-air/#post-30965abefb24))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://www.materially.eu/en/made-of-air-2/))

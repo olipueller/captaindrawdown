@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-cycle.de" target="_blank" rel="noopener">https://carbon-cycle.de</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-cycle-gmbh-%26-co.-kg/" target="_blank" rel="noopener">carbon-cycle-gmbh-%26-co.-kg</a></td></tr>
   <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +32,7 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-11-11** — News: Enhanced rock weathering for sustainable carbon capture: advances, challenges, and future… ([source](https://doi.org/10.1007/s11157-026-09793-3))
 - **2026-11-05** — News: Additionality of climate benefits from emission reduction and carbon dioxide removal ([source](https://doi.org/10.1088/1748-9326/aebb4e))
 - **2026-11-05** — News: Biochar as a sustainable strategy for greenhouse gas remediation and climate change mitigation ([source](https://doi.org/10.1007/s43621-026-05240-z))
 - **2026-11-01** — News: Biochar not only interrupts the carbon cycle by sequestering carbon. Biochar soil amendment retains ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mzb3qm62zc2q))
@@ -59,7 +62,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 - **2026-07-26** — News: How carbon dioxide removal lost its way: tracing the origin and transformation of the 10-Gt durable ([source](https://cdrxiv.org/preprint/330))
 - **2026-07-23** — News: Frontiers | Harnessing the microbial carbon pump: prospects and challenges for coastal carbon… ([source](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1897665/full))
 - **2026-07-22** — News: In terms of earth science the discovery of the beneficial impact of manufacturing biochar for use… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mraj37fqps2p))
-- **2026-07-21** — News: Bacillus subtilis-mediated weathering of basalt revealed through sporulation ([source](https://cdrxiv.org/preprint/480))
 
 ---
 

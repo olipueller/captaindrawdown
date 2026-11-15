@@ -34,6 +34,7 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 
 ## History
 
+- **2026-11-14** — News: CDR.fyi: This week saw some key developments in durable CDR, as carbon removal was included in... ([source](https://www.linkedin.com/company/cdr-fyi/#post-ae970693ba2c))
 - **2026-09-25** — News: Ucaneo: Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what… ([source](https://www.linkedin.com/company/ucaneo/#post-95614e29c79e))
 - **2026-08-20** — News: Ucaneo: Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what… ([source](https://www.linkedin.com/company/ucaneo/#post-c1c78251f64f))
 - **2026-07-30** — News: Ucaneo: Welcome to the CO2 Store of the Future. The world's first place where you can experience… ([source](https://www.linkedin.com/company/ucaneo/#post-85d8f4875d15))

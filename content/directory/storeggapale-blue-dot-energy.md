@@ -5,7 +5,7 @@ type: "directory"
 description: "Independent UK decarbonisation developer leading the Acorn CCS and hydrogen project at St Fergus and previously partnered with Carbon Engineering on a planned 0.5–1 Mt/yr DAC facility in north-east…"
 url: "/directory/storeggapale-blue-dot-energy/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://storegga.earth/" target="_blank" rel="noopener">https://storegga.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/storegga/" target="_blank" rel="noopener">storegga</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Storegga (holding company of Pale Blue Dot Energy) is a UK-based independent dev
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
 - **2026-07-22** — News: Storegga/Pale Blue Dot Energy: Today, we welcomed Chancellor of the Exchequer, Rt Hon Rachel… ([source](https://www.linkedin.com/company/storegga-geotechnologies/#post-acb6b9fc0770))
 - **2026-07-15** — Status Suspect → Likely Dead ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))

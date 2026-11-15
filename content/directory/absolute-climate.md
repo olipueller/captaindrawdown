@@ -29,6 +29,7 @@ Absolute Climate is an independent quality-assurance and standards developer for
 
 ## History
 
+- **2026-11-12** — News: Absolute Climate: Version 2.3 of the Absolute Carbon Standard (ACS) has been published for… ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-d28c79478e9b))
 - **2026-10-12** — News: Absolute Climate: Today, Absolute Climate is releasing our first environmental attribute… ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-2f54b4d57425))
 - **2026-09-07** — News: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for… ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
 - **2026-09-06** — News: Absolute Climate: ð£ There is one week left to provide your input on the future of carbon removal ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-0aba8abffd5a))

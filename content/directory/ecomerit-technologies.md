@@ -5,7 +5,7 @@ type: "directory"
 description: "Developing the Precipitor, an offshore wind-powered system that electrolyzes seawater and disperses an alkaline mist to react with atmospheric CO2, forming bicarbonate that sinks to the deep ocean."
 url: "/directory/ecomerit-technologies/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecomerittech.com/" target="_blank" rel="noopener">https://www.ecomerittech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecomerit-technologies/" target="_blank" rel="noopener">ecomerit-technologies</a></td></tr>
-  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Ecomerit Technologies is a Santa Barbara, California-based marine renewable ener
 
 ## History
 
+- **2026-11-15** — Status Suspect → Active ([source](https://ecomerittech.com/))
 - **2026-08-15** — Status Moderate → Suspect ([source](https://ecomerittech.com/))
 - **2026-04-19** — Classified as Ocean CDR, side business, 🟡 Moderate ([source](https://www.ecomerittech.com/))
 - **2026-04-19** — Classified as Ocean CDR, supplier, 🟡 Moderate ([source](https://www.precipitor.com/))

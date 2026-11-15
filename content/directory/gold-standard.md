@@ -30,6 +30,14 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-11-10** — News: We know how to remove CO2 from the air. We will use rocks for this – Adrian Podgórny (Green... ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
+- **2026-11-09** — News: Gold Standard Launches Biochar Methodology for 200-Year Carbon Removal ([source](https://onestopesg.com/esg-news/gold-standard-biochar-removal-methodology))
+- **2026-11-09** — News: Gold Standard releases PARC methodology for biochar carbon removal projects ([source](https://www.carbon.fyi/news/89c0d466))
+- **2026-11-09** — News: Agasco: Agasco is pleased to announce that we have received a Letter of Authorization (LoA) from... ([source](https://www.linkedin.com/company/agasco/#post-4aee65ea06b6))
+- **2026-11-09** — News: Taranis: Project announcement: Taranis launches Carraco ARR+, a landscape-scale nature-based... ([source](https://www.linkedin.com/company/taranis-investment/#post-14bc99d8a632))
+- **2026-11-07** — News: Andes: New carbon dioxide removal methodology published! Gold Standard has released a Microbial... ([source](https://www.linkedin.com/company/andesbio/#post-84deb749fb05))
+- **2026-11-07** — News: Abatable: Total retirements in the voluntary carbon market have held at around 180mn tonnes a year... ([source](https://www.linkedin.com/company/abatable/#post-fec846b3fe5e))
+- **2026-11-06** — News: Gold Standard Sets 200-Year Storage Test and Three Monitoring Tracks for Biochar Credits ([source](https://esgnews.com/gold-standard-biochar-methodology-parc/))
 - **2026-11-04** — News: Gold Standard Establishes Verified Carbon Removal Pathways for Distributed and Industrial Biochar… ([source](https://biochartoday.com/news/gold-standard-establishes-verified-carbon-removal-pathways-for-distributed-and-industrial-biochar-operators/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-11-03** — News: Gold Standard Unveils First Biochar Methodology For Projects Of All Scales ([source](https://carbonherald.com/gold-standard-unveils-first-biochar-methodology-for-projects-of-all-scales/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-unveils-first-biochar-methodology-for-projects-of-all-scales))
 - **2026-10-15** — News: CP Daily Newsletter: Wednesday October 14, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/560337/))
@@ -52,14 +60,6 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 - **2026-09-02** — News: Gold Standard: Carbon markets are evolving quickly, with rising integrity expectations. Here are… ([source](https://www.linkedin.com/company/gold-standard/#post-e25e47dea997))
 - **2026-08-31** — News: Agasco: Agasco is pleased to announce that we have received a Letter of Authorization (LoA) from… ([source](https://www.linkedin.com/company/agasco/#post-ea511d10b76b))
 - **2026-08-29** — News: Andes: We’re excited to share that Gold Standard’s Microbial Carbon Dioxide Mineralisation… ([source](https://www.linkedin.com/company/andesbio/#post-7b4f2165608b))
-- **2026-08-26** — News: Gold Standard: New Gold Standard tool strengthens requirements to demonstrate that climate… ([source](https://www.linkedin.com/company/gold-standard/#post-cb6406cb6d93))
-- **2026-08-25** — News: Verra: Gold Standard and Verra have launched a new tool to help host countries report… ([source](https://www.linkedin.com/company/verrastandards/#post-009dc314f731))
-- **2026-08-20** — News: Gold Standard And Verra Launch Tool To Simplify Article 6.2 Carbon Reporting ([source](https://carbonherald.com/gold-standard-and-verra-launch-tool-to-simplify-article-6-2-carbon-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-and-verra-launch-tool-to-simplify-article-6-2-carbon-reporting))
-- **2026-08-20** — News: Removall: A new milestone for the Pungue Clean Water Project, the project has successfully… ([source](https://www.linkedin.com/company/removall-carbon/#post-c0a116a4f45e))
-- **2026-08-19** — News: CarbonMeld: Airlines could need more than 200 million eligible carbon credits for CORSIA's first… ([source](https://www.linkedin.com/company/carbonmeld/#post-8acde5db1454))
-- **2026-08-13** — News: Removall Carbon: A new milestone for the Pungue Clean Water Project, the project has successfully ([source](https://www.linkedin.com/company/removall-carbon/#post-d824de93f0d9))
-- **2026-08-12** — News: Andes: Weâre excited to share that Gold Standardâs Microbial Carbon Dioxide Mineralisation… ([source](https://www.linkedin.com/company/andesag/#post-cfd693e3273f))
-- **2026-08-06** — News: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for… ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
 
 ---
 

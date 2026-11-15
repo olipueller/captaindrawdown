@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cleanenergysystems.com/" target="_blank" rel="noopener">https://www.cleanenergysystems.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clean-energy-systems-inc/" target="_blank" rel="noopener">clean-energy-systems-inc</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/parimal-clean-energy-systems/" target="_blank" rel="noopener">parimal-clean-energy-systems</a></td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

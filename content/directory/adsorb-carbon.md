@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes wood-chip waste at 1,000°C to produce biochar and steam-activated charcoal, with pyrolysis gas incinerated for thermal energy."
 url: "/directory/adsorb-carbon/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Website</th><td><a href="https://adsorb.co.za/" target="_blank" rel="noopener">https://adsorb.co.za/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adsorb-technologies-pty-ltd/" target="_blank" rel="noopener">adsorb-technologies-pty-ltd</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://adsorb.co.za/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://adsorb.co.za/))
 - **2026-07-19** — News: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and… ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
 - **2026-05-01** — Status Active → Likely Dead ([source](https://adsorb.co.za/))

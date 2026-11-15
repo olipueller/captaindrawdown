@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontostone.com/" target="_blank" rel="noopener">https://carbontostone.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-to-stone/" target="_blank" rel="noopener">carbon-to-stone</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revoramaterials/" target="_blank" rel="noopener">revoramaterials</a></td></tr>
   <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>

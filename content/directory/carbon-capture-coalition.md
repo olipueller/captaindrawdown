@@ -31,6 +31,7 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 
 ## History
 
+- **2026-11-10** — News: Carbon Capture Coalition: Class VI Primacy Updates The U.S. EPA's proposed approval of Class VI... ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-61161a97ab21))
 - **2026-10-29** — News: How to Foster a Direct Air Capture Cost ‘Miracle’: What DAC Can Learn from Solar ([source](https://kleinmanenergy.upenn.edu/research/publications/how-to-foster-a-direct-air-capture-cost-miracle-what-dac-can-learn-from-solar/))
 - **2026-10-10** — News: Carbon Capture Coalition: ADM is preparing to enter the voluntary carbon removal market with a new… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-ee7de7609525))
 - **2026-09-04** — News: Carbon Capture Coalition: Project Brighton is now operational. Our largest operating deployment to… ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-89daccec66c0))

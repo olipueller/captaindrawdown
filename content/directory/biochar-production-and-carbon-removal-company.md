@@ -30,6 +30,7 @@ CapChar is a UK carbon removal company developing on-farm biochar production tec
 
 ## History
 
+- **2026-11-07** — News: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important... ([source](https://www.linkedin.com/company/capchar/#post-da83e6692925))
 - **2026-10-06** — News: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important… ([source](https://www.linkedin.com/company/capchar/#post-4d7becf25605))
 - **2026-09-15** — Status Moderate → Active
 - **2026-08-30** — News: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important… ([source](https://www.linkedin.com/company/capchar/#post-14b4937dd245))

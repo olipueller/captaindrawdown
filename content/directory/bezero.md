@@ -30,6 +30,13 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-11-13** — News: Varaha’s Community-Led Biochar Project Is Now Rated As A.pre Ex Ante By BeZero ([source](https://carbonherald.com/varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero))
+- **2026-11-13** — News: Varaha’s Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre – Daily... ([source](https://www.dailyprabhat.com/varahas-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre/))
+- **2026-11-13** — News: Varaha's Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre - The... ([source](https://www.tribuneindia.com/news/business/varahas-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre))
+- **2026-11-13** — News: Varaha's Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre ([source](https://www.business-standard.com/amp/content/press-releases-ani/varaha-s-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre-126111300649_1.html))
+- **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
+- **2026-11-13** — News: Varaha: Agnisparsh, our community-led biochar project in Western India, has been assigned a BeZero... ([source](https://www.linkedin.com/company/varaha-carbontech/#post-2ca58854f2ab))
+- **2026-11-12** — News: Varaha’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has received… ([source](https://www.linkedin.com/feed/update/urn:li:share:7526374404335947776/))
 - **2026-11-06** — News: MATI Convenes NDF, FAO and UNCDF at COP31 on Financing Smallholder Farmer Resilience | Middletown... ([source](https://lifestyle.middletownlifemagazine.com/story/811572/mati-convenes-ndf-fao-and-uncdf-at-cop31-on-financing-smallholder-farmer-resilience/))
 - **2026-11-06** — News: MATI Convenes NDF, FAO and UNCDF at COP31 on Financing Smallholder Farmer Resilience - EIN… ([source](https://www.einnews.com/pr_news/954868438/mati-convenes-ndf-fao-and-uncdf-at-cop31-on-financing-smallholder-farmer-resilience))
 - **2026-11-06** — News: MATI Convenes NDF, FAO and UNCDF at COP31 on Financing Smallholder Farmer Resilience ([source](https://www.einpresswire.com/article/954868438/mati-convenes-ndf-fao-and-uncdf-at-cop31-on-financing-smallholder-farmer-resilience))
@@ -53,13 +60,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-08-11** — News: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity… ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
 - **2026-08-11** — News: CarbonMeld: Ecuador's National Assembly has voted to legalise carbon markets for the second time in ([source](https://www.linkedin.com/company/carbonmeld/#post-fce5fd54d968))
 - **2026-08-07** — News: Native, A public benefit corporation: One of the extraordinary things about the carbon market is… ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
-- **2026-08-04** — News: Climate Impact Partners: Major milestone for Bondhu Chula clean cooking project in Bangladesh.… ([source](https://www.linkedin.com/company/climate-impact-partners/#post-cafcb6b76954))
-- **2026-07-28** — News: BeZero Carbon: BeZero Carbon has partnered with the State of Wildfires Project, co-led by the… ([source](https://www.linkedin.com/company/bezero-carbon/#post-8c02bb02c676))
-- **2026-07-28** — News: BeZero Carbon: BeZero Carbon has officially notified ESMA under Article 51 of Regulation (EU)… ([source](https://www.linkedin.com/company/bezero-carbon/#post-f5e2e13d3e1f))
-- **2026-07-23** — News: Opinion: Europe’s Carbon Credit Plan Needs A High Bar, Not A Narrow Gate ([source](https://carbonherald.com/opinion-europes-carbon-credit-plan-needs-a-high-bar-not-a-narrow-gate/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-europes-carbon-credit-plan-needs-a-high-bar-not-a-narrow-gate))
-- **2026-07-23** — News: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3… ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
-- **2026-07-23** — News: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya… ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
-- **2026-07-23** — News: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has… ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))
 
 ---
 

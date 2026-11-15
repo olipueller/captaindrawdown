@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-12** — News: Pacific Biochar: Isometric has issued Pacific Biochar ’s first verified carbon removal credits... ([source](https://www.linkedin.com/company/pacific-biochar/#post-1c26064fe40a))
 - **2026-11-05** — News: HSC Biochar Carbon Removal — biochar ([source](https://www.icvcm.org/case_study/using-biochar-to-improve-soils-and-remove-carbon-in-california))
 - **2026-10-11** — News: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and… ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
 - **2026-10-05** — News: I learned by talking with my Republican family members this past weekend that this lie is working… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx5dzbon6c2u))

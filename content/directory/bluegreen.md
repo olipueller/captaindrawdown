@@ -5,7 +5,7 @@ type: "directory"
 description: "Applies proprietary Lake Guard® algaecide formulations to freshwater bodies to kill harmful cyanobacterial blooms, which the company claims sequesters atmospheric CO2 into inert mineral form; sells…"
 url: "/directory/bluegreen/"
 pathway: "Ocean CDR"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://bluegreenwatertech.com/" target="_blank" rel="noopener">https://bluegreenwatertech.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluegreen-water-tech/" target="_blank" rel="noopener">bluegreen-water-tech</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental te
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))
 - **2026-10-15** — Status Active → Likely Dead ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))
 - **2026-05-01** — Status Active → Likely Dead ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))

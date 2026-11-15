@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes palm kernel shells and black soldier fly frass into a biochar-based organic fertilizer (CO₂ Savior) sold to African smallholder farmers, with carbon credits to be issued under Verra and…"
 url: "/directory/clargreen/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Nigeria</td></tr>
   <tr><th>Website</th><td><a href="https://clargreen.earth/" target="_blank" rel="noopener">https://clargreen.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clargreen-technologies/" target="_blank" rel="noopener">clargreen-technologies</a></td></tr>
-  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Clargreen converts agricultural waste, specifically palm kernel shells, into hig
 
 ## History
 
+- **2026-11-15** — Status Suspect → Likely Dead ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))
 - **2026-05-01** — Status Active → Suspect ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://clargreen.earth/))
 - **2026-04-19** — Status Active → Moderate ([source](https://www.linkedin.com/in/tobechukwu-obi-1ab751263/))

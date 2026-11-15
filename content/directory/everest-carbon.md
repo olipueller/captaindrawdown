@@ -36,6 +36,7 @@ Everest Carbon is a San Francisco- and Linz, Austria-based company that develops
 
 ## History
 
+- **2026-11-07** — News: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are... ([source](https://www.linkedin.com/company/everest-carbon/#post-57026af0ac66))
 - **2026-10-06** — News: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are… ([source](https://www.linkedin.com/company/everest-carbon/#post-d13f1c562b55))
 - **2026-08-03** — News: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are… ([source](https://www.linkedin.com/company/everest-carbon/#post-7231fccaf6c4))
 - **2026-07-21** — News: Direct In Situ Measurement of Alkalinity Export for Real-Time Enhanced Weathering MRV ([source](https://cdrxiv.org/preprint/456))

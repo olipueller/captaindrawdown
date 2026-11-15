@@ -30,6 +30,7 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-11-13** — News: Desafios e lições do primeiro projeto mundial de captura e armazenamento de carbono - Portal... ([source](https://energialimpa.live/desafios-e-licoes-do-primeiro-projeto-mundial-de-captura-e-armazenamento-de-carbono/))
 - **2026-11-05** — News: BECCS Stockholm — beccs ([source](https://newenergy-today.com/news/inside-stockholm-exergis-harborfront-project-aiming-to-remove-more-co2-than-the-citys-entire-road-network))
 - **2026-10-08** — News: Stockholm Exergi: Grunden är klar – nu växer Beccs Stockholm fram Efter drygt ett år av rivnings-, ([source](https://www.linkedin.com/company/stockholm-exergi/#post-3007a6cb8aa3))
 - **2026-10-02** — News: Beccs Stockholm: We're proud to announce that Granitor has signed a long-term agreement to purchase ([source](https://www.linkedin.com/company/beccs-stockholm/#post-1a29d065821d))

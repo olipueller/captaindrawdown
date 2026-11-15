@@ -5,7 +5,7 @@ type: "directory"
 description: "Sorbent-based direct air capture technology originally developed at Los Alamos National Laboratory, claiming clean water as the only byproduct and a ~10x cost reduction versus incumbent DAC."
 url: "/directory/dair-capture/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>DAC</td></tr>
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
-  <tr><th>Website</th><td><a href="https://www.dair.energy/" target="_blank" rel="noopener">https://www.dair.energy/</a></td></tr>
+  <tr><th>Website</th><td><a href="https://daircapture.com/" target="_blank" rel="noopener">https://daircapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dair-capture/" target="_blank" rel="noopener">dair-capture</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Dair Capture is a U.S.-based DAC startup commercializing technology developed wi
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://www.dair.energy/))
+- **2026-11-08** — review 2026-11-08: stays supplier. Sells DAC CO2 to e-fuel producers, greenhouses and data centres, but also to concrete and mineralization… ([source](https://daircapture.com/))
 - **2026-05-01** — Status Suspect → Likely Dead ([source](https://www.dair.energy/))
 - **2026-04-19** — Classified as DAC, supplier, 🟠 Suspect ([source](https://www.dair.energy/))
 - **2026-04-19** — Status Suspect → Likely Dead ([source](https://www.dair.energy/))

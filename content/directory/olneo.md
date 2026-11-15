@@ -5,7 +5,7 @@ type: "directory"
 description: "Converts agricultural residues into certified biochar via pyrolysis for durable carbon sequestration, paired with soil-restoration benefits and digital MRV."
 url: "/directory/olneo/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.olneo.green/" target="_blank" rel="noopener">https://www.olneo.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/olneo-%E2%80%A2-biochar-carbone/" target="_blank" rel="noopener">olneo-%E2%80%A2-biochar-carbone</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ OLNEO is a Paris-based climate deeptech startup developing biochar carbon remova
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.instagram.com/olneo_green/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://www.instagram.com/olneo_green/))
 - **2026-07-27** — News: OLNEO: Annonce Officielle – OLNEO entre dans une nouvelle dimension Depuis notre création, nous… ([source](https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/#post-b97a2207e05c))
 - **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.instagram.com/olneo_green/))

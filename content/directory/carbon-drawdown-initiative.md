@@ -30,6 +30,7 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-11-09** — News: Cotierra: Big news from Cotierra: we’ve raised USD 3 million to make tropical agriculture more... ([source](https://www.linkedin.com/company/cotierra-ag/#post-93394e764835))
 - **2026-11-05** — News: Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits… ([source](https://doi.org/10.70212/cdrxiv.2026570.v1))
 - **2026-11-01** — News: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz… ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
 - **2026-10-30** — News: A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock… ([source](https://cdrxiv.org/preprint/564))
@@ -59,7 +60,6 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 - **2026-08-16** — News: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
 - **2026-08-14** — News: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
 - **2026-08-14** — News: The 1,400-day German basalt trial returning zero measurable CO2 removal isn't just another… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeynp7fz2e))
-- **2026-08-14** — News: Carbon Drawdown Initiative: 1,400 days. Four winters. Twenty pots of basalt-amended soil. That's… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-c5ca55aba09c))
 
 ---
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "Spreads finely ground silicate rock in managed forest soils in Central/Eastern Europe to accelerate weathering reactions that convert atmospheric CO2 into stable bicarbonate/carbonate minerals."
 url: "/directory/carbony/"
 pathway: "Enhanced Weathering"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbony.earth/" target="_blank" rel="noopener">https://www.carbony.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbony/" target="_blank" rel="noopener">carbony</a></td></tr>
-  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Carbony is an Austria-based CDR project developer focused on Enhanced Rock Weath
 
 ## History
 
+- **2026-11-15** — Status Suspect → Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-10-15** — Status Active → Suspect ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-08-15** — Status Suspect → Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-06-15** — Status Active → Suspect ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))

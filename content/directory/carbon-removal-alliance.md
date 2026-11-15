@@ -30,6 +30,7 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 
 ## History
 
+- **2026-11-10** — News: Carbon Removal Alliance: We’re thrilled that the Carbon Removal Institute, the 501(c)(3) arm of… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-2971fb9d4aea))
 - **2026-11-05** — News: Carbon Removal Alliance: US CDR Industry Ready To Deliver Jobs And Innovation After Midterm... ([source](https://carbonherald.com/carbon-removal-alliance-us-cdr-industry-ready-to-deliver-jobs-and-innovation-after-midterm-elections/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-removal-alliance-us-cdr-industry-ready-to-deliver-jobs-and-innovation-after-midterm-elections))
 - **2026-10-10** — News: Carbon Removal Alliance: BIG News! Today Terradot and Google are announcing the world’s first… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-271059d94826))
 - **2026-09-22** — News: The Carbon Removal Crowd Is Feeling Cautiously Optimistic ([source](https://heatmap.news/daily/carbon-removal-climate-week))

@@ -29,6 +29,7 @@ Vital Chemical is a ~50-year-old Australian environmental products manufacturer 
 
 ## History
 
+- **2026-11-11** — News: Environmental life cycle assessment of forestry biochar for low-carbon concrete: influence of... ([source](https://doi.org/10.1007/s11356-026-38335-1))
 - **2026-07-31** — News: Vital Chemical: Vital Chemical has released its Sustainability Impact Report for VE Geo-Loc Made by ([source](https://www.linkedin.com/company/vitalchemical/#post-0a0307de76b8))
 - **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://vitalindustries.com.au/products/vital-biochar/))
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://vitalindustries.com.au/products/vital-biochar/))

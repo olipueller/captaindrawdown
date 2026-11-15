@@ -29,6 +29,9 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 
 ## History
 
+- **2026-11-13** — News: Envisgas: We are happy to share that we are taking the next step in our collaboration with... ([source](https://www.linkedin.com/company/envigas-ab/#post-1117a5047ffa))
+- **2026-11-12** — News: WAI Environmental Solutions: WAI Environmental Solutions AS has entered a four-year supply… ([source](https://www.linkedin.com/company/wai-environmental-solutions-as/#post-41b29c6d80f8))
+- **2026-11-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's... ([source](https://www.linkedin.com/company/carbainc/#post-e128652c81e3))
 - **2026-11-05** — News: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-b026aca78ae0))
 - **2026-10-29** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
 - **2026-10-16** — News: American BioCarbon CT, LLC - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/american-biocarbon-ct-llc/))
@@ -56,9 +59,6 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 - **2026-08-14** — News: RevaTerra closes oversubscribed $1.265 million seed financing led by BlueLake.vc | Biomass Magazine ([source](https://biomassmagazine.com/articles/revaterra-closes-oversubscribed-1265-million-seed-financing-led-by-bluelakevc))
 - **2026-08-13** — News: SUSTAREO partners with Nextchem for Canada’s first large-scale wood waste-to-SAF project | Biomass… ([source](https://biomassmagazine.com/articles/sustareo-partners-with-nextchem-for-canadas-first-large-scale-wood-waste-to-saf-project))
 - **2026-08-12** — News: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary… ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
-- **2026-08-11** — News: Clean Energy reports 3% increase in RNG sales for Q2 | Biomass Magazine ([source](https://biomassmagazine.com/articles/clean-energy-reports-3-increase-in-rng-sales-for-q2))
-- **2026-08-11** — News: XCF provides operational update on renewable diesel production and initial fuel sales at New Rise… ([source](https://biomassmagazine.com/articles/xcf-provides-operational-update-on-renewable-diesel-production-and-initial-fuel-sales-at-new-rise-reno))
-- **2026-08-11** — News: Montana Renewables begins next phase of MaxSAF expansion | Biomass Magazine ([source](https://biomassmagazine.com/articles/montana-renewables-begins-next-phase-of-maxsaf-expansion))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.nawaro-energie.at" target="_blank" rel="noopener">https://www.nawaro-energie.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nawaro-energie/" target="_blank" rel="noopener">nawaro-energie</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ NAWARO ENERGIE Betrieb GmbH is an Austrian bioenergy producer headquartered in Z
 
 ## History
 
+- **2026-11-06** — News: #gemeinsam #syncraft #rückwärtskraftwerk #bioenergie | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524391316571619328/))
 - **2026-09-15** — Status Likely Dead → Active ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://www.nawaro-energie.at/willkommen-auf-der-website-von-nawaro-energie/))

@@ -36,6 +36,8 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-11-13** — News: Carbonfuture: KfW has successfully completed its first proof of concept in the voluntary carbon... ([source](https://www.linkedin.com/company/carbonfuture/#post-8e76f692200a))
+- **2026-11-09** — News: Building Experience in Voluntary Carbon Markets | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525477664988499968/))
 - **2026-11-05** — News: Ist carbonfuture.co Betrug? Bewertung 100/100 ([source](https://malwarehilfe.de/carbonfuture-co-review/))
 - **2026-11-04** — News: #nabc2026 #biocharconference #biochar #carbonremoval | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7523766077823029248/))
 - **2026-11-03** — News: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
@@ -64,8 +66,6 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 - **2026-09-18** — News: Exomad Green and Carbonfuture Expand Long-Term Supply | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7506327115110473728/))
 - **2026-09-16** — News: #climateweeknyc #cdr #climateaction #carbonremoval #netzero #climatetech | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7505616459339825152/))
 - **2026-09-09** — News: #carbonremoval #cdr #climateaction #decarbonization | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503068809122160640/))
-- **2026-09-05** — News: #teamdays #carbonremoval #cdr #climateaction | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501635658223124480/))
-- **2026-09-02** — News: Carbonfuture: Carbonfuture's CDR buyers can now transfer removal credits to another organization… ([source](https://www.linkedin.com/company/carbonfuture/#post-c321cfae603a))
 
 ---
 

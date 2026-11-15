@@ -45,6 +45,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
+- **2026-11-07** — News: ABREFEN ITMOS | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524529012992397312/))
 - **2026-11-06** — News: Microsoft ↔ InPlanet — erw-ag ([source](https://inplanet.earth/br/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil))
 - **2026-11-06** — News: Learnings from InPlanet’s first deployment ([source](https://inplanet.earth/science/learnings-from-inplanets-first-deployment))
 - **2026-11-05** — News: Whirlpool Corporation ↔ InPlanet — erw-ag ([source](https://www.einpresswire.com/article/941459370/inplanet-selected-as-the-brazilian-supplier-in-whirlpool-corporation-s-durable-carbon-removal-portfolio))
@@ -73,8 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-03** — News: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business… ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
 - **2026-08-01** — News: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
 - **2026-08-01** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-30** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
-- **2026-07-27** — News: #londonclimateactionweek #carbonremoval #cdr #climatetech | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487477847247425536/))
 
 ---
 

@@ -35,6 +35,7 @@ Limenet is an Italian climate tech company operating an ocean alkalinity enhance
 
 ## History
 
+- **2026-11-09** — News: Limenet: On October 6, the OAE Data Commons officially went live, and Limenet is part of it.... ([source](https://www.linkedin.com/company/limenet-tech/#post-9aab59545724))
 - **2026-10-09** — News: Limenet: Limenet takes another step towards full technology validation. We have started the cons ([source](https://www.linkedin.com/company/limenet-tech/#post-d9543ef1e5a9))
 - **2026-09-04** — News: Limenet: How #sustainable are CO2 removal solutions when evaluated across their entire life cycle?… ([source](https://www.linkedin.com/company/limenet-tech/#post-02a4a9269a5e))
 - **2026-08-06** — News: Limenet: Limenet takes another step towards full technology validation. We have started the cons ([source](https://www.linkedin.com/company/limenet-tech/#post-a86e5d09c8a2))

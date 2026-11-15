@@ -46,6 +46,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-10-19** — News: CREW Carbon: PARC Spotlight | CREW Carbon How can we improve wastewater treatment while reducing… ([source](https://www.linkedin.com/company/crew-carbon/#post-cab200f52e4f))
 - **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-09-25** — News: Big CDR Deal Alert! CREW Carbon &lt;&gt; Microsoft ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-08-04))
@@ -75,7 +76,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-07** — News: Microsoft inks wastewater carbon removal deal with Crew Carbon | BusinessGreen News ([source](https://www.businessgreen.com/news/4534043/microsoft-inks-wastewater-carbon-removal-deal-crew-carbon))
 - **2026-08-07** — News: Why Wastewater Carbon Removal Matters for Oceans - CREW Carbon ([source](https://crewcarbon.com/why-wastewater-carbon-removal-matters-for-oceans/))
 - **2026-08-07** — News: CarbonPlan's collective case for preprinting in CDR is right: preprints surface results 5 to 15… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mshyra2ki426))
-- **2026-08-07** — News: Carbon Drawdown Initiative: Congratulations portfolio company CREW Carbon to their announcement of… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-e67f5c190fdd))
 
 ---
 

@@ -30,6 +30,7 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-11-13** — News: Treasury Board Secretariat contracts carbon removal advocacy charity for $39,550 'backgrounders'... ([source](https://www.rebelnews.com/exclusive_treasury_board_secretariat_contracts_carbon_removal_advocacy_charity_for_39_550_backgrounders))
 - **2026-11-03** — News: Carbon Removal Canada Reflects On The Country’s CO2 Removal Progress So Far ([source](https://carbonherald.com/carbon-removal-canada-reflects-on-the-countrys-co2-removal-progress-so-far/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-removal-canada-reflects-on-the-countrys-co2-removal-progress-so-far))
 - **2026-10-17** — News: Carbon Removal Canada: Last call for CDR developers and the carbon removal community: Ontario's… ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-af926dbb4a7a))
 - **2026-09-26** — News: Clean the Sky - International Carbon Frameworks ([source](https://www.cleanthesky.com/innovation/policy-framework))

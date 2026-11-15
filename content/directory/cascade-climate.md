@@ -35,6 +35,7 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-11-07** — News: ABREFEN ITMOS | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524529012992397312/))
 - **2026-11-01** — News: Cascade Climate: We’re launching an open call for research funding for carbon removals and… ([source](https://www.linkedin.com/company/cascade-climate/#post-8207a4d791d9))
 - **2026-10-26** — News: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based… ([source](https://cdrxiv.org/preprint/568))
 - **2026-10-13** — News: Terrasols Solutions Private Limited: Data transparency is growing in ERW — and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))

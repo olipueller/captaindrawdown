@@ -29,6 +29,7 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 
 ## History
 
+- **2026-11-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's... ([source](https://www.linkedin.com/company/carbainc/#post-e128652c81e3))
 - **2026-11-05** — News: Cowboy Clean Fuels: Milkywire has completed a new round of Salesforce-backed pre-purchases of… ([source](https://www.linkedin.com/company/cowboy-clean-fuels/#post-1c801c54db7d))
 - **2026-11-02** — News: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce ([source](https://www.linkedin.com/company/pronoe-earth/#post-83ad5055f2a2))
 - **2026-11-01** — News: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon… ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
@@ -58,7 +59,6 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 - **2026-08-13** — News: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now… ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
 - **2026-08-12** — News: Milkywire: Water scarcity is quietly emptying mountain villages. As glaciers retreat, the meltwater ([source](https://www.linkedin.com/company/milkywire/#post-49b44c895e49))
 - **2026-07-26** — News: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that… ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
-- **2026-07-25** — News: Kairos Carbon: We are very proud to announce Milkywire has completed Salesforce -backed… ([source](https://www.linkedin.com/company/kairos-carbon/#post-474172222e8f))
 
 ---
 

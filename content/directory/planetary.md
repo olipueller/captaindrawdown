@@ -43,6 +43,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry |... ([source](https://www.newsbeep.com/808934/))
+- **2026-11-12** — News: First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry |... ([source](https://www.newsbeep.com/us/914911/))
+- **2026-11-11** — News: Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon… ([source](https://doi.org/10.5194/bg-23-7727-2026))
+- **2026-11-06** — News: Enhanced weathering in China’s acidic rice fields offers potential agronomic co-benefits ([source](https://cdrxiv.org/preprint/583))
 - **2026-11-05** — News: Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits… ([source](https://doi.org/10.70212/cdrxiv.2026570.v1))
 - **2026-11-02** — News: Planetary Power: Geoengineering and the New Geopolitics of Climate Intervention | Carnegie… ([source](https://carnegieendowment.org/research/2026/10/planetary-power-geoengineering-and-the-new-geopolitics-of-climate-intervention))
 - **2026-10-30** — News: Microbially mediated interactions between enhanced weathering and carbon inputs shift soil organic… ([source](https://doi.org/10.1038/s43247-026-04143-1))
@@ -69,10 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-09-11** — News: Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in… ([source](https://cdrxiv.org/preprint/553))
 - **2026-09-06** — News: Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting ([source](https://doi.org/10.70212/cdrxiv.2026533.v2))
 - **2026-09-03** — News: Planetary: We’re proud to share another important milestone in Planetary’s #PAIR journey.… ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-5f5c6a3c64ed))
-- **2026-08-31** — News: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering… ([source](https://doi.org/10.31223/x58b8c))
-- **2026-08-29** — News: Exterra: We're in. Exterra got picked for the inaugural MaRS Discovery District First-of-a-Kind… ([source](https://www.linkedin.com/company/exterratechnologies/#post-5386da66a545))
-- **2026-08-27** — News: Planetary: This paper with Michael Tyka , Bin Wang, and Katja Fennel explores how strongly seawater ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-cd90c898e33e))
-- **2026-08-19** — News: Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced… ([source](https://doi.org/10.70212/cdrxiv.2026531.v2))
 
 ---
 

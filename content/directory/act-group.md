@@ -34,6 +34,7 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 
 ## History
 
+- **2026-11-14** — News: ACT Group: New ITMO transfer from Ghana! #Ghana and #Switzerland have taken another important step... ([source](https://www.linkedin.com/company/actgroup/#post-0f516d008325))
 - **2026-09-12** — News: ACT Group: Brimex Energy® emite el primer certificado de biometano de México para Norteamérica Br ([source](https://www.linkedin.com/company/actgroup/#post-b7ef658e7aa9))
 - **2026-09-04** — News: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African… ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
 - **2026-08-15** — Status Moderate → Active ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evero.energy/" target="_blank" rel="noopener">https://evero.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everoenergy/" target="_blank" rel="noopener">everoenergy</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>

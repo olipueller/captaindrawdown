@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces site-specific biochar from agricultural biomass and applies it as biofertilizer in regenerative agroforestry systems on smallholder farms in Mexico."
 url: "/directory/húmica/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://humica.mx/" target="_blank" rel="noopener">https://humica.mx/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/h%C3%BAmica/" target="_blank" rel="noopener">h%C3%BAmica</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Húmica is a Mexican soil-biotechnology startup founded in 2020 that works with 
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://thoughtforfood.org/content-hub/meet-humica-a-mexican-startup-on-a-mission-to-solve-climate-change-by-reviving-ancient-soil-tech/))
 - **2026-10-15** — Status Active → Likely Dead ([source](https://thoughtforfood.org/content-hub/meet-humica-a-mexican-startup-on-a-mission-to-solve-climate-change-by-reviving-ancient-soil-tech/))
 - **2026-05-01** — Status Moderate → Active ([source](https://thoughtforfood.org/content-hub/meet-humica-a-mexican-startup-on-a-mission-to-solve-climate-change-by-reviving-ancient-soil-tech/))
 - **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://humica.mx/))

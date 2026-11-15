@@ -45,6 +45,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-12** — News: #climatetech #carbonremoval #decarbonisation #techtour #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7526642813774708736/))
 - **2026-11-03** — News: Excited to announce that our co-founder, Frank Rattey, will be speaking at Nerdy4Nature, hosted by… ([source](https://www.linkedin.com/feed/update/urn:li:share:7521922464331952128/))
 - **2026-10-30** — News: #tbewc26 #sos2026 | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7521942764297584640/))
 - **2026-10-29** — News: Please join us in welcoming Christoph Staggenborg, our newest Planeteer! Christoph joins Planet ([source](https://www.linkedin.com/feed/update/urn:li:share:7521218125694930945/))
@@ -74,7 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-13** — News: #fallingwalls #sciencestartups #innovation #climatetech #sustainability #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7482323324782444544/))
 - **2026-07-07** — News: Please join us in welcoming Mugdha H., our newest Planeteer! Mugdha joins us as a Working Stude ([source](https://www.linkedin.com/feed/update/urn:li:share:7479889015303979008/))
 - **2026-07-02** — News: We’re launching our first series! Starting next week, every Thursday, we’ll share one practical p ([source](https://www.linkedin.com/feed/update/urn:li:share:7478386976690249728/))
-- **2026-06-30** — News: #hhis #hamburginnovationsummit #climatetech #carbonremoval #negativeemissions #deeptech #innovation ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477320935235174400/))
 
 ---
 

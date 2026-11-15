@@ -31,6 +31,7 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-11-07** — News: Carbon Business Council: New initiative to support CDR deployment in Louisiana. Newlab , in... ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-1e5e6e2d13ce))
 - **2026-11-03** — News: Newlab, in collaboration with Shell GameChanger and LA.IO (Louisiana Innovation), is launching the… ([source](https://decarbonfuse.com/posts/louisiana-carbon-dioxide-removal-cdr-initiative))
 - **2026-11-03** — News: New Open Call Is Offering Support For Carbon Removal Deployments In Louisiana ([source](https://carbonherald.com/new-open-call-is-offering-support-for-carbon-removal-deployments-in-louisiana/?utm_source=rss&utm_medium=rss&utm_campaign=new-open-call-is-offering-support-for-carbon-removal-deployments-in-louisiana))
 - **2026-11-02** — News: Carbon Centric: A year of operational success in carbon capture at Rakkestad. The first Canopy by ([source](https://www.linkedin.com/company/carboncentric/#post-c33dabafb4c3))
@@ -60,7 +61,6 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 - **2026-08-13** — News: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop… ([source](https://doi.org/10.3389/fsoil.2026.1880824))
 - **2026-08-07** — News: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
 - **2026-08-05** — News: Northern Lights: The CO2 carrier Northern Purpose has arrived in Norway! With the arrival we have… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
-- **2026-07-30** — News: Making producers store a rising share of their products' CO2 folds disposal cost into the price of… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mru3udxyxq25))
 
 ---
 

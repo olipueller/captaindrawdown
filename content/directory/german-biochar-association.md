@@ -30,6 +30,8 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-11-12** — News: Herzlichen Glückwunsch an autarkize zum SZ Gipfelstürmer-Award 2026! Wir gratulieren unserem... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526648030737993738/))
+- **2026-11-10** — News: German Biochar Association: !!Carbon removal has a new route to EU funding!! For the first time... ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-bd86d6bc136f))
 - **2026-10-23** — News: Tagung_Stadtgrün-Schwammstadt-Pflanzenkohle | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518989733637763072/))
 - **2026-10-20** — News: proFagus | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518221688711458816/))
 - **2026-10-03** — News: German Biochar Association: The Minister of Environment going all in on biochar. Imagine if… ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-f9a95cc11fbd))

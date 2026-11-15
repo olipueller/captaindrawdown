@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-08** — News: Equilibrium: #1 globally in Biochar Carbon Removal deliveries A defining milestone for our... ([source](https://www.linkedin.com/company/equilibrium-earth/#post-ff623d3b2e28))
 - **2026-11-05** — News: Certified enclosures of the CO2 uptake per unit alkalinity in seawater equilibrium chemistry (a… ([source](https://doi.org/10.5281/zenodo.23848688))
 - **2026-11-05** — News: Research Progress in Channel-Selective Dealumination of Mordenite for Humid Direct Air Capture of… ([source](https://doi.org/10.54254/2755-2721/2026.38490))
 - **2026-11-05** — News: Concrete waste as a source of calcium and alkalinity for coccolithophore cultivation: an… ([source](https://doi.org/10.64898/2026.10.31.763296))
@@ -73,7 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-25** — News: Altitude Carbon: We're partnering with Equilibrium in India for 180.000t CDRs. Thanks to all our… ([source](https://www.linkedin.com/company/altitude-sustainable/#post-7f572fa1583f))
 - **2026-07-25** — News: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available… ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
 - **2026-07-19** — News: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal… ([source](https://doi.org/10.70212/cdrxiv.2026539.v1))
-- **2026-07-19** — News: Aqueous matrix and limiting factors in steel slag carbonation under elevated CO2 at ambient… ([source](https://doi.org/10.1038/s44296-026-00116-9))
 
 ---
 

@@ -35,6 +35,9 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 
 ## History
 
+- **2026-11-12** — News: #syncraft #rückwärtskraftwerk #carbonremoval | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7526555043769225216/))
+- **2026-11-07** — News: #teamsyncraft #syncraft #hermes2026 | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7524554400250638336/))
+- **2026-11-06** — News: #gemeinsam #syncraft #rückwärtskraftwerk #bioenergie | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524391316571619328/))
 - **2026-11-03** — News: #teamsyncraft #teamsyncraft #syncraft #energydecentral #teamsyncraft | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7523312669471412224/))
 - **2026-11-02** — News: Syncraft: 500 kW elektrisch verkauft. 550 kW geliefert. 600 kW in Sicht. Und das Ganze unter Tag , ([source](https://www.linkedin.com/company/syncraft/#post-c7446c284f02))
 - **2026-10-27** — News: #gemeinsam #pyrolyse #syncraft | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7520748996881965056/))
@@ -62,8 +65,6 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 - **2026-05-06** — News: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie… ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
 - **2026-04-23** — News: #syncraft #rückwärtskraftwerk #teamsyncraft #biochar #erneuerbareenergie #kreislaufwirtschaft… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453049783495061504/))
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://cleantechnica.com/2025/11/10/austrian-resort-inaugurates-its-climate-positive-syncraft-powerplant/))
-- **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.syncraft.at/en/))
-- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

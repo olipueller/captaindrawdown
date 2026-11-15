@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's... ([source](https://www.linkedin.com/company/carbainc/#post-e128652c81e3))
 - **2026-11-01** — News: U.S. Bank ↔ Carba — biochar ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
 - **2026-10-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's… ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
 - **2026-10-01** — News: Milkywire: Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes… ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))

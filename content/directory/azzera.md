@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon offset broker/marketplace and ETS/CORSIA compliance services for business aviation, reselling third-party avoidance and removal credits."
 url: "/directory/azzera/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://azzera.com" target="_blank" rel="noopener">https://azzera.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/azzera/" target="_blank" rel="noopener">azzera</a></td></tr>
-  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Azzera is a carbon offset marketplace and aviation compliance services provider,
 
 ## History
 
+- **2026-11-15** — Status Moderate → Active
+- **2026-11-10** — News: Azzera: The 2025 CORSIA Sector’s Growth Factor is out. Here is what airlines need to know. On 31... ([source](https://www.linkedin.com/company/azzera/#post-8369fb09279d))
 - **2026-06-15** — Status Active → Moderate
 - **2026-05-01** — Status Moderate → Active
 - **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://azzera.com/about-us/))

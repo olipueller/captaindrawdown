@@ -5,7 +5,7 @@ type: "directory"
 description: "AI and remote-sensing platform that quantifies and verifies carbon stocks in blue-carbon ecosystems (mangroves, seagrass, seaweed) for MRV of carbon credits."
 url: "/directory/coastal-carbon/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://coastalcarbon.ai/" target="_blank" rel="noopener">https://coastalcarbon.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/coastalcarbonsolutions/" target="_blank" rel="noopener">coastalcarbonsolutions</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Coastal Carbon is a Canadian startup that uses AI and remote sensing to verify a
 
 ## History
 
+- **2026-11-15** — Status Active → Moderate
 - **2026-08-15** — Status Moderate → Active
 - **2026-07-23** — News: Frontiers | Harnessing the microbial carbon pump: prospects and challenges for coastal carbon… ([source](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1897665/full))
 - **2026-04-19** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://coastalcarbon.ai/))

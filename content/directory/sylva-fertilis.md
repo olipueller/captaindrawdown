@@ -5,7 +5,7 @@ type: "directory"
 description: "Slow pyrolysis of French wood pellets from sustainably-managed forests to produce high-carbon biochar (>90% C) sold as soil amendment, with Puro.earth CORC credits."
 url: "/directory/sylva-fertilis/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://terrafertilis.com/" target="_blank" rel="noopener">https://terrafertilis.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-fertilis/" target="_blank" rel="noopener">terra-fertilis</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,6 +32,7 @@ Sylva Fertilis is a French biochar producer based in Argentan, Normandy, operati
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-08-13** — News: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))

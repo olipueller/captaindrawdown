@@ -30,6 +30,8 @@ Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively
 
 ## History
 
+- **2026-11-09** — News: Carbon Removal Partners AG → Cotierra ([source](https://carbonherald.com/cotierra-secures-new-3m-to-advance-biochar-towards-commercial-scale))
+- **2026-11-09** — News: Cotierra: Big news from Cotierra: we’ve raised USD 3 million to make tropical agriculture more... ([source](https://www.linkedin.com/company/cotierra-ag/#post-93394e764835))
 - **2026-11-01** — News: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz… ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
 - **2026-10-28** — News: We are hiring an Operations Associate in Zurich. Following recent milestones in the development of ([source](https://www.linkedin.com/feed/update/urn:li:share:7520796944697331712/))
 - **2026-10-20** — News: We’ll be attending INNOVATE Bau 2026 in Dübendorf this week. The building and construction sector ([source](https://www.linkedin.com/feed/update/urn:li:share:7518281027451269120/))

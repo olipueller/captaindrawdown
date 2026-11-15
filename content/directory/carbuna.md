@@ -5,7 +5,7 @@ type: "directory"
 description: "Trades and refines third-party EBC-certified biochar into agricultural, urban-greening, and construction products and sells the associated biochar carbon removal credits via Carbonfuture."
 url: "/directory/carbuna/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carbuna.com/" target="_blank" rel="noopener">https://carbuna.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbuna/" target="_blank" rel="noopener">carbuna</a></td></tr>
-  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Carbuna AG is a Memmingen, Germany-based biochar processing and trading company 
 
 ## History
 
+- **2026-11-15** — Status Suspect → Active ([source](https://www.compensate.com/projects/carbuna-biochar/))
 - **2026-10-15** — Status Active → Suspect ([source](https://www.compensate.com/projects/carbuna-biochar/))
 - **2026-08-15** — Status Suspect → Active ([source](https://www.compensate.com/projects/carbuna-biochar/))
 - **2026-06-15** — Status Active → Suspect ([source](https://www.compensate.com/projects/carbuna-biochar/))

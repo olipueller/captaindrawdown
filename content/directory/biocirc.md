@@ -33,6 +33,7 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 
 ## History
 
+- **2026-11-08** — News: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO2 til EU’s første... ([source](https://www.linkedin.com/company/biocirc/#post-554bbe27b3e1))
 - **2026-11-05** — News: BioCirc Haderslev CCS K/S — beccs ([source](https://puro.earth/cdr-credit-suppliers/facilities/biocirc-haderslev-ccs-k-s))
 - **2026-10-09** — News: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO2 til EU’s første… ([source](https://www.linkedin.com/company/biocirc/#post-6bdbc48b01fb))
 - **2026-09-03** — News: BioCirc: BioCirc har i dag indviet verdens stÃ ̧rste biogasbaserede CCS-anlÃ¦g i Vesthimmerland Det… ([source](https://www.linkedin.com/company/biocirc/#post-494c9eab4e3b))
@@ -62,7 +63,6 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 - **2026-05-21** — News: Microsoft Secures 650,000 Carbon Removal Credits From BioCirc’s Danish Carbon Capture Platform… ([source](https://esgnews.com/microsoft-secures-650000-carbon-removal-credits-from-biocircs-danish-carbon-capture-platform/))
 - **2026-05-21** — News: Microsoft signs seven-year CO2 storage deal with BioCirc | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/microsoft-signs-seven-year-co2-storage-deal-with-biocirc/2250060.article/))
 - **2026-05-21** — News: Microsoft signs 650,000 ton carbon removal deal with BioCirc in Denmark - DCD ([source](https://www.datacenterdynamics.com/en/news/microsoft-signs-650000-ton-carbon-removal-deal-with-biocirc-in-denmark/))
-- **2026-05-21** — News: Microsoft’s Carbon Removal Comeback: What the BioCirc Deal Signals for CDR Demand, Pricing, and… ([source](https://carbonmeld.com/en/articles/microsoft-s-carbon-removal-comeback-what-the-biocirc-deal-signals-for-cdr-demand-pricing-and-buyer-strategy/))
 
 ---
 

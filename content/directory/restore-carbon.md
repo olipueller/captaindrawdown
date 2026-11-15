@@ -5,7 +5,7 @@ type: "directory"
 description: "Injects plant cuttings below the groundwater table in peat soils, where anaerobic waterlogged conditions prevent decomposition and lock carbon in place long-term."
 url: "/directory/restore-carbon/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://restorecarbon.eu/" target="_blank" rel="noopener">https://restorecarbon.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-store-carbon/" target="_blank" rel="noopener">re-store-carbon</a></td></tr>
-  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Restore Carbon is a Netherlands-based CDR startup developing a patented peatland
 
 ## History
 
+- **2026-11-15** — Status Moderate → Active
 - **2026-10-18** — News: Weathering-derived calcium supports carbon storage in grassland soils ([source](https://doi.org/10.1038/s43247-026-04142-2))
 - **2026-04-19** — Classified as Biomass Burial, supplier, 🟡 Moderate ([source](https://restorecarbon.eu/))
 - **2026-04-19** — Status Active → Moderate

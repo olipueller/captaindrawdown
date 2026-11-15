@@ -5,7 +5,7 @@ type: "directory"
 description: "Biomass (forestry residue) gasification via SunGas S1000 fluidized-bed gasifiers produces syngas for bio-methanol synthesis; the surplus biogenic CO2 stream is captured and permanently stored in…"
 url: "/directory/c2xsungas-renewables/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://sungasrenewables.com/" target="_blank" rel="noopener">https://sungasrenewables.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sungas-renewables/" target="_blank" rel="noopener">sungas-renewables</a></td></tr>
-  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ SunGas Renewables (headquartered in Houston, Texas, and majority-owned by C2X Lt
 
 ## History
 
+- **2026-11-15** — Status Suspect → Active ([source](https://sungasrenewables.com/carbo-direct-and-c2x-announce-collaboration-on-pioneering-forestry-residue-to-biofuel-project/))
 - **2026-10-15** — Status Active → Suspect ([source](https://sungasrenewables.com/carbo-direct-and-c2x-announce-collaboration-on-pioneering-forestry-residue-to-biofuel-project/))
 - **2026-04-19** — Classified as BECCS, side business, 🟢 Active ([source](https://sungasrenewables.com/c2x-to-deliver-3-6-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))
 - **2026-04-19** — Classified as BECCS, supplier, 🟢 Active ([source](https://sungasrenewables.com/c2x-to-deliver-3-6-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))

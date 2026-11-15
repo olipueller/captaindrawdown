@@ -30,6 +30,7 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 
 ## History
 
+- **2026-11-08** — News: Carbonplace: We just issued 3,249 Rainbow carbon removal credits for CO2 stored in 19 wooden pile... ([source](https://www.linkedin.com/company/carbonplace/#post-2f4b89f4097a))
 - **2026-09-06** — News: Global Woods International: Welcoming Global Woods to the Carbonplace platform ð Weâre pleased ([source](https://www.linkedin.com/company/global-woods-international-ag/#post-49c94da1b037))
 - **2026-08-27** — News: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
 - **2026-08-27** — News: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale))

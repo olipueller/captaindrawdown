@@ -31,6 +31,7 @@ Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification
 
 ## History
 
+- **2026-11-07** — News: Oncra: New Horizon Europe calls for proposals are now final and public, with strong synergies to... ([source](https://www.linkedin.com/company/oncra/#post-c59cc32b57a7))
 - **2026-08-30** — News: Scature: Q2 2026 just became the biggest quarter carbon removal has ever seen. 2.1 million tonnes… ([source](https://www.linkedin.com/company/scature/#post-9b16d4fa6d95))
 - **2026-08-16** — News: Oncra: 466 tonnes of COâ sequestered in Dutch soil. ð¦ Arlande , together with Coppa… ([source](https://www.linkedin.com/company/oncra/#post-cb798760feba))
 - **2026-07-25** — News: Oncra: 466 tonnes of CO2 sequestered in Dutch soil. Arlande , together with Coppa , Hospitality… ([source](https://www.linkedin.com/company/oncra/#post-fc3522cbed2c))

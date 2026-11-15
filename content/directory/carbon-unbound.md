@@ -29,6 +29,7 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 
 ## History
 
+- **2026-11-10** — News: Timber Carbon: Thank you, Negative Emissions Platform , for filming Frank's announcements at… ([source](https://www.linkedin.com/company/timberfinance/#post-86492eb4da9c))
 - **2026-10-30** — News: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521935501537398784/))
 - **2026-10-27** — News: Timing of EU procurement, wider buyer base, bankable offtakes emerge as key tests for scaling the… ([source](https://www.fastmarkets.com/insights/timing-of-eu-procurement-wider-buyer-base-bankable-offtakes-emerge-as-key-tests-for-scaling-the-cdr-market-carbon-unbound/))
 - **2026-10-19** — News: Pricing &amp; Tickets // Carbon Unbound Europe 2026 ([source](https://www.carbonunbound.com/events/europe/pricing))

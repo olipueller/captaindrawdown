@@ -31,6 +31,7 @@ Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming rob
 
 ## History
 
+- **2026-11-14** — News: TerraNova AI models enhanced rock weathering — CASRAI ([source](https://casrai.org/news/microsoft-terradot-terranova-ai-rock-weathering-2026))
 - **2026-08-31** — News: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage… ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
 - **2026-08-31** — News: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))
 - **2026-08-16** — News: TerraNova Energy: How can we transform the waste from one of the world's largest landfills - from… ([source](https://www.linkedin.com/company/terranova-energy/#post-8f5068c9dabf))

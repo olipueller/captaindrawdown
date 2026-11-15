@@ -34,6 +34,9 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-11-13** — News: Experiments Indicate Tuzla Volcanic Rocks Can Trap Carbon Dioxide as ([source](https://bioengineer.org/experiments-indicate-tuzla-volcanic-rocks-can-trap-carbon-dioxide-as-calcite/))
+- **2026-11-11** — News: Food System’s Climate Problem Could Become Its Feedstock ([source](https://foodinnovatorskulmbach.substack.com/p/food-systems-climate-problem-could))
+- **2026-11-10** — News: Zem je zachránená. Odborníci našli konečné riešenie na klimatickú krízu, máme ho „pod nosom" ([source](https://fontech.startitup.sk/prelomovy-projekt-solid-carbon-zachrana-zeme-pokracuje-koniec-klimatickej-krizy/))
 - **2026-11-06** — News: Beyond Conventional Reservoirs: A Mechanistic Review of CO2 Storage in Basalt and Granite ([source](https://www.mdpi.com/2311-5629/12/4/87))
 - **2026-11-03** — News: Borgarstjórn boðar viðsnúning í rekstri á næstu árum — Orkuveitan ekki til sölu — Vitinn ([source](https://vitinn.news/grein/6f6f0c42-687e-40eb-bd9e-9644bfb325d1))
 - **2026-11-03** — News: Carbon Loop #026 - by Bennett Green - The Carbon Loop ([source](https://carbonloop.substack.com/p/carbon-loop-026))
@@ -61,9 +64,6 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-10-06** — News: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni… ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
 - **2026-10-05** — News: JGC-Fluor Joint Venture Completes Final Weld on LNG Canada Train 1 | Turbomachinery Magazine ([source](https://www.turbomachinerymag.com/view/jgc-fluor-joint-venture-completes-final-weld-on-lng-canada-train-1))
 - **2026-10-04** — News: "Important Definitions" We Learnt Last Week (Sep 27-Oct 03, 2026) - Editorial Words ([source](https://www.editorialwords.com/important-definitions-we-learnt-last-week-sep-27-oct-03-2026/))
-- **2026-10-01** — News: The India–EFTA Partnership: One Plus One Equals Three |ForumIAS ([source](https://forumias.com/blog/the-india-efta-partnership-one-plus-one-equals-three/))
-- **2026-10-01** — News: India-EFTA TEPA at One Year UPSC | Best OPSC OAS Coaching Bhubaneswar ([source](https://striveedgeias.in/india-efta-tepa-at-one-year-investment-technology-and-arctic-partnership/))
-- **2026-10-01** — News: Daily Editorial Analysis 1 October 2026 ([source](https://vajiramandravi.com/current-affairs/daily-editorial-analysis-1-october-2026/))
 
 ---
 

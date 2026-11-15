@@ -47,6 +47,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: Varaha’s Community-Led Biochar Project Is Now Rated As A.pre Ex Ante By BeZero ([source](https://carbonherald.com/varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero))
+- **2026-11-13** — News: Varaha’s Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre – Daily... ([source](https://www.dailyprabhat.com/varahas-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre/))
+- **2026-11-13** — News: Varaha's Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre - The... ([source](https://www.tribuneindia.com/news/business/varahas-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre))
+- **2026-11-13** — News: Varaha's Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre ([source](https://www.business-standard.com/amp/content/press-releases-ani/varaha-s-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre-126111300649_1.html))
+- **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
+- **2026-11-13** — News: Varaha: Agnisparsh, our community-led biochar project in Western India, has been assigned a BeZero... ([source](https://www.linkedin.com/company/varaha-carbontech/#post-2ca58854f2ab))
+- **2026-11-12** — News: Varaha’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has received… ([source](https://www.linkedin.com/feed/update/urn:li:share:7526374404335947776/))
 - **2026-11-05** — News: Microsoft ↔ Varaha — biochar ([source](https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-100000-tons-of-carbon-removal-credits-from-indian-biochar-firm-varaha))
 - **2026-11-03** — News: GSK ↔ Varaha — soil-carbon ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india))
 - **2026-10-06** — News: Project Finance Manager at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/eb89b039-ae3e-4640-8712-0cd11a87486b))
@@ -70,13 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-22** — News: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 - **2026-05-20** — News: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization… ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
 - **2026-05-18** — News: Varaha & SAF Bangladesh Mark The Country’s First Agroforestry Credits Issued Under Verra’s Verified ([source](https://carbonherald.com/varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard/?utm_source=rss&utm_medium=rss&utm_campaign=varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard))
-- **2026-05-12** — News: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
-- **2026-05-09** — News: January 15, 2026 Mega CDR Deal Alert! Varaha <> MicrosoftDeal Alerts ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-01-15))
-- **2026-04-22** — News: 5 Indian Sustainability Startups Leading the Way on World Earth Day - Newspatrolling.com ([source](https://newspatrolling.com/5-indian-sustainability-startups-leading-the-way-on-world-earth-day/))
-- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
-- **2026-04-19** — Merged a duplicate entry: Varaha Climate AG
-- **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.varaha.earth/))
-- **2026-04-19** — Added to the directory ([source](https://www.cdrjobs.earth/job-board))
 
 ---
 

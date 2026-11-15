@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces biochar via pyrolysis of hemp and wood waste through its Unyte Solutions division, with a Riverse-registered biochar project and hemp-based carbon-negative construction materials."
 url: "/directory/unyte/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://unyte.co.uk/" target="_blank" rel="noopener">https://unyte.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/unyte-capital/" target="_blank" rel="noopener">unyte-capital</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ Unyte Group is a UK-based sustainability holding company headquartered in Market
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
 - **2026-09-15** — Status Likely Dead → Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://carboncheck.org/sites/default/files/2024-11/RIVERSE%20CCIPL%202313%20Validation%20Report_Final.pdf))

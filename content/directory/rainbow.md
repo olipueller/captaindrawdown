@@ -30,6 +30,15 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-11-13** — News: Our team will be in New Orleans next week for The North American Biochar Conference. On Tuesday… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526931891103514624/))
+- **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
+- **2026-11-13** — News: Varaha: Agnisparsh, our community-led biochar project in Western India, has been assigned a BeZero... ([source](https://www.linkedin.com/company/varaha-carbontech/#post-2ca58854f2ab))
+- **2026-11-12** — News: Varaha’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has received… ([source](https://www.linkedin.com/feed/update/urn:li:share:7526374404335947776/))
+- **2026-11-10** — News: 2031 sounds far away. For carbon removal, it’s basically tomorrow. That’s the argument from… ([source](https://www.linkedin.com/feed/update/urn:li:share:7525862615030444032/))
+- **2026-11-10** — News: Underground Forest has issued 3,249 carbon removal credits under Rainbow’s biobased construction... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525844725141020673/))
+- **2026-11-10** — News: Timber Carbon: Thank you, Negative Emissions Platform , for filming Frank's announcements at… ([source](https://www.linkedin.com/company/timberfinance/#post-86492eb4da9c))
+- **2026-11-10** — News: Carbonex | Soler Group: 10 000 TONNES DE CO2 STOCKÉES DURABLEMENT ! SOLER Group entreprise... ([source](https://www.linkedin.com/company/carbonex/#post-a3d032e00d10))
+- **2026-11-08** — News: Carbonplace: We just issued 3,249 Rainbow carbon removal credits for CO2 stored in 19 wooden pile... ([source](https://www.linkedin.com/company/carbonplace/#post-2f4b89f4097a))
 - **2026-11-06** — News: SOLER Group: 10 000 TONNES DE CO2 STOCKÉES DURABLEMENT ! SOLER Group entreprise familiale… ([source](https://www.linkedin.com/company/solergroup/#post-a3d032e00d10))
 - **2026-11-02** — News: Mary Teehan: The bioeconomy is having its moment — now it needs to come full circle ([source](https://www.irishexaminer.com/business-columnists/arid-41931669.html))
 - **2026-11-01** — News: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon… ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
@@ -51,15 +60,6 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 - **2026-09-27** — News: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
 - **2026-09-26** — News: Releaf Earth: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey ([source](https://www.linkedin.com/company/releaf-earth/#post-4ea686cea67f))
 - **2026-09-23** — News: Details of the EU ETS revision, remaining CRCF delegated acts, and public procurement programs are… ([source](https://www.linkedin.com/feed/update/urn:li:share:7508435061403295745/))
-- **2026-09-22** — News: The Rainbow Partner Program is growing. One of the hardest parts of certifying a carbon removal pro ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508140994807214080/))
-- **2026-09-22** — News: SOLER Group: For our most recent team retreat, we toured a climate-conscious champagne house and… ([source](https://www.linkedin.com/company/solergroup/#post-9ecb7283d62e))
-- **2026-09-19** — News: Carbonex | Soler Group: For our most recent team retreat, we toured a climate-conscious champagne… ([source](https://www.linkedin.com/company/carbonex/#post-9ecb7283d62e))
-- **2026-09-18** — News: Crystaltrade: Crystalchain is now part of the Rainbow Partner Programme We're proud to join the… ([source](https://www.linkedin.com/company/crystalchain/#post-64d9eda6651e))
-- **2026-09-16** — News: For our most recent team retreat, we toured a climate-conscious champagne house and visited a… ([source](https://www.linkedin.com/feed/update/urn:li:share:7505543456346402816/))
-- **2026-09-15** — News: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon… ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
-- **2026-09-14** — News: Biochar Production Equipment: Large & Pilot Scale CDR Solution ([source](https://www.bestongroup.com/biochar-production-equipment/))
-- **2026-09-12** — News: Our team will be in New York City and Brussels in the coming weeks. Will we see you there? On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
-- **2026-09-11** — News: Takachar: We are excited to share that Takachar's Takavator technology has officially earned… ([source](https://www.linkedin.com/company/takachar/#post-78a33acf2b0f))
 
 ---
 

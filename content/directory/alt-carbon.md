@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-11-05** — News: Microsoft ↔ Alt Carbon — erw-ag ([source](https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-36920-tons-of-carbon-removal-credits-from-erw-firm-alt-carbon-in-darjeeling-india))
 - **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-09-25** — News: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))

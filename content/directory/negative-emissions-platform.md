@@ -29,6 +29,13 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-11-13** — News: BREAKING Carbon dioxide removal has entered the COP31 cover decision conversation. Today the... ([source](https://www.linkedin.com/feed/update/urn:li:share:7526913302829113345/))
+- **2026-11-12** — News: What does a day in carbon removal actually look like? Welcome to A Day in Removals, a new NEP... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526564013783261184/))
+- **2026-11-10** — News: 2031 sounds far away. For carbon removal, it’s basically tomorrow. That’s the argument from… ([source](https://www.linkedin.com/feed/update/urn:li:share:7525862615030444032/))
+- **2026-11-10** — News: Secretary-General Chris Sherwood is representing the Negative Emissions Platform at the European... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525909024568074240/))
+- **2026-11-10** — News: Timber Carbon: Thank you, Negative Emissions Platform , for filming Frank's announcements at… ([source](https://www.linkedin.com/company/timberfinance/#post-86492eb4da9c))
+- **2026-11-09** — News: The Think Negative - Carbon Dioxide Removal Pavilion is now open in the Blue Zone at COP31 in... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525522208346075136/))
+- **2026-11-06** — News: !!Carbon removal has a new route to EU funding!! For the first time ever, carbon removal is a... ([source](https://www.linkedin.com/feed/update/urn:li:share:7524433512209534977/))
 - **2026-11-05** — News: Heading to COP31? Swipe for a preview of what’s on at the Think Negative - Carbon Dioxide Removal... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523761524612624384/))
 - **2026-11-01** — News: Negative Emissions Platform: You may have heard the good news coming from Sweden! Our member Sysav… ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-520a3d63b1e2))
 - **2026-10-30** — News: CDR Momentum, Edition IV NEP members are at the heart of this month’s carbon removal highlights. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
@@ -52,13 +59,6 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 - **2026-09-09** — News: The Negative Emissions Platform has published a new position paper on integrating permanent carbon… ([source](https://www.negative-emissions.org/updates/the-negative-emissions-platform-has-published-a-new-position-paper-on-integrating-permanent-carbon-removals-into-the-eu-ets))
 - **2026-09-07** — News: Pre-2031 CDR delivery timeline | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7502683295449628673/))
 - **2026-09-02** — News: Now is the time to enter Europe’s carbon removal market. The business case has never been stronger ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500493306318086144/))
-- **2026-09-02** — News: BlueLayer joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/bluelayer-joins-the-negative-emissions-platform))
-- **2026-08-29** — News: CDR Momentum, Edition III, August | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498298438246273024/))
-- **2026-08-26** — News: The future of the EU Emissions Trading System will shape both the pace of Europe’s industrial… ([source](https://www.linkedin.com/feed/update/urn:li:share:7498261413908422656/))
-- **2026-08-22** — News: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
-- **2026-08-21** — News: Corporate demand does not translate into project deployment automatically. Companies need credible ([source](https://www.linkedin.com/feed/update/urn:li:share:7496158307972390912/))
-- **2026-08-20** — News: Negative Emissions Platform: Permanent carbon removal is becoming part of how European cities plan… ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-bfef587c91d5))
-- **2026-08-18** — News: Europe’s carbon removal market will develop alongside its industrial transition. At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
 
 ---
 

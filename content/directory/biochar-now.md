@@ -29,6 +29,12 @@ Biochar Now is a Berthoud, Colorado biochar producer founded in 2011 that conver
 
 ## History
 
+- **2026-11-11** — News: Datavault AI Will Tokenize Biochar Now's Insured Carbon Credits ([source](https://circularwire.com/articles/datavault-ai-will-tokenize-biochar-now-s-insured-carbon-credits))
+- **2026-11-11** — News: Web3mediabreaks Datavault AI Inc. (NASDAQ: DVLT) Announces Global Collaboration With Biochar Now… ([source](https://menafn.com/1111938751/Web3mediabreaks-Datavault-AI-Inc-NASDAQ-DVLT-Announces-Global-Collaboration-With-Biochar-Now-To-Expand-Carbon-Credit-Distribution))
+- **2026-11-10** — News: Biochar Now and Datavault AI Partner on Insured Carbon Credits ([source](https://biochartoday.com/news/biochar-now-and-datavault-ai-partner-to-distribute-insured-tokenized-carbon-removal-credits/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-11-10** — News: Datavault AI Adds Biochar Credits To Its Digital Tokenization Platform ([source](https://carbonherald.com/datavault-ai-adds-biochar-credits-to-its-digital-tokenization-platform/?utm_source=rss&utm_medium=rss&utm_campaign=datavault-ai-adds-biochar-credits-to-its-digital-tokenization-platform))
+- **2026-11-10** — News: Datavault AI and Biochar Now Combine Insured Carbon Removal Credits with Patented Tokenization... ([source](https://www.quantisnow.com/insight/datavault-ai-and-biochar-now-combine-insured-carbon-removal-credits-6780012))
+- **2026-11-09** — News: Datavault AI and Biochar Now Combine Insured Carbon Removal Credits with Patented Tokenization... ([source](https://ir.datavaultsite.com/news-events/press-releases/detail/509/datavault-ai-and-biochar-now-combine-insured-carbon-removal-credits-with-patented-tokenization-technology))
 - **2026-10-24** — News: Microsoft, the buyer of the most CO2 removals so far, has published a paper reflecting on the… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mymzqyrfbk2q))
 - **2026-09-22** — News: Carbon Char Store: We are excited to share that Brian Reynolds , has joined subcommittee at the… ([source](https://www.linkedin.com/company/carbon-char-store/#post-e62accc79aad))
 - **2026-09-17** — News: Placer County approves Cabin Creek biomass and biochar facility - BioEnergy Times ([source](https://bioenergytimes.com/placer-county-approves-cabin-creek-biomass-and-biochar-facility/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Manufactures continuous-process pyrolysis machines (B3/B5) that convert biomass into 80%+ carbon biochar, producing CORCs as a co-product."
 url: "/directory/applied-gaia/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://appliedgaia.com/" target="_blank" rel="noopener">https://appliedgaia.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appliedgaia-corporation/" target="_blank" rel="noopener">appliedgaia-corporation</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Applied Gaia Corporation is a Houston, Texas-based pyrolysis technology manufact
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://greentownlabs.com/members/applied-gaia/))
 - **2026-11-02** — News: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for… ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
 - **2026-07-15** — Status Suspect → Likely Dead ([source](https://greentownlabs.com/members/applied-gaia/))
 - **2026-05-01** — Status Active → Suspect ([source](https://greentownlabs.com/members/applied-gaia/))

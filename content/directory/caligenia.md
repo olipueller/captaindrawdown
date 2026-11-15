@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes organic waste into biochar, then combines it with plant-growth-promoting microorganisms (\"Bacterchar\") to restore degraded soils while sequestering carbon."
 url: "/directory/caligenia/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://www.caligenia.com/" target="_blank" rel="noopener">https://www.caligenia.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/caligenia/" target="_blank" rel="noopener">caligenia</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Caligenia is an Argentine biotechnology startup whose flagship product Bactercha
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://tracxn.com/d/companies/caligenia/__nyWPrjpJ2QMzgA8TeflWFrLVGOjzmztO-CTDdlb7lak))
 - **2026-05-01** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/caligenia/__nyWPrjpJ2QMzgA8TeflWFrLVGOjzmztO-CTDdlb7lak))
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.caligenia.com/))
 - **2026-04-19** — Status Active → Likely Dead ([source](https://tracxn.com/d/companies/caligenia/__nyWPrjpJ2QMzgA8TeflWFrLVGOjzmztO-CTDdlb7lak))

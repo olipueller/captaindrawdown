@@ -30,6 +30,7 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 
 ## History
 
+- **2026-11-13** — News: Oxford Net Zero: Out today: "Policy matters: charting a path to net zero", from the Taskforce on... ([source](https://www.linkedin.com/company/oxfordnetzero/#post-c84dadf2aa40))
 - **2026-09-02** — News: Oxford Net Zero: Climate standards are increasingly shaping regulation, investment and corporate… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-f09ae02e08b3))
 - **2026-08-26** — News: Oxford Net Zero: Out today: a new briefing from our Net Zero Aviation project team on how to… ([source](https://www.linkedin.com/company/oxfordnetzero/#post-d26f81127332))
 - **2026-08-24** — News: A High-Integrity Route for CORSIA: Integrating Geologically Balanced Fuels - Net Zero Climate ([source](https://netzeroclimate.org/publications/a-high-integrity-route-for-corsia-integrating-geologically-balanced-fuels/))

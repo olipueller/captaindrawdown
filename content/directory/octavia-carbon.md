@@ -36,6 +36,8 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-11-11** — News: COP31: Kenya backs flexible CDR regulation to protect innovation ([source](https://www.qcintel.com/carbon/article/cop31-kenya-backs-flexible-cdr-regulation-to-protect-innovation-77145.html))
+- **2026-11-09** — News: atmosfair gGmbH: Exciting news: we have completed Phase 1 of Project Hummingbird! Meet Carbon... ([source](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/#post-7399ab3051fe))
 - **2026-11-05** — News: Some careers follow a straight line, and some take a turn when the right opportunity comes… ([source](https://www.linkedin.com/feed/update/urn:li:share:7524029556375252992/))
 - **2026-10-29** — News: Exciting news: we have completed Phase 1 of Project Hummingbird! Meet Carbon Nest, the plant that ([source](https://www.linkedin.com/feed/update/urn:li:share:7521526931066998784/))
 - **2026-10-26** — News: Octavia Carbon: A strong carbon market is built on trust, and trust is built on clear rules. ([source](https://www.linkedin.com/company/octavia-carbon/#post-c98be21166bd))
@@ -64,8 +66,6 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 - **2026-08-03** — News: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
 - **2026-07-31** — News: Great engineering rarely announces itself. Meet Nathalie Wati, one of our Process Engineers… ([source](https://www.linkedin.com/feed/update/urn:li:share:7488551750455701505/))
 - **2026-07-31** — News: PyroCCS: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of… ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
-- **2026-07-31** — News: PyroCCS: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/pyroccs/#post-1fe05f862376))
-- **2026-07-27** — News: ZEN Carbon: The Office of the Special Envoy for Climate Change congratulates Zen Carbon and Octavia ([source](https://www.linkedin.com/company/clitruct/#post-732e10060924))
 
 ---
 

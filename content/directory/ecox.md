@@ -5,7 +5,7 @@ type: "directory"
 description: "Early-stage biochar project developer planning a pyrolysis facility in Namibia, paired with community development and rewilding, listed as a future supplier on Puro.earth."
 url: "/directory/ecox/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://eco-x.com/" target="_blank" rel="noopener">https://eco-x.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-x-llc/" target="_blank" rel="noopener">eco-x-llc</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ ecoX, LLC is a US-based pure-play biochar project developer whose mission is to 
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.linkedin.com/in/david-lion-1280478b/))
 - **2026-08-15** — Status Suspect → Active ([source](https://www.linkedin.com/in/david-lion-1280478b/))
 - **2026-08-10** — News: ecoX: This week eco-x.com unveils its Biochar Production Facility in Minneapolis at USBI and then… ([source](https://www.linkedin.com/company/eco-x-llc/#post-1d74a3c111f2))
 - **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://eco-x.com/))

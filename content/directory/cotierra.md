@@ -34,6 +34,8 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 
 ## History
 
+- **2026-11-09** — News: Carbon Removal Partners AG → Cotierra ([source](https://carbonherald.com/cotierra-secures-new-3m-to-advance-biochar-towards-commercial-scale))
+- **2026-11-09** — News: Cotierra: Big news from Cotierra: we’ve raised USD 3 million to make tropical agriculture more... ([source](https://www.linkedin.com/company/cotierra-ag/#post-93394e764835))
 - **2026-11-01** — News: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz… ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
 - **2026-10-23** — News: #worldofcoffee2026 #biochar #carbonstandards #climateresilience #sustainablecoffee #carbonremoval | ([source](https://www.linkedin.com/feed/update/urn:li:share:7519329090877894656/))
 - **2026-10-19** — News: Carbon Drawdown Initiative: Big news from Cotierra: we’ve raised USD 3 million to make tropical… ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-1cff52274034))
@@ -62,8 +64,6 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 - **2026-07-23** — News: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200… ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-85065fb5ae7e))
 - **2026-05-11** — Reactivated: website reachable again
 - **2026-05-11** — Merged a duplicate entry: Terra Preta (Cotierra)
-- **2026-05-01** — Status Moderate → Active
-- **2026-05-01** — Status Active → Moderate
 
 ---
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "LOCOAL operates a proprietary induction-pyrolysis system (Rainmaker) that converts wood and biomass waste into biochar, syngas, and bio-oils, with an AI-based MRV platform (IMPCT.AI) for carbon…"
 url: "/directory/locoal/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.locoal.com/" target="_blank" rel="noopener">https://www.locoal.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/locoal/" target="_blank" rel="noopener">locoal</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ LOCOAL is a Texas-based waste-to-energy climate-tech company running a biochar p
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
 - **2026-09-15** — Status Likely Dead → Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/08/11/texas-startup-turns-old-wood-into-new-energy))

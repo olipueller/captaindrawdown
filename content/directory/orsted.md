@@ -5,7 +5,7 @@ type: "directory"
 description: "Post-combustion amine-based CO2 capture retrofitted to biomass-fired CHP plants, with CO2 shipped to Northern Lights for permanent subsea saline aquifer storage in the Norwegian North Sea."
 url: "/directory/orsted/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://orsted.com/" target="_blank" rel="noopener">https://orsted.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/orsted/" target="_blank" rel="noopener">orsted</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -32,6 +32,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
 - **2026-09-15** — Status Suspect → Active ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
 - **2026-06-15** — Status Active → Suspect ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))
 - **2026-05-01** — Status Suspect → Active ([source](https://www.reuters.com/sustainability/climate-energy/orsted-cut-2000-jobs-by-end-2027-2025-10-09/))

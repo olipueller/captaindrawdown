@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops, builds and operates industrial pyrolysis plants that convert biogenic residues into biochar, renewable process heat, and carbon removal credits."
 url: "/directory/kurovia-gmbh/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://kurovia.de" target="_blank" rel="noopener">https://kurovia.de</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kurovia-gmbh/" target="_blank" rel="noopener">kurovia-gmbh</a></td></tr>
-  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ KuroVia GmbH is a German climate-tech startup based in Meerbusch that develops, 
 
 ## History
 
+- **2026-11-15** — Status Moderate → Active
 - **2026-05-01** — Status Active → Moderate
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://kurovia.de/))
 - **2026-04-19** — Status Active → Moderate

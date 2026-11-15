@@ -41,6 +41,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: MATI and IITA Partner, Biomatter Raises $18 Million | GrowinAgri Daily ([source](https://growinagri.substack.com/p/mati-and-iita-partner-biomatter-raises))
+- **2026-11-12** — News: Enriched Biochar Market to Reach USD 379.1 Million by 2036 as Top Players Expand Carbon Removal... ([source](https://www.openpr.com/news/4688451/enriched-biochar-market-to-reach-usd-379-1-million-by-2036-as-top))
 - **2026-11-04** — News: Citi outcome bond for Applied Carbon Texas biochar project ([source](https://www.esgdive.com/news/citi-closes-first-of-its-kind-72m-bond-for-biochar-project/833859))
 - **2026-11-01** — News: ClimeFi: Lenders are increasingly willing to provide debt financing to carbon removal projects… ([source](https://www.linkedin.com/company/carbonx-world/#post-a8fe4eb97a13))
 - **2026-10-29** — News: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth… ([source](https://www.linkedin.com/company/ep-carbon/#post-108532950bcf))

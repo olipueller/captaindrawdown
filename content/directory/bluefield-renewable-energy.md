@@ -5,7 +5,7 @@ type: "directory"
 description: "Converts waste biomass into biochar via proprietary advanced pyrolysis (thermo-chemical conversion) technology and generates biochar carbon removal credits."
 url: "/directory/bluefield-renewable-energy/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://bluefieldrenewable.com/" target="_blank" rel="noopener">https://bluefieldrenewable.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluefieldrenewable/" target="_blank" rel="noopener">bluefieldrenewable</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Bluefield Renewable Energy (BRE) was founded in 2014 and is headquartered in Sin
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://bluefieldrenewable.com/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://bluefieldrenewable.com/))
 - **2026-08-01** — News: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all… ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
 - **2026-05-01** — Status Active → Likely Dead ([source](https://bluefieldrenewable.com/))

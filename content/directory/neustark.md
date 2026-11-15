@@ -19,6 +19,7 @@ liveliness: "🟢 Active"
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-09-10)</small></td></tr>
 </table>
 
 ## About
@@ -27,6 +28,14 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ![Neustark website](/screenshots/neustark.png)
 
+## Registry Activity
+
+Independently verified by carbon-credit registries:
+
+**Puro.earth**
+- 9 projects · Carbonated Materials · crediting period 2024-10-03 → 2030-09-10 (active)
+
+<small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 ## Registry Memberships
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "Project developer building a large-scale liquid-solvent/electrochemical DAC facility at Kollsnes, Øygarden, with CO2 storage via the adjacent Northern Lights terminal."
 url: "/directory/carbon-removal-asnordic-dac-group/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremoval.no/" target="_blank" rel="noopener">https://www.carbonremoval.no/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal/" target="_blank" rel="noopener">carbon-removal</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Carbon Removal AS is a Norwegian project development company focused exclusively
 
 ## History
 
+- **2026-11-15** — Status Active → Suspect ([source](https://tracxn.com/d/companies/nordicdacgroup/__4NEeIqgD8MXqGEZUbUydVHP8cMcaU9lIKhR0q2P8DD8))
 - **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://phlair.com/news/carbon-removal-nordac))
 - **2026-04-19** — Merged a duplicate entry: Carbon Removal
 - **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.carbonremoval.no/))

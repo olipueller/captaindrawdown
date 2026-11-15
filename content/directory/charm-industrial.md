@@ -45,6 +45,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
+- **2026-11-06** — News: Google ↔ Charm Industrial — biochar ([source](https://www.datacenterdynamics.com/en/news/google-signs-biochar-carbon-removal-deal-with-charm-industrial))
+- **2026-11-06** — News: Good projects start with listening. Last week, members of the Charm team were in Mississippi... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524482219969564674/))
 - **2026-11-03** — News: Not every well makes the cut. Repurposing an orphaned or idled well for bio-oil injection starts wi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523236183200686081/))
 - **2026-10-29** — News: Scaling carbon removal starts long before a single ton goes underground. Scott Litzelman from Fro ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521372109206626304/))
 - **2026-10-23** — News: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
@@ -72,9 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-13** — News: What happens to the wood that can’t become lumber? Wildfire mitigation and forest health projects ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493147994209378304/))
 - **2026-08-10** — News: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-08-06** — News: Supporting stronger communities takes more than one approach. At Charm, we&amp;#39;re working to re ([source](https://www.linkedin.com/feed/update/urn:li:share:7490269260112510976/))
-- **2026-08-05** — News: How can pyrolysis help remove carbon from the atmosphere? Charm&amp;#39;s Head of Market Develop ([source](https://www.linkedin.com/feed/update/urn:li:share:7490457550149136384/))
-- **2026-08-01** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-30** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
 
 ---
 

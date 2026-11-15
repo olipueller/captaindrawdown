@@ -29,6 +29,10 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 
 ## History
 
+- **2026-11-09** — News: £200m carbon capture facility approved at Parc Adfer energy plant ([source](https://britbrief.co.uk/environment/emissions/200m-carbon-capture-facility-approved-at-parc-adfer.html))
+- **2026-11-09** — News: Go-ahead for major carbon capture facility in North Wales - AOL ([source](https://www.aol.co.uk/articles/ahead-major-carbon-capture-facility-083652000.html))
+- **2026-11-09** — News: Go-ahead for major carbon capture facility in North Wales | Business Live ([source](https://www.business-live.co.uk/enterprise/go-ahead-major-carbon-capture-34882861))
+- **2026-11-07** — News: enfinium: We’re delighted to share that our plans to install a carbon capture plant at our Parc... ([source](https://www.linkedin.com/company/enfiniumuk/#post-0e8f87cfa696))
 - **2026-11-06** — News: Enfinium Secures Approval For Wales’ Largest Carbon Capture Project ([source](https://carbonherald.com/enfinium-secures-approval-for-wales-largest-carbon-capture-project/?utm_source=rss&utm_medium=rss&utm_campaign=enfinium-secures-approval-for-wales-largest-carbon-capture-project))
 - **2026-11-04** — News: Ferrybridge carbon capture project — other-emerging ([source](https://enfinium.co.uk/enfinium-launches-consultation-on-proposal-to-build-carbon-capture-technology-at-ferrybridge))
 - **2026-11-04** — News: Parc Adfer carbon capture — other-emerging ([source](https://enfinium.co.uk/parc-adfer-carbon-capture-planning-application-approved-by-flintshire-county-council))

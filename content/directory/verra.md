@@ -29,6 +29,11 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-11-14** — News: Boomitra: 2.6 million soil carbon credits. Sold and delivered. Boomitra has completed the sale and... ([source](https://www.linkedin.com/company/boomitra/#post-a41b0eec0d8a))
+- **2026-11-10** — News: Elemental Energies Secures Harbour Energy Contract For Viking CCS ([source](https://carbonherald.com/elemental-energies-secures-harbour-energy-contract-for-viking-ccs/))
+- **2026-11-09** — News: Texas Carbon Capture Project Secures First Credits Under New Verra Standard ([source](https://carbonherald.com/texas-carbon-capture-project-secures-first-credits-under-new-verra-standard/?utm_source=rss&utm_medium=rss&utm_campaign=texas-carbon-capture-project-secures-first-credits-under-new-verra-standard))
+- **2026-11-09** — News: Taranis: Project announcement: Taranis launches Carraco ARR+, a landscape-scale nature-based... ([source](https://www.linkedin.com/company/taranis-investment/#post-14bc99d8a632))
+- **2026-11-07** — News: Abatable: Total retirements in the voluntary carbon market have held at around 180mn tonnes a year... ([source](https://www.linkedin.com/company/abatable/#post-fec846b3fe5e))
 - **2026-11-06** — News: Patch: Supply says 6%. Buyers say 92%. That's the gap I keep coming back to in our 2026 data... ([source](https://www.linkedin.com/company/usepatch/#post-0b7ef5b4594b))
 - **2026-10-27** — News: Nuffield Scholar Reports Back On Biochar’s Potential ([source](https://www.global-agriculture.com/global-agriculture/nuffield-scholar-reports-back-on-biochars-potential/))
 - **2026-10-27** — News: ADM: ADM is making investments in its Columbus, Nebraska, ethanol plant that are expected to add 20 ([source](https://www.linkedin.com/company/adm/#post-2e622a55e5c9))
@@ -54,11 +59,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-09-25** — News: Arbonics: 183 corporate carbon removal deals between 2021 and 2025. US companies took 76% of the… ([source](https://www.linkedin.com/company/arbonics/#post-e2a40376c53d))
 - **2026-09-18** — News: Rainforest Builder: Rainforest Builder announces Project Buffalo's registration by Verra. This is… ([source](https://www.linkedin.com/company/rainforest-builder/#post-d0908cdd8cb5))
 - **2026-09-17** — News: Grow Indigo: Yesterday, Grow Indigo reached a major milestone: ððððð¶ð»ð ́… ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-50ba17d376e9))
-- **2026-09-07** — News: Verra Wins Integrity Council Approval for VCS Version 5 Program Standards &#8211; Biochar Today ([source](https://biochartoday.com/news/verra-wins-integrity-council-approval-for-vcs-version-5-program-standards/?utm_source=bluesky&utm_medium=jetpack_social))
-- **2026-09-07** — News: AspiraDAC: Savanna fire management is going global. In less than a year, four major carbon… ([source](https://www.linkedin.com/company/aspiradac/#post-ca7ec40215d1))
-- **2026-09-07** — News: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to… ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
-- **2026-09-04** — News: Verra’s Latest Carbon Standard Gains Eligibility Under ICVCM’s Core Principles ([source](https://carbonherald.com/verras-latest-carbon-standard-gains-eligibility-under-icvcms-core-principles/?utm_source=rss&utm_medium=rss&utm_campaign=verras-latest-carbon-standard-gains-eligibility-under-icvcms-core-principles))
-- **2026-09-04** — News: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
 
 ---
 

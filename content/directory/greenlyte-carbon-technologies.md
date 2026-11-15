@@ -23,7 +23,7 @@ liveliness: "🟢 Active"
 
 ## About
 
-Greenlyte Carbon Technologies is a German DAC startup founded in 2022 and headquartered in Essen. The company operates a liquid-sorbent DAC process that co-produces green hydrogen, and in November 2025 inaugurated the world's first LiquidSolar SNG plant in Duisburg with 40 tpy CO2 removal capacity. It has offtake agreements with Eurowings and MB Energy and is fast-tracking a 500-ton commercial module at Chempark Marl in 2026.
+Greenlyte Carbon Technologies is a German DAC startup founded in 2022 and headquartered in Essen. The company operates a liquid-sorbent DAC process that co-produces green hydrogen, and in November 2025 inaugurated the world's first LiquidSolar SNG plant in Duisburg with 40 tpy capture capacity; the CO2 becomes synthetic natural gas, so this plant is utilization, not removal. Its 100-tonne DAC unit for Deep Sky in Quebec (2025) feeds permanent storage. It has offtake agreements with Eurowings and MB Energy and is fast-tracking a 500-ton commercial module at Chempark Marl in 2026.
 
 ![Greenlyte Carbon Technologies website](/screenshots/greenlyte-carbon-technologies.png)
 
@@ -34,6 +34,7 @@ Greenlyte Carbon Technologies is a German DAC startup founded in 2022 and headqu
 
 ## History
 
+- **2026-11-08** — review 2026-11-08: stays supplier. Own business is e-fuels (LiquidSolar SNG plant Duisburg, e-SAF and e-methanol offtakes), but its 100 t… ([source](https://www.greenlyte.tech/))
 - **2026-10-08** — News: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-6ce18673a40a))
 - **2026-09-03** — News: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-a76640f9153a))
 - **2026-07-22** — News: Greenlyte Carbon Technologies: Scaling LiquidSolarTM from demonstration to a bankable technology… ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-c250ab3e831a))

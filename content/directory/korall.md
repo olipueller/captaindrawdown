@@ -31,6 +31,7 @@ KORALL is a Swedish DAC startup whose liquid Direct Air Carbon Capture plant dyn
 
 ## History
 
+- **2026-11-07** — News: KORALL: Korall is one of only seven companies that receive funding from the Swedish Energy Agency... ([source](https://www.linkedin.com/company/korallcc/#post-132c8f374b9f))
 - **2026-08-30** — News: KORALL: Major Milestone for European Carbon Markets: What the EU ETS Revision Proposal Means for… ([source](https://www.linkedin.com/company/korallcc/#post-5be83d9a00dd))
 - **2026-07-25** — News: KORALL: Major Milestone for European Carbon Markets: What the EU ETS Revision Proposal Means for… ([source](https://www.linkedin.com/company/korallcc/#post-da53dca82c21))
 - **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://www.korall.cc/))

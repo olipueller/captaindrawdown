@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of waste wood (co-located with a wood pellet manufacturer) producing biochar, bio-oil, syngas, and power, with CDR credits sold via Carbon Streaming."
 url: "/directory/restoration-bioproducts/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.restorationbio.com/" target="_blank" rel="noopener">https://www.restorationbio.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restoration-bioproducts-llc/" target="_blank" rel="noopener">restoration-bioproducts-llc</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Restoration Bioproducts is a Virginia-based pyrolysis company that converts low-
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.carbonstreaming.com/project/waverly-biochar/))
 - **2026-07-31** — News: $10M Biochar plant opens in Waverly - Virginia Business ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://virginiabusiness.com/10m-biochar-plant-opens-in-waverly/))
 - **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.restorationbio.com/))

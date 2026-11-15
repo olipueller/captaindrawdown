@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops solid sorbents and adsorbent-based processes for CO2 capture from ambient air (and post-combustion flue gas) under DOE R&D contracts."
 url: "/directory/tda/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.tda.com" target="_blank" rel="noopener">https://www.tda.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tda-research/" target="_blank" rel="noopener">tda-research</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ TDA Research, Inc. is a Wheat Ridge, Colorado-based contract R&D company founded
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://tdainc.com/careers/))
 - **2026-09-15** — Status Likely Dead → Active ([source](https://tdainc.com/careers/))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://tdainc.com/careers/))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://tdainc.com/careers/))

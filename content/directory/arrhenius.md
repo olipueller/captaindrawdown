@@ -31,6 +31,7 @@ Arrhenius AG is a Swiss HSLU (Lucerne University of Applied Sciences and Arts) s
 
 ## History
 
+- **2026-11-13** — News: Arrhenius: Construction has started! We’re building a 500 m2 pilot plant at the... ([source](https://www.linkedin.com/company/arrhenius-ag/#post-205ff7abc9a6))
 - **2026-09-18** — News: Carbon Capture, Utilization, and Storage in the Production of Heavy Construction Materials ([source](https://doi.org/10.5281/zenodo.22748975))
 - **2026-09-06** — News: Arrhenius: We are pleased to announce the successful closing of our seed funding round. This… ([source](https://www.linkedin.com/company/arrhenius-ag/#post-39082e928d5e))
 - **2026-07-14** — News: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted.… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))

@@ -30,6 +30,7 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 
 ## History
 
+- **2026-11-10** — News: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization... ([source](https://www.linkedin.com/company/blueplanetsystems/#post-fccf424abe30))
 - **2026-11-02** — News: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-fccf424abe30))
 - **2026-10-27** — News: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-10** — News: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization… ([source](https://www.linkedin.com/company/blueplanetsystems/#post-6cf3bbf0cee5))

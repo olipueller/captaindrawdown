@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a Biomacon C400 pyrolysis unit that converts low-grade wood from riparian forest maintenance into biochar, with waste heat feeding a district heating network."
 url: "/directory/apd/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,8 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.a-p-d.ch/" target="_blank" rel="noopener">https://www.a-p-d.ch/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apd-auen-pflege-dienst-ag/" target="_blank" rel="noopener">apd-auen-pflege-dienst-ag</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apd-wealth-management-llc/" target="_blank" rel="noopener">apd-wealth-management-llc</a></td></tr>
+  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +29,7 @@ APD (Auen Pflege Dienst AG) is a Swiss landscape-services company in Flaach, Zü
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
 - **2026-05-01** — Status Active → Likely Dead ([source](https://www.nadir2022.be/biochar-uitgelegd-cdr-toekan/))
 - **2026-04-19** — Classified as Biochar, side business, 🟢 Active ([source](https://www.a-p-d.ch/pflanzenkohle))
 - **2026-04-19** — Merged a duplicate entry: Auen Pflege Dienst APD Flaach

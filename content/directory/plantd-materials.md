@@ -34,6 +34,7 @@ Plantd is an Oxford, North Carolina-based company founded in 2021 that cultivate
 
 ## History
 
+- **2026-11-08** — News: Plantd Materials: Plantd is proud to be among the biochar producers partnering with American... ([source](https://www.linkedin.com/company/plantdmaterials/#post-11ec8af4f722))
 - **2026-09-03** — News: Plantd Materials: Today, Plantd is expanding beyond structural building panels with the launch of… ([source](https://www.linkedin.com/company/plantdmaterials/#post-62837e807e09))
 - **2026-08-20** — News: Plantd Materials: Plantd built a fully electric production line that turns fast-growing grass into… ([source](https://www.linkedin.com/company/plantdmaterials/#post-4fac16a1e079))
 - **2026-07-22** — News: Plantd Materials: Eight townhomes in #Charlotte will be a proof point for strategic relationships… ([source](https://www.linkedin.com/company/plantdmaterials/#post-4ad9357a19f9))

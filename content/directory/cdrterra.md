@@ -31,6 +31,9 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-11-12** — News: Parlamentarisches Frühstück im Bundestag | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526608245356953603/))
+- **2026-11-11** — News: #cdrterra #climateaction #carbondioxideremoval | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526203394231844864/))
+- **2026-11-09** — News: #cdrterra #cdr #euets | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7525481483965333505/))
 - **2026-10-30** — News: #cop31 | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7521882780696379392/))
 - **2026-10-28** — News: Meet CDRterra Scientists: Ronja Wollnik and Dr. Nils Matzner | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521138300871401472/))
 - **2026-10-27** — News: #munichclimateweek #cdr #cdr #carbondioxideremoval #wissenschaftskommunikation | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520463225004511232/))
@@ -58,9 +61,6 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 - **2026-07-24** — News: CDRterra: Wie viel Platz braucht CO2-Entnahme eigentlich – und was bedeutet das für die Landnutzung ([source](https://www.linkedin.com/company/cdrterra/#post-82798dbe8556))
 - **2026-07-02** — News: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
 - **2026-06-27** — News: #cdrterra #carbondioxideremoval #cdr #climateresearch | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476209175195222016/))
-- **2026-06-24** — News: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
-- **2026-06-24** — News: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
-- **2026-06-24** — News: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
 
 ---
 

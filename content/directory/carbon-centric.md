@@ -30,6 +30,7 @@ Carbon Centric is a Norwegian carbon-capture developer founded in 2021 that buil
 
 ## History
 
+- **2026-11-13** — News: BECCS Kirkenær — Other emerging ([source](https://puro.earth/cdr-credit-suppliers/facilities/beccs-kirkenaer))
 - **2026-11-02** — News: Carbon Centric: A year of operational success in carbon capture at Rakkestad. The first Canopy by ([source](https://www.linkedin.com/company/carboncentric/#post-c33dabafb4c3))
 - **2026-10-03** — News: Carbon Centric: The EU proposes to buy up to 250 million permanent carbon removal units. Overall… ([source](https://www.linkedin.com/company/carboncentric/#post-22534bb1dd0d))
 - **2026-07-23** — News: Carbon Centric AS: The first Canopy by T.ENTM powered by Shell CANSOLV® carbon capture solution is… ([source](https://www.linkedin.com/company/carboncentric/#post-fd60a6c432b3))

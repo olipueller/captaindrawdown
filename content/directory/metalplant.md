@@ -5,7 +5,7 @@ type: "directory"
 description: "Grinds olivine and spreads it on serpentine soils in Albania where nickel-hyperaccumulator plants grow, co-producing ERW-based CDR and extracting nickel from plant biomass."
 url: "/directory/metalplant/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://metalplant.com/" target="_blank" rel="noopener">https://metalplant.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phytomining/" target="_blank" rel="noopener">phytomining</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Metalplant is a US-domiciled startup with field operations in northern Albania t
 
 ## History
 
+- **2026-11-15** — Status Active → Suspect ([source](https://metalplant.com/))
 - **2026-09-15** — Status Suspect → Active ([source](https://metalplant.com/))
 - **2026-07-15** — Status Moderate → Suspect ([source](https://metalplant.com/))
 - **2026-05-01** — Status Active → Moderate ([source](https://metalplant.com/))

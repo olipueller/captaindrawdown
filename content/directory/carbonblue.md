@@ -31,6 +31,7 @@ CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri 
 
 ## History
 
+- **2026-11-08** — News: SeaO2: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy to... ([source](https://www.linkedin.com/company/seao2-io/#post-07fbe3726f2a))
 - **2026-11-02** — News: CarbonBlue: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very… ([source](https://www.linkedin.com/company/carbonblue-cc/#post-68291396bd61))
 - **2026-10-09** — News: SeaO2: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy to… ([source](https://www.linkedin.com/company/seao2-io/#post-eb832fd56eb3))
 - **2026-10-03** — News: CarbonBlue: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very… ([source](https://www.linkedin.com/company/carbonblue-cc/#post-622b051e39ab))

@@ -31,6 +31,7 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-11-07** — News: Cultivo: Good grazing isn't just good for the herd. New research shows it's good for the land… ([source](https://www.linkedin.com/company/cultivo/#post-43aa3a8d0b33))
 - **2026-10-30** — News: Settling-driven Rayleigh–Taylor instability in a pre-existing turbulent field ([source](https://doi.org/10.31223/x5jj8x))
 - **2026-10-26** — News: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based… ([source](https://cdrxiv.org/preprint/568))
 - **2026-10-24** — News: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency… ([source](https://doi.org/10.5194/egusphere-2026-5784))
@@ -60,7 +61,6 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 - **2026-08-19** — News: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried… ([source](https://bsky.app/profile/dpaessler.bsky.social/post/3mtgruuzq4s2a))
 - **2026-08-16** — News: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
 - **2026-08-15** — News: Tamu group: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
-- **2026-08-14** — News: PyroCCS: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled… ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
 
 ---
 

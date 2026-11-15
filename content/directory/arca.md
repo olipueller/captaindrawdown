@@ -33,6 +33,7 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ## History
 
+- **2026-11-08** — News: Swift Creek sediment carbon removal research project — other-emerging ([source](https://www.einpresswire.com/article/954831388/capturing-carbon-while-capturing-asbestos))
 - **2026-10-09** — News: Climate overshoot is here. Canada can build the industry that helps contain it | Canada's National… ([source](https://www.nationalobserver.com/2026/10/09/opinion/climate-overshoot-carbon-removal-tech))
 - **2026-09-18** — News: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero… ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
 - **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))

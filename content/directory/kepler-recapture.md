@@ -5,7 +5,7 @@ type: "directory"
 description: "Conceptual design of autonomous offshore spar platforms using OTEC to power combined seawater desalination and CO2 extraction from ocean and air, converting captured carbon into durable co-products."
 url: "/directory/kepler-recapture/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://keplerrecapture.com/" target="_blank" rel="noopener">https://keplerrecapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kepler-recapture/" target="_blank" rel="noopener">kepler-recapture</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -31,6 +31,7 @@ Kepler ReCapture is an Austin, Texas-based division of aerospace/defense consult
 
 ## History
 
+- **2026-11-15** — Status Active → Suspect ([source](https://keplerrecapture.com/))
 - **2026-09-15** — Status Suspect → Active ([source](https://keplerrecapture.com/))
 - **2026-06-15** — Status Active → Suspect ([source](https://keplerrecapture.com/))
 - **2026-05-01** — Status Moderate → Active ([source](https://keplerrecapture.com/))

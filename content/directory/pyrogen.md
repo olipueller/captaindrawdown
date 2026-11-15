@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes invasive/waste biomass into biochar and blends it into patented concrete mix designs for construction products, permanently sequestering carbon in the built environment."
 url: "/directory/pyrogen/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrogen.energy/" target="_blank" rel="noopener">https://www.pyrogen.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrogen-energy/" target="_blank" rel="noopener">pyrogen-energy</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Pyrogen is a Kenya-based biochar-concrete carbon removal startup founded in 2022
 
 ## History
 
+- **2026-11-15** — Status Active → Suspect ([source](registry_activity))
 - **2026-04-19** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.pyrogen.energy/))
 - **2026-04-18** — Classified as Biochar, supplier, 🟢 Active ([source](https://www.pyrogen.energy/))
 - **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))

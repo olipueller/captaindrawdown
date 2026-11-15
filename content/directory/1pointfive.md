@@ -31,6 +31,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-11-11** — News: These fast-growing energy cos. are finalists for Houston Scaleup of the Year ([source](https://energycapitalhtx.com/these-fast-growing-energy-cos-are-finalists-for-houston-scaleup-of-the-year))
 - **2026-11-03** — News: Liverpool FC ↔ 1PointFive — dac ([source](https://www.1pointfive.com/news/lfc-and-1pointfive-extend-pioneering-product-collaboration-for-fans))
 - **2026-10-27** — News: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-22** — News: &amp;quot;We should be taking carbon out of the atmosphere to help solve some of the problem. Don’t ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518806160716574720/))

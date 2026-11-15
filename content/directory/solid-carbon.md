@@ -31,6 +31,7 @@ Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a U
 
 ## History
 
+- **2026-11-10** — News: Zem je zachránená. Odborníci našli konečné riešenie na klimatickú krízu, máme ho „pod nosom" ([source](https://fontech.startitup.sk/prelomovy-projekt-solid-carbon-zachrana-zeme-pokracuje-koniec-klimatickej-krizy/))
 - **2026-10-08** — News: Algorhythm Introduces Azure P2PTM, a Renewable Power Generation Process Designed to Deliver… ([source](https://techbullion.com/algorhythm-introduces-azure-p2p-a-renewable-power-generation-process-designed-to-deliver-around-the-clock-power/))
 - **2026-09-22** — News: Carbon Char Store: We are excited to share that Brian Reynolds , has joined subcommittee at the… ([source](https://www.linkedin.com/company/carbon-char-store/#post-e62accc79aad))
 - **2026-08-13** — News: КОМПЛЕКСНА ОЦІНКА ТЕХНОЛОГІЙ ПІРОЛІЗУ АГРАРНОЇ БІОМАСИ: ЕФЕКТИВНІСТЬ, МАСШТАБУВАННЯ ТА ОХОРОНА… ([source](https://openalex.org/W7172194218))

@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-10-25** — News: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident… ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
 - **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-09-29** — News: Sumitomo Corporation: Congratulations to our partner Graphyte on the grand opening of their… ([source](https://www.linkedin.com/company/sumitomocorporation/#post-cf3e384f937b))
@@ -73,7 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-04** — News: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
 - **2026-06-03** — News: Startup scores big investment for storing carbon in wood bricks - E&E News by POLITICO ([source](https://www.eenews.net/articles/startup-scores-big-investment-for-storing-carbon-in-wood-bricks/))
 - **2026-06-03** — News: Graphyte Secures Backing From Sumitomo And Expands Partnerships ([source](https://carbonherald.com/graphyte-secures-backing-from-sumitomo-and-expands-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=graphyte-secures-backing-from-sumitomo-and-expands-partnerships))
-- **2026-05-06** — News: Carbon Removal, Corporate Targets, and Supply Chain Gaps: Where ESG Stands in 2025 | Livio Acerbo’s ([source](https://www.acerbolivio.com/2026/05/06/carbon-removal-corporate-targets-and-supply-chain-gaps-where-esg-stands-in-2025/))
 
 ---
 

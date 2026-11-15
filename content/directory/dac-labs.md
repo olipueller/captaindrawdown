@@ -5,7 +5,7 @@ type: "directory"
 description: "Aqueous electrochemical DAC using earth-abundant electroactive capturing agents (e.g., Alizarin Red S) in a redox flow cell, with storage via natural mineral carbonation."
 url: "/directory/dac-labs/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.daclaboratories.com/" target="_blank" rel="noopener">https://www.daclaboratories.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dac-laboratories/" target="_blank" rel="noopener">dac-laboratories</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Dac Labs (Dac Laboratories) is a University of Sydney spinout developing a low-c
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.daclaboratories.com/media))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://www.daclaboratories.com/media))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://www.daclaboratories.com/media))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://www.daclaboratories.com/media))

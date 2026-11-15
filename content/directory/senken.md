@@ -30,6 +30,7 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-11-12** — News: Parlamentarisches Frühstück im Bundestag | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526608245356953603/))
 - **2026-10-05** — News: CarStorCon: Neugründung der „Allianz für CO2-Entnahme im Bau“ Am 23.9. haben wir gemeinsam mit… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
 - **2026-09-28** — News: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
 - **2026-08-26** — News: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
@@ -59,7 +60,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 - **2026-05-22** — News: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate… ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
 - **2026-05-22** — News: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
 - **2026-05-22** — News: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa… ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
-- **2026-05-21** — News: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
 
 ---
 

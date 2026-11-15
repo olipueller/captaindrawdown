@@ -34,6 +34,19 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-11-14** — News: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver… ([source](https://www.linkedin.com/company/roblumco/#post-90d95d476026))
+- **2026-11-13** — News: #cop31 #crcf #carbonremoval #cdr #naturecredits #finlandpavilion #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7527044980910116865/))
+- **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
+- **2026-11-13** — News: Varaha: Agnisparsh, our community-led biochar project in Western India, has been assigned a BeZero... ([source](https://www.linkedin.com/company/varaha-carbontech/#post-2ca58854f2ab))
+- **2026-11-13** — News: #cop31 #thinknegative #carbonremoval #cdr #corcs #biochar #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526689672656404482/))
+- **2026-11-12** — News: #cop31 #thinknegative #carbonremoval #cdr #corcs #article6 #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526509103481819136/))
+- **2026-11-11** — News: “The Implementation COP”: Finance, Carbon Markets, and the Realities of COP31 ([source](https://www.clearbluemarkets.com/knowledge-base/the-implementation-cop-finance-carbon-markets-and-the-realities-of-cop31))
+- **2026-11-11** — News: Climeworks Solutions: 250+ corporate customers. 17,000 retail customers. More than 1 million tons... ([source](https://www.linkedin.com/company/climeworks/#post-63def5dfd9d2))
+- **2026-11-10** — News: Carbonex | Soler Group: 10 000 TONNES DE CO2 STOCKÉES DURABLEMENT ! SOLER Group entreprise... ([source](https://www.linkedin.com/company/carbonex/#post-a3d032e00d10))
+- **2026-11-09** — News: Terra Preta (Cotierra): Trust is built on delivery. We’re excited to share a major milestone with... ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-93bda950f4de))
+- **2026-11-07** — News: UNDO: A bumper month for spreading, an award-winning CFO, and a closer look at scaling carbon... ([source](https://www.linkedin.com/company/undocarbon/#post-106add182f99))
+- **2026-11-07** — News: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important... ([source](https://www.linkedin.com/company/capchar/#post-da83e6692925))
+- **2026-11-06** — News: Puro.earth at COP31 - Puro.earth ([source](https://puro.earth/insights/post/puro-earth-at-cop31/))
 - **2026-11-06** — News: Bordet: Congratulations to Puro.earth supplier Neustark on its first CORC issuance. neustark has... ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-4fe8899f13fd))
 - **2026-11-06** — News: Neustark: What does it take for a tonne of carbon removal ( #CDR ) to become a credit a buyer can... ([source](https://www.linkedin.com/company/neustark/#post-bdb9a2bc3f58))
 - **2026-11-05** — News: #carbonremoval #cdr #corcs #mineralization #builtenvironment #purostandard #neustark | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7524108474306269185/))
@@ -51,19 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-10-30** — News: Puro.earth reports that it has published its CCS+ Program methodology documents, which bring the… ([source](https://puro.earth/insights/post/puro-earth-expands-daccs-certification-with-ccs-methodologies))
 - **2026-10-30** — News: Explore the Carbon Issuance Calendar | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521642817123954689/))
 - **2026-10-29** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
-- **2026-10-29** — News: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth… ([source](https://www.linkedin.com/company/ep-carbon/#post-108532950bcf))
-- **2026-10-29** — News: Jain Irrigation Systems: We've signed a supply agreement for up to 19000 tonnes with Jain… ([source](https://www.linkedin.com/company/jain-irrigation-systems-ltd-/#post-65a920dade96))
-- **2026-10-27** — News: Terradot and HASI Close $34M Investment for Carbon Removal Projects ([source](https://finance.yahoo.com/energy/articles/terradot-hasi-close-34m-investment-140000988.html))
-- **2026-10-27** — News: Terradot and HASI Close $34M Investment for Carbon Removal Projects | FinancialContent ([source](https://www.financialcontent.com/article/bizwire-2026-10-27-terradot-and-hasi-close-34m-investment-for-carbon-removal-projects))
-- **2026-10-27** — News: Puro.earth Now Offers CCS+ DACCS Certification Via Its Multi-Program Framework ([source](https://carbonherald.com/puro-earth-now-offers-ccs-daccs-certification-via-its-multi-program-framework/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-now-offers-ccs-daccs-certification-via-its-multi-program-framework))
-- **2026-10-27** — News: Nuffield Scholar Reports Back On Biochar’s Potential ([source](https://www.global-agriculture.com/global-agriculture/nuffield-scholar-reports-back-on-biochars-potential/))
-- **2026-10-27** — News: ADM: ADM is making investments in its Columbus, Nebraska, ethanol plant that are expected to add 20 ([source](https://www.linkedin.com/company/adm/#post-2e622a55e5c9))
-- **2026-10-26** — News: Substrate Biochar: BIG NEWS - Charworks 01, our first site in South Africa, is now operational. Our ([source](https://www.linkedin.com/company/substrate-biochar/#post-d0966624a72c))
-- **2026-10-26** — News: Longstraw Carbon: Our 16th newsletter is live- We have news from the fields. In July and August… ([source](https://www.linkedin.com/company/longstraw-carbon/#post-aa05373e1669))
-- **2026-10-22** — News: Reverse Coal - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/reverse-coal/))
-- **2026-10-22** — News: #cop31 #thinknegative #carbonremoval #cdr #climateaction #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7518649187824123904/))
-- **2026-10-21** — News: Puro: CCS+ DACCS certification is now available through Puro.earth ’s Multi-Program Framework.… ([source](https://www.linkedin.com/company/puro-earth/#post-10d7c3513d8c))
-- **2026-10-19** — News: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano, ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
 
 ---
 

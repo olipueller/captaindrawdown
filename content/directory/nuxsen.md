@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops electrochemical direct air capture reactors (CarbonJet, SlipStream) using a patented solid sorbent activated by variable voltage rather than heat."
 url: "/directory/nuxsen/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://nuxsen.com/" target="_blank" rel="noopener">https://nuxsen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuxsen/" target="_blank" rel="noopener">nuxsen</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Nūxsen is a New York-based direct air capture startup founded in 2022 developin
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://nuxsen.com/news/))
 - **2026-09-15** — Status Likely Dead → Active ([source](https://nuxsen.com/news/))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://nuxsen.com/news/))
 - **2026-05-01** — Status Likely Dead → Active ([source](https://nuxsen.com/news/))

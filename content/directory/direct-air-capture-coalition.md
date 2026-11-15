@@ -5,7 +5,7 @@ type: "directory"
 description: "Non-profit multi-stakeholder coalition advocating for and coordinating the Direct Air Capture industry through policy engagement, conferences, and a global DAC deployment map."
 url: "/directory/direct-air-capture-coalition/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://daccoalition.org/" target="_blank" rel="noopener">https://daccoalition.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/daccoalition/" target="_blank" rel="noopener">daccoalition</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ The Direct Air Capture Coalition was founded in 2022 as a non-profit, multi-stak
 
 ## History
 
+- **2026-11-15** — Status Active → Moderate
 - **2026-08-15** — Status Moderate → Active
 - **2026-07-23** — News: Direct Air Capture Coalition: The U.S. Department of Energy is terminating billions in funding for… ([source](https://www.linkedin.com/company/daccoalition/#post-a46320d87b6e))
 - **2026-04-19** — Status Active → Moderate

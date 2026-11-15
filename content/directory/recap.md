@@ -30,6 +30,7 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-11-10** — News: Durable CDR Market Recap: October 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-october-2026))
 - **2026-10-19** — News: Recap: Today was the final decommission of our 2nd Generation yardwaste-to-biochar pyrolysis pilot… ([source](https://www.linkedin.com/company/recap-carbon/#post-73cc17c3afa3))
 - **2026-10-06** — News: Durable CDR Market Recap: September 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2026))
 - **2026-10-06** — News: Let that sink in: the Carbon Gap CDR recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7512870406601457664/))

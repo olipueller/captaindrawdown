@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-10** — News: Exclusive: Vaulted Deep Welcomes Former RMI CEO Jules Kortenhorst As Senior Advisor ([source](https://carbonherald.com/exclusive-vaulted-deep-welcomes-former-rmi-ceo-jules-kortenhorst-as-senior-advisor/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-vaulted-deep-welcomes-former-rmi-ceo-jules-kortenhorst-as-senior-advisor))
 - **2026-11-01** — News: ClimeFi: Lenders are increasingly willing to provide debt financing to carbon removal projects… ([source](https://www.linkedin.com/company/carbonx-world/#post-a8fe4eb97a13))
 - **2026-10-16** — News: Houston-based Coflux, DexMat named to 2026 Cleantech 50 to Watch list - Energy Capital ([source](https://energycapitalhtx.com/2026-cleantech-50-to-watch-list))
 - **2026-10-16** — News: Stardust Power, Power Electronics expand to Houston and more top energy news ([source](https://energycapitalhtx.com/stardust-power-houston-trending-news))

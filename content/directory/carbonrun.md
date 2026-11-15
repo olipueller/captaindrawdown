@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-10-13** — News: #rae #rae #cdrcoffeetalk | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515489465713291267/))
 - **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-10-03** — News: CarbonRun: In June 2025, we paid CarbonRun for 450 tons of river alkalinity credits that hadn't… ([source](https://www.linkedin.com/company/carbonrun/#post-b5edb88e0020))

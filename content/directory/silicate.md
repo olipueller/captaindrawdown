@@ -31,6 +31,10 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
+- **2026-11-13** — News: Basalt Rock Powder Mitigates Greenhouse Gas Emissions in Rice Paddy Soil ([source](https://bioengineer.org/basalt-rock-powder-mitigates-greenhouse-gas-emissions-in-rice-paddy-soil/))
+- **2026-11-11** — News: From mineral weathering to alkalinity export: a soil-barrier diagnostic for enhanced rock... ([source](https://doi.org/10.3389/fclim.2026.1979636))
+- **2026-11-11** — News: Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon… ([source](https://doi.org/10.5194/bg-23-7727-2026))
+- **2026-11-10** — News: Secretary-General Chris Sherwood is representing the Negative Emissions Platform at the European... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525909024568074240/))
 - **2026-11-05** — News: Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits… ([source](https://doi.org/10.70212/cdrxiv.2026570.v1))
 - **2026-11-05** — News: Limited effect of basalt amendment and mycorrhizal inoculation on soil chemical properties and… ([source](https://doi.org/10.5194/soil-12-1057-2026))
 - **2026-11-05** — News: Integrating Biochar and Basaltic Rock for Carbon Dioxide Removal via Enhanced Silicate Weathering… ([source](https://doi.org/10.21203/rs.3.rs-11174511/v1))
@@ -57,10 +61,6 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 - **2026-09-25** — News: Evidence of rapid basalt dissolution in Southeastern US croplands ([source](https://cdrxiv.org/preprint/551))
 - **2026-09-24** — News: Proceedings of the Enhanced Rock Weathering Research in Australia and New Zealand Symposium 2026 ([source](https://doi.org/10.25903/h747-mv65))
 - **2026-09-18** — News: Silicate rock remineralizers sustain soil potassium availability and irrigated rice yield in… ([source](https://www.researchsquare.com/article/rs-10778596/v1))
-- **2026-09-18** — News: Reply on RC4 ([source](https://doi.org/10.5194/egusphere-2026-4145-ac3))
-- **2026-09-18** — News: Reply on RC3 ([source](https://doi.org/10.5194/egusphere-2026-4145-ac2))
-- **2026-09-18** — News: Reply on RC5 ([source](https://doi.org/10.5194/egusphere-2026-4145-ac4))
-- **2026-09-18** — News: Serpentinite as a strategic Earth material: geological controls, mineral reactivity, carbon… ([source](https://doi.org/10.1007/s12665-026-13127-5))
 
 ---
 

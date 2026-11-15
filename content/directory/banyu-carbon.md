@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses reversible photoacids activated by sunlight to release CO2 from seawater, enabling the ocean to reabsorb atmospheric CO2 while storing captured CO2 geologically or in products."
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.banyucarbon.com/" target="_blank" rel="noopener">https://www.banyucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
+- **2026-11-06** — News: Sunlight-powered technology aims to remove carbon dioxide from the atmosphere - Caribbean... ([source](https://www.cbc.bb/main-stories/sunlight-powered-technology-aims-to-remove-carbon-dioxide-from-the-atmosphere/))
+- **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air - KVIA ([source](https://kvia.com/cnn-other/2026/11/06/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))
 - **2026-11-06** — News: Scientists are sucking CO2 from the air with sunlight - United States ([source](https://www.europesays.com/us/1168315/))
 - **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air | News... ([source](https://keyt.com/news/national-world/cnn-other/2026/11/05/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))
 - **2026-11-06** — News: How Marlon Brando’s private island inspired a plan to suck carbon pollution from the air… ([source](https://abc17news.com/cnn-other/2026/11/06/how-marlon-brandos-private-island-inspired-a-plan-to-suck-carbon-pollution-from-the-air/))

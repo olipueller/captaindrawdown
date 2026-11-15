@@ -34,6 +34,17 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-11-13** — News: Isometric’s Lukas May recently joined Gordon Bennett of ICE at the NYSE to discuss what it will... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526956568660062208/))
+- **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
+- **2026-11-13** — News: Bioenergie Frauenfeld: More than 70% of all biochar carbon removal delivered worldwide in… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-542926d6ae99))
+- **2026-11-13** — News: Varaha: Agnisparsh, our community-led biochar project in Western India, has been assigned a BeZero... ([source](https://www.linkedin.com/company/varaha-carbontech/#post-2ca58854f2ab))
+- **2026-11-12** — News: [C]Worthy: We're releasing the latest version of C-Star, our open-source toolkit built for... ([source](https://www.linkedin.com/company/cworthy/#post-2a33547797b9))
+- **2026-11-12** — News: Pacific Biochar: Isometric has issued Pacific Biochar ’s first verified carbon removal credits... ([source](https://www.linkedin.com/company/pacific-biochar/#post-1c26064fe40a))
+- **2026-11-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's... ([source](https://www.linkedin.com/company/carbainc/#post-e128652c81e3))
+- **2026-11-09** — News: AspiraDAC/Corporate Carbon: Isometric has certified the Savanna Fire Management (SFM) Protocol... ([source](https://www.linkedin.com/company/aspiradac/#post-230b014e2142))
+- **2026-11-07** — News: UNDO: A bumper month for spreading, an award-winning CFO, and a closer look at scaling carbon... ([source](https://www.linkedin.com/company/undocarbon/#post-106add182f99))
+- **2026-11-07** — News: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to... ([source](https://www.linkedin.com/company/lithoscarbon/#post-9fddbf3aecfa))
+- **2026-11-07** — News: ABREFEN ITMOS | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524529012992397312/))
 - **2026-11-04** — News: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for… ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
 - **2026-11-04** — News: ICE: Isometric Series A ([source](https://esgnews.com/isometric-raises-50-million-series-a-with-ice-backing))
 - **2026-11-03** — News: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
@@ -53,17 +64,6 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 - **2026-10-25** — News: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident… ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
 - **2026-10-23** — News: Terraton Issues First Verified Biochar Carbon Removal Credits And Signs Agreements Covering Up To… ([source](https://www.ccarbon.info/news/terraton-issues-first-verified-biochar-carbon-removal-credits-and-signs-agreements-covering-up-to-97240-tonnes/))
 - **2026-10-22** — News: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits… ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))
-- **2026-10-20** — News: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with… ([source](https://www.voiceofalexandria.com/news/national_business_news/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate/article_d96a7803-8de9-5177-9ccd-3379327b6784.html))
-- **2026-10-19** — News: A road project generated the first verified credits for removing carbon from the air. ([source](https://www.stocktitan.net/news/VRDR/verde-resources-pioneering-a-novel-approach-for-turning-roads-into-5xk1twuoel0j.html))
-- **2026-10-19** — News: Verde Resources Pioneering a Novel Approach For Turning Roads Into Carbon Assets | The Manila Times ([source](https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/verde-resources-pioneering-a-novel-approach-for-turning-roads-into-carbon-assets/2448962))
-- **2026-10-19** — News: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano, ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
-- **2026-10-17** — News: Next week, Isometric is headed to Carbon Unbound Europe. On the main stage, Lukas May will join… ([source](https://www.linkedin.com/feed/update/urn:li:share:7516814285952446464/))
-- **2026-10-16** — News: Perennial: Isometric has just certified a new Grazing Lands Management Module, opening another… ([source](https://www.linkedin.com/company/perennial-earth/#post-81d3f583bace))
-- **2026-10-16** — News: Isometric: Isometric has released the draft Orphaned Well Plugging Protocol for public… ([source](https://www.linkedin.com/company/exponential-hq/#post-a1c744c657be))
-- **2026-10-16** — News: Gevo: A project like Gevo North Dakota (GND) that’s delivering today is a great candidate to trust… ([source](https://www.linkedin.com/company/gevo/#post-dff393af1dae))
-- **2026-10-15** — News: CP Daily Newsletter: Wednesday October 14, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/560337/))
-- **2026-10-15** — News: Nature & Biodiversity Pulse Newsletter: Wednesday October 14, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/560160/?site=cpp))
-- **2026-10-15** — News: Australian research agency building A$10.2 mln DAC materials centre « Carbon Pulse ([source](https://carbon-pulse.com/560532/))
 
 ---
 

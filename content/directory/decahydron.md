@@ -5,7 +5,7 @@ type: "directory"
 description: "Injects supersaturated CO2 into ultramafic rock to simultaneously mineralize the CO2 into stone and displace/extract naturally occurring hydrogen (serpentinization), co-producing natural H2 and…"
 url: "/directory/decahydron/"
 pathway: "Mineralization"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.decahydron.com/" target="_blank" rel="noopener">https://www.decahydron.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decahydron/" target="_blank" rel="noopener">decahydron</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Decahydron is an Irish startup developing an integrated natural hydrogen extract
 
 ## History
 
+- **2026-11-15** — Status Active → Moderate
 - **2026-08-15** — Status Moderate → Active
 - **2026-08-08** — News: Decahydron: Natural Hydrogen in Ophiolitic Settings Four publications this week converge on a… ([source](https://www.linkedin.com/company/decahydron/#post-c3ecbafa9c5b))
 - **2026-08-08** — News: Decahydron: This Week in Natural Hydrogen Research (W09) New research from the Oman Ophiolite is… ([source](https://www.linkedin.com/company/decahydron/#post-874f667b3974))

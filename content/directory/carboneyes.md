@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of waste sugarcane bagasse into biochar, applied to smallholder farmers' soils for durable carbon storage."
 url: "/directory/carboneyes/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboneyes.co/" target="_blank" rel="noopener">https://www.carboneyes.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneyesltd/" target="_blank" rel="noopener">carboneyesltd</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -38,6 +38,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-15** — Status Active → Suspect ([source](https://linkedin.com/posts/isometric-hq_meet-carboneyesa-new-isometric-supplier-activity-7428007228860772352-DNca))
 - **2026-08-15** — Status Moderate → Active ([source](https://linkedin.com/posts/isometric-hq_meet-carboneyesa-new-isometric-supplier-activity-7428007228860772352-DNca))
 - **2026-07-27** — News: Carboneyes: Meet Carboneyes —a new Isometric supplier working to remove over 500,000 tonnes of… ([source](https://www.linkedin.com/company/carboneyesltd/#post-bc54706b80ec))
 - **2026-05-01** — Status Active → Moderate ([source](https://linkedin.com/posts/isometric-hq_meet-carboneyesa-new-isometric-supplier-activity-7428007228860772352-DNca))

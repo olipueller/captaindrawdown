@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes biogenic residues (wood, grape pomace, miscanthus, urban lop) at ~400-700°C to produce EBC-certified biochar for soil applications and CDR credits."
 url: "/directory/swiss-biochar/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.swiss-biochar.com/" target="_blank" rel="noopener">https://www.swiss-biochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/swissbiochar/" target="_blank" rel="noopener">swissbiochar</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Swiss Biochar is a Swiss producer of EBC-certified biochar and soil substrates b
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.swiss-biochar.com/?lang=en))
 - **2026-08-15** — Status Suspect → Active ([source](https://www.swiss-biochar.com/?lang=en))
 - **2026-08-06** — News: Isometric Issues First Swiss Biochar Certificates to Bioenergie Frauenfeld AG – Biochar Today ([source](https://biochartoday.com/news/isometric-issues-first-swiss-biochar-certificates-to-bioenergie-frauenfeld-ag/))
 - **2026-05-01** — Status Active → Suspect ([source](https://www.swiss-biochar.com/?lang=en))

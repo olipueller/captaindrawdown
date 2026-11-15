@@ -34,6 +34,7 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
+- **2026-11-14** — News: Skytree: Our crowdfunding campaign on Republic Europe is now officially closed, and the response... ([source](https://www.linkedin.com/company/skytree/#post-81eed6bd98e3))
 - **2026-10-23** — News: Skytree, Galetech, And Mwahera Partner On Direct Air Capture For E-Fuel Production In Kenya ([source](https://carbonherald.com/skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya))
 - **2026-10-07** — News: Skytree To Develop Its First Skypark In Iceland With New $1.1M Loan From Invest International ([source](https://carbonherald.com/skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international))
 - **2026-10-07** — News: Skytree secures €1 million development loan from Invest ... ([source](https://skytree.tech/en-en/news/skytree-secures-1-million-development-loan-from-invest-international-for-its-first-skypark-co-as-a-service-project-in-iceland))

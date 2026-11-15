@@ -5,7 +5,7 @@ type: "directory"
 description: "Mines and crushes wollastonite (calcium silicate); supplies the fast-weathering mineral to UNDO for spreading on Ontario farmland to enable enhanced rock weathering CDR."
 url: "/directory/canadian-wollastonite/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://canadianwollastonite.com" target="_blank" rel="noopener">https://canadianwollastonite.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/canadian-wollastonite/" target="_blank" rel="noopener">canadian-wollastonite</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Moderate (score: 55/100)</td></tr>
   <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's
 
 ## History
 
+- **2026-11-15** — Status Active → Moderate
 - **2026-07-26** — News: Canadian Wollastonite: Kingston leads Ontario in climate action The City of Kingston has announced… ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-5a7da33a9d98))
 - **2026-07-26** — News: Canadian Wollastonite: Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5… ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
 - **2026-06-15** — Status Moderate → Active

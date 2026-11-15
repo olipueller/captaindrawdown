@@ -43,6 +43,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: How a new AI model could help crushed rock fight climate change - Source ([source](https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change/))
+- **2026-11-11** — News: SBTi Case Study Examines Google–Terradot’s Million-Tonne Carbon Removal Strategy ([source](https://onestopesg.com/esg-news/sbti-google-terradot-carbon-removal))
+- **2026-11-10** — News: Carbon Removal Technology Market to Reach USD 2.49 Billion by 2035 as Direct Air Capture and... ([source](https://www.openpr.com/news/4686114/carbon-removal-technology-market-to-reach-usd-2-49-billion))
+- **2026-11-10** — News: Durable Carbon Dioxide Removal (CDR) Market to Reach US$36.27 Billion by 2035 as Corporate Carbon... ([source](https://www.openpr.com/news/4686005/durable-carbon-dioxide-removal-cdr-market-to-reach-us-36-27))
+- **2026-11-07** — News: Terradot: Today Terradot and HASI announced the close of a $34 million senior secured term loan to... ([source](https://www.linkedin.com/company/terradot/#post-5052a48903d9))
+- **2026-11-07** — News: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to... ([source](https://www.linkedin.com/company/lithoscarbon/#post-9fddbf3aecfa))
+- **2026-11-07** — News: ABREFEN ITMOS | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524529012992397312/))
 - **2026-11-05** — News: Terradot acquisition of Eion ([source](https://www.datacenterdynamics.com/en/news/google-backed-enhanced-rock-weathering-firm-terradot-acquires-competitor-eion))
 - **2026-11-01** — News: Clean the Sky - Carbon Removal Project Financing ([source](https://www.cleanthesky.com/innovation/rock-weathering))
 - **2026-10-30** — News: #terradot #pwcagtechmeeting #agriculture #carbonremoval #erw | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7521975238813761536/))
@@ -66,13 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-02** — News: Terradot: BIG News! Today Terradot and Google are announcing the world’s first megaton scale… ([source](https://www.linkedin.com/company/terradot/#post-271059d94826))
 - **2026-10-01** — News: Google’s Largest Carbon-Removal Deal Targets Two Greenhouse Gases on Brazilian Farms Key Executives ([source](https://www.thekeyexecutives.com/2026/10/01/googles-largest-carbon-removal-deal-targets-two-greenhouse-gases-on-brazilian-farms/))
 - **2026-09-21** — News: Google Signs Largest Carbon Removal Deal With Terradot in Brazil ([source](https://serrarigroup.com/google-signs-largest-carbon-removal-deal-with-terradot-in-brazil/))
-- **2026-09-18** — News: Google Signs Record Carbon Removal Deal With Terradot for Brazil Rice Project ([source](https://carboncredits.com/google-signs-record-carbon-removal-deal-with-terradot-for-brazil-rice-project/))
-- **2026-09-18** — News: Google signs biggest carbon-removal deal yet, targets methane and CO2 in Brazil ([source](https://www.esgtimes.in/climate/carbon/google-signs-biggest-carbon-removal-deal-yet-targets-methane-and-co%E2%82%82-in-brazil/))
-- **2026-09-18** — News: Terradot and Google Launch World’s Largest Enhanced Rock Weathering Project - NewsBreak ([source](https://www.newsbreak.com/news/4891960716134-terradot-and-google-launch-world-s-largest-enhanced-rock-weathering-project))
-- **2026-09-17** — News: Google signs largest carbon removal deal to date in Brazil - BNamericas ([source](https://www.bnamericas.com/en/news/google-signs-largest-carbon-removal-deal-to-date-in-brazil))
-- **2026-09-17** — News: Google's Groundbreaking Carbon-Removal Project in Brazil ([source](https://www.bundle.app/en/breaking-news/googles-groundbreaking-carbon-removal-project-in-brazil-3C9C6E58-132B-4EB5-8CA9-C45AE9F7D420))
-- **2026-09-17** — News: Google agrees biggest carbon-removal deal yet, aims to scale new model - NewsBreak ([source](https://www.newsbreak.com/reuters-555486/4889342221619-google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
-- **2026-09-17** — News: Google Agrees to Biggest Carbon-Removal Deal in Brazil ([source](https://barlamantoday.com/2026/09/17/google-agrees-to-biggest-carbon-removal-deal-in-brazil/))
 
 ---
 

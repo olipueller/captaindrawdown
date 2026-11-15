@@ -5,7 +5,7 @@ type: "directory"
 description: "Electrochemical DAC prototype: concentrated KOH absorbs atmospheric CO2 as potassium carbonate, then a hydrogen-assisted carbonate electrolyzer regenerates pure CO2 and recycles the KOH at low…"
 url: "/directory/giner/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ginerinc.com/" target="_blank" rel="noopener">https://www.ginerinc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/giner-inc/" target="_blank" rel="noopener">giner-inc</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Giner, Inc. (Giner Labs) is a Newton, Massachusetts electrochemical R&D firm fou
 
 ## History
 
+- **2026-11-15** — Status Likely Dead → Active ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))
 - **2026-10-15** — Status Active → Likely Dead ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))
 - **2026-06-15** — Status Active → Likely Dead ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))

@@ -47,6 +47,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-11** — News: Food System’s Climate Problem Could Become Its Feedstock ([source](https://foodinnovatorskulmbach.substack.com/p/food-systems-climate-problem-could))
+- **2026-11-11** — News: Climeworks Solutions: 250+ corporate customers. 17,000 retail customers. More than 1 million tons... ([source](https://www.linkedin.com/company/climeworks/#post-63def5dfd9d2))
+- **2026-11-10** — News: CP Daily Newsletter: Monday November 9, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/568791/))
+- **2026-11-08** — News: Buy and Sell Climeworks Stock - Forge ([source](https://forgeglobal.com/climeworks_stock/))
+- **2026-11-06** — News: Meet Climeworks Solutions - The Science Team | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524376078413590529/))
 - **2026-11-03** — News: Japan Airlines ↔ Climeworks — biochar ([source](https://carbonherald.com/japan-airlines-climeworks-solutions-sign-historic-corsia-compliant-cdr-deal))
 - **2026-11-03** — News: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
 - **2026-11-03** — News: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
@@ -72,11 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-07** — News: A Climeworks és a DAC technológia - GREENOLOGY ([source](https://www.greenology.hu/2026/10/06/a-climeworks-es-a-dac-technologia/))
 - **2026-10-07** — News: Best Carbon Credit Platforms and Providers for Companies in 2026 ([source](https://www.senken.io/blog/12-leading-carbon-credit-providers-in-2026-a-selection-guide-for-companies))
 - **2026-10-06** — News: Best carbon offset providers for UK businesses: six starting points ([source](https://theplanetbrief.com/carbon/best-carbon-offset-providers-uk/))
-- **2026-10-02** — News: Episode 33: Helin Cox (Climeworks) - A CTO&#x27;s Guide to Scaling First-of-a-Kind Technology |… ([source](https://www.adopter.net/podcast/episode-33-helin-cox-a-ctos-guide-to-scaling-first-of-a-kind-technology))
-- **2026-09-30** — News: #climateweeknyc #carbonremoval #netzero #climeworks | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510668733732986880/))
-- **2026-09-29** — News: Climeworks wins £784,000 UK govt. carbon credit tender ([source](https://www.qcintel.com/carbon/article/climeworks-wins-784-000-uk-govt-carbon-credit-tender-73983.html))
-- **2026-09-28** — News: Japan Airlines Cuts CO2 to 9.13M Tons, Expands Carbon Credit Strategy • Carbon Credits ([source](https://carboncredits.com/japan-airlines-cuts-co%e2%82%82-to-9-13m-tons-expands-carbon-credit-strategy/))
-- **2026-09-28** — News: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS… ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
 
 ---
 

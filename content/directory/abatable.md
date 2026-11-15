@@ -34,6 +34,7 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 
 ## History
 
+- **2026-11-07** — News: Abatable: Total retirements in the voluntary carbon market have held at around 180mn tonnes a year... ([source](https://www.linkedin.com/company/abatable/#post-fec846b3fe5e))
 - **2026-10-01** — News: Abatable: The EU's Empowering Consumers for the Green Transition Directive came into force over… ([source](https://www.linkedin.com/company/abatable/#post-7381730c31e5))
 - **2026-09-21** — News: The carbon credits debate is finally shifting from 'whether' to invest to 'how' | BusinessGreen… ([source](https://www.businessgreen.com/opinion/4535998/carbon-credits-debate-finally-shifting-invest))
 - **2026-09-18** — News: Google inks its 'largest ever' carbon and methane removal deal | BusinessGreen News ([source](https://www.businessgreen.com/news/4535889/google-inks-largest-carbon-methane-removal-deal))

@@ -29,6 +29,7 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 
 ## History
 
+- **2026-11-07** — News: California’s first carbon capture project shot down in court in setback for climate policy - Palo... ([source](https://www.paloaltoonline.com/calmatters/2026/11/05/californias-first-carbon-capture-project-shot-down-in-court-in-setback-for-climate-policy/))
 - **2026-08-22** — News: CARBOLIVA SLU: ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-a3ca5c7fe524))
 - **2026-08-08** — News: CARBOLIVA SLU: ð Â¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar… ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-c8ee202c91ca))
 - **2026-08-01** — News: Econew: Uma nova era de sustentabilidade começa em Várzea da Palma! Temos o prazer de anunciar… ([source](https://www.linkedin.com/company/econew/#post-fd72061cdec2))

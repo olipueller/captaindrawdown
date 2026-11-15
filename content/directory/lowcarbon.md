@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops \"Zero C\" DAC units and the KLC catalyst that mineralizes captured CO2 into carbonates, plus clean hydrogen production paired with CO2 capture."
 url: "/directory/lowcarbon/"
 pathway: "DAC"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbon.co.kr/en/" target="_blank" rel="noopener">https://www.lowcarbon.co.kr/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8/" target="_blank" rel="noopener">%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ LowCarbon is a South Korean climate-tech company founded in 2016 in Gangjin Coun
 
 ## History
 
+- **2026-11-15** — Status Active → Likely Dead ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://www.lowcarbon.co.kr/communication/newsroom/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8-%ED%99%98%EA%B2%BD%EC%9E%AC%EB%8B%A8%EA%B3%BC-%EB%8C%80%EA%EA%B8%B0-%EC%A4%91-co%E2%82%82-%ED%8F%AC%EC%A7%91%EA%B8%B0-%EC%82%AC%EC%97%85-mou/))
 - **2026-07-22** — News: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science… ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
 - **2026-07-22** — News: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete… ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))

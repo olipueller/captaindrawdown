@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops Ocean Alkalinity Enhancement (OAE) projects for verifiable marine CO2 removal, with MRV, safety guardrails, and community-first project design, alongside blue carbon approaches."
 url: "/directory/nuwa-solutions/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.nuwasolutions.org/" target="_blank" rel="noopener">https://www.nuwasolutions.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuwasolutions/" target="_blank" rel="noopener">nuwasolutions</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ NuWa Solutions was founded in 2025 and is headquartered in Dover, DE, with 1 tot
 
 ## History
 
+- **2026-11-15** — Status Active → Suspect ([source](https://www.carbontosea.org/2026-hill-day/))
 - **2026-08-15** — Status Moderate → Active ([source](https://www.carbontosea.org/2026-hill-day/))
 - **2026-08-02** — News: NuWa Solutions: Thank you to the ocean community at large for standing up for the Ocean… ([source](https://www.linkedin.com/company/nuwasolutions/#post-717fea37ec08))
 - **2026-04-19** — Classified as Ocean CDR, supplier, 🟡 Moderate ([source](https://www.nuwasolutions.org/))

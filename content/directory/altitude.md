@@ -32,6 +32,7 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-11-08** — News: Equilibrium: #1 globally in Biochar Carbon Removal deliveries A defining milestone for our... ([source](https://www.linkedin.com/company/equilibrium-earth/#post-ff623d3b2e28))
 - **2026-09-25** — News: Carbon Removal India Alliance: ð®ð3 Indiaâs Top Carbon Removal Suppliers ð®ð3 As durable… ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
 - **2026-08-23** — News: Altitude Carbon: Altitude is expanding its partnership with Fusinite: higher quality data to… ([source](https://www.linkedin.com/company/altitude-sustainable/#post-ff14607f0136))
 - **2026-08-09** — News: Altitude Carbon: What does demand actually look like in the biochar carbon credit market right now? ([source](https://www.linkedin.com/company/altitude-sustainable/#post-a853dc6a3745))

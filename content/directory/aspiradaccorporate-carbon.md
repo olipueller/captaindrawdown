@@ -30,6 +30,7 @@ AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Aust
 
 ## History
 
+- **2026-11-09** — News: AspiraDAC/Corporate Carbon: Isometric has certified the Savanna Fire Management (SFM) Protocol... ([source](https://www.linkedin.com/company/aspiradac/#post-230b014e2142))
 - **2026-10-08** — News: AspiraDAC/Corporate Carbon: Savanna fire management is going global. In less than a year, four… ([source](https://www.linkedin.com/company/aspiradac/#post-ca7ec40215d1))
 - **2026-08-24** — News: AspiraDAC/Corporate Carbon: An Australian-pioneered approach to savanna fire management is gaining… ([source](https://www.linkedin.com/company/aspiradac/#post-2dddd0fa7b65))
 - **2026-04-19** — Classified as DAC, division, 🟢 Active ([source](https://www.aspiradac.com/news))

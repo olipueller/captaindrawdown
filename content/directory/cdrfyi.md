@@ -29,6 +29,10 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-11-14** — News: CDR.fyi: This week saw some key developments in durable CDR, as carbon removal was included in... ([source](https://www.linkedin.com/company/cdr-fyi/#post-ae970693ba2c))
+- **2026-11-13** — News: Bioenergie Frauenfeld: More than 70% of all biochar carbon removal delivered worldwide in… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-542926d6ae99))
+- **2026-11-10** — News: Durable CDR Market Recap: October 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-october-2026))
+- **2026-11-08** — News: Equilibrium: #1 globally in Biochar Carbon Removal deliveries A defining milestone for our... ([source](https://www.linkedin.com/company/equilibrium-earth/#post-ff623d3b2e28))
 - **2026-11-04** — News: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for… ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
 - **2026-11-01** — News: ClimeFi: Lenders are increasingly willing to provide debt financing to carbon removal projects… ([source](https://www.linkedin.com/company/carbonx-world/#post-a8fe4eb97a13))
 - **2026-10-20** — News: Types of CDR Purchases: A New Section in the CDR.fyi Buyer&#x27;s Guide ([source](https://www.cdr.fyi/blog/types-of-cdr-purchases-buyers-guide))
@@ -55,10 +59,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-09-02** — News: CDR.fyi: This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement… ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
 - **2026-08-31** — News: Who are the top investors in carbon capture? – New Market Pitch ([source](https://newmarketpitch.com/blogs/news/carbon-capture-top-investors))
 - **2026-08-30** — News: Scature: Q2 2026 just became the biggest quarter carbon removal has ever seen. 2.1 million tonnes… ([source](https://www.linkedin.com/company/scature/#post-9b16d4fa6d95))
-- **2026-08-26** — News: CDR.fyi: Over $12 million in CDR research funding was announced in a single week. Last week… ([source](https://www.linkedin.com/company/cdr-fyi/#post-fbf852de8dd5))
-- **2026-08-26** — News: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
-- **2026-08-26** — News: CDR.fyi: Carbon to Sea Initiative has opened two new calls for proposals focused on ocean… ([source](https://www.linkedin.com/company/cdr-fyi/#post-b5096559d653))
-- **2026-08-20** — News: ClimeFi: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, the ([source](https://www.linkedin.com/company/carbonx-world/#post-c5c559524666))
 
 ---
 

@@ -34,6 +34,7 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-11-13** — News: From the Midwest to the Middle East: CarbonCure Concrete at Airports Worldwide - CarbonCure... ([source](https://www.carboncure.com/blog/concrete-corner/from-the-midwest-to-the-middle-east-carboncure-concrete-at-airports-worldwide/))
 - **2026-11-05** — News: CarbonCure: We recently sat down with Vishnu Chaudhari, M.Eng., P.Eng. , CarbonCure's Sr. Research… ([source](https://www.linkedin.com/company/carboncure-technologies/#post-ce71039e0a68))
 - **2026-10-27** — News: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-22** — News: Find a Producer - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/producers/))
@@ -63,7 +64,6 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 - **2026-05-28** — News: "Our technology-based, high value carbon offset purchases were concrete carbon capture (from… ([source](https://x.com/CarbonCure/status/2059988982415396885))
 - **2026-05-23** — News: @Sammy_Roth I kept thinking: no book saves the world. The harder part is building the institutional ([source](https://x.com/makinggovq/status/2058127087651672315))
 - **2026-05-22** — News: Hold on. Before you purchase any nature-based #Offsets, what about certainty? CarbonCure #CarbonCr ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mmhfsqfjr22e))
-- **2026-05-21** — News: Republicans want federal regulators to remove the requirement for Clean Air Act permits before… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
 
 ---
 

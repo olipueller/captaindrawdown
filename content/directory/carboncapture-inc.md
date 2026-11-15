@@ -5,7 +5,7 @@ type: "directory"
 description: "Designs modular solid-sorbent direct air capture systems (Leo Series) deployed at third-party CO2 storage hubs."
 url: "/directory/carboncapture-inc/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncapture.com/" target="_blank" rel="noopener">https://www.carboncapture.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-inc/" target="_blank" rel="noopener">carbon-capture-inc</a></td></tr>
-  <tr><th>Status</th><td>Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ CarbonCapture Inc. is a Los Angeles-based direct air capture technology company 
 
 ## History
 
+- **2026-11-15** — Status Suspect → Active ([source](https://www.carboncapture.com/purchasing-crc))
 - **2026-10-15** — Status Active → Suspect ([source](https://www.carboncapture.com/purchasing-crc))
 - **2026-08-15** — Status Moderate → Active ([source](https://www.carboncapture.com/purchasing-crc))
 - **2026-06-15** — Status Active → Moderate ([source](https://www.carboncapture.com/purchasing-crc))

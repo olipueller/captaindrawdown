@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-13** — News: Impact of repeated temperature cycling on the low-concentration CO2 adsorption capacity of grafted... ([source](https://link.springer.com/article/10.1007/s10450-026-00718-8))
 - **2026-10-30** — News: Cavity-Filling Calcite in the Deccan Traps as a Natural Analogue for Mineral Carbon Sequestration… ([source](https://doi.org/10.53941/esrs.2026.100028))
 - **2026-10-26** — News: Aspiring Materials: This week marks two years since we moved into our Bromley site. In just 24… ([source](https://www.linkedin.com/company/aspiring-materials/#post-cb921fa079f9))
 - **2026-10-24** — News: Pyrolysis temperature-induced changes in physicochemical properties of rice husk-derived biochar… ([source](https://doi.org/10.3389/feart.2026.1894009))
@@ -69,7 +70,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-14** — News: Carbon sequestration - Wikipedia ([source](https://en.wikipedia.org/wiki/Carbon_sequestration))
 - **2026-05-01** — Status Moderate → Active ([source](N/A))
 - **2026-04-29** — News: A spectropolarimeter for vacuum-ultraviolet emission lines ([source](https://arxiv.org/abs/2604.08191v1))
-- **2026-04-27** — News: "In an offshore test of what happens when acid-lowering chemicals are added to the ocean, the… ([source](https://x.com/geoengineering1/status/2048522489693949964))
 
 ---
 

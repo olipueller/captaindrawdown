@@ -30,6 +30,20 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-11-12** — News: Could Cement Plants Remove CO2 From the Atmosphere? ([source](https://www.azocleantech.com/article.aspx?ArticleID=2224))
+- **2026-11-11** — News: Remove Carbon Today Celebrates First Year With 344 Tonnes Of Retired CDR Purchased By Individuals ([source](https://carbonherald.com/remove-carbon-today-celebrates-first-year-with-344-tonnes-of-retired-cdr-purchased-by-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=remove-carbon-today-celebrates-first-year-with-344-tonnes-of-retired-cdr-purchased-by-individuals))
+- **2026-11-11** — News: From mineral weathering to alkalinity export: a soil-barrier diagnostic for enhanced rock... ([source](https://doi.org/10.3389/fclim.2026.1979636))
+- **2026-11-11** — News: Location-Specific Design Space Identification In Direct Air Capture Via Adsorption ([source](https://aiche.confex.com/aiche/2026/meetingapp.cgi/Paper/732244))
+- **2026-11-10** — News: 344 Tonnes Retired in Year One as Individuals Turn to Durable Carbon Removal ([source](https://www.einpresswire.com/article/955673300/344-tonnes-retired-in-year-one-as-individuals-turn-to-durable-carbon-removal))
+- **2026-11-10** — News: We know how to remove CO2 from the air. We will use rocks for this – Adrian Podgórny (Green... ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
+- **2026-11-10** — News: German Biochar Association: !!Carbon removal has a new route to EU funding!! For the first time... ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-bd86d6bc136f))
+- **2026-11-09** — News: U.S. researchers test sunlight-powered technology to capture carbon from air ([source](https://sana.sy/en/miscellaneous/2357417/))
+- **2026-11-09** — News: Why voluntary climate programs should incorporate carbon credits ([source](https://trellis.net/article/sbti-net-zero-carbon-credits/))
+- **2026-11-07** — News: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to... ([source](https://www.linkedin.com/company/lithoscarbon/#post-9fddbf3aecfa))
+- **2026-11-07** — News: This new concrete is stronger and pulls CO2 from the air | ScienceDaily ([source](https://www.sciencedaily.com/releases/2026/09/260921081105.htm))
+- **2026-11-06** — News: Sunlight-powered technology aims to remove carbon dioxide from the atmosphere - Caribbean... ([source](https://www.cbc.bb/main-stories/sunlight-powered-technology-aims-to-remove-carbon-dioxide-from-the-atmosphere/))
+- **2026-11-06** — News: Enhanced weathering in China’s acidic rice fields offers potential agronomic co-benefits ([source](https://cdrxiv.org/preprint/583))
+- **2026-11-06** — News: !!Carbon removal has a new route to EU funding!! For the first time ever, carbon removal is a... ([source](https://www.linkedin.com/feed/update/urn:li:share:7524433512209534977/))
 - **2026-11-06** — News: Reposit Carbon: Canada's carbon removal sector is building, but not fast enough. Our new report... ([source](https://www.linkedin.com/company/reposit-carbon/#post-2f94eecc49b6))
 - **2026-11-06** — News: Heirloom: ETH: How cement plants can remove CO2 from the atmosphere ETH Zürich researchers show... ([source](https://www.linkedin.com/company/heirloom-carbon/#post-9be40016ce85))
 - **2026-11-05** — News: Evaneos will invest more than one million in cutting emissions | Demócrata ([source](https://www.democrata.es/en/economy/evaneos-will-allocate-more-than-one-million-euros-until-2030-to-reduce-emissions-from-its-tourism-activity/))
@@ -46,20 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-10-22** — News: From Weather to Enhanced Weathering: Weather Foundation Models for Carbon Dioxide Removal at… ([source](https://arxiv.org/abs/2610.28973v1))
 - **2026-10-20** — News: Frontier inks $11.7m CO2 removal deal to advance rock-based storage | Carbon Capture ([source](https://www.gasworld.com/story/frontier-inks-11-7m-co2-removal-deal-to-advance-rock-based-storage/2262257.article/))
 - **2026-10-19** — News: Oman's 44.01 secures $11.7mln carbon-removal offtake deals ([source](https://www.sustainableconstruction-now.com/article/555865/omans-44.01-secures-11.7mln-carbonremoval-offtake-deals))
-- **2026-10-19** — News: Recoal: REACT-2 has arrived! REACT, short for Recoal Advanced Carbonization Technology, is the… ([source](https://www.linkedin.com/company/recoal-net/#post-587cb3373594))
-- **2026-10-18** — News: Oman’s 44.01 secures $11.7mn carbon-removal offtake deals ([source](https://www.muscatdaily.com/2026/10/18/omans-44-01-secures-11-7mn-carbon-removal-offtake-deals/))
-- **2026-10-18** — News: Frontier Backs 44.01's Carbon Mineralization Tech in UAE ([source](https://www.winssolutions.org/frontier-44-01-carbon-mineralization-uae/))
-- **2026-10-18** — News: Reconciling the role of clay mineral formation on net alkalinity generation during rock weathering ([source](https://doi.org/10.5194/egusphere-2026-5323))
-- **2026-10-18** — News: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a… ([source](https://www.linkedin.com/company/wecounteract/#post-d95f466f3bfe))
-- **2026-10-17** — News: 44.01 and Frontier advance permanent CO2 storage through in-situ mineralization ([source](https://frontierclimate.com/writing/44-01))
-- **2026-10-16** — News: Frontier Climate buyers ink deal to store CO2 as solid rock | ESG Dive ([source](https://www.esgdive.com/news/frontier-climate-buyers-ink-deal-to-store-co2-as-solid-rock/833250/))
-- **2026-10-16** — News: China’s Farmland Could Remove 350 Million Tonnes of CO2 a Year, Study Finds ([source](https://carboncredits.com/china-farmland-enhanced-rock-weathering-carbon-removal/))
-- **2026-10-15** — News: Capture6: Project Tortuga is live in Western Australia. Yesterday, we officially opened our… ([source](https://www.linkedin.com/company/capture6/#post-8c84a9d40edc))
-- **2026-10-14** — News: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
-- **2026-10-13** — News: When carbon removals enter a carbon market, should they change how ambitious that market is? That’s ([source](https://www.linkedin.com/feed/update/urn:li:share:7515679223622057984/))
-- **2026-10-12** — News: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock… ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
-- **2026-10-12** — News: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European… ([source](https://doi.org/10.5194/esd-17-1513-2026))
-- **2026-10-12** — News: Assessing the potential and cost of enhanced rock weathering in China ([source](https://doi.org/10.1038/s43247-026-04136-0))
 
 ---
 

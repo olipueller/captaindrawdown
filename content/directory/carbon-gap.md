@@ -34,6 +34,12 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-11-13** — News: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University... ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-c7304a5b5cff))
+- **2026-11-12** — News: EIC Funding | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526611001211813888/))
+- **2026-11-10** — News: Pillar I mCDR | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525916180457508864/))
+- **2026-11-09** — News: Carbon to Sea Initiative: A new report from Carbon Gap outlines a roadmap for advancing novel... ([source](https://www.linkedin.com/company/carbontosea/#post-81cca7de127b))
+- **2026-11-06** — News: Carbon Gap Offers Roadmap for Responsible OAE in Europe ([source](https://www.carbontosea.org/2026/11/06/carbon-gap-new-report))
+- **2026-11-06** — News: Convening on emerging topics is not always easy...But yesterday the room was packed with more... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524147466993209345/))
 - **2026-11-06** — News: Carbon Gap: For two years, we worked with local partners to answer one question: How much carbon... ([source](https://www.linkedin.com/company/carbongap/#post-7918a0e2df63))
 - **2026-11-05** — News: mCDR launch | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524017683198267392/))
 - **2026-11-05** — News: Clean the Sky - National Removal Planning Tools ([source](https://www.cleanthesky.com/innovation/carbon-gap))
@@ -58,12 +64,6 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 - **2026-10-03** — News: On 16 September, over 200 policymakers, researchers, and industry leaders joined us in Brussels for ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511703983565152258/))
 - **2026-09-30** — News: Carbon Gap ([source](https://carbongap.org/policy-levers))
 - **2026-09-23** — News: EU CDR Advocates guide | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508449898246311936/))
-- **2026-09-22** — News: Carbon removal is complex - our new book will make it easier to understand. Expected early 2027, & ([source](https://www.linkedin.com/feed/update/urn:li:share:7508117352253784065/))
-- **2026-09-22** — News: Policy Levers Library | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7507748757980061696/))
-- **2026-09-22** — News: Carbon Gap: Last week at our Carbon Removal Policy Summit, we announced the launch of our newest… ([source](https://www.linkedin.com/company/carbongap/#post-a89cbcd55621))
-- **2026-09-16** — News: We&amp;#39;ve had a great start to the day at the Carbon Removal Policy Summit in Brussels. Kaj See ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7505917623486967809/))
-- **2026-09-16** — News: We&amp;#39;re in Brussels today for our Carbon Removal Policy Summit, and the room is full of the… ([source](https://www.linkedin.com/feed/update/urn:li:share:7505893277737328640/))
-- **2026-09-12** — News: Our team will be in New York City and Brussels in the coming weeks. Will we see you there? On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
 
 ---
 
