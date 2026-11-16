@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-15** — News: Bigadan A/S: BIOGAS OG E-METAN RYKKER TÆTTERE PÅ HINANDEN Vores projekt i Nysted er udvalgt til at... ([source](https://www.linkedin.com/company/bigadan/#post-471e8254627f))
 - **2026-10-15** — News: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio… ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
 - **2026-09-04** — News: Bigadan A/S: THREE CO2 PLANTS IN THREE YEARS – AND WE’RE JUST GETTING STARTED That was the message… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-848d5c39b765))
 - **2026-08-28** — News: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ ̧det. Men hvordan gÃ¥r vi fra… ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))

@@ -34,6 +34,7 @@ CUR8 is an intelligence provider for the carbon removal market, positioned at th
 
 ## History
 
+- **2026-11-15** — News: CUR8: When it comes to climate action it pays to use portfolios. A new paper in Nature Climate... ([source](https://www.linkedin.com/company/cur8earth/#post-5e123e4c5e4e))
 - **2026-11-03** — News: Driving progress, on and off the track. Congratulations to Andrea Kimi Antonelli on becoming th ([source](https://www.linkedin.com/feed/update/urn:li:share:7523324735842181121/))
 - **2026-11-03** — News: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
 - **2026-10-22** — News: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits… ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of biomass into biochar for soil application and carbon removal credits, with MRV via Cula Technologies."
 url: "/directory/waterberg-carbon-co/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,8 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Website</th><td><a href="https://www.linkedin.com/company/waterberg-carbon-co/about/" target="_blank" rel="noopener">https://www.linkedin.com/company/waterberg-carbon-co/about/</a></td></tr>
-  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/waterberg-carbon-co/" target="_blank" rel="noopener">waterberg-carbon-co</a></td></tr>
+  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +28,7 @@ Waterberg Carbon Co is a small South African biochar venture that produces bioch
 
 ## History
 
+- **2026-11-16** — Status Likely Dead → Active ([source](https://www.linkedin.com/posts/waterberg-carbon-co_biochar-carboncredits-carbonremoval-activity-7382402966462283776-YxmU))
 - **2026-05-01** — Status Moderate → Likely Dead ([source](https://www.linkedin.com/posts/waterberg-carbon-co_biochar-carboncredits-carbonremoval-activity-7382402966462283776-YxmU))
 - **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://www.linkedin.com/posts/waterberg-carbon-co_biochar-carboncredits-carbonremoval-activity-7382402966462283776-YxmU))
 - **2026-04-19** — Merged duplicate entries: Salient DOC, Yggdrasil Trees

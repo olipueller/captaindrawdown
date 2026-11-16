@@ -34,6 +34,7 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 
 ## History
 
+- **2026-11-16** — News: Global CO2 Initiative (University of Michigan): Following the incredible feature shared on our... ([source](https://www.linkedin.com/company/global-co2-initiative/#post-bee69e68c94f))
 - **2026-10-31** — News: Paebbl: Carbon-storing concrete needs an entire value chain to come together for market adoption.… ([source](https://www.linkedin.com/company/paebbl/#post-342ccb305efc))
 - **2026-10-24** — News: CDRjobs: Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million… ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
 - **2026-10-21** — News: SaltX: What if you combine electrified cement production with permanent CO2 mineralization? You… ([source](https://www.linkedin.com/company/saltxtechnology/#post-67cf44d9069a))
@@ -63,7 +64,6 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 - **2026-05-11** — News: Holcim Deploys Carbon-Storing Concrete Technology In Commercial Project ([source](https://carbonherald.com/holcim-deploys-carbon-storing-concrete-technology-in-commercial-project/?utm_source=rss&utm_medium=rss&utm_campaign=holcim-deploys-carbon-storing-concrete-technology-in-commercial-project))
 - **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://paebbl.com/technology))
 - **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
-- **2026-04-18** — Classified as Mineralization, supplier, 🟢 Active ([source](https://paebbl.com/technology))
 
 ---
 

@@ -31,6 +31,7 @@ Blusink is a London-based ocean CDR startup founded in 2022 that deploys enginee
 
 ## History
 
+- **2026-11-16** — News: Blusink: Environmental standard Cercarbono launched the final version of its biodiversity credit... ([source](https://www.linkedin.com/company/blusink/#post-2445ac90ca78))
 - **2026-10-15** — News: Blusink: A major shift for Colombia’s carbon market. The country’s newly appointed environment ([source](https://www.linkedin.com/company/blusink/#post-8dab68615db9))
 - **2026-10-15** — Status Likely Dead → Active ([source](https://tracxn.com/d/companies/blusink/__KT8yySwuSItcRGccE9bmxa_xgbPyW2Ggi4FCQNkk-p0))
 - **2026-08-15** — Status Suspect → Likely Dead ([source](https://tracxn.com/d/companies/blusink/__KT8yySwuSItcRGccE9bmxa_xgbPyW2Ggi4FCQNkk-p0))

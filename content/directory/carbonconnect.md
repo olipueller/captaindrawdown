@@ -30,6 +30,7 @@ CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2
 
 ## History
 
+- **2026-11-16** — News: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s... ([source](https://www.linkedin.com/company/carbonconnectearth/#post-ff50139f4b74))
 - **2026-10-13** — News: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-ff50139f4b74))
 - **2026-09-06** — News: CarbonConnect: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival de ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-f4b86980a60b))
 - **2026-07-25** — News: CarbonConnect: Dans le cadre de la démarche de contribution carbone volontaire du Festival de… ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-e701a094e968))

@@ -32,6 +32,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-11-16** — News: Öresundskraft Reaches FID To Scale Bioenergy Carbon Capture ([source](https://carbonherald.com/oresundskraft-reaches-fid-to-scale-bioenergy-carbon-capture/?utm_source=rss&utm_medium=rss&utm_campaign=oresundskraft-reaches-fid-to-scale-bioenergy-carbon-capture))
 - **2026-10-29** — News: Northern Lights: The European CCS market continues to progress Last week, Sweden announced SEK ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
 - **2026-10-28** — News: Nordbex: Historisk dag och historiskt beslut! 30/9 fattade Öresundskrafts styrelse Final Investment ([source](https://www.linkedin.com/company/nordbex/#post-ece4373e4f14))
 - **2026-10-17** — News: Sydskånes avfallsaktiebolag (SYSAV): Vilken vecka för SkyZero! Nu tilldelas Sysav 6,3 miljarder… ([source](https://www.linkedin.com/company/sysav/#post-33e87281b6cd))

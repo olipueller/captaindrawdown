@@ -30,6 +30,7 @@ Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarr
 
 ## History
 
+- **2026-11-15** — News: Carbonx SAS: Carbon removal prices are hard to find and harder to compare. Suppliers quote on... ([source](https://www.linkedin.com/company/climefigroup/#post-39fc2e8bafaf))
 - **2026-10-15** — News: Carbonx SAS: ClimeFi is pleased to share that it has published its CDR Market Review for Q3 2026.… ([source](https://www.linkedin.com/company/climefigroup/#post-a29af66abf42))
 - **2026-08-20** — News: Carbonx SAS: In July, the European Commission published its proposal to revise the EU Emissions… ([source](https://www.linkedin.com/company/carbonx-world/#post-7ca337d4d13d))
 - **2026-08-12** — News: Carbonx SAS: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, ([source](https://www.linkedin.com/company/carbonx-world/#post-6b8af173d0db))

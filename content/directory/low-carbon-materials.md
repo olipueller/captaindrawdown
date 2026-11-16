@@ -31,6 +31,7 @@ Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, 
 
 ## History
 
+- **2026-11-16** — News: Global CO2 Initiative (University of Michigan): Following the incredible feature shared on our... ([source](https://www.linkedin.com/company/global-co2-initiative/#post-bee69e68c94f))
 - **2026-10-29** — News: Low Carbon Materials: ACLA® has been used to enable net zero asphalt to surface the roads of a… ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-4ce840250044))
 - **2026-09-22** — News: Low Carbon Materials: ð 2 more projects out the door. We sold out in 2025. Every tonne we… ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-476f30025cd6))
 - **2026-09-15** — Status Suspect → Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))

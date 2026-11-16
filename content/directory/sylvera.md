@@ -34,6 +34,7 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-11-16** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a... ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-7443e0f8705d))
 - **2026-10-22** — News: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in… ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
 - **2026-10-15** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
 - **2026-10-14** — News: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5… ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
@@ -63,7 +64,6 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 - **2026-07-31** — News: Tera Carbon Pte Ltd: An exciting update as we focus on transparency and quality as an impact… ([source](https://www.linkedin.com/company/teracarbon/#post-9db35c156663))
 - **2026-07-30** — News: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of… ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
 - **2026-07-29** — News: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera… ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
-- **2026-07-28** — News: Sylvera: Abandoned oil and gas wells leak methane - one of the most potent greenhouse gases on the… ([source](https://www.linkedin.com/company/sylveracarbon/#post-57234dbbe5a0))
 
 ---
 

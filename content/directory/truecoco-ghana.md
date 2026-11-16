@@ -41,6 +41,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-16** — News: Crystaltrade: 10,575 CORCs Issued: Another Milestone for Truecoco Ghana Ltd The seventh monitoring... ([source](https://www.linkedin.com/company/crystalchain/#post-89c2b62f7611))
+- **2026-11-16** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a... ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-7443e0f8705d))
 - **2026-10-15** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
 - **2026-05-11** — Status Moderate → Active ([source](registry_activity))
 - **2026-05-01** — Status Active → Moderate ([source](registry_activity))

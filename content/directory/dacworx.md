@@ -29,6 +29,7 @@ DACworx is an Austrian direct air capture technology developer that co-designed 
 
 ## History
 
+- **2026-11-16** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.... ([source](https://www.linkedin.com/company/dacworx/#post-0c4824587573))
 - **2026-11-13** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on... ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-3298dc86737b))
 - **2026-10-15** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
 - **2026-10-12** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))

@@ -30,6 +30,11 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-11-16** — News: "renewed push for carbon dioxide removal to be included in final text of COP31" #FFS they can't... ([source](https://bsky.app/profile/ranboydell.bsky.social/post/3n2fypgt7jk2x))
+- **2026-11-16** — News: Frontend Developer (Angular and React) at Mati Carbon in Bengaluru, Karnataka | Dreamwork ([source](https://www.dreamworkhq.com/job/bde8a720-8bce-4f9e-9d19-e2b82ce5757a))
+- **2026-11-15** — News: Metal–organic framework - Wikipedia ([source](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework))
+- **2026-11-15** — News: Capture6: Venn Foundation 's October newsletter (link below) spotlights an exciting new PRI... ([source](https://www.linkedin.com/company/capture6/#post-08f48a6a0006))
+- **2026-11-15** — News: CUR8: When it comes to climate action it pays to use portfolios. A new paper in Nature Climate... ([source](https://www.linkedin.com/company/cur8earth/#post-5e123e4c5e4e))
 - **2026-11-12** — News: Could Cement Plants Remove CO2 From the Atmosphere? ([source](https://www.azocleantech.com/article.aspx?ArticleID=2224))
 - **2026-11-11** — News: Remove Carbon Today Celebrates First Year With 344 Tonnes Of Retired CDR Purchased By Individuals ([source](https://carbonherald.com/remove-carbon-today-celebrates-first-year-with-344-tonnes-of-retired-cdr-purchased-by-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=remove-carbon-today-celebrates-first-year-with-344-tonnes-of-retired-cdr-purchased-by-individuals))
 - **2026-11-11** — News: From mineral weathering to alkalinity export: a soil-barrier diagnostic for enhanced rock... ([source](https://doi.org/10.3389/fclim.2026.1979636))
@@ -55,11 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-10-31** — News: Buy and Sell Heirloom Carbon Technologies Stock, $695.67M Valuation - Forge ([source](https://forgeglobal.com/heirloom-carbon-technologies_stock/))
 - **2026-10-30** — News: Evidence for temporal decoupling of olivine weathering and inorganic carbon removal in unsaturated… ([source](https://doi.org/10.3389/fclim.2026.1964775))
 - **2026-10-30** — News: The Role and Institutional Impacts of Carbon Dioxide Removal Technologies in Climate Governance ([source](https://doi.org/10.54254/2753-7048/2026.jo38365))
-- **2026-10-28** — News: Eight years of emissions: The scale of CO2 removal needed to restore 1.5°C- Moneycontrol.com ([source](https://www.moneycontrol.com/world/eight-years-of-emissions-the-scale-of-co2-removal-needed-to-restore-1-5-c-article-14061252.html))
-- **2026-10-27** — News: A million tonnes of rock are set to be spread on farms in the US and Brazil to remove carbon. ([source](https://www.stocktitan.net/news/HASI/terradot-and-hasi-close-34m-investment-for-carbon-removal-pk8dld3l3lx5.html))
-- **2026-10-22** — News: From Weather to Enhanced Weathering: Weather Foundation Models for Carbon Dioxide Removal at… ([source](https://arxiv.org/abs/2610.28973v1))
-- **2026-10-20** — News: Frontier inks $11.7m CO2 removal deal to advance rock-based storage | Carbon Capture ([source](https://www.gasworld.com/story/frontier-inks-11-7m-co2-removal-deal-to-advance-rock-based-storage/2262257.article/))
-- **2026-10-19** — News: Oman's 44.01 secures $11.7mln carbon-removal offtake deals ([source](https://www.sustainableconstruction-now.com/article/555865/omans-44.01-secures-11.7mln-carbonremoval-offtake-deals))
 
 ---
 

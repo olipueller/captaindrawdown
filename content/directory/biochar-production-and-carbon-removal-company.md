@@ -1,5 +1,5 @@
 ---
-title: "Biochar Production and Carbon Removal Company"
+title: "CapChar"
 layout: "single"
 type: "directory"
 description: "CapChar develops on-farm pyrolysis kiln systems that convert wood-chip and agricultural residues into biochar, paired with an MRV platform and its own UK Biochar Carbon Code for issuing Biochar…"
@@ -24,12 +24,13 @@ liveliness: "🟢 Active"
 
 CapChar is a UK carbon removal company developing on-farm biochar production technology, with two operational plants in Cornwall and North Wales. The company launched a public consultation on its Biochar Carbon Code in early 2025, and the first tranche of credits under that code was delivered in 2025 as part of a 50-tonne prepurchase agreement with UK architecture firm Bennetts Associates. The firm combines kiln hardware, MRV software, and a registry/standard role, but its core activity is removing CO2 via biochar.
 
-![Biochar Production and Carbon Removal Company website](/screenshots/biochar-production-and-carbon-removal-company.png)
+![CapChar website](/screenshots/biochar-production-and-carbon-removal-company.png)
 
 
 
 ## History
 
+- **2026-11-16** — renamed: 'Biochar Production and Carbon Removal Company' was the page title, the company is CapChar ([source](https://capchar.com/))
 - **2026-11-07** — News: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important... ([source](https://www.linkedin.com/company/capchar/#post-da83e6692925))
 - **2026-10-06** — News: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important… ([source](https://www.linkedin.com/company/capchar/#post-4d7becf25605))
 - **2026-09-15** — Status Moderate → Active

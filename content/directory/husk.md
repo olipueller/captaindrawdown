@@ -29,6 +29,7 @@ HUSK is a biochar producer headquartered in Singapore with operations in Cambodi
 
 ## History
 
+- **2026-11-16** — News: Crystaltrade: 10,575 CORCs Issued: Another Milestone for Truecoco Ghana Ltd The seventh monitoring... ([source](https://www.linkedin.com/company/crystalchain/#post-89c2b62f7611))
 - **2026-10-24** — News: Pyrolysis temperature-induced changes in physicochemical properties of rice husk-derived biochar… ([source](https://doi.org/10.3389/feart.2026.1894009))
 - **2026-10-12** — News: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first… ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
 - **2026-10-07** — News: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))

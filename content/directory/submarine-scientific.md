@@ -35,6 +35,7 @@ Submarine Scientific (now branded as "Submarine") is a marine consulting firm pr
 
 ## History
 
+- **2026-11-16** — News: Submarine Scientific: We’re excited to announce the launch of the OAE Data Commons, developed by... ([source](https://www.linkedin.com/company/submarinescientific/#post-a8135d664b19))
 - **2026-11-09** — News: Limenet: On October 6, the OAE Data Commons officially went live, and Limenet is part of it.... ([source](https://www.linkedin.com/company/limenet-tech/#post-9aab59545724))
 - **2026-10-15** — News: Submarine Scientific: We’re excited to announce the launch of the OAE Data Commons, developed by… ([source](https://www.linkedin.com/company/submarinescientific/#post-37620dc0a6cf))
 - **2026-10-09** — News: Carbon to Sea Initiative: Today, Submarine Scientific and Carbon to Sea are launching the OAE Data… ([source](https://www.linkedin.com/company/carbontosea/#post-574bea020646))

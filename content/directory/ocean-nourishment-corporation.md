@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops ocean fertilization technology using a proprietary macronutrient biostimulant (PhytoPlus) deployed from ships/offshore platforms to stimulate phytoplankton growth and sequester CO2 in the…"
 url: "/directory/ocean-nourishment-corporation/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.oceannourishment.com/" target="_blank" rel="noopener">https://www.oceannourishment.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-nourishment-corporation/" target="_blank" rel="noopener">ocean-nourishment-corporation</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
   <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Ocean Nourishment Corporation (ONC) is an Australian company incorporated in 200
 
 ## History
 
+- **2026-11-16** — Status Active → Likely Dead ([source](https://hakaimagazine.com/news/iron-fertilization-isnt-going-to-save-us/))
 - **2026-08-17** — News: Ocean Nourishment Corporation: Marine-Carbon Dioxide Removal (Sydney) Important marine research is… ([source](https://www.linkedin.com/company/ocean-nourishment-corporation/#post-a441f069ed3a))
 - **2026-05-01** — Status Moderate → Active ([source](https://hakaimagazine.com/news/iron-fertilization-isnt-going-to-save-us/))
 - **2026-04-19** — Classified as Ocean CDR, supplier, 🟡 Moderate ([source](https://www.oceannourishment.com/))

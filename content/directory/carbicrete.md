@@ -34,6 +34,7 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 
 ## History
 
+- **2026-11-16** — News: Global CO2 Initiative (University of Michigan): Following the incredible feature shared on our... ([source](https://www.linkedin.com/company/global-co2-initiative/#post-bee69e68c94f))
 - **2026-10-24** — News: CarbiCrete: CarbiCrete is proud to share that our carbon removals are some of the earliest verified ([source](https://www.linkedin.com/company/carbicrete/#post-4559c307dc65))
 - **2026-10-15** — News: CarbiCrete Issues First Carbon Removal Tons From CO2-Negative Concrete ([source](https://carbonherald.com/carbicrete-issues-first-carbon-removal-tons-from-co2-negative-concrete/?utm_source=rss&utm_medium=rss&utm_campaign=carbicrete-issues-first-carbon-removal-tons-from-co2-negative-concrete))
 - **2026-09-16** — News: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon… ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))

@@ -30,6 +30,7 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-11-15** — News: Rainbow: Varaha ’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has... ([source](https://www.linkedin.com/company/rainbowstandard/#post-6a4bc7c34af8))
 - **2026-11-13** — News: Our team will be in New Orleans next week for The North American Biochar Conference. On Tuesday… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526931891103514624/))
 - **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
 - **2026-11-13** — News: Varaha: Agnisparsh, our community-led biochar project in Western India, has been assigned a BeZero... ([source](https://www.linkedin.com/company/varaha-carbontech/#post-2ca58854f2ab))
@@ -59,7 +60,6 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 - **2026-09-28** — News: Stack Carbon: ðð ̈ððð2 ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð… ([source](https://www.linkedin.com/company/stackcarbon/#post-1e69f4d73a4d))
 - **2026-09-27** — News: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
 - **2026-09-26** — News: Releaf Earth: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey ([source](https://www.linkedin.com/company/releaf-earth/#post-4ea686cea67f))
-- **2026-09-23** — News: Details of the EU ETS revision, remaining CRCF delegated acts, and public procurement programs are… ([source](https://www.linkedin.com/feed/update/urn:li:share:7508435061403295745/))
 
 ---
 

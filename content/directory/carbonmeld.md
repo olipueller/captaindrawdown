@@ -28,6 +28,7 @@ CarbonMeld is an independent carbon-credit screening and scoring platform based 
 
 ## History
 
+- **2026-11-15** — News: CarbonMeld: The EU's central carbon removal registry is pencilled in for the end of 2028, and its... ([source](https://www.linkedin.com/company/carbonmeld/#post-28989bc1a797))
 - **2026-11-06** — Country set to Italy and description updated at the company's request (e-mail from the CarbonMeld team, 6 November 2026) ([source](https://carbonmeld.com/methodology/))
 - **2026-10-14** — News: CarbonMeld: Gold Standard has revised Paris alignment rules for 2026 vintages, easing the… ([source](https://www.linkedin.com/company/carbonmeld/#post-c778bdeb3c7d))
 - **2026-09-04** — News: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African… ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
@@ -57,7 +58,6 @@ CarbonMeld is an independent carbon-credit screening and scoring platform based 
 - **2026-05-29** — News: Why North America’s Carbon Markets May Need a Common Rulebook Before They Can Scale · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-north-america-s-carbon-markets-may-need-a-common-rulebook-before-they-can-scale/))
 - **2026-05-28** — News: Why the EU Carbon Rally May Be About Market Design, Not Just Higher Prices · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-the-eu-carbon-rally-may-be-about-market-design-not-just-higher-prices/))
 - **2026-05-28** — News: Why Legacy Carbon Credits Are Becoming a Balance-Sheet Problem for Global Buyers · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-legacy-carbon-credits-are-becoming-a-balance-sheet-problem-for-global-buyers/))
-- **2026-05-27** — News: Why EU Carbon Credit Rules Are Splitting the Market Between Inside and Outside the ETS · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-eu-carbon-credit-rules-are-splitting-the-market-between-inside-and-outside-the-ets/))
 
 ---
 

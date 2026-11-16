@@ -43,6 +43,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-16** — News: Microsoft and Terradot Claim 75% Sampling Cut in Rock Weathering Model ([source](https://circularwire.com/articles/microsoft-and-terradot-claim-75-sampling-cut-in-rock-weathering-model))
+- **2026-11-15** — News: Microsoft and Terradot’s AI cuts soil sampling by up to 75% in carbon-removal simulations ([source](https://superpowerdaily.com/posts/microsoft-and-terradot-s-ai-cuts-soil-sampling-by-up-to-75-in-carbon-removal-simulations))
 - **2026-11-13** — News: How a new AI model could help crushed rock fight climate change - Source ([source](https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change/))
 - **2026-11-11** — News: SBTi Case Study Examines Google–Terradot’s Million-Tonne Carbon Removal Strategy ([source](https://onestopesg.com/esg-news/sbti-google-terradot-carbon-removal))
 - **2026-11-10** — News: Carbon Removal Technology Market to Reach USD 2.49 Billion by 2035 as Direct Air Capture and... ([source](https://www.openpr.com/news/4686114/carbon-removal-technology-market-to-reach-usd-2-49-billion))
@@ -71,8 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-08** — News: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
 - **2026-10-08** — News: CDR.fyi: September soars with 1M tonnes contracted Following a relatively slow August (128Kt)… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
 - **2026-10-02** — News: Terradot: BIG News! Today Terradot and Google are announcing the world’s first megaton scale… ([source](https://www.linkedin.com/company/terradot/#post-271059d94826))
-- **2026-10-01** — News: Google’s Largest Carbon-Removal Deal Targets Two Greenhouse Gases on Brazilian Farms Key Executives ([source](https://www.thekeyexecutives.com/2026/10/01/googles-largest-carbon-removal-deal-targets-two-greenhouse-gases-on-brazilian-farms/))
-- **2026-09-21** — News: Google Signs Largest Carbon Removal Deal With Terradot in Brazil ([source](https://serrarigroup.com/google-signs-largest-carbon-removal-deal-with-terradot-in-brazil/))
 
 ---
 

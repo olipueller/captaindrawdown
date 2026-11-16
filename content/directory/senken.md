@@ -30,6 +30,7 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-11-16** — News: Net Zero Will Cost Europe's Largest Companies €60bn a Year in Carbon Removal, Senken's Pace of... ([source](https://www.prnewswire.co.uk/news-releases/net-zero-will-cost-europes-largest-companies-60bn-a-year-in-carbon-removal-senkens-pace-of-change-2026-report-finds-302936605.html))
 - **2026-11-12** — News: Parlamentarisches Frühstück im Bundestag | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526608245356953603/))
 - **2026-10-05** — News: CarStorCon: Neugründung der „Allianz für CO2-Entnahme im Bau“ Am 23.9. haben wir gemeinsam mit… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
 - **2026-09-28** — News: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon… ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
@@ -59,7 +60,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 - **2026-05-24** — News: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
 - **2026-05-22** — News: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate… ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
 - **2026-05-22** — News: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
-- **2026-05-22** — News: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa… ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
 
 ---
 

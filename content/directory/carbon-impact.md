@@ -29,6 +29,7 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 
 ## History
 
+- **2026-11-16** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a... ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-7443e0f8705d))
 - **2026-10-15** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a… ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
 - **2026-09-15** — News: BELOW2 Inc.: BELOW2 has published version 2.0 of the BELOW2 Standard and opened it for public… ([source](https://www.linkedin.com/company/below2/#post-69959f977fd5))
 - **2026-09-06** — News: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
@@ -58,7 +59,6 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 - **2026-04-19** — Status Moderate → Likely Dead ([source](https://www.carbon-impact.net/))
 - **2026-04-19** — Classified as BECCS, supplier, 🟡 Moderate ([source](https://www.carbon-impact.net/monetise-co2/))
 - **2026-04-18** — Classified as BECCS, supplier, 🟡 Moderate ([source](https://www.carbon-impact.net/))
-- **2026-04-18** — Imported from the first version of the directory ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

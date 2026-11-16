@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.arti.com/" target="_blank" rel="noopener">https://www.arti.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arti-advanced-renewable-technology-international/" target="_blank" rel="noopener">arti-advanced-renewable-technology-international</a></td></tr>
-  <tr><th>Status</th><td>Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
   <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 
 ## History
 
+- **2026-11-15** — News: ARTi: Pyronexus Licenses ARTi Pyrolysis Technology Pyronexus Announces Licensing of ARTi's... ([source](https://www.linkedin.com/company/arti-advanced-renewable-technology-international/#post-1fdef19de7b6))
 - **2026-07-24** — News: ARTi: Pyronexus Licenses ARTi Pyrolysis Technology Pyronexus Announces Licensing of ARTi's… ([source](https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/#post-1fdef19de7b6))
 - **2026-07-21** — News: Closing the carbon removal attribution gap requires an objective atmospheric basis ([source](https://cdrxiv.org/preprint/303))
 - **2026-06-02** — News: Africa's Great Rift is also a terrific source for rock dust that farmers can use as a soil… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mncxylrtt22l))

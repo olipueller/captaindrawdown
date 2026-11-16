@@ -34,6 +34,7 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 
 ## History
 
+- **2026-11-15** — News: Kita: Pioneering new paper out in Nature Climate Change! Carbon markets need a common language... ([source](https://www.linkedin.com/company/kitaearth/#post-a5e27177a414))
 - **2026-10-16** — News: Kita.Earth: New paper announcement: Reframing Permanence for Natural Climate Solutions in Article… ([source](https://www.linkedin.com/company/kitaearth/#post-fcac7f5391aa))
 - **2026-08-20** — News: Kita.Earth: We are pleased to formally announce a strategic investment from the Tokio Marine Group… ([source](https://www.linkedin.com/company/kitaearth/#post-07bf417d221b))
 - **2026-08-12** — News: Kita: For most of the voluntary carbon market's history, buyers faced a quiet problem: two credits… ([source](https://www.linkedin.com/company/kitaearth/#post-4f1cf04be667))

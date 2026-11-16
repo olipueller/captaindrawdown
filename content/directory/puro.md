@@ -34,6 +34,10 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-11-16** — News: Crystaltrade: 10,575 CORCs Issued: Another Milestone for Truecoco Ghana Ltd The seventh monitoring... ([source](https://www.linkedin.com/company/crystalchain/#post-89c2b62f7611))
+- **2026-11-16** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a... ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-7443e0f8705d))
+- **2026-11-16** — News: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s... ([source](https://www.linkedin.com/company/carbonconnectearth/#post-ff50139f4b74))
+- **2026-11-16** — News: Mammoth - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/mammoth/))
 - **2026-11-14** — News: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver… ([source](https://www.linkedin.com/company/roblumco/#post-90d95d476026))
 - **2026-11-13** — News: #cop31 #crcf #carbonremoval #cdr #naturecredits #finlandpavilion #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7527044980910116865/))
 - **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
@@ -60,10 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-11-03** — News: Puro.earth Surpasses 2M Carbon Removal Certificates Issued ([source](https://carbonherald.com/puro-earth-surpasses-2m-carbon-removal-certificates-issued/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-surpasses-2m-carbon-removal-certificates-issued))
 - **2026-11-03** — News: Sequest Horizon - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sequest-horizon/))
 - **2026-10-31** — News: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
-- **2026-10-30** — News: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521935501537398784/))
-- **2026-10-30** — News: Puro.earth reports that it has published its CCS+ Program methodology documents, which bring the… ([source](https://puro.earth/insights/post/puro-earth-expands-daccs-certification-with-ccs-methodologies))
-- **2026-10-30** — News: Explore the Carbon Issuance Calendar | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521642817123954689/))
-- **2026-10-29** — News: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
 
 ---
 

@@ -35,6 +35,7 @@ Capture6 is a California- and New Zealand-based direct air capture supplier that
 
 ## History
 
+- **2026-11-15** — News: Capture6: Venn Foundation 's October newsletter (link below) spotlights an exciting new PRI... ([source](https://www.linkedin.com/company/capture6/#post-08f48a6a0006))
 - **2026-10-15** — News: Capture6: Project Tortuga is live in Western Australia. Yesterday, we officially opened our… ([source](https://www.linkedin.com/company/capture6/#post-8c84a9d40edc))
 - **2026-10-14** — News: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
 - **2026-10-14** — News: Capture6 Officially Launches Project Tortuga In Western Australia ([source](https://carbonherald.com/capture6-officially-launches-project-tortuga-in-western-australia/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-officially-launches-project-tortuga-in-western-australia))

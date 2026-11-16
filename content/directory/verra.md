@@ -29,6 +29,8 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-11-16** — News: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s... ([source](https://www.linkedin.com/company/carbonconnectearth/#post-ff50139f4b74))
+- **2026-11-15** — News: Native, A public benefit corporation: Native’s Northern Great Plains Regenerative Grazing Project... ([source](https://www.linkedin.com/company/native-apublicbenefitcorporation-inc/#post-044a4a773656))
 - **2026-11-14** — News: Boomitra: 2.6 million soil carbon credits. Sold and delivered. Boomitra has completed the sale and... ([source](https://www.linkedin.com/company/boomitra/#post-a41b0eec0d8a))
 - **2026-11-10** — News: Elemental Energies Secures Harbour Energy Contract For Viking CCS ([source](https://carbonherald.com/elemental-energies-secures-harbour-energy-contract-for-viking-ccs/))
 - **2026-11-09** — News: Texas Carbon Capture Project Secures First Credits Under New Verra Standard ([source](https://carbonherald.com/texas-carbon-capture-project-secures-first-credits-under-new-verra-standard/?utm_source=rss&utm_medium=rss&utm_campaign=texas-carbon-capture-project-secures-first-credits-under-new-verra-standard))
@@ -57,8 +59,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-09-30** — News: Verra CCS Methodology Gets ICVCM Approval as Carbon Removal Market Grows • Carbon Credits ([source](https://carboncredits.com/verra-ccs-methodology-gets-icvcm-approval-as-carbon-removal-market-grows/))
 - **2026-09-30** — News: Agoro Carbon Delivers Initial Soil Carbon Credits Under Microsoft Agreement ([source](https://globalaginvesting.com/agoro-carbon-delivers-initial-soil-carbon-credits-under-microsoft-agreement/))
 - **2026-09-25** — News: Arbonics: 183 corporate carbon removal deals between 2021 and 2025. US companies took 76% of the… ([source](https://www.linkedin.com/company/arbonics/#post-e2a40376c53d))
-- **2026-09-18** — News: Rainforest Builder: Rainforest Builder announces Project Buffalo's registration by Verra. This is… ([source](https://www.linkedin.com/company/rainforest-builder/#post-d0908cdd8cb5))
-- **2026-09-17** — News: Grow Indigo: Yesterday, Grow Indigo reached a major milestone: ððððð¶ð»ð ́… ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-50ba17d376e9))
 
 ---
 

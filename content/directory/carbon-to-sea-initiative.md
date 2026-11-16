@@ -31,6 +31,7 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 
 ## History
 
+- **2026-11-16** — News: Submarine Scientific: We’re excited to announce the launch of the OAE Data Commons, developed by... ([source](https://www.linkedin.com/company/submarinescientific/#post-a8135d664b19))
 - **2026-11-11** — News: 154th Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/154th-edition))
 - **2026-11-09** — News: Limenet: On October 6, the OAE Data Commons officially went live, and Limenet is part of it.... ([source](https://www.linkedin.com/company/limenet-tech/#post-9aab59545724))
 - **2026-11-09** — News: Carbon to Sea Initiative: A new report from Carbon Gap outlines a roadmap for advancing novel... ([source](https://www.linkedin.com/company/carbontosea/#post-81cca7de127b))
@@ -60,7 +61,6 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 - **2026-07-23** — News: Carbon to Sea Initiative: A new paper featuring Carbon to Sea co-authors has been published on… ([source](https://www.linkedin.com/company/carbontosea/#post-02ef9501f0cb))
 - **2026-07-23** — News: Carbon to Sea Initiative: Today at the 11th Our Ocean Conference in Kenya, Carbon to Sea… ([source](https://www.linkedin.com/company/carbontosea/#post-3bdae23ae046))
 - **2026-05-06** — News: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
-- **2026-04-19** — Classified as Ocean CDR, ecosystem, 🟢 Active ([source](https://www.carbontosea.org/))
 
 ---
 

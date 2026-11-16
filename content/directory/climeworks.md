@@ -47,6 +47,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-16** — News: Controversial efforts to suck carbon from atmosphere championed at UN climate talks ([source](https://www.inkl.com/news/efforts-to-suck-carbon-directly-from-atmosphere-championed-at-un-climate-talks))
 - **2026-11-11** — News: Food System’s Climate Problem Could Become Its Feedstock ([source](https://foodinnovatorskulmbach.substack.com/p/food-systems-climate-problem-could))
 - **2026-11-11** — News: Climeworks Solutions: 250+ corporate customers. 17,000 retail customers. More than 1 million tons... ([source](https://www.linkedin.com/company/climeworks/#post-63def5dfd9d2))
 - **2026-11-10** — News: CP Daily Newsletter: Monday November 9, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/568791/))
@@ -76,7 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-08** — News: CDR.fyi: September soars with 1M tonnes contracted Following a relatively slow August (128Kt)… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
 - **2026-10-07** — News: A Climeworks és a DAC technológia - GREENOLOGY ([source](https://www.greenology.hu/2026/10/06/a-climeworks-es-a-dac-technologia/))
 - **2026-10-07** — News: Best Carbon Credit Platforms and Providers for Companies in 2026 ([source](https://www.senken.io/blog/12-leading-carbon-credit-providers-in-2026-a-selection-guide-for-companies))
-- **2026-10-06** — News: Best carbon offset providers for UK businesses: six starting points ([source](https://theplanetbrief.com/carbon/best-carbon-offset-providers-uk/))
 
 ---
 

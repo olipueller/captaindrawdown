@@ -30,6 +30,8 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-11-15** — News: Varaha Biochar Project Earns BeZero Carbon A.pre Rating ([source](https://biochartoday.com/news/varaha-and-rainbow-secure-a-pre-bezero-carbon-rating-for-community-led-biochar-project-in-india/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-11-15** — News: Rainbow: Varaha ’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has... ([source](https://www.linkedin.com/company/rainbowstandard/#post-6a4bc7c34af8))
 - **2026-11-13** — News: Varaha’s Community-Led Biochar Project Is Now Rated As A.pre Ex Ante By BeZero ([source](https://carbonherald.com/varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero))
 - **2026-11-13** — News: Varaha’s Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre – Daily... ([source](https://www.dailyprabhat.com/varahas-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre/))
 - **2026-11-13** — News: Varaha's Community-led Biochar Project Achieves a BeZero Carbon ex ante Rating of A.pre - The... ([source](https://www.tribuneindia.com/news/business/varahas-community-led-biochar-project-achieves-a-bezero-carbon-ex-ante-rating-of-a-pre))
@@ -58,8 +60,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-08-20** — News: BeZero Offers A Unique Look Inside Microsoft’s CDR Risk Ratings ([source](https://carbonherald.com/bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings))
 - **2026-08-19** — News: BeZero Carbon: BeZero has published 14 ex ante rating reports on projects from Microsoft 's carbon… ([source](https://www.linkedin.com/company/bezero-carbon/#post-176fa419f995))
 - **2026-08-11** — News: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity… ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
-- **2026-08-11** — News: CarbonMeld: Ecuador's National Assembly has voted to legalise carbon markets for the second time in ([source](https://www.linkedin.com/company/carbonmeld/#post-fce5fd54d968))
-- **2026-08-07** — News: Native, A public benefit corporation: One of the extraordinary things about the carbon market is… ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
 
 ---
 
