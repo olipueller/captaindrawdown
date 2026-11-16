@@ -30,6 +30,8 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-11-16** — News: The Price of Zero: Europe’s Corporate Giants Face €60bn Annual Carbon Removal Bill, a Report by... ([source](https://www.emeoutlookmag.com/industry-insights/the-price-of-zero-europes-corporate-giants-face-e60bn-annual-carbon-removal-bill-a-report-by-senken-states))
+- **2026-11-16** — News: New Senken Report: The Largest European Companies Will Need $66B Annual CDR Investments For Net… ([source](https://carbonherald.com/new-senken-report-the-largest-european-companies-will-need-66b-annual-cdr-investments-for-net-zero/?utm_source=rss&utm_medium=rss&utm_campaign=new-senken-report-the-largest-european-companies-will-need-66b-annual-cdr-investments-for-net-zero))
 - **2026-11-16** — News: Net Zero Will Cost Europe's Largest Companies €60bn a Year in Carbon Removal, Senken's Pace of... ([source](https://www.prnewswire.co.uk/news-releases/net-zero-will-cost-europes-largest-companies-60bn-a-year-in-carbon-removal-senkens-pace-of-change-2026-report-finds-302936605.html))
 - **2026-11-12** — News: Parlamentarisches Frühstück im Bundestag | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526608245356953603/))
 - **2026-10-05** — News: CarStorCon: Neugründung der „Allianz für CO2-Entnahme im Bau“ Am 23.9. haben wir gemeinsam mit… ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
@@ -58,8 +60,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 - **2026-07-22** — News: Senken: "Can we still afford carbon removals in 2031?" Your board should be asking this question… ([source](https://www.linkedin.com/company/senken/#post-a539b38bd296))
 - **2026-06-10** — News: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
 - **2026-05-24** — News: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
-- **2026-05-22** — News: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate… ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
-- **2026-05-22** — News: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
 
 ---
 

@@ -30,6 +30,7 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-11-16** — News: Carbon dioxide removal and environmental impacts from the suspended sediment fraction of a... ([source](https://cdrxiv.org/preprint/585))
 - **2026-11-14** — News: New Guidelines Target Ocean Geoengineering as Carbon Removal Projects Expand ([source](https://www.envirolink.org/2026/11/13/new-guidelines-target-ocean-geoengineering-as-carbon-removal-projects-expand))
 - **2026-11-13** — News: First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry |... ([source](https://www.newsbeep.com/808934/))
 - **2026-11-13** — News: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University... ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-c7304a5b5cff))
@@ -59,7 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-11-05** — News: New Report: Ocean Carbon Removal Shows Promise, But Big Questions Remain ([source](https://news.climate.columbia.edu/2026/09/21/new-report-ocean-carbon-removal-shows-promise-but-big-questions-remain))
 - **2026-11-05** — News: Additionality of climate benefits from emission reduction and carbon dioxide removal ([source](https://doi.org/10.1088/1748-9326/aebb4e))
 - **2026-11-05** — News: Certified enclosures of the CO2 uptake per unit alkalinity in seawater equilibrium chemistry (a… ([source](https://doi.org/10.5281/zenodo.23848688))
-- **2026-11-05** — News: Questions raised by sinking seaweed: A Life Cycle Assessment of Macroalgae Cultivation and Sinking… ([source](https://doi.org/10.21203/rs.3.rs-11595344/v1))
 
 ---
 

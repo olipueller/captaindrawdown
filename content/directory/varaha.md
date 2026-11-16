@@ -47,6 +47,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-16** — News: Varaha’s Community Biochar Project Gets BeZero A.pre Rating Ahead of 2027 Credit Issuance • Carbon... ([source](https://carboncredits.com/varahas-community-biochar-project-gets-bezero-a-pre-rating-ahead-of-2027-credit-issuance/))
 - **2026-11-15** — News: Varaha Biochar Project Earns BeZero Carbon A.pre Rating ([source](https://biochartoday.com/news/varaha-and-rainbow-secure-a-pre-bezero-carbon-rating-for-community-led-biochar-project-in-india/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-11-15** — News: Rainbow: Varaha ’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has... ([source](https://www.linkedin.com/company/rainbowstandard/#post-6a4bc7c34af8))
 - **2026-11-13** — News: Varaha’s Community-Led Biochar Project Is Now Rated As A.pre Ex Ante By BeZero ([source](https://carbonherald.com/varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=varahas-community-led-biochar-project-is-now-rated-as-a-pre-ex-ante-by-bezero))
@@ -76,7 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-29** — News: The Startup Turning Healthy Soil Into Extra Income for 2 Lakh Farmers ([source](https://thebetterindia.com/farming/varaha-carbon-credits-farmers-regenerative-agriculture-india-12208537))
 - **2026-07-25** — News: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy… ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
 - **2026-06-27** — News: Varaha - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn ([source](https://tracxn.com/d/companies/varaha/__pYFx2Y2zYxhtWNdCQOl7mG7XezdedBAk4yh8CL6v_3g))
-- **2026-05-22** — News: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 
 ---
 

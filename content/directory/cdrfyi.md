@@ -29,6 +29,7 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-11-16** — News: Durable CDR Market Update: Bridging the Gap to Compliance Demand ([source](https://www.cdr.fyi/blog/durable-cdr-market-update-carbon-unbound-europe-2026))
 - **2026-11-14** — News: CDR.fyi: This week saw some key developments in durable CDR, as carbon removal was included in... ([source](https://www.linkedin.com/company/cdr-fyi/#post-ae970693ba2c))
 - **2026-11-13** — News: Bioenergie Frauenfeld: More than 70% of all biochar carbon removal delivered worldwide in… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-542926d6ae99))
 - **2026-11-10** — News: Durable CDR Market Recap: October 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-october-2026))
@@ -58,7 +59,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-09-02** — News: CDR.fyi: Huge CDR Deal Alert! Höganäs AB , a Swedish advanced ceramic and metal powders… ([source](https://www.linkedin.com/company/cdr-fyi/#post-61ac825a402f))
 - **2026-09-02** — News: CDR.fyi: This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement… ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
 - **2026-08-31** — News: Who are the top investors in carbon capture? – New Market Pitch ([source](https://newmarketpitch.com/blogs/news/carbon-capture-top-investors))
-- **2026-08-30** — News: Scature: Q2 2026 just became the biggest quarter carbon removal has ever seen. 2.1 million tonnes… ([source](https://www.linkedin.com/company/scature/#post-9b16d4fa6d95))
 
 ---
 

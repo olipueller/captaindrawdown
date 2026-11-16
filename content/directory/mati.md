@@ -38,6 +38,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-16** — News: MATI, from the field - Hiralal Baghel describes the changes in his soil, his harvest and his input... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528076545517793285/))
 - **2026-11-16** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://carbonherald.com/cop31-mati-and-iita-to-generate-erw-performace-evidence-in-africa/))
 - **2026-11-16** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://en.wikipedia.org/wiki/Mati_Carbon))
 - **2026-11-16** — Reactivated: website reachable again

@@ -34,6 +34,7 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-11-16** — News: Microsoft - Wikipedia ([source](https://en.wikipedia.org/wiki/Microsoft))
 - **2026-11-13** — News: Experiments Indicate Tuzla Volcanic Rocks Can Trap Carbon Dioxide as ([source](https://bioengineer.org/experiments-indicate-tuzla-volcanic-rocks-can-trap-carbon-dioxide-as-calcite/))
 - **2026-11-11** — News: Food System’s Climate Problem Could Become Its Feedstock ([source](https://foodinnovatorskulmbach.substack.com/p/food-systems-climate-problem-could))
 - **2026-11-10** — News: Zem je zachránená. Odborníci našli konečné riešenie na klimatickú krízu, máme ho „pod nosom" ([source](https://fontech.startitup.sk/prelomovy-projekt-solid-carbon-zachrana-zeme-pokracuje-koniec-klimatickej-krizy/))
@@ -63,7 +64,6 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-10-06** — News: Exclusive: Iceland Eyes India Clean Energy Partnership ([source](https://stratnewsglobal.com/europe/iceland/exclusive-iceland-eyes-india-clean-energy-partnership/))
 - **2026-10-06** — News: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni… ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
 - **2026-10-05** — News: JGC-Fluor Joint Venture Completes Final Weld on LNG Canada Train 1 | Turbomachinery Magazine ([source](https://www.turbomachinerymag.com/view/jgc-fluor-joint-venture-completes-final-weld-on-lng-canada-train-1))
-- **2026-10-04** — News: "Important Definitions" We Learnt Last Week (Sep 27-Oct 03, 2026) - Editorial Words ([source](https://www.editorialwords.com/important-definitions-we-learnt-last-week-sep-27-oct-03-2026/))
 
 ---
 

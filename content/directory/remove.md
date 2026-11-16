@@ -30,6 +30,9 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-11-16** — News: Carbon dioxide removal and environmental impacts from the suspended sediment fraction of a... ([source](https://cdrxiv.org/preprint/585))
+- **2026-11-16** — News: Introducing Pace of Change 2026: our annual report on the CSRD climate statements of the Fortune... ([source](https://www.senken.io/blog/pace-of-change-2026))
+- **2026-11-16** — News: UN climate talks hear calls for efforts to remove carbon directly from the atmosphere ([source](https://www.irishexaminer.com/world/arid-41938098.html))
 - **2026-11-16** — News: "renewed push for carbon dioxide removal to be included in final text of COP31" #FFS they can't... ([source](https://bsky.app/profile/ranboydell.bsky.social/post/3n2fypgt7jk2x))
 - **2026-11-16** — News: Frontend Developer (Angular and React) at Mati Carbon in Bengaluru, Karnataka | Dreamwork ([source](https://www.dreamworkhq.com/job/bde8a720-8bce-4f9e-9d19-e2b82ce5757a))
 - **2026-11-15** — News: Metal–organic framework - Wikipedia ([source](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework))
@@ -57,9 +60,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-11-03** — News: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
 - **2026-11-02** — News: Biochar Life Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/biocharlife))
 - **2026-10-31** — News: COP31 could broach carbon removals following UN declaration of 1.5C overshoot, says Oxford academic ([source](https://carbon-pulse.com/566164/))
-- **2026-10-31** — News: Buy and Sell Heirloom Carbon Technologies Stock, $695.67M Valuation - Forge ([source](https://forgeglobal.com/heirloom-carbon-technologies_stock/))
-- **2026-10-30** — News: Evidence for temporal decoupling of olivine weathering and inorganic carbon removal in unsaturated… ([source](https://doi.org/10.3389/fclim.2026.1964775))
-- **2026-10-30** — News: The Role and Institutional Impacts of Carbon Dioxide Removal Technologies in Climate Governance ([source](https://doi.org/10.54254/2753-7048/2026.jo38365))
 
 ---
 

@@ -31,6 +31,7 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-11-16** — News: It’s a busy week for Co-reactive. On November 18–19, Andreas and Willi are heading to Slush 2026… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528009871770742784/))
 - **2026-11-12** — News: #team #researchanddevelopment #talent #climatetech #industrialdecarbonization | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7526316162956079104/))
 - **2026-11-10** — News: We’re excited to announce a new collaboration with ARDEX Group. ARDEX Group and Co-reactive have... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525815074419187712/))
 - **2026-11-03** — News: #scm #cement #concrete #mineralisation #performance | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7523406384252542976/))
@@ -60,7 +61,6 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 - **2026-04-28** — News: #coreactive #demoplant #milestone #carbonnegative #sustainableconstruction #co2utilization… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7454785479666933760/))
 - **2026-04-23** — News: #hellotomorrow2026 | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7453018415709097984/))
 - **2026-04-21** — News: #bilbao #coreactive #decarbonization #energytechsummit #cdlparis... | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452271413689872385/))
-- **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://www.co-reactive.com/))
 
 ---
 

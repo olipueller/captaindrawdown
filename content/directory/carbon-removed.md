@@ -30,6 +30,7 @@ Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux Gmb
 
 ## History
 
+- **2026-11-16** — News: UN climate talks hear calls for efforts to remove carbon directly from the atmosphere ([source](https://www.irishexaminer.com/world/arid-41938098.html))
 - **2026-11-16** — News: Efforts to suck carbon directly from atmosphere championed at UN climate talks | Cop31 | The... ([source](https://www.theguardian.com/environment/2026/nov/16/cop31-carbon-un-climate-talks))
 - **2026-10-31** — News: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
 - **2026-09-28** — News: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))

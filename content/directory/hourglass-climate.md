@@ -29,6 +29,7 @@ Hourglass Climate is a US nonprofit that studies how safe and effective mineral-
 
 ## History
 
+- **2026-11-16** — News: Carbon dioxide removal and environmental impacts from the suspended sediment fraction of a... ([source](https://cdrxiv.org/preprint/585))
 - **2026-11-16** — Status Active → Moderate
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.outerbanksvoice.com/2026/11/08/science-on-the-sound-highlights-carbon-removal-project-in-duck/))
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://give.donationpay.org/hourglassclimate/))
