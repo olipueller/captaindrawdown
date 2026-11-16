@@ -1,10 +1,10 @@
 ---
 title: "CDR Researcher Census"
-description: "57,175 researchers who published on carbon dioxide removal since 2021, mapped by pathway, country and sector; top 100 per pathway with profiles. Release 2026-11."
+description: "57,175 researchers who published on carbon dioxide removal since 2021, mapped by pathway, country and sector; top 100 per pathway with profiles. Release 2026-11.5."
 url: "/cdr-researcher-census/"
 ---
 
-**Who is working on carbon dioxide removal?** The census lists every researcher with at least one CDR-relevant paper or preprint since 2021 on one of 6 pathways, built from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/) (both CC0). Release **2026-11** (data as of 2026-11-15): **57,175 researchers listed**, calibrated estimate of the real population **53,199**, from 16,488 papers, 10,017 institutions and 161 countries; 11,191 are based in Europe. The database was last refreshed on 2026-11-11 (1,827 new papers, 1,631 new researchers in the database); it refreshes on the 11th of every month and the data release follows around the 15th.
+**Who is working on carbon dioxide removal?** The census lists every researcher with at least one CDR-relevant paper or preprint since 2021 on one of 6 pathways, built from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/) (both CC0). Release **2026-11.5** (data as of 2026-11-16): **57,175 researchers listed**, calibrated estimate of the real population **53,199**, from 16,488 papers, 10,017 institutions and 161 countries; 11,191 are based in Europe. The database was last refreshed on 2026-11-11 (1,827 new papers, 1,631 new researchers in the database); it refreshes on the 11th of every month and the data release follows around the 15th.
 
 <p style="font-size:.9rem;color:var(--secondary)">Names, ORCID iDs, institutions and publication counts come from OpenAlex and ORCID. Person-level data is published only for the researchers in the top lists (1,016 people); everyone else is counted in aggregates. If you are listed and want your entry corrected or removed, write to <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a>; it is done within five working days. Details in the <a href="/privacy/">privacy notice</a>.</p>
 
@@ -54,7 +54,7 @@ Listed count and the calibrated estimate per country. The calibration scales the
 | Malaysia | 621 | 1.1 % | 610 |
 | Pakistan | 587 | 1.0 % | 504 |
 
-All 161 countries: [researchers_by_country](/data/v1/2026-11/researchers_by_country.csv).
+All 161 countries: [researchers_by_country](/data/v1/2026-11.5/researchers_by_country.csv).
 
 ## Sectors
 
@@ -115,7 +115,7 @@ The version history of the census (v1 in March 2026 to v3.4 in July 2026, the mo
 
 ---
 
-*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://www.carbon-drawdown.de/). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367*
+*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://www.carbon-drawdown.de/). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.5. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367*
 
 <script>
 document.addEventListener('click', function (e) {

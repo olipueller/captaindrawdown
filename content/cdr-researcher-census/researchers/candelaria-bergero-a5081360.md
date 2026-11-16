@@ -1,7 +1,7 @@
 ---
 title: "Candelaria Bergero"
-description: "Candelaria Bergero, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 112 by activity, 53 by citations). 24 publications, h-index 8, 888 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Candelaria Bergero, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 116 by activity, 80 by citations). 24 publications, h-index 8, 888 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/candelaria-bergero-a5081360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Wisconsin–Madison</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 112 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 53 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 116 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>888</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Renato Rodrigues"
-description: "Renato Rodrigues, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 964 by activity, 38 by citations; Europe rank 477 by activity, 28 by citations). 64 publications, h-index 17, 1,985 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Renato Rodrigues, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 992 by activity, 41 by citations; Europe rank 497 by activity, 31 by citations). 64 publications, h-index 17, 1,985 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/renato-rodrigues-a5073007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 964 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 477 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 992 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 41 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 497 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>1,985</td></tr>

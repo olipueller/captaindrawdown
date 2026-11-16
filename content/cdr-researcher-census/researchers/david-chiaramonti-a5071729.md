@@ -1,7 +1,7 @@
 ---
 title: "David Chiaramonti"
-description: "David Chiaramonti, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 54 by activity, 1273 by citations; Europe rank 18 by activity, 149 by citations). 311 publications, h-index 49, 8,392 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "David Chiaramonti, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 62 by activity, 1172 by citations; Europe rank 20 by activity, 132 by citations). 311 publications, h-index 49, 8,392 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/david-chiaramonti-a5071729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Politecnico di Torino</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 54 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1273 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 18 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 149 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 62 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1172 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 132 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>49</td></tr>
   <tr><th>Citations</th><td>8,392</td></tr>

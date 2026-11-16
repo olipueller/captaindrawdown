@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Animali"
-description: "Lorenzo Animali, Roma Tre University, Italy. 11 publications, h-index 2, 21 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lorenzo Animali, Roma Tre University, Italy. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 43 by activity, 1144 by citations). 11 publications, h-index 2, 21 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lorenzo-animali-a5094099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Roma Tre University</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 43 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1144 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>21</td></tr>

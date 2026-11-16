@@ -1,7 +1,7 @@
 ---
 title: "William Joe Sagues"
-description: "William Joe Sagues, North Carolina State University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 19 by activity, 275 by citations). 60 publications, h-index 19, 1,431 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "William Joe Sagues, North Carolina State University, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 21 by activity, 255 by citations). 60 publications, h-index 19, 1,431 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/william-joe-sagues-a5008564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>North Carolina State University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 19 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 275 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 21 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 255 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,431</td></tr>

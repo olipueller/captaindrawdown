@@ -1,7 +1,7 @@
 ---
 title: "Mario Grosso"
-description: "Mario Grosso, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 96 by activity, 70 by citations; Europe rank 59 by activity, 32 by citations). 329 publications, h-index 43, 5,646 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Mario Grosso, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 98 by activity, 76 by citations; Europe rank 60 by activity, 34 by citations). 329 publications, h-index 43, 5,646 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mario-grosso-a5082273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Politecnico di Milano</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 96 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 59 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 98 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 60 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>43</td></tr>
   <tr><th>Citations</th><td>5,646</td></tr>

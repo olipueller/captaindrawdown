@@ -1,7 +1,7 @@
 ---
 title: "María Erans"
-description: "María Erans, Universitat de València, Spain. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5483 by activity, 17 by citations; Europe rank 1405 by activity, 10 by citations). 43 publications, h-index 16, 1,736 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "María Erans, Universitat de València, Spain. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 5733 by activity, 17 by citations; Europe rank 1447 by activity, 10 by citations). 43 publications, h-index 16, 1,736 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/maria-erans-a5025793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universitat de València</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 5483 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1405 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5733 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1447 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>1,736</td></tr>

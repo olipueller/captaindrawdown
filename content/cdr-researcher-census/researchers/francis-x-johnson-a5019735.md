@@ -1,7 +1,7 @@
 ---
 title: "Francis X. Johnson"
-description: "Francis X. Johnson, Stockholm Environment Institute, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (Europe rank 252 by activity, 47 by citations). 118 publications, h-index 24, 11,930 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Francis X. Johnson, Stockholm Environment Institute, Sweden. CDR Researcher Census top lists (2026-11): BECCS (Europe rank 262 by activity, 49 by citations). 118 publications, h-index 24, 11,930 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/francis-x-johnson-a5019735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Stockholm Environment Institute</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>Europe: rank 252 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 262 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>24</td></tr>
   <tr><th>Citations</th><td>11,930</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Tom Kuppens"
-description: "Tom Kuppens, Hasselt University, Belgium. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 185 by activity, 30 by citations). 145 publications, h-index 23, 2,108 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tom Kuppens, Hasselt University, Belgium. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 199 by activity, 29 by citations). 145 publications, h-index 23, 2,108 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tom-kuppens-a5074860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hasselt University</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 185 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 199 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 29 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>2,108</td></tr>

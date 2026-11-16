@@ -1,7 +1,7 @@
 ---
 title: "Magnus Rydén"
-description: "Magnus Rydén, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 90 by activity, 1120 by citations). 147 publications, h-index 46, 6,394 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Magnus Rydén, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 95 by activity, 1003 by citations). 147 publications, h-index 46, 6,394 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/magnus-ryden-a5041687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chalmers University of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 90 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1120 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 95 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1003 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>46</td></tr>
   <tr><th>Citations</th><td>6,394</td></tr>

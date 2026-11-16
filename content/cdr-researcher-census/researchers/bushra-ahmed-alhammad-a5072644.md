@@ -1,7 +1,7 @@
 ---
 title: "Bushra Ahmed Alhammad"
-description: "Bushra Ahmed Alhammad, Prince Sattam Bin Abdulaziz University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25897 by activity, 70 by citations). 52 publications, h-index 27, 3,802 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Bushra Ahmed Alhammad, Prince Sattam Bin Abdulaziz University, Saudi Arabia. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 26946 by activity, 68 by citations). 52 publications, h-index 27, 3,802 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/bushra-ahmed-alhammad-a5072644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Prince Sattam Bin Abdulaziz University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 25897 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 26946 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>3,802</td></tr>

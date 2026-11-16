@@ -1,7 +1,7 @@
 ---
 title: "Guizhi Wang"
-description: "Guizhi Wang, Xiamen University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4967 by activity, 62 by citations). 215 publications, h-index 36, 4,876 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Guizhi Wang, Xiamen University, China. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5016 by activity, 66 by citations). 215 publications, h-index 36, 4,876 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/guizhi-wang-a5051534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Xiamen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4967 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 62 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5016 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>4,876</td></tr>

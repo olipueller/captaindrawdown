@@ -1,7 +1,7 @@
 ---
 title: "Martin Junginger"
-description: "Martin Junginger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 7 by activity, 96 by citations; Europe rank 7 by activity, 38 by citations). 383 publications, h-index 70, 16,335 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Martin Junginger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 8 by activity, 111 by citations; Europe rank 8 by activity, 48 by citations). 383 publications, h-index 70, 16,335 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/martin-junginger-a5070296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utrecht University</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 7 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 8 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 111 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>70</td></tr>
   <tr><th>Citations</th><td>16,335</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Tronje P. Kemena"
-description: "Tronje P. Kemena, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 47 by activity, 1870 by citations; Europe rank 29 by activity, 568 by citations). 43 publications, h-index 5, 126 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tronje P. Kemena, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 41 by activity, 1872 by citations; Europe rank 25 by activity, 589 by citations). 43 publications, h-index 5, 126 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 47 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1870 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 568 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 41 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1872 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 589 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>126</td></tr>

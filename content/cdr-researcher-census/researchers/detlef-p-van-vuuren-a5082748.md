@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
-description: "Detlef P. van Vuuren, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 4 by activity, 142 by citations; Europe rank 4 by activity, 62 by citations), Cross-cutting CDR (worldwide rank 16 by activity, 135 by citations; Europe rank 11 by activity, 87 by citations). 998 publications, h-index 150, 137,361 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Detlef P. van Vuuren, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 6 by activity, 159 by citations; Europe rank 6 by activity, 74 by citations), Cross-cutting CDR (worldwide rank 16 by activity, 118 by citations; Europe rank 11 by activity, 79 by citations). 998 publications, h-index 150, 137,361 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Netherlands Environmental Assessment Agency</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 4 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 142 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 62 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 16 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 135 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 87 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 6 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 159 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 74 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 16 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 118 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 79 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>150</td></tr>
   <tr><th>Citations</th><td>137,361</td></tr>

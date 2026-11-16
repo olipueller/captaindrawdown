@@ -1,7 +1,7 @@
 ---
 title: "Aaron Ferderer"
-description: "Aaron Ferderer, Institute for Marine and Antarctic Studies. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 257 by activity, 31 by citations). 19 publications, h-index 7, 383 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Aaron Ferderer, Institute for Marine and Antarctic Studies. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 282 by activity, 27 by citations). 19 publications, h-index 7, 383 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/aaron-ferderer-a5058513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,7 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Institute for Marine and Antarctic Studies</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 257 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 31 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 282 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>383</td></tr>

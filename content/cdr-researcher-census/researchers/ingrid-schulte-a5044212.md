@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Schulte"
-description: "Ingrid Schulte, Leibniz Association, Germany. 19 publications, h-index 7, 461 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ingrid Schulte, Leibniz Association, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 90 by activity, 579 by citations). 19 publications, h-index 7, 461 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ingrid-schulte-a5044212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Leibniz Association</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 90 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 579 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>461</td></tr>

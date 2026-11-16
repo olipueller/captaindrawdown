@@ -1,7 +1,7 @@
 ---
 title: "Albert Pessarrodona"
-description: "Albert Pessarrodona, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 309 by activity, 42 by citations). 99 publications, h-index 26, 2,641 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Albert Pessarrodona, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 342 by activity, 51 by citations). 99 publications, h-index 26, 2,641 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/albert-pessarrodona-a5008690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>The University of Western Australia</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 309 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 42 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 342 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>2,641</td></tr>

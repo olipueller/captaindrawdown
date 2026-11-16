@@ -1,7 +1,7 @@
 ---
 title: "Ronja Wollnik"
-description: "Ronja Wollnik, Deutsches Biomasseforschungszentrum, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 6 by activity, 1701 by citations; Europe rank 6 by activity, 733 by citations), Cross-cutting CDR (worldwide rank 71 by activity, 9108 by citations; Europe rank 47 by activity, 2517 by citations). 39 publications, h-index 4, 53 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ronja Wollnik, Deutsches Biomasseforschungszentrum, Germany. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3 by activity, 1523 by citations; Europe rank 3 by activity, 670 by citations), Cross-cutting CDR (worldwide rank 45 by activity, 8363 by citations; Europe rank 32 by activity, 2316 by citations). 39 publications, h-index 4, 53 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ronja-wollnik-a5098773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Deutsches Biomasseforschungszentrum</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 6 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1701 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 733 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 71 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9108 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 47 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 2517 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1523 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 670 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 8363 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 2316 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>53</td></tr>

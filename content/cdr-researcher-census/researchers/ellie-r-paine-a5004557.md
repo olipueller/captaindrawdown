@@ -1,7 +1,7 @@
 ---
 title: "Ellie R. Paine"
-description: "Ellie R. Paine, University of Tasmania Institute for Marine and Antarctic Studies, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 1092 by activity, 33 by citations). 17 publications, h-index 11, 721 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ellie R. Paine, University of Tasmania Institute for Marine and Antarctic Studies, Australia. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 1118 by activity, 46 by citations). 17 publications, h-index 11, 721 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ellie-r-paine-a5004557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania Institute for Marine and Antarctic Studies</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1092 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 33 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1118 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>721</td></tr>

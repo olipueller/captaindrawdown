@@ -1,7 +1,7 @@
 ---
 title: "Hua Deng"
-description: "Hua Deng, Guangxi Normal University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 29 by activity, 1983 by citations). 41 publications, h-index 18, 1,122 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hua Deng, Guangxi Normal University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 32 by activity, 1860 by citations). 41 publications, h-index 18, 1,122 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hua-deng-a5017874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Guangxi Normal University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 29 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1983 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 32 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1860 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,122</td></tr>

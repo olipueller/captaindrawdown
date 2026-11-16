@@ -1,7 +1,7 @@
 ---
 title: "Fı́z F. Pérez"
-description: "Fı́z F. Pérez, Instituto de Investigacións Mariñas, Spain. 668 publications, h-index 66, 15,486 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Fı́z F. Pérez, Instituto de Investigacións Mariñas, Spain. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 267 by activity, 90 by citations; Europe rank 120 by activity, 40 by citations). 668 publications, h-index 66, 15,486 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/fz-f-perez-a5065552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto de Investigacións Mariñas</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 267 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 120 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>66</td></tr>
   <tr><th>Citations</th><td>15,486</td></tr>

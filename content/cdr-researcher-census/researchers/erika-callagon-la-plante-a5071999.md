@@ -1,7 +1,7 @@
 ---
 title: "Erika Callagon La Plante"
-description: "Erika Callagon La Plante, University of California, Davis, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 71 by activity, 183 by citations). 71 publications, h-index 20, 1,372 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Erika Callagon La Plante, University of California, Davis, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 79 by activity, 198 by citations). 71 publications, h-index 20, 1,372 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/erika-callagon-la-plante-a5071999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California, Davis</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 71 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 183 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 79 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 198 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>1,372</td></tr>

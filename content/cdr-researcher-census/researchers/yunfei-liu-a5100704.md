@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Liu"
-description: "Yunfei Liu, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2318 by activity, 64 by citations). 371 publications, h-index 36, 5,412 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Yunfei Liu, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2389 by activity, 72 by citations). 371 publications, h-index 36, 5,412 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/yunfei-liu-a5100704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanjing Forestry University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2318 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2389 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>5,412</td></tr>

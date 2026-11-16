@@ -1,7 +1,7 @@
 ---
 title: "Lucilla Boito"
-description: "Lucilla Boito, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 19 by activity, 317 by citations; Europe rank 12 by activity, 135 by citations). 30 publications, h-index 5, 101 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lucilla Boito, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 19 by activity, 214 by citations; Europe rank 12 by activity, 113 by citations). 30 publications, h-index 5, 101 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lucilla-boito-a5094096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 19 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 317 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 135 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 19 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 214 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 113 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>101</td></tr>

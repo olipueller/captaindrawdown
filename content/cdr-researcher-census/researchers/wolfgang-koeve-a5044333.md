@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Koeve"
-description: "Wolfgang Koeve, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 90 by activity, 570 by citations). 205 publications, h-index 36, 3,925 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Wolfgang Koeve, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 67 by activity, 489 by citations; Europe rank 42 by activity, 190 by citations). 205 publications, h-index 36, 3,925 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/wolfgang-koeve-a5044333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 90 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 570 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 67 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 489 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 42 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 190 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>3,925</td></tr>

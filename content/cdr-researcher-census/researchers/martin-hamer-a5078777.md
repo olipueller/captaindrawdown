@@ -1,7 +1,7 @@
 ---
 title: "Martin Hamer"
-description: "Martin Hamer, Hochschule Bonn-Rhein-Sieg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4673 by activity, 37 by citations; Europe rank 1318 by activity, 27 by citations). 55 publications, h-index 6, 378 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Martin Hamer, Hochschule Bonn-Rhein-Sieg, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 4891 by activity, 40 by citations; Europe rank 1323 by activity, 31 by citations). 55 publications, h-index 6, 378 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/martin-hamer-a5078777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hochschule Bonn-Rhein-Sieg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4673 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1318 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4891 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 40 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1323 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>378</td></tr>

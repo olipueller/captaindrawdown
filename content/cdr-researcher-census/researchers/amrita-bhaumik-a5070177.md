@@ -1,7 +1,7 @@
 ---
 title: "Amrita Bhaumik"
-description: "Amrita Bhaumik, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. 16 publications, h-index 4, 43 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Amrita Bhaumik, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 73 by activity, 940 by citations; Europe rank 44 by activity, 325 by citations). 16 publications, h-index 4, 43 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/amrita-bhaumik-a5070177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 73 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 940 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 44 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 325 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>43</td></tr>

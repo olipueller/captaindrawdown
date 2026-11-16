@@ -1,7 +1,7 @@
 ---
 title: "Mingjing He"
-description: "Mingjing He, Hong Kong Polytechnic University, Hong Kong. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 4050 by activity, 55 by citations). 35 publications, h-index 23, 5,231 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Mingjing He, Hong Kong Polytechnic University, Hong Kong. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 4254 by activity, 57 by citations). 35 publications, h-index 23, 5,231 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mingjing-he-a5068928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hong Kong Polytechnic University</td></tr>
   <tr><th>Country</th><td>Hong Kong</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 4050 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 4254 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 57 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>5,231</td></tr>

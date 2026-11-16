@@ -1,7 +1,7 @@
 ---
 title: "Henry C. Bittig"
-description: "Henry C. Bittig, Leibniz Institute for Baltic Sea Research Warnemünde, Germany. 226 publications, h-index 30, 10,158 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Henry C. Bittig, Leibniz Institute for Baltic Sea Research Warnemünde, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (Europe rank 175 by activity, 42 by citations). 226 publications, h-index 30, 10,158 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/henry-c-bittig-a5063195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Leibniz Institute for Baltic Sea Research Warnemünde</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 175 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>10,158</td></tr>

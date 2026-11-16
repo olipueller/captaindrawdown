@@ -1,7 +1,7 @@
 ---
 title: "Michael Obersteiner"
-description: "Michael Obersteiner, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 491 by activity, 9 by citations; Europe rank 274 by activity, 6 by citations), Enhanced Weathering (worldwide rank 4676 by activity, 64 by citations; Europe rank 1320 by activity, 45 by citations). 678 publications, h-index 115, 54,583 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Michael Obersteiner, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 514 by activity, 9 by citations; Europe rank 288 by activity, 6 by citations), Enhanced Weathering (worldwide rank 4894 by activity, 66 by citations; Europe rank 1325 by activity, 47 by citations). 678 publications, h-index 115, 54,583 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/michael-obersteiner-a5025780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Oxford</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 491 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 274 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4676 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1320 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 514 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 288 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4894 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1325 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>115</td></tr>
   <tr><th>Citations</th><td>54,583</td></tr>

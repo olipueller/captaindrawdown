@@ -1,7 +1,7 @@
 ---
 title: "Paweł Ziółkowski"
-description: "Paweł Ziółkowski, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 33 by activity, 329 by citations; Europe rank 23 by activity, 132 by citations). 146 publications, h-index 24, 1,730 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Paweł Ziółkowski, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 39 by activity, 360 by citations; Europe rank 26 by activity, 160 by citations). 146 publications, h-index 24, 1,730 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/pawe-ziokowski-a5022146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Gdańsk University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 33 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 329 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 132 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 39 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 360 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 160 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>24</td></tr>
   <tr><th>Citations</th><td>1,730</td></tr>

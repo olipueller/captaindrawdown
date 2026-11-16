@@ -1,7 +1,7 @@
 ---
 title: "Qing Yang"
-description: "Qing Yang, Harvard University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 587 by activity, 12 by citations). 166 publications, h-index 47, 6,764 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Qing Yang, Harvard University, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 601 by activity, 15 by citations). 166 publications, h-index 47, 6,764 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/qing-yang-a5100605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Harvard University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 587 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 601 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 15 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>6,764</td></tr>

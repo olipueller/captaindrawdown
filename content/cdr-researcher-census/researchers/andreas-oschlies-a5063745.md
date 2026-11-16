@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
-description: "Andreas Oschlies, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 2 by activity, 9 by citations; Europe rank 1 by activity, 4 by citations). 655 publications, h-index 77, 27,244 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Andreas Oschlies, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 3 by activity, 9 by citations; Europe rank 2 by activity, 4 by citations). 655 publications, h-index 77, 27,244 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 2 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 4 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 3 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 4 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>77</td></tr>
   <tr><th>Citations</th><td>27,244</td></tr>

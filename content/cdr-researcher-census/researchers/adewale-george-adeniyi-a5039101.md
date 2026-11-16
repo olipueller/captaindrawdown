@@ -1,7 +1,7 @@
 ---
 title: "Adewale George Adeniyi"
-description: "Adewale George Adeniyi, University of Ilorin, Nigeria. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 41 by activity, 1052 by citations). 328 publications, h-index 55, 10,861 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Adewale George Adeniyi, University of Ilorin, Nigeria. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 23 by activity, 1072 by citations). 328 publications, h-index 55, 10,861 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Ilorin</td></tr>
   <tr><th>Country</th><td>Nigeria</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 41 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1052 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1072 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>55</td></tr>
   <tr><th>Citations</th><td>10,861</td></tr>

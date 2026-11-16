@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
-description: "David A.C. Manning, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 51 by activity, 230 by citations; Europe rank 35 by activity, 112 by citations). 318 publications, h-index 59, 20,381 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "David A.C. Manning, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 30 by activity, 212 by citations; Europe rank 21 by activity, 112 by citations). 318 publications, h-index 59, 20,381 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Newcastle University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 51 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 230 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 112 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 30 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 212 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 112 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>59</td></tr>
   <tr><th>Citations</th><td>20,381</td></tr>

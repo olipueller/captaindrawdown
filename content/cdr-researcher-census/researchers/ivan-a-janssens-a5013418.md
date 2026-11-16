@@ -1,7 +1,7 @@
 ---
 title: "Ivan A. Janssens"
-description: "Ivan A. Janssens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 40 by activity, 12 by citations; Europe rank 26 by activity, 10 by citations), BECCS (worldwide rank 2236 by activity, 51 by citations; Europe rank 848 by activity, 19 by citations). 725 publications, h-index 123, 76,492 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ivan A. Janssens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 25 by activity, 13 by citations; Europe rank 16 by activity, 10 by citations), BECCS (worldwide rank 2306 by activity, 60 by citations; Europe rank 858 by activity, 24 by citations). 725 publications, h-index 123, 76,492 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 40 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2236 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 848 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 25 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 13 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2306 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 858 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>123</td></tr>
   <tr><th>Citations</th><td>76,492</td></tr>

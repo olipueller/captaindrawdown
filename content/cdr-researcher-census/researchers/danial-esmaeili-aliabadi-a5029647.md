@@ -1,7 +1,7 @@
 ---
 title: "Danial Esmaeili Aliabadi"
-description: "Danial Esmaeili Aliabadi, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 26 by activity, 1159 by citations; Europe rank 17 by activity, 508 by citations). 85 publications, h-index 16, 723 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Danial Esmaeili Aliabadi, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 10 by activity, 1101 by citations; Europe rank 10 by activity, 484 by citations). 85 publications, h-index 16, 723 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/danial-esmaeili-aliabadi-a5029647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Helmholtz Centre for Environmental Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 26 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1159 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 508 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 10 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1101 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 484 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>723</td></tr>

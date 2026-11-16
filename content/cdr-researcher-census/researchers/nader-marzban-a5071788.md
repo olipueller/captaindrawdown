@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
-description: "Nader Marzban, Leibniz Institute for Agricultural Engineering and Bioeconomy, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 95 by activity, 1602 by citations; Europe rank 27 by activity, 187 by citations). 57 publications, h-index 20, 1,270 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Nader Marzban, Leibniz Institute for Agricultural Engineering and Bioeconomy, Germany. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 29 by activity, 151 by citations). 57 publications, h-index 20, 1,270 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Leibniz Institute for Agricultural Engineering and Bioeconomy</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 95 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1602 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 187 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 29 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 151 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>1,270</td></tr>

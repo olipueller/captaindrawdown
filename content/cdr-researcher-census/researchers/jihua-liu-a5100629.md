@@ -1,7 +1,7 @@
 ---
 title: "Jihua Liu"
-description: "Jihua Liu, Shandong University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 40 by activity, 151 by citations). 183 publications, h-index 34, 5,657 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jihua Liu, Shandong University, China. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 19 by activity, 176 by citations). 183 publications, h-index 34, 5,657 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jihua-liu-a5100629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shandong University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 40 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 151 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 19 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 176 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>5,657</td></tr>

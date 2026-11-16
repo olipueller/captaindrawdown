@@ -1,7 +1,7 @@
 ---
 title: "Dorothée C. E. Bakker"
-description: "Dorothée C. E. Bakker, University of East Anglia, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 278 by activity, 26 by citations; Europe rank 126 by activity, 12 by citations). 352 publications, h-index 60, 24,542 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Dorothée C. E. Bakker, University of East Anglia, United Kingdom. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 304 by activity, 20 by citations; Europe rank 134 by activity, 9 by citations). 352 publications, h-index 60, 24,542 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/dorothee-c-e-bakker-a5090846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of East Anglia</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 278 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 126 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 12 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 304 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 20 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 134 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>60</td></tr>
   <tr><th>Citations</th><td>24,542</td></tr>

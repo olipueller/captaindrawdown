@@ -1,7 +1,7 @@
 ---
 title: "Philippe Ciais"
-description: "Philippe Ciais, Laboratoire des Sciences du Climat et de l'Environnement, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2 by activity, 5 by citations; Europe rank 2 by activity, 4 by citations), Cross-cutting CDR (worldwide rank 28 by activity, 90 by citations; Europe rank 17 by activity, 63 by citations), Enhanced Weathering (worldwide rank 412 by activity, 56 by citations; Europe rank 199 by activity, 41 by citations). 3032 publications, h-index 242, 281,583 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Philippe Ciais, Laboratoire des Sciences du Climat et de l'Environnement, France. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2 by activity, 6 by citations; Europe rank 2 by activity, 5 by citations), Cross-cutting CDR (worldwide rank 29 by activity, 85 by citations; Europe rank 17 by activity, 63 by citations), Enhanced Weathering (worldwide rank 457 by activity, 57 by citations; Europe rank 204 by activity, 43 by citations). 3032 publications, h-index 242, 281,583 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/philippe-ciais-a5070378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Laboratoire des Sciences du Climat et de l'Environnement</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 4 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 63 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 412 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 56 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 199 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 6 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 5 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 29 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 63 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 457 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 57 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 204 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 43 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>242</td></tr>
   <tr><th>Citations</th><td>281,583</td></tr>

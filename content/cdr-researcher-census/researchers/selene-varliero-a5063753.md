@@ -1,7 +1,7 @@
 ---
 title: "Selene Varliero"
-description: "Selene Varliero, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 25 by activity, 734 by citations; Europe rank 15 by activity, 252 by citations). 20 publications, h-index 6, 127 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Selene Varliero, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 34 by activity, 609 by citations; Europe rank 21 by activity, 231 by citations). 20 publications, h-index 6, 127 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/selene-varliero-a5063753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Politecnico di Milano</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 25 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 734 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 15 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 252 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 34 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 609 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 231 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>127</td></tr>

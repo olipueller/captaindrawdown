@@ -1,7 +1,7 @@
 ---
 title: "Ms. Sindhu Jannareddy"
-description: "Ms. Sindhu Jannareddy, Managing Director. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 65 by activity, 20454 by citations), BECCS (worldwide rank 70 by activity, 2930 by citations). 5 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ms. Sindhu Jannareddy, Managing Director. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 74 by activity, 21453 by citations), BECCS (worldwide rank 77 by activity, 3100 by citations). 5 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ms-sindhu-jannareddy-a5121063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,8 +25,8 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Managing Director</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 65 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 20454 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 70 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2930 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 74 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 21453 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 77 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3100 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>

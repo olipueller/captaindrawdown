@@ -1,7 +1,7 @@
 ---
 title: "Leila Kittu"
-description: "Leila Kittu, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 31 by activity, 1869 by citations; Europe rank 20 by activity, 567 by citations). 33 publications, h-index 6, 245 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Leila Kittu, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 30 by activity, 1796 by citations; Europe rank 19 by activity, 562 by citations). 33 publications, h-index 6, 245 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/leila-kittu-a5085342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 31 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1869 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 567 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 30 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1796 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 19 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 562 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>245</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Tzara Bierowiec"
-description: "Tzara Bierowiec, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 62 by activity, 2057 by citations; Europe rank 44 by activity, 579 by citations). 13 publications, h-index 2, 68 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tzara Bierowiec, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 62 by activity, 1956 by citations; Europe rank 44 by activity, 572 by citations). 13 publications, h-index 2, 68 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tzara-bierowiec-a5022537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>UNDO Carbon Ltd</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 62 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2057 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 44 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 579 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 62 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1956 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 44 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 572 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>68</td></tr>

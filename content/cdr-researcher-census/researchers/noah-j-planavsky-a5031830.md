@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
-description: "Noah J. Planavsky, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 1 by activity, 5 by citations). 557 publications, h-index 87, 31,118 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Noah J. Planavsky, Yale University, United States. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 1 by activity, 5 by citations). 557 publications, h-index 87, 31,118 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 1 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 1 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>87</td></tr>
   <tr><th>Citations</th><td>31,118</td></tr>

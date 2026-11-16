@@ -1,7 +1,7 @@
 ---
 title: "Hanna Lee"
-description: "Hanna Lee, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 50 by activity, 684 by citations; Europe rank 35 by activity, 316 by citations). 145 publications, h-index 35, 7,336 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hanna Lee, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 56 by activity, 513 by citations; Europe rank 38 by activity, 260 by citations). 145 publications, h-index 35, 7,336 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hanna-lee-a5044293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Norwegian University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 50 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 684 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 316 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 56 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 513 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 260 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>7,336</td></tr>

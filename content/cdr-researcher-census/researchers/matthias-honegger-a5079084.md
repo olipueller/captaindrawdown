@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
-description: "Matthias Honegger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 51 by activity, 140 by citations; Europe rank 36 by activity, 89 by citations). 82 publications, h-index 16, 1,121 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Matthias Honegger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 57 by activity, 141 by citations; Europe rank 39 by activity, 94 by citations). 82 publications, h-index 16, 1,121 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utrecht University</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 51 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 140 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 89 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 57 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 141 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 94 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>1,121</td></tr>

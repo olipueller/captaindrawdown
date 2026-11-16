@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
-description: "Miriam Seifert, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 80 by activity, 1476 by citations; Europe rank 50 by activity, 492 by citations). 34 publications, h-index 9, 378 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Miriam Seifert, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 62 by activity, 1346 by citations; Europe rank 39 by activity, 452 by citations). 34 publications, h-index 9, 378 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 80 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1476 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 50 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 492 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 62 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1346 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 452 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>378</td></tr>

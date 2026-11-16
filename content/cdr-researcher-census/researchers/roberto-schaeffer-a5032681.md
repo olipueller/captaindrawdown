@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
-description: "Roberto Schaeffer, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 38 by activity, 40 by citations), BECCS (worldwide rank 53 by activity, 829 by citations). 351 publications, h-index 66, 19,513 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Roberto Schaeffer, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 46 by activity, 43 by citations), BECCS (worldwide rank 60 by activity, 792 by citations). 351 publications, h-index 66, 19,513 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade Federal do Rio de Janeiro</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 38 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 40 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 53 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 829 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 46 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 43 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 60 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 792 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>66</td></tr>
   <tr><th>Citations</th><td>19,513</td></tr>

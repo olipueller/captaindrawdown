@@ -1,7 +1,7 @@
 ---
 title: "Ralf Steffens"
-description: "Ralf Steffens, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 84 by activity, 1838 by citations). 23 publications, h-index 3, 22 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ralf Steffens, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 59 by activity, 1673 by citations; Europe rank 41 by activity, 491 by citations). 23 publications, h-index 3, 22 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ralf-steffens-a5036254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 84 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1838 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 59 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1673 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 41 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 491 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>22</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
-description: "Margarita de Las Obras Loscertales, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 30 by activity, 376 by citations; Europe rank 20 by activity, 162 by citations). 69 publications, h-index 15, 789 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Margarita de Las Obras Loscertales, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 37 by activity, 405 by citations; Europe rank 24 by activity, 181 by citations). 69 publications, h-index 15, 789 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto de Carboquímica</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 30 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 376 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 162 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 37 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 405 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 181 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>789</td></tr>

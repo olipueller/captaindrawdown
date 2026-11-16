@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Singh"
-description: "Abhijeet Singh, Uppsala University, Sweden. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 77 by activity, 1056 by citations). 44 publications, h-index 14, 724 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Abhijeet Singh, Uppsala University, Sweden. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 72 by activity, 662 by citations; Europe rank 50 by activity, 226 by citations). 44 publications, h-index 14, 724 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/abhijeet-singh-a5044155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Uppsala University</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 77 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1056 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 72 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 662 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 50 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 226 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>724</td></tr>

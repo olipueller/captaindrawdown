@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
-description: "Frederico Ribeiro do Carmo, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 94 by activity, 6865 by citations). 68 publications, h-index 12, 393 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Frederico Ribeiro do Carmo, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 58 by activity, 5585 by citations). 68 publications, h-index 12, 393 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade Federal Rural do Semi-Árido</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 94 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 6865 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 58 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 5585 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>393</td></tr>

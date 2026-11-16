@@ -1,7 +1,7 @@
 ---
 title: "Massimo Del Bubba"
-description: "Massimo Del Bubba, University of Florence, Italy. 271 publications, h-index 44, 6,318 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Massimo Del Bubba, University of Florence, Italy. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 50 by activity, 129 by citations). 271 publications, h-index 44, 6,318 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/massimo-del-bubba-a5051454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Florence</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 50 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 129 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>44</td></tr>
   <tr><th>Citations</th><td>6,318</td></tr>

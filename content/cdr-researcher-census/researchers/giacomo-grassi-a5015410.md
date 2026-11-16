@@ -1,7 +1,7 @@
 ---
 title: "Giacomo Grassi"
-description: "Giacomo Grassi, Joint Research Centre, Italy. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 55 by activity, 93 by citations; Europe rank 39 by activity, 65 by citations). 233 publications, h-index 60, 18,635 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Giacomo Grassi, Joint Research Centre, Italy. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 64 by activity, 87 by citations; Europe rank 45 by activity, 65 by citations). 233 publications, h-index 60, 18,635 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/giacomo-grassi-a5015410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Joint Research Centre</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 55 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 65 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 64 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 65 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>60</td></tr>
   <tr><th>Citations</th><td>18,635</td></tr>

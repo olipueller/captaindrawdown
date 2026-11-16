@@ -1,7 +1,7 @@
 ---
 title: "Seham M. Hamed"
-description: "Seham M. Hamed, Imam Mohammad ibn Saud Islamic University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3387 by activity, 26 by citations). 60 publications, h-index 19, 1,656 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Seham M. Hamed, Imam Mohammad ibn Saud Islamic University, Saudi Arabia. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3457 by activity, 24 by citations). 60 publications, h-index 19, 1,656 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/seham-m-hamed-a5007312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Imam Mohammad ibn Saud Islamic University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3387 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3457 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,656</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Ken Oshiro"
-description: "Ken Oshiro, Hokkaido University, Japan. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 22 by activity, 525 by citations). 124 publications, h-index 30, 3,481 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ken Oshiro, Hokkaido University, Japan. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 24 by activity, 574 by citations). 124 publications, h-index 30, 3,481 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ken-oshiro-a5057996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hokkaido University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 22 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 525 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 24 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 574 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,481</td></tr>

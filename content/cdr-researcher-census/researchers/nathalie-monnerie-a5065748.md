@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
-description: "Nathalie Monnerie, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 97 by activity, 675 by citations; Europe rank 37 by activity, 275 by citations). 118 publications, h-index 20, 1,510 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Nathalie Monnerie, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 76 by activity, 683 by citations; Europe rank 35 by activity, 276 by citations). 118 publications, h-index 20, 1,510 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 97 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 675 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 275 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 76 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 683 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 276 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>1,510</td></tr>

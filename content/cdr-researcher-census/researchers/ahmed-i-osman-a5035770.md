@@ -1,7 +1,7 @@
 ---
 title: "Ahmed I. Osman"
-description: "Ahmed I. Osman, Canterbury Christ Church University, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 385 by activity, 1 by citations; Europe rank 212 by activity, 1 by citations), Biochar (worldwide rank 231 by activity, 5 by citations; Europe rank 52 by activity, 3 by citations), Cross-cutting CDR (worldwide rank 3115 by activity, 5 by citations; Europe rank 1107 by activity, 3 by citations). 306 publications, h-index 90, 33,043 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ahmed I. Osman, Canterbury Christ Church University, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 399 by activity, 1 by citations; Europe rank 222 by activity, 1 by citations), Biochar (worldwide rank 253 by activity, 5 by citations; Europe rank 55 by activity, 3 by citations), Cross-cutting CDR (worldwide rank 3222 by activity, 3 by citations; Europe rank 1139 by activity, 3 by citations). 306 publications, h-index 90, 33,043 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Canterbury Christ Church University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 385 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 212 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 1 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 231 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 52 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 3115 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1107 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 399 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 222 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 1 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 253 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 55 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 3222 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1139 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>90</td></tr>
   <tr><th>Citations</th><td>33,043</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Hendrik Großelindemann"
-description: "Hendrik Großelindemann, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 41 by activity, 2376 by citations; Europe rank 25 by activity, 685 by citations). 16 publications, h-index 3, 67 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hendrik Großelindemann, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 50 by activity, 2085 by citations; Europe rank 31 by activity, 643 by citations). 16 publications, h-index 3, 67 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Bern</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 41 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2376 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 685 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 50 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2085 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 31 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 643 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>67</td></tr>

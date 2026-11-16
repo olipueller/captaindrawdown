@@ -1,7 +1,7 @@
 ---
 title: "Angelo Gurgel"
-description: "Angelo Gurgel, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 302 by activity, 99 by citations). 231 publications, h-index 29, 3,629 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Angelo Gurgel, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 314 by activity, 38 by citations). 231 publications, h-index 29, 3,629 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/angelo-gurgel-a5086031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Massachusetts Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 302 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 314 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>3,629</td></tr>

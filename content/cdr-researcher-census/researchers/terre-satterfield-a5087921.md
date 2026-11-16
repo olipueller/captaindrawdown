@@ -1,7 +1,7 @@
 ---
 title: "Terre Satterfield"
-description: "Terre Satterfield, University of British Columbia, Canada. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 51 by activity, 58 by citations). 231 publications, h-index 51, 14,868 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Terre Satterfield, University of British Columbia, Canada. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 59 by activity, 50 by citations). 231 publications, h-index 51, 14,868 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/terre-satterfield-a5087921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of British Columbia</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 51 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 58 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 59 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 50 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>14,868</td></tr>

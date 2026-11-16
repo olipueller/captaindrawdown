@@ -1,7 +1,7 @@
 ---
 title: "Carl Lim"
-description: "Carl Lim, KU Leuven, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 163 by activity, 71 by citations; Europe rank 82 by activity, 33 by citations). 8 publications, h-index 4, 343 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Carl Lim, KU Leuven, Belgium. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 181 by activity, 60 by citations; Europe rank 89 by activity, 30 by citations). 8 publications, h-index 4, 343 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/carl-lim-a5015184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>KU Leuven</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 163 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 71 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 82 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 181 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 89 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>343</td></tr>

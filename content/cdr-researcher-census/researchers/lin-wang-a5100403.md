@@ -1,7 +1,7 @@
 ---
 title: "Lin Wang"
-description: "Lin Wang, Fudan University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2239 by activity, 54 by citations). 388 publications, h-index 66, 16,103 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Lin Wang, Fudan University, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2309 by activity, 63 by citations). 388 publications, h-index 66, 16,103 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lin-wang-a5100403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Fudan University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2239 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 54 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2309 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>66</td></tr>
   <tr><th>Citations</th><td>16,103</td></tr>

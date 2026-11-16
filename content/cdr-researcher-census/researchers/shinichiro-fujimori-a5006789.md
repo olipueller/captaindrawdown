@@ -1,7 +1,7 @@
 ---
 title: "Shinichiro Fujimori"
-description: "Shinichiro Fujimori, Kyoto University, Japan. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8 by activity, 398 by citations). 444 publications, h-index 80, 36,253 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Shinichiro Fujimori, Kyoto University, Japan. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 9 by activity, 416 by citations). 444 publications, h-index 80, 36,253 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/shinichiro-fujimori-a5006789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kyoto University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 398 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 416 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>80</td></tr>
   <tr><th>Citations</th><td>36,253</td></tr>

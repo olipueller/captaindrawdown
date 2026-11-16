@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Fajardy"
-description: "Mathilde Fajardy, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 94 by activity, 41 by citations; Europe rank 61 by activity, 15 by citations). 37 publications, h-index 18, 1,883 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Mathilde Fajardy, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 99 by activity, 8 by citations; Europe rank 65 by activity, 6 by citations). 37 publications, h-index 18, 1,883 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Cambridge</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 94 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 41 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 61 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 99 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 8 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 65 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,883</td></tr>

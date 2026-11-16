@@ -1,7 +1,7 @@
 ---
 title: "Ikko Ihara"
-description: "Ikko Ihara, Kobe University, Japan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2313 by activity, 59 by citations). 108 publications, h-index 34, 7,616 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ikko Ihara, Kobe University, Japan. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2384 by activity, 67 by citations). 108 publications, h-index 34, 7,616 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ikko-ihara-a5024902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kobe University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2313 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2384 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 67 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>7,616</td></tr>

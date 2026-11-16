@@ -1,7 +1,7 @@
 ---
 title: "Mengtian Huang"
-description: "Mengtian Huang, China Meteorological Administration, China. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11980 by activity, 87 by citations). 75 publications, h-index 33, 14,613 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Mengtian Huang, China Meteorological Administration, China. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 12008 by activity, 96 by citations). 75 publications, h-index 33, 14,613 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mengtian-huang-a5079616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>China Meteorological Administration</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 11980 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 12008 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>14,613</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Theophilus Nii Odai Mensah"
-description: "Theophilus Nii Odai Mensah, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3036 by activity, 86 by citations; Europe rank 753 by activity, 41 by citations). 25 publications, h-index 14, 1,029 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Theophilus Nii Odai Mensah, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 3306 by activity, 94 by citations; Europe rank 812 by activity, 46 by citations). 25 publications, h-index 14, 1,029 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lappeenranta-Lahti University of Technology</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 3036 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 753 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3306 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 94 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 812 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,029</td></tr>

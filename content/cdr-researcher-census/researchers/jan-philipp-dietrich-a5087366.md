@@ -1,7 +1,7 @@
 ---
 title: "Jan Philipp Dietrich"
-description: "Jan Philipp Dietrich, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 86 by activity, 2936 by citations). 148 publications, h-index 39, 7,329 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jan Philipp Dietrich, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 92 by activity, 2810 by citations). 148 publications, h-index 39, 7,329 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jan-philipp-dietrich-a5087366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 86 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2936 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 92 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2810 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
   <tr><th>Citations</th><td>7,329</td></tr>

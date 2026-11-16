@@ -1,7 +1,7 @@
 ---
 title: "Greg A. Mutch"
-description: "Greg A. Mutch, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5482 by activity, 16 by citations; Europe rank 1404 by activity, 9 by citations). 60 publications, h-index 12, 1,215 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Greg A. Mutch, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 3298 by activity, 15 by citations; Europe rank 804 by activity, 8 by citations). 60 publications, h-index 12, 1,215 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/greg-a-mutch-a5016518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Newcastle University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 5482 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 16 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1404 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3298 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 15 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 804 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>1,215</td></tr>

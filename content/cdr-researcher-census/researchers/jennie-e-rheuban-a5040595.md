@@ -1,7 +1,7 @@
 ---
 title: "Jennie E. Rheuban"
-description: "Jennie E. Rheuban, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 92 by activity, 834 by citations). 61 publications, h-index 17, 1,180 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jennie E. Rheuban, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 71 by activity, 724 by citations). 61 publications, h-index 17, 1,180 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jennie-e-rheuban-a5040595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 92 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 834 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 71 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 724 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>1,180</td></tr>

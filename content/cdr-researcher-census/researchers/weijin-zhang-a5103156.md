@@ -1,7 +1,7 @@
 ---
 title: "Weijin Zhang"
-description: "Weijin Zhang, Shantou Central Hospital, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 756 by activity, 92 by citations). 139 publications, h-index 38, 6,853 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Weijin Zhang, Shantou Central Hospital, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 848 by activity, 90 by citations). 139 publications, h-index 38, 6,853 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/weijin-zhang-a5103156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shantou Central Hospital</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 756 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 848 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>6,853</td></tr>

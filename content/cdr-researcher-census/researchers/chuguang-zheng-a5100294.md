@@ -1,7 +1,7 @@
 ---
 title: "Chuguang Zheng"
-description: "Chuguang Zheng, State Key Laboratory of Coal Combustion, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3800 by activity, 14 by citations). 469 publications, h-index 76, 30,694 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Chuguang Zheng, State Key Laboratory of Coal Combustion, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3868 by activity, 26 by citations). 469 publications, h-index 76, 30,694 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/chuguang-zheng-a5100294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>State Key Laboratory of Coal Combustion</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3800 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 14 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3868 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>76</td></tr>
   <tr><th>Citations</th><td>30,694</td></tr>

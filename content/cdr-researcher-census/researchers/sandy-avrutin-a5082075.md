@@ -1,7 +1,7 @@
 ---
 title: "Sandy Avrutin"
-description: "Sandy Avrutin, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 75 by activity, 3835 by citations; Europe rank 46 by activity, 1061 by citations). 15 publications, h-index 2, 13 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Sandy Avrutin, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 84 by activity, 3348 by citations). 15 publications, h-index 2, 13 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sandy-avrutin-a5082075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 75 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 3835 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 1061 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 84 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 3348 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>13</td></tr>

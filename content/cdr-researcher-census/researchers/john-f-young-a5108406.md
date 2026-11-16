@@ -1,7 +1,7 @@
 ---
 title: "John F. Young"
-description: "John F. Young, Global Thermostat (United States), United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 54 by activity, 50 by citations). 78 publications, h-index 26, 2,275 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "John F. Young, Global Thermostat (United States), United Kingdom. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 165 by activity, 99 by citations; Europe rank 63 by activity, 48 by citations). 78 publications, h-index 26, 2,275 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/john-f-young-a5108406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Global Thermostat (United States)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>Europe: rank 54 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 50 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 165 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 63 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>2,275</td></tr>

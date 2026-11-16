@@ -1,7 +1,7 @@
 ---
 title: "Piero Macchi"
-description: "Piero Macchi, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 19 by activity, 1331 by citations; Europe rank 12 by activity, 466 by citations). 541 publications, h-index 43, 6,671 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Piero Macchi, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 22 by activity, 1344 by citations; Europe rank 12 by activity, 450 by citations). 541 publications, h-index 43, 6,671 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/piero-macchi-a5015826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Politecnico di Milano</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 19 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1331 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 466 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 22 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1344 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 450 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>43</td></tr>
   <tr><th>Citations</th><td>6,671</td></tr>

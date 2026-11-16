@@ -1,7 +1,7 @@
 ---
 title: "Melissa J. Murphy"
-description: "Melissa J. Murphy, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 59 by activity, 111 by citations; Europe rank 41 by activity, 77 by citations). 49 publications, h-index 15, 1,278 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Melissa J. Murphy, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 39 by activity, 130 by citations; Europe rank 27 by activity, 83 by citations). 49 publications, h-index 15, 1,278 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 59 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 111 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 41 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 77 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 39 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 130 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 83 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>1,278</td></tr>

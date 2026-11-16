@@ -1,7 +1,7 @@
 ---
 title: "Susanne E. Hamburger"
-description: "Susanne E. Hamburger, Hochschule Geisenheim University, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 51 by activity, 14361 by citations; Europe rank 16 by activity, 2044 by citations). 11 publications, h-index 2, 8 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Susanne E. Hamburger, Hochschule Geisenheim University, Germany. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 60 by activity, 13689 by citations; Europe rank 19 by activity, 1933 by citations). 11 publications, h-index 2, 8 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/susanne-e-hamburger-a5116618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hochschule Geisenheim University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 51 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 14361 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 2044 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 60 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 13689 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 19 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1933 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>8</td></tr>

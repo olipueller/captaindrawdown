@@ -1,7 +1,7 @@
 ---
 title: "Alexander Boedijn"
-description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 81 by activity, 3453 by citations; Europe rank 30 by activity, 986 by citations). 113 publications, h-index 5, 106 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 99 by activity, 3672 by citations; Europe rank 41 by activity, 1016 by citations). 113 publications, h-index 5, 106 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/alexander-boedijn-a5063307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Wageningen University & Research</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 81 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3453 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 986 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 99 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3672 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 41 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 1016 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>106</td></tr>

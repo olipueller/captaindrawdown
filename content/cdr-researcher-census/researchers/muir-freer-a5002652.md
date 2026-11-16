@@ -1,7 +1,7 @@
 ---
 title: "Muir Freer"
-description: "Muir Freer, Tyndall Centre for Climate Change Research, United Kingdom. 11 publications, h-index 6, 470 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Muir Freer, Tyndall Centre for Climate Change Research, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 286 by activity, 88 by citations; Europe rank 170 by activity, 34 by citations). 11 publications, h-index 6, 470 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/muir-freer-a5002652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Tyndall Centre for Climate Change Research</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 286 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 170 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>470</td></tr>

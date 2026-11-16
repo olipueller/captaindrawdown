@@ -1,7 +1,7 @@
 ---
 title: "Freia Harzendorf"
-description: "Freia Harzendorf, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 7 by activity, 531 by citations; Europe rank 7 by activity, 224 by citations). 56 publications, h-index 7, 190 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Freia Harzendorf, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 10 by activity, 513 by citations; Europe rank 9 by activity, 224 by citations). 56 publications, h-index 7, 190 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/freia-harzendorf-a5028836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 7 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 531 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 224 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 10 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 513 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 224 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>190</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Reiner Steinfeldt"
-description: "Reiner Steinfeldt, University of Bremen, Germany. 460 publications, h-index 27, 4,544 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Reiner Steinfeldt, University of Bremen, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (Europe rank 238 by activity, 47 by citations). 460 publications, h-index 27, 4,544 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/reiner-steinfeldt-a5026218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Bremen</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 238 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>4,544</td></tr>

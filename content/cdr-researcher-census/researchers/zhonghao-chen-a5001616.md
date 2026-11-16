@@ -1,7 +1,7 @@
 ---
 title: "Zhonghao Chen"
-description: "Zhonghao Chen, Westlake University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2319 by activity, 65 by citations). 107 publications, h-index 38, 8,474 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Zhonghao Chen, Westlake University, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2390 by activity, 73 by citations). 107 publications, h-index 38, 8,474 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/zhonghao-chen-a5001616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Westlake University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2319 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 65 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2390 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>8,474</td></tr>

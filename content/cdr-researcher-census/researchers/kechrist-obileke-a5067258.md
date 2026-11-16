@@ -1,7 +1,7 @@
 ---
 title: "KeChrist Obileke"
-description: "KeChrist Obileke, University of Fort Hare, South Africa. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5386 by activity, 23 by citations). 56 publications, h-index 20, 2,763 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "KeChrist Obileke, University of Fort Hare, South Africa. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5406 by activity, 33 by citations). 56 publications, h-index 20, 2,763 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/kechrist-obileke-a5067258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Fort Hare</td></tr>
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5386 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5406 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 33 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>2,763</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Stefan Pauliuk"
-description: "Stefan Pauliuk, University of Freiburg, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3019 by activity, 89 by citations; Europe rank 741 by activity, 44 by citations). 177 publications, h-index 47, 9,381 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Stefan Pauliuk, University of Freiburg, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 3289 by activity, 90 by citations; Europe rank 799 by activity, 42 by citations). 177 publications, h-index 47, 9,381 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/stefan-pauliuk-a5028624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Freiburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 3019 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 89 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 741 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3289 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 799 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>9,381</td></tr>

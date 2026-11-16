@@ -1,7 +1,7 @@
 ---
 title: "Christiane Hennig"
-description: "Christiane Hennig, Deutsches Biomasseforschungszentrum, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 24 by activity, 1382 by citations; Europe rank 15 by activity, 612 by citations). 59 publications, h-index 11, 728 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Christiane Hennig, Deutsches Biomasseforschungszentrum, Germany. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 27 by activity, 1419 by citations; Europe rank 17 by activity, 631 by citations). 59 publications, h-index 11, 728 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/christiane-hennig-a5045674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Deutsches Biomasseforschungszentrum</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 24 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1382 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 15 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 612 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 27 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1419 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 631 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>728</td></tr>

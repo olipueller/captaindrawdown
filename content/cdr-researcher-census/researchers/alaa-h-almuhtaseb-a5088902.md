@@ -1,7 +1,7 @@
 ---
 title: "Ala’a H. Al‐Muhtaseb"
-description: "Ala’a H. Al‐Muhtaseb, Sultan Qaboos University, Oman. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3382 by activity, 21 by citations). 290 publications, h-index 81, 24,116 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ala’a H. Al‐Muhtaseb, Sultan Qaboos University, Oman. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3452 by activity, 19 by citations). 290 publications, h-index 81, 24,116 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/alaa-h-almuhtaseb-a5088902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Sultan Qaboos University</td></tr>
   <tr><th>Country</th><td>Oman</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3382 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 21 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3452 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 19 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>81</td></tr>
   <tr><th>Citations</th><td>24,116</td></tr>

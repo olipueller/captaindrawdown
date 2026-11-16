@@ -1,7 +1,7 @@
 ---
 title: "Vincent Dufour‐Décieux"
-description: "Vincent Dufour‐Décieux, ETH Zurich, Switzerland. 23 publications, h-index 6, 143 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Vincent Dufour‐Décieux, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 87 by activity, 2451 by citations; Europe rank 38 by activity, 777 by citations). 23 publications, h-index 6, 143 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/vincent-dufourdecieux-a5012073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 87 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2451 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 777 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>143</td></tr>

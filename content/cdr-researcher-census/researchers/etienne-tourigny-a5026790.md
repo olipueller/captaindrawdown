@@ -1,7 +1,7 @@
 ---
 title: "Étienne Tourigny"
-description: "Étienne Tourigny, Barcelona Supercomputing Center, Spain. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 68 by activity, 9107 by citations; Europe rank 44 by activity, 2516 by citations). 91 publications, h-index 17, 3,711 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Étienne Tourigny, Barcelona Supercomputing Center, Spain. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 76 by activity, 7684 by citations). 91 publications, h-index 17, 3,711 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/etienne-tourigny-a5026790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Barcelona Supercomputing Center</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 68 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 9107 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 44 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 2516 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 76 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 7684 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>3,711</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Jingchun Tang"
-description: "Jingchun Tang, Nankai University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 490 by activity, 32 by citations). 289 publications, h-index 79, 21,616 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jingchun Tang, Nankai University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 555 by activity, 39 by citations). 289 publications, h-index 79, 21,616 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jingchun-tang-a5004062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nankai University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 490 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 555 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 39 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>79</td></tr>
   <tr><th>Citations</th><td>21,616</td></tr>

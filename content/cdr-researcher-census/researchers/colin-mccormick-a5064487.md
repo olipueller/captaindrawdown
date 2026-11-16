@@ -1,7 +1,7 @@
 ---
 title: "Colin McCormick"
-description: "Colin McCormick, Georgetown University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5813 by activity, 11 by citations). 63 publications, h-index 11, 1,197 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Colin McCormick, Georgetown University, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 6065 by activity, 10 by citations). 63 publications, h-index 11, 1,197 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/colin-mccormick-a5064487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Georgetown University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 5813 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 6065 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 10 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>1,197</td></tr>

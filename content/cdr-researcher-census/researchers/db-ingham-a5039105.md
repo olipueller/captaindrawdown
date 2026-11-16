@@ -1,7 +1,7 @@
 ---
 title: "D.B. Ingham"
-description: "D.B. Ingham, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 95 by activity, 73 by citations; Europe rank 62 by activity, 26 by citations). 834 publications, h-index 69, 20,459 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "D.B. Ingham, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 100 by activity, 83 by citations; Europe rank 66 by activity, 30 by citations), DAC (worldwide rank 635 by activity, 100 by citations; Europe rank 195 by activity, 49 by citations). 834 publications, h-index 69, 20,459 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/db-ingham-a5039105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 95 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 62 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 26 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 100 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 66 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 635 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 100 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 195 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>20,459</td></tr>

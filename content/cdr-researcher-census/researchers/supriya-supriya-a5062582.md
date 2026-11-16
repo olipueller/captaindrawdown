@@ -1,7 +1,7 @@
 ---
 title: "Supriya Supriya"
-description: "Supriya Supriya, Rayat Bahra University, India. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8853 by activity, 79 by citations). 245 publications, h-index 15, 1,438 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Supriya Supriya, Rayat Bahra University, India. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 8911 by activity, 78 by citations). 245 publications, h-index 15, 1,438 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/supriya-supriya-a5062582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Rayat Bahra University</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8853 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8911 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>1,438</td></tr>

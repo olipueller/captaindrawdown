@@ -1,7 +1,7 @@
 ---
 title: "Mohd Nasrullah"
-description: "Mohd Nasrullah, Universiti Malaysia Pahang Al-Sultan Abdullah, Malaysia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 886 by activity, 51 by citations). 75 publications, h-index 33, 3,641 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Mohd Nasrullah, Universiti Malaysia Pahang Al-Sultan Abdullah, Malaysia. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 401 by activity, 42 by citations). 75 publications, h-index 33, 3,641 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universiti Malaysia Pahang Al-Sultan Abdullah</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 886 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 401 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 42 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>3,641</td></tr>

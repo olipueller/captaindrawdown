@@ -1,7 +1,7 @@
 ---
 title: "Clair Gough"
-description: "Clair Gough, University of Manchester, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 204 by activity, 84 by citations; Europe rank 131 by activity, 32 by citations). 110 publications, h-index 31, 4,178 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Clair Gough, University of Manchester, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 215 by activity, 36 by citations; Europe rank 141 by activity, 15 by citations). 110 publications, h-index 31, 4,178 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/clair-gough-a5052404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Manchester</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 204 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 84 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 131 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 215 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 36 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 141 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>4,178</td></tr>

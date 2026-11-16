@@ -1,7 +1,7 @@
 ---
 title: "Greg H. Rau"
-description: "Greg H. Rau, Planetary Technologies, Canada. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 279 by activity, 83 by citations). 117 publications, h-index 45, 8,972 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Greg H. Rau, Planetary Technologies, Canada. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 306 by activity, 87 by citations). 117 publications, h-index 45, 8,972 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/greg-h-rau-a5035528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Planetary Technologies</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 279 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 306 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>8,972</td></tr>

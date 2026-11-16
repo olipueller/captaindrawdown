@@ -1,7 +1,7 @@
 ---
 title: "Henrik Wenzel"
-description: "Henrik Wenzel, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4 by activity, 659 by citations; Europe rank 4 by activity, 267 by citations). 26 publications, h-index 3, 62 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Henrik Wenzel, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 6 by activity, 633 by citations; Europe rank 5 by activity, 257 by citations). 26 publications, h-index 3, 62 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/henrik-wenzel-a5102746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 4 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 659 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 267 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 6 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 633 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 5 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 257 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>62</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed K. Rashwan"
-description: "Ahmed K. Rashwan, Zhejiang University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2311 by activity, 57 by citations). 73 publications, h-index 31, 4,400 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ahmed K. Rashwan, Zhejiang University, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2382 by activity, 65 by citations). 73 publications, h-index 31, 4,400 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ahmed-k-rashwan-a5065290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Zhejiang University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2311 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 57 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2382 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 65 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>4,400</td></tr>

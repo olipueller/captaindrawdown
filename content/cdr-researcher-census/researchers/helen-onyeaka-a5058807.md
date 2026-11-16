@@ -1,7 +1,7 @@
 ---
 title: "Helen Onyeaka"
-description: "Helen Onyeaka, University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5385 by activity, 22 by citations; Europe rank 1481 by activity, 10 by citations). 348 publications, h-index 58, 12,838 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Helen Onyeaka, University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5405 by activity, 32 by citations; Europe rank 1468 by activity, 17 by citations). 348 publications, h-index 58, 12,838 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/helen-onyeaka-a5058807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Birmingham</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5385 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 22 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1481 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5405 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1468 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>12,838</td></tr>

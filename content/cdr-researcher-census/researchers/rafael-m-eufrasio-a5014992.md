@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
-description: "Rafael M. Eufrasio, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 211 by activity, 24 by citations; Europe rank 123 by activity, 20 by citations). 15 publications, h-index 9, 1,274 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Rafael M. Eufrasio, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 237 by activity, 25 by citations; Europe rank 126 by activity, 21 by citations). 15 publications, h-index 9, 1,274 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 211 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 123 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 237 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 126 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 21 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>1,274</td></tr>

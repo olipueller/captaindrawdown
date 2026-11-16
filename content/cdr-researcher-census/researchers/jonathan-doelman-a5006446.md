@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Doelman"
-description: "Jonathan Doelman, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 20 by activity, 951 by citations; Europe rank 12 by activity, 409 by citations), Cross-cutting CDR (worldwide rank 86 by activity, 337 by citations). 205 publications, h-index 50, 24,848 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jonathan Doelman, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 22 by activity, 816 by citations; Europe rank 13 by activity, 340 by citations), Cross-cutting CDR (worldwide rank 89 by activity, 302 by citations). 205 publications, h-index 50, 24,848 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jonathan-doelman-a5006446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Netherlands Environmental Assessment Agency</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 20 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 951 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 409 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 86 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 337 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 22 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 816 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 13 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 340 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 89 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 302 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>24,848</td></tr>

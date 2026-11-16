@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
-description: "Daniel S. Goll, Laboratoire des Sciences du Climat et de l’Environnement, France. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 55 by activity, 7 by citations; Europe rank 39 by activity, 6 by citations), BECCS (worldwide rank 113 by activity, 79 by citations; Europe rank 72 by activity, 30 by citations). 276 publications, h-index 60, 17,972 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Daniel S. Goll, Laboratoire des Sciences du Climat et de l’Environnement, France. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 67 by activity, 7 by citations; Europe rank 48 by activity, 6 by citations), BECCS (Europe rank 76 by activity, 45 by citations). 276 publications, h-index 60, 17,972 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Laboratoire des Sciences du Climat et de l’Environnement</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 55 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 7 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 113 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 72 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 67 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 7 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 48 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 76 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>60</td></tr>
   <tr><th>Citations</th><td>17,972</td></tr>

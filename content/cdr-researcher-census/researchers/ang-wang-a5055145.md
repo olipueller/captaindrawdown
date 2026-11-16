@@ -1,7 +1,7 @@
 ---
 title: "Ang Wang"
-description: "Ang Wang, Nanjing Tech University, China. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 64 by activity, 470 by citations). 151 publications, h-index 25, 2,001 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ang Wang, Nanjing Tech University, China. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 75 by activity, 399 by citations). 151 publications, h-index 25, 2,001 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ang-wang-a5055145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanjing Tech University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 64 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 470 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 75 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 399 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>25</td></tr>
   <tr><th>Citations</th><td>2,001</td></tr>

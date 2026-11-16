@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
-description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 88 by activity, 4678 by citations; Europe rank 26 by activity, 635 by citations). 39 publications, h-index 18, 1,336 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 28 by activity, 507 by citations). 39 publications, h-index 18, 1,336 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bangor University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 88 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 4678 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 635 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 28 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 507 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,336</td></tr>

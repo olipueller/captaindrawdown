@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud F. Seleiman"
-description: "Mahmoud F. Seleiman, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 11340 by activity, 66 by citations). 267 publications, h-index 52, 12,066 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Mahmoud F. Seleiman, King Saud University, Saudi Arabia. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 12464 by activity, 62 by citations). 267 publications, h-index 52, 12,066 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-f-seleiman-a5089226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>King Saud University</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 11340 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 12464 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 62 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>12,066</td></tr>

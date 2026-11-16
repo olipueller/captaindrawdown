@@ -1,7 +1,7 @@
 ---
 title: "H.R. Nasriani"
-description: "H.R. Nasriani, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 82 by activity, 3454 by citations; Europe rank 31 by activity, 987 by citations). 8 publications, h-index 2, 5 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "H.R. Nasriani, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 97 by activity, 3167 by citations; Europe rank 39 by activity, 910 by citations). 8 publications, h-index 2, 5 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hr-nasriani-a5140669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Lancashire</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 82 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3454 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 31 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 987 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 97 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3167 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 910 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>5</td></tr>

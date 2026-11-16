@@ -1,7 +1,7 @@
 ---
 title: "Eva Thorin"
-description: "Eva Thorin, Mälardalen University, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 61 by activity, 742 by citations; Europe rank 43 by activity, 306 by citations). 227 publications, h-index 36, 4,711 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Eva Thorin, Mälardalen University, Sweden. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 67 by activity, 731 by citations; Europe rank 47 by activity, 313 by citations). 227 publications, h-index 36, 4,711 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/eva-thorin-a5052844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Mälardalen University</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 61 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 742 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 43 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 306 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 67 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 731 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 47 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 313 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>4,711</td></tr>

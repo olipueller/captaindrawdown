@@ -1,7 +1,7 @@
 ---
 title: "Tomoko Hasegawa"
-description: "Tomoko Hasegawa, Ritsumeikan University, Japan. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 20 by activity, 628 by citations), BECCS (worldwide rank 34 by activity, 239 by citations). 297 publications, h-index 64, 28,833 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Tomoko Hasegawa, Ritsumeikan University, Japan. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 22 by activity, 670 by citations), BECCS (worldwide rank 40 by activity, 209 by citations). 297 publications, h-index 64, 28,833 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tomoko-hasegawa-a5060236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ritsumeikan University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 20 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 628 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 34 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 239 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 22 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 670 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 40 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 209 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>64</td></tr>
   <tr><th>Citations</th><td>28,833</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
-description: "Jan Taucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 95 by activity, 35 by citations; Europe rank 58 by activity, 17 by citations). 151 publications, h-index 28, 2,343 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jan Taucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 97 by activity, 26 by citations; Europe rank 59 by activity, 13 by citations). 151 publications, h-index 28, 2,343 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 95 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 58 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 97 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 59 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 13 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>2,343</td></tr>

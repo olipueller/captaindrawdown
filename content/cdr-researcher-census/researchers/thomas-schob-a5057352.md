@@ -1,7 +1,7 @@
 ---
 title: "Thomas Schöb"
-description: "Thomas Schöb, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3 by activity, 765 by citations; Europe rank 3 by activity, 301 by citations). 33 publications, h-index 5, 103 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Thomas Schöb, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 3 by activity, 761 by citations; Europe rank 2 by activity, 301 by citations). 33 publications, h-index 5, 103 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/thomas-schob-a5057352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 3 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 765 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 301 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 761 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 301 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>103</td></tr>

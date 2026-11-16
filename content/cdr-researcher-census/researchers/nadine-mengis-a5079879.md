@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
-description: "Nadine Mengis, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 18 by activity, 399 by citations; Europe rank 12 by activity, 206 by citations), Ocean CDR (worldwide rank 35 by activity, 89 by citations; Europe rank 22 by activity, 37 by citations). 141 publications, h-index 25, 2,009 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Nadine Mengis, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 20 by activity, 352 by citations; Europe rank 13 by activity, 201 by citations), Ocean CDR (worldwide rank 42 by activity, 82 by citations; Europe rank 26 by activity, 36 by citations). 141 publications, h-index 25, 2,009 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 18 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 399 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 206 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 35 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 89 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 20 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 352 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 13 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 201 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 42 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 82 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>25</td></tr>
   <tr><th>Citations</th><td>2,009</td></tr>

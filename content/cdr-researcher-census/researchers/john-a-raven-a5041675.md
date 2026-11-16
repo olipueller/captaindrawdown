@@ -1,7 +1,7 @@
 ---
 title: "John A. Raven"
-description: "John A. Raven, University of Dundee, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 2255 by activity, 51 by citations; Europe rank 735 by activity, 25 by citations). 670 publications, h-index 124, 60,062 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "John A. Raven, University of Dundee, United Kingdom. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 2358 by activity, 61 by citations; Europe rank 762 by activity, 31 by citations). 670 publications, h-index 124, 60,062 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/john-a-raven-a5041675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Dundee</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 2255 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 51 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 735 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 2358 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 61 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 762 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>124</td></tr>
   <tr><th>Citations</th><td>60,062</td></tr>

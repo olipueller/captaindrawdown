@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
-description: "Jun Meng, Shenyang Agricultural University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 20 by activity, 181 by citations). 140 publications, h-index 45, 6,545 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jun Meng, Shenyang Agricultural University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 20 by activity, 156 by citations). 140 publications, h-index 45, 6,545 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jun-meng-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shenyang Agricultural University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 20 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 181 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 20 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 156 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>6,545</td></tr>

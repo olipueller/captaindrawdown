@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Szklo"
-description: "Alexandre Szklo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 77 by activity, 830 by citations). 308 publications, h-index 49, 8,283 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Alexandre Szklo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 34 by activity, 805 by citations). 308 publications, h-index 49, 8,283 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/alexandre-szklo-a5043645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidade Federal do Rio de Janeiro</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 77 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 830 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 34 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 805 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>49</td></tr>
   <tr><th>Citations</th><td>8,283</td></tr>

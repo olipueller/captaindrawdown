@@ -1,7 +1,7 @@
 ---
 title: "Ruth Musgrave"
-description: "Ruth Musgrave, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 81 by activity, 268 by citations). 55 publications, h-index 17, 2,128 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ruth Musgrave, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 87 by activity, 281 by citations). 55 publications, h-index 17, 2,128 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ruth-musgrave-a5039999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Dalhousie University</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 81 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 268 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 87 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 281 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>2,128</td></tr>

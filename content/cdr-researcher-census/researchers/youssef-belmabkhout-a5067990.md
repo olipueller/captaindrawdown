@@ -1,7 +1,7 @@
 ---
 title: "Youssef Belmabkhout"
-description: "Youssef Belmabkhout, Université Mohammed VI Polytechnique, MA. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 66 by activity, 169 by citations). 336 publications, h-index 80, 25,008 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Youssef Belmabkhout, Université Mohammed VI Polytechnique, Morocco. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 81 by activity, 143 by citations). 336 publications, h-index 80, 25,008 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,9 +27,9 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Université Mohammed VI Polytechnique</td></tr>
-  <tr><th>Country</th><td>MA</td></tr>
+  <tr><th>Country</th><td>Morocco</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 66 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 169 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 81 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 143 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>80</td></tr>
   <tr><th>Citations</th><td>25,008</td></tr>

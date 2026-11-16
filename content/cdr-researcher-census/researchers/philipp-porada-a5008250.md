@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
-description: "Philipp Porada, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 44 by activity, 1857 by citations). 107 publications, h-index 23, 2,223 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Philipp Porada, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 48 by activity, 1863 by citations). 107 publications, h-index 23, 2,223 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 44 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1857 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 48 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1863 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>2,223</td></tr>

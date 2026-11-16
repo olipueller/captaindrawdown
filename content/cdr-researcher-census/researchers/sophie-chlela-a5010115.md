@@ -1,7 +1,7 @@
 ---
 title: "Sophie Chlela"
-description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 47 by activity, 1969 by citations; Europe rank 32 by activity, 847 by citations). 25 publications, h-index 5, 53 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 54 by activity, 2096 by citations; Europe rank 36 by activity, 857 by citations). 25 publications, h-index 5, 53 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sophie-chlela-a5010115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centre de Mathématiques Appliquées - CMA</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 47 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1969 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 847 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 54 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2096 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 857 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>53</td></tr>

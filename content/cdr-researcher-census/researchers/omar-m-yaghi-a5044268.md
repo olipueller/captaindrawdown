@@ -1,7 +1,7 @@
 ---
 title: "Omar M. Yaghi"
-description: "Omar M. Yaghi, University of California Berkeley, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 104 by activity, 73 by citations). 945 publications, h-index 201, 256,849 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Omar M. Yaghi, University of California Berkeley, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 118 by activity, 72 by citations). 945 publications, h-index 201, 256,849 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/omar-m-yaghi-a5044268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California Berkeley</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 104 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 118 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>201</td></tr>
   <tr><th>Citations</th><td>256,849</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Hamid Maljaee"
-description: "Hamid Maljaee, Riscos e Sustentabilidade na Construção, Portugal. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3296 by activity, 48 by citations). 21 publications, h-index 12, 955 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hamid Maljaee, Riscos e Sustentabilidade na Construção, Portugal. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 3395 by activity, 46 by citations). 21 publications, h-index 12, 955 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hamid-maljaee-a5016325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Riscos e Sustentabilidade na Construção</td></tr>
   <tr><th>Country</th><td>Portugal</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 3296 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 3395 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>955</td></tr>

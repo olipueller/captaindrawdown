@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
-description: "Ángel Galán‐Martín, Universidad de Jaén, Spain. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 88 by activity, 70 by citations; Europe rank 58 by activity, 24 by citations). 81 publications, h-index 29, 2,789 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ángel Galán‐Martín, Universidad de Jaén, Spain. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 25 by activity, 78 by citations; Europe rank 16 by activity, 28 by citations). 81 publications, h-index 29, 2,789 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Jaén</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 88 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 58 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 25 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>2,789</td></tr>

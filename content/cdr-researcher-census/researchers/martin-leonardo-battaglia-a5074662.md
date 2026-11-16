@@ -1,7 +1,7 @@
 ---
 title: "Martín Leonardo Battaglia"
-description: "Martín Leonardo Battaglia, The Nature Conservancy, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 25899 by activity, 72 by citations). 95 publications, h-index 32, 6,866 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Martín Leonardo Battaglia, The Nature Conservancy, United States. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 26948 by activity, 70 by citations). 95 publications, h-index 32, 6,866 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/martin-leonardo-battaglia-a5074662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>The Nature Conservancy</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 25899 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 26948 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>6,866</td></tr>

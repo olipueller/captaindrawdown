@@ -1,7 +1,7 @@
 ---
 title: "Oscar Stenström"
-description: "Oscar Stenström, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 60 by activity, 1475 by citations; Europe rank 42 by activity, 653 by citations). 10 publications, h-index 2, 26 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Oscar Stenström, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 66 by activity, 1274 by citations; Europe rank 46 by activity, 550 by citations). 10 publications, h-index 2, 26 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chalmers University of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 60 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1475 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 42 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 653 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 66 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1274 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 550 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>26</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Syed Shams Yazdani"
-description: "Syed Shams Yazdani, International Centre for Genetic Engineering and Biotechnology, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 16 by activity, 2682 by citations). 168 publications, h-index 38, 4,919 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Syed Shams Yazdani, International Centre for Genetic Engineering and Biotechnology, India. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 17 by activity, 2367 by citations). 168 publications, h-index 38, 4,919 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>International Centre for Genetic Engineering and Biotechnology</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 16 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2682 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 17 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2367 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>4,919</td></tr>

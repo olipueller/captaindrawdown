@@ -1,7 +1,7 @@
 ---
 title: "Brian P. Setzler"
-description: "Brian P. Setzler, University of Delaware, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 37 by activity, 3449 by citations). 70 publications, h-index 18, 3,694 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Brian P. Setzler, University of Delaware, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 27 by activity, 3160 by citations). 70 publications, h-index 18, 3,694 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/brian-p-setzler-a5046492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Delaware</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 37 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3449 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 27 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3160 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>3,694</td></tr>

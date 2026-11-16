@@ -1,7 +1,7 @@
 ---
 title: "Sarah Deutz"
-description: "Sarah Deutz, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 340 by activity, 18 by citations; Europe rank 126 by activity, 11 by citations). 43 publications, h-index 10, 2,206 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Sarah Deutz, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 385 by activity, 24 by citations; Europe rank 141 by activity, 17 by citations). 43 publications, h-index 10, 2,206 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sarah-deutz-a5086401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 340 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 126 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 385 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 141 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>2,206</td></tr>

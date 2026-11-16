@@ -1,7 +1,7 @@
 ---
 title: "Hardik P. Malaviya"
-description: "Hardik P. Malaviya, Gujarat University, India. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 76 by activity, 3451 by citations). 2 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hardik P. Malaviya, Gujarat University, India. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 91 by activity, 3669 by citations). 2 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hardik-p-malaviya-a5148898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Gujarat University</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 76 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3451 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 91 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3669 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>

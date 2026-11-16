@@ -1,7 +1,7 @@
 ---
 title: "Francesco Fantozzi"
-description: "Francesco Fantozzi, University of Perugia, Italy. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 165 by activity, 7 by citations; Europe rank 106 by activity, 6 by citations). 267 publications, h-index 47, 6,744 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Francesco Fantozzi, University of Perugia, Italy. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 175 by activity, 10 by citations; Europe rank 114 by activity, 8 by citations). 267 publications, h-index 47, 6,744 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Perugia</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 165 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 7 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 106 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 175 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 10 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 114 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>47</td></tr>
   <tr><th>Citations</th><td>6,744</td></tr>

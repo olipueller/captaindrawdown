@@ -1,7 +1,7 @@
 ---
 title: "David R. Chadwick"
-description: "David R. Chadwick, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 36 by activity, 28 by citations). 486 publications, h-index 76, 19,032 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "David R. Chadwick, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 39 by activity, 27 by citations). 486 publications, h-index 76, 19,032 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/david-r-chadwick-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bangor University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 36 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 39 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>76</td></tr>
   <tr><th>Citations</th><td>19,032</td></tr>

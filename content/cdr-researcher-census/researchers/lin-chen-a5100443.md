@@ -1,7 +1,7 @@
 ---
 title: "Lin Chen"
-description: "Lin Chen, Guizhou University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2315 by activity, 61 by citations). 90 publications, h-index 41, 6,577 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lin Chen, Guizhou University, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2386 by activity, 69 by citations). 90 publications, h-index 41, 6,577 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lin-chen-a5100443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Guizhou University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2315 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 61 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2386 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>41</td></tr>
   <tr><th>Citations</th><td>6,577</td></tr>

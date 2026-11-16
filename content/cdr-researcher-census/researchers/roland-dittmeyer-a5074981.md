@@ -1,7 +1,7 @@
 ---
 title: "Roland Dittmeyer"
-description: "Roland Dittmeyer, Karlsruhe Institute of Technology, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 48 by activity, 1864 by citations; Europe rank 25 by activity, 598 by citations). 416 publications, h-index 43, 6,600 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Roland Dittmeyer, Karlsruhe Institute of Technology, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 63 by activity, 1610 by citations; Europe rank 31 by activity, 550 by citations). 416 publications, h-index 43, 6,600 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/roland-dittmeyer-a5074981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Karlsruhe Institute of Technology</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 48 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1864 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 598 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 63 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1610 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 31 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 550 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>43</td></tr>
   <tr><th>Citations</th><td>6,600</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Hermann Tempel"
-description: "Hermann Tempel, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 43 by activity, 600 by citations). 216 publications, h-index 32, 3,295 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hermann Tempel, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11): DAC (Europe rank 50 by activity, 596 by citations). 216 publications, h-index 32, 3,295 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hermann-tempel-a5014866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>Europe: rank 43 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 600 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 50 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 596 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>3,295</td></tr>

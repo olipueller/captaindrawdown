@@ -1,7 +1,7 @@
 ---
 title: "Giulia Faucher"
-description: "Giulia Faucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 22 by activity, 176 by citations; Europe rank 14 by activity, 69 by citations). 66 publications, h-index 12, 482 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Giulia Faucher, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 25 by activity, 171 by citations; Europe rank 14 by activity, 68 by citations). 66 publications, h-index 12, 482 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/giulia-faucher-a5029772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 22 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 176 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 14 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 69 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 25 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 171 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 14 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 68 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>482</td></tr>

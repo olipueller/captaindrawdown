@@ -1,7 +1,7 @@
 ---
 title: "Felix Eigenbrod"
-description: "Felix Eigenbrod, University of Southampton, United Kingdom. 167 publications, h-index 53, 12,517 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Felix Eigenbrod, University of Southampton, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 1285 by activity, 91 by citations; Europe rank 550 by activity, 35 by citations). 167 publications, h-index 53, 12,517 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/felix-eigenbrod-a5039237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Southampton</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 1285 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 550 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>12,517</td></tr>

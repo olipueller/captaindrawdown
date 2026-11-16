@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
-description: "Romany Webb, Columbia University, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 32 by activity, 150 by citations). 98 publications, h-index 9, 287 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Romany Webb, Columbia University, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 21 by activity, 119 by citations). 98 publications, h-index 9, 287 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Columbia University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 32 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 150 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 21 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 119 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>287</td></tr>

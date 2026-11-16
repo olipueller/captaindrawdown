@@ -1,7 +1,7 @@
 ---
 title: "Sang‐Wook Yeh"
-description: "Sang‐Wook Yeh, Hanyang University, South Korea. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 72 by activity, 489 by citations). 442 publications, h-index 51, 14,545 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Sang‐Wook Yeh, Hanyang University, South Korea. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 79 by activity, 501 by citations). 442 publications, h-index 51, 14,545 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sangwook-yeh-a5031307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hanyang University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 72 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 489 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 79 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 501 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>14,545</td></tr>

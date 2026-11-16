@@ -1,7 +1,7 @@
 ---
 title: "Romain Sacchi"
-description: "Romain Sacchi, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3034 by activity, 24 by citations; Europe rank 751 by activity, 17 by citations). 300 publications, h-index 28, 3,994 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Romain Sacchi, Paul Scherrer Institute, Switzerland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 3304 by activity, 23 by citations; Europe rank 810 by activity, 16 by citations). 300 publications, h-index 28, 3,994 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/romain-sacchi-a5027573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Paul Scherrer Institute</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 3034 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 751 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 17 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3304 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 810 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 16 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>3,994</td></tr>

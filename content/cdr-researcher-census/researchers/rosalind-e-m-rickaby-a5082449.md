@@ -1,7 +1,7 @@
 ---
 title: "Rosalind E. M. Rickaby"
-description: "Rosalind E. M. Rickaby, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11973 by activity, 18 by citations; Europe rank 3267 by activity, 15 by citations). 329 publications, h-index 57, 11,686 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Rosalind E. M. Rickaby, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 12001 by activity, 18 by citations; Europe rank 3279 by activity, 15 by citations). 329 publications, h-index 57, 11,686 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/rosalind-e-m-rickaby-a5082449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Oxford</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 11973 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3267 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 12001 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3279 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>57</td></tr>
   <tr><th>Citations</th><td>11,686</td></tr>

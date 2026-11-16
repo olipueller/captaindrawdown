@@ -1,7 +1,7 @@
 ---
 title: "Gordon McKay"
-description: "Gordon McKay, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 516 by activity, 24 by citations), BECCS (worldwide rank 3807 by activity, 37 by citations). 991 publications, h-index 124, 84,440 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Gordon McKay, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 434 by activity, 23 by citations), BECCS (worldwide rank 3876 by activity, 44 by citations). 991 publications, h-index 124, 84,440 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/gordon-mckay-a5022819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 516 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3807 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 434 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3876 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>124</td></tr>
   <tr><th>Citations</th><td>84,440</td></tr>

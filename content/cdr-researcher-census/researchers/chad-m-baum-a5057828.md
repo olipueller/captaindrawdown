@@ -1,7 +1,7 @@
 ---
 title: "Chad M. Baum"
-description: "Chad M. Baum, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 20 by activity, 101 by citations; Europe rank 14 by activity, 48 by citations), Cross-cutting CDR (worldwide rank 23 by activity, 85 by citations; Europe rank 14 by activity, 61 by citations). 85 publications, h-index 26, 1,980 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Chad M. Baum, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 25 by activity, 86 by citations; Europe rank 15 by activity, 64 by citations), DAC (worldwide rank 24 by activity, 92 by citations; Europe rank 17 by activity, 44 by citations). 85 publications, h-index 26, 1,980 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/chad-m-baum-a5057828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Aarhus University</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 20 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 101 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 14 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 48 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 23 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 14 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 61 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 25 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 15 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 64 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 24 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>1,980</td></tr>

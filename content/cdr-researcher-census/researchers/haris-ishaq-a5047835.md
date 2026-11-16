@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
-description: "Haris Ishaq, University of Victoria, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 23 by activity, 398 by citations). 87 publications, h-index 31, 4,753 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Haris Ishaq, University of Victoria, Canada. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 31 by activity, 450 by citations). 87 publications, h-index 31, 4,753 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Victoria</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 23 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 398 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 31 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 450 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>31</td></tr>
   <tr><th>Citations</th><td>4,753</td></tr>

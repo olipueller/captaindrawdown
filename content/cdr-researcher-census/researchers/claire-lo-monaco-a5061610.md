@@ -1,7 +1,7 @@
 ---
 title: "Claire Lo Monaco"
-description: "Claire Lo Monaco, Sorbonne University, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 254 by activity, 90 by citations; Europe rank 119 by activity, 38 by citations). 218 publications, h-index 23, 4,848 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Claire Lo Monaco, Sorbonne University, France. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 276 by activity, 79 by citations; Europe rank 123 by activity, 35 by citations). 218 publications, h-index 23, 4,848 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/claire-lo-monaco-a5061610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Sorbonne University</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 254 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 119 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 276 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 123 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>4,848</td></tr>

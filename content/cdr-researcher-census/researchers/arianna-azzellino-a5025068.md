@@ -1,7 +1,7 @@
 ---
 title: "Arianna Azzellino"
-description: "Arianna Azzellino, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 34 by activity, 648 by citations; Europe rank 21 by activity, 230 by citations). 235 publications, h-index 30, 3,254 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Arianna Azzellino, Politecnico di Milano, Italy. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 40 by activity, 721 by citations; Europe rank 24 by activity, 258 by citations). 235 publications, h-index 30, 3,254 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/arianna-azzellino-a5025068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Politecnico di Milano</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 34 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 648 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 230 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 40 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 721 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 258 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,254</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Abigail González-Díaz"
-description: "Abigail González-Díaz, El Colegio de Puebla, A.C., Mexico. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4990 by activity, 56 by citations). 33 publications, h-index 15, 1,247 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Abigail González-Díaz, El Colegio de Puebla, A.C., Mexico. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 5243 by activity, 62 by citations). 33 publications, h-index 15, 1,247 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/abigail-gonzalez-diaz-a5019085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>El Colegio de Puebla, A.C.</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 4990 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 56 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5243 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 62 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>1,247</td></tr>

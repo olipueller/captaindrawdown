@@ -1,7 +1,7 @@
 ---
 title: "Felix Schreyer"
-description: "Felix Schreyer, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1453 by activity, 81 by citations). 46 publications, h-index 12, 1,491 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Felix Schreyer, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 1471 by activity, 81 by citations). 46 publications, h-index 12, 1,491 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/felix-schreyer-a5082226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1453 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1471 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>1,491</td></tr>

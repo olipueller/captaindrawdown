@@ -1,7 +1,7 @@
 ---
 title: "Jordi Sardans"
-description: "Jordi Sardans, CREAF - Centre de Recerca Ecològica i Aplicacions Forestals, Spain. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 682 by activity, 72 by citations). 864 publications, h-index 92, 34,400 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jordi Sardans, CREAF - Centre de Recerca Ecològica i Aplicacions Forestals, Spain. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 738 by activity, 81 by citations). 864 publications, h-index 92, 34,400 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jordi-sardans-a5061849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CREAF - Centre de Recerca Ecològica i Aplicacions Forestals</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 682 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 72 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 738 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>92</td></tr>
   <tr><th>Citations</th><td>34,400</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Asfandyar Shahab"
-description: "Asfandyar Shahab, Guilin University of Technology, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 364 by activity, 97 by citations). 88 publications, h-index 29, 3,351 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Asfandyar Shahab, Guilin University of Technology, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 417 by activity, 97 by citations). 88 publications, h-index 29, 3,351 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Guilin University of Technology</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 364 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 97 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 417 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 97 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>3,351</td></tr>

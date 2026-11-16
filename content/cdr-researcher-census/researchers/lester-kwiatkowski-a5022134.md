@@ -1,7 +1,7 @@
 ---
 title: "Lester Kwiatkowski"
-description: "Lester Kwiatkowski, CNRS, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 94 by activity, 146 by citations; Europe rank 57 by activity, 49 by citations). 98 publications, h-index 23, 4,918 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lester Kwiatkowski, CNRS, France. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 88 by activity, 100 by citations; Europe rank 53 by activity, 41 by citations). 98 publications, h-index 23, 4,918 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CNRS</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 94 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 146 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 57 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 88 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 100 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 53 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>4,918</td></tr>

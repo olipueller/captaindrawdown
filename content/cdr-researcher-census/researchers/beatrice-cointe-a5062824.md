@@ -1,7 +1,7 @@
 ---
 title: "Béatrice Cointe"
-description: "Béatrice Cointe, Centre de sociologie de l'innovation, France. 85 publications, h-index 14, 693 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Béatrice Cointe, Centre de sociologie de l'innovation, France. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 84 by activity, 3104 by citations). 85 publications, h-index 14, 693 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/beatrice-cointe-a5062824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centre de sociologie de l'innovation</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 84 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3104 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>693</td></tr>

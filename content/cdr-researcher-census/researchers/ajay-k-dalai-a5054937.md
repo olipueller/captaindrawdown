@@ -1,7 +1,7 @@
 ---
 title: "Ajay K. Dalai"
-description: "Ajay K. Dalai, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 85 by activity, 17 by citations). 520 publications, h-index 91, 32,473 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ajay K. Dalai, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 100 by activity, 17 by citations). 520 publications, h-index 91, 32,473 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Saskatchewan</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 85 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 100 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>91</td></tr>
   <tr><th>Citations</th><td>32,473</td></tr>

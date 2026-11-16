@@ -1,7 +1,7 @@
 ---
 title: "Hélène Pilorgé"
-description: "Hélène Pilorgé, University of Pennsylvania, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 102 by activity, 94 by citations). 40 publications, h-index 16, 2,017 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hélène Pilorgé, University of Pennsylvania, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 116 by activity, 82 by citations). 40 publications, h-index 16, 2,017 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/helene-pilorge-a5038679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Pennsylvania</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 102 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 94 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 116 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 82 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>2,017</td></tr>

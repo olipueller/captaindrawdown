@@ -1,7 +1,7 @@
 ---
 title: "Amanda Lea‐Langton"
-description: "Amanda Lea‐Langton, University of Manchester, United Kingdom. 98 publications, h-index 29, 4,378 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Amanda Lea‐Langton, University of Manchester, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (Europe rank 861 by activity, 43 by citations). 98 publications, h-index 29, 4,378 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/amanda-lealangton-a5040421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Manchester</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>Europe: rank 861 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 43 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>4,378</td></tr>

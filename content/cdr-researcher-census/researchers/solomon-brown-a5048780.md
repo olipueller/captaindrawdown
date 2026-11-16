@@ -1,7 +1,7 @@
 ---
 title: "Solomon Brown"
-description: "Solomon Brown, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 64 by activity, 1477 by citations; Europe rank 46 by activity, 655 by citations). 240 publications, h-index 35, 8,277 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Solomon Brown, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 33 by activity, 1465 by citations; Europe rank 22 by activity, 645 by citations). 240 publications, h-index 35, 8,277 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/solomon-brown-a5048780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 64 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1477 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 655 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 33 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1465 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 645 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>8,277</td></tr>

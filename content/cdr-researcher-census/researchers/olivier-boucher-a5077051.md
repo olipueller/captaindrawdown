@@ -1,7 +1,7 @@
 ---
 title: "Oliviér Boucher"
-description: "Oliviér Boucher, Institut Pierre-Simon Laplace, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 41 by activity, 27 by citations; Europe rank 27 by activity, 8 by citations). 798 publications, h-index 112, 59,572 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Oliviér Boucher, Institut Pierre-Simon Laplace, France. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 48 by activity, 12 by citations; Europe rank 31 by activity, 9 by citations). 798 publications, h-index 112, 59,572 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/olivier-boucher-a5077051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Institut Pierre-Simon Laplace</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 41 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 48 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 31 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>112</td></tr>
   <tr><th>Citations</th><td>59,572</td></tr>

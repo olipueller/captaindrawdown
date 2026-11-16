@@ -1,7 +1,7 @@
 ---
 title: "David G. Victor"
-description: "David G. Victor, University of California San Diego, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4120 by activity, 91 by citations). 413 publications, h-index 59, 18,358 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "David G. Victor, University of California San Diego, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 4409 by activity, 96 by citations). 413 publications, h-index 59, 18,358 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/david-g-victor-a5062589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of California San Diego</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 4120 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 91 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4409 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>59</td></tr>
   <tr><th>Citations</th><td>18,358</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
-description: "Jackson Nkoh Nkoh, Shenzhen University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 81 by activity, 9780 by citations). 79 publications, h-index 26, 2,045 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jackson Nkoh Nkoh, Shenzhen University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 98 by activity, 8088 by citations). 79 publications, h-index 26, 2,045 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shenzhen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 81 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 9780 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 98 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 8088 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>2,045</td></tr>

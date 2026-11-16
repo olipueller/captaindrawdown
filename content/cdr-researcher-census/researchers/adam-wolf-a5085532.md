@@ -1,7 +1,7 @@
 ---
 title: "Adam Wolf"
-description: "Adam Wolf, Eion Corp, United States. 62 publications, h-index 29, 5,294 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Adam Wolf, Eion Corp, United States. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 141 by activity, 86 by citations). 62 publications, h-index 29, 5,294 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/adam-wolf-a5085532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Eion Corp</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 141 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>5,294</td></tr>

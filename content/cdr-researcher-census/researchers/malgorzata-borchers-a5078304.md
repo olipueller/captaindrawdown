@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
-description: "Malgorzata Borchers, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 8 by activity, 527 by citations; Europe rank 8 by activity, 225 by citations). 37 publications, h-index 10, 358 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Malgorzata Borchers, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 4 by activity, 378 by citations; Europe rank 4 by activity, 170 by citations). 37 publications, h-index 10, 358 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Helmholtz Centre for Environmental Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 8 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 527 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 225 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 4 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 378 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 170 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>358</td></tr>

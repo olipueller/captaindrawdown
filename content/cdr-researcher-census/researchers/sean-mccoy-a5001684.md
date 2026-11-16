@@ -1,7 +1,7 @@
 ---
 title: "Sean McCoy"
-description: "Sean McCoy, University of Calgary, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 78 by activity, 194 by citations). 91 publications, h-index 24, 3,416 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Sean McCoy, University of Calgary, Canada. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 55 by activity, 193 by citations). 91 publications, h-index 24, 3,416 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sean-mccoy-a5001684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Calgary</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 78 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 194 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 55 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 193 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>24</td></tr>
   <tr><th>Citations</th><td>3,416</td></tr>

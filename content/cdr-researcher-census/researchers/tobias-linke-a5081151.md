@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
-description: "Tobias Linke, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 48 by activity, 865 by citations; Europe rank 33 by activity, 260 by citations). 26 publications, h-index 6, 107 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tobias Linke, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 49 by activity, 710 by citations; Europe rank 36 by activity, 237 by citations). 26 publications, h-index 6, 107 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 48 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 865 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 33 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 260 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 49 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 710 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 237 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>107</td></tr>

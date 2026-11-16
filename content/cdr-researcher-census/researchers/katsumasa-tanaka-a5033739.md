@@ -1,7 +1,7 @@
 ---
 title: "Katsumasa Tanaka"
-description: "Katsumasa Tanaka, LSCE, France. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 52 by activity, 268 by citations; Europe rank 37 by activity, 107 by citations), Enhanced Weathering (worldwide rank 411 by activity, 55 by citations; Europe rank 198 by activity, 40 by citations). 207 publications, h-index 33, 6,551 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Katsumasa Tanaka, LSCE, France. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 59 by activity, 252 by citations; Europe rank 41 by activity, 99 by citations), Enhanced Weathering (worldwide rank 456 by activity, 56 by citations; Europe rank 203 by activity, 42 by citations). 207 publications, h-index 33, 6,551 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>LSCE</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 52 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 268 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 107 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 411 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 198 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 59 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 252 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 41 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 99 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 456 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 56 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 203 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>6,551</td></tr>

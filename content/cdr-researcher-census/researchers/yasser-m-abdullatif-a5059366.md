@@ -1,7 +1,7 @@
 ---
 title: "Yasser M. Abdullatif"
-description: "Yasser M. Abdullatif, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 28 by activity, 37 by citations). 23 publications, h-index 11, 1,168 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Yasser M. Abdullatif, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 35 by activity, 36 by citations). 23 publications, h-index 11, 1,168 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 28 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 35 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 36 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>1,168</td></tr>

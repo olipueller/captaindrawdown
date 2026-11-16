@@ -1,7 +1,7 @@
 ---
 title: "Stavros Michailos"
-description: "Stavros Michailos, University of Hull, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 201 by activity, 28 by citations; Europe rank 74 by activity, 20 by citations), BECCS (worldwide rank 97 by activity, 75 by citations; Europe rank 64 by activity, 28 by citations). 86 publications, h-index 29, 2,956 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Stavros Michailos, University of Hull, United Kingdom. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 231 by activity, 28 by citations; Europe rank 86 by activity, 20 by citations), BECCS (worldwide rank 102 by activity, 85 by citations; Europe rank 68 by activity, 32 by citations). 86 publications, h-index 29, 2,956 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/stavros-michailos-a5052441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Hull</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 201 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 74 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 97 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 75 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 64 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 231 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 86 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 102 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 68 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>2,956</td></tr>

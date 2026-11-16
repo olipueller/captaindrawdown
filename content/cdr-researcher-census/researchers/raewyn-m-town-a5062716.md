@@ -1,7 +1,7 @@
 ---
 title: "Raewyn M. Town"
-description: "Raewyn M. Town, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 455 by activity, 45 by citations), Enhanced Weathering (worldwide rank 574 by activity, 86 by citations). 207 publications, h-index 38, 4,973 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Raewyn M. Town, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 628 by activity, 93 by citations). 207 publications, h-index 38, 4,973 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/raewyn-m-town-a5062716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 455 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 574 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 628 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>4,973</td></tr>

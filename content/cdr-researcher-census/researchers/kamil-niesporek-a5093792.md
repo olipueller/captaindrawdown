@@ -1,7 +1,7 @@
 ---
 title: "Kamil Niesporek"
-description: "Kamil Niesporek, Silesian University of Technology, Poland. 29 publications, h-index 7, 259 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Kamil Niesporek, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11): DAC (Europe rank 42 by activity, 272 by citations). 29 publications, h-index 7, 259 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/kamil-niesporek-a5093792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Silesian University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 42 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 272 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>259</td></tr>

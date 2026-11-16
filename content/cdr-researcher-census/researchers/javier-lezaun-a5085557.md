@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
-description: "Javier Lezaun, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 1223 by activity, 12 by citations; Europe rank 576 by activity, 9 by citations), Ocean CDR (worldwide rank 73 by activity, 177 by citations; Europe rank 44 by activity, 70 by citations). 118 publications, h-index 32, 4,830 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Javier Lezaun, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 1244 by activity, 12 by citations; Europe rank 598 by activity, 9 by citations), Ocean CDR (worldwide rank 82 by activity, 195 by citations; Europe rank 49 by activity, 81 by citations). 118 publications, h-index 32, 4,830 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,8 +26,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Oxford</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1223 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 576 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 73 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 177 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 44 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 70 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1244 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 598 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 82 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 195 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 49 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 81 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>4,830</td></tr>

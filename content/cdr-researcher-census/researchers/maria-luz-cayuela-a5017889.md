@@ -1,7 +1,7 @@
 ---
 title: "María Luz Cayuela"
-description: "María Luz Cayuela, Centro de Edafología y Biología Aplicada del Segura, Spain. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 911 by activity, 4 by citations; Europe rank 170 by activity, 2 by citations). 137 publications, h-index 50, 14,290 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "María Luz Cayuela, Centro de Edafología y Biología Aplicada del Segura, Spain. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 1003 by activity, 4 by citations; Europe rank 183 by activity, 2 by citations). 137 publications, h-index 50, 14,290 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/maria-luz-cayuela-a5017889/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Centro de Edafología y Biología Aplicada del Segura</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 911 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 170 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 2 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 1003 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 183 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 2 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>14,290</td></tr>

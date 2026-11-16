@@ -1,7 +1,7 @@
 ---
 title: "Zoe M. Harris"
-description: "Zoe M. Harris, University of Surrey, United Kingdom. 47 publications, h-index 15, 1,521 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Zoe M. Harris, University of Surrey, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 1287 by activity, 93 by citations; Europe rank 552 by activity, 37 by citations). 47 publications, h-index 15, 1,521 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/zoe-m-harris-a5016010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Surrey</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 1287 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 93 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 552 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>1,521</td></tr>

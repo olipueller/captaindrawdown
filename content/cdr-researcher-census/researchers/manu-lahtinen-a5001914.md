@@ -1,7 +1,7 @@
 ---
 title: "Manu Lahtinen"
-description: "Manu Lahtinen, University of Jyväskylä, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5488 by activity, 68 by citations; Europe rank 1406 by activity, 35 by citations). 620 publications, h-index 40, 6,843 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Manu Lahtinen, University of Jyväskylä, Finland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 5740 by activity, 69 by citations; Europe rank 1448 by activity, 33 by citations). 620 publications, h-index 40, 6,843 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/manu-lahtinen-a5001914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Jyväskylä</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 5488 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 68 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1406 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5740 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1448 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>40</td></tr>
   <tr><th>Citations</th><td>6,843</td></tr>

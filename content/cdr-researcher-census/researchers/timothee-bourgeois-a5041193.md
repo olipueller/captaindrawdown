@@ -1,7 +1,7 @@
 ---
 title: "Timothée Bourgeois"
-description: "Timothée Bourgeois, NORCE Research AS, Norway. 53 publications, h-index 7, 493 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Timothée Bourgeois, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 94 by activity, 1023 by citations). 53 publications, h-index 7, 493 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/timothee-bourgeois-a5041193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>NORCE Research AS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 94 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1023 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>493</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Vittoria Bolongaro"
-description: "Vittoria Bolongaro, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 94 by activity, 2132 by citations; Europe rank 34 by activity, 692 by citations). 14 publications, h-index 3, 109 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Vittoria Bolongaro, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 41 by activity, 2141 by citations; Europe rank 23 by activity, 696 by citations). 14 publications, h-index 3, 109 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 94 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2132 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 692 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 41 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2141 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 696 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>109</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Scott C. Doney"
-description: "Scott C. Doney, University of Virginia, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 271 by activity, 41 by citations). 660 publications, h-index 134, 84,856 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Scott C. Doney, University of Virginia, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 298 by activity, 38 by citations). 660 publications, h-index 134, 84,856 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/scott-c-doney-a5019762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Virginia</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 271 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 41 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 298 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 38 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>134</td></tr>
   <tr><th>Citations</th><td>84,856</td></tr>

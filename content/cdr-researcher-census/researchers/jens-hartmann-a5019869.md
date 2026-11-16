@@ -1,7 +1,7 @@
 ---
 title: "Jens Hartmann"
-description: "Jens Hartmann, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 4 by activity, 4 by citations; Europe rank 3 by activity, 4 by citations), Ocean CDR (worldwide rank 18 by activity, 27 by citations; Europe rank 11 by activity, 13 by citations), Biochar (worldwide rank 60 by activity, 7531 by citations; Europe rank 20 by activity, 1047 by citations). 365 publications, h-index 71, 25,415 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jens Hartmann, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 4 by activity, 3 by citations; Europe rank 3 by activity, 3 by citations), Ocean CDR (worldwide rank 20 by activity, 19 by citations; Europe rank 11 by activity, 8 by citations), Biochar (worldwide rank 68 by activity, 6704 by citations; Europe rank 21 by activity, 929 by citations). 365 publications, h-index 71, 25,415 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jens-hartmann-a5019869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 4 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 18 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 27 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 13 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 60 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 7531 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 1047 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 3 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 20 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 19 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 68 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 6704 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 929 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>71</td></tr>
   <tr><th>Citations</th><td>25,415</td></tr>

@@ -29,8 +29,8 @@ url: "/data/researchers/"
       }
     }
   ],
-  "version": "2026-11",
-  "dateModified": "2026-11-15",
+  "version": "2026-11.5",
+  "dateModified": "2026-11-16",
   "keywords": [
     "carbon dioxide removal",
     "researchers",
@@ -43,26 +43,26 @@ url: "/data/researchers/"
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11/researchers_by_country.csv"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.5/researchers_by_country.csv"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11/researchers_by_pathway.csv"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.5/researchers_by_pathway.csv"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/json",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11/researchers_by_country.json"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.5/researchers_by_country.json"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/zip",
-      "contentUrl": "https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11/captaindrawdown-data-2026-11.zip"
+      "contentUrl": "https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.5/captaindrawdown-data-2026-11.5.zip"
     }
   ],
   "sameAs": [
-    "https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11"
+    "https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.5"
   ]
 }
 </script>
@@ -70,12 +70,12 @@ url: "/data/researchers/"
 <div class="cd-split">
 <div class="cd-main">
 
-**57,175 researchers listed** in release 2026-11 (data as of 2026-11-15): every author with at least one CDR-relevant paper since 2021 on one of 6 pathways, from 16,488 papers, 10,017 institutions and 161 countries. The calibrated estimate of the real population is **53,199**: the listed count scaled per country by the precision and recall measured in the March 2026 calibration sample (OpenAlex over-assigns some countries and misses others). 11,191 listed researchers are based in Europe.
+**57,175 researchers listed** in release 2026-11.5 (data as of 2026-11-16): every author with at least one CDR-relevant paper since 2021 on one of 6 pathways, from 16,488 papers, 10,017 institutions and 161 countries. The calibrated estimate of the real population is **53,199**: the listed count scaled per country by the precision and recall measured in the March 2026 calibration sample (OpenAlex over-assigns some countries and misses others). 11,191 listed researchers are based in Europe.
 
 Person-level data is published only for the researchers in the top lists per pathway; everyone else is counted in the aggregates. The [census page](/cdr-researcher-census/) has the pathway table, the [lookup](/cdr-researcher-census/lookup/) finds a listed researcher by name.
 
 </div>
-<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11 · data as of 2026-11-15</p><span class="num">57,175</span><span class="lbl">researchers listed</span><h4>Download</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11">GitHub folder</a> · <a href="https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11/captaindrawdown-data-2026-11.zip">zip</a></li><li>researchers_by_country: <a href="/data/v1/2026-11/researchers_by_country.csv">CSV</a> · <a href="/data/v1/2026-11/researchers_by_country.json">JSON</a></li><li>researchers_by_pathway: <a href="/data/v1/2026-11/researchers_by_pathway.csv">CSV</a> · <a href="/data/v1/2026-11/researchers_by_pathway.json">JSON</a></li><li>researchers_by_country_pathway: <a href="/data/v1/2026-11/researchers_by_country_pathway.csv">CSV</a> · <a href="/data/v1/2026-11/researchers_by_country_pathway.json">JSON</a></li><li>researchers_by_sector: <a href="/data/v1/2026-11/researchers_by_sector.csv">CSV</a> · <a href="/data/v1/2026-11/researchers_by_sector.json">JSON</a></li><li>cdr_papers_by_year: <a href="/data/v1/2026-11/cdr_papers_by_year.csv">CSV</a> · <a href="/data/v1/2026-11/cdr_papers_by_year.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957367">10.5281/zenodo.23957367</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957366">10.5281/zenodo.23957366</a></small></p><h4>Use the data</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases">GitHub repository</a></li><li><a href="/api/v1/researchers/by-pathway.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census">Hugging Face</a></li><li><a href="/data/v1/2026-11/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.5 · data as of 2026-11-16</p><span class="num">57,175</span><span class="lbl">researchers listed</span><h4>Download</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.5">GitHub folder</a> · <a href="https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.5/captaindrawdown-data-2026-11.5.zip">zip</a></li><li>researchers_by_country: <a href="/data/v1/2026-11.5/researchers_by_country.csv">CSV</a> · <a href="/data/v1/2026-11.5/researchers_by_country.json">JSON</a></li><li>researchers_by_pathway: <a href="/data/v1/2026-11.5/researchers_by_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.5/researchers_by_pathway.json">JSON</a></li><li>researchers_by_country_pathway: <a href="/data/v1/2026-11.5/researchers_by_country_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.5/researchers_by_country_pathway.json">JSON</a></li><li>researchers_by_sector: <a href="/data/v1/2026-11.5/researchers_by_sector.csv">CSV</a> · <a href="/data/v1/2026-11.5/researchers_by_sector.json">JSON</a></li><li>cdr_papers_by_year: <a href="/data/v1/2026-11.5/cdr_papers_by_year.csv">CSV</a> · <a href="/data/v1/2026-11.5/cdr_papers_by_year.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.5. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367</p><p>DOI <a href="https://doi.org/10.5281/zenodo.23957367">10.5281/zenodo.23957367</a><br><small>all versions: <a href="https://doi.org/10.5281/zenodo.23957366">10.5281/zenodo.23957366</a></small></p><h4>Use the data</h4><ul><li><a href="https://github.com/dirkpaessler/cdr-databases">GitHub repository</a></li><li><a href="/api/v1/researchers/by-pathway.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census">Hugging Face</a></li><li><a href="/data/v1/2026-11.5/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
 </div>
 
 ## Top researchers per pathway
@@ -84,54 +84,54 @@ Two lists per pathway, each worldwide (top 100) and for Europe (top 50): **most 
 
 | Pathway | Researchers with papers since 2021 | Most active | Most cited | Europe in the active top 100 | Lists |
 |---|---|---|---|---|---|
-| [DAC](/data/researchers/dac/) | 6,273 | USDOE Office of Fossil Energy (FE) | Noah McQueen | 41 of 100 | [page](/data/researchers/dac/) · [active CSV](/data/v1/2026-11/top100_dac.csv) · [Europe CSV](/data/v1/2026-11/top50_europe_dac.csv) · [cited CSV](/data/v1/2026-11/top100_cited_dac.csv) |
-| [BECCS](/data/researchers/beccs/) | 4,203 | Daniela Thrän | Ahmed I. Osman | 66 of 100 | [page](/data/researchers/beccs/) · [active CSV](/data/v1/2026-11/top100_beccs.csv) · [Europe CSV](/data/v1/2026-11/top50_europe_beccs.csv) · [cited CSV](/data/v1/2026-11/top100_cited_beccs.csv) |
-| [Enhanced Weathering](/data/researchers/enhanced-weathering/) | 5,158 | Noah J. Planavsky | David J. Beerling | 62 of 100 | [page](/data/researchers/enhanced-weathering/) · [active CSV](/data/v1/2026-11/top100_enhanced-weathering.csv) · [Europe CSV](/data/v1/2026-11/top50_europe_enhanced-weathering.csv) · [cited CSV](/data/v1/2026-11/top100_cited_enhanced-weathering.csv) |
-| [Ocean CDR](/data/researchers/ocean-cdr/) | 5,677 | Ulf Riebesell | Lennart T. Bach | 61 of 100 | [page](/data/researchers/ocean-cdr/) · [active CSV](/data/v1/2026-11/top100_ocean-cdr.csv) · [Europe CSV](/data/v1/2026-11/top50_europe_ocean-cdr.csv) · [cited CSV](/data/v1/2026-11/top100_cited_ocean-cdr.csv) |
-| [Biochar](/data/researchers/biochar/) | 28,634 | Daniel C.W. Tsang | Daniel C.W. Tsang | 26 of 100 | [page](/data/researchers/biochar/) · [active CSV](/data/v1/2026-11/top100_biochar.csv) · [Europe CSV](/data/v1/2026-11/top50_europe_biochar.csv) · [cited CSV](/data/v1/2026-11/top100_cited_biochar.csv) |
-| [Cross-cutting CDR](/data/researchers/cross-cutting-cdr/) | 12,850 | Matthew Gidden | Myles Allen | 67 of 100 | [page](/data/researchers/cross-cutting-cdr/) · [active CSV](/data/v1/2026-11/top100_cross-cutting-cdr.csv) · [Europe CSV](/data/v1/2026-11/top50_europe_cross-cutting-cdr.csv) · [cited CSV](/data/v1/2026-11/top100_cited_cross-cutting-cdr.csv) |
+| [DAC](/data/researchers/dac/) | 6,273 | USDOE Office of Fossil Energy (FE) | Noah McQueen | 41 of 100 | [page](/data/researchers/dac/) · [active CSV](/data/v1/2026-11.5/top100_dac.csv) · [Europe CSV](/data/v1/2026-11.5/top50_europe_dac.csv) · [cited CSV](/data/v1/2026-11.5/top100_cited_dac.csv) |
+| [BECCS](/data/researchers/beccs/) | 4,203 | Daniela Thrän | Ahmed I. Osman | 66 of 100 | [page](/data/researchers/beccs/) · [active CSV](/data/v1/2026-11.5/top100_beccs.csv) · [Europe CSV](/data/v1/2026-11.5/top50_europe_beccs.csv) · [cited CSV](/data/v1/2026-11.5/top100_cited_beccs.csv) |
+| [Enhanced Weathering](/data/researchers/enhanced-weathering/) | 5,158 | Noah J. Planavsky | David J. Beerling | 62 of 100 | [page](/data/researchers/enhanced-weathering/) · [active CSV](/data/v1/2026-11.5/top100_enhanced-weathering.csv) · [Europe CSV](/data/v1/2026-11.5/top50_europe_enhanced-weathering.csv) · [cited CSV](/data/v1/2026-11.5/top100_cited_enhanced-weathering.csv) |
+| [Ocean CDR](/data/researchers/ocean-cdr/) | 5,677 | Ulf Riebesell | Lennart T. Bach | 61 of 100 | [page](/data/researchers/ocean-cdr/) · [active CSV](/data/v1/2026-11.5/top100_ocean-cdr.csv) · [Europe CSV](/data/v1/2026-11.5/top50_europe_ocean-cdr.csv) · [cited CSV](/data/v1/2026-11.5/top100_cited_ocean-cdr.csv) |
+| [Biochar](/data/researchers/biochar/) | 28,634 | Daniel C.W. Tsang | Daniel C.W. Tsang | 26 of 100 | [page](/data/researchers/biochar/) · [active CSV](/data/v1/2026-11.5/top100_biochar.csv) · [Europe CSV](/data/v1/2026-11.5/top50_europe_biochar.csv) · [cited CSV](/data/v1/2026-11.5/top100_cited_biochar.csv) |
+| [Cross-cutting CDR](/data/researchers/cross-cutting-cdr/) | 12,850 | Matthew Gidden | Myles Allen | 67 of 100 | [page](/data/researchers/cross-cutting-cdr/) · [active CSV](/data/v1/2026-11.5/top100_cross-cutting-cdr.csv) · [Europe CSV](/data/v1/2026-11.5/top50_europe_cross-cutting-cdr.csv) · [cited CSV](/data/v1/2026-11.5/top100_cited_cross-cutting-cdr.csv) |
 
 ## Download
 
-All files of release 2026-11 on GitHub: [folder `v1/2026-11/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11) · [one zip](https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11/captaindrawdown-data-2026-11.zip) · [manifest](/data/v1/2026-11/manifest.json). The links below are the same files served by this site.
+All files of release 2026-11.5 on GitHub: [folder `v1/2026-11.5/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.5) · [one zip](https://github.com/dirkpaessler/cdr-databases/releases/download/release-2026-11.5/captaindrawdown-data-2026-11.5.zip) · [manifest](/data/v1/2026-11.5/manifest.json). The links below are the same files served by this site.
 
 | File | Rows | Size | Format |
 |---|---|---|---|
-| researchers_by_country | 162 | 4 KB | [CSV](/data/v1/2026-11/researchers_by_country.csv) · [JSON](/data/v1/2026-11/researchers_by_country.json) |
-| researchers_by_pathway | 6 | 0 KB | [CSV](/data/v1/2026-11/researchers_by_pathway.csv) · [JSON](/data/v1/2026-11/researchers_by_pathway.json) |
-| researchers_by_country_pathway | 605 | 10 KB | [CSV](/data/v1/2026-11/researchers_by_country_pathway.csv) · [JSON](/data/v1/2026-11/researchers_by_country_pathway.json) |
-| researchers_by_sector | 8 | 0 KB | [CSV](/data/v1/2026-11/researchers_by_sector.csv) · [JSON](/data/v1/2026-11/researchers_by_sector.json) |
-| cdr_papers_by_year | 6 | 0 KB | [CSV](/data/v1/2026-11/cdr_papers_by_year.csv) · [JSON](/data/v1/2026-11/cdr_papers_by_year.json) |
-| top100_dac | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_dac.csv) · [JSON](/data/v1/2026-11/top100_dac.json) |
-| top50_europe_dac | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_dac.csv) · [JSON](/data/v1/2026-11/top50_europe_dac.json) |
-| top100_cited_dac | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_cited_dac.csv) · [JSON](/data/v1/2026-11/top100_cited_dac.json) |
-| top50_europe_cited_dac | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_cited_dac.csv) · [JSON](/data/v1/2026-11/top50_europe_cited_dac.json) |
-| top100_dac_papers | 987 | 236 KB | [CSV](/data/v1/2026-11/top100_dac_papers.csv) · [JSON](/data/v1/2026-11/top100_dac_papers.json) |
-| top100_beccs | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_beccs.csv) · [JSON](/data/v1/2026-11/top100_beccs.json) |
-| top50_europe_beccs | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_beccs.csv) · [JSON](/data/v1/2026-11/top50_europe_beccs.json) |
-| top100_cited_beccs | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_cited_beccs.csv) · [JSON](/data/v1/2026-11/top100_cited_beccs.json) |
-| top50_europe_cited_beccs | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_cited_beccs.csv) · [JSON](/data/v1/2026-11/top50_europe_cited_beccs.json) |
-| top100_beccs_papers | 813 | 200 KB | [CSV](/data/v1/2026-11/top100_beccs_papers.csv) · [JSON](/data/v1/2026-11/top100_beccs_papers.json) |
-| top100_enhanced-weathering | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top100_enhanced-weathering.json) |
-| top50_europe_enhanced-weathering | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top50_europe_enhanced-weathering.json) |
-| top100_cited_enhanced-weathering | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_cited_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top100_cited_enhanced-weathering.json) |
-| top50_europe_cited_enhanced-weathering | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_cited_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top50_europe_cited_enhanced-weathering.json) |
-| top100_enhanced-weathering_papers | 1,843 | 484 KB | [CSV](/data/v1/2026-11/top100_enhanced-weathering_papers.csv) · [JSON](/data/v1/2026-11/top100_enhanced-weathering_papers.json) |
-| top100_ocean-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top100_ocean-cdr.json) |
-| top50_europe_ocean-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_ocean-cdr.json) |
-| top100_cited_ocean-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_cited_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top100_cited_ocean-cdr.json) |
-| top50_europe_cited_ocean-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_cited_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_cited_ocean-cdr.json) |
-| top100_ocean-cdr_papers | 1,647 | 411 KB | [CSV](/data/v1/2026-11/top100_ocean-cdr_papers.csv) · [JSON](/data/v1/2026-11/top100_ocean-cdr_papers.json) |
-| top100_biochar | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_biochar.csv) · [JSON](/data/v1/2026-11/top100_biochar.json) |
-| top50_europe_biochar | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_biochar.csv) · [JSON](/data/v1/2026-11/top50_europe_biochar.json) |
-| top100_cited_biochar | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_cited_biochar.csv) · [JSON](/data/v1/2026-11/top100_cited_biochar.json) |
-| top50_europe_cited_biochar | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_cited_biochar.csv) · [JSON](/data/v1/2026-11/top50_europe_cited_biochar.json) |
-| top100_biochar_papers | 1,675 | 435 KB | [CSV](/data/v1/2026-11/top100_biochar_papers.csv) · [JSON](/data/v1/2026-11/top100_biochar_papers.json) |
-| top100_cross-cutting-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11/top100_cross-cutting-cdr.json) |
-| top50_europe_cross-cutting-cdr | 50 | 13 KB | [CSV](/data/v1/2026-11/top50_europe_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_cross-cutting-cdr.json) |
-| top100_cited_cross-cutting-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_cited_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11/top100_cited_cross-cutting-cdr.json) |
-| top50_europe_cited_cross-cutting-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_cited_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_cited_cross-cutting-cdr.json) |
-| top100_cross-cutting-cdr_papers | 1,428 | 348 KB | [CSV](/data/v1/2026-11/top100_cross-cutting-cdr_papers.csv) · [JSON](/data/v1/2026-11/top100_cross-cutting-cdr_papers.json) |
+| researchers_by_country | 162 | 4 KB | [CSV](/data/v1/2026-11.5/researchers_by_country.csv) · [JSON](/data/v1/2026-11.5/researchers_by_country.json) |
+| researchers_by_pathway | 6 | 0 KB | [CSV](/data/v1/2026-11.5/researchers_by_pathway.csv) · [JSON](/data/v1/2026-11.5/researchers_by_pathway.json) |
+| researchers_by_country_pathway | 605 | 10 KB | [CSV](/data/v1/2026-11.5/researchers_by_country_pathway.csv) · [JSON](/data/v1/2026-11.5/researchers_by_country_pathway.json) |
+| researchers_by_sector | 8 | 0 KB | [CSV](/data/v1/2026-11.5/researchers_by_sector.csv) · [JSON](/data/v1/2026-11.5/researchers_by_sector.json) |
+| cdr_papers_by_year | 6 | 0 KB | [CSV](/data/v1/2026-11.5/cdr_papers_by_year.csv) · [JSON](/data/v1/2026-11.5/cdr_papers_by_year.json) |
+| top100_dac | 100 | 24 KB | [CSV](/data/v1/2026-11.5/top100_dac.csv) · [JSON](/data/v1/2026-11.5/top100_dac.json) |
+| top50_europe_dac | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_dac.csv) · [JSON](/data/v1/2026-11.5/top50_europe_dac.json) |
+| top100_cited_dac | 100 | 24 KB | [CSV](/data/v1/2026-11.5/top100_cited_dac.csv) · [JSON](/data/v1/2026-11.5/top100_cited_dac.json) |
+| top50_europe_cited_dac | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_cited_dac.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cited_dac.json) |
+| top100_dac_papers | 987 | 236 KB | [CSV](/data/v1/2026-11.5/top100_dac_papers.csv) · [JSON](/data/v1/2026-11.5/top100_dac_papers.json) |
+| top100_beccs | 100 | 25 KB | [CSV](/data/v1/2026-11.5/top100_beccs.csv) · [JSON](/data/v1/2026-11.5/top100_beccs.json) |
+| top50_europe_beccs | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_beccs.csv) · [JSON](/data/v1/2026-11.5/top50_europe_beccs.json) |
+| top100_cited_beccs | 100 | 24 KB | [CSV](/data/v1/2026-11.5/top100_cited_beccs.csv) · [JSON](/data/v1/2026-11.5/top100_cited_beccs.json) |
+| top50_europe_cited_beccs | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_cited_beccs.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cited_beccs.json) |
+| top100_beccs_papers | 813 | 200 KB | [CSV](/data/v1/2026-11.5/top100_beccs_papers.csv) · [JSON](/data/v1/2026-11.5/top100_beccs_papers.json) |
+| top100_enhanced-weathering | 100 | 24 KB | [CSV](/data/v1/2026-11.5/top100_enhanced-weathering.csv) · [JSON](/data/v1/2026-11.5/top100_enhanced-weathering.json) |
+| top50_europe_enhanced-weathering | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_enhanced-weathering.csv) · [JSON](/data/v1/2026-11.5/top50_europe_enhanced-weathering.json) |
+| top100_cited_enhanced-weathering | 100 | 25 KB | [CSV](/data/v1/2026-11.5/top100_cited_enhanced-weathering.csv) · [JSON](/data/v1/2026-11.5/top100_cited_enhanced-weathering.json) |
+| top50_europe_cited_enhanced-weathering | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_cited_enhanced-weathering.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cited_enhanced-weathering.json) |
+| top100_enhanced-weathering_papers | 1,843 | 484 KB | [CSV](/data/v1/2026-11.5/top100_enhanced-weathering_papers.csv) · [JSON](/data/v1/2026-11.5/top100_enhanced-weathering_papers.json) |
+| top100_ocean-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11.5/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11.5/top100_ocean-cdr.json) |
+| top50_europe_ocean-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11.5/top50_europe_ocean-cdr.json) |
+| top100_cited_ocean-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11.5/top100_cited_ocean-cdr.csv) · [JSON](/data/v1/2026-11.5/top100_cited_ocean-cdr.json) |
+| top50_europe_cited_ocean-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_cited_ocean-cdr.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cited_ocean-cdr.json) |
+| top100_ocean-cdr_papers | 1,647 | 411 KB | [CSV](/data/v1/2026-11.5/top100_ocean-cdr_papers.csv) · [JSON](/data/v1/2026-11.5/top100_ocean-cdr_papers.json) |
+| top100_biochar | 100 | 24 KB | [CSV](/data/v1/2026-11.5/top100_biochar.csv) · [JSON](/data/v1/2026-11.5/top100_biochar.json) |
+| top50_europe_biochar | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_biochar.csv) · [JSON](/data/v1/2026-11.5/top50_europe_biochar.json) |
+| top100_cited_biochar | 100 | 24 KB | [CSV](/data/v1/2026-11.5/top100_cited_biochar.csv) · [JSON](/data/v1/2026-11.5/top100_cited_biochar.json) |
+| top50_europe_cited_biochar | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_cited_biochar.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cited_biochar.json) |
+| top100_biochar_papers | 1,675 | 435 KB | [CSV](/data/v1/2026-11.5/top100_biochar_papers.csv) · [JSON](/data/v1/2026-11.5/top100_biochar_papers.json) |
+| top100_cross-cutting-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11.5/top100_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11.5/top100_cross-cutting-cdr.json) |
+| top50_europe_cross-cutting-cdr | 50 | 13 KB | [CSV](/data/v1/2026-11.5/top50_europe_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cross-cutting-cdr.json) |
+| top100_cited_cross-cutting-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11.5/top100_cited_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11.5/top100_cited_cross-cutting-cdr.json) |
+| top50_europe_cited_cross-cutting-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11.5/top50_europe_cited_cross-cutting-cdr.csv) · [JSON](/data/v1/2026-11.5/top50_europe_cited_cross-cutting-cdr.json) |
+| top100_cross-cutting-cdr_papers | 1,428 | 348 KB | [CSV](/data/v1/2026-11.5/top100_cross-cutting-cdr_papers.csv) · [JSON](/data/v1/2026-11.5/top100_cross-cutting-cdr_papers.json) |
 
 ## Fields
 
@@ -152,13 +152,13 @@ Names, ORCID iDs, institutions and publication counts of researchers in the top 
 
 ## Versions
 
-This page describes release **2026-11** (data as of 2026-11-15). Every release is a folder in the public GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) ([`v1/2026-11/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11), the newest also under `v1/latest/`) and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11) with everything as one zip; this site serves the same files under `/data/v1/2026-11/` and [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/), and issues can be opened on GitHub.
+This page describes release **2026-11.5** (data as of 2026-11-16). Every release is a folder in the public GitHub repository [dirkpaessler/cdr-databases](https://github.com/dirkpaessler/cdr-databases) ([`v1/2026-11.5/`](https://github.com/dirkpaessler/cdr-databases/tree/main/v1/2026-11.5), the newest also under `v1/latest/`) and a [GitHub release](https://github.com/dirkpaessler/cdr-databases/releases/tag/release-2026-11.5) with everything as one zip; this site serves the same files under `/data/v1/2026-11.5/` and [`/data/v1/latest/`](/data/v1/latest/manifest.json). The [manifest](/data/v1/2026-11.5/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/), and issues can be opened on GitHub.
 
 ## Licence and citation
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). DOI: [10.5281/zenodo.23957367](https://doi.org/10.5281/zenodo.23957367) (Zenodo, one DOI for all versions). Cite as:
 
-> Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367
+> Captain Drawdown and Dirk Paessler (2026). CDR Researcher Census, version 2026-11.5. Carbon Drawdown Initiative. https://captaindrawdown.com/data/researchers/ (CC licence, see page). https://doi.org/10.5281/zenodo.23957367
 
 ## Corrections and removal
 

@@ -1,7 +1,7 @@
 ---
 title: "Fengchao Sun"
-description: "Fengchao Sun, Yale School of the Environment, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 94 by activity, 454 by citations). 2 publications, h-index 1, 1 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Fengchao Sun, Yale School of the Environment, United States. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 86 by activity, 441 by citations). 2 publications, h-index 1, 1 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/fengchao-sun-a5138922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale School of the Environment</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 94 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 454 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 86 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 441 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>1</td></tr>

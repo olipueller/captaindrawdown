@@ -1,7 +1,7 @@
 ---
 title: "Youngjune Park"
-description: "Youngjune Park, Gwangju Institute of Science and Technology, South Korea. 193 publications, h-index 35, 4,480 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Youngjune Park, Gwangju Institute of Science and Technology, South Korea. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 93 by activity, 3671 by citations). 193 publications, h-index 35, 4,480 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/youngjune-park-a5048594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Gwangju Institute of Science and Technology</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 93 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3671 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>4,480</td></tr>

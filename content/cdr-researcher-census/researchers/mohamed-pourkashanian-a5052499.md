@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Pourkashanian"
-description: "Mohamed Pourkashanian, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 10 by activity, 69 by citations; Europe rank 10 by activity, 23 by citations), DAC (worldwide rank 283 by activity, 29 by citations; Europe rank 105 by activity, 21 by citations). 624 publications, h-index 73, 21,588 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Mohamed Pourkashanian, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 11 by activity, 79 by citations; Europe rank 11 by activity, 29 by citations), DAC (worldwide rank 325 by activity, 29 by citations; Europe rank 119 by activity, 21 by citations). 624 publications, h-index 73, 21,588 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 10 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 283 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 105 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 21 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 11 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 29 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 325 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 119 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 21 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>73</td></tr>
   <tr><th>Citations</th><td>21,588</td></tr>

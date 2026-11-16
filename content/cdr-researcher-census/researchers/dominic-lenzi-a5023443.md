@@ -1,7 +1,7 @@
 ---
 title: "Dominic Lenzi"
-description: "Dominic Lenzi, University of Twente, Netherlands. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 80 by activity, 2864 by citations). 52 publications, h-index 15, 3,214 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Dominic Lenzi, University of Twente, Netherlands. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 84 by activity, 2731 by citations). 52 publications, h-index 15, 3,214 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/dominic-lenzi-a5023443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Twente</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 80 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2864 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 84 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2731 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>3,214</td></tr>

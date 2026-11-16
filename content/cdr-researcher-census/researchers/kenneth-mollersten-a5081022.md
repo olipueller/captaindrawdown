@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Möllersten"
-description: "Kenneth Möllersten, IVL Swedish Environmental Research Institute, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 59 by activity, 355 by citations; Europe rank 41 by activity, 153 by citations). 71 publications, h-index 14, 1,720 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Kenneth Möllersten, IVL Swedish Environmental Research Institute, Sweden. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 65 by activity, 330 by citations; Europe rank 45 by activity, 136 by citations). 71 publications, h-index 14, 1,720 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/kenneth-mollersten-a5081022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>IVL Swedish Environmental Research Institute</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 59 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 355 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 41 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 153 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 65 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 330 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 136 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,720</td></tr>

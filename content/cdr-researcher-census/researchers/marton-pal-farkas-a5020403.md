@@ -1,7 +1,7 @@
 ---
 title: "Márton Pál Farkas"
-description: "Márton Pál Farkas, GFZ Helmholtz Centre for Geosciences, Germany. 41 publications, h-index 8, 292 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Márton Pál Farkas, GFZ Helmholtz Centre for Geosciences, Germany. CDR Researcher Census top lists (2026-11): DAC (Europe rank 43 by activity, 571 by citations). 41 publications, h-index 8, 292 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/marton-pal-farkas-a5020403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GFZ Helmholtz Centre for Geosciences</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 43 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 571 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>292</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rochedo"
-description: "Pedro Rochedo, Khalifa University of Science and Technology, United Arab Emirates. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 78 by activity, 831 by citations), Cross-cutting CDR (worldwide rank 83 by activity, 228 by citations). 127 publications, h-index 35, 4,327 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Pedro Rochedo, Khalifa University of Science and Technology, United Arab Emirates. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 82 by activity, 806 by citations), Cross-cutting CDR (worldwide rank 86 by activity, 251 by citations). 127 publications, h-index 35, 4,327 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/pedro-rochedo-a5013873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Khalifa University of Science and Technology</td></tr>
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 78 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 831 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 83 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 228 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 82 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 806 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 86 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 251 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>4,327</td></tr>

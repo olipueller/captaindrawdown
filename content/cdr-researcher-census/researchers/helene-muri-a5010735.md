@@ -1,7 +1,7 @@
 ---
 title: "Helene Muri"
-description: "Helene Muri, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 64 by activity, 2840 by citations; Europe rank 38 by activity, 820 by citations). 124 publications, h-index 36, 4,452 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Helene Muri, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 57 by activity, 2789 by citations; Europe rank 36 by activity, 777 by citations). 124 publications, h-index 36, 4,452 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/helene-muri-a5010735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Norwegian University of Science and Technology</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 64 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2840 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 820 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 57 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2789 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 777 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>4,452</td></tr>

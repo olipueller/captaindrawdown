@@ -1,7 +1,7 @@
 ---
 title: "Elmar Kriegler"
-description: "Elmar Kriegler, University of Potsdam, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 53 by activity, 22 by citations; Europe rank 37 by activity, 18 by citations), BECCS (Europe rank 137 by activity, 41 by citations). 279 publications, h-index 86, 54,837 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Elmar Kriegler, University of Potsdam, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 43 by activity, 28 by citations; Europe rank 31 by activity, 21 by citations). 279 publications, h-index 86, 54,837 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/elmar-kriegler-a5023849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Potsdam</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 53 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 22 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>Europe: rank 137 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 41 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 43 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 31 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 21 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>86</td></tr>
   <tr><th>Citations</th><td>54,837</td></tr>

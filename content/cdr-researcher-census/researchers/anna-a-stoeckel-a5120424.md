@@ -1,7 +1,7 @@
 ---
 title: "Anna A. Stoeckel"
-description: "Anna A. Stoeckel, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 98 by activity, 2273 by citations). 9 publications, h-index 2, 8 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Anna A. Stoeckel, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 68 by activity, 1873 by citations; Europe rank 49 by activity, 562 by citations). 9 publications, h-index 2, 8 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/anna-a-stoeckel-a5120424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 98 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2273 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 68 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1873 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 49 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 562 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>2</td></tr>
   <tr><th>Citations</th><td>8</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Benjamin S. Twining"
-description: "Benjamin S. Twining, Bigelow Laboratory for Ocean Sciences, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 137 by activity, 94 by citations). 196 publications, h-index 50, 8,986 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Benjamin S. Twining, Bigelow Laboratory for Ocean Sciences, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 151 by activity, 95 by citations). 196 publications, h-index 50, 8,986 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Bigelow Laboratory for Ocean Sciences</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 137 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 94 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 151 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>50</td></tr>
   <tr><th>Citations</th><td>8,986</td></tr>

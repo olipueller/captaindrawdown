@@ -1,7 +1,7 @@
 ---
 title: "Roksana Muzyka"
-description: "Roksana Muzyka, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3023 by activity, 46 by citations). 91 publications, h-index 18, 2,222 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Roksana Muzyka, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 3126 by activity, 44 by citations). 91 publications, h-index 18, 2,222 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/roksana-muzyka-a5065248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Silesian University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 3023 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 3126 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>2,222</td></tr>

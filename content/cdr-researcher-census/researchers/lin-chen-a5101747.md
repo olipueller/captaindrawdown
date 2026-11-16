@@ -1,7 +1,7 @@
 ---
 title: "Lin Chen"
-description: "Lin Chen, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10629 by activity, 26 by citations). 51 publications, h-index 15, 1,927 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lin Chen, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 10665 by activity, 23 by citations). 51 publications, h-index 15, 1,927 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lin-chen-a5101747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanyang Technological University</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10629 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 26 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10665 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>1,927</td></tr>

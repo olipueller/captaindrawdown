@@ -1,7 +1,7 @@
 ---
 title: "Jean-François Mercure"
-description: "Jean-François Mercure, University of Exeter, United Kingdom. 193 publications, h-index 39, 7,390 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jean-François Mercure, University of Exeter, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 460 by activity, 32 by citations; Europe rank 207 by activity, 24 by citations). 193 publications, h-index 39, 7,390 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jean-francois-mercure-a5082655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Exeter</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 460 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 207 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
   <tr><th>Citations</th><td>7,390</td></tr>

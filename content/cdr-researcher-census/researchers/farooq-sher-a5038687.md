@@ -1,7 +1,7 @@
 ---
 title: "Farooq Sher"
-description: "Farooq Sher, Nottingham Trent University, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 500 by activity, 87 by citations; Europe rank 283 by activity, 33 by citations). 344 publications, h-index 79, 16,624 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Farooq Sher, Nottingham Trent University, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 510 by activity, 96 by citations; Europe rank 289 by activity, 39 by citations). 344 publications, h-index 79, 16,624 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/farooq-sher-a5038687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nottingham Trent University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 500 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 283 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 510 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 96 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 289 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>79</td></tr>
   <tr><th>Citations</th><td>16,624</td></tr>

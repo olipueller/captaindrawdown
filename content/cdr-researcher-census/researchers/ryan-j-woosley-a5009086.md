@@ -1,7 +1,7 @@
 ---
 title: "Ryan J. Woosley"
-description: "Ryan J. Woosley, Massachusetts Institute of Technology, United States. 112 publications, h-index 21, 2,364 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ryan J. Woosley, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 211 by activity, 85 by citations). 112 publications, h-index 21, 2,364 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ryan-j-woosley-a5009086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Massachusetts Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 211 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,364</td></tr>

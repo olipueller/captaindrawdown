@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
-description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 69 by activity, 235 by citations). 308 publications, h-index 75, 28,226 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 80 by activity, 245 by citations). 308 publications, h-index 75, 28,226 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>New South Wales Department of Primary Industries</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 69 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 235 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 80 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 245 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>75</td></tr>
   <tr><th>Citations</th><td>28,226</td></tr>

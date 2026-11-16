@@ -1,7 +1,7 @@
 ---
 title: "Liam A. Bullock"
-description: "Liam A. Bullock, Instituto Geológico y Minero de España, Spain. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 33 by activity, 58 by citations; Europe rank 22 by activity, 42 by citations). 57 publications, h-index 16, 676 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Liam A. Bullock, Instituto Geológico y Minero de España, Spain. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 36 by activity, 69 by citations; Europe rank 24 by activity, 50 by citations). 57 publications, h-index 16, 676 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/liam-a-bullock-a5076444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto Geológico y Minero de España</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 33 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 58 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 42 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 36 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 50 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>676</td></tr>

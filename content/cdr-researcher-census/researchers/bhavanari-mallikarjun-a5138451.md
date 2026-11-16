@@ -1,7 +1,7 @@
 ---
 title: "Bhavanari Mallikarjun"
-description: "Bhavanari Mallikarjun, Manipal Academy of Higher Education, India. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 11 by activity, 2677 by citations). 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Bhavanari Mallikarjun, Manipal Academy of Higher Education, India. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 12 by activity, 2362 by citations). 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Manipal Academy of Higher Education</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 11 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2677 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 12 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2362 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>

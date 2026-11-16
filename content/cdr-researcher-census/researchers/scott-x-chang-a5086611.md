@@ -1,7 +1,7 @@
 ---
 title: "Scott X. Chang"
-description: "Scott X. Chang, University of Alberta, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 178 by activity, 98 by citations). 653 publications, h-index 99, 37,475 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Scott X. Chang, University of Alberta, Canada. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 199 by activity, 94 by citations). 653 publications, h-index 99, 37,475 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/scott-x-chang-a5086611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Alberta</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 178 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 98 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 199 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 94 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>99</td></tr>
   <tr><th>Citations</th><td>37,475</td></tr>

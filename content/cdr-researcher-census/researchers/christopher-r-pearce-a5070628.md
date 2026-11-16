@@ -1,7 +1,7 @@
 ---
 title: "Christopher R. Pearce"
-description: "Christopher R. Pearce, National Oceanography Centre, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 43 by activity, 44 by citations; Europe rank 29 by activity, 32 by citations). 117 publications, h-index 35, 4,619 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Christopher R. Pearce, National Oceanography Centre, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 52 by activity, 52 by citations; Europe rank 37 by activity, 39 by citations). 117 publications, h-index 35, 4,619 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Oceanography Centre</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 43 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 52 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>4,619</td></tr>

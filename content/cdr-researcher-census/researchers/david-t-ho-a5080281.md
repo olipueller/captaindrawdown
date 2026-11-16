@@ -1,7 +1,7 @@
 ---
 title: "David T. Ho"
-description: "David T. Ho, University of Hawaiʻi at Mānoa, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 10 by activity, 17 by citations), Cross-cutting CDR (worldwide rank 56 by activity, 387 by citations). 154 publications, h-index 40, 5,513 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "David T. Ho, University of Hawaiʻi at Mānoa, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 13 by activity, 12 by citations), Cross-cutting CDR (worldwide rank 66 by activity, 371 by citations). 154 publications, h-index 40, 5,513 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/david-t-ho-a5080281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Hawaiʻi at Mānoa</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 10 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 17 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 56 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 387 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 13 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 66 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 371 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>40</td></tr>
   <tr><th>Citations</th><td>5,513</td></tr>

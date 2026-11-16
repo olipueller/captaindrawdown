@@ -1,7 +1,7 @@
 ---
 title: "Alois Dirnaichner"
-description: "Alois Dirnaichner, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 3029 by activity, 19 by citations; Europe rank 746 by activity, 12 by citations), Cross-cutting CDR (worldwide rank 1140 by activity, 52 by citations; Europe rank 551 by activity, 38 by citations). 42 publications, h-index 17, 3,682 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Alois Dirnaichner, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 3299 by activity, 18 by citations; Europe rank 805 by activity, 11 by citations), Cross-cutting CDR (worldwide rank 1163 by activity, 54 by citations; Europe rank 573 by activity, 40 by citations). 42 publications, h-index 17, 3,682 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 3029 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 19 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 746 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 12 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1140 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 551 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 3299 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 805 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 1163 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 54 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 573 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>17</td></tr>
   <tr><th>Citations</th><td>3,682</td></tr>

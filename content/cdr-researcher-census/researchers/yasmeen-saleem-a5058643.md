@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
-description: "Yasmeen Saleem, University of Sargodha, Pakistan. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23852 by activity, 83 by citations). 11 publications, h-index 5, 626 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Yasmeen Saleem, University of Sargodha, Pakistan. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 24927 by activity, 83 by citations). 11 publications, h-index 5, 626 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sargodha</td></tr>
   <tr><th>Country</th><td>Pakistan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23852 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 24927 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 83 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>626</td></tr>

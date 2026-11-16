@@ -1,7 +1,7 @@
 ---
 title: "Will R. Turner"
-description: "Will R. Turner, Conservation International, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 90 by activity, 2578 by citations). 89 publications, h-index 34, 8,108 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Will R. Turner, Conservation International, United States. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 69 by activity, 2495 by citations). 89 publications, h-index 34, 8,108 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/will-r-turner-a5059333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Conservation International</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 90 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2578 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 69 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2495 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>8,108</td></tr>

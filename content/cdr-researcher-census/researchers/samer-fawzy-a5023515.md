@@ -1,7 +1,7 @@
 ---
 title: "Samer Fawzy"
-description: "Samer Fawzy, Queen's University Belfast, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 395 by activity, 8 by citations; Europe rank 82 by activity, 5 by citations), Cross-cutting CDR (worldwide rank 10631 by activity, 28 by citations; Europe rank 2867 by activity, 20 by citations). 30 publications, h-index 18, 7,655 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Samer Fawzy, Queen's University Belfast, United Kingdom. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 451 by activity, 8 by citations; Europe rank 92 by activity, 5 by citations), Cross-cutting CDR (worldwide rank 10667 by activity, 25 by citations; Europe rank 2883 by activity, 19 by citations). 30 publications, h-index 18, 7,655 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/samer-fawzy-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Queen's University Belfast</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 395 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 8 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 82 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 5 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10631 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2867 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 451 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 8 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 92 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 5 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10667 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2883 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>7,655</td></tr>

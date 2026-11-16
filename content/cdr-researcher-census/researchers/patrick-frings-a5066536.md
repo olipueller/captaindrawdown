@@ -1,7 +1,7 @@
 ---
 title: "Patrick Frings"
-description: "Patrick Frings, GFZ Helmholtz Centre for Geosciences, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 35 by activity, 202 by citations; Europe rank 24 by activity, 105 by citations). 109 publications, h-index 28, 2,151 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Patrick Frings, GFZ Helmholtz Centre for Geosciences, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 38 by activity, 148 by citations; Europe rank 26 by activity, 89 by citations). 109 publications, h-index 28, 2,151 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/patrick-frings-a5066536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GFZ Helmholtz Centre for Geosciences</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 35 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 202 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 105 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 38 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 148 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 89 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>2,151</td></tr>

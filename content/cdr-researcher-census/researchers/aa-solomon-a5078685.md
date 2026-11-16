@@ -1,7 +1,7 @@
 ---
 title: "A.A. Solomon"
-description: "A.A. Solomon, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10632 by activity, 64 by citations; Europe rank 2868 by activity, 49 by citations). 35 publications, h-index 21, 2,676 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "A.A. Solomon, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 10668 by activity, 64 by citations; Europe rank 2884 by activity, 50 by citations). 35 publications, h-index 21, 2,676 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/aa-solomon-a5078685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lappeenranta-Lahti University of Technology</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10632 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2868 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10668 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2884 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 50 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,676</td></tr>

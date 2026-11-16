@@ -1,7 +1,7 @@
 ---
 title: "Iñaki Adánez-Rubio"
-description: "Iñaki Adánez-Rubio, Instituto de Carboquímica, Spain. 71 publications, h-index 26, 2,267 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Iñaki Adánez-Rubio, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 91 by activity, 2098 by citations). 71 publications, h-index 26, 2,267 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/inaki-adanez-rubio-a5091714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto de Carboquímica</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 91 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2098 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>2,267</td></tr>

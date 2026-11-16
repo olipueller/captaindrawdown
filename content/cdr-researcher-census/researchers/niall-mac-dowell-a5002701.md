@@ -1,7 +1,7 @@
 ---
 title: "Niall Mac Dowell"
-description: "Niall Mac Dowell, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 5 by activity, 30 by citations; Europe rank 5 by activity, 10 by citations), DAC (worldwide rank 39 by activity, 218 by citations; Europe rank 21 by activity, 112 by citations), Cross-cutting CDR (worldwide rank 35 by activity, 86 by citations; Europe rank 23 by activity, 62 by citations). 215 publications, h-index 58, 20,858 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Niall Mac Dowell, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 7 by activity, 5 by citations; Europe rank 7 by activity, 4 by citations), DAC (worldwide rank 23 by activity, 222 by citations; Europe rank 16 by activity, 111 by citations), Cross-cutting CDR (worldwide rank 35 by activity, 90 by citations; Europe rank 23 by activity, 68 by citations). 215 publications, h-index 58, 20,858 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Imperial College London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 5 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 5 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 10 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 39 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 218 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 112 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 35 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 62 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 7 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 4 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 23 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 222 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 16 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 111 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 35 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 68 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>58</td></tr>
   <tr><th>Citations</th><td>20,858</td></tr>

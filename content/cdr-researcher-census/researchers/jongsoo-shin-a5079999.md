@@ -1,7 +1,7 @@
 ---
 title: "Jongsoo Shin"
-description: "Jongsoo Shin, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 61 by activity, 259 by citations). 71 publications, h-index 19, 1,080 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jongsoo Shin, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 69 by activity, 250 by citations). 71 publications, h-index 19, 1,080 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jongsoo-shin-a5079999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 61 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 259 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 69 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 250 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>19</td></tr>
   <tr><th>Citations</th><td>1,080</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Ram L. Ray"
-description: "Ram L. Ray, Prairie View A&M University, United States. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 56 by activity, 1156 by citations). 214 publications, h-index 32, 6,299 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ram L. Ray, Prairie View A&M University, United States. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 64 by activity, 861 by citations). 214 publications, h-index 32, 6,299 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ram-l-ray-a5085883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Prairie View A&M University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 56 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1156 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 64 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 861 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>6,299</td></tr>

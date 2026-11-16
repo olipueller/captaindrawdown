@@ -1,7 +1,7 @@
 ---
 title: "Graeme Puxty"
-description: "Graeme Puxty, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 25 by activity, 810 by citations). 154 publications, h-index 38, 10,026 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Graeme Puxty, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 32 by activity, 840 by citations). 154 publications, h-index 38, 10,026 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/graeme-puxty-a5088038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Commonwealth Scientific and Industrial Research Organisation</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 25 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 810 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 32 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 840 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>10,026</td></tr>

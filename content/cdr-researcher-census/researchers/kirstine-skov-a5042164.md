@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
-description: "Kirstine Skov, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 32 by activity, 2054 by citations; Europe rank 21 by activity, 576 by citations). 48 publications, h-index 11, 604 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Kirstine Skov, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 29 by activity, 1954 by citations; Europe rank 20 by activity, 570 by citations). 48 publications, h-index 11, 604 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>UNDO Carbon Ltd</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 32 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2054 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 21 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 576 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 29 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1954 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 20 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 570 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>604</td></tr>

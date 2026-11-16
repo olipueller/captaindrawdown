@@ -1,7 +1,7 @@
 ---
 title: "Christoph Bertram"
-description: "Christoph Bertram, University of Maryland, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 827 by activity, 45 by citations). 113 publications, h-index 41, 9,557 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Christoph Bertram, University of Maryland, United States. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 853 by activity, 52 by citations). 113 publications, h-index 41, 9,557 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/christoph-bertram-a5001104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Maryland</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 827 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 853 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>41</td></tr>
   <tr><th>Citations</th><td>9,557</td></tr>

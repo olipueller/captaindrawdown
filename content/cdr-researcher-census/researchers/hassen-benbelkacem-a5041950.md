@@ -1,7 +1,7 @@
 ---
 title: "Hassen Benbelkacem"
-description: "Hassen Benbelkacem, Institut National des Sciences Appliquées de Lyon, France. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 3020 by activity, 37 by citations). 81 publications, h-index 26, 1,905 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hassen Benbelkacem, Institut National des Sciences Appliquées de Lyon, France. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 3123 by activity, 36 by citations). 81 publications, h-index 26, 1,905 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hassen-benbelkacem-a5041950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Institut National des Sciences Appliquées de Lyon</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 3020 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 3123 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>1,905</td></tr>

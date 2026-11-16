@@ -1,7 +1,7 @@
 ---
 title: "Tom Reershemius"
-description: "Tom Reershemius, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 14 by activity, 78 by citations; Europe rank 10 by activity, 54 by citations). 38 publications, h-index 10, 645 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tom Reershemius, Newcastle University, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 12 by activity, 53 by citations; Europe rank 9 by activity, 40 by citations). 38 publications, h-index 10, 645 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Newcastle University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 14 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 54 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 12 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 53 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 40 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>645</td></tr>

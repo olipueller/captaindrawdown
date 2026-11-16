@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
-description: "Fabrice Pernet, Ifremer Centre de Bretagne, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 54 by activity, 1814 by citations; Europe rank 33 by activity, 553 by citations). 197 publications, h-index 46, 5,248 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Fabrice Pernet, Ifremer Centre de Bretagne, France. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 61 by activity, 1933 by citations; Europe rank 38 by activity, 626 by citations). 197 publications, h-index 46, 5,248 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ifremer Centre de Bretagne</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 54 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1814 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 33 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 553 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 61 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 1933 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 626 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>46</td></tr>
   <tr><th>Citations</th><td>5,248</td></tr>

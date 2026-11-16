@@ -1,7 +1,7 @@
 ---
 title: "Simon H. Pang"
-description: "Simon H. Pang, Lawrence Livermore National Laboratory, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 47 by activity, 1098 by citations). 93 publications, h-index 28, 3,476 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Simon H. Pang, Lawrence Livermore National Laboratory, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 39 by activity, 1093 by citations). 93 publications, h-index 28, 3,476 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/simon-h-pang-a5037709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lawrence Livermore National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 47 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1098 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 39 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1093 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>3,476</td></tr>

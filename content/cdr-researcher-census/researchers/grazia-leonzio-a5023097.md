@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
-description: "Grazia Leonzio, University of Cagliari, Italy. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 43 by activity, 158 by citations; Europe rank 23 by activity, 81 by citations). 89 publications, h-index 29, 2,450 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Grazia Leonzio, University of Cagliari, Italy. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 50 by activity, 164 by citations; Europe rank 26 by activity, 82 by citations). 89 publications, h-index 29, 2,450 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Cagliari</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 43 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 158 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 81 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 50 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 164 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 82 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>2,450</td></tr>

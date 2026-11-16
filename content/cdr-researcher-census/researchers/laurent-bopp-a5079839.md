@@ -1,7 +1,7 @@
 ---
 title: "Laurent Bopp"
-description: "Laurent Bopp, IPSL, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 28 by activity, 45 by citations; Europe rank 17 by activity, 23 by citations). 653 publications, h-index 116, 80,641 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Laurent Bopp, IPSL, France. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 36 by activity, 29 by citations; Europe rank 23 by activity, 14 by citations). 653 publications, h-index 116, 80,641 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/laurent-bopp-a5079839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>IPSL</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 28 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 36 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 29 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 23 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>116</td></tr>
   <tr><th>Citations</th><td>80,641</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Anna P. M. Michel"
-description: "Anna P. M. Michel, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 61 by activity, 831 by citations). 154 publications, h-index 23, 1,960 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Anna P. M. Michel, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 69 by activity, 722 by citations). 154 publications, h-index 23, 1,960 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 61 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 831 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 69 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 722 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>1,960</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Rachel Silcox"
-description: "Rachel Silcox, University of Michigan, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 82 by activity, 2010 by citations). 24 publications, h-index 5, 104 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Rachel Silcox, University of Michigan, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 89 by activity, 2087 by citations). 24 publications, h-index 5, 104 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/rachel-silcox-a5014181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Michigan</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 82 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2010 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 89 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2087 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>104</td></tr>

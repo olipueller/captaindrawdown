@@ -4,13 +4,13 @@ description: "Read-only JSON API for the Captain Drawdown datasets: companies, r
 url: "/api/"
 ---
 
-Read-only JSON, served as static files: no key, no sign-up. Every response carries `version`, `as_of`, `license` and `cite_as`. Current release **2026-11** (2026-11-15), 926 files.
+Read-only JSON, served as static files: no key, no sign-up. Every response carries `version`, `as_of`, `license` and `cite_as`. Current release **2026-11.5** (2026-11-16), 1,077 files.
 
 | Endpoint | What you get |
 |---|---|
 | [`/api/v1/index.json`](/api/v1/index.json) | endpoints, version, licences, citation |
 | [`/api/v1/stats.json`](/api/v1/stats.json) | headline numbers |
-| [`/api/v1/companies.json`](/api/v1/companies.json) | all 911 published companies |
+| [`/api/v1/companies.json`](/api/v1/companies.json) | all 1,062 published companies |
 | `/api/v1/companies/{slug}.json` | one company, e.g. [`climeworks`](/api/v1/companies/climeworks.json) |
 | [`/api/v1/countries.json`](/api/v1/countries.json) · [`/api/v1/pathways.json`](/api/v1/pathways.json) | companies per country and per pathway |
 | [`/api/v1/researchers/by-country.json`](/api/v1/researchers/by-country.json) · [`by-pathway.json`](/api/v1/researchers/by-pathway.json) | listed researchers with the calibrated estimate |

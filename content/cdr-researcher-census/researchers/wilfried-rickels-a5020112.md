@@ -1,7 +1,7 @@
 ---
 title: "Wilfried Rickels"
-description: "Wilfried Rickels, Kiel Institute for the World Economy, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 14 by activity, 280 by citations; Europe rank 9 by activity, 104 by citations), Cross-cutting CDR (worldwide rank 39 by activity, 574 by citations; Europe rank 26 by activity, 276 by citations). 175 publications, h-index 28, 2,484 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Wilfried Rickels, Kiel Institute for the World Economy, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 12 by activity, 279 by citations; Europe rank 9 by activity, 111 by citations), Cross-cutting CDR (worldwide rank 41 by activity, 497 by citations; Europe rank 29 by activity, 253 by citations). 175 publications, h-index 28, 2,484 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/wilfried-rickels-a5020112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Kiel Institute for the World Economy</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 14 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 280 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 104 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 39 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 574 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 276 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 12 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 279 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 111 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 41 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 497 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 253 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>2,484</td></tr>

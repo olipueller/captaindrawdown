@@ -1,7 +1,7 @@
 ---
 title: "Emilio Borrego-Marin"
-description: "Emilio Borrego-Marin, Universidad de Granada, Spain. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4130 by activity, 76 by citations; Europe rank 1078 by activity, 36 by citations). 22 publications, h-index 5, 357 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Emilio Borrego-Marin, Universidad de Granada, Spain. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 4419 by activity, 76 by citations; Europe rank 1120 by activity, 34 by citations). 22 publications, h-index 5, 357 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Granada</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 4130 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1078 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 4419 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1120 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>357</td></tr>

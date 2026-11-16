@@ -1,7 +1,7 @@
 ---
 title: "Mario Hoppema"
-description: "Mario Hoppema, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. 620 publications, h-index 53, 17,723 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Mario Hoppema, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (Europe rank 367 by activity, 49 by citations). 620 publications, h-index 53, 17,723 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mario-hoppema-a5079477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 367 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 49 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>17,723</td></tr>

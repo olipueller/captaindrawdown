@@ -1,7 +1,7 @@
 ---
 title: "Luke Gregor"
-description: "Luke Gregor, Swiss Data Science Center, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4390 by activity, 44 by citations; Europe rank 1254 by activity, 22 by citations). 157 publications, h-index 28, 13,221 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Luke Gregor, Swiss Data Science Center, Switzerland. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 4438 by activity, 36 by citations; Europe rank 1241 by activity, 19 by citations). 157 publications, h-index 28, 13,221 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/luke-gregor-a5068433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Swiss Data Science Center</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4390 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1254 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 22 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4438 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 36 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1241 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>28</td></tr>
   <tr><th>Citations</th><td>13,221</td></tr>

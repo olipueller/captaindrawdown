@@ -1,7 +1,7 @@
 ---
 title: "M. I. A. Abdel Maksoud"
-description: "M. I. A. Abdel Maksoud, Egyptian Atomic Energy Authority, Egypt. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23848 by activity, 79 by citations). 79 publications, h-index 38, 6,117 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "M. I. A. Abdel Maksoud, Egyptian Atomic Energy Authority, Egypt. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 24923 by activity, 79 by citations). 79 publications, h-index 38, 6,117 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/m-i-a-abdel-maksoud-a5091701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Egyptian Atomic Energy Authority</td></tr>
   <tr><th>Country</th><td>Egypt</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23848 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 24923 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>38</td></tr>
   <tr><th>Citations</th><td>6,117</td></tr>

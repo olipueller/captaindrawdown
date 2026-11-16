@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
-description: "Raymond R. Tan, De La Salle University, Philippines. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 13 by activity, 556 by citations). 642 publications, h-index 68, 19,771 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Raymond R. Tan, De La Salle University, Philippines. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 14 by activity, 618 by citations). 642 publications, h-index 68, 19,771 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>De La Salle University</td></tr>
   <tr><th>Country</th><td>Philippines</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 13 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 556 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 14 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 618 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>68</td></tr>
   <tr><th>Citations</th><td>19,771</td></tr>

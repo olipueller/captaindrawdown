@@ -1,7 +1,7 @@
 ---
 title: "Farrukh Jamil"
-description: "Farrukh Jamil, COMSATS University Islamabad - Lahore Campus, Pakistan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3384 by activity, 23 by citations). 172 publications, h-index 46, 6,891 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Farrukh Jamil, COMSATS University Islamabad - Lahore Campus, Pakistan. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3454 by activity, 21 by citations). 172 publications, h-index 46, 6,891 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/farrukh-jamil-a5027227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>COMSATS University Islamabad - Lahore Campus</td></tr>
   <tr><th>Country</th><td>Pakistan</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3384 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3454 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 21 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>46</td></tr>
   <tr><th>Citations</th><td>6,891</td></tr>

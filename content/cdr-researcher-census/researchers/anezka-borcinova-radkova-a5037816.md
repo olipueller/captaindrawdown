@@ -1,7 +1,7 @@
 ---
 title: "Anežka Borčinová Radková"
-description: "Anežka Borčinová Radková. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 74 by activity, 2268 by citations). 23 publications, h-index 9, 331 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Anežka Borčinová Radková. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 88 by activity, 1958 by citations). 23 publications, h-index 9, 331 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,7 +20,7 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 74 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 2268 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 88 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1958 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>9</td></tr>
   <tr><th>Citations</th><td>331</td></tr>

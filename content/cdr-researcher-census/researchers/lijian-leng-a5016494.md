@@ -1,7 +1,7 @@
 ---
 title: "Lijian Leng"
-description: "Lijian Leng, Central South University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 527 by activity, 67 by citations). 225 publications, h-index 68, 18,452 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Lijian Leng, Central South University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 591 by activity, 73 by citations). 225 publications, h-index 68, 18,452 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lijian-leng-a5016494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Central South University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 527 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 67 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 591 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>68</td></tr>
   <tr><th>Citations</th><td>18,452</td></tr>

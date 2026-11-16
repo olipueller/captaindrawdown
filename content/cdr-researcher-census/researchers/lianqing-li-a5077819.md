@@ -1,7 +1,7 @@
 ---
 title: "Lianqing Li"
-description: "Lianqing Li, Nanjing Agricultural University, China. 409 publications, h-index 68, 18,057 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Lianqing Li, Nanjing Agricultural University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 82 by activity, 450 by citations). 409 publications, h-index 68, 18,057 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lianqing-li-a5077819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nanjing Agricultural University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 82 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 450 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>68</td></tr>
   <tr><th>Citations</th><td>18,057</td></tr>

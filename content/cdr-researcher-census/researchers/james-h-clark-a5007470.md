@@ -1,7 +1,7 @@
 ---
 title: "James H. Clark"
-description: "James H. Clark, University of York, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 2237 by activity, 52 by citations; Europe rank 849 by activity, 20 by citations). 974 publications, h-index 108, 48,821 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "James H. Clark, University of York, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 2307 by activity, 61 by citations; Europe rank 859 by activity, 25 by citations). 974 publications, h-index 108, 48,821 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/james-h-clark-a5007470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of York</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2237 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 849 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 2307 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 61 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 859 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>108</td></tr>
   <tr><th>Citations</th><td>48,821</td></tr>

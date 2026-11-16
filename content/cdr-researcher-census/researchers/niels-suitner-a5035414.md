@@ -1,7 +1,7 @@
 ---
 title: "Niels Suitner"
-description: "Niels Suitner, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 45 by activity, 56 by citations; Europe rank 27 by activity, 28 by citations). 24 publications, h-index 6, 363 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Niels Suitner, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 54 by activity, 37 by citations; Europe rank 34 by activity, 20 by citations). 24 publications, h-index 6, 363 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/niels-suitner-a5035414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 45 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 56 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 28 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 54 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 20 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>363</td></tr>

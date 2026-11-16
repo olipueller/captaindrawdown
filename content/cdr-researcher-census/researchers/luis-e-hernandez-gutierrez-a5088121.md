@@ -1,7 +1,7 @@
 ---
 title: "Luis E. Hernández Gutiérrez"
-description: "Luis E. Hernández Gutiérrez, Instituto Volcanológico de Canarias, Spain. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 95 by activity, 2562 by citations; Europe rank 35 by activity, 789 by citations). 92 publications, h-index 10, 376 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Luis E. Hernández Gutiérrez, Instituto Volcanológico de Canarias, Spain. CDR Researcher Census top lists (2026-11): DAC (Europe rank 44 by activity, 912 by citations). 92 publications, h-index 10, 376 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/luis-e-hernandez-gutierrez-a5088121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Instituto Volcanológico de Canarias</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 95 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2562 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 789 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 44 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 912 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>376</td></tr>

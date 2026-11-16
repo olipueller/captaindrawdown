@@ -1,7 +1,7 @@
 ---
 title: "Weihong Yang"
-description: "Weihong Yang, KTH Royal Institute of Technology, Sweden. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 296 by activity, 43 by citations; Europe rank 175 by activity, 16 by citations). 328 publications, h-index 59, 11,354 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Weihong Yang, KTH Royal Institute of Technology, Sweden. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 308 by activity, 50 by citations; Europe rank 181 by activity, 19 by citations). 328 publications, h-index 59, 11,354 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/weihong-yang-a5052836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>KTH Royal Institute of Technology</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 296 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 43 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 175 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 16 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 308 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 50 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 181 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>59</td></tr>
   <tr><th>Citations</th><td>11,354</td></tr>

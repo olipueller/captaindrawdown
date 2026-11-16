@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
-description: "Ryan P. Lively, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 35 by activity, 165 by citations). 309 publications, h-index 65, 20,240 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ryan P. Lively, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 44 by activity, 185 by citations). 309 publications, h-index 65, 20,240 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Georgia Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 35 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 165 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 44 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 185 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>65</td></tr>
   <tr><th>Citations</th><td>20,240</td></tr>

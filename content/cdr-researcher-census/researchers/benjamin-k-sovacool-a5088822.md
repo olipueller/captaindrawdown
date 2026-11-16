@@ -1,7 +1,7 @@
 ---
 title: "Benjamin K. Sovacool"
-description: "Benjamin K. Sovacool, Boston University, United States. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 10 by activity, 3 by citations), DAC (worldwide rank 10 by activity, 14 by citations). 1071 publications, h-index 144, 78,861 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Benjamin K. Sovacool, Boston University, United States. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 10 by activity, 6 by citations), DAC (worldwide rank 13 by activity, 9 by citations). 1071 publications, h-index 144, 78,861 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Boston University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 10 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 14 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 10 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 6 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 13 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 9 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>144</td></tr>
   <tr><th>Citations</th><td>78,861</td></tr>

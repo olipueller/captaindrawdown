@@ -1,7 +1,7 @@
 ---
 title: "L. Khajehnoori"
-description: "L. Khajehnoori, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 83 by activity, 3455 by citations; Europe rank 32 by activity, 988 by citations). 4 publications, h-index 1, 1 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "L. Khajehnoori, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 98 by activity, 3168 by citations; Europe rank 40 by activity, 911 by citations). 4 publications, h-index 1, 1 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/l-khajehnoori-a5140697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Lancashire</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 83 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3455 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 988 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 98 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3168 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 40 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 911 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>1</td></tr>

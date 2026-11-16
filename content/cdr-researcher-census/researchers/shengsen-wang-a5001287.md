@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
-description: "Shengsen Wang, Yangzhou University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 35 by activity, 104 by citations). 151 publications, h-index 53, 11,555 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Shengsen Wang, Yangzhou University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 38 by activity, 109 by citations). 151 publications, h-index 53, 11,555 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yangzhou University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 35 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 104 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 38 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 109 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>11,555</td></tr>

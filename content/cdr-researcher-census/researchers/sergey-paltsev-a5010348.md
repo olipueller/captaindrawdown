@@ -1,7 +1,7 @@
 ---
 title: "Sergey Paltsev"
-description: "Sergey Paltsev, Massachusetts Institute of Technology, United States. 381 publications, h-index 60, 12,367 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Sergey Paltsev, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 163 by activity, 41 by citations). 381 publications, h-index 60, 12,367 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sergey-paltsev-a5010348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Massachusetts Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 163 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 41 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>60</td></tr>
   <tr><th>Citations</th><td>12,367</td></tr>

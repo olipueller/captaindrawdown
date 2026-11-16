@@ -1,7 +1,7 @@
 ---
 title: "Patrik Postweiler"
-description: "Patrik Postweiler, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 13 by activity, 271 by citations; Europe rank 11 by activity, 134 by citations). 28 publications, h-index 6, 135 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Patrik Postweiler, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 15 by activity, 264 by citations; Europe rank 12 by activity, 128 by citations). 28 publications, h-index 6, 135 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/patrik-postweiler-a5056523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 13 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 271 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 134 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 15 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 264 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 128 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>135</td></tr>

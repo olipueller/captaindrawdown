@@ -1,7 +1,7 @@
 ---
 title: "Lina Röschel"
-description: "Lina Röschel, Research Institute for Sustainability at GFZ, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 66 by activity, 968 by citations; Europe rank 39 by activity, 319 by citations). 32 publications, h-index 7, 442 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lina Röschel, Research Institute for Sustainability at GFZ, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 28 by activity, 704 by citations; Europe rank 17 by activity, 256 by citations). 32 publications, h-index 7, 442 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lina-roschel-a5025340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Research Institute for Sustainability at GFZ</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 66 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 968 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 319 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 28 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 704 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 256 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>442</td></tr>

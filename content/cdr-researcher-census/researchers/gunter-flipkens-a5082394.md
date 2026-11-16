@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
-description: "Gunter Flipkens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (Europe rank 205 by activity, 44 by citations), Enhanced Weathering (worldwide rank 573 by activity, 85 by citations). 16 publications, h-index 5, 215 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Gunter Flipkens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 627 by activity, 92 by citations). 16 publications, h-index 5, 215 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 205 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 573 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 627 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>215</td></tr>

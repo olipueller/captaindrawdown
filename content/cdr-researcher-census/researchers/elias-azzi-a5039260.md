@@ -1,7 +1,7 @@
 ---
 title: "Elias Azzi"
-description: "Elias Azzi, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 47 by activity, 129 by citations; Europe rank 15 by activity, 25 by citations). 32 publications, h-index 14, 873 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Elias Azzi, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 53 by activity, 114 by citations; Europe rank 17 by activity, 21 by citations). 32 publications, h-index 14, 873 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/elias-azzi-a5039260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Swedish University of Agricultural Sciences</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 47 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 129 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 15 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 53 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 114 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 21 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>873</td></tr>

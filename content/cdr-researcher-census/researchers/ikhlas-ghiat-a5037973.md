@@ -1,7 +1,7 @@
 ---
 title: "Ikhlas Ghiat"
-description: "Ikhlas Ghiat, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3809 by activity, 39 by citations). 32 publications, h-index 12, 1,342 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ikhlas Ghiat, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3878 by activity, 46 by citations). 32 publications, h-index 12, 1,342 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
   <tr><th>Country</th><td>Qatar</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3809 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 39 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3878 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>12</td></tr>
   <tr><th>Citations</th><td>1,342</td></tr>

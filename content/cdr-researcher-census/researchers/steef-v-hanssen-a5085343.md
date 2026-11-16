@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
-description: "Steef V. Hanssen, Radboud University Nijmegen, Netherlands. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 50 by activity, 528 by citations; Europe rank 35 by activity, 226 by citations). 44 publications, h-index 18, 2,553 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Steef V. Hanssen, Radboud University Nijmegen, Netherlands. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 57 by activity, 520 by citations; Europe rank 39 by activity, 231 by citations). 44 publications, h-index 18, 2,553 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Radboud University Nijmegen</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 50 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 528 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 226 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 57 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 520 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 231 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>2,553</td></tr>

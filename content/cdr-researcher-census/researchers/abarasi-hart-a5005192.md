@@ -1,7 +1,7 @@
 ---
 title: "Abarasi Hart"
-description: "Abarasi Hart, Aston University, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5383 by activity, 20 by citations; Europe rank 1479 by activity, 8 by citations). 95 publications, h-index 33, 3,427 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Abarasi Hart, Aston University, United Kingdom. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5403 by activity, 30 by citations; Europe rank 1466 by activity, 15 by citations). 95 publications, h-index 33, 3,427 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/abarasi-hart-a5005192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Aston University</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5383 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 20 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1479 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 8 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5403 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1466 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 15 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>3,427</td></tr>

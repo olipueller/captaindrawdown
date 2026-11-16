@@ -1,7 +1,7 @@
 ---
 title: "Oliver Geden"
-description: "Oliver Geden, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 9 by activity, 43 by citations; Europe rank 6 by activity, 31 by citations). 212 publications, h-index 35, 14,328 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Oliver Geden, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 4 by activity, 42 by citations; Europe rank 4 by activity, 32 by citations). 212 publications, h-index 35, 14,328 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/oliver-geden-a5016996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 9 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 43 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 4 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 42 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 4 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>14,328</td></tr>

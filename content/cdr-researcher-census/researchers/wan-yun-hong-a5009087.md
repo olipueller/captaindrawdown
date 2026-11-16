@@ -1,7 +1,7 @@
 ---
 title: "Wan Yun Hong"
-description: "Wan Yun Hong, Universiti Brunei Darussalam, BN. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 5484 by activity, 47 by citations). 13 publications, h-index 6, 738 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Wan Yun Hong, Universiti Brunei Darussalam, BN. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 5734 by activity, 46 by citations). 13 publications, h-index 6, 738 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/wan-yun-hong-a5009087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universiti Brunei Darussalam</td></tr>
   <tr><th>Country</th><td>BN</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 5484 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 47 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5734 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 46 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>738</td></tr>

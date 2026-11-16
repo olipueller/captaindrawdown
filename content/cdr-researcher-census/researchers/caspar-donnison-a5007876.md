@@ -1,7 +1,7 @@
 ---
 title: "Caspar Donnison"
-description: "Caspar Donnison, Lawrence Livermore National Laboratory, United States. 15 publications, h-index 7, 343 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Caspar Donnison, Lawrence Livermore National Laboratory, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 283 by activity, 74 by citations). 15 publications, h-index 7, 343 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/caspar-donnison-a5007876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lawrence Livermore National Laboratory</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 283 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>343</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Asma Sarwer"
-description: "Asma Sarwer, COMSATS University Islamabad, Pakistan. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 3383 by activity, 22 by citations). 6 publications, h-index 4, 522 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Asma Sarwer, COMSATS University Islamabad, Pakistan. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 3453 by activity, 20 by citations). 6 publications, h-index 4, 522 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/asma-sarwer-a5000091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>COMSATS University Islamabad</td></tr>
   <tr><th>Country</th><td>Pakistan</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3383 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 22 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3453 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 20 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>522</td></tr>

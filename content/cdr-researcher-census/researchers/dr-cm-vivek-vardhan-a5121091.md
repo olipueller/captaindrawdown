@@ -1,7 +1,7 @@
 ---
 title: "Dr. C.M. Vivek Vardhan"
-description: "Dr. C.M. Vivek Vardhan. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 64 by activity, 20453 by citations), BECCS (worldwide rank 67 by activity, 2927 by citations). 7 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Dr. C.M. Vivek Vardhan. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 73 by activity, 21452 by citations), BECCS (worldwide rank 74 by activity, 3097 by citations). 7 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,8 +20,8 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 64 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 20453 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 67 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2927 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 73 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 21452 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 74 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3097 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>n/a</td></tr>
   <tr><th>Citations</th><td>0</td></tr>

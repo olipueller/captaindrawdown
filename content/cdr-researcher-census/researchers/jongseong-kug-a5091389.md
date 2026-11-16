@@ -1,7 +1,7 @@
 ---
 title: "Jong‐Seong Kug"
-description: "Jong‐Seong Kug, Seoul National University, South Korea. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 27 by activity, 178 by citations). 543 publications, h-index 65, 22,032 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jong‐Seong Kug, Seoul National University, South Korea. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 28 by activity, 154 by citations). 543 publications, h-index 65, 22,032 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jongseong-kug-a5091389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Seoul National University</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 27 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 178 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 154 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>65</td></tr>
   <tr><th>Citations</th><td>22,032</td></tr>

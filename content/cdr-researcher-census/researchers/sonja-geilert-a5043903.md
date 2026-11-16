@@ -1,7 +1,7 @@
 ---
 title: "Sonja Geilert"
-description: "Sonja Geilert, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 56 by activity, 69 by citations; Europe rank 34 by activity, 31 by citations), Enhanced Weathering (worldwide rank 103 by activity, 45 by citations; Europe rank 67 by activity, 33 by citations). 88 publications, h-index 23, 1,639 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Sonja Geilert, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 48 by activity, 42 by citations; Europe rank 29 by activity, 23 by citations), Enhanced Weathering (worldwide rank 98 by activity, 49 by citations; Europe rank 60 by activity, 37 by citations). 88 publications, h-index 23, 1,639 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/sonja-geilert-a5043903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utrecht University</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 56 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 69 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 103 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 67 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 48 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 42 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 98 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 49 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 60 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>1,639</td></tr>

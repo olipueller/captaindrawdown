@@ -1,7 +1,7 @@
 ---
 title: "G. Philip Robertson"
-description: "G. Philip Robertson, Michigan State University, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 92 by activity, 801 by citations). 458 publications, h-index 101, 42,072 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "G. Philip Robertson, Michigan State University, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 97 by activity, 890 by citations). 458 publications, h-index 101, 42,072 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/g-philip-robertson-a5049194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Michigan State University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 92 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 801 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 97 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 890 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>101</td></tr>
   <tr><th>Citations</th><td>42,072</td></tr>

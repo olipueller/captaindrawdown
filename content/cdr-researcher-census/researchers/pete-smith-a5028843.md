@@ -1,7 +1,7 @@
 ---
 title: "Pete Smith"
-description: "Pete Smith, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 39 by activity, 95 by citations; Europe rank 26 by activity, 37 by citations), Biochar (Europe rank 29 by activity, 35 by citations). 1254 publications, h-index 177, 135,884 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Pete Smith, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 69 by activity, 176 by citations; Europe rank 22 by activity, 34 by citations), BECCS (worldwide rank 46 by activity, 106 by citations; Europe rank 30 by activity, 46 by citations). 1254 publications, h-index 177, 135,884 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/pete-smith-a5028843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Aberdeen</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 39 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 26 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 37 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 29 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 69 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 176 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 22 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 46 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 106 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>177</td></tr>
   <tr><th>Citations</th><td>135,884</td></tr>

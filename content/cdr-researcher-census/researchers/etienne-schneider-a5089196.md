@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
-description: "Etienne Schneider, University of Vienna, Austria. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 92 by activity, 733 by citations). 41 publications, h-index 13, 746 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Etienne Schneider, University of Vienna, Austria. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 96 by activity, 597 by citations). 41 publications, h-index 13, 746 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Vienna</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 92 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 733 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 96 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 597 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>746</td></tr>

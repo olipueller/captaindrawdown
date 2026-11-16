@@ -1,7 +1,7 @@
 ---
 title: "Hailong Li"
-description: "Hailong Li, Mälardalen University, Sweden. 457 publications, h-index 75, 21,306 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Hailong Li, Mälardalen University, Sweden. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 41 by activity, 654 by citations; Europe rank 27 by activity, 280 by citations). 457 publications, h-index 75, 21,306 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hailong-li-a5100440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Mälardalen University</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 41 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 654 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 280 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>75</td></tr>
   <tr><th>Citations</th><td>21,306</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Snežana Maletić"
-description: "Snežana Maletić, University of Novi Sad, Serbia. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 33 by activity, 1065 by citations; Europe rank 12 by activity, 127 by citations). 159 publications, h-index 27, 2,763 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Snežana Maletić, University of Novi Sad, Serbia. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 36 by activity, 876 by citations; Europe rank 12 by activity, 110 by citations). 159 publications, h-index 27, 2,763 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/snezana-maletic-a5001570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Novi Sad</td></tr>
   <tr><th>Country</th><td>Serbia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 33 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 1065 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 127 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 36 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 876 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 12 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 110 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>27</td></tr>
   <tr><th>Citations</th><td>2,763</td></tr>

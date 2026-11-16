@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
-description: "Maria Val Martin, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 114 by activity, 35 by citations; Europe rank 74 by activity, 25 by citations). 139 publications, h-index 36, 7,719 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Maria Val Martin, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 132 by activity, 34 by citations; Europe rank 81 by activity, 26 by citations). 139 publications, h-index 36, 7,719 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Sheffield</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 114 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 74 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 25 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 132 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 34 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 81 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 26 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>7,719</td></tr>

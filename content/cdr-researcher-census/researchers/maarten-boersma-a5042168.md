@@ -1,7 +1,7 @@
 ---
 title: "Maarten Boersma"
-description: "Maarten Boersma, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 37 by activity, 735 by citations; Europe rank 24 by activity, 253 by citations). 499 publications, h-index 49, 9,625 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Maarten Boersma, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 44 by activity, 685 by citations; Europe rank 27 by activity, 255 by citations). 499 publications, h-index 49, 9,625 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/maarten-boersma-a5042168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 37 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 735 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 253 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 44 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 685 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 27 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 255 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>49</td></tr>
   <tr><th>Citations</th><td>9,625</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
-description: "Ingrid Smet, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 63 by activity, 1837 by citations; Europe rank 45 by activity, 521 by citations). 32 publications, h-index 8, 269 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ingrid Smet, Carbon Drawdown Initiative, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 41 by activity, 1672 by citations; Europe rank 29 by activity, 490 by citations). 32 publications, h-index 8, 269 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 63 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1837 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 521 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 41 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1672 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 29 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 490 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>269</td></tr>

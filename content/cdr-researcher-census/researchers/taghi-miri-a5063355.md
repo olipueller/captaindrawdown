@@ -1,7 +1,7 @@
 ---
 title: "Taghi Miri"
-description: "Taghi Miri, University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 5387 by activity, 24 by citations; Europe rank 1482 by activity, 11 by citations). 99 publications, h-index 34, 4,513 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Taghi Miri, University of Birmingham, United Kingdom. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5407 by activity, 34 by citations; Europe rank 1469 by activity, 18 by citations). 99 publications, h-index 34, 4,513 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/taghi-miri-a5063355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Birmingham</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5387 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1482 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5407 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 34 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1469 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>4,513</td></tr>

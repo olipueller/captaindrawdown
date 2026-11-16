@@ -1,7 +1,7 @@
 ---
 title: "Mirko Engelpracht"
-description: "Mirko Engelpracht, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 98 by activity, 285 by citations; Europe rank 38 by activity, 142 by citations). 39 publications, h-index 8, 197 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Mirko Engelpracht, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 65 by activity, 278 by citations; Europe rank 32 by activity, 135 by citations). 39 publications, h-index 8, 197 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 98 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 285 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 142 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 65 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 278 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 135 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>197</td></tr>

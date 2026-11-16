@@ -1,7 +1,7 @@
 ---
 title: "Balal Yousaf"
-description: "Balal Yousaf, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): Biochar (Europe rank 31 by activity, 29 by citations). 169 publications, h-index 62, 10,258 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Balal Yousaf, Silesian University of Technology, Poland. CDR Researcher Census top lists (2026-11): Biochar (Europe rank 33 by activity, 32 by citations). 169 publications, h-index 62, 10,258 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/balal-yousaf-a5026803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Silesian University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>Europe: rank 31 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 29 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>Europe: rank 33 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>62</td></tr>
   <tr><th>Citations</th><td>10,258</td></tr>

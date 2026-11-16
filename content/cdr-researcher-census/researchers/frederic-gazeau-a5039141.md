@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Gazeau"
-description: "Frédéric Gazeau, CNRS Délégation Régionale Côte d'Azur, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 68 by activity, 833 by citations; Europe rank 41 by activity, 271 by citations). 234 publications, h-index 35, 6,272 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Frédéric Gazeau, CNRS Délégation Régionale Côte d'Azur, France. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 76 by activity, 762 by citations; Europe rank 46 by activity, 266 by citations). 234 publications, h-index 35, 6,272 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/frederic-gazeau-a5039141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CNRS Délégation Régionale Côte d'Azur</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 68 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 833 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 41 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 271 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 76 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 762 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 266 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>35</td></tr>
   <tr><th>Citations</th><td>6,272</td></tr>

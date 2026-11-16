@@ -1,7 +1,7 @@
 ---
 title: "Olivia Hawrot"
-description: "Olivia Hawrot. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 234 by activity, 67 by citations; Europe rank 92 by activity, 34 by citations), Ocean CDR (worldwide rank 1065 by activity, 75 by citations; Europe rank 452 by activity, 35 by citations). 11 publications, h-index 7, 540 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Olivia Hawrot. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 267 by activity, 64 by citations), Ocean CDR (worldwide rank 1092 by activity, 74 by citations). 11 publications, h-index 7, 540 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/olivia-hawrot-a5085624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,8 +20,8 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 234 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 67 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 92 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 34 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1065 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 75 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 452 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 35 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 267 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 1092 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 74 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>540</td></tr>

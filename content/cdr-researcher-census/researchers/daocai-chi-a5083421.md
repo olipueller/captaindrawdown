@@ -1,7 +1,7 @@
 ---
 title: "Daocai Chi"
-description: "Daocai Chi, Shenyang Agricultural University, China. 122 publications, h-index 29, 2,124 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Daocai Chi, Shenyang Agricultural University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 93 by activity, 712 by citations). 122 publications, h-index 29, 2,124 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/daocai-chi-a5083421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Shenyang Agricultural University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 93 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 712 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>2,124</td></tr>

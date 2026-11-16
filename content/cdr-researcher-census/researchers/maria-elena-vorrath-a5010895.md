@@ -1,7 +1,7 @@
 ---
 title: "Maria-Elena Vorrath"
-description: "Maria-Elena Vorrath, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 27 by activity, 6863 by citations; Europe rank 9 by activity, 959 by citations), Enhanced Weathering (worldwide rank 47 by activity, 844 by citations; Europe rank 32 by activity, 253 by citations). 64 publications, h-index 13, 467 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Maria-Elena Vorrath, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 31 by activity, 6079 by citations; Europe rank 10 by activity, 824 by citations), Enhanced Weathering (worldwide rank 48 by activity, 691 by citations; Europe rank 35 by activity, 230 by citations). 64 publications, h-index 13, 467 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universität Hamburg</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 27 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 6863 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 959 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 47 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 844 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 32 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 253 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 31 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 6079 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 824 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 48 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 691 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 35 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 230 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>467</td></tr>

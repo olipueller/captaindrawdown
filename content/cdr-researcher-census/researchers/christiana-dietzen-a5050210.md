@@ -1,7 +1,7 @@
 ---
 title: "Christiana Dietzen"
-description: "Christiana Dietzen, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 44 by activity, 165 by citations; Europe rank 30 by activity, 88 by citations). 31 publications, h-index 7, 352 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Christiana Dietzen, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 37 by activity, 128 by citations; Europe rank 25 by activity, 82 by citations). 31 publications, h-index 7, 352 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/christiana-dietzen-a5050210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Copenhagen</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 44 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 165 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 30 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 88 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 37 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 128 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 25 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 82 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>352</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Jin Shang"
-description: "Jin Shang, City University of Hong Kong, Hong Kong. 181 publications, h-index 54, 9,476 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jin Shang, City University of Hong Kong, Hong Kong. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 83 by activity, 2447 by citations). 181 publications, h-index 54, 9,476 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jin-shang-a5054543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>City University of Hong Kong</td></tr>
   <tr><th>Country</th><td>Hong Kong</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 83 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2447 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>54</td></tr>
   <tr><th>Citations</th><td>9,476</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "G. Sailaja"
-description: "G. Sailaja, Muffakhamjah College of Engineering and Technology. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 68 by activity, 2928 by citations). 8 publications, h-index 1, 7 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "G. Sailaja, Muffakhamjah College of Engineering and Technology. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 75 by activity, 3098 by citations). 8 publications, h-index 1, 7 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/g-sailaja-a5132964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,7 @@ robots: "index, follow"
 <table class="company-facts cd-facts">
   <tr><th>Institution</th><td>Muffakhamjah College of Engineering and Technology</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 68 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2928 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 75 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3098 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>1</td></tr>
   <tr><th>Citations</th><td>7</td></tr>

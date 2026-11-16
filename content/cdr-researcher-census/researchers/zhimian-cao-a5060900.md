@@ -1,7 +1,7 @@
 ---
 title: "Zhimian Cao"
-description: "Zhimian Cao, Xiamen University, China. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4971 by activity, 66 by citations). 70 publications, h-index 23, 2,204 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Zhimian Cao, Xiamen University, China. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5020 by activity, 70 by citations). 70 publications, h-index 23, 2,204 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/zhimian-cao-a5060900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Xiamen University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4971 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 66 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5020 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 70 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>2,204</td></tr>

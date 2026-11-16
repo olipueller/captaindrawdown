@@ -1,7 +1,7 @@
 ---
 title: "Robert A. Holland"
-description: "Robert A. Holland, University of Southampton, United Kingdom. 57 publications, h-index 26, 3,868 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Robert A. Holland, University of Southampton, United Kingdom. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 1286 by activity, 92 by citations; Europe rank 551 by activity, 36 by citations). 57 publications, h-index 26, 3,868 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/robert-a-holland-a5049072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Southampton</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 1286 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 551 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>26</td></tr>
   <tr><th>Citations</th><td>3,868</td></tr>

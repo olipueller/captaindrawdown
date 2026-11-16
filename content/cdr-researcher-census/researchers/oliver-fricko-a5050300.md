@@ -1,7 +1,7 @@
 ---
 title: "Oliver Fricko"
-description: "Oliver Fricko, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 72 by activity, 2932 by citations; Europe rank 48 by activity, 1141 by citations). 124 publications, h-index 41, 21,458 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Oliver Fricko, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 72 by activity, 2809 by citations). 124 publications, h-index 41, 21,458 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/oliver-fricko-a5050300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 72 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2932 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 48 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 1141 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 72 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2809 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>41</td></tr>
   <tr><th>Citations</th><td>21,458</td></tr>

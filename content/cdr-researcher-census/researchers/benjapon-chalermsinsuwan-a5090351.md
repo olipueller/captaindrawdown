@@ -1,7 +1,7 @@
 ---
 title: "Benjapon Chalermsinsuwan"
-description: "Benjapon Chalermsinsuwan, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 73 by activity, 2892 by citations). 243 publications, h-index 30, 3,495 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Benjapon Chalermsinsuwan, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 88 by activity, 3164 by citations). 243 publications, h-index 30, 3,495 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/benjapon-chalermsinsuwan-a5090351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Chulalongkorn University</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 73 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2892 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 88 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3164 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>30</td></tr>
   <tr><th>Citations</th><td>3,495</td></tr>

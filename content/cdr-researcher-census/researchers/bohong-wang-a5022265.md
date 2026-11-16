@@ -1,7 +1,7 @@
 ---
 title: "Bohong Wang"
-description: "Bohong Wang, Zhejiang Ocean University, China. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 499 by activity, 86 by citations). 267 publications, h-index 42, 6,154 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Bohong Wang, Zhejiang Ocean University, China. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 509 by activity, 95 by citations). 267 publications, h-index 42, 6,154 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/bohong-wang-a5022265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Zhejiang Ocean University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 499 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 86 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 509 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>42</td></tr>
   <tr><th>Citations</th><td>6,154</td></tr>

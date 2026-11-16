@@ -1,7 +1,7 @@
 ---
 title: "Keywan Riahi"
-description: "Keywan Riahi, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 11 by activity, 143 by citations; Europe rank 7 by activity, 90 by citations), BECCS (worldwide rank 69 by activity, 2929 by citations; Europe rank 47 by activity, 1140 by citations). 642 publications, h-index 120, 103,690 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Keywan Riahi, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 12 by activity, 145 by citations; Europe rank 8 by activity, 95 by citations), BECCS (worldwide rank 71 by activity, 2808 by citations; Europe rank 50 by activity, 1072 by citations). 642 publications, h-index 120, 103,690 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/keywan-riahi-a5035238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 11 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 143 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 90 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 69 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2929 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 47 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 1140 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 12 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 145 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 95 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 71 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 2808 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 50 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 1072 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>120</td></tr>
   <tr><th>Citations</th><td>103,690</td></tr>

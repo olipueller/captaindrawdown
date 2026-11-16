@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
-description: "Miranda Boettcher, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 7 by activity, 172 by citations; Europe rank 5 by activity, 66 by citations). 86 publications, h-index 18, 1,027 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Miranda Boettcher, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 7 by activity, 165 by citations; Europe rank 5 by activity, 64 by citations). 86 publications, h-index 18, 1,027 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 7 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 172 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 5 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 66 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 7 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 165 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 5 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 64 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,027</td></tr>

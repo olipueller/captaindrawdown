@@ -1,7 +1,7 @@
 ---
 title: "Siegfried E. Vlaeminck"
-description: "Siegfried E. Vlaeminck, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 73 by activity, 436 by citations). 357 publications, h-index 59, 11,932 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Siegfried E. Vlaeminck, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 66 by activity, 366 by citations; Europe rank 47 by activity, 150 by citations). 357 publications, h-index 59, 11,932 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/siegfried-e-vlaeminck-a5066581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Antwerp</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 73 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 436 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 66 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 366 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 47 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 150 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>59</td></tr>
   <tr><th>Citations</th><td>11,932</td></tr>

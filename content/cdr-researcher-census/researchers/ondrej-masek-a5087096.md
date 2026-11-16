@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
-description: "Ondřej Mašek, University of Edinburgh, United Kingdom. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 3 by activity, 12 by citations; Europe rank 2 by activity, 6 by citations), BECCS (worldwide rank 3804 by activity, 18 by citations; Europe rank 1362 by activity, 7 by citations). 254 publications, h-index 67, 15,376 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ondřej Mašek, University of Edinburgh, United Kingdom. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 3 by activity, 12 by citations; Europe rank 2 by activity, 6 by citations), BECCS (worldwide rank 3872 by activity, 30 by citations; Europe rank 1355 by activity, 12 by citations). 254 publications, h-index 67, 15,376 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Edinburgh</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 3 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3804 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 18 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1362 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 7 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 3 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 2 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 6 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 3872 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 30 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1355 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 12 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>67</td></tr>
   <tr><th>Citations</th><td>15,376</td></tr>

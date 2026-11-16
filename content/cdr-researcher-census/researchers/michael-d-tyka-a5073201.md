@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
-description: "Michael D. Tyka, Google (United States), United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 15 by activity, 12 by citations). 48 publications, h-index 23, 6,043 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Michael D. Tyka, Google (United States), United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 14 by activity, 11 by citations). 48 publications, h-index 23, 6,043 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Google (United States)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 15 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 12 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 14 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>6,043</td></tr>

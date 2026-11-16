@@ -1,7 +1,7 @@
 ---
 title: "Emil Jeansson"
-description: "Emil Jeansson, NORCE Research AS, Norway. 136 publications, h-index 33, 4,782 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Emil Jeansson, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11): Ocean CDR (Europe rank 152 by activity, 46 by citations). 136 publications, h-index 33, 4,782 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/emil-jeansson-a5046416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>NORCE Research AS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>Europe: rank 152 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>33</td></tr>
   <tr><th>Citations</th><td>4,782</td></tr>

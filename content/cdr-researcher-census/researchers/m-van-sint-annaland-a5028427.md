@@ -1,7 +1,7 @@
 ---
 title: "M. van Sint Annaland"
-description: "M. van Sint Annaland, Eindhoven University of Technology, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 926 by activity, 31 by citations; Europe rank 298 by activity, 23 by citations). 550 publications, h-index 72, 20,378 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "M. van Sint Annaland, Eindhoven University of Technology, Netherlands. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 1000 by activity, 32 by citations; Europe rank 306 by activity, 24 by citations). 550 publications, h-index 72, 20,378 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/m-van-sint-annaland-a5028427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Eindhoven University of Technology</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 926 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 31 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 298 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 23 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 1000 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 306 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>72</td></tr>
   <tr><th>Citations</th><td>20,378</td></tr>

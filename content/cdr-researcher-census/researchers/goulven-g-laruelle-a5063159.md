@@ -1,7 +1,7 @@
 ---
 title: "Goulven G. Laruelle"
-description: "Goulven G. Laruelle, Université Libre de Bruxelles, Belgium. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 946 by activity, 37 by citations; Europe rank 411 by activity, 19 by citations). 149 publications, h-index 34, 12,090 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Goulven G. Laruelle, Université Libre de Bruxelles, Belgium. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 974 by activity, 43 by citations; Europe rank 407 by activity, 24 by citations). 149 publications, h-index 34, 12,090 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/goulven-g-laruelle-a5063159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Université Libre de Bruxelles</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 946 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 411 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 19 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 974 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 43 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 407 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>12,090</td></tr>

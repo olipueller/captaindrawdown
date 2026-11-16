@@ -1,7 +1,7 @@
 ---
 title: "Jochen Linßen"
-description: "Jochen Linßen, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 6 by activity, 2560 by citations; Europe rank 6 by activity, 787 by citations). 193 publications, h-index 34, 5,492 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jochen Linßen, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 7 by activity, 2446 by citations; Europe rank 6 by activity, 776 by citations). 193 publications, h-index 34, 5,492 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jochen-linen-a5055909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 6 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2560 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 787 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 7 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2446 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 6 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 776 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>34</td></tr>
   <tr><th>Citations</th><td>5,492</td></tr>

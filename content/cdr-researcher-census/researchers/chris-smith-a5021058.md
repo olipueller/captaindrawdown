@@ -1,7 +1,7 @@
 ---
 title: "Chris Smith"
-description: "Chris Smith, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 57 by activity, 107 by citations; Europe rank 40 by activity, 72 by citations). 301 publications, h-index 67, 19,193 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Chris Smith, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 67 by activity, 95 by citations; Europe rank 46 by activity, 70 by citations). 301 publications, h-index 67, 19,193 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/chris-smith-a5021058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 57 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 107 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 40 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 72 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 67 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 95 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 46 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 70 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>67</td></tr>
   <tr><th>Citations</th><td>19,193</td></tr>

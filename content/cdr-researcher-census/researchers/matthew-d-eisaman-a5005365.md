@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
-description: "Matthew D. Eisaman, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 23 by activity, 13 by citations). 98 publications, h-index 24, 5,420 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Matthew D. Eisaman, Yale University, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 31 by activity, 14 by citations). 98 publications, h-index 24, 5,420 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 23 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 13 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 31 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 14 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>24</td></tr>
   <tr><th>Citations</th><td>5,420</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
-description: "Quirin Grossmann, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 100 by activity, 479 by citations; Europe rank 39 by activity, 203 by citations). 10 publications, h-index 7, 261 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Quirin Grossmann, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11): DAC (Europe rank 47 by activity, 205 by citations). 10 publications, h-index 7, 261 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 100 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 479 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 39 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 203 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>Europe: rank 47 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 205 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>261</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Robert F. Strzepek"
-description: "Robert F. Strzepek, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 103 by activity, 79 by citations). 85 publications, h-index 36, 7,133 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Robert F. Strzepek, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 107 by activity, 78 by citations). 85 publications, h-index 36, 7,133 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 103 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 79 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 107 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 78 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>36</td></tr>
   <tr><th>Citations</th><td>7,133</td></tr>

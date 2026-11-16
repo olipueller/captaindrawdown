@@ -1,7 +1,7 @@
 ---
 title: "USDOE Office of Fossil Energy (FE)"
-description: "USDOE Office of Fossil Energy (FE). 1074 publications, h-index 14, 1,231 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "USDOE Office of Fossil Energy (FE). CDR Researcher Census top lists (2026-11): DAC (worldwide rank 1 by activity, 2140 by citations). 1074 publications, h-index 14, 1,231 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/usdoe-office-of-fossil-energy-fe-a5147699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,6 +20,7 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 1 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2140 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>14</td></tr>
   <tr><th>Citations</th><td>1,231</td></tr>

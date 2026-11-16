@@ -1,7 +1,7 @@
 ---
 title: "Christian Breyer"
-description: "Christian Breyer, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 49 by activity, 34 by citations; Europe rank 34 by activity, 24 by citations), DAC (worldwide rank 65 by activity, 60 by citations; Europe rank 28 by activity, 30 by citations). 579 publications, h-index 98, 32,083 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Christian Breyer, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 36 by activity, 32 by citations; Europe rank 24 by activity, 24 by citations), DAC (worldwide rank 80 by activity, 59 by citations; Europe rank 36 by activity, 31 by citations). 579 publications, h-index 98, 32,083 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/christian-breyer-a5078913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lappeenranta-Lahti University of Technology</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 49 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 34 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 65 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 28 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 36 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 32 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 24 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 80 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 31 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>98</td></tr>
   <tr><th>Citations</th><td>32,083</td></tr>

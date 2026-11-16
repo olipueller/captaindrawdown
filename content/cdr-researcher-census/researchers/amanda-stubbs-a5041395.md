@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
-description: "Amanda Stubbs, University of Glasgow, United Kingdom. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 21 by activity, 105 by citations; Europe rank 14 by activity, 74 by citations). 40 publications, h-index 7, 290 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Amanda Stubbs, University of Glasgow, United Kingdom. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 20 by activity, 99 by citations; Europe rank 13 by activity, 70 by citations). 40 publications, h-index 7, 290 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Glasgow</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 21 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 105 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 14 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 74 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 20 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 99 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 13 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 70 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>7</td></tr>
   <tr><th>Citations</th><td>290</td></tr>

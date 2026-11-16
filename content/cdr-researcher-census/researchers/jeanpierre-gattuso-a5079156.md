@@ -1,7 +1,7 @@
 ---
 title: "Jean‐Pierre Gattuso"
-description: "Jean‐Pierre Gattuso, CNRS, France. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 17 by activity, 4 by citations; Europe rank 10 by activity, 2 by citations). 668 publications, h-index 95, 37,487 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Jean‐Pierre Gattuso, CNRS, France. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 18 by activity, 5 by citations; Europe rank 10 by activity, 3 by citations). 668 publications, h-index 95, 37,487 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>CNRS</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 17 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 4 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 2 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 18 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 5 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>95</td></tr>
   <tr><th>Citations</th><td>37,487</td></tr>

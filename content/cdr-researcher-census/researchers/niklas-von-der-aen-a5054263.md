@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
-description: "Niklas von der Aßen, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 8 by activity, 202 by citations; Europe rank 8 by activity, 98 by citations). 101 publications, h-index 21, 2,808 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Niklas von der Aßen, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 8 by activity, 234 by citations; Europe rank 7 by activity, 114 by citations). 101 publications, h-index 21, 2,808 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 8 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 202 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 98 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 8 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 234 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 114 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>21</td></tr>
   <tr><th>Citations</th><td>2,808</td></tr>

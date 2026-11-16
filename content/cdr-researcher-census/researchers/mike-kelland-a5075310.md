@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
-description: "Mike Kelland. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 57 by activity, 1523 by citations). 21 publications, h-index 5, 1,022 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Mike Kelland. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 57 by activity, 1493 by citations). 21 publications, h-index 5, 1,022 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -23,7 +23,7 @@ robots: "index, follow"
 
 <table class="company-facts cd-facts">
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 57 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1523 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 57 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1493 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>5</td></tr>
   <tr><th>Citations</th><td>1,022</td></tr>

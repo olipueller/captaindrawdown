@@ -1,7 +1,7 @@
 ---
 title: "Siavash Khalili"
-description: "Siavash Khalili, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 610 by activity, 84 by citations; Europe rank 195 by activity, 39 by citations), Cross-cutting CDR (worldwide rank 455 by activity, 59 by citations; Europe rank 254 by activity, 44 by citations). 34 publications, h-index 20, 3,565 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Siavash Khalili, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 666 by activity, 87 by citations; Europe rank 207 by activity, 39 by citations), Cross-cutting CDR (worldwide rank 477 by activity, 59 by citations; Europe rank 266 by activity, 45 by citations). 34 publications, h-index 20, 3,565 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/siavash-khalili-a5019517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lappeenranta-Lahti University of Technology</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 610 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 84 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 195 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 455 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 254 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 44 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 666 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 87 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 207 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 39 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 477 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 266 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 45 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>20</td></tr>
   <tr><th>Citations</th><td>3,565</td></tr>

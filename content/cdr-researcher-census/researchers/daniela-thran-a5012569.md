@@ -1,7 +1,7 @@
 ---
 title: "Daniela Thrän"
-description: "Daniela Thrän, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 1 by activity, 325 by citations; Europe rank 1 by activity, 130 by citations), Cross-cutting CDR (worldwide rank 79 by activity, 618 by citations). 473 publications, h-index 52, 8,895 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Daniela Thrän, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 1 by activity, 280 by citations; Europe rank 1 by activity, 112 by citations), Cross-cutting CDR (worldwide rank 40 by activity, 546 by citations; Europe rank 28 by activity, 266 by citations). 473 publications, h-index 52, 8,895 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/daniela-thran-a5012569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Helmholtz Centre for Environmental Research</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 1 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 325 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 130 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 79 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 618 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 1 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 280 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 112 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 40 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 546 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 28 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 266 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>52</td></tr>
   <tr><th>Citations</th><td>8,895</td></tr>

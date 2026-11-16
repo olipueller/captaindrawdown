@@ -1,7 +1,7 @@
 ---
 title: "Bjarne Steffen"
-description: "Bjarne Steffen, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): DAC (Europe rank 40 by activity, 65 by citations). 144 publications, h-index 39, 6,202 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Bjarne Steffen, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 45 by activity, 116 by citations; Europe rank 24 by activity, 56 by citations), Cross-cutting CDR (worldwide rank 92 by activity, 2615 by citations). 144 publications, h-index 39, 6,202 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/bjarne-steffen-a5051413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>Europe: rank 40 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 65 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 45 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 116 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 24 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 56 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 92 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 2615 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
   <tr><th>Citations</th><td>6,202</td></tr>

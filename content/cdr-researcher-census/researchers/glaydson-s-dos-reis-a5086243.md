@@ -1,7 +1,7 @@
 ---
 title: "Glaydson S. dos Reis"
-description: "Glaydson S. dos Reis, Åbo Akademi University, Finland. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 131 by activity, 48 by citations; Europe rank 34 by activity, 11 by citations). 168 publications, h-index 53, 7,239 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Glaydson S. dos Reis, Åbo Akademi University, Finland. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 151 by activity, 55 by citations; Europe rank 37 by activity, 13 by citations). 168 publications, h-index 53, 7,239 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Åbo Akademi University</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 131 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 48 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 34 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 151 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 37 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 13 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>53</td></tr>
   <tr><th>Citations</th><td>7,239</td></tr>

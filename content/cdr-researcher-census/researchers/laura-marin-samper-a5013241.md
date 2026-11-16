@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
-description: "Laura Marín-Samper, Universidad de Las Palmas de Gran Canaria, Spain. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 91 by activity, 76 by citations; Europe rank 56 by activity, 36 by citations). 24 publications, h-index 4, 286 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Laura Marín-Samper, Universidad de Las Palmas de Gran Canaria, Spain. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 68 by activity, 62 by citations; Europe rank 43 by activity, 32 by citations). 24 publications, h-index 4, 286 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Las Palmas de Gran Canaria</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 91 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 56 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 36 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 68 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 62 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 43 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 32 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Early-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>286</td></tr>

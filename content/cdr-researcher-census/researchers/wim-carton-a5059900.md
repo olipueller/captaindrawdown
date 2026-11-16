@@ -1,7 +1,7 @@
 ---
 title: "Wim Carton"
-description: "Wim Carton, Lund University, Sweden. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 290 by activity, 92 by citations). 69 publications, h-index 23, 2,917 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Wim Carton, Lund University, Sweden. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 302 by activity, 88 by citations). 69 publications, h-index 23, 2,917 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/wim-carton-a5059900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Lund University</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 290 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 92 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 302 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>23</td></tr>
   <tr><th>Citations</th><td>2,917</td></tr>

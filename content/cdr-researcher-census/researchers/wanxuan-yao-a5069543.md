@@ -1,7 +1,7 @@
 ---
 title: "Wanxuan Yao"
-description: "Wanxuan Yao, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 74 by activity, 333 by citations; Europe rank 45 by activity, 115 by citations). 20 publications, h-index 8, 185 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Wanxuan Yao, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 83 by activity, 274 by citations; Europe rank 50 by activity, 108 by citations). 20 publications, h-index 8, 185 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/wanxuan-yao-a5069543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 74 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 333 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 45 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 115 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 83 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 274 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 50 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 108 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>185</td></tr>

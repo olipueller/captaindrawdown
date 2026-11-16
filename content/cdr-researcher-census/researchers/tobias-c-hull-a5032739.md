@@ -1,7 +1,7 @@
 ---
 title: "Tobias C. Hull"
-description: "Tobias C. Hull, Colorado School of Mines, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 4989 by activity, 45 by citations). 6 publications, h-index 4, 518 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tobias C. Hull, Colorado School of Mines, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 5242 by activity, 44 by citations). 6 publications, h-index 4, 518 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tobias-c-hull-a5032739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Colorado School of Mines</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 4989 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 5242 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 44 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>4</td></tr>
   <tr><th>Citations</th><td>518</td></tr>

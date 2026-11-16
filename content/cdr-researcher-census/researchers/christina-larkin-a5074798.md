@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
-description: "Christina Larkin, InPlanet GmbH, Germany. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 61 by activity, 129 by citations; Europe rank 43 by activity, 83 by citations). 27 publications, h-index 10, 690 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Christina Larkin, InPlanet GmbH, Germany. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 74 by activity, 115 by citations). 27 publications, h-index 10, 690 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>InPlanet GmbH</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 61 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 129 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 43 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 83 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 74 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 115 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>690</td></tr>

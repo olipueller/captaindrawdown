@@ -1,7 +1,7 @@
 ---
 title: "Anna Neubeck"
-description: "Anna Neubeck, Uppsala University, Sweden. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 52 by activity, 80 by citations; Europe rank 36 by activity, 55 by citations). 117 publications, h-index 18, 1,508 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Anna Neubeck, Uppsala University, Sweden. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 53 by activity, 73 by citations; Europe rank 38 by activity, 53 by citations). 117 publications, h-index 18, 1,508 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/anna-neubeck-a5004740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Uppsala University</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 52 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 80 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 55 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 53 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 38 <a href="/data/researchers/enhanced-weathering/#most-active-europe-top-50">by activity</a>, rank 53 <a href="/data/researchers/enhanced-weathering/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,508</td></tr>

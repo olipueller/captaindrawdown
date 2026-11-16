@@ -1,7 +1,7 @@
 ---
 title: "Marco Mazzotti"
-description: "Marco Mazzotti, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 111 by activity, 3 by citations; Europe rank 71 by activity, 3 by citations), DAC (worldwide rank 9 by activity, 25 by citations; Europe rank 9 by activity, 18 by citations). 657 publications, h-index 89, 31,177 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Marco Mazzotti, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 116 by activity, 3 by citations; Europe rank 75 by activity, 3 by citations), DAC (worldwide rank 12 by activity, 25 by citations; Europe rank 10 by activity, 18 by citations). 657 publications, h-index 89, 31,177 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/marco-mazzotti-a5038211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,8 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>ETH Zurich</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 111 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 71 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 9 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 9 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 116 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 3 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 75 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 3 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 12 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 25 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 10 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>89</td></tr>
   <tr><th>Citations</th><td>31,177</td></tr>

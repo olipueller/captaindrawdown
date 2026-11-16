@@ -1,7 +1,7 @@
 ---
 title: "Matthew Green"
-description: "Matthew Green, Arizona State University, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 59 by activity, 2129 by citations). 183 publications, h-index 45, 8,862 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Matthew Green, Arizona State University, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 73 by activity, 2022 by citations). 183 publications, h-index 45, 8,862 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/matthew-green-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Arizona State University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 59 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2129 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 73 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2022 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>8,862</td></tr>

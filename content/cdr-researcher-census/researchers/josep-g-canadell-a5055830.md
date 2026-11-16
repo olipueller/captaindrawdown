@@ -1,7 +1,7 @@
 ---
 title: "Josep G. Canadell"
-description: "Josep G. Canadell, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 93 by activity, 119 by citations). 658 publications, h-index 140, 121,553 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Josep G. Canadell, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 98 by activity, 117 by citations). 658 publications, h-index 140, 121,553 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/josep-g-canadell-a5055830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Commonwealth Scientific and Industrial Research Organisation</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 93 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 119 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 98 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 117 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>140</td></tr>
   <tr><th>Citations</th><td>121,553</td></tr>

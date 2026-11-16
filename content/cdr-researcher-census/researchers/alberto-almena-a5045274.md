@@ -1,7 +1,7 @@
 ---
 title: "Alberto Almena"
-description: "Alberto Almena, Universidad de Salamanca, Spain. 24 publications, h-index 10, 784 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Alberto Almena, Universidad de Salamanca, Spain. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 155 by activity, 48 by citations; Europe rank 98 by activity, 18 by citations). 24 publications, h-index 10, 784 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/alberto-almena-a5045274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Universidad de Salamanca</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 155 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 48 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 98 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 18 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>10</td></tr>
   <tr><th>Citations</th><td>784</td></tr>

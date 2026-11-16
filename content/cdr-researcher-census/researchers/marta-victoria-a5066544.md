@@ -1,7 +1,7 @@
 ---
 title: "Marta Victoria"
-description: "Marta Victoria, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 386 by activity, 62 by citations; Europe rank 219 by activity, 47 by citations). 164 publications, h-index 32, 5,143 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Marta Victoria, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 404 by activity, 60 by citations; Europe rank 233 by activity, 46 by citations). 164 publications, h-index 32, 5,143 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/marta-victoria-a5066544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Aarhus University</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 386 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 62 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 219 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 47 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 404 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 233 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 46 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>32</td></tr>
   <tr><th>Citations</th><td>5,143</td></tr>

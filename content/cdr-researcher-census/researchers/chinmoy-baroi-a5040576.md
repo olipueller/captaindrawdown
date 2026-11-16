@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
-description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 58 by activity, 2891 by citations). 44 publications, h-index 13, 961 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Chinmoy Baroi, University of Illinois Urbana-Champaign, United States. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 54 by activity, 2747 by citations). 44 publications, h-index 13, 961 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Illinois Urbana-Champaign</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 58 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2891 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 54 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 2747 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>13</td></tr>
   <tr><th>Citations</th><td>961</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Morris"
-description: "Jennifer Morris, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 101 by activity, 98 by citations). 113 publications, h-index 29, 3,425 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jennifer Morris, Massachusetts Institute of Technology, United States. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 106 by activity, 37 by citations). 113 publications, h-index 29, 3,425 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jennifer-morris-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Massachusetts Institute of Technology</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 101 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 98 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 106 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 37 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>3,425</td></tr>

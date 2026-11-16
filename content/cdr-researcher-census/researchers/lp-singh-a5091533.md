@@ -1,7 +1,7 @@
 ---
 title: "L.P. Singh"
-description: "L.P. Singh, National Council for Cement and Building Materials, India. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 8850 by activity, 76 by citations). 107 publications, h-index 46, 8,555 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "L.P. Singh, National Council for Cement and Building Materials, India. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 8908 by activity, 75 by citations). 107 publications, h-index 46, 8,555 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lp-singh-a5091533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>National Council for Cement and Building Materials</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8850 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 76 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 8908 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 75 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>46</td></tr>
   <tr><th>Citations</th><td>8,555</td></tr>

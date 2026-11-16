@@ -1,7 +1,7 @@
 ---
 title: "James E. Saiers"
-description: "James E. Saiers, Yale University, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 91 by activity, 1839 by citations). 194 publications, h-index 48, 6,968 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "James E. Saiers, Yale University, United States. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 84 by activity, 1793 by citations). 194 publications, h-index 48, 6,968 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/james-e-saiers-a5029882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Yale University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 91 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1839 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 84 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 1793 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>48</td></tr>
   <tr><th>Citations</th><td>6,968</td></tr>

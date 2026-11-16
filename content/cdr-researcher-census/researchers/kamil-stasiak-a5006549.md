@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
-description: "Kamil Stasiak, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 51 by activity, 352 by citations; Europe rank 36 by activity, 150 by citations). 18 publications, h-index 8, 217 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Kamil Stasiak, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 58 by activity, 375 by citations; Europe rank 40 by activity, 167 by citations). 18 publications, h-index 8, 217 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Gdańsk University of Technology</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 51 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 352 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 36 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 150 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 58 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 375 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 40 <a href="/data/researchers/beccs/#most-active-europe-top-50">by activity</a>, rank 167 <a href="/data/researchers/beccs/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>217</td></tr>

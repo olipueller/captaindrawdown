@@ -1,7 +1,7 @@
 ---
 title: "Siv K. Lauvset"
-description: "Siv K. Lauvset, NORCE Research AS, Norway. 335 publications, h-index 45, 14,159 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Siv K. Lauvset, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 520 by activity, 88 by citations; Europe rank 223 by activity, 38 by citations). 335 publications, h-index 45, 14,159 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/siv-k-lauvset-a5082511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>NORCE Research AS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 520 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 88 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 223 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 38 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>45</td></tr>
   <tr><th>Citations</th><td>14,159</td></tr>

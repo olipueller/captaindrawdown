@@ -1,7 +1,7 @@
 ---
 title: "Ian Power"
-description: "Ian Power, Trent University, Canada. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 10 by activity, 23 by citations). 363 publications, h-index 51, 8,877 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Ian Power, Trent University, Canada. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 10 by activity, 24 by citations), DAC (worldwide rank 79 by activity, 3668 by citations). 363 publications, h-index 51, 8,877 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ian-power-a5058336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,8 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Trent University</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 10 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 23 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 10 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 24 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 79 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 3668 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>51</td></tr>
   <tr><th>Citations</th><td>8,877</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Stefan Frank"
-description: "Stefan Frank, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4): BECCS (worldwide rank 83 by activity, 1759 by citations). 120 publications, h-index 42, 10,875 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Stefan Frank, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11): BECCS (worldwide rank 88 by activity, 1304 by citations). 120 publications, h-index 42, 10,875 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/stefan-frank-a5040606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, BECCS</th><td>worldwide: rank 83 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1759 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>worldwide: rank 88 <a href="/data/researchers/beccs/#most-active-worldwide-top-100">by activity</a>, rank 1304 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>42</td></tr>
   <tr><th>Citations</th><td>10,875</td></tr>

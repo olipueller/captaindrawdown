@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Ganti"
-description: "Gaurav Ganti, Humboldt-Universität zu Berlin, Germany. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 77 by activity, 122 by citations; Europe rank 50 by activity, 77 by citations). 48 publications, h-index 11, 853 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Gaurav Ganti, Humboldt-Universität zu Berlin, Germany. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 78 by activity, 116 by citations). 48 publications, h-index 11, 853 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/gaurav-ganti-a5002533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Humboldt-Universität zu Berlin</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 77 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 122 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 50 <a href="/data/researchers/cross-cutting-cdr/#most-active-europe-top-50">by activity</a>, rank 77 <a href="/data/researchers/cross-cutting-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 78 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 116 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>853</td></tr>

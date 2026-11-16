@@ -1,7 +1,7 @@
 {
   "total_authors": 1017,
   "total_papers": 28078,
-  "countries": 55,
+  "countries": 52,
   "institutions": 10017,
   "pathways": {
     "Biochar": 220,
@@ -12,26 +12,26 @@
     "BECCS": 147
   },
   "top_countries": {
-    "US": 168,
+    "US": 162,
+    "GB": 134,
     "DE": 133,
-    "GB": 132,
-    "CN": 115,
+    "CN": 120,
     "AU": 37,
-    "CH": 30,
-    "BE": 24,
+    "CH": 31,
     "CA": 24,
-    "ES": 24,
+    "BE": 24,
+    "ES": 23,
     "FR": 23,
-    "IN": 23,
-    "NL": 22,
+    "IT": 22,
     "SE": 21,
-    "IT": 21,
+    "NL": 21,
+    "IN": 18,
     "FI": 16,
-    "AT": 15,
     "KR": 14,
+    "AT": 14,
     "DK": 14,
-    "JP": 12,
-    "SA": 12
+    "NO": 12,
+    "JP": 12
   },
   "sectors": {
     "Academic": 673,

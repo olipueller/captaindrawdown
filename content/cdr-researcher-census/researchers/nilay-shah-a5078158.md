@@ -1,7 +1,7 @@
 ---
 title: "Nilay Shah"
-description: "Nilay Shah, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 26 by activity, 1136 by citations; Europe rank 17 by activity, 421 by citations). 779 publications, h-index 94, 45,594 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Nilay Shah, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 14 by activity, 163 by citations; Europe rank 11 by activity, 81 by citations). 779 publications, h-index 94, 45,594 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:46+00:00
 url: "/cdr-researcher-census/researchers/nilay-shah-a5078158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Imperial College London</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 26 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 1136 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 17 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 421 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 14 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 163 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 11 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 81 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>94</td></tr>
   <tr><th>Citations</th><td>45,594</td></tr>

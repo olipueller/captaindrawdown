@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Lacroix"
-description: "Fabrice Lacroix, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 4965 by activity, 60 by citations; Europe rank 1394 by activity, 30 by citations). 66 publications, h-index 16, 1,510 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Fabrice Lacroix, University of Bern, Switzerland. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 5014 by activity, 64 by citations; Europe rank 1386 by activity, 33 by citations). 66 publications, h-index 16, 1,510 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/fabrice-lacroix-a5016098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Bern</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 4965 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 60 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1394 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 30 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 5014 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 64 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 1386 <a href="/data/researchers/ocean-cdr/#most-active-europe-top-50">by activity</a>, rank 33 <a href="/data/researchers/ocean-cdr/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>16</td></tr>
   <tr><th>Citations</th><td>1,510</td></tr>

@@ -1,7 +1,7 @@
 ---
 title: "Catriona L. Hurd"
-description: "Catriona L. Hurd, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 189 by activity, 11 by citations). 255 publications, h-index 65, 14,315 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Catriona L. Hurd, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 207 by activity, 13 by citations). 255 publications, h-index 65, 14,315 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/catriona-l-hurd-a5042866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Tasmania</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 189 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 11 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 207 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 13 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>65</td></tr>
   <tr><th>Citations</th><td>14,315</td></tr>

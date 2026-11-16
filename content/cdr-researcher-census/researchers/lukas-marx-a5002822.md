@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
-description: "Lukas Marx, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 70 by activity, 226 by citations). 20 publications, h-index 6, 147 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Lukas Marx, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 78 by activity, 207 by citations). 20 publications, h-index 6, 147 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 70 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 226 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 78 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 207 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>6</td></tr>
   <tr><th>Citations</th><td>147</td></tr>

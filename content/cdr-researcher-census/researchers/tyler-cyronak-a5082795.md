@@ -1,7 +1,7 @@
 ---
 title: "Tyler Cyronak"
-description: "Tyler Cyronak, Georgia Southern University, United States. CDR Researcher Census top lists (2026-11.4): Ocean CDR (worldwide rank 207 by activity, 55 by citations). 111 publications, h-index 29, 3,371 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Tyler Cyronak, Georgia Southern University, United States. CDR Researcher Census top lists (2026-11): Ocean CDR (worldwide rank 227 by activity, 52 by citations). 111 publications, h-index 29, 3,371 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/tyler-cyronak-a5082795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Georgia Southern University</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
-  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 207 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 55 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>worldwide: rank 227 <a href="/data/researchers/ocean-cdr/#most-active-worldwide-top-100">by activity</a>, rank 52 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>29</td></tr>
   <tr><th>Citations</th><td>3,371</td></tr>

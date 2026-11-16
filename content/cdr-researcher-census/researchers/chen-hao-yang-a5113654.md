@@ -1,7 +1,7 @@
 ---
 title: "Chen-Hao Yang"
-description: "Chen-Hao Yang, Hunan Normal University, China. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 23843 by activity, 43 by citations). 10 publications, h-index 3, 800 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Chen-Hao Yang, Hunan Normal University, China. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 24918 by activity, 49 by citations). 10 publications, h-index 3, 800 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/chen-hao-yang-a5113654/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Hunan Normal University</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 23843 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 43 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 24918 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 49 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>3</td></tr>
   <tr><th>Citations</th><td>800</td></tr>

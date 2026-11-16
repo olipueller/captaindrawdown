@@ -1,7 +1,7 @@
 ---
 title: "Biswa R. Patra"
-description: "Biswa R. Patra, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 1118 by activity, 77 by citations). 40 publications, h-index 15, 2,073 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Biswa R. Patra, University of Saskatchewan, Canada. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 1224 by activity, 85 by citations). 40 publications, h-index 15, 2,073 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/biswa-r-patra-a5002085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of Saskatchewan</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 1118 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 77 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 1224 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 85 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>2,073</td></tr>

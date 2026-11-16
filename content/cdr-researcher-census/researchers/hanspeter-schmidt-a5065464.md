@@ -1,7 +1,7 @@
 ---
 title: "Hans‐Peter Schmidt"
-description: "Hans‐Peter Schmidt, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 16 by activity, 56 by citations; Europe rank 7 by activity, 12 by citations). 119 publications, h-index 39, 8,993 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Hans‐Peter Schmidt, Ithaka Institute for Carbon Strategies, Switzerland. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 19 by activity, 36 by citations; Europe rank 8 by activity, 11 by citations). 119 publications, h-index 39, 8,993 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Ithaka Institute for Carbon Strategies</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 16 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 56 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 7 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 12 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 19 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 36 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 8 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 11 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>39</td></tr>
   <tr><th>Citations</th><td>8,993</td></tr>

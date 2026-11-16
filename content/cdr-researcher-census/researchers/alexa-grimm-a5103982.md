@@ -1,7 +1,7 @@
 ---
 title: "Alexa Grimm"
-description: "Alexa Grimm, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 669 by activity, 35 by citations; Europe rank 221 by activity, 27 by citations). 12 publications, h-index 8, 1,161 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Alexa Grimm, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 728 by activity, 45 by citations; Europe rank 228 by activity, 27 by citations). 12 publications, h-index 8, 1,161 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/alexa-grimm-a5103982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,7 +26,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Utrecht University</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 669 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 35 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 221 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 728 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 45 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 228 <a href="/data/researchers/dac/#most-active-europe-top-50">by activity</a>, rank 27 <a href="/data/researchers/dac/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>8</td></tr>
   <tr><th>Citations</th><td>1,161</td></tr>

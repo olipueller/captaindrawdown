@@ -1,7 +1,7 @@
 ---
 title: "Binoy Sarkar"
-description: "Binoy Sarkar, University of South Australia, Australia. 310 publications, h-index 90, 26,731 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Binoy Sarkar, University of South Australia, Australia. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 4897 by activity, 90 by citations). 310 publications, h-index 90, 26,731 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/binoy-sarkar-a5083577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,6 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>University of South Australia</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 4897 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 90 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>90</td></tr>
   <tr><th>Citations</th><td>26,731</td></tr>

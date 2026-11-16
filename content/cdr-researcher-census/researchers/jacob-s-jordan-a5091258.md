@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
-description: "Jacob S. Jordan, Mati Carbon, United States. CDR Researcher Census top lists (2026-11.4): Enhanced Weathering (worldwide rank 38 by activity, 431 by citations). 46 publications, h-index 11, 582 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Jacob S. Jordan, Mati Carbon, United States. CDR Researcher Census top lists (2026-11): Enhanced Weathering (worldwide rank 50 by activity, 325 by citations). 46 publications, h-index 11, 582 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Mati Carbon</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
-  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 38 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 431 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>worldwide: rank 50 <a href="/data/researchers/enhanced-weathering/#most-active-worldwide-top-100">by activity</a>, rank 325 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>11</td></tr>
   <tr><th>Citations</th><td>582</td></tr>

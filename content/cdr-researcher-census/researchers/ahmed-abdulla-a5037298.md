@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Abdulla"
-description: "Ahmed Abdulla, Carleton University, Canada. CDR Researcher Census top lists (2026-11.4): DAC (worldwide rank 591 by activity, 81 by citations). 52 publications, h-index 18, 1,087 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Ahmed Abdulla, Carleton University, Canada. CDR Researcher Census top lists (2026-11): DAC (worldwide rank 647 by activity, 73 by citations). 52 publications, h-index 18, 1,087 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Carleton University</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
-  <tr><th>Top lists, DAC</th><td>worldwide: rank 591 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 81 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>worldwide: rank 647 <a href="/data/researchers/dac/#most-active-worldwide-top-100">by activity</a>, rank 73 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Senior</td></tr>
   <tr><th>h-index</th><td>18</td></tr>
   <tr><th>Citations</th><td>1,087</td></tr>

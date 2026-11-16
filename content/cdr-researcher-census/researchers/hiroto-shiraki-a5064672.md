@@ -1,7 +1,7 @@
 ---
 title: "Hiroto Shiraki"
-description: "Hiroto Shiraki, Nagoya University, Japan. CDR Researcher Census top lists (2026-11.4): Cross-cutting CDR (worldwide rank 89 by activity, 4452 by citations). 52 publications, h-index 15, 817 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:07+00:00
+description: "Hiroto Shiraki, Nagoya University, Japan. CDR Researcher Census top lists (2026-11): Cross-cutting CDR (worldwide rank 93 by activity, 4108 by citations). 52 publications, h-index 15, 817 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/hiroto-shiraki-a5064672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Nagoya University</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Primary pathway</th><td>Cross-cutting CDR: Cross-cutting research supporting multiple CDR pathways or the general CDR field.</td></tr>
-  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 89 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 4452 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>worldwide: rank 93 <a href="/data/researchers/cross-cutting-cdr/#most-active-worldwide-top-100">by activity</a>, rank 4108 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Mid-career</td></tr>
   <tr><th>h-index</th><td>15</td></tr>
   <tr><th>Citations</th><td>817</td></tr>

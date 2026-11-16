@@ -1,7 +1,7 @@
 ---
 title: "Thomas D. Bucheli"
-description: "Thomas D. Bucheli, Agroscope, Switzerland. CDR Researcher Census top lists (2026-11.4): Biochar (worldwide rank 256 by activity, 63 by citations). 284 publications, h-index 69, 19,057 citations (OpenAlex, all fields)."
-date: 2026-11-15T05:16:06+00:00
+description: "Thomas D. Bucheli, Agroscope, Switzerland. CDR Researcher Census top lists (2026-11): Biochar (worldwide rank 282 by activity, 59 by citations; Europe rank 62 by activity, 14 by citations). 284 publications, h-index 69, 19,057 citations (OpenAlex, all fields)."
+date: 2026-11-16T20:24:47+00:00
 url: "/cdr-researcher-census/researchers/thomas-d-bucheli-a5078159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,7 +29,7 @@ robots: "index, follow"
   <tr><th>Institution</th><td>Agroscope</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
-  <tr><th>Top lists, Biochar</th><td>worldwide: rank 256 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 63 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (2026-11.4)</td></tr>
+  <tr><th>Top lists, Biochar</th><td>worldwide: rank 282 <a href="/data/researchers/biochar/#most-active-worldwide-top-100">by activity</a>, rank 59 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a>; Europe: rank 62 <a href="/data/researchers/biochar/#most-active-europe-top-50">by activity</a>, rank 14 <a href="/data/researchers/biochar/#most-cited-europe-top-50">by citations</a> (2026-11)</td></tr>
   <tr><th>Career stage</th><td>Eminent</td></tr>
   <tr><th>h-index</th><td>69</td></tr>
   <tr><th>Citations</th><td>19,057</td></tr>
