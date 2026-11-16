@@ -122,7 +122,7 @@ All files of release 2026-11 on GitHub: [folder `v1/2026-11/`](https://github.co
 
 ## Method
 
-The directory started from Grant Faber's public list of CDR companies (January 2026, CC BY-NC-SA 4.0) and is extended by daily scanning of CDR news, registries (Puro.earth, OffsetsDB) and LinkedIn company discovery. Each company is classified by pathway and focus, screened for liveliness, and refreshed monthly; readers' corrections are applied nightly. The per-company evidence is on the [directory pages](/directory/). Counts are counts of companies, not tonnes; many entries are early-stage firms.
+The directory started from Grant Faber's public list of CDR companies (January 2026, CC BY-NC-SA 4.0) and is extended once a month by a search across CDR.fyi's supplier list, the Puro.earth and OffsetsDB registries, the cdrjobs board, CDR news, and web and company-database searches. A company is added when one of these lists names it or two independent sources do, and it is published once its classification confirms a carbon removal business. Between 19 April and 16 November 2026 this search did not run, so the releases up to 2026-11 contain no company found after April. Each company is classified by pathway and focus, screened for liveliness, and refreshed monthly; readers' corrections are applied nightly. The per-company evidence is on the [directory pages](/directory/). Counts are counts of companies, not tonnes; many entries are early-stage firms.
 
 ## Versions
 
