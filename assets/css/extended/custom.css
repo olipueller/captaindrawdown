@@ -107,6 +107,10 @@ a:hover, [data-theme="dark"] a:hover, .post-content a:hover { text-decoration: u
   font-size: 12px; line-height: 16px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
   text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line);
 }
+/* PaperMod sets td padding (8px 5px) through a :not() selector that outranks
+   a plain "table td"; without the same :not() the cells sat 7px left of
+   their header (2026-11-18). */
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td { padding-inline: 12px; }
 .post-content table td, .cd-table td { padding: 10px 12px; border-bottom: 1px solid var(--line); border-inline: 0; color: var(--ink); vertical-align: top; }
 .post-content table tr:last-child td { border-bottom: 0; }
 .post-content table tbody tr:hover td { background: var(--surface-2); }
