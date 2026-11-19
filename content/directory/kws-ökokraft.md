@@ -6,6 +6,10 @@ description: "Operates a SynCraft floating-fixed-bed wood gasification CHP plant
 url: "/directory/kws-ökokraft/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "KWS Ökokraft: biochar as a side business, Austria | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.oekokraft.at"
+company_country: "Austria"
 ---
 
 

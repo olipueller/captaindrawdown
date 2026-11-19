@@ -6,6 +6,11 @@ description: "Develops modular MOF-sorbent direct air capture units optimized fo
 url: "/directory/alpine-x/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Alpine X: direct air capture company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://alpinex.tech/"
+company_linkedin: "https://www.linkedin.com/company/alpinex/"
+company_country: "France"
 ---
 
 

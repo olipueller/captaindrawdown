@@ -6,6 +6,10 @@ description: "Runs containerized pyrolysis plants that turn wood residues and or
 url: "/directory/fruedal-pyrolyse/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Fruedal Pyrolyse: biochar company, Denmark | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.fruedalenergy.dk/pyrolyse"
+company_country: "Denmark"
 ---
 
 

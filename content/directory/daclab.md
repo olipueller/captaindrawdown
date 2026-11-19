@@ -6,6 +6,11 @@ description: "Solid-sorbent DAC using a moving-bed Temperature Vacuum Swing Adso
 url: "/directory/daclab/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "DACLAB: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.daclab.us"
+company_linkedin: "https://www.linkedin.com/company/daclab-us/"
+company_country: "United States"
 ---
 
 

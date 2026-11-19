@@ -6,6 +6,11 @@ description: "Supercritical water gasification of wet biomass waste into green m
 url: "/directory/scw-systems/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "SCW Systems: BECCS as a side business, Netherlands | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.scwsystems.com/"
+company_linkedin: "https://www.linkedin.com/company/scw-systems/"
+company_country: "Netherlands"
 ---
 
 

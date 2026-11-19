@@ -6,6 +6,11 @@ description: "Operates PYREG pyrolysis units (PX6000, PX1500, P500) to convert l
 url: "/directory/a-healthier-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "A Healthier Earth: biochar division, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-04"
+company_url: "https://ahealthierearth.com"
+company_linkedin: "https://www.linkedin.com/company/ahealthierearth/"
+company_country: "United Kingdom"
 ---
 
 

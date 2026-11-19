@@ -6,6 +6,10 @@ description: "Accredited third-party verification body that validates and verifi
 url: "/directory/normec-verifavia/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Normec Verifavia: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://normecverifavia.com/"
+company_country: "France"
 ---
 
 

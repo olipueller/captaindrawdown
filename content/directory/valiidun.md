@@ -6,6 +6,11 @@ description: "Project developer planning to deploy third-party direct air captur
 url: "/directory/valiidun/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Valiidun: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://valiidun.com/"
+company_linkedin: "https://www.linkedin.com/company/valiidun/"
+company_country: "United States"
 ---
 
 

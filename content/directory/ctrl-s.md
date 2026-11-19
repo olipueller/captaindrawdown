@@ -6,6 +6,11 @@ description: "Buys intellectual property, experimental data and engineering know
 url: "/directory/ctrl-s/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Ctrl-S: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture"
+company_linkedin: "https://www.linkedin.com/company/heatmap-news/"
+company_country: "United States"
 ---
 
 

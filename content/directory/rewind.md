@@ -6,6 +6,11 @@ description: "Stores sustainably sourced waste biomass (sawdust, wood offcuts) i
 url: "/directory/rewind/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Rewind: biomass burial company, Israel | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.rewind.earth/"
+company_linkedin: "https://www.linkedin.com/company/rewindearth/"
+company_country: "Israel"
 ---
 
 

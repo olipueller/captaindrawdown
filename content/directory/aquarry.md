@@ -6,6 +6,11 @@ description: "Dissolves alkaline minerals (including mine tailings/waste rock) i
 url: "/directory/aquarry/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Aquarry: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.aquarry.earth/"
+company_linkedin: "https://www.linkedin.com/company/aquarry-inc/"
+company_country: "United States"
 ---
 
 

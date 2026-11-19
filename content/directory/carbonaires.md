@@ -6,6 +6,11 @@ description: "Carbon asset management firm that invests in and structures financ
 url: "/directory/carbonaires/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbonaires: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://carbonaires.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonaires/"
+company_country: "United Kingdom"
 ---
 
 

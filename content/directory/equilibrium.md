@@ -6,6 +6,11 @@ description: "Pyro-gasifies invasive Prosopis juliflora and corn cob residues in
 url: "/directory/equilibrium/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Equilibrium: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://equilibriumearth.com/"
+company_linkedin: "https://www.linkedin.com/company/equilibrium-earth/"
+company_country: "India"
 ---
 
 

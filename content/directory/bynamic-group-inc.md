@@ -6,6 +6,11 @@ description: "Consultancy and brokerage for voluntary carbon credits (including 
 url: "/directory/bynamic-group-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Bynamic Group Inc.: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.bynamicgroup.com"
+company_linkedin: "https://www.linkedin.com/company/bynamic-group/"
+company_country: "Canada"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Produces biochar via Kontiki-kiln pyrolysis of bamboo offcuts in c
 url: "/directory/wongphai-coltd/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Wongphai Co.,Ltd: biochar company, Thailand | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.wongphai.com/"
+company_linkedin: "https://www.linkedin.com/company/wongphai/"
+company_country: "Thailand"
 ---
 
 

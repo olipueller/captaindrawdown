@@ -6,6 +6,11 @@ description: "Carbon credit standard-setter and public registry certifying engin
 url: "/directory/rainbow/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Rainbow: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://rainbowstandard.io/"
+company_linkedin: "https://www.linkedin.com/company/rainbowstandard/"
+company_country: "France"
 ---
 
 
@@ -30,6 +35,8 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-11-19** — News: SOLER Group has been producing charcoal in France since 1993. Two generations later, they’re still... ([source](https://www.linkedin.com/feed/update/urn:li:share:7529107331398209536/))
+- **2026-11-17** — News: CDRexperts: How close is mineral carbonation (MC) to commercial-scale carbon removal? We checked... ([source](https://www.linkedin.com/company/cdrexperts/#post-b6a69920a794))
 - **2026-11-16** — News: Rainbow at COP31 | Rainbow ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7527810271915134976/))
 - **2026-11-15** — News: Rainbow: Varaha ’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has... ([source](https://www.linkedin.com/company/rainbowstandard/#post-6a4bc7c34af8))
 - **2026-11-13** — News: Our team will be in New Orleans next week for The North American Biochar Conference. On Tuesday… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526931891103514624/))
@@ -58,8 +65,6 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 - **2026-10-09** — News: The carbon removal community is quickly pivoting to focus on scaled deployment, and the open… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514239815651860480/))
 - **2026-10-07** — News: At the recent Carbon Removal Policy Summit, Carbon Gap presented their new Policy Levers Library. T ([source](https://www.linkedin.com/feed/update/urn:li:share:7513517834539528193/))
 - **2026-10-03** — News: Underground Forest: Underground Forest is working on a Rainbow certification, under the Biobased… ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-1b9e564ef7c6))
-- **2026-09-28** — News: Stack Carbon: ðð ̈ððð2 ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð… ([source](https://www.linkedin.com/company/stackcarbon/#post-1e69f4d73a4d))
-- **2026-09-27** — News: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
 
 ---
 

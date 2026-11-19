@@ -6,6 +6,11 @@ description: "Builds hybrid biomass gasification reactors that convert wet agric
 url: "/directory/poás-bioenergy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Poás Bioenergy: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-07"
+company_url: "https://www.poasbioenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/po%C3%A1s-bioenergy/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Climitra produces engineered biochar from agricultural waste and i
 url: "/directory/climitra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Climitra: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://climitra.com/"
+company_linkedin: "https://www.linkedin.com/company/climitra/"
+company_country: "India"
 ---
 
 

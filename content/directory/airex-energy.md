@@ -6,6 +6,11 @@ description: "Develops proprietary CarbonFX pyrolysis and DryFX biomass drying t
 url: "/directory/airex-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Airex Energy: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://airex-energy.com/"
+company_linkedin: "https://www.linkedin.com/company/airex-energy/"
+company_country: "Canada"
 ---
 
 

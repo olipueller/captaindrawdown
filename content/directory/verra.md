@@ -6,6 +6,11 @@ description: "Nonprofit carbon-crediting standards body operating the VCS Progra
 url: "/directory/verra/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Verra: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://verra.org"
+company_linkedin: "https://www.linkedin.com/company/verrastandards/"
+company_country: "United States"
 ---
 
 

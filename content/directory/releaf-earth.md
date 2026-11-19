@@ -6,6 +6,11 @@ description: "Pyrolyzes palm kernel shell waste from its own palm-oil processing
 url: "/directory/releaf-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Releaf Earth: biochar as a side business, Nigeria | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.wereleaf.earth/"
+company_linkedin: "https://www.linkedin.com/company/releaf-earth/"
+company_country: "Nigeria"
 ---
 
 
@@ -29,6 +34,7 @@ Releaf Earth is a Nigerian climate-agritech company that processes palm nuts fro
 
 ## History
 
+- **2026-11-16** — News: Releaf Earth Iwuru biochar facility — Biochar ([source](https://news.sustainability-directory.com/innovation/industrial-biochar-plant-turns-agricultural-waste-into-stable-carbon-removal))
 - **2026-11-01** — News: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon… ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
 - **2026-10-28** — News: Ambitious carbon removal operators want a registry partner that’s responsive and efficient. That’s ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518950549812174848/))
 - **2026-09-27** — News: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))

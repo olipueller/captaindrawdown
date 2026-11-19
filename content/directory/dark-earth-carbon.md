@@ -6,6 +6,11 @@ description: "Operates a rotary-kiln pyrolysis plant converting forestry and agr
 url: "/directory/dark-earth-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Dark Earth Carbon: biochar company, Tanzania | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.darkearthcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/dark-earth-carbon/"
+company_country: "Tanzania"
 ---
 
 

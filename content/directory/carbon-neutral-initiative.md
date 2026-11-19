@@ -6,6 +6,11 @@ description: "Applies crushed silicate minerals (olivine) to green roofs and gar
 url: "/directory/carbon-neutral-initiative/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Carbon Neutral Initiative: enhanced weathering company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbon-neutral-initiative.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-neutral-initiative/"
+company_country: "Netherlands"
 ---
 
 

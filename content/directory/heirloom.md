@@ -6,6 +6,11 @@ description: "Uses calcined limestone as a solid sorbent that absorbs atmospheri
 url: "/directory/heirloom/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Heirloom: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.heirloomcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/heirloom-carbon/"
+company_country: "United States"
 ---
 
 

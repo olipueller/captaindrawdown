@@ -6,6 +6,11 @@ description: "Trains smallholder Colombian coffee farmers to convert pruning and
 url: "/directory/biodiversal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biodiversal: biochar as a side business, Colombia | Captain Drawdown"
+lastmod: "2026-10-31"
+company_url: "https://biodiversal.com/"
+company_linkedin: "https://www.linkedin.com/company/biodiversal/"
+company_country: "Colombia"
 ---
 
 

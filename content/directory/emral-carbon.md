@@ -6,6 +6,11 @@ description: "Carbon market brokerage and project finance advisory firm intermed
 url: "/directory/emral-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Emral Carbon: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://emralcarbon.com"
+company_linkedin: "https://www.linkedin.com/company/emral-carbon/"
+company_country: "United Kingdom"
 ---
 
 

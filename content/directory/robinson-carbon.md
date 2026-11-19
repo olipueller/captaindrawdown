@@ -6,6 +6,10 @@ description: "Industrial pyrolysis of wood residues into biochar at a planned fa
 url: "/directory/robinson-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Robinson Carbon: biochar division, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_linkedin: "https://www.linkedin.com/company/robinsoncarbon/"
+company_country: "United States"
 ---
 
 

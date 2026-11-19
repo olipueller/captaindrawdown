@@ -6,6 +6,11 @@ description: "Planned pyrolysis of regional agricultural and forestry biomass re
 url: "/directory/decarbofy/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Decarbofy: biochar company, Argentina | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://decarbofy.com/"
+company_linkedin: "https://www.linkedin.com/company/decarbofy/"
+company_country: "Argentina"
 ---
 
 

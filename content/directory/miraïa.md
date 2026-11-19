@@ -6,6 +6,11 @@ description: "Modernized continuous vertical-furnace wood pyrolysis that convert
 url: "/directory/miraïa/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Miraïa: biochar company, France | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://miraia.fr/en/home/"
+company_linkedin: "https://www.linkedin.com/company/mira%C3%AFa/"
+company_country: "France"
 ---
 
 

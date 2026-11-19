@@ -6,6 +6,10 @@ description: "Develops nature-based carbon projects such as plantation forestry 
 url: "/directory/weact-pty-ltd/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "WeAct Pty Ltd.: CDR enabling technology, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.weact.com.au"
+company_country: "Australia"
 ---
 
 

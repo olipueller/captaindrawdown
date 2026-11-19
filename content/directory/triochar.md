@@ -6,6 +6,10 @@ description: "Works with smallholder farmers to turn agricultural residues into 
 url: "/directory/triochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Triochar: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://triochar.io/"
+company_country: "Germany"
 ---
 
 

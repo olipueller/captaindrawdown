@@ -6,6 +6,11 @@ description: "Biochar advisory/consulting firm guiding clients on biochar qualit
 url: "/directory/the-biochar-impact-company/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "The Biochar Impact Company: biochar ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biocharimpact.com/"
+company_linkedin: "https://www.linkedin.com/company/the-biochar-impact-company/"
+company_country: "United States"
 ---
 
 

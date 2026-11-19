@@ -6,6 +6,11 @@ description: "Used patented Accelerated Carbonation Technology (ACT) in a modula
 url: "/directory/carbon8-systems-limited/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carbon8 Systems Limited: mineralization company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbon8.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/carbon8-systems-limited/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes residual biomass into biochar at a Centro Experimental d
 url: "/directory/carbon-remove/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbon Remove: biochar company, Brazil | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonremove.com.br/en"
+company_linkedin: "https://www.linkedin.com/company/carbon-remove-biochar-solutions/"
+company_country: "Brazil"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Uses a proprietary liquid-spray airflow approach (instead of filte
 url: "/directory/gigadac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "GigaDAC: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.gigadac.org/"
+company_linkedin: "https://www.linkedin.com/company/gigadac/"
+company_country: "United States"
 ---
 
 

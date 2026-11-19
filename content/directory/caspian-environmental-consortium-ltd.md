@@ -6,6 +6,11 @@ description: "Cultivates local Caspian Sea diatom microalgae in coastal aquapond
 url: "/directory/caspian-environmental-consortium-ltd/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Caspian Environmental Consortium Ltd.: ocean CDR company, Kazakhstan | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.caspian.eco/"
+company_linkedin: "https://www.linkedin.com/company/caspian-environmental-consortium-ltd/"
+company_country: "Kazakhstan"
 ---
 
 

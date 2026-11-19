@@ -6,6 +6,11 @@ description: "Early-stage Indian startup developing a liquid-solvent Direct Air 
 url: "/directory/carbon-square/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbon Square: direct air capture company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonsqr.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonsqr/"
+company_country: "India"
 ---
 
 

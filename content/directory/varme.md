@@ -6,6 +6,11 @@ description: "Waste-to-energy combustion of municipal solid waste with amine-bas
 url: "/directory/varme/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Varme: BECCS company, Canada | Captain Drawdown"
+lastmod: "2026-10-24"
+company_url: "https://www.varme.ca/"
+company_linkedin: "https://www.linkedin.com/company/varme-energy/"
+company_country: "Canada"
 ---
 
 

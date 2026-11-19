@@ -6,6 +6,11 @@ description: "Embeds biochar into plastic-free bio-based composites to produce c
 url: "/directory/beyond-sustainable-tech-inc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Beyond Sustainable Tech inc.: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.beyonders.tech"
+company_linkedin: "https://www.linkedin.com/company/beyond-sustainable-tech/"
+company_country: "Canada"
 ---
 
 

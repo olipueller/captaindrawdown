@@ -6,6 +6,11 @@ description: "Social Carbon Foundation is a voluntary carbon market standard-set
 url: "/directory/social-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Social Carbon: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.socialcarbon.org/"
+company_linkedin: "https://www.linkedin.com/company/social-carbon/"
+company_country: "United Kingdom"
 ---
 
 

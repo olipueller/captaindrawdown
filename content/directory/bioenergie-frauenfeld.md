@@ -6,6 +6,11 @@ description: "Operates a 4 MW SynCraft wood-gas CHP plant that pyrolyzes residua
 url: "/directory/bioenergie-frauenfeld/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Bioenergie Frauenfeld: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.bioenergie-frauenfeld.ch/"
+company_linkedin: "https://www.linkedin.com/company/bioenergie-frauenfeld/"
+company_country: "Switzerland"
 ---
 
 

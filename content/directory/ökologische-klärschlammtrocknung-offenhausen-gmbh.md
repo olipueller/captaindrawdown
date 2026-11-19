@@ -6,6 +6,11 @@ description: "Two wood-chip pyrolysis units producing biochar whose waste heat d
 url: "/directory/ökologische-klärschlammtrocknung-offenhausen-gmbh/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Ökologische Klärschlammtrocknung Offenhausen GmbH: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.egrw.de/member/oekologische-klaerschlammtrocknung-offenhausen-gmbh/"
+company_linkedin: "https://www.linkedin.com/company/egrw/"
+company_country: "Germany"
 ---
 
 

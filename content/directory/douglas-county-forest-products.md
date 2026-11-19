@@ -6,6 +6,11 @@ description: "Pyrolyzes sawmill wood-waste (chips, sawdust, bark, shavings) into
 url: "/directory/douglas-county-forest-products/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Douglas County Forest Products: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "http://www.dcfp.com/"
+company_linkedin: "https://www.linkedin.com/company/douglas-county-forest-products/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Independent UK decarbonisation developer leading the Acorn CCS and
 url: "/directory/storeggapale-blue-dot-energy/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Storegga/Pale Blue Dot Energy: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://storegga.earth/"
+company_linkedin: "https://www.linkedin.com/company/storegga/"
+company_country: "United Kingdom"
 ---
 
 

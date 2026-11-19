@@ -6,6 +6,11 @@ description: "Airfix develops and finances BECCS/BiCRS projects, structuring bio
 url: "/directory/airfix/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Airfix: BECCS division, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.airfixcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/airfixcarbon/"
+company_country: "Switzerland"
 ---
 
 

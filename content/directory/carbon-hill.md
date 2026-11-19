@@ -6,6 +6,11 @@ description: "Runs a proprietary pyrolysis system at Caebardd farm that turns wa
 url: "/directory/carbon-hill/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbon Hill: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonhill.co.uk"
+company_linkedin: "https://www.linkedin.com/company/accend-conusulting/"
+company_country: "United Kingdom"
 ---
 
 

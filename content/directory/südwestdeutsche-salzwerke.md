@@ -6,6 +6,11 @@ description: "Operates a SYNCRAFT CW1800x2-1000 wood-gasification reverse power 
 url: "/directory/südwestdeutsche-salzwerke/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Südwestdeutsche Salzwerke: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.salzwerke.de/"
+company_linkedin: "https://www.linkedin.com/company/suedwestdeutsche-salzwerke-ag/"
+company_country: "Germany"
 ---
 
 

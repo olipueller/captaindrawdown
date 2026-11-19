@@ -6,6 +6,9 @@ description: "Operates 1,500L Kon-Tiki flame kilns that carbonize cacao pod husk
 url: "/directory/tachibana-international-ghana/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Tachibana International Ghana: biochar as a side business, Ghana | Captain Drawdown"
+lastmod: "2026-05-01"
+company_country: "Ghana"
 ---
 
 

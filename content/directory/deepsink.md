@@ -6,6 +6,11 @@ description: "Fractional commercial/sales service for engineered CDR project dev
 url: "/directory/deepsink/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Deepsink: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://deepsink.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/deepsink/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Produces EBC-certified biochar-based products (feed charcoal, manu
 url: "/directory/charline/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CharLine: biochar division, Austria | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.char-line.com/"
+company_linkedin: "https://www.linkedin.com/company/charlinegmbh/"
+company_country: "Austria"
 ---
 
 

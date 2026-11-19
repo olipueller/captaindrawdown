@@ -6,6 +6,11 @@ description: "Cultivates perennial C4 grass on degraded land, harvests it, and p
 url: "/directory/jord/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Jord: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.jord.one/"
+company_linkedin: "https://www.linkedin.com/company/jordab/"
+company_country: "Sweden"
 ---
 
 

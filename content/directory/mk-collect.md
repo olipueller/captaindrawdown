@@ -6,6 +6,11 @@ description: "Direct air capture using a liquid solvent sped up by nanocatalysts
 url: "/directory/mk-collect/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "MK Collect: direct air capture company, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://mkcollect.com.au/"
+company_linkedin: "https://www.linkedin.com/company/mk-collect/"
+company_country: "Australia"
 ---
 
 

@@ -6,6 +6,9 @@ description: "Manufactures pyrolysis equipment and operates a Puro.earth-certifi
 url: "/directory/jiaxing-tongao-technologyclimate-future/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Jiaxing Tongao Technology/Climate Future: biochar company, China | Captain Drawdown"
+lastmod: "2026-07-15"
+company_country: "China"
 ---
 
 

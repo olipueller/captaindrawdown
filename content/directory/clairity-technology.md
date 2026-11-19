@@ -6,6 +6,11 @@ description: "Uses alkali carbonate sorbents on ceramic honeycomb monoliths to c
 url: "/directory/clairity-technology/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Clairity Technology: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.clairitytech.com/"
+company_linkedin: "https://www.linkedin.com/company/clairity-tech/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural biomass residues in India into biochar sold
 url: "/directory/suncarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "SunCarbon: biochar company, India | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://suncarbon.in/"
+company_linkedin: "https://www.linkedin.com/company/suncarbon/"
+company_country: "India"
 ---
 
 

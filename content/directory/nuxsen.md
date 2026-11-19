@@ -6,6 +6,11 @@ description: "Develops electrochemical direct air capture reactors (CarbonJet, S
 url: "/directory/nuxsen/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Nuxsen: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://nuxsen.com/"
+company_linkedin: "https://www.linkedin.com/company/nuxsen/"
+company_country: "United States"
 ---
 
 

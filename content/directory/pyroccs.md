@@ -6,6 +6,11 @@ description: "PyroCCS develops and operates biochar pyrolysis plants in the Glob
 url: "/directory/pyroccs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "PyroCCS: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://pyroccs.com"
+company_linkedin: "https://www.linkedin.com/company/pyroccs/"
+company_country: "Germany"
 ---
 
 
@@ -31,6 +36,7 @@ PyroCCS is a Cologne, Germany-based climate tech startup founded in 2022 that de
 
 ## History
 
+- **2026-11-18** — News: Circle Carbon: Aperam BioEnergia and Circle Carbon partnering to advance circular innovation and... ([source](https://www.linkedin.com/company/circlecarbon/#post-dea2f83e47a1))
 - **2026-09-14** — News: PyroCCS Secures Funding To Scale Biocarbon And Carbon Removal Supply Chain ([source](https://carbonherald.com/pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain))
 - **2026-09-08** — News: PyroCCS Secures Growth Funding to Scale Pyrolysis Infrastructure and Industrial Bioproduct Offtake… ([source](https://biochartoday.com/news/pyroccs-secures-growth-funding-to-scale-pyrolysis-infrastructure-and-industrial-bioproduct-offtake-globally/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-05** — News: PyroCCS: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))

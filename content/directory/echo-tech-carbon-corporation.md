@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural residues (e.g., rice husks) and landfill bi
 url: "/directory/echo-tech-carbon-corporation/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Echo Tech Carbon Corporation: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.echotechcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/echotech-carbon-corporation/"
+company_country: "Canada"
 ---
 
 

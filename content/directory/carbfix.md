@@ -6,6 +6,11 @@ description: "Dissolves CO2 in water and injects the solution into basaltic subs
 url: "/directory/carbfix/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carbfix: mineralization division, Iceland | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.carbfix.com/"
+company_linkedin: "https://www.linkedin.com/company/carbfix/"
+company_country: "Iceland"
 ---
 
 
@@ -34,6 +39,16 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-11-19** — News: Segir ekki unnið að því að skipuleggja uppsagnir hjá Orkuveitunni — Vitinn ([source](https://vitinn.news/grein/b9bdeedd-52fc-48fd-b86e-ca6aeffbb747))
+- **2026-11-19** — News: Hugmyndin um Coda Terminal „ekki praktísk eins og er“ — Vitinn ([source](https://vitinn.news/grein/4ca17b15-cec8-44d0-865b-12be20079b0e))
+- **2026-11-18** — News: Frestur Carbfix til að tryggja 17 milljarða styrk rennur út í desember - Heimildin ([source](https://heimildin.is/q9yhr/frestur-carbfix-til-ad-tryggja-17-milljarda-styrk-rennur-ut-i-desember/))
+- **2026-11-17** — News: Frestur Carbfix til að tryggja 17 milljarða styrk rennur út í desember — Vitinn ([source](https://vitinn.news/grein/9956144a-7678-40e1-a6ab-67b9ffd927b4))
+- **2026-11-17** — News: Carbfix owes Reykjavik Energy 6.6 billion krona - Daily Northern ([source](https://www.dailynorthern.com/39218/carbfix-owes-reykjavik-energy-6-6-billion-krona/))
+- **2026-11-17** — News: Uppsagnir hjá Carbfix ([source](https://www.mbl.is/vidskipti/frettir/2026/11/17/uppsagnir_hja_carbfix/))
+- **2026-11-17** — News: Carbfix skuldar Orkuveitunni 6,6 milljarða króna ([source](https://www.mbl.is/vidskipti/frettir/2026/11/17/carbfix_skuldar_orkuveitunni_6_6_milljarda_krona/))
+- **2026-11-17** — News: Carbfix cuts eight jobs as it shifts strategy - Daily Northern ([source](https://www.dailynorthern.com/39194/carbfix-cuts-eight-jobs-as-it-shifts-strategy/))
+- **2026-11-17** — News: Layoffs at Carbfix - Iceland Monitor ([source](https://icelandmonitor.mbl.is/news/news/2026/11/17/layoffs_at_carbfix/))
+- **2026-11-16** — News: Entry to Hellisheidi, Iceland | Shots of Climeworks / Carbfi... | Flickr ([source](https://www.flickr.com/photos/159447674@N04/51916488790))
 - **2026-11-16** — News: Microsoft - Wikipedia ([source](https://en.wikipedia.org/wiki/Microsoft))
 - **2026-11-13** — News: Experiments Indicate Tuzla Volcanic Rocks Can Trap Carbon Dioxide as ([source](https://bioengineer.org/experiments-indicate-tuzla-volcanic-rocks-can-trap-carbon-dioxide-as-calcite/))
 - **2026-11-11** — News: Food System’s Climate Problem Could Become Its Feedstock ([source](https://foodinnovatorskulmbach.substack.com/p/food-systems-climate-problem-could))
@@ -54,16 +69,6 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-10-16** — News: Carbfix chce zatrzymać emisje z Grundartangi – ICELAND NEWS ([source](https://icelandnews.is/informacje/carbfix-chce-zatrzymac-emisje-z-grundartangi))
 - **2026-10-09** — News: CCUS Technology | Carbon Capture and Carbon-to-Stone ([source](https://riceias.com/carbon-capture-ccus-carbon-to-stone-technology/))
 - **2026-10-08** — News: Iceland-India Cooperation: Geothermal Energy & CCUS ([source](https://www.nextias.com/ca/current-affairs/08-10-2026/iceland-india-geothermal-ccus))
-- **2026-10-07** — News: Iceland's Hidden Hydrogen: How Volcanic Geology Can Create Clean Energy ([source](https://www.hydrogenexchange.io/post/iceland-s-hidden-hydrogen-how-volcanic-geology-can-create-clean-energy))
-- **2026-10-07** — News: How Iceland Is Bringing Geothermal and Carbon Capture Tech to Indian Industry | Impactful Ninja ([source](https://impactful.ninja/how-iceland-is-bringing-geothermal-and-carbon-capture-tech-to-indian-industry/))
-- **2026-10-07** — News: A Climeworks és a DAC technológia - GREENOLOGY ([source](https://www.greenology.hu/2026/10/06/a-climeworks-es-a-dac-technologia/))
-- **2026-10-07** — News: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - EUROPE SAYS ([source](https://www.europesays.com/3295017/))
-- **2026-10-07** — News: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - The Hindu ([source](https://www.thehindu.com/business/Industry/iceland-courts-india-for-geothermal-ccus-carbon-to-stone-technologies/article71552541.ece))
-- **2026-10-07** — News: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - Bytes Europe ([source](https://www.byteseu.com/2430210/))
-- **2026-10-06** — News: Exclusive: Iceland Eyes India Clean Energy Partnership - EUROPE SAYS ([source](https://www.europesays.com/3294259/))
-- **2026-10-06** — News: Exclusive: Iceland Eyes India Clean Energy Partnership ([source](https://stratnewsglobal.com/europe/iceland/exclusive-iceland-eyes-india-clean-energy-partnership/))
-- **2026-10-06** — News: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni… ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
-- **2026-10-05** — News: JGC-Fluor Joint Venture Completes Final Weld on LNG Canada Train 1 | Turbomachinery Magazine ([source](https://www.turbomachinerymag.com/view/jgc-fluor-joint-venture-completes-final-weld-on-lng-canada-train-1))
 
 ---
 

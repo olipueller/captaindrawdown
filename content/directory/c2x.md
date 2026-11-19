@@ -6,6 +6,11 @@ description: "Biomass gasification (SunGas S-1000) of forestry residues to produ
 url: "/directory/c2x/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "C2X: BECCS as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.c2xglobal.com/"
+company_linkedin: "https://www.linkedin.com/company/c2x-solutions-llc/"
+company_country: "United Kingdom"
 ---
 
 

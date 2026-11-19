@@ -6,6 +6,11 @@ description: "Onnu develops its proprietary CarboFlow pyrolysis technology to co
 url: "/directory/onnu/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Onnu: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-27"
+company_url: "https://www.onnu.com/"
+company_linkedin: "https://www.linkedin.com/company/onnuhq/"
+company_country: "United Kingdom"
 ---
 
 

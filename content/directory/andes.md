@@ -6,6 +6,11 @@ description: "Applies beneficial microorganisms with crop seeds that accelerate 
 url: "/directory/andes/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Andes: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.andes.bio/"
+company_linkedin: "https://www.linkedin.com/company/andesbio/"
+company_country: "United States"
 ---
 
 

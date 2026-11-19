@@ -6,6 +6,11 @@ description: "Develops large-scale biochar projects via industrial gasification 
 url: "/directory/varaha/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Varaha: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.varaha.earth/"
+company_linkedin: "https://www.linkedin.com/company/varaha-carbontech/"
+company_country: "India"
 ---
 
 

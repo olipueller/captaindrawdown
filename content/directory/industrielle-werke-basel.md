@@ -6,6 +6,11 @@ description: "Operates PYREG and BIOMACON biomass pyrolysis plants that carbonis
 url: "/directory/industrielle-werke-basel/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Industrielle Werke Basel: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.iwb.ch/"
+company_linkedin: "https://www.linkedin.com/company/iwb-industrielle-werke-basel/"
+company_country: "Switzerland"
 ---
 
 

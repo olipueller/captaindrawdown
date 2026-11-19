@@ -6,6 +6,11 @@ description: "Slow pyrolysis of camphor-tree pruning waste into EBC-certified bi
 url: "/directory/tchar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "TCHAR: biochar company, Taiwan | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.tchar.com.tw/"
+company_linkedin: "https://www.linkedin.com/company/taiwanbiochar/"
+company_country: "Taiwan"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Aqueous electrochemical DAC using earth-abundant electroactive cap
 url: "/directory/dac-labs/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "DAC Labs: direct air capture company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.daclaboratories.com/"
+company_linkedin: "https://www.linkedin.com/company/dac-laboratories/"
+company_country: "Australia"
 ---
 
 

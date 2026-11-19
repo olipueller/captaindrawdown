@@ -6,6 +6,11 @@ description: "Drives sustainably sourced spruce logs vertically into anoxic clay
 url: "/directory/underground-forest/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Underground Forest: biomass burial company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.undergroundforest.nl"
+company_linkedin: "https://www.linkedin.com/company/underground-forest-b-v/"
+company_country: "Netherlands"
 ---
 
 
@@ -30,6 +35,7 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 
 ## History
 
+- **2026-11-17** — News: COP 31: Time for Attendee Carbon Credits? - Master Resource ([source](https://www.masterresource.org/carbon-offsets/cop-31-co2-fest/))
 - **2026-11-10** — News: Underground Forest has issued 3,249 carbon removal credits under Rainbow’s biobased construction... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525844725141020673/))
 - **2026-11-04** — News: Underground Forest: What if one of the most valuable climate assets in a city is the part nobody… ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-78d031c9a57d))
 - **2026-10-03** — News: Underground Forest: Underground Forest is working on a Rainbow certification, under the Biobased… ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-1b9e564ef7c6))

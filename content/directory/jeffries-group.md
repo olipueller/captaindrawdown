@@ -6,6 +6,11 @@ description: "Pyrolysis of oversize woody green-waste feedstock (Pyrocal CCT tec
 url: "/directory/jeffries-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Jeffries Group: biochar as a side business, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://jeffries.com.au/"
+company_linkedin: "https://www.linkedin.com/company/jeffries/"
+company_country: "Australia"
 ---
 
 

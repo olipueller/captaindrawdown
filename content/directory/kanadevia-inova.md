@@ -6,6 +6,11 @@ description: "Amine-scrubbing carbon capture integrated with waste-to-energy pla
 url: "/directory/kanadevia-inova/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Kanadevia Inova: BECCS as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.kanadevia-inova.com/"
+company_linkedin: "https://www.linkedin.com/company/kanadevia-inova/"
+company_country: "Switzerland"
 ---
 
 

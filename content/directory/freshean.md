@@ -6,6 +6,11 @@ description: "Develops a solid-sorbent DAC material using a proprietary nano-eng
 url: "/directory/freshean/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Freshean: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.freshean.com/"
+company_linkedin: "https://www.linkedin.com/company/freshean-corp/"
+company_country: "United States"
 ---
 
 

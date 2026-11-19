@@ -6,6 +6,11 @@ description: "Develops solid sorbents and adsorbent-based processes for CO2 capt
 url: "/directory/tda/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "TDA: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.tda.com"
+company_linkedin: "https://www.linkedin.com/company/tda-research/"
+company_country: "United States"
 ---
 
 

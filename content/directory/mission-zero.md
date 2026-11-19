@@ -6,6 +6,11 @@ description: "Electrochemical, water-based solvent direct air capture technology
 url: "/directory/mission-zero/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Mission Zero: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-27"
+company_url: "https://www.missionzero.tech/"
+company_linkedin: "https://www.linkedin.com/company/missionzerotech/"
+company_country: "United Kingdom"
 ---
 
 

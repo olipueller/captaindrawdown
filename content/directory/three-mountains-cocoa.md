@@ -6,6 +6,11 @@ description: "Cocoa cooperative hosting a Terraton-operated biochar facility tha
 url: "/directory/three-mountains-cocoa/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Three Mountains Cocoa: biochar as a side business, Ghana | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://threemountainscocoa.com"
+company_linkedin: "https://www.linkedin.com/company/threemountainscocoa/"
+company_country: "Ghana"
 ---
 
 

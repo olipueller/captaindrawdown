@@ -6,6 +6,10 @@ description: "Designs and disseminates low-cost small/medium-scale TLUD gasifier
 url: "/directory/woodgas-pyrolytics-inc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Woodgas Pyrolytics Inc: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://woodgas.com/"
+company_country: "United States"
 ---
 
 

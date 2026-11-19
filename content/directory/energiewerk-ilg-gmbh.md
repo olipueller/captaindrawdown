@@ -6,6 +6,11 @@ description: "Operates SYNCRAFT wood-chip gasification CHP plants that produce b
 url: "/directory/energiewerk-ilg-gmbh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "EnergieWerk Ilg GmbH: biochar as a side business, Austria | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.biomassehof.at/energiewerk-ilg/"
+company_linkedin: "https://www.linkedin.com/company/energiewerk-ilg/"
+company_country: "Austria"
 ---
 
 

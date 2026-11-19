@@ -6,6 +6,11 @@ description: "Plants native Australian Eucalyptus/Acacia on marginal dryland, ha
 url: "/directory/interearth/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "InterEarth: biomass burial company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.inter.earth/"
+company_linkedin: "https://www.linkedin.com/company/interearth/"
+company_country: "Australia"
 ---
 
 

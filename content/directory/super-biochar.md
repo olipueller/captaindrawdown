@@ -6,6 +6,11 @@ description: "Produces engineered region-specific biochar blends paired with AI-
 url: "/directory/super-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Super Biochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-22"
+company_url: "https://www.superbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/superbiochar/"
+company_country: "United States"
 ---
 
 

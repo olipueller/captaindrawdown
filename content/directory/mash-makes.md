@@ -6,6 +6,11 @@ description: "Operates containerised pyrolysis plants in India that convert agri
 url: "/directory/mash-makes/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "MASH Makes: biochar company, Denmark | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.mashmakes.com/"
+company_linkedin: "https://www.linkedin.com/company/mashmakes/"
+company_country: "Denmark"
 ---
 
 

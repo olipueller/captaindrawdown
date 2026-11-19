@@ -6,6 +6,10 @@ description: "Captures biogenic fermentation CO2 at its bioethanol/biomethane bi
 url: "/directory/verbio/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Verbio: BECCS as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.verbio.de"
+company_country: "Germany"
 ---
 
 

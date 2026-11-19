@@ -6,6 +6,10 @@ description: "Reportedly developing solid-sorbent direct air capture systems to 
 url: "/directory/carbon-15/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbon 1.5: direct air capture company, France | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.carbon15.eu/"
+company_country: "France"
 ---
 
 

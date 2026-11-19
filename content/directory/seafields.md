@@ -6,6 +6,11 @@ description: "Farms and harvests pelagic Sargassum in floating AlgaePonix paddoc
 url: "/directory/seafields/"
 pathway: "Ocean CDR"
 liveliness: "🔴 Likely Dead"
+seo_title: "Seafields: ocean CDR company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.seafields.eco"
+company_linkedin: "https://www.linkedin.com/company/seafieldssl/"
+company_country: "United Kingdom"
 ---
 
 

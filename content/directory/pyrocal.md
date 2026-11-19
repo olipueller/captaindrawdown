@@ -6,6 +6,11 @@ description: "Designs and manufactures proprietary Continuous Carbonisation Tech
 url: "/directory/pyrocal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Pyrocal: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-10-01"
+company_url: "https://www.pyrocal.com.au"
+company_linkedin: "https://www.linkedin.com/company/pyrocal/"
+company_country: "Australia"
 ---
 
 

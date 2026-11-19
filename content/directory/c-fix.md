@@ -6,6 +6,11 @@ description: "Conceptual solar-powered direct air capture using alkaline metal s
 url: "/directory/c-fix/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "C-Fix: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.remove-carbon.org/"
+company_linkedin: "https://www.linkedin.com/company/p-c-fix/"
+company_country: "United States"
 ---
 
 

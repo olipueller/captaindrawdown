@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural residues and other organic wastes into bioc
 url: "/directory/energy-farmers/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Energy Farmers: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.energyfarmers.com.au/"
+company_linkedin: "https://www.linkedin.com/company/energy-farmers-australia/"
+company_country: "Australia"
 ---
 
 

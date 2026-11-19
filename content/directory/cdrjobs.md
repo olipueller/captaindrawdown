@@ -6,6 +6,11 @@ description: "Job board and talent/industry-data platform focused exclusively on
 url: "/directory/cdrjobs/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CDRjobs: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-24"
+company_url: "https://www.cdrjobs.earth"
+company_linkedin: "https://www.linkedin.com/company/cdrjobs/"
+company_country: "United States"
 ---
 
 

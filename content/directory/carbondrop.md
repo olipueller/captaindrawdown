@@ -6,6 +6,11 @@ description: "Micronizes basalt and binds it with hydrogel into pellets that are
 url: "/directory/carbondrop/"
 pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
+seo_title: "Carbondrop: enhanced weathering company, Austria | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carbondrop.net/"
+company_linkedin: "https://www.linkedin.com/company/carbondop1/"
+company_country: "Austria"
 ---
 
 

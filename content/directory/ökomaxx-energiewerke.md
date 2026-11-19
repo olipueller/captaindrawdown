@@ -6,6 +6,10 @@ description: "Operates a Syncraft biomass gasification CHP plant that generates 
 url: "/directory/ökomaxx-energiewerke/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "ÖkoMAXX Energiewerke: biochar as a side business, Austria | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "http://www.purenergy.at/"
+company_country: "Austria"
 ---
 
 

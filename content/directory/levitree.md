@@ -6,6 +6,11 @@ description: "Pumps wood-chip slurries 5-100m underground via hydraulic injectio
 url: "/directory/levitree/"
 pathway: "Biomass Burial"
 liveliness: "🔴 Likely Dead"
+seo_title: "Levitree: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.levitree.com/"
+company_linkedin: "https://www.linkedin.com/company/levitree/"
+company_country: "United States"
 ---
 
 

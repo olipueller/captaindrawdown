@@ -6,6 +6,11 @@ description: "Gasifies forestry residual wood pellets to produce hydrogen plus a
 url: "/directory/hydrogen-naturally/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "Hydrogen Naturally: BECCS company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.h2naturally.com/"
+company_linkedin: "https://www.linkedin.com/company/hydrogen-naturally/"
+company_country: "Canada"
 ---
 
 

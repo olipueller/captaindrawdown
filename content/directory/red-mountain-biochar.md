@@ -6,6 +6,11 @@ description: "Pyrolyzes forestry and agricultural biomass residuals (sawdust, wo
 url: "/directory/red-mountain-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Red Mountain Biochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://redmountainbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/red-mountain-biochar/"
+company_country: "United States"
 ---
 
 

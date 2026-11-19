@@ -6,6 +6,11 @@ description: "Blockchain-based carbon credit marketplace/bridging platform that 
 url: "/directory/co2t-llc-dba-co2trust/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "CO2T, LLC (DBA CO2Trust): CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://co2trust.earth"
+company_linkedin: "https://www.linkedin.com/company/co2trust/"
+company_country: "United States"
 ---
 
 

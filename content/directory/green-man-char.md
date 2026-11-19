@@ -6,6 +6,11 @@ description: "Continuous pyrolysis of woody waste biomass using Earth Systems' C
 url: "/directory/green-man-char/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Green Man Char: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://greenmanchar.com.au/"
+company_linkedin: "https://www.linkedin.com/company/green-man-char/"
+company_country: "Australia"
 ---
 
 

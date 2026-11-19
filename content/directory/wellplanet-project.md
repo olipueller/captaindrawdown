@@ -6,6 +6,11 @@ description: "Concept-stage plan for a solar- and geothermal-powered direct air 
 url: "/directory/wellplanet-project/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "WellPlanet Project: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://wellplanet.pro/"
+company_linkedin: "https://www.linkedin.com/company/wellplanetpro/"
+company_country: "United States"
 ---
 
 

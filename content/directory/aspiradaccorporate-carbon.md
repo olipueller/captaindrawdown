@@ -6,6 +6,11 @@ description: "Modular, solar-powered direct air capture using MOF-based solid so
 url: "/directory/aspiradaccorporate-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "AspiraDAC/Corporate Carbon: direct air capture division, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.aspiradac.com/"
+company_linkedin: "https://www.linkedin.com/company/aspiradac/"
+company_country: "Australia"
 ---
 
 

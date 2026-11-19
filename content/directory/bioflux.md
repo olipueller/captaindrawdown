@@ -6,6 +6,11 @@ description: "Consultancy that designs, certifies, and operationalizes third-par
 url: "/directory/bioflux/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BioFlux: biochar ecosystem company, Netherlands | Captain Drawdown"
+lastmod: "2026-10-17"
+company_url: "https://www.bioflux.earth/"
+company_linkedin: "https://www.linkedin.com/company/bioflux-eu/"
+company_country: "Netherlands"
 ---
 
 

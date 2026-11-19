@@ -6,6 +6,11 @@ description: "Operates the Puro Standard methodology framework and Puro Registry
 url: "/directory/puro/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Puro: CDR enabling technology, Finland | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://puro.earth/"
+company_linkedin: "https://www.linkedin.com/company/puro-earth/"
+company_country: "Finland"
 ---
 
 
@@ -34,6 +39,13 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-11-19** — News: Remove Carbon Today: Remove Carbon Today celebrates its first year with 344 tonnes of CDR retired.... ([source](https://www.linkedin.com/company/remove-carbon-today/#post-05889156d5af))
+- **2026-11-18** — News: #carbonremoval #cdr #environmentalattributes #newhires #teampuro #soilcarbon | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7528823357031665664/))
+- **2026-11-18** — News: Circle Carbon: Aperam BioEnergia and Circle Carbon partnering to advance circular innovation and... ([source](https://www.linkedin.com/company/circlecarbon/#post-dea2f83e47a1))
+- **2026-11-18** — News: 環境部COP31論壇探討碳移除 盼台灣生物炭接軌國際標準 | 報新聞 Mega News ([source](https://www.contentplatform.info/articles/580595/%E7%92%B0%E5%A2%83%E9%83%A8cop31%E8%AB%96%E5%A3%87%E6%8E%A2%E8%A8%8E%E7%A2%B3%E7%A7%BB%E9%99%A4%E3%80%80%E7%9B%BC%E5%8F%B0%E7%81%A3%E7%94%9F%E7%89%A9%E7%82%AD%E6%8E%A5%E8%BB%8C%E5%9C%8B%E9%9A%9B/))
+- **2026-11-17** — News: Dark Earth - ARS facility - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/dark-earth-ars-facility/))
+- **2026-11-17** — News: CDRexperts: How close is mineral carbonation (MC) to commercial-scale carbon removal? We checked... ([source](https://www.linkedin.com/company/cdrexperts/#post-b6a69920a794))
+- **2026-11-17** — News: CO2-Sync: https://lnkd.in/grH_sxNf A major milestone for CO2-Sync, Carbo-FORCE—and what we believe... ([source](https://www.linkedin.com/company/co2-sync/#post-7cdf002df5be))
 - **2026-11-16** — News: Crystaltrade: 10,575 CORCs Issued: Another Milestone for Truecoco Ghana Ltd The seventh monitoring... ([source](https://www.linkedin.com/company/crystalchain/#post-89c2b62f7611))
 - **2026-11-16** — News: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a... ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-7443e0f8705d))
 - **2026-11-16** — News: CarbonConnect: 5,000+ tonnes of CO2. Back in the soil, not the air. That’s what CarbonConnect’s... ([source](https://www.linkedin.com/company/carbonconnectearth/#post-ff50139f4b74))
@@ -57,13 +69,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-11-05** — News: Nellie Mwyndy Cross - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/nellie-mwyndy-cross/))
 - **2026-11-05** — News: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our… ([source](https://www.linkedin.com/company/bc-biocarbon/#post-b026aca78ae0))
 - **2026-11-05** — News: Clean the Sky - Carbon Removal Registries ([source](https://www.cleanthesky.com/innovation/certificates-issued))
-- **2026-11-04** — News: UN Technical Reviews Highlight Integrity Gaps In Article 6.2 Carbon Trading ([source](https://carbonherald.com/un-technical-reviews-highlight-integrity-gaps-in-article-6-2-carbon-trading/))
-- **2026-11-04** — News: Jain Irrigation Partners with Supercritical for Biochar Credits ([source](https://biochartoday.com/news/jain-irrigation-systems-and-supercritical-finalize-agreement-for-up-to-19000-tonnes-of-biochar-carbon-removal-credits/))
-- **2026-11-04** — News: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for… ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
-- **2026-11-03** — News: Opinion: It’s Time For Governments To Rethink The Role That Carbon Removal Can Play ([source](https://carbonherald.com/opinion-its-time-for-governments-to-rethink-the-role-that-carbon-removal-can-play/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-its-time-for-governments-to-rethink-the-role-that-carbon-removal-can-play))
-- **2026-11-03** — News: Puro.earth Surpasses 2M Carbon Removal Certificates Issued ([source](https://carbonherald.com/puro-earth-surpasses-2m-carbon-removal-certificates-issued/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-surpasses-2m-carbon-removal-certificates-issued))
-- **2026-11-03** — News: Sequest Horizon - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sequest-horizon/))
-- **2026-10-31** — News: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to… ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
 
 ---
 

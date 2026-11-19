@@ -6,6 +6,11 @@ description: "Buries wildfire-killed trees in engineered anoxic underground cham
 url: "/directory/mast-reforestation/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Mast Reforestation: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.mastreforest.com/"
+company_linkedin: "https://www.linkedin.com/company/mast-reforest/"
+company_country: "United States"
 ---
 
 

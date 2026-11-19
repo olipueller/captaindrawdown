@@ -6,6 +6,11 @@ description: "Operates a certification scheme and registry that issues forest-ca
 url: "/directory/carbon-capture-company/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Capture Company: CDR enabling technology, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://carboncapturecompany.se/"
+company_linkedin: "https://www.linkedin.com/company/carboncapturecompany/"
+company_country: "Sweden"
 ---
 
 

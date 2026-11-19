@@ -6,6 +6,11 @@ description: "Designs and manufactures modular solid-sorbent direct air capture 
 url: "/directory/skyrenu/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Skyrenu: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://skyrenu.com/"
+company_linkedin: "https://www.linkedin.com/company/skyrenu-technologies/"
+company_country: "Canada"
 ---
 
 

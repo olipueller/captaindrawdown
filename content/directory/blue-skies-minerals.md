@@ -6,6 +6,11 @@ description: "Reacts captured CO2 with mine tailings plus additives to produce a
 url: "/directory/blue-skies-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Blue Skies Minerals: mineralization company, Germany | Captain Drawdown"
+lastmod: "2026-09-18"
+company_url: "https://www.blueskiesminerals.com/"
+company_linkedin: "https://www.linkedin.com/company/blueskiesminerals/"
+company_country: "Germany"
 ---
 
 

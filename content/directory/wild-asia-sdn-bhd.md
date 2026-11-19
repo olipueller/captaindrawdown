@@ -6,6 +6,10 @@ description: "Runs community biochar units (artisanal kilns and Centralised BIO 
 url: "/directory/wild-asia-sdn-bhd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Wild Asia Sdn. Bhd.: biochar as a side business, Malaysia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.wildasia.org"
+company_country: "Malaysia"
 ---
 
 

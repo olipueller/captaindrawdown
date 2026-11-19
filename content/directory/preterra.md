@@ -6,6 +6,11 @@ description: "Operates mobile SP-SC pyrolysis retorts on Salt Spring Island to c
 url: "/directory/preterra/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Preterra: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://preterra.ca/"
+company_linkedin: "https://www.linkedin.com/company/preterra-biocarbon-solutions-ltd/"
+company_country: "Canada"
 ---
 
 

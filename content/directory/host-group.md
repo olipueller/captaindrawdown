@@ -6,6 +6,10 @@ description: "Designs and builds anaerobic-digestion biogas plants, biogas upgra
 url: "/directory/host-group/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "HoSt Group: BECCS as a side business, Netherlands | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://host-bioenergy.com/"
+company_country: "Netherlands"
 ---
 
 

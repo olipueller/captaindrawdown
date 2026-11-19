@@ -6,6 +6,11 @@ description: "Continuous slow pyrolysis of FSC/PEFC-certified eucalyptus residue
 url: "/directory/econew/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Econew: biochar as a side business, Brazil | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://econew.net"
+company_linkedin: "https://www.linkedin.com/company/econew/"
+company_country: "Brazil"
 ---
 
 

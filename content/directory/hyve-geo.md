@@ -6,6 +6,11 @@ description: "Cultivates microalgae in desert environments, extracts bioactive c
 url: "/directory/hyve-geo/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Hyve Geo: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.hyvegeo.com/"
+company_linkedin: "https://www.linkedin.com/company/hyvegeo/"
+company_country: "United Kingdom"
 ---
 
 

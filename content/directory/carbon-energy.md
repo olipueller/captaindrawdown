@@ -6,6 +6,11 @@ description: "Electrochemical direct air capture (EC-DAC) using a metal-air cell
 url: "/directory/carbon-energy/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Carbon Energy: direct air capture company, South Korea | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "http://www.carbonenergy.ai/"
+company_linkedin: "https://www.linkedin.com/company/carbonenergy/"
+company_country: "South Korea"
 ---
 
 

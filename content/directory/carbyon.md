@@ -6,6 +6,11 @@ description: "Develops modular \"fast-swing\" sorbent-based Direct Air Capture m
 url: "/directory/carbyon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Carbyon: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbyon.com/"
+company_linkedin: "https://www.linkedin.com/company/carbyon/"
+company_country: "Netherlands"
 ---
 
 

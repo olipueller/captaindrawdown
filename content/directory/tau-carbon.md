@@ -6,6 +6,11 @@ description: "Preserves dry, densified non-merchantable wood waste from forest t
 url: "/directory/tau-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Tau Carbon: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.taucarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/tau-carbon/"
+company_country: "United States"
 ---
 
 

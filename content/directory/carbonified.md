@@ -6,6 +6,11 @@ description: "Small Canadian carbon project developer working across biochar, re
 url: "/directory/carbonified/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbonified: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonified.ca/"
+company_linkedin: "https://www.linkedin.com/company/carbonified/"
+company_country: "Canada"
 ---
 
 

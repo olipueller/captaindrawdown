@@ -6,6 +6,11 @@ description: "Third-party certification/verification body auditing biochar, humu
 url: "/directory/ceres/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CERES: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-31"
+company_url: "https://www.ceres-cert.de"
+company_linkedin: "https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/"
+company_country: "Germany"
 ---
 
 

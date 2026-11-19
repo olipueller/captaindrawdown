@@ -6,6 +6,11 @@ description: "Continuous closed-loop pyrolysis of local sawmill wood residues (w
 url: "/directory/groupe-bordet/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Groupe Bordet: biochar as a side business, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.groupebordet.fr/"
+company_linkedin: "https://www.linkedin.com/company/groupe-bordet/"
+company_country: "France"
 ---
 
 

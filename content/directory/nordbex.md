@@ -6,6 +6,11 @@ description: "Develops modular combined heat-and-power plants that gasify forest
 url: "/directory/nordbex/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Nordbex: BECCS company, Sweden | Captain Drawdown"
+lastmod: "2026-10-28"
+company_url: "https://nordbex.com/"
+company_linkedin: "https://www.linkedin.com/company/nordbex/"
+company_country: "Sweden"
 ---
 
 

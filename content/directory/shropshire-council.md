@@ -6,6 +6,10 @@ description: "The council is building a pyrolysis plant at Ludlow's Coder Road b
 url: "/directory/shropshire-council/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Shropshire Council: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.shropshire.gov.uk"
+company_country: "United Kingdom"
 ---
 
 

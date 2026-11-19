@@ -6,6 +6,9 @@ description: "Says it develops biochar carbon removal alongside regenerative agr
 url: "/directory/vanora-climate/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Vanora Climate: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "India"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Manufactures slow-pyrolysis biomass carbonization equipment (screw
 url: "/directory/pyrogreen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Pyrogreen: biochar company, China | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.pyrogreen-energy.com/"
+company_linkedin: "https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/"
+company_country: "China"
 ---
 
 

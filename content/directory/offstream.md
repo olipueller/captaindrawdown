@@ -6,6 +6,11 @@ description: "Software + services platform providing LCAs, dMRV, and certificati
 url: "/directory/offstream/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Offstream: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://www.useoffstream.com/"
+company_linkedin: "https://www.linkedin.com/company/useoffstream/"
+company_country: "United States"
 ---
 
 

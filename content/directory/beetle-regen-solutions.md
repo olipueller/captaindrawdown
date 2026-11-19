@@ -6,6 +6,11 @@ description: "Trains Indian cotton farmers to convert crop residue into biochar 
 url: "/directory/beetle-regen-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Beetle Regen Solutions: biochar company, India | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.beetleregen.com/"
+company_linkedin: "https://www.linkedin.com/company/beetle-regen-solutions/"
+company_country: "India"
 ---
 
 

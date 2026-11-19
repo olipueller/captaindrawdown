@@ -6,6 +6,11 @@ description: "Manufactures continuous-process pyrolysis machines (B3/B5) that co
 url: "/directory/applied-gaia/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Applied Gaia: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://appliedgaia.com/"
+company_linkedin: "https://www.linkedin.com/company/appliedgaia-corporation/"
+company_country: "United States"
 ---
 
 

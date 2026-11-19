@@ -6,6 +6,11 @@ description: "Buries silvicultural residuals and clean organic waste below the w
 url: "/directory/ag-carbon-solutions/"
 pathway: "Biomass Burial"
 liveliness: "🔴 Likely Dead"
+seo_title: "Ag Carbon Solutions: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://agcarbonsolutions.com/"
+company_linkedin: "https://www.linkedin.com/company/agricultural-fuels-corp./"
+company_country: "United States"
 ---
 
 

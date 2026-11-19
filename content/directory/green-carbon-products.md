@@ -6,6 +6,11 @@ description: "Small Ontario-based producer that pyrolyzes clean wood into biocha
 url: "/directory/green-carbon-products/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Green Carbon Products: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.greencarbonproducts.com/"
+company_linkedin: "https://www.linkedin.com/company/green-carbon-products/"
+company_country: "Canada"
 ---
 
 

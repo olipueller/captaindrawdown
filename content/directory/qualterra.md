@@ -6,6 +6,11 @@ description: "Qualterra operates patented Biomass Processing Units that pyrolyze
 url: "/directory/qualterra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Qualterra: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.qualterraag.com/"
+company_linkedin: "https://www.linkedin.com/company/qualterra/"
+company_country: "United States"
 ---
 
 

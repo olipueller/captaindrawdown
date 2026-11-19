@@ -6,6 +6,11 @@ description: "Holding company with subsidiaries producing biochar from sugarcane
 url: "/directory/tamu-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Tamu group: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.tamu-group.com"
+company_linkedin: "https://www.linkedin.com/company/tamugroup/"
+company_country: "Kenya"
 ---
 
 

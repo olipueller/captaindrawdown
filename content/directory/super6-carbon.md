@@ -6,6 +6,11 @@ description: "Aggregates concentrated biogenic CO2 streams at CO2 transload hubs
 url: "/directory/super6-carbon/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Super6 Carbon: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.super6carbon.com/"
+company_linkedin: "https://www.linkedin.com/company/super6-carbon-inc/"
+company_country: "United States"
 ---
 
 

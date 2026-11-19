@@ -6,6 +6,11 @@ description: "Converts residual wood biomass into biochar (Biochar Carbon Remova
 url: "/directory/creturner/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Creturner: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.creturner.com"
+company_linkedin: "https://www.linkedin.com/company/creturner-group-ab/"
+company_country: "Sweden"
 ---
 
 

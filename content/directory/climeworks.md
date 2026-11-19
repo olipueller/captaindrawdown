@@ -6,6 +6,11 @@ description: "Operates solid-sorbent Direct Air Capture plants (Orca, Mammoth in
 url: "/directory/climeworks/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Climeworks: direct air capture company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://climeworks.com/"
+company_linkedin: "https://www.linkedin.com/company/climeworks/"
+company_country: "Switzerland"
 ---
 
 
@@ -47,6 +52,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-18** — News: Explore carbon removal for individuals | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528754606533677057/))
+- **2026-11-17** — News: EXCLUSIVE: Terradot To Bring Its ERW To Europe In A New CRCF-Aligned Partnership With Climeworks... ([source](https://www.europesays.com/europe/183709/))
+- **2026-11-17** — News: EXCLUSIVE: Terradot To Bring Its ERW To Europe In A New CRCF-Aligned Partnership With Climeworks... ([source](https://carbonherald.com/exclusive-terradot-to-bring-its-erw-to-europe-in-a-new-crcf-aligned-partnership-with-climeworks-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terradot-to-bring-its-erw-to-europe-in-a-new-crcf-aligned-partnership-with-climeworks-solutions))
+- **2026-11-16** — News: Entry to Hellisheidi, Iceland | Shots of Climeworks / Carbfi... | Flickr ([source](https://www.flickr.com/photos/159447674@N04/51916488790))
+- **2026-11-16** — News: Efforts to suck carbon directly from atmosphere championed at UN climate talks - AOL ([source](https://www.aol.co.uk/articles/efforts-suck-carbon-directly-atmosphere-060034000.html))
 - **2026-11-16** — News: Microsoft - Wikipedia ([source](https://en.wikipedia.org/wiki/Microsoft))
 - **2026-11-16** — News: Controversial efforts to suck carbon from atmosphere championed at UN climate talks ([source](https://www.inkl.com/news/efforts-to-suck-carbon-directly-from-atmosphere-championed-at-un-climate-talks))
 - **2026-11-11** — News: Food System’s Climate Problem Could Become Its Feedstock ([source](https://foodinnovatorskulmbach.substack.com/p/food-systems-climate-problem-could))
@@ -72,11 +82,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-14** — News: Carbon removal has a role to play in the AI infrastructure boom ([source](https://esgpost.com/carbon-removal-has-a-role-to-play-in-the-ai-infrastructure-boom/))
 - **2026-10-13** — News: How Carbon Accounting Can Help Climate Tech Take Off ([source](https://climatecapitalstack.substack.com/p/how-carbon-accounting-can-help-climate))
 - **2026-10-13** — News: The Fan Machines - by Stefan Adolf - The Good Climate ([source](https://thegoodclimate.substack.com/p/the-fan-machines))
-- **2026-10-09** — News: UK Govt Invests $1M In Carbon Credits By Climeworks ([source](https://carbonherald.com/uk-govt-invests-1m-in-carbon-credits-by-climeworks/?utm_source=rss&utm_medium=rss&utm_campaign=uk-govt-invests-1m-in-carbon-credits-by-climeworks))
-- **2026-10-09** — News: Climate overshoot is here. Canada can build the industry that helps contain it | Canada's National… ([source](https://www.nationalobserver.com/2026/10/09/opinion/climate-overshoot-carbon-removal-tech))
-- **2026-10-08** — News: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
-- **2026-10-08** — News: CDR.fyi: September soars with 1M tonnes contracted Following a relatively slow August (128Kt)… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
-- **2026-10-07** — News: A Climeworks és a DAC technológia - GREENOLOGY ([source](https://www.greenology.hu/2026/10/06/a-climeworks-es-a-dac-technologia/))
 
 ---
 

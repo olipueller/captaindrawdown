@@ -6,6 +6,11 @@ description: "Self-described developer/constructor/operator of direct air captur
 url: "/directory/retract/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Retract: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://retract.com/"
+company_linkedin: "https://www.linkedin.com/company/retract/"
+company_country: "United States"
 ---
 
 

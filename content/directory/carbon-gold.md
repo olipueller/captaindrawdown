@@ -6,6 +6,11 @@ description: "Produces enriched biochar from pyrolysis of organic waste biomass,
 url: "/directory/carbon-gold/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Gold: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbongold.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-gold-ltd/"
+company_country: "United Kingdom"
 ---
 
 

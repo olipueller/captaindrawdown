@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural residues into biochar in a self-sustaining 
 url: "/directory/tapovanam-organic-farming-systems/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Tapovanam Organic Farming Systems: biochar as a side business, India | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.tapovanam.earth/"
+company_linkedin: "https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/"
+company_country: "India"
 ---
 
 

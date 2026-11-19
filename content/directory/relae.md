@@ -6,6 +6,10 @@ description: "Advisory firm that does carbon removal project due diligence, proc
 url: "/directory/relae/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Relae: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://relae.co"
+company_country: "United States"
 ---
 
 

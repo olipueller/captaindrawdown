@@ -6,6 +6,11 @@ description: "Plans to capture biogenic CO2 from ethanol fermentation at its Nov
 url: "/directory/uisa/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Uisa: BECCS as a side business, Brazil | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://wp.uisa.com.br/en/"
+company_linkedin: "https://www.linkedin.com/company/uisa/"
+company_country: "Brazil"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates SynCraft wood-gas \"reverse power plants\" that co-produc
 url: "/directory/nawaro-energie-betrieb/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "NAWARO ENERGIE Betrieb: biochar as a side business, Austria | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://www.nawaro-energie.at"
+company_linkedin: "https://www.linkedin.com/company/nawaro-energie/"
+company_country: "Austria"
 ---
 
 

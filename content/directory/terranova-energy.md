@@ -6,6 +6,11 @@ description: "Licenses HTC \"wet pyrolysis\" technology that carbonizes dewatere
 url: "/directory/terranova-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "TerraNova Energy: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.terranova-energy.com/"
+company_linkedin: "https://www.linkedin.com/company/terranova-energy/"
+company_country: "Germany"
 ---
 
 

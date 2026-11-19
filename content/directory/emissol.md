@@ -6,6 +6,11 @@ description: "Develops and licenses a low-sorbent, low-pressure-drop contactor f
 url: "/directory/emissol/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Emissol: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.emissol.com/"
+company_linkedin: "https://www.linkedin.com/company/emissol/"
+company_country: "United States"
 ---
 
 

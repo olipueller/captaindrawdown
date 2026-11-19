@@ -6,6 +6,8 @@ description: "Runs a distributed biochar program that pyrolyzes coffee prunings 
 url: "/directory/cirkular-origin/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Cirkular Origin: biochar company | Captain Drawdown"
+lastmod: "2026-11-16"
 ---
 
 

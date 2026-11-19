@@ -6,6 +6,11 @@ description: "Injects CO₂ into wet ready-mix concrete where it reacts to form 
 url: "/directory/zen-carbon/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "ZEN Carbon: mineralization company, Kenya | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.zencarbon.org/"
+company_linkedin: "https://www.linkedin.com/company/zencarbon/"
+company_country: "Kenya"
 ---
 
 
@@ -31,6 +36,7 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-11-18** — News: The question is no longer just whether we can turn captured CO2 into construction materials. It is... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528825428707348482/))
 - **2026-09-16** — News: Building climate technology takes more than good ideas. It takes an ecosystem that can execute. At ([source](https://www.linkedin.com/feed/update/urn:li:share:7505911997990010880/))
 - **2026-09-02** — News: When science meets deployment, the conversation changes. We recently had the privilege of hosting r ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500602750380957696/))
 - **2026-08-26** — News: CDR.fyi: This week saw some key developments in durable CDR, Senken and Carbonsate signed a… ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))

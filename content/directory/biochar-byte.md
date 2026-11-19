@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural crop residues collected from smallholder fa
 url: "/directory/biochar-byte/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biochar Byte: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://biocharbyte.com/"
+company_linkedin: "https://www.linkedin.com/company/biochar-byte-agtech-pvt-ltd/"
+company_country: "India"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes forestry co-products (sawdust, woodchip) using PYREG and
 url: "/directory/black-bull-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Black Bull Biochar: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.blackbullbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/black-bull-biochar-ltd/"
+company_country: "United Kingdom"
 ---
 
 

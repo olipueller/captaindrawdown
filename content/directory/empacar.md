@@ -6,6 +6,11 @@ description: "Pyrolyzes sawmill wood-waste and agricultural residues into biocha
 url: "/directory/empacar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Empacar: biochar as a side business, Bolivia | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.empacar.com.bo/"
+company_linkedin: "https://www.linkedin.com/company/empacarbolivia/"
+company_country: "Bolivia"
 ---
 
 

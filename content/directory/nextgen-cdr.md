@@ -6,6 +6,11 @@ description: "Advance-market-commitment buyers' club / aggregator that purchases
 url: "/directory/nextgen-cdr/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "NextGen CDR: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://nextgencdr.com/"
+company_linkedin: "https://www.linkedin.com/company/nextgencdr/"
+company_country: "Switzerland"
 ---
 
 

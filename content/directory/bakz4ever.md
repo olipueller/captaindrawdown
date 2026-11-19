@@ -6,6 +6,11 @@ description: "Developing \"CarbonBank\", a cryogenic system that combines low-co
 url: "/directory/bakz4ever/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Bakz4ever: direct air capture company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://bakz4ever.in/"
+company_linkedin: "https://www.linkedin.com/company/blue-rats-energy/"
+company_country: "India"
 ---
 
 

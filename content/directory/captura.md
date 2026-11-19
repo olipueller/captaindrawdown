@@ -6,6 +6,11 @@ description: "Uses proprietary bipolar-membrane electrodialysis to extract CO2 f
 url: "/directory/captura/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Captura: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://capturacorp.com/"
+company_linkedin: "https://www.linkedin.com/company/capturaco2/"
+company_country: "United States"
 ---
 
 

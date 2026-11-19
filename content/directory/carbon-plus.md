@@ -6,6 +6,11 @@ description: "Carbon Plus operates the Bukit Selar Carbon Station in Kelantan, M
 url: "/directory/carbon-plus/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Plus: biochar company, Malaysia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbon-plus.org/"
+company_linkedin: "https://www.linkedin.com/company/carbonplus-na/"
+company_country: "Malaysia"
 ---
 
 

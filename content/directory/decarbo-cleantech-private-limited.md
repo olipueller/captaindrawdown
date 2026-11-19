@@ -6,6 +6,10 @@ description: "Pyrolyzes agricultural residues into biochar for durable carbon re
 url: "/directory/decarbo-cleantech-private-limited/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "DeCarbo Cleantech Private Limited: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://decarbo.in/"
+company_country: "India"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Curated CDR marketplace and brokerage with proprietary 100+ point 
 url: "/directory/supercritical/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Supercritical: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-04"
+company_url: "https://www.gosupercritical.com/"
+company_linkedin: "https://www.linkedin.com/company/gosupercritical/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates industrial-scale pyrolysis plants (\"CarbonHubs\") that c
 url: "/directory/circular-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Circular Carbon: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://circular-carbon.com/en/"
+company_linkedin: "https://www.linkedin.com/company/circular-carbon/"
+company_country: "Germany"
 ---
 
 

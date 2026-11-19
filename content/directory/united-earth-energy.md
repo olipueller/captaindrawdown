@@ -6,6 +6,11 @@ description: "Sells and deploys the UNI-Box, a mobile pyrolysis reactor that fit
 url: "/directory/united-earth-energy/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "United Earth Energy: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://unitedearth.energy/"
+company_linkedin: "https://www.linkedin.com/company/ueellc/"
+company_country: "United States"
 ---
 
 

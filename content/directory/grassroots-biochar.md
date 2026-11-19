@@ -6,6 +6,11 @@ description: "Kon-Tiki flame-curtain pyrolysis of biomass producing EBC-certifie
 url: "/directory/grassroots-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Grassroots Biochar: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://grassrootsbiochar.nu/"
+company_linkedin: "https://www.linkedin.com/company/grassroots-biochar-ab/"
+company_country: "Sweden"
 ---
 
 

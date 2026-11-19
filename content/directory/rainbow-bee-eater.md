@@ -6,6 +6,11 @@ description: "Develops ECHO2, a modular automated pyrolysis system that turns cr
 url: "/directory/rainbow-bee-eater/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Rainbow Bee Eater: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.rainbowbeeeater.com.au/"
+company_linkedin: "https://www.linkedin.com/company/rainbow-bee-eater/"
+company_country: "Australia"
 ---
 
 

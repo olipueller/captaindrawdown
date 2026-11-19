@@ -6,6 +6,11 @@ description: "Modular solid-sorbent DAC units that leverage waste heat from cool
 url: "/directory/neocarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "NeoCarbon: direct air capture company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.neocarbon.tech/"
+company_linkedin: "https://www.linkedin.com/company/neocarbon-tech/"
+company_country: "Germany"
 ---
 
 

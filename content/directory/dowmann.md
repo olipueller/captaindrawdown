@@ -6,6 +6,11 @@ description: "Pyrolyzes waste plant biomass (forestry/landscaping residues) into
 url: "/directory/dowmann/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Dowmann: biochar company, Ireland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.dowmann.com/"
+company_linkedin: "https://www.linkedin.com/company/dowmann/"
+company_country: "Ireland"
 ---
 
 

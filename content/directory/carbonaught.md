@@ -6,6 +6,11 @@ description: "Spreads crushed basalt (from quarry/mining waste) on agricultural 
 url: "/directory/carbonaught/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Carbonaught: enhanced weathering company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonaught.io/"
+company_linkedin: "https://www.linkedin.com/company/carbonaught-pty-ltd/"
+company_country: "Australia"
 ---
 
 

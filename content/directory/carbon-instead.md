@@ -6,6 +6,11 @@ description: "Biochar-based carbon storage solutions (pyrolysis of biomass into 
 url: "/directory/carbon-instead/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Instead: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carboninstead.de/"
+company_linkedin: "https://www.linkedin.com/company/carbon-instead/"
+company_country: "Germany"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Wood-chip pyrolysis producing EBC-certified biochar with waste-hea
 url: "/directory/lignocarbon/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "LignoCarbon: biochar division, Switzerland | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://lignocarbon.ch/"
+company_linkedin: "https://www.linkedin.com/company/lignocarbon-schweiz-ag/"
+company_country: "Switzerland"
 ---
 
 

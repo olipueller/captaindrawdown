@@ -6,6 +6,11 @@ description: "Carbon Casting: dries and compresses residual timber/agricultural 
 url: "/directory/graphyte/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Graphyte: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.graphyte.com/"
+company_linkedin: "https://www.linkedin.com/company/graphytecarbon/"
+company_country: "United States"
 ---
 
 
@@ -44,6 +49,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-18** — News: Cula: 7,142 credits issued for Graphyte Isometric has certified 7,142 carbon removal certificates... ([source](https://www.linkedin.com/company/cula-technologies/#post-874a534d341b))
 - **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-10-25** — News: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident… ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
 - **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
@@ -73,7 +79,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-04** — News: Graphyte just stacked what no DAC pure-play has: Sumitomo balance-sheet backing AND a live… ([source](https://x.com/CaptainDrawdown/status/2062401024032153630))
 - **2026-06-04** — News: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
 - **2026-06-03** — News: Startup scores big investment for storing carbon in wood bricks - E&E News by POLITICO ([source](https://www.eenews.net/articles/startup-scores-big-investment-for-storing-carbon-in-wood-bricks/))
-- **2026-06-03** — News: Graphyte Secures Backing From Sumitomo And Expands Partnerships ([source](https://carbonherald.com/graphyte-secures-backing-from-sumitomo-and-expands-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=graphyte-secures-backing-from-sumitomo-and-expands-partnerships))
 
 ---
 

@@ -6,6 +6,11 @@ description: "Aggregates corporate climate funding and runs annual open calls to
 url: "/directory/milkywire/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Milkywire: CDR enabling technology, Sweden | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://www.milkywire.com"
+company_linkedin: "https://www.linkedin.com/company/milkywire/"
+company_country: "Sweden"
 ---
 
 

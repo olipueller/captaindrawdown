@@ -6,6 +6,10 @@ description: "Builds biomass gasification plants (15 kW to 2 MW) that turn bioma
 url: "/directory/g2e/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "G2E: biochar as a side business, Mexico | Captain Drawdown"
+lastmod: "2026-11-16"
+company_linkedin: "https://www.linkedin.com/company/g2eargentina/"
+company_country: "Mexico"
 ---
 
 

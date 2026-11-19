@@ -6,6 +6,11 @@ description: "Electrolyzer uses saltwater and intermittent renewable electricity
 url: "/directory/brineworks/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Brineworks: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-03"
+company_url: "https://brineworks.tech"
+company_linkedin: "https://www.linkedin.com/company/brine-works/"
+company_country: "Netherlands"
 ---
 
 

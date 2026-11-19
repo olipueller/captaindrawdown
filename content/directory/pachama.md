@@ -6,6 +6,11 @@ description: "AI- and satellite-based monitoring, reporting, and verification (M
 url: "/directory/pachama/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Pachama: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://pachama.com/"
+company_linkedin: "https://www.linkedin.com/company/pachama/"
+company_country: "United States"
 ---
 
 

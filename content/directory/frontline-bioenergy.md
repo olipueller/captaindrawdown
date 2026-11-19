@@ -6,6 +6,10 @@ description: "Develops and licenses biomass/waste gasification systems producing
 url: "/directory/frontline-bioenergy/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Frontline BioEnergy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://frontlinebioenergy.com"
+company_country: "United States"
 ---
 
 

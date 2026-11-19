@@ -6,6 +6,11 @@ description: "Uses teleoperated/autonomous forest-thinning equipment to harvest 
 url: "/directory/kodama-systems/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Kodama Systems: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://kodama.ai/"
+company_linkedin: "https://www.linkedin.com/company/kodama-systems/"
+company_country: "United States"
 ---
 
 

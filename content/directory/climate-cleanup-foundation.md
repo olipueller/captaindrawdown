@@ -6,6 +6,11 @@ description: "Develops the ONCRA open accounting framework and certification pro
 url: "/directory/climate-cleanup-foundation/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Climate Cleanup Foundation: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://climatecleanup.org"
+company_linkedin: "https://www.linkedin.com/company/climatecleanup/"
+company_country: "Netherlands"
 ---
 
 

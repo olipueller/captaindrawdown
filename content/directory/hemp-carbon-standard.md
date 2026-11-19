@@ -6,6 +6,11 @@ description: "ISO 14064-2 methodology developer and MRV platform operator that g
 url: "/directory/hemp-carbon-standard/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Hemp Carbon Standard: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://hempcarbonstandard.org"
+company_linkedin: "https://www.linkedin.com/company/hemp-carbon-standard/"
+company_country: "Canada"
 ---
 
 

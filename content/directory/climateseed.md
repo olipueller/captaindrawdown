@@ -6,6 +6,11 @@ description: "B2B digital marketplace and carbon accounting platform (GEMS) that
 url: "/directory/climateseed/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ClimateSeed: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://climateseed.com/"
+company_linkedin: "https://www.linkedin.com/company/climateseed/"
+company_country: "France"
 ---
 
 

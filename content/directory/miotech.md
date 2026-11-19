@@ -6,6 +6,11 @@ description: "Through its carbon asset team, MioTech develops biochar CDR projec
 url: "/directory/miotech/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "MioTech: biochar as a side business, Hong Kong | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.miotech.com/"
+company_linkedin: "https://www.linkedin.com/company/miotech/"
+company_country: "Hong Kong"
 ---
 
 

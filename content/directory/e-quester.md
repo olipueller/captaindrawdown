@@ -6,6 +6,11 @@ description: "Liquid-solvent DAC using an electrochemical regeneration system th
 url: "/directory/e-quester/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "E-quester: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://e-quester.com/"
+company_linkedin: "https://www.linkedin.com/company/e-quester/"
+company_country: "Canada"
 ---
 
 

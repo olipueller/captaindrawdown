@@ -6,6 +6,11 @@ description: "Academic research hub at Oxford's Smith School coordinating the UK
 url: "/directory/co2re/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CO2Re: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://co2re.org/"
+company_linkedin: "https://www.linkedin.com/company/co2re/"
+company_country: "United Kingdom"
 ---
 
 
@@ -30,6 +35,7 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 
 ## History
 
+- **2026-11-17** — News: CO2Re: It's our penultimate post and our final policy briefing! Today we've published "Technology... ([source](https://www.linkedin.com/company/co2re/#post-ac951293c7c6))
 - **2026-10-30** — News: Five and a half years of CO2RE: what has changed for greenhouse gas removal? - CO2RE - The… ([source](https://co2re.org/five-and-a-half-years-of-co2re-what-has-changed-for-greenhouse-gas-removal/))
 - **2026-10-30** — News: This is our final post & Steve Smith, our Executive Director, has the last word… ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mz4hr4ok4223))
 - **2026-10-18** — News: CO2Re: New CDR Paper! (sadly not related to any nobel prize) My new paper with Niall Mac Dowell… ([source](https://www.linkedin.com/company/co2re/#post-57307bdea949))

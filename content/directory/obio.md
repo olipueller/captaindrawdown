@@ -6,6 +6,11 @@ description: "Operates an industrial-scale pyrolysis plant at Rudshøgda, Norway
 url: "/directory/obio/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "OBIO: biochar company, Norway | Captain Drawdown"
+lastmod: "2026-10-05"
+company_url: "https://www.obio.no/"
+company_linkedin: "https://www.linkedin.com/company/obio-norge/"
+company_country: "Norway"
 ---
 
 

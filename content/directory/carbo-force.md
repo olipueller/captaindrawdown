@@ -6,6 +6,11 @@ description: "Designs and sells modular pyrolysis plants (e.g. CF-250, Carbo-CAP
 url: "/directory/carbo-force/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbo-FORCE: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.carbo-force.de/en"
+company_linkedin: "https://www.linkedin.com/company/carbo-force/"
+company_country: "Germany"
 ---
 
 
@@ -31,6 +36,7 @@ Carbo-FORCE GmbH is a pyrolysis technology company in Kassel, Germany. Malte Gra
 
 ## History
 
+- **2026-11-17** — News: CO2-Sync: https://lnkd.in/grH_sxNf A major milestone for CO2-Sync, Carbo-FORCE—and what we believe... ([source](https://www.linkedin.com/company/co2-sync/#post-7cdf002df5be))
 - **2026-11-16** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbonherald.com/carbo-force-and-s-c-pure-carbon-solution-to-build-new-biochar-plant-in-romania/))
 - **2026-11-16** — Reactivated: website reachable again
 - **2026-04-19** — Deactivated: website unreachable

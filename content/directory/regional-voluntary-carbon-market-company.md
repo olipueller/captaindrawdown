@@ -6,6 +6,11 @@ description: "Operates a voluntary carbon credit exchange/auction platform (tech
 url: "/directory/regional-voluntary-carbon-market-company/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Regional Voluntary Carbon Market Company: CDR enabling technology, Saudi Arabia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://vcm.sa"
+company_linkedin: "https://www.linkedin.com/company/voluntarycarbonmarket/"
+company_country: "Saudi Arabia"
 ---
 
 

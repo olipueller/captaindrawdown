@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural residues (rice husk/straw) into biochar usi
 url: "/directory/agroccs/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "AgroCCS: biochar company, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://agroccs.com/"
+company_linkedin: "https://www.linkedin.com/company/agro-ccs/"
+company_country: "Netherlands"
 ---
 
 

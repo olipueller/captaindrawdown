@@ -6,6 +6,11 @@ description: "Pyrolyzes agroforestry/hedgerow biomass grown by Welsh farmers int
 url: "/directory/clo-carbon-cymru/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Clo Carbon Cymru: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://clocarbon.cymru/"
+company_linkedin: "https://www.linkedin.com/company/clo-carbon-cymru/"
+company_country: "United Kingdom"
 ---
 
 

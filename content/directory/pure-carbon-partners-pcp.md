@@ -6,6 +6,10 @@ description: "Buyer-side CDR procurement advisor and broker: aggregates corporat
 url: "/directory/pure-carbon-partners-pcp/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Pure Carbon Partners (PCP): CDR enabling technology | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.purecarbon.partners/"
+company_linkedin: "https://www.linkedin.com/company/pure-carbon-partners/"
 ---
 
 

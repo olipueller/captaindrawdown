@@ -6,6 +6,11 @@ description: "Harvests naturally ultra-fine glacial rock flour from Greenlandic 
 url: "/directory/rock-flour-company/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Rock Flour Company: enhanced weathering company, Denmark | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.rockflour.co/"
+company_linkedin: "https://www.linkedin.com/company/rockflourcompany/"
+company_country: "Denmark"
 ---
 
 
@@ -34,6 +39,8 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
+- **2026-11-19** — News: #enhancedweathering #carbonremoval #crcf #soilhealth #greenland | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:share:7528938164049182721/))
 - **2026-10-20** — News: Rock Flour Company in the EBC AgTech Catalogue 2026 | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518247467411476480/))
 - **2026-10-14** — News: We have the best partners Last week the GreenLandbrug consortium, funded by GUDP - Grønt Udviklin ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516064537654050816/))
 - **2026-10-08** — News: #cdr #erw #enhancedrockweathering #carbonremoval #soilhealth #agriculture #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513602709120479232/))

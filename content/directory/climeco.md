@@ -6,6 +6,11 @@ description: "Carbon project developer, environmental credit trader, and sustain
 url: "/directory/climeco/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ClimeCo: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.climeco.com/"
+company_linkedin: "https://www.linkedin.com/company/climeco/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Designs and manufactures two-stage flame-curtain C1000 pyrolysis u
 url: "/directory/woodtek-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Woodtek Biochar: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.woodtekbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonhillbiochar/"
+company_country: "United Kingdom"
 ---
 
 

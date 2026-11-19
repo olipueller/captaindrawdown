@@ -6,6 +6,11 @@ description: "Post-combustion amine-based CO2 capture retrofit on a municipal-wa
 url: "/directory/energnist-captureco/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Energnist CaptureCo: BECCS division, Denmark | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://energnist.dk"
+company_linkedin: "https://www.linkedin.com/company/energnist/"
+company_country: "Denmark"
 ---
 
 

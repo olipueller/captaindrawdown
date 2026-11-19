@@ -6,6 +6,11 @@ description: "Digital risk-assessment and rating platform that performs due dili
 url: "/directory/recarb/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "recarb: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.recarb.earth/"
+company_linkedin: "https://www.linkedin.com/company/recarb-earth/"
+company_country: "Germany"
 ---
 
 

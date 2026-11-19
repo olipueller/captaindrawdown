@@ -6,6 +6,11 @@ description: "Develops solid-sorbent DAC with a two-zone cold/hot shuttle proces
 url: "/directory/dacworx/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "DACworx: direct air capture company, Austria | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://dacworx.eu/"
+company_linkedin: "https://www.linkedin.com/company/dacworx/"
+company_country: "Austria"
 ---
 
 

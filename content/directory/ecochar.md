@@ -6,6 +6,11 @@ description: "Pyrogasification of biomass waste at ~1000°C to produce biochar (
 url: "/directory/ecochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "EcoChar: biochar company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ecochar.tech/"
+company_linkedin: "https://www.linkedin.com/company/ecochar1/"
+company_country: "France"
 ---
 
 

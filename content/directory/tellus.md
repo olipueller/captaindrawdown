@@ -6,6 +6,11 @@ description: "Tellus converts agricultural biomass residues into biochar via pyr
 url: "/directory/tellus/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Tellus: biochar company, Brazil | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://tellusbiocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/tellusbiocarbon/"
+company_country: "Brazil"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops \"Zero C\" DAC units and the KLC catalyst that mineralize
 url: "/directory/lowcarbon/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "LowCarbon: direct air capture company, South Korea | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.lowcarbon.co.kr/en/"
+company_linkedin: "https://www.linkedin.com/company/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8/"
+company_country: "South Korea"
 ---
 
 

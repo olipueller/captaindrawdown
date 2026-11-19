@@ -6,6 +6,11 @@ description: "Satellite remote sensing plus machine learning on a proprietary so
 url: "/directory/seqana/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Seqana: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.seqana.com/"
+company_linkedin: "https://www.linkedin.com/company/seqana/"
+company_country: "Germany"
 ---
 
 

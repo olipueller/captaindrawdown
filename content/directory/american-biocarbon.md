@@ -6,6 +6,11 @@ description: "Pyrolyzes sugarcane bagasse (a sugar-mill byproduct) into biochar 
 url: "/directory/american-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "American BioCarbon: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://americanbiocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/americanbiocarbon/"
+company_country: "United States"
 ---
 
 

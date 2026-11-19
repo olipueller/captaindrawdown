@@ -6,6 +6,11 @@ description: "Online marketplace that curates, quality-vets and brokers carbon c
 url: "/directory/freeze-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Freeze Carbon: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.freezecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/freeze-carbon/"
+company_country: "Germany"
 ---
 
 

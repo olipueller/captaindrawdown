@@ -6,6 +6,10 @@ description: "Smallholder coffee farmers turn pruned coffee trees (\"zoca\") int
 url: "/directory/transformando-la-zoca-en-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Transformando la Zoca en Biochar.: biochar as a side business, Colombia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://biodiversal.odoo.com/en"
+company_country: "Colombia"
 ---
 
 

@@ -6,6 +6,10 @@ description: "A wood-residue biomass power plant collects high-carbon biochar fr
 url: "/directory/regenerate/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ReGenerate: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_linkedin: "https://www.linkedin.com/company/regenerate-works/"
+company_country: "United States"
 ---
 
 

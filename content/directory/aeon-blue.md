@@ -6,6 +6,11 @@ description: "A saltwater electrolyzer makes a capture solution that pulls CO2 f
 url: "/directory/aeon-blue/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Aeon Blue: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.aeonbluetechnologies.com/"
+company_linkedin: "https://www.linkedin.com/company/aeon-blue-software-%26-development/"
+company_country: "Canada"
 ---
 
 

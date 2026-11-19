@@ -6,6 +6,11 @@ description: "Develops distributed CO2 capture technology that integrates with c
 url: "/directory/ctrlz-climate-corporation/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "CtrlZ Climate Corporation: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://ctrlzclimate.com/"
+company_linkedin: "https://www.linkedin.com/company/ctrlz-climate/"
+company_country: "United States"
 ---
 
 

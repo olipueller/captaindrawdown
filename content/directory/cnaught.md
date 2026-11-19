@@ -6,6 +6,11 @@ description: "Carbon credit marketplace/portfolio platform that bundles third-pa
 url: "/directory/cnaught/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Cnaught: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.cnaught.com/"
+company_linkedin: "https://www.linkedin.com/company/cnaught/"
+company_country: "United States"
 ---
 
 

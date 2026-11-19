@@ -6,6 +6,11 @@ description: "Pyrolyzes regional wood chips, landscape-care residues, and reed f
 url: "/directory/block/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BLOCK: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://block-pflanzenkohle.de/"
+company_linkedin: "https://www.linkedin.com/company/block-pflanzenkohle/"
+company_country: "Germany"
 ---
 
 
@@ -29,6 +34,7 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-11-18** — News: Cula: 7,142 credits issued for Graphyte Isometric has certified 7,142 carbon removal certificates... ([source](https://www.linkedin.com/company/cula-technologies/#post-874a534d341b))
 - **2026-11-11** — News: Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon… ([source](https://doi.org/10.5194/bg-23-7727-2026))
 - **2026-09-19** — News: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a new ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
 - **2026-09-07** — News: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry. Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
@@ -58,7 +64,6 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 - **2026-06-24** — News: Investment in Carbon Dioxide Removal has had USD 1.1 Billion of investments made over last year… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp2e43qj7c27))
 - **2026-06-24** — News: Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground Building far ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
 - **2026-06-24** — News: Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground Building mea ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
-- **2026-06-24** — News: Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground Building far ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
 
 ---
 

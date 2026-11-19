@@ -6,6 +6,11 @@ description: "Containerised Pyrochemy pyrolysis units turn agricultural and food
 url: "/directory/pyrogenesys-ltd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "PyroGenesys LTD: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://pyrogenesys.com/"
+company_linkedin: "https://www.linkedin.com/company/pyrogenesys/"
+company_country: "United Kingdom"
 ---
 
 

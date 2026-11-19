@@ -6,6 +6,11 @@ description: "Researches and develops ocean alkalinity enhancement (OAE) methods
 url: "/directory/carbon-time/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Carbon Time: ocean CDR company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbon-time.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-time/"
+company_country: "France"
 ---
 
 

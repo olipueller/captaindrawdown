@@ -6,6 +6,11 @@ description: "Operates patented pyrolysis technology that transforms tropical ag
 url: "/directory/biosorra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biosorra: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.biosorra.com/"
+company_linkedin: "https://www.linkedin.com/company/biosorra/"
+company_country: "Kenya"
 ---
 
 

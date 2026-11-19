@@ -6,6 +6,9 @@ description: "Captures fermentation CO2 at its corn-ethanol plants and injects i
 url: "/directory/harvestone-low-carbon-partners/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Harvestone Low Carbon Partners: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Elimini develops bioenergy with carbon capture and storage (BECCS)
 url: "/directory/draxelimini/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Drax/Elimini: BECCS division, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://elimini.com/"
+company_linkedin: "https://www.linkedin.com/company/elimini/"
+company_country: "United States"
 ---
 
 

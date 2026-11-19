@@ -6,6 +6,11 @@ description: "Pyrolysis of waste wood (co-located with a wood pellet manufacture
 url: "/directory/restoration-bioproducts/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Restoration Bioproducts: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.restorationbio.com/"
+company_linkedin: "https://www.linkedin.com/company/restoration-bioproducts-llc/"
+company_country: "United States"
 ---
 
 

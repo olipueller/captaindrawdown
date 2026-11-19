@@ -6,6 +6,11 @@ description: "CUR8 is a carbon removal market intelligence, due diligence, and p
 url: "/directory/cur8/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CUR8: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://cur8.earth/"
+company_linkedin: "https://www.linkedin.com/company/cur8earth/"
+company_country: "United Kingdom"
 ---
 
 

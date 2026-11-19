@@ -6,6 +6,8 @@ description: "Finances, trades and retires voluntary carbon credits, mostly redu
 url: "/directory/vertree/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Vertree: CDR enabling technology | Captain Drawdown"
+lastmod: "2026-11-16"
 ---
 
 

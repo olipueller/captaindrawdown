@@ -6,6 +6,11 @@ description: "Spreads finely ground silicate rock in managed forest soils in Cen
 url: "/directory/carbony/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Carbony: enhanced weathering company, Austria | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.carbony.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbony/"
+company_country: "Austria"
 ---
 
 
@@ -30,6 +35,7 @@ Carbony is an Austria-based CDR project developer focused on Enhanced Rock Weath
 
 ## History
 
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
 - **2026-11-15** — Status Suspect → Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-10-15** — Status Active → Suspect ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-08-15** — Status Suspect → Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))

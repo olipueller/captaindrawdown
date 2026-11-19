@@ -6,6 +6,11 @@ description: "Operates a voluntary carbon market registry platform where new cre
 url: "/directory/open-carbon-protocol/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Open Carbon Protocol: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ocp.earth/"
+company_linkedin: "https://www.linkedin.com/company/open-carbon-protocol/"
+company_country: "United States"
 ---
 
 

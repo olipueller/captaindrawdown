@@ -6,6 +6,11 @@ description: "Corporate carbon accounting software, net-zero consulting, and bro
 url: "/directory/climatepartner-gmbh/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ClimatePartner GmbH: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.climatepartner.com"
+company_linkedin: "https://www.linkedin.com/company/climate-partner-inc-/"
+company_country: "Germany"
 ---
 
 

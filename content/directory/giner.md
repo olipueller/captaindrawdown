@@ -6,6 +6,11 @@ description: "Electrochemical DAC prototype: concentrated KOH absorbs atmospheri
 url: "/directory/giner/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Giner: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ginerinc.com/"
+company_linkedin: "https://www.linkedin.com/company/giner-inc/"
+company_country: "United States"
 ---
 
 

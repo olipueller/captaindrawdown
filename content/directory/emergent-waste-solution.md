@@ -6,6 +6,11 @@ description: "Operates a proprietary pyrolysis (\"Advanced Thermolysis System\")
 url: "/directory/emergent-waste-solution/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Emergent Waste Solution: biochar as a side business, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.ewscanada.com/"
+company_linkedin: "https://www.linkedin.com/company/emergent-waste-solutions/"
+company_country: "Canada"
 ---
 
 

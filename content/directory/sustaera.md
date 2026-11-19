@@ -6,6 +6,11 @@ description: "Electro-thermal DAC using nano-structured alkali-based sorbents re
 url: "/directory/sustaera/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Sustaera: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.sustaera.com/"
+company_linkedin: "https://www.linkedin.com/company/sustaera/"
+company_country: "United States"
 ---
 
 

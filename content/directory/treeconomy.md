@@ -6,6 +6,11 @@ description: "Geospatial AI MRV platform (satellite + drone LiDAR) plus marketpl
 url: "/directory/treeconomy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Treeconomy: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-17"
+company_url: "https://www.treeconomy.co/"
+company_linkedin: "https://www.linkedin.com/company/treeconomyltd/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Injects plant cuttings below the groundwater table in peat soils, 
 url: "/directory/restore-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Restore Carbon: biomass burial company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://restorecarbon.eu/"
+company_linkedin: "https://www.linkedin.com/company/re-store-carbon/"
+company_country: "Netherlands"
 ---
 
 

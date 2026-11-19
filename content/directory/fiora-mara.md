@@ -6,6 +6,11 @@ description: "Cultivates kelp on biodegradable open-ocean farms that auto-sink u
 url: "/directory/fiora-mara/"
 pathway: "Ocean CDR"
 liveliness: "🔴 Likely Dead"
+seo_title: "Fiora Mara: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://fioramara.com/"
+company_linkedin: "https://www.linkedin.com/company/fiora-mara/"
+company_country: "United States"
 ---
 
 

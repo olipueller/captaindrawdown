@@ -6,6 +6,11 @@ description: "Pyrolysis of agricultural waste and invasive species into biochar 
 url: "/directory/malama-labs-inc/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "malama labs inc: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.malamalabs.com/"
+company_linkedin: "https://www.linkedin.com/company/malama-labs-incorporated/"
+company_country: "United States"
 ---
 
 

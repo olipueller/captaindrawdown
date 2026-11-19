@@ -6,6 +6,11 @@ description: "Digital platform and advisory service that builds and manages port
 url: "/directory/klimate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Klimate: CDR enabling technology, Denmark | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.klimate.co/"
+company_linkedin: "https://www.linkedin.com/company/klimate-co/"
+company_country: "Denmark"
 ---
 
 
@@ -35,6 +40,7 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
+- **2026-11-19** — News: What’s stopping companies buying more carbon removal? At COP31, buyers told us it’s not just price... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7529173037703671809/))
 - **2026-11-02** — News: Evaneos ↔ Klimate — biochar ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
 - **2026-10-05** — News: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon credits ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
 - **2026-10-05** — News: Eneco Expands Its Partnership With Klimate To Explore Carbon Removals ([source](https://carbonherald.com/eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals))

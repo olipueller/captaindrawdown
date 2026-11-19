@@ -6,6 +6,11 @@ description: "Operates a 5-train ARTi pyrolysis reactor at the Antigua Central E
 url: "/directory/bio-restorative-ideas/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Bio-Restorative Ideas: biochar company, Puerto Rico | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bri.earth/"
+company_linkedin: "https://www.linkedin.com/company/bio-restorative-ideas-llc/"
+company_country: "Puerto Rico"
 ---
 
 

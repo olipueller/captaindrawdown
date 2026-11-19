@@ -6,6 +6,11 @@ description: "Develops solid-state MOF and COF sorbent modules (reticular chemis
 url: "/directory/atoco/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Atoco: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://atoco.com/"
+company_linkedin: "https://www.linkedin.com/company/atoco/"
+company_country: "United States"
 ---
 
 

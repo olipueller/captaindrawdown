@@ -6,6 +6,11 @@ description: "Slow-pyrolysis biochar production from forest-thinning wood waste 
 url: "/directory/southwest-biochar-products/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Southwest Biochar Products: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://sowbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/southwest-biochar-products/"
+company_country: "United States"
 ---
 
 

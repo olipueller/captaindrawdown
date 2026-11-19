@@ -6,6 +6,11 @@ description: "Post-combustion amine-based CO2 capture retrofitted onto the 50 MW
 url: "/directory/toshiba-ess/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Toshiba ESS: BECCS as a side business, Japan | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.global.toshiba/ww/products-solutions/energy.html"
+company_linkedin: "https://www.linkedin.com/company/toshiba-corporation/"
+company_country: "Japan"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Captures CO2 from flue gas or other sources and mineralizes it wit
 url: "/directory/blue-planet/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Blue Planet: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.blueplanetsystems.com/"
+company_linkedin: "https://www.linkedin.com/company/blueplanetsystems/"
+company_country: "United States"
 ---
 
 

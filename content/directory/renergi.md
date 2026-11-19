@@ -6,6 +6,11 @@ description: "Operates a patented \"grinding pyrolysis\" plant in Collie, WA tha
 url: "/directory/renergi/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Renergi: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://renergi.net/"
+company_linkedin: "https://www.linkedin.com/company/renergi-australia/"
+company_country: "Australia"
 ---
 
 

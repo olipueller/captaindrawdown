@@ -6,6 +6,11 @@ description: "Uses hydrothermal carbonization (HTC) to convert wet-waste biomass
 url: "/directory/recoal/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Recoal: biomass burial company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-13"
+company_url: "https://recoal.net/"
+company_linkedin: "https://www.linkedin.com/company/recoal-net/"
+company_country: "Switzerland"
 ---
 
 

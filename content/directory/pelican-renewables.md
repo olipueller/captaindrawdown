@@ -6,6 +6,11 @@ description: "Geologic CO2 storage hub anchored by biogenic CO2 from a co-owned 
 url: "/directory/pelican-renewables/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "Pelican Renewables: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://pelicanrenewables.com/"
+company_linkedin: "https://www.linkedin.com/company/pelican-renewables-2-llc/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,10 @@ description: "MRV methodology, verification, and carbon accounting services for 
 url: "/directory/oceanid-mrv/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Oceanid MRV: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-04-19"
+company_url: "https://www.oceanidmrv.com/"
+company_country: "United States"
 ---
 
 

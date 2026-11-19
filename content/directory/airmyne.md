@@ -6,6 +6,11 @@ description: "Liquid-solvent DAC with low-temperature thermal regeneration compa
 url: "/directory/airmyne/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "AirMyne: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.airmyne.com/"
+company_linkedin: "https://www.linkedin.com/company/airmyne/"
+company_country: "United States"
 ---
 
 

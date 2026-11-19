@@ -6,6 +6,11 @@ description: "Integrates Onnu CarboFlow pyrolysis units into existing UK anaerob
 url: "/directory/regenearth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ReGenEarth: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://regenearth.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/regenearth/"
+company_country: "United Kingdom"
 ---
 
 

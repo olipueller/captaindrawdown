@@ -6,6 +6,11 @@ description: "Operates artisan biochar production sites in Indian villages, pyro
 url: "/directory/heartyculture-natural-products/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Heartyculture Natural Products: biochar as a side business, India | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biochar.heartyculture.com/"
+company_linkedin: "https://www.linkedin.com/company/heartyculture-biochar/"
+company_country: "India"
 ---
 
 

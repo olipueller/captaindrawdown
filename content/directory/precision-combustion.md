@@ -6,6 +6,11 @@ description: "Catalytic-reactor R&D firm developing a low-temperature solid-sorb
 url: "/directory/precision-combustion/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Precision Combustion: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://pci.energy/"
+company_linkedin: "https://www.linkedin.com/company/precision-combustion-inc./"
+company_country: "United States"
 ---
 
 

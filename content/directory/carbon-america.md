@@ -6,6 +6,11 @@ description: "Vertically integrated CCS developer capturing fermentation CO2 fro
 url: "/directory/carbon-america/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Carbon America: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonamerica.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonamerica/"
+company_country: "United States"
 ---
 
 

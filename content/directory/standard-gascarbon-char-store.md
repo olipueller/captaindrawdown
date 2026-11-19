@@ -6,6 +6,11 @@ description: "SG100 Advanced Thermal Cracking (pyrolysis/gasification) plants co
 url: "/directory/standard-gascarbon-char-store/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Standard Gas/Carbon Char Store: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://standardgas.com/"
+company_linkedin: "https://www.linkedin.com/company/standardgas/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops modular solid-sorbent Direct Air Capture machines (Cumulu
 url: "/directory/skytree/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Skytree: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-14"
+company_url: "https://skytree.tech/"
+company_linkedin: "https://www.linkedin.com/company/skytree/"
+company_country: "Netherlands"
 ---
 
 

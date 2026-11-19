@@ -6,6 +6,11 @@ description: "Operates a 2 MT/hr two-layer rotary drum kiln pyrolysis plant in G
 url: "/directory/truecoco-ghana/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Truecoco Ghana: biochar as a side business, Ghana | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.truecococarbon.green/"
+company_linkedin: "https://www.linkedin.com/company/truecoco-ghana-ltd/"
+company_country: "Ghana"
 ---
 
 

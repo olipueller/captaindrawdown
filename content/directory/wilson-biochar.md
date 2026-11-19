@@ -6,6 +6,10 @@ description: "Designs and licenses the Ring of Fire flame-cap biochar kiln, whic
 url: "/directory/wilson-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Wilson Biochar: biochar ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://wilsonbiochar.com"
+company_country: "United States"
 ---
 
 

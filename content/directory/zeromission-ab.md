@@ -6,6 +6,11 @@ description: "Carbon credit reseller and climate strategy consultancy selling na
 url: "/directory/zeromission-ab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ZeroMission AB: CDR enabling technology, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://zeromission.se/"
+company_linkedin: "https://www.linkedin.com/company/zeromission-ab/"
+company_country: "Sweden"
 ---
 
 

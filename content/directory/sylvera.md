@@ -6,6 +6,11 @@ description: "Independent carbon credit ratings agency combining satellite remot
 url: "/directory/sylvera/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Sylvera: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.sylvera.com/"
+company_linkedin: "https://www.linkedin.com/company/sylveracarbon/"
+company_country: "United Kingdom"
 ---
 
 

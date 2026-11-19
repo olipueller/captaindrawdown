@@ -6,6 +6,10 @@ description: "Slow pyrolysis of sustainably harvested hardwood sawmill residues 
 url: "/directory/haliburton-forest-biochar/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Haliburton Forest Biochar: biochar division, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.haliburtonforestbiochar.com/"
+company_country: "Canada"
 ---
 
 

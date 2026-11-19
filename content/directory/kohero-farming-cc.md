@@ -6,6 +6,10 @@ description: "Artisan biochar production from harvested encroacher bush on Namib
 url: "/directory/kohero-farming-cc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Kohero Farming CC: biochar as a side business, Namibia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "http://kohero-carbon.store/"
+company_country: "Namibia"
 ---
 
 

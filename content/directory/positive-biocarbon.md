@@ -6,6 +6,11 @@ description: "Manufactures and distributes FSC-accredited biochar from virgin wa
 url: "/directory/positive-biocarbon/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Positive Biocarbon: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://positivebiocarbon.com/gb/"
+company_linkedin: "https://www.linkedin.com/company/rectella-international-ltd-positive-biocarbon/"
+company_country: "United Kingdom"
 ---
 
 

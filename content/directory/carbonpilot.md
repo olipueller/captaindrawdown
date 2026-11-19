@@ -6,6 +6,11 @@ description: "Software platform (MRV, LCA, feasibility modeling, credit sales ma
 url: "/directory/carbonpilot/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CarbonPilot: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.valorizesystems.com"
+company_linkedin: "https://www.linkedin.com/company/valorizesystems/"
+company_country: "United States"
 ---
 
 

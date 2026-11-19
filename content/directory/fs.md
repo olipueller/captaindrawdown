@@ -6,6 +6,10 @@ description: "Capture of biogenic fermentation CO2 from corn-ethanol production 
 url: "/directory/fs/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "FS: BECCS as a side business, Brazil | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.fs.agr.br/en/"
+company_country: "Brazil"
 ---
 
 

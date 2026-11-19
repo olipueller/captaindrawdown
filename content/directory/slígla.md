@@ -6,6 +6,9 @@ description: "Pyrolyses forestry, sawmill and invasive-species residues into bio
 url: "/directory/slígla/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Slígla: biochar company, Ireland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "Ireland"
 ---
 
 

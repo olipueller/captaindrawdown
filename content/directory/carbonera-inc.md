@@ -6,6 +6,11 @@ description: "SaaS/blockchain-based online exchange platform that lists and brok
 url: "/directory/carbonera-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Carbonera, Inc.: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://carboneraexchange.com/"
+company_linkedin: "https://www.linkedin.com/company/carboneraexchange2023/"
+company_country: "United States"
 ---
 
 

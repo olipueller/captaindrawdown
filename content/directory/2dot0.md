@@ -6,6 +6,10 @@ description: "Pyrolyzes local agricultural residues into biochar that is applied
 url: "/directory/2dot0/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "2dot0: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://2dot0farms.com/"
+company_country: "India"
 ---
 
 

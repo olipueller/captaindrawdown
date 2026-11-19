@@ -6,6 +6,11 @@ description: "Markets and sells Soil Reef-branded biochar products (pure biochar
 url: "/directory/soil-reef/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Soil Reef: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.soilreef.com/"
+company_linkedin: "https://www.linkedin.com/company/the-biochar-company/"
+company_country: "United States"
 ---
 
 

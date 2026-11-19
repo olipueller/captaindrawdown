@@ -6,6 +6,10 @@ description: "Almond shells from Treehouse's hulling and shelling operations go 
 url: "/directory/treehouse-california-almonds/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Treehouse California Almonds: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.treehousealmonds.com"
+company_country: "United States"
 ---
 
 

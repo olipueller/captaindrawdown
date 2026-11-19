@@ -6,6 +6,11 @@ description: "Science-backed carbon credit advisory, due diligence, portfolio ma
 url: "/directory/carbon-direct/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Direct: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-30"
+company_url: "https://www.carbon-direct.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-direct/"
+company_country: "United States"
 ---
 
 

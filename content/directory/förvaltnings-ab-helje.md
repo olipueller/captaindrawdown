@@ -6,6 +6,11 @@ description: "On-site Biomacon C160-F pyrolysis boiler converts wood chips into 
 url: "/directory/förvaltnings-ab-helje/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Förvaltnings AB Helje: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://essungaplantskola.se/"
+company_linkedin: "https://www.linkedin.com/company/essunga-plantskola/"
+company_country: "Sweden"
 ---
 
 

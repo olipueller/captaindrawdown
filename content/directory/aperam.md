@@ -6,6 +6,11 @@ description: "Pyrolyzes eucalyptus-wood byproducts from its charcoal-for-steel o
 url: "/directory/aperam/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Aperam: biochar as a side business, Brazil | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://aperambioenergia.com.br/en/biochar/"
+company_linkedin: "https://www.linkedin.com/company/aperam-bioenergia-ltda./"
+company_country: "Brazil"
 ---
 
 
@@ -33,6 +38,7 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 
 ## History
 
+- **2026-11-18** — News: Circle Carbon: Aperam BioEnergia and Circle Carbon partnering to advance circular innovation and... ([source](https://www.linkedin.com/company/circlecarbon/#post-dea2f83e47a1))
 - **2026-10-05** — News: Inspiratus Technology: Biochar in Latin America will not scale through isolated projects alone. The ([source](https://www.linkedin.com/company/inspiratus-tech/#post-8a15371071ec))
 - **2026-09-29** — News: Aperam BioEnergia - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/aperam-bioenergia/))
 - **2026-09-21** — News: Dry Streams in an Ocean of Eucalyptus: new report calls for Aperam expansion to be halted… ([source](https://environmentalpaper.org/2026/09/dry-streams-in-an-ocean-of-eucalyptus-new-report-calls-for-aperam-expansion-to-be-halted/))

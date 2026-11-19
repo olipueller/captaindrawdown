@@ -6,6 +6,11 @@ description: "Industry trade association/consortium for the European biochar sec
 url: "/directory/european-biochar-industry-consortium/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "European Biochar Industry Consortium: biochar ecosystem company, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.biochareurope.eu/"
+company_linkedin: "https://www.linkedin.com/company/biochareurope/"
+company_country: "Germany"
 ---
 
 

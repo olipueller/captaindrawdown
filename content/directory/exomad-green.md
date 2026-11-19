@@ -6,6 +6,11 @@ description: "Operates industrial pyrolysis facilities in Bolivia that convert s
 url: "/directory/exomad-green/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Exomad Green: biochar division, Bolivia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.exomadgreen.com/"
+company_linkedin: "https://www.linkedin.com/company/exomadgreen/"
+company_country: "Bolivia"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Wave-powered floating device that tilts with ocean waves to genera
 url: "/directory/yellow-duck/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Yellow Duck: direct air capture company, Japan | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://wave-dac.com/"
+company_linkedin: "https://www.linkedin.com/company/big-yellow-duck/"
+company_country: "Japan"
 ---
 
 

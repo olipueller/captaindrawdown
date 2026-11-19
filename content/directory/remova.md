@@ -6,6 +6,11 @@ description: "Remova is developing a purpose-built BECCS/Bio-CCS facility in Cen
 url: "/directory/remova/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Remova: BECCS company, Canada | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.remova.earth/"
+company_linkedin: "https://www.linkedin.com/company/remova-carbon-systems/"
+company_country: "Canada"
 ---
 
 
@@ -29,6 +34,8 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
+- **2026-11-19** — News: Remova Carbon Systems selected by Government of Canada to supply durable carbon removal credits |... ([source](https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/remova-carbon-systems-selected-by-government-of-canada-to-supply-durable-carbon-removal-credits/2474363))
+- **2026-11-19** — News: Remova Carbon Systems selected by Government of Canada to supply durable carbon removal credits ([source](https://www.globenewswire.com/news-release/2026/11/19/3406813/0/en/remova-carbon-systems-selected-by-government-of-canada-to-supply-durable-carbon-removal-credits.html))
 - **2026-10-16** — News: Ceezer: CEEZER is supporting Gevo, Inc. in its first multi-year supply agreement for its BECCS… ([source](https://www.linkedin.com/company/ceezer/#post-f95293c64f99))
 - **2026-10-04** — News: Remova: Today weâre announcing that Frontier has raised an additional $915M for carbon removal… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e06a045ec830))
 - **2026-08-03** — News: Remova: We want to sincerely congratulate the team at Frontier for the hard work and foresight… ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-98e9d1dfa5de))

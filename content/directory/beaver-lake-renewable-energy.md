@@ -6,6 +6,11 @@ description: "Biomass gasification of forestry residues into green methanol, wit
 url: "/directory/beaver-lake-renewable-energy/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Beaver Lake Renewable Energy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://beaverlakerenewable.com/"
+company_linkedin: "https://www.linkedin.com/company/beaver-lake-renewable-energy/"
+company_country: "United States"
 ---
 
 

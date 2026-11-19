@@ -6,6 +6,11 @@ description: "Digital B2B marketplace and portfolio-management software that vet
 url: "/directory/ceezer/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Ceezer: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-20"
+company_url: "https://www.ceezer.earth/"
+company_linkedin: "https://www.linkedin.com/company/ceezer/"
+company_country: "Germany"
 ---
 
 

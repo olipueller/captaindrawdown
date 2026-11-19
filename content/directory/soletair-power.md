@@ -6,6 +6,11 @@ description: "Solid-sorbent (amine-functionalized) temperature-vacuum-swing DAC 
 url: "/directory/soletair-power/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Soletair Power: direct air capture company, Finland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.soletairpower.fi/"
+company_linkedin: "https://www.linkedin.com/company/soletair/"
+company_country: "Finland"
 ---
 
 

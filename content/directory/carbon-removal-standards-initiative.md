@@ -6,6 +6,10 @@ description: "Gives unconflicted technical policy advice and does research on CD
 url: "/directory/carbon-removal-standards-initiative/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Carbon Removal Standards Initiative: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carbonremovalstandards.org"
+company_country: "United States"
 ---
 
 

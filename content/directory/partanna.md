@@ -6,6 +6,11 @@ description: "Produces a carbon-negative Portland-cement alternative using magne
 url: "/directory/partanna/"
 pathway: "Mineralization"
 liveliness: "🔴 Likely Dead"
+seo_title: "Partanna: mineralization company, Bahamas | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://partanna.com/"
+company_linkedin: "https://www.linkedin.com/company/partannaglobal/"
+company_country: "Bahamas"
 ---
 
 

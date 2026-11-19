@@ -6,6 +6,11 @@ description: "Digital marketplace and trading terminal for carbon credits and Re
 url: "/directory/ecm-environmental-commodities-marketplace/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ECM | Environmental Commodities Marketplace: CDR enabling technology, Turkey | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.erguvan.co/"
+company_linkedin: "https://www.linkedin.com/company/erguvan/"
+company_country: "Turkey"
 ---
 
 

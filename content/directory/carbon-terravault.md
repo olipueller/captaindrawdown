@@ -6,6 +6,10 @@ description: "Develops and operates Class VI geologic CO2 storage sites in Calif
 url: "/directory/carbon-terravault/"
 pathway: "Mineralization"
 liveliness: "🟡 Moderate"
+seo_title: "Carbon TerraVault: mineralization division, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.crc.com/carbon-terravault"
+company_country: "United States"
 ---
 
 

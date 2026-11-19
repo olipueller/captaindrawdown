@@ -6,6 +6,11 @@ description: "Operates a Woodtek two-stage pyrolysis unit on a family farm in Su
 url: "/directory/brodie-biomass/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Brodie Biomass: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.brodiebiomass.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/brodiebiomass/"
+company_country: "United Kingdom"
 ---
 
 

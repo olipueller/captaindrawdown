@@ -6,6 +6,11 @@ description: "Produces biochar from local waste wood using ARTi pyrolysis techno
 url: "/directory/next-wave-carbon-removals/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Next Wave Carbon Removals: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://nextwavecr.com/"
+company_linkedin: "https://www.linkedin.com/company/next-wave-cr/"
+company_country: "United States"
 ---
 
 

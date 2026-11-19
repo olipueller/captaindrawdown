@@ -6,6 +6,11 @@ description: "Develops modular, factory-assembled DAC contactors using a chemica
 url: "/directory/unemit/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Unemit: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://unemit.com/"
+company_linkedin: "https://www.linkedin.com/company/unemit/"
+company_country: "United States"
 ---
 
 

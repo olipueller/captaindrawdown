@@ -6,6 +6,11 @@ description: "Perenco-owned investment firm running a €200M Carbon Ventures VC
 url: "/directory/taranis/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Taranis: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-09"
+company_url: "https://taranis.eu"
+company_linkedin: "https://www.linkedin.com/company/taranis-investment/"
+company_country: "France"
 ---
 
 

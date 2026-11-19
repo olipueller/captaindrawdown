@@ -6,6 +6,11 @@ description: "Circonomy develops biochar carbon removal projects with smallholde
 url: "/directory/circonomy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Circonomy: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://www.circonomy.co/"
+company_linkedin: "https://www.linkedin.com/company/circonomy/"
+company_country: "Singapore"
 ---
 
 

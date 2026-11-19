@@ -6,6 +6,11 @@ description: "Develops the Nile Char Project in Uganda, pyrolyzing agricultural 
 url: "/directory/stack-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Stack Carbon: biochar company, Uganda | Captain Drawdown"
+lastmod: "2026-11-13"
+company_url: "https://www.stackcarbon.earth/"
+company_linkedin: "https://www.linkedin.com/company/stackcarbon/"
+company_country: "Uganda"
 ---
 
 

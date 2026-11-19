@@ -6,6 +6,11 @@ description: "Pyrolysis of wood biomass to produce EBC-certified biochar (feed a
 url: "/directory/basna/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Basna: biochar company, Serbia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.basna.net/"
+company_linkedin: "https://www.linkedin.com/company/basnaholdings/"
+company_country: "Serbia"
 ---
 
 

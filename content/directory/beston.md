@@ -6,6 +6,11 @@ description: "Manufactures rotary-drum biomass pyrolysis reactors (BST-06, BST-5
 url: "/directory/beston/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Beston: biochar as a side business, China | Captain Drawdown"
+lastmod: "2026-10-29"
+company_url: "https://www.bestongroup.com/"
+company_linkedin: "https://www.linkedin.com/company/bestongroup/"
+company_country: "China"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Corn-ethanol plant whose biogenic fermentation CO2 will be capture
 url: "/directory/cardinal-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Cardinal Ethanol: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.cardinalethanol.com/"
+company_linkedin: "https://www.linkedin.com/company/cardinal-ethanol-llc/"
+company_country: "United States"
 ---
 
 

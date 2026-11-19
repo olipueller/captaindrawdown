@@ -6,6 +6,11 @@ description: "Stated intent to produce biochar via pyrolysis of biomass feedstoc
 url: "/directory/silver-bullet-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Silver Bullet Biochar: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://silverbulletbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/silver-bullet-biochar/"
+company_country: "Singapore"
 ---
 
 

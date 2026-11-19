@@ -6,6 +6,11 @@ description: "Developing conversion of the 73-MW TES Filer City coal plant to bi
 url: "/directory/northstar-clean-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "NorthStar Clean Energy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://northstarcleanenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/northstarcleanenergy/"
+company_country: "United States"
 ---
 
 

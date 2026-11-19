@@ -6,6 +6,11 @@ description: "Mills waste returned concrete (and limestone) and spreads it on fa
 url: "/directory/silicate/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Silicate: enhanced weathering company, Ireland | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.silicatecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/silicate-carbon/"
+company_country: "Ireland"
 ---
 
 
@@ -31,6 +36,11 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
+- **2026-11-19** — News: InPlanet and Idemitsu Americas Holdings Close Non-Recourse Debt Facility, Setting a New Standard... ([source](https://markets.businessinsider.com/news/stocks/inplanet-and-idemitsu-americas-holdings-close-non-recourse-debt-facility-setting-a-new-standard-for-financing-erw-carbon-removal-1036783152))
+- **2026-11-17** — News: Stepwise formation of authigenic clay from biogenic silica: are elemental and alkalinity sinks... ([source](https://www.researchsquare.com/article/rs-11436975/v1))
+- **2026-11-17** — News: Enhanced rock weathering increases crop yield: a global meta-analysis ([source](https://doi.org/10.21203/rs.3.rs-11680921/v1))
+- **2026-11-17** — News: Assessing Early-Stage Net CO 2 Fluxes From Soils and Maize Plants During a Short-Term Enhanced... ([source](https://doi.org/10.2475/001c.167596))
+- **2026-11-17** — News: Trace-metal responses to enhanced rock weathering with basalt in agricultural and riparian soils ([source](https://doi.org/10.1007/s10705-026-10544-7))
 - **2026-11-13** — News: Basalt Rock Powder Mitigates Greenhouse Gas Emissions in Rice Paddy Soil ([source](https://bioengineer.org/basalt-rock-powder-mitigates-greenhouse-gas-emissions-in-rice-paddy-soil/))
 - **2026-11-11** — News: From mineral weathering to alkalinity export: a soil-barrier diagnostic for enhanced rock... ([source](https://doi.org/10.3389/fclim.2026.1979636))
 - **2026-11-11** — News: Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon… ([source](https://doi.org/10.5194/bg-23-7727-2026))
@@ -56,11 +66,6 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 - **2026-10-07** — News: It&amp;#39;s been a busy time for the Silicate team! Over the past five years we have been working ([source](https://www.linkedin.com/feed/update/urn:li:share:7513198728179126272/))
 - **2026-10-06** — News: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni… ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
 - **2026-10-06** — News: Reply on RC1 ([source](https://doi.org/10.5194/egusphere-2026-4380-ac1))
-- **2026-10-06** — News: Reply on RC2 ([source](https://doi.org/10.5194/egusphere-2026-4380-ac2))
-- **2026-10-06** — News: Ocean alkalinity enhancement pelagic impact in the Northwest Iberian Upwelling System under… ([source](https://doi.org/10.5194/egusphere-2026-5658))
-- **2026-09-25** — News: Evidence of rapid basalt dissolution in Southeastern US croplands ([source](https://cdrxiv.org/preprint/551))
-- **2026-09-24** — News: Proceedings of the Enhanced Rock Weathering Research in Australia and New Zealand Symposium 2026 ([source](https://doi.org/10.25903/h747-mv65))
-- **2026-09-18** — News: Silicate rock remineralizers sustain soil potassium availability and irrigated rice yield in… ([source](https://www.researchsquare.com/article/rs-10778596/v1))
 
 ---
 

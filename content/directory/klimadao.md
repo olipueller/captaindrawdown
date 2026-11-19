@@ -6,6 +6,11 @@ description: "Blockchain-based tokenization, liquidity, and marketplace infrastr
 url: "/directory/klimadao/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "KlimaDAO: CDR enabling technology, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.klimadao.finance/"
+company_linkedin: "https://www.linkedin.com/company/babe-ke-group-of-institutes/"
+company_country: "Singapore"
 ---
 
 

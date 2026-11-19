@@ -6,6 +6,11 @@ description: "Bank-backed transaction network/marketplace that provides settleme
 url: "/directory/carbonplace/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbonplace: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-08"
+company_url: "https://carbonplace.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonplace/"
+company_country: "United Kingdom"
 ---
 
 

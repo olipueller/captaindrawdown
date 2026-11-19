@@ -6,6 +6,11 @@ description: "Accend is a Norway-based CDR consultancy and project developer pro
 url: "/directory/accend/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Accend: biochar ecosystem company, Norway | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.accend.earth/"
+company_linkedin: "https://www.linkedin.com/company/accend-conusulting/"
+company_country: "Norway"
 ---
 
 

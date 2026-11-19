@@ -6,6 +6,11 @@ description: "Uses reversible photoacids activated by sunlight to release CO2 fr
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Banyu Carbon: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.banyucarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/banyu-carbon/"
+company_country: "United States"
 ---
 
 

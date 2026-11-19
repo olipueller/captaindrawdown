@@ -6,6 +6,9 @@ description: "Nonprofit that pools tax-deductible donations into pre-purchases o
 url: "/directory/terraset/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Terraset: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "United States"
 ---
 
 

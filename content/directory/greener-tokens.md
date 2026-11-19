@@ -6,6 +6,11 @@ description: "Blockchain-based tokenization platform that issues NFT-backed carb
 url: "/directory/greener-tokens/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Greener Tokens: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.greenertokens.com/"
+company_linkedin: "https://www.linkedin.com/company/greenertokens/"
+company_country: "Switzerland"
 ---
 
 

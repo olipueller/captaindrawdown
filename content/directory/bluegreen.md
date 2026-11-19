@@ -6,6 +6,11 @@ description: "Applies proprietary Lake Guard® algaecide formulations to freshwa
 url: "/directory/bluegreen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "BlueGreen: ocean CDR as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bluegreenwatertech.com/"
+company_linkedin: "https://www.linkedin.com/company/bluegreen-water-tech/"
+company_country: "United States"
 ---
 
 

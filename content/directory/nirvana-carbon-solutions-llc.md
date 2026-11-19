@@ -6,6 +6,9 @@ description: "Develops biochar soil applications for agriculture, with carbon cr
 url: "/directory/nirvana-carbon-solutions-llc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Nirvana Carbon Solutions LLC: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "United States"
 ---
 
 

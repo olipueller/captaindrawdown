@@ -6,6 +6,10 @@ description: "Runs a biochar kiln in East Dundee, Illinois, that pyrolyzes wood 
 url: "/directory/the-davey-tree-expert-company/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "The Davey Tree Expert Company: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.davey.com"
+company_country: "United States"
 ---
 
 

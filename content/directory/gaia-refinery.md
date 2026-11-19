@@ -6,6 +6,11 @@ description: "Hybrid Bio-DAC system that uses biogenic acetic acid (derived from
 url: "/directory/gaia-refinery/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Gaia Refinery: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.gaiarefinery.com/"
+company_linkedin: "https://www.linkedin.com/company/gaia-refinery/"
+company_country: "Canada"
 ---
 
 

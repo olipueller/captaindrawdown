@@ -6,6 +6,11 @@ description: "Operates patented Carbolysis™ pyrolysis reactors that convert wa
 url: "/directory/carbo-culture/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbo Culture: biochar company, Finland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carboculture.com/"
+company_linkedin: "https://www.linkedin.com/company/carbo-culture/"
+company_country: "Finland"
 ---
 
 

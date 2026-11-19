@@ -6,6 +6,11 @@ description: "Spreads crushed basalt rock powder on African farmland (Kenya, wit
 url: "/directory/flux/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Flux: enhanced weathering company, Kenya | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.fluxcarbon.earth/"
+company_linkedin: "https://www.linkedin.com/company/flux-carbon/"
+company_country: "Kenya"
 ---
 
 
@@ -31,6 +36,8 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-11-17** — News: On the Efficiency and Durability of Ocean Iron Fertilization as a Carbon Dioxide Removal Solution ([source](https://doi.org/10.31223/x51v6m))
+- **2026-11-17** — News: Assessing Early-Stage Net CO 2 Fluxes From Soils and Maize Plants During a Short-Term Enhanced... ([source](https://doi.org/10.2475/001c.167596))
 - **2026-11-07** — News: Cultivo: Good grazing isn't just good for the herd. New research shows it's good for the land… ([source](https://www.linkedin.com/company/cultivo/#post-43aa3a8d0b33))
 - **2026-10-30** — News: Settling-driven Rayleigh–Taylor instability in a pre-existing turbulent field ([source](https://doi.org/10.31223/x5jj8x))
 - **2026-10-26** — News: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based… ([source](https://cdrxiv.org/preprint/568))
@@ -59,8 +66,6 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 - **2026-08-22** — News: Emilia Jankowska just published the first field trial dosing live oysters with olivine for marine… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtnivj7tey2z))
 - **2026-08-22** — News: The Swiss Carbon Removal Platform: Big news for ocean alkalinity enhancement (OAE): the Carbon to ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-b3d591bbc5ef))
 - **2026-08-19** — News: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried… ([source](https://bsky.app/profile/dpaessler.bsky.social/post/3mtgruuzq4s2a))
-- **2026-08-16** — News: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
-- **2026-08-15** — News: Tamu group: Happy news from our alumni community! During London Climate Action Week, four remove… ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 
 ---
 

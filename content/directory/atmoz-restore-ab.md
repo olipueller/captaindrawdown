@@ -6,6 +6,10 @@ description: "Carbon-credit brokerage/reseller: curates a portfolio of third-par
 url: "/directory/atmoz-restore-ab/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Atmoz Restore AB: CDR enabling technology, Sweden | Captain Drawdown"
+lastmod: "2026-05-01"
+company_url: "https://www.atmozrestore.earth/"
+company_country: "Sweden"
 ---
 
 

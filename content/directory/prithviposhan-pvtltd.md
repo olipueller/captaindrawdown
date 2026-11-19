@@ -6,6 +6,10 @@ description: "Pyrolyzes agricultural and organic waste into biochar applied to s
 url: "/directory/prithviposhan-pvtltd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Prithviposhan Pvt.Ltd: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.prithviposhan.com"
+company_country: "India"
 ---
 
 

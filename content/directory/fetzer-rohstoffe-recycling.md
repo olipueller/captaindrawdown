@@ -6,6 +6,10 @@ description: "Pyrolysis of wood chips and spelt husks at 550–720°C to produce
 url: "/directory/fetzer-rohstoffe-recycling/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "FETZER Rohstoffe + Recycling: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.moola-pflanzenkohle.de"
+company_country: "Germany"
 ---
 
 

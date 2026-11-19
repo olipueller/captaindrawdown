@@ -6,6 +6,11 @@ description: "Nonprofit policy advocacy, field-building, and regranting organiza
 url: "/directory/carbon180/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon180: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://carbon180.org"
+company_linkedin: "https://www.linkedin.com/company/the-center-for-carbon-removal/"
+company_country: "United States"
 ---
 
 
@@ -30,6 +35,10 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 
 ## History
 
+- **2026-11-19** — News: Bipartisan Resilience: Carbon180 Secures $200M for Carbon Removal - BriefGlance.com ([source](https://briefglance.com/articles/bipartisan-resilience-carbon180-secures-200m-for-carbon-removal))
+- **2026-11-18** — News: Carbon180 Advances Climate Action with Federal Policy Wins, Community Partnerships, and New Carbon... ([source](https://www.financialcontent.com/article/gnwcq-2026-11-18-carbon180-advances-climate-action-with-federal-policy-wins-community-partnerships-and-new-carbon-removal-frameworks))
+- **2026-11-18** — News: Carbon180 Advances Climate Action with Federal Policy Wins, Community Partnerships, and New Carbon... ([source](https://www.manilatimes.net/2026/11/18/tmt-newswire/globenewswire/carbon180-advances-climate-action-with-federal-policy-wins-community-partnerships-and-new-carbon-removal-frameworks/2473257))
+- **2026-11-18** — News: Carbon180 Advances Climate Action with Federal Policy Wins, Community Partnerships, and New Carbon... ([source](https://www.globenewswire.com/news-release/2026/11/18/3405719/0/en/carbon180-advances-climate-action-with-federal-policy-wins-community-partnerships-and-new-carbon-removal-frameworks.html))
 - **2026-11-05** — News: Carbon Removal, Done Right: Equity, Community, and Accountability with Ugbaad Kosar of Carbon180… ([source](https://caremorebebetter.com/carbon-removal-done-right-equity-community-and-accountability-with-ugbaad-kosar-of-carbon180))
 - **2026-10-31** — News: Carbon180: mCDR research just had a big win! Last week, parties to the London Convention and the… ([source](https://www.linkedin.com/company/the-center-for-carbon-removal/#post-5650dbe3bc76))
 - **2026-10-21** — News: Carbon180 Presents New Roadmap For Scaling Removals On Agricultural Land In The U.S. ([source](https://carbonherald.com/carbon180-presents-new-roadmap-for-scaling-removals-on-agricultural-land-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=carbon180-presents-new-roadmap-for-scaling-removals-on-agricultural-land-in-the-u-s))

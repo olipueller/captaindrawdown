@@ -6,6 +6,10 @@ description: "Investment vehicle that funds startups developing carbon dioxide r
 url: "/directory/carbonera/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Carbonera: CDR enabling technology, Spain | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carbonera.vc/"
+company_country: "Spain"
 ---
 
 

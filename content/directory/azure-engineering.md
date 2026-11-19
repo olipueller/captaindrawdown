@@ -6,6 +6,10 @@ description: "Engineering consultancy that designs biomass power plants using co
 url: "/directory/azure-engineering/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Azure Engineering: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://azure-eng.com/"
+company_country: "United States"
 ---
 
 

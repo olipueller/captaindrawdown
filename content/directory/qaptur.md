@@ -6,6 +6,11 @@ description: "SaaS platform with a project database, technology checks and a cap
 url: "/directory/qaptur/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Qaptur: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.qaptur.earth/"
+company_linkedin: "https://www.linkedin.com/company/qaptur-earth/"
+company_country: "France"
 ---
 
 

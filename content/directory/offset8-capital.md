@@ -6,6 +6,11 @@ description: "Carbon credit investment/trading firm providing prepayments, offta
 url: "/directory/offset8-capital/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Offset8 Capital: CDR enabling technology, United Arab Emirates | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://offset8capital.com/"
+company_linkedin: "https://www.linkedin.com/company/offset8-capital/"
+company_country: "United Arab Emirates"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Manufactures modular pyrolysis reactors (PX500/PX1500 series) that
 url: "/directory/pyreg/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Pyreg: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://pyreg.com/"
+company_linkedin: "https://www.linkedin.com/company/pyreg-gmbh/"
+company_country: "Germany"
 ---
 
 

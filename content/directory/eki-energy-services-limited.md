@@ -6,6 +6,10 @@ description: "Develops, consults on and trades carbon credit projects, mostly av
 url: "/directory/eki-energy-services-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "EKI Energy Services Limited: CDR enabling technology, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://enkingint.org"
+company_country: "India"
 ---
 
 

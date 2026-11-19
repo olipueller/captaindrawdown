@@ -6,6 +6,11 @@ description: "Develops biochar production from agricultural residues plus agrofo
 url: "/directory/terrafront/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Terrafront: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://terrafront.com/"
+company_linkedin: "https://www.linkedin.com/company/terrafrontventures/"
+company_country: "United States"
 ---
 
 

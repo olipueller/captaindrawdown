@@ -6,6 +6,11 @@ description: "Proprietary electrostatic solid-sorbent Direct Air Capture technol
 url: "/directory/neg8-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "NEG8 Carbon: direct air capture company, Ireland | Captain Drawdown"
+lastmod: "2026-11-03"
+company_url: "https://neg8carbon.com/"
+company_linkedin: "https://www.linkedin.com/company/neg8carbon/"
+company_country: "Ireland"
 ---
 
 

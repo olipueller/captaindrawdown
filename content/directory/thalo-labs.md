@@ -6,6 +6,11 @@ description: "Modular plug-in indoor direct air capture units that mineralize ca
 url: "/directory/thalo-labs/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Thalo Labs: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://thalolabs.com/"
+company_linkedin: "https://www.linkedin.com/company/thalo-labs/"
+company_country: "United States"
 ---
 
 

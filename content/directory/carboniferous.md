@@ -6,6 +6,11 @@ description: "Sinks compressed sugarcane bagasse bales into the anoxic, hypersal
 url: "/directory/carboniferous/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Carboniferous: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboniferous.co/"
+company_linkedin: "https://www.linkedin.com/company/carboniferous/"
+company_country: "United States"
 ---
 
 

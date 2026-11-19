@@ -6,6 +6,11 @@ description: "Uses solid amine-sorbent CO2 capture adapted from submarine and sp
 url: "/directory/kawasaki-heavy-industries/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Kawasaki Heavy Industries: direct air capture as a side business, Japan | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://global.kawasaki.com/en/energy/equipment/co2sr/index.html"
+company_linkedin: "https://www.linkedin.com/company/kawasaki-motors-corp.-u.s.a./"
+company_country: "Japan"
 ---
 
 

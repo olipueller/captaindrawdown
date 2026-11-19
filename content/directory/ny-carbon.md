@@ -6,6 +6,11 @@ description: "Pyrolyzes locally sourced woody biomass waste into biochar for agr
 url: "/directory/ny-carbon/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "NY Carbon: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.nycarbon.co/"
+company_linkedin: "https://www.linkedin.com/company/ny-carbon/"
+company_country: "United States"
 ---
 
 

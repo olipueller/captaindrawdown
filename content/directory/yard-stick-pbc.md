@@ -6,6 +6,11 @@ description: "Builds a handheld in-situ visible/near-infrared (VisNIR) spectrosc
 url: "/directory/yard-stick-pbc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Yard Stick PBC: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.useyardstick.com/"
+company_linkedin: "https://www.linkedin.com/company/useyardstick/"
+company_country: "United States"
 ---
 
 

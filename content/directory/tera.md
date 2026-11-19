@@ -6,6 +6,11 @@ description: "Pyrolysis of sugarcane bagasse into biochar applied to smallholder
 url: "/directory/tera/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Tera: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.teracarbon.earth/"
+company_linkedin: "https://www.linkedin.com/company/teracarbon/"
+company_country: "Kenya"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Plans to capture CO2 from its waste-to-energy incinerators, where 
 url: "/directory/indaver/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Indaver: BECCS as a side business, Belgium | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://indaver.com"
+company_country: "Belgium"
 ---
 
 

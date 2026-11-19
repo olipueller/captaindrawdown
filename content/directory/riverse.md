@@ -6,6 +6,11 @@ description: "Carbon credit certification standard and registry (with digital MR
 url: "/directory/riverse/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Riverse: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.riverse.io/"
+company_linkedin: "https://www.linkedin.com/company/riversetech/"
+company_country: "France"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates a PYREG pyrolysis unit that carbonises regional green cut
 url: "/directory/asf-gmbh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ASF GmbH: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.abfallwirtschaft-freiburg.de"
+company_linkedin: "https://www.linkedin.com/company/abfallwirtschaft-und-stadtreinigung-freiburg-gmbh/"
+company_country: "Germany"
 ---
 
 

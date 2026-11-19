@@ -6,6 +6,10 @@ description: "Designs and makes flame-curtain and two-stage biomass pyrolysis pl
 url: "/directory/woodtek/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Woodtek: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "http://www.woodtekengineering.co.uk"
+company_country: "United Kingdom"
 ---
 
 

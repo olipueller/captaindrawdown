@@ -6,6 +6,11 @@ description: "Post-combustion capture of CO2 from municipal waste-to-energy flue
 url: "/directory/vantaan-energia/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Vantaan Energia: BECCS as a side business, Finland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.vantaanenergia.fi/en/"
+company_linkedin: "https://www.linkedin.com/company/vantaan-energia-oy/"
+company_country: "Finland"
 ---
 
 

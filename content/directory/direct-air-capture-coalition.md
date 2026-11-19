@@ -6,6 +6,11 @@ description: "Non-profit multi-stakeholder coalition advocating for and coordina
 url: "/directory/direct-air-capture-coalition/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Direct Air Capture Coalition: direct air capture ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://daccoalition.org/"
+company_linkedin: "https://www.linkedin.com/company/daccoalition/"
+company_country: "United States"
 ---
 
 

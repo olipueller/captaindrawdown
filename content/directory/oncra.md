@@ -6,6 +6,11 @@ description: "Open-source MRV, certification standard, and registry framework fo
 url: "/directory/oncra/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Oncra: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-11-07"
+company_url: "https://oncra.org"
+company_linkedin: "https://www.linkedin.com/company/oncra/"
+company_country: "Netherlands"
 ---
 
 

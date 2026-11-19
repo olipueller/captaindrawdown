@@ -6,6 +6,11 @@ description: "Carbon crediting program, standards body, and registry that issues
 url: "/directory/acr-carbon-acr/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "ACR Carbon (ACR): CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://acrcarbon.org/"
+company_linkedin: "https://www.linkedin.com/company/acratwinrockinternational/"
+company_country: "United States"
 ---
 
 

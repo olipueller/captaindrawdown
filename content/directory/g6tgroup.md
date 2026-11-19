@@ -6,6 +6,10 @@ description: "Develops waste-to-value projects that pyrolyze organic waste into 
 url: "/directory/g6tgroup/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "G6Tgroup: biochar company, United Arab Emirates | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://g6tgroup.com/"
+company_country: "United Arab Emirates"
 ---
 
 

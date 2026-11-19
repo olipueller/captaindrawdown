@@ -6,6 +6,11 @@ description: "Pyrolysis of local agricultural biomass into biochar for soil biof
 url: "/directory/koros/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Koros: biochar company, Philippines | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://koros.earth/"
+company_linkedin: "https://www.linkedin.com/company/koros-biochar/"
+company_country: "Philippines"
 ---
 
 

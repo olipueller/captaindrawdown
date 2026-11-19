@@ -6,6 +6,11 @@ description: "Software platform that tracks individual trees after planting (\"P
 url: "/directory/forestmatic/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Forestmatic: CDR enabling technology, Belgium | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.forestmatic.com"
+company_linkedin: "https://www.linkedin.com/company/forestmatic/"
+company_country: "Belgium"
 ---
 
 

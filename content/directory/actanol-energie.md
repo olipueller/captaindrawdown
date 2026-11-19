@@ -6,6 +6,11 @@ description: "Operates Carbo-FORCE pyrolysis plants that convert biomass into bi
 url: "/directory/actanol-energie/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Actanol Energie: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://actanol-energie.de/"
+company_linkedin: "https://www.linkedin.com/company/actanol-energie-gmbh/"
+company_country: "Germany"
 ---
 
 

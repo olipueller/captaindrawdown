@@ -6,6 +6,11 @@ description: "Liquid-sorbent low-temperature DAC process that captures CO2 from 
 url: "/directory/greenlyte-carbon-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Greenlyte Carbon Technologies: direct air capture company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.greenlyte.tech/"
+company_linkedin: "https://www.linkedin.com/company/greenlyte-carbon-technologies/"
+company_country: "Germany"
 ---
 
 

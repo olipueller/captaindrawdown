@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from corn ethanol fermentation at Pekin, IL 
 url: "/directory/alto/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Alto: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.altoingredients.com/"
+company_linkedin: "https://www.linkedin.com/company/alto-ingredients/"
+company_country: "United States"
 ---
 
 

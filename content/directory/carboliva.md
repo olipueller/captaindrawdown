@@ -6,6 +6,11 @@ description: "Produces biochar via oxygen-free pyrolysis of olive pits and pulp 
 url: "/directory/carboliva/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carboliva: biochar company, Spain | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboliva.es/"
+company_linkedin: "https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/"
+company_country: "Spain"
 ---
 
 

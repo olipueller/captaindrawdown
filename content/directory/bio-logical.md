@@ -6,6 +6,11 @@ description: "Operates pyrolysis kilns in Kabati, Kenya that convert eucalyptus,
 url: "/directory/bio-logical/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Bio-Logical: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.bio-logical.green/"
+company_linkedin: "https://www.linkedin.com/company/bio-logical/"
+company_country: "Kenya"
 ---
 
 

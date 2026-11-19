@@ -6,6 +6,11 @@ description: "Mines and crushes wollastonite (calcium silicate); supplies the fa
 url: "/directory/canadian-wollastonite/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
+seo_title: "Canadian Wollastonite: enhanced weathering as a side business, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://canadianwollastonite.com"
+company_linkedin: "https://www.linkedin.com/company/canadian-wollastonite/"
+company_country: "Canada"
 ---
 
 

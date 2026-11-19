@@ -6,6 +6,11 @@ description: "Grew local marine microalgae strains in open-air seawater raceway 
 url: "/directory/brilliant-planet-inactive/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Brilliant Planet | Inactive: biomass burial company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.brilliantplanet.com"
+company_linkedin: "https://www.linkedin.com/company/brilliantplanet/"
+company_country: "United Kingdom"
 ---
 
 

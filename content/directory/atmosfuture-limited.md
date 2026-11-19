@@ -6,6 +6,11 @@ description: "Fanless cryogenic DAC (\"Reverse Fractionation\") that uses liquid
 url: "/directory/atmosfuture-limited/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Atmosfuture Limited: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.atmosfuture.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/atmosfutureltd/"
+company_country: "United Kingdom"
 ---
 
 

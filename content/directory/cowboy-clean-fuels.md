@@ -6,6 +6,11 @@ description: "Injects agricultural biomass into depleted Powder River Basin coal
 url: "/directory/cowboy-clean-fuels/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Cowboy Clean Fuels: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://cowboycleanfuels.com/"
+company_linkedin: "https://www.linkedin.com/company/cowboy-clean-fuels/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Passive-airflow Direct Air Capture using a novel low-temperature s
 url: "/directory/spiritus/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Spiritus: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-11"
+company_url: "https://spiritus.com/"
+company_linkedin: "https://www.linkedin.com/company/spiritus-cdr/"
+company_country: "United States"
 ---
 
 

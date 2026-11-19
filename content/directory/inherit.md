@@ -6,6 +6,11 @@ description: "Develops BECCS projects capturing biogenic CO2 from biogas/wastewa
 url: "/directory/inherit/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Inherit: BECCS company, Norway | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.inheritcarbonsolutions.com/"
+company_linkedin: "https://www.linkedin.com/company/agero-carbon-solutions/"
+company_country: "Norway"
 ---
 
 
@@ -30,6 +35,7 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-11-18** — News: VEAS wastewater treatment plant BECCS value chain — BECCS ([source](https://www.inheritcs.com/insight/what-is-a-carbon-removal-credit))
 - **2026-11-06** — News: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a... ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-62b6ad417f5b))
 - **2026-10-05** — News: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a… ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
 - **2026-10-01** — News: Denmark's first BECCS project begins operations ([source](https://www.qcintel.com/biofuels/article/denmark-s-first-beccs-project-begins-operations-74092.html))

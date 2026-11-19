@@ -6,6 +6,11 @@ description: "Full-chain BECCS project capturing biogenic CO2 from Pannonia Bio'
 url: "/directory/danube-carbon-storage/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Danube Carbon Storage: BECCS company, Hungary | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://danubecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/danube-carbon/"
+company_country: "Hungary"
 ---
 
 

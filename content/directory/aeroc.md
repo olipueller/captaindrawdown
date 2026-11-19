@@ -6,6 +6,11 @@ description: "Spreads crushed basalt rock flour on agricultural fields in German
 url: "/directory/aeroc/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "AEROC: enhanced weathering company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.aeroc.earth/"
+company_linkedin: "https://www.linkedin.com/company/aerocremotesensing/"
+company_country: "Germany"
 ---
 
 

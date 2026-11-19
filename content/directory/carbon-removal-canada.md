@@ -6,6 +6,11 @@ description: "Policy advocacy and research organization promoting the scale-up o
 url: "/directory/carbon-removal-canada/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Removal Canada: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-11-13"
+company_url: "https://carbonremoval.ca/"
+company_linkedin: "https://www.linkedin.com/company/carbon-removal-canada/"
+company_country: "Canada"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates a patented biomass pyrolysis process producing biochar an
 url: "/directory/explocom-gk-srl/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Explocom GK SRL: biochar company, Romania | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://gekka.bio/"
+company_linkedin: "https://www.linkedin.com/company/biogekka/"
+company_country: "Romania"
 ---
 
 

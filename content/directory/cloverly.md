@@ -6,6 +6,11 @@ description: "API-first carbon credit marketplace and SaaS platform (Catalyst) f
 url: "/directory/cloverly/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Cloverly: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.cloverly.com/"
+company_linkedin: "https://www.linkedin.com/company/cloverly/"
+company_country: "United States"
 ---
 
 

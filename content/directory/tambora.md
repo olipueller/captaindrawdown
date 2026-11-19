@@ -6,6 +6,11 @@ description: "Deploys Enhanced Rock Weathering (crushed silicate rock dust) and 
 url: "/directory/tambora/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "Tambora: enhanced weathering company, Indonesia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.tambora.asia"
+company_linkedin: "https://www.linkedin.com/company/tamboracdr/"
+company_country: "Indonesia"
 ---
 
 

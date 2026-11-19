@@ -6,6 +6,11 @@ description: "Non-profit industry association advocating for biochar production 
 url: "/directory/german-biochar-association/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "German Biochar Association: biochar ecosystem company, Germany | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://german-biochar.org/"
+company_linkedin: "https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/"
+company_country: "Germany"
 ---
 
 
@@ -30,6 +35,7 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-11-18** — News: #pyrolyse #germanbiochar #klimaschutz #kommunen #wärmeplanung | German Biochar e.V. (German… ([source](https://www.linkedin.com/feed/update/urn:li:share:7528771162730946560/))
 - **2026-11-12** — News: Herzlichen Glückwunsch an autarkize zum SZ Gipfelstürmer-Award 2026! Wir gratulieren unserem... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526648030737993738/))
 - **2026-11-10** — News: German Biochar Association: !!Carbon removal has a new route to EU funding!! For the first time... ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-bd86d6bc136f))
 - **2026-10-23** — News: Tagung_Stadtgrün-Schwammstadt-Pflanzenkohle | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518989733637763072/))

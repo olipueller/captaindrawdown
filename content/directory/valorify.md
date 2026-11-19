@@ -6,6 +6,10 @@ description: "Converts agricultural crop residues into biomethane and other bioe
 url: "/directory/valorify/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Valorify: BECCS as a side business, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://valorify.com.au"
+company_country: "Australia"
 ---
 
 

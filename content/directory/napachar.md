@@ -6,6 +6,10 @@ description: "Runs flame-cap biochar kilns on site to pyrolyze pulled vines and 
 url: "/directory/napachar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Napachar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://napachar.com/"
+company_country: "United States"
 ---
 
 

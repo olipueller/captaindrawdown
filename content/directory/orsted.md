@@ -6,6 +6,11 @@ description: "Post-combustion amine-based CO2 capture retrofitted to biomass-fir
 url: "/directory/orsted/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "Orsted: BECCS as a side business, Denmark | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://orsted.com/"
+company_linkedin: "https://www.linkedin.com/company/orsted/"
+company_country: "Denmark"
 ---
 
 

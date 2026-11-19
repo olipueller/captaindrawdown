@@ -6,6 +6,11 @@ description: "Designs and manufactures small-scale biochar pyrolysis equipment (
 url: "/directory/high-plains-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "High Plains Biochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.hpbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/high-plains-biochar-llc/"
+company_country: "United States"
 ---
 
 

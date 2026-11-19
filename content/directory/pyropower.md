@@ -6,6 +6,11 @@ description: "Develops Pyro-ClinX pyrolysis CHP systems that combine an external
 url: "/directory/pyropower/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "pyropower: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://pyro-power.com/"
+company_linkedin: "https://www.linkedin.com/company/pyropowergmbh/"
+company_country: "Germany"
 ---
 
 

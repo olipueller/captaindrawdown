@@ -6,6 +6,11 @@ description: "SaaS platform for carbon credit inventory management, dMRV data pi
 url: "/directory/alcove-labs/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Alcove Labs: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.alcove.io/"
+company_linkedin: "https://www.linkedin.com/company/alcove-io/"
+company_country: "United States"
 ---
 
 

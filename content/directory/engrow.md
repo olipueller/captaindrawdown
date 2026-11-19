@@ -6,6 +6,11 @@ description: "Operates pyrolysis and gasification plants in Tamil Nadu that conv
 url: "/directory/engrow/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Engrow: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://engrowfuels.com/"
+company_linkedin: "https://www.linkedin.com/company/engrow-group/"
+company_country: "India"
 ---
 
 

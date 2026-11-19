@@ -6,6 +6,11 @@ description: "Academic research group studying economics of climate technology, 
 url: "/directory/net-zero-lab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Net Zero Lab: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.netzerolab.science/"
+company_linkedin: "https://www.linkedin.com/company/net-zero-lab-%e2%80%93-max-planck-institute-for-innovation-and-competition/"
+company_country: "Germany"
 ---
 
 

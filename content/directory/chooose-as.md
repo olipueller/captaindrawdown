@@ -6,6 +6,11 @@ description: "SaaS platform and API providing emissions calculation, SAF program
 url: "/directory/chooose-as/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Chooose AS: CDR enabling technology, Norway | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.chooose.today/"
+company_linkedin: "https://www.linkedin.com/company/chooose/"
+company_country: "Norway"
 ---
 
 

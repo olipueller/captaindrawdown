@@ -6,6 +6,11 @@ description: "Operates pyrolysis reactors (\"Tlacuache 1\") that convert Caribbe
 url: "/directory/rubisco2/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "RubisCO2: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-23"
+company_url: "https://rubisco2.com/"
+company_linkedin: "https://www.linkedin.com/company/rubisco2/"
+company_country: "Germany"
 ---
 
 

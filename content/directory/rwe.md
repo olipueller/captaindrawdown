@@ -6,6 +6,11 @@ description: "Post-combustion CO2 capture at biomass-fired power plants (Amer an
 url: "/directory/rwe/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "RWE: BECCS as a side business, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.rwe.com/"
+company_linkedin: "https://www.linkedin.com/company/rwe-/"
+company_country: "Germany"
 ---
 
 

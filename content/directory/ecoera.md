@@ -6,6 +6,11 @@ description: "Produces biochar via pyrolysis of pelletized agricultural residues
 url: "/directory/ecoera/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Ecoera: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ecoera.se/"
+company_linkedin: "https://www.linkedin.com/company/ecoera-ab/"
+company_country: "Sweden"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Injects supersaturated CO2 into ultramafic rock to simultaneously 
 url: "/directory/decahydron/"
 pathway: "Mineralization"
 liveliness: "🟡 Moderate"
+seo_title: "Decahydron: mineralization as a side business, Ireland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.decahydron.com/"
+company_linkedin: "https://www.linkedin.com/company/decahydron/"
+company_country: "Ireland"
 ---
 
 

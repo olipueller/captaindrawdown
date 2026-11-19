@@ -6,6 +6,11 @@ description: "Low-temperature solid-sorbent Direct Air Capture system using wast
 url: "/directory/280-earth/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "280 Earth: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://280.earth"
+company_linkedin: "https://www.linkedin.com/company/280-earth/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes woody municipal green waste, tree-surgery offcuts and pa
 url: "/directory/darkblack-carbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "DarkBlack Carbon: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://darkblackcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/dark-black-carbon/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates the C-Capsule registry and standard that issues tradable 
 url: "/directory/evident/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Evident: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-30"
+company_url: "https://evident.global"
+company_linkedin: "https://www.linkedin.com/company/evidentstaffingmn/"
+company_country: "United Kingdom"
 ---
 
 

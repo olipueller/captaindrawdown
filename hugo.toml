@@ -194,3 +194,10 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://www
   name = "Search"
   url = "/search/"
   weight = 60
+
+
+# lastmod feeds the sitemap and JSON-LD only. Without this, a page that has a
+# lastmod but no date (company profiles) would take the lastmod as its date
+# and show it in the post meta line.
+[frontmatter]
+  date = ["date", "publishDate"]

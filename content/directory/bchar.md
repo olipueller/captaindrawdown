@@ -6,6 +6,11 @@ description: "Develops turn-key, automated industrial-scale pyrolysis systems wi
 url: "/directory/bchar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BCHAR: biochar company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bchar.earth/"
+company_linkedin: "https://www.linkedin.com/company/bchar/"
+company_country: "Switzerland"
 ---
 
 

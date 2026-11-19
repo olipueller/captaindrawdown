@@ -6,6 +6,11 @@ description: "Registry and certification service issuing Carbon Removal Units (C
 url: "/directory/c-capsule/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "C-Capsule: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://c-capsule.com/"
+company_linkedin: "https://www.linkedin.com/company/c-capsule/"
+company_country: "Netherlands"
 ---
 
 

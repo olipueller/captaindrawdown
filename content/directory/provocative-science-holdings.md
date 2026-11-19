@@ -6,6 +6,11 @@ description: "Integrates direct air capture into data-center cooling loops, usin
 url: "/directory/provocative-science-holdings/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Provocative Science Holdings: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.provocative.earth/"
+company_linkedin: "https://www.linkedin.com/company/provocative-science/"
+company_country: "United States"
 ---
 
 

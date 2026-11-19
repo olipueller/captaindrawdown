@@ -6,6 +6,11 @@ description: "Consumer-facing greeting-card gifting platform that resells bundle
 url: "/directory/thanks-a-ton/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Thanks-A-Ton: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://thanksaton.earth/"
+company_linkedin: "https://www.linkedin.com/company/thanks-a-ton/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Designing rail-mounted DAC cars that use train slipstream airflow 
 url: "/directory/co2rail/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "CO2Rail: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.co2rail.com/"
+company_linkedin: "https://www.linkedin.com/company/co2rail/"
+company_country: "United States"
 ---
 
 

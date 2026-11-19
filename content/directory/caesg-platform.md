@@ -6,6 +6,10 @@ description: "Plans to turn cotton-stalk agricultural residue into biochar throu
 url: "/directory/caesg-platform/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "CAESG Platform: biochar company, Kazakhstan | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://caesg.com"
+company_country: "Kazakhstan"
 ---
 
 

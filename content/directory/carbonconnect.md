@@ -6,6 +6,11 @@ description: "Trains smallholder farmers to produce biochar from agricultural re
 url: "/directory/carbonconnect/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CarbonConnect: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonconnect.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbonconnectearth/"
+company_country: "Germany"
 ---
 
 

@@ -6,6 +6,11 @@ description: "DFC produces in-woods biochar from forest slash and logging residu
 url: "/directory/desired-future-conditions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Desired Future Conditions: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.dfconditions.com/"
+company_linkedin: "https://www.linkedin.com/company/desired-future-conditions/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops a novel solid sorbent for DAC formed into cylindrical wou
 url: "/directory/nuaria/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "NuAria: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.nuaria.com/"
+company_linkedin: "https://www.linkedin.com/company/nuaria/"
+company_country: "United States"
 ---
 
 

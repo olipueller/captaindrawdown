@@ -6,6 +6,11 @@ description: "Carbon project developer that designs, structures, and documents b
 url: "/directory/residual-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Residual Carbon: biochar ecosystem company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.residualcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/residualcarbon/"
+company_country: "United Kingdom"
 ---
 
 
@@ -31,6 +36,7 @@ Residual is a UK-based carbon project developer that partners with industrials t
 
 ## History
 
+- **2026-11-18** — News: Residual Carbon: The UK government just told companies which carbon credits to buy....but not that... ([source](https://www.linkedin.com/company/residualcarbon/#post-b7ede5950bb2))
 - **2026-10-06** — News: Residual Opens Carbon Removal Buyer Portal With 25 Major Buyers Signed Up ([source](https://carbonherald.com/residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up/?utm_source=rss&utm_medium=rss&utm_campaign=residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up))
 - **2026-09-30** — News: Agricultural liming is a carbon sink in the Mississippi River Basin ([source](https://doi.org/10.1038/s41586-026-11040-2))
 - **2026-09-12** — News: Residual Carbon: Our second Residual quality framework is out - this time for ARR, following our… ([source](https://www.linkedin.com/company/residualcarbon/#post-ad600515d117))

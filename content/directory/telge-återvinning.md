@@ -6,6 +6,11 @@ description: "Operates a CharMaker MPP batch pyrolysis unit that converts munici
 url: "/directory/telge-återvinning/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Telge Återvinning: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.telge.se/om-telge/vara-bolag/telge-atervinning/"
+company_linkedin: "https://www.linkedin.com/company/telge/"
+company_country: "Sweden"
 ---
 
 

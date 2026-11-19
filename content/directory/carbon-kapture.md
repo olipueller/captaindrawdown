@@ -6,6 +6,11 @@ description: "Grows sugar kelp (Saccharina latissima) on ropes via shellfish-far
 url: "/directory/carbon-kapture/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbon Kapture: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonkapture.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-kapture/"
+company_country: "United Kingdom"
 ---
 
 

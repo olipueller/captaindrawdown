@@ -6,6 +6,11 @@ description: "Consumer mobile app that estimates personal emissions (flights via
 url: "/directory/aerial/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Aerial: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://aerial.is/"
+company_linkedin: "https://www.linkedin.com/company/withaerial/"
+company_country: "United States"
 ---
 
 
@@ -29,6 +34,7 @@ Aerial is a San Francisco-based consumer carbon-footprint tracking and offset ap
 
 ## History
 
+- **2026-11-19** — News: Cop31: the world is heading for climate ‘overshoot’ – the UN summit must start planning for what... ([source](https://theconversation.com/cop31-the-world-is-heading-for-climate-overshoot-the-un-summit-must-start-planning-for-what-comes-next-296769))
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://coolhunting.com/tech/aerial-app-provides-resources-to-offset-your-carbon-footprint/))
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://aerial.is/))
 - **2026-11-16** — Reactivated: website reachable again

@@ -6,6 +6,11 @@ description: "Enables smallholder farmers in tropical regions to convert agricul
 url: "/directory/planboo/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Planboo: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://planboo.eco/"
+company_linkedin: "https://www.linkedin.com/company/planboo/"
+company_country: "Sweden"
 ---
 
 

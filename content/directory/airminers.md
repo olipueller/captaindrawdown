@@ -6,6 +6,11 @@ description: "Nonprofit-style community, education (BootUp) and accelerator (Lau
 url: "/directory/airminers/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "AirMiners: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://airminers.com/"
+company_linkedin: "https://www.linkedin.com/company/airminers/"
+company_country: "United States"
 ---
 
 

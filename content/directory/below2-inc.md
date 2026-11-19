@@ -6,6 +6,11 @@ description: "Provides an automated, data-driven verification platform and propr
 url: "/directory/below2-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "BELOW2 Inc.: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://below2.earth/"
+company_linkedin: "https://www.linkedin.com/company/below2/"
+company_country: "United States"
 ---
 
 

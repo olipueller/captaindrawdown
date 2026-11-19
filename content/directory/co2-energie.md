@@ -6,6 +6,11 @@ description: "Captures and liquefies biogenic CO2 from biogas upgrading plants i
 url: "/directory/co2-energie/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "CO2 Energie: BECCS division, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.co2-energie.ch/"
+company_linkedin: "https://www.linkedin.com/company/verduurzaming/"
+company_country: "Switzerland"
 ---
 
 

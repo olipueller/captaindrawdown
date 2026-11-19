@@ -6,6 +6,11 @@ description: "Carbon markets consultancy offering methodology development, digit
 url: "/directory/atoa-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ATOA Carbon: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://atoacarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/atoa-carbon/"
+company_country: "United States"
 ---
 
 

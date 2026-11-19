@@ -6,6 +6,11 @@ description: "Processes biochar into concrete admixtures (eLM Zero) that lock bi
 url: "/directory/ecolocked/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ecoLocked: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ecolocked.com/"
+company_linkedin: "https://www.linkedin.com/company/ecolocked/"
+company_country: "Germany"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Carbon credit standard-setter and registry that certifies emission
 url: "/directory/gold-standard/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Gold Standard: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://www.goldstandard.org/"
+company_linkedin: "https://www.linkedin.com/company/gold-standard/"
+company_country: "Switzerland"
 ---
 
 

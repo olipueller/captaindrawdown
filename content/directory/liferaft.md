@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural and municipal biomass at facilities in Iowa
 url: "/directory/liferaft/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Liferaft: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.liferaft.cc/"
+company_linkedin: "https://www.linkedin.com/company/liferaftcc/"
+company_country: "United States"
 ---
 
 

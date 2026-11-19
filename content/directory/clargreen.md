@@ -6,6 +6,11 @@ description: "Pyrolyzes palm kernel shells and black soldier fly frass into a bi
 url: "/directory/clargreen/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Clargreen: biochar company, Nigeria | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://clargreen.earth/"
+company_linkedin: "https://www.linkedin.com/company/clargreen-technologies/"
+company_country: "Nigeria"
 ---
 
 

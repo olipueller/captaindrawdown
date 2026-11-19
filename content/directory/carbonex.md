@@ -6,6 +6,10 @@ description: "Carbonizes wood and biomass residues into charcoal, biocarbon, bio
 url: "/directory/carbonex/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Carbonex: biochar as a side business, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonex.fr"
+company_country: "France"
 ---
 
 

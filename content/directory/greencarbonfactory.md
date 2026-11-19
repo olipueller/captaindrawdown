@@ -6,6 +6,11 @@ description: "Small-scale on-site thermal conversion (pyrolysis/gasification) of
 url: "/directory/greencarbonfactory/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "GreenCarbonFactory: biochar company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.greencarbonfactory.com/"
+company_linkedin: "https://www.linkedin.com/company/osomo/"
+company_country: "Netherlands"
 ---
 
 

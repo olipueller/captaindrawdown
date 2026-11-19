@@ -6,6 +6,11 @@ description: "Designs and sells batch-fed allothermal pyrolysis units (VARIO XS/
 url: "/directory/spsc/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "SPSC: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.sp-sc.de/"
+company_linkedin: "https://www.linkedin.com/company/spsc-gmbh/"
+company_country: "Germany"
 ---
 
 

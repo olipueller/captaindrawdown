@@ -6,6 +6,10 @@ description: "Runs a blockchain-based registry that issues, tracks and retires c
 url: "/directory/ecoregistry/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "EcoRegistry: CDR enabling technology, Colombia | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.ecoregistry.io"
+company_country: "Colombia"
 ---
 
 
@@ -27,6 +31,7 @@ EcoRegistry is a carbon credit registry based in Medellín, Colombia. It grew in
 
 ## History
 
+- **2026-11-19** — News: Carbonmark: Carbonmark and EcoRegistry are now connected. Credits certified under the Cercarbono... ([source](https://www.linkedin.com/company/carbonmarkcom/#post-82e025ba879d))
 - **2026-11-16** — Status Active → Moderate
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://www.carbonmark.com/post/ecoregistry-carbonmark-integration))
 - **2026-11-16** — Added to the directory ([source](https://www.linkedin.com/company/carbonmarkcom/))

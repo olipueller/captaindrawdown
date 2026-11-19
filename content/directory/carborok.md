@@ -6,6 +6,11 @@ description: "Proprietary carbonation reactors that accelerate mineralization of
 url: "/directory/carborok/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carborok: mineralization company, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carborok.com/"
+company_linkedin: "https://www.linkedin.com/company/carborok/"
+company_country: "France"
 ---
 
 

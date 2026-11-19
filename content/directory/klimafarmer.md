@@ -6,6 +6,11 @@ description: "Pyrolysis of untreated regional wood chips to produce EBC-certifie
 url: "/directory/klimafarmer/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Klimafarmer: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://klimafarmer.de/"
+company_linkedin: "https://www.linkedin.com/company/klimafarmer-gmbh/"
+company_country: "Germany"
 ---
 
 

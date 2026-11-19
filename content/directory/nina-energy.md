@@ -6,6 +6,11 @@ description: "Designs and builds on-site pyrolysis reactors that convert agricul
 url: "/directory/nina-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Nina Energy: biochar company, Ecuador | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://nina.energy/en/"
+company_linkedin: "https://www.linkedin.com/company/nina-energy/"
+company_country: "Ecuador"
 ---
 
 

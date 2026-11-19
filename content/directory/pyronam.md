@@ -6,6 +6,10 @@ description: "Pyrolyzes FSC-certified encroacher bush biomass using PyroCCS SCB-
 url: "/directory/pyronam/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Pyronam: biochar company, Namibia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://pyronam.com/"
+company_country: "Namibia"
 ---
 
 

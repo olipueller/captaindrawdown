@@ -6,6 +6,11 @@ description: "Climate impact investment advisory and asset management firm deplo
 url: "/directory/regeniam/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Regeniam: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://regeniamco.com/"
+company_linkedin: "https://www.linkedin.com/company/regeniamcompanies/"
+company_country: "United States"
 ---
 
 

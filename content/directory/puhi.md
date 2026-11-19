@@ -6,6 +6,11 @@ description: "Operates a pyrolysis facility converting wood- and agriculture-bas
 url: "/directory/puhi/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "PUHI: biochar company, Finland | Captain Drawdown"
+lastmod: "2026-10-12"
+company_url: "https://www.puhi.fi/"
+company_linkedin: "https://www.linkedin.com/company/puhi/"
+company_country: "Finland"
 ---
 
 

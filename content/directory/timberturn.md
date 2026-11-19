@@ -6,6 +6,11 @@ description: "Engineered underground wood vaults that bury waste forest biomass 
 url: "/directory/timberturn/"
 pathway: "Biomass Burial"
 liveliness: "🔴 Likely Dead"
+seo_title: "TimberTurn: biomass burial company, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://timberturn.ca/"
+company_linkedin: "https://www.linkedin.com/company/wood-safe/"
+company_country: "Canada"
 ---
 
 

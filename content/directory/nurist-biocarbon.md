@@ -6,6 +6,11 @@ description: "Pyrolyzes crop residue, dung, and invasive Prosopis juliflora biom
 url: "/directory/nurist-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Nurist Biocarbon: biochar company, India | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://nuristbiocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/nurist-biocarbon/"
+company_country: "India"
 ---
 
 

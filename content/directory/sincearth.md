@@ -6,6 +6,10 @@ description: "Spreads finely crushed basalt on smallholder farmland in Ghana to 
 url: "/directory/sincearth/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
+seo_title: "Sinc.Earth: enhanced weathering company, Ghana | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.sinc.earth/"
+company_country: "Ghana"
 ---
 
 

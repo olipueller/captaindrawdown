@@ -6,6 +6,10 @@ description: "Adds alkalinity at existing wastewater treatment plants so biogeni
 url: "/directory/alkamy-carbon/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Alkamy Carbon: ocean CDR company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://alkamycarbon.com"
+company_country: "India"
 ---
 
 

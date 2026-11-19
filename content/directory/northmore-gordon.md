@@ -6,6 +6,11 @@ description: "Energy/carbon consultancy that brokers CORCs and other environment
 url: "/directory/northmore-gordon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Northmore Gordon: CDR enabling technology, Australia | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://northmoregordon.com/"
+company_linkedin: "https://www.linkedin.com/company/northmore-gordon-pty-ltd/"
+company_country: "Australia"
 ---
 
 

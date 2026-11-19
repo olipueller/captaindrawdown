@@ -6,6 +6,10 @@ description: "Pyrolyzes untreated, locally sourced PEFC-certified wood chips int
 url: "/directory/nordgau-carbon/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Nordgau Carbon: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.nordgau-carbon.de/"
+company_country: "Germany"
 ---
 
 

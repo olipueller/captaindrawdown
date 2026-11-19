@@ -6,6 +6,9 @@ description: "Is developing floating Sargassum-based structures (\"FloCS\") that
 url: "/directory/marnova/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Marnova: ocean CDR company | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.marnova.co/"
 ---
 
 

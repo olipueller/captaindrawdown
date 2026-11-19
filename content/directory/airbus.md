@@ -6,6 +6,11 @@ description: "Modular solid amine sorbent DAC unit using temperature-swing desor
 url: "/directory/airbus/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Airbus: direct air capture as a side business, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.airbus.com"
+company_linkedin: "https://www.linkedin.com/company/airbusgroup/"
+company_country: "Netherlands"
 ---
 
 

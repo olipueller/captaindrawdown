@@ -6,6 +6,10 @@ description: "Operates a carbon credit exchange, auction house, and project mark
 url: "/directory/climate-impact-x/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Climate Impact X: CDR enabling technology, Singapore | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.climateimpactx.com/"
+company_country: "Singapore"
 ---
 
 
@@ -14,9 +18,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.climateimpactx.com/" target="_blank" rel="noopener">https://www.climateimpactx.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/new-york-mercantile-exchange/" target="_blank" rel="noopener">new-york-mercantile-exchange</a></td></tr>
   <tr><th>Status</th><td>Active (score: 75/100)</td></tr>
-  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 

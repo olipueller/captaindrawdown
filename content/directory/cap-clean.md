@@ -6,6 +6,11 @@ description: "Plans to produce SAF and renewable diesel from crop residues via R
 url: "/directory/cap-clean/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "Cap Clean: BECCS as a side business, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://capclean.com/"
+company_linkedin: "https://www.linkedin.com/company/cap-clean/"
+company_country: "Canada"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes wood and agricultural waste into biochar, then compounds
 url: "/directory/made-of-air/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Made of Air: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.madeofair.com/"
+company_linkedin: "https://www.linkedin.com/company/made-of-air/"
+company_country: "Germany"
 ---
 
 

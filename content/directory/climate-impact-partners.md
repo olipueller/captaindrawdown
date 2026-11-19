@@ -6,6 +6,11 @@ description: "Voluntary carbon market retailer and project developer that source
 url: "/directory/climate-impact-partners/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Climate Impact Partners: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-03"
+company_url: "https://www.climateimpact.com"
+company_linkedin: "https://www.linkedin.com/company/climate-impact-partners/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates a Pyreg pyrolysis unit at a municipal waste site to conve
 url: "/directory/awn/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "AWN: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.awn-online.de/"
+company_linkedin: "https://www.linkedin.com/company/kwin-kreislaufwirtschaft-neckar-odenwald-a%C3%B6r/"
+company_country: "Germany"
 ---
 
 

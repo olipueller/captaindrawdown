@@ -6,6 +6,10 @@ description: "Develops carbon credit projects, trades carbon credits and renewab
 url: "/directory/climate-bridge/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Climate Bridge: CDR enabling technology, China | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.climatebridge.com"
+company_country: "China"
 ---
 
 

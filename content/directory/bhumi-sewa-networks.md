@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural residues from Nepali smallholder farmer coo
 url: "/directory/bhumi-sewa-networks/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Bhumi Sewa Networks: biochar company, Nepal | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bhumi.earth/"
+company_linkedin: "https://www.linkedin.com/company/bhumi-sewa/"
+company_country: "Nepal"
 ---
 
 

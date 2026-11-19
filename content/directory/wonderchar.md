@@ -6,6 +6,11 @@ description: "Pyrolyzes pecan shell (and softwood) waste biomass into graded bio
 url: "/directory/wonderchar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Wonderchar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.wonderchar.com/"
+company_linkedin: "https://www.linkedin.com/company/wonderchar-inc/"
+company_country: "United States"
 ---
 
 

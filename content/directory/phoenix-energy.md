@@ -6,6 +6,11 @@ description: "Develops and operates community-scale biomass gasification plants 
 url: "/directory/phoenix-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Phoenix Energy: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.phoenixenergy.net/"
+company_linkedin: "https://www.linkedin.com/company/phoenix-energy-1/"
+company_country: "United States"
 ---
 
 

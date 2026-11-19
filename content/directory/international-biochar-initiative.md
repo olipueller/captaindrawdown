@@ -6,6 +6,11 @@ description: "Nonprofit industry association and standards body for the global b
 url: "/directory/international-biochar-initiative/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "International Biochar Initiative: biochar ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biochar-international.org/"
+company_linkedin: "https://www.linkedin.com/company/international-biochar-initiative/"
+company_country: "United States"
 ---
 
 

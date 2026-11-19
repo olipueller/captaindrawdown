@@ -6,6 +6,10 @@ description: "Turns agricultural residues into biochar and blends it into a carb
 url: "/directory/biochar-innovations-limited/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Biochar Innovations Limited: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.biocharinnovations.co.uk"
+company_country: "United Kingdom"
 ---
 
 

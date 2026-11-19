@@ -6,6 +6,11 @@ description: "Surficial mineralization: crushes alkaline industrial residues (sl
 url: "/directory/karbonetiq/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Karbonetiq: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.karbonetiq.com/"
+company_linkedin: "https://www.linkedin.com/company/karbonetiq-inc/"
+company_country: "United States"
 ---
 
 

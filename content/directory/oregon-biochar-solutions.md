@@ -6,6 +6,11 @@ description: "Operates an industrial-scale pyrolysis facility in White City, Ore
 url: "/directory/oregon-biochar-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Oregon Biochar Solutions: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-16"
+company_url: "https://www.chardirect.com/"
+company_linkedin: "https://www.linkedin.com/company/oregon-biochar-solutions/"
+company_country: "United States"
 ---
 
 

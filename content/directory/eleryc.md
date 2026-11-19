@@ -6,6 +6,10 @@ description: "Electrochemical hydroxide generation (liquid-solvent DAC) using pa
 url: "/directory/eleryc/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Eleryc: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf"
+company_country: "United States"
 ---
 
 
@@ -15,9 +19,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf" target="_blank" rel="noopener">https://github.com/frontierclimate/carbon-removal-source-materials/blob/main/Project%20Applications/2025%20Summer/%5BEleryc%5D%20Prepurchase%20Application%202025.pdf</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/github/" target="_blank" rel="noopener">github</a></td></tr>
   <tr><th>Status</th><td>Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

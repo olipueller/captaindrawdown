@@ -6,6 +6,11 @@ description: "greenSand mines, grinds and distributes olivine rock as a replacem
 url: "/directory/greensand/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "greenSand: enhanced weathering company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://greensand.com/en"
+company_linkedin: "https://www.linkedin.com/company/greensand/"
+company_country: "Netherlands"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Crushes volcanic basalt and applies it to smallholder farmers' fie
 url: "/directory/terrasols/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Terrasols: enhanced weathering company, India | Captain Drawdown"
+lastmod: "2026-09-22"
+company_url: "https://terrasols.earth/"
+company_linkedin: "https://www.linkedin.com/company/terrasols/"
+company_country: "India"
 ---
 
 

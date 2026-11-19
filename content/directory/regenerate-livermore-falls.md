@@ -6,6 +6,11 @@ description: "Gasification of forestry/mill residue at a 39 MW biomass power pla
 url: "/directory/regenerate-livermore-falls/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ReGenerate Livermore Falls: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.regenerate-energy.com/"
+company_linkedin: "https://www.linkedin.com/company/regenerate-energy/"
+company_country: "United States"
 ---
 
 

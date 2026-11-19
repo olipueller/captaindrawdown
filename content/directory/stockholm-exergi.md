@@ -6,6 +6,11 @@ description: "Adding post-combustion carbon capture (Capsol HPC technology) to a
 url: "/directory/stockholm-exergi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Stockholm Exergi: BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.stockholmexergi.se/en/"
+company_linkedin: "https://www.linkedin.com/company/stockholm-exergi/"
+company_country: "Sweden"
 ---
 
 
@@ -29,6 +34,8 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-11-18** — News: Snam Names Hyaccelerator 2026 Winners to Advance Industrial Carbon Capture and Energy Integration… ([source](https://news.europawire.eu/snam-names-hyaccelerator-2026-winners-to-advance-industrial-carbon-capture-and-energy-integration/eu-press-release/2026/11/18/16/06/04/188454/))
+- **2026-11-17** — News: Beccs Stockholm: The first process equipment is now in place at Beccs Stockholm Another important... ([source](https://www.linkedin.com/company/beccs-stockholm/#post-8ae3a68c7817))
 - **2026-11-06** — News: Microsoft ↔ Stockholm Exergi — beccs ([source](https://www.datacenterdynamics.com/en/news/microsoft-expands-carbon-removal-agreement-with-stockholm-exergi))
 - **2026-11-05** — News: BECCS Stockholm — beccs ([source](https://newenergy-today.com/news/inside-stockholm-exergis-harborfront-project-aiming-to-remove-more-co2-than-the-citys-entire-road-network))
 - **2026-10-08** — News: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
@@ -57,8 +64,6 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 - **2026-08-20** — News: ClimeFi: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, the ([source](https://www.linkedin.com/company/carbonx-world/#post-c5c559524666))
 - **2026-08-13** — News: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS. We ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
 - **2026-08-12** — News: Carbonx SAS: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, ([source](https://www.linkedin.com/company/carbonx-world/#post-6b8af173d0db))
-- **2026-08-12** — News: Stockholm Exergi: Cement med nära noll klimatpåverkan? Ja, med hjälp av koldioxidinfångning är det… ([source](https://www.linkedin.com/company/stockholm-exergi/#post-14016e7158d3))
-- **2026-07-31** — News: Microsoft Carbon Capture 2026, 1M Tonne Liferaft Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/microsoft-beccs-data-centers/))
 
 ---
 

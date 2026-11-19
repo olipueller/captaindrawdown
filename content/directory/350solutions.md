@@ -6,6 +6,11 @@ description: "Independent third-party Validation & Verification Body (VVB) provi
 url: "/directory/350solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "350solutions: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-29"
+company_url: "https://350solutions.com/"
+company_linkedin: "https://www.linkedin.com/company/350solutions/"
+company_country: "United States"
 ---
 
 

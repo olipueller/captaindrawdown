@@ -6,6 +6,9 @@ description: "Electrochemical pH-swing DAC: electricity changes a liquid's acidi
 url: "/directory/catharos/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Catharos: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "United States"
 ---
 
 

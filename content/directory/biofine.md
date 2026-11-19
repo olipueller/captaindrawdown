@@ -6,6 +6,11 @@ description: "Acid-catalyzed hydrolysis of cellulosic biomass (forestry slash, w
 url: "/directory/biofine/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biofine: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.biofinedevelopments.com/"
+company_linkedin: "https://www.linkedin.com/company/biofine-north-america/"
+company_country: "United States"
 ---
 
 

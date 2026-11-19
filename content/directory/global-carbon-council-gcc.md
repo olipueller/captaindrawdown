@@ -6,6 +6,11 @@ description: "A carbon crediting standard and registry program based in Qatar th
 url: "/directory/global-carbon-council-gcc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Global Carbon Council (GCC): CDR enabling technology, Qatar | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://globalcarboncouncil.com/"
+company_linkedin: "https://www.linkedin.com/company/globalcarboncouncil/"
+company_country: "Qatar"
 ---
 
 

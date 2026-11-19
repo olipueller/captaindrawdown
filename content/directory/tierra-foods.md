@@ -6,6 +6,11 @@ description: "Agroforestry using oxalogenic trees (ramón, English Oak) that seq
 url: "/directory/tierra-foods/"
 pathway: "Mineralization"
 liveliness: "🔴 Likely Dead"
+seo_title: "Tierra Foods: mineralization company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://tierra-foods.com/"
+company_linkedin: "https://www.linkedin.com/company/tierra-foods-mexico/"
+company_country: "United Kingdom"
 ---
 
 

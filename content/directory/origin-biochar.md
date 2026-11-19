@@ -6,6 +6,11 @@ description: "Operates a Biomacon pyrolysis unit producing biochar granules sold
 url: "/directory/origin-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Origin Biochar: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://originbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/originbiochar/"
+company_country: "United Kingdom"
 ---
 
 

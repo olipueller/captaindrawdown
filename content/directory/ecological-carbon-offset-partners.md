@@ -6,6 +6,11 @@ description: "Carbon Yards stores woodchips from certified forests in engineered
 url: "/directory/ecological-carbon-offset-partners/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Ecological Carbon Offset Partners: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-10-29"
+company_url: "https://www.epcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/ep-carbon/"
+company_country: "United States"
 ---
 
 

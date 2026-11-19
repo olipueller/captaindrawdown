@@ -6,6 +6,11 @@ description: "Pyrolyzes mixed hardwood sawmill residues into high-carbon biochar
 url: "/directory/metzler/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Metzler: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.metzlerbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/metzler-forest-products/"
+company_country: "United States"
 ---
 
 

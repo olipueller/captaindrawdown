@@ -6,6 +6,11 @@ description: "Engineered enhanced weathering deployed inside municipal wastewate
 url: "/directory/crew-carbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "CREW Carbon: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://crewcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/crew-carbon/"
+company_country: "United States"
 ---
 
 

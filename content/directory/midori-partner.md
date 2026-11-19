@@ -6,6 +6,11 @@ description: "Develops biochar carbon removal projects by partnering with Southe
 url: "/directory/midori-partner/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Midori Partner: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://midori-partner.com/"
+company_linkedin: "https://www.linkedin.com/company/midoriclimate/"
+company_country: "Singapore"
 ---
 
 

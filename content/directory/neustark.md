@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from biogas plants and injects it into demol
 url: "/directory/neustark/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Neustark: mineralization company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://www.neustark.com"
+company_linkedin: "https://www.linkedin.com/company/neustark/"
+company_country: "Switzerland"
 ---
 
 

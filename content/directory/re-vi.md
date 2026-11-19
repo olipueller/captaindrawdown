@@ -6,6 +6,11 @@ description: "Pyrolyzes bushfire-damaged plantation timber into agricultural-gra
 url: "/directory/re-vi/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Re-Vi: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://re-vi.com/"
+company_linkedin: "https://www.linkedin.com/company/re-vi-group/"
+company_country: "Australia"
 ---
 
 

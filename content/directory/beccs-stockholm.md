@@ -6,6 +6,11 @@ description: "Amine/hot-potassium-carbonate post-combustion CO2 capture from bio
 url: "/directory/beccs-stockholm/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Beccs Stockholm: BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://beccs.se/"
+company_linkedin: "https://www.linkedin.com/company/beccs-stockholm/"
+company_country: "Sweden"
 ---
 
 
@@ -30,6 +35,7 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-11-17** — News: Beccs Stockholm: The first process equipment is now in place at Beccs Stockholm Another important... ([source](https://www.linkedin.com/company/beccs-stockholm/#post-8ae3a68c7817))
 - **2026-11-13** — News: Desafios e lições do primeiro projeto mundial de captura e armazenamento de carbono - Portal... ([source](https://energialimpa.live/desafios-e-licoes-do-primeiro-projeto-mundial-de-captura-e-armazenamento-de-carbono/))
 - **2026-11-05** — News: BECCS Stockholm — beccs ([source](https://newenergy-today.com/news/inside-stockholm-exergis-harborfront-project-aiming-to-remove-more-co2-than-the-citys-entire-road-network))
 - **2026-10-08** — News: Stockholm Exergi: Grunden är klar – nu växer Beccs Stockholm fram Efter drygt ett år av rivnings-, ([source](https://www.linkedin.com/company/stockholm-exergi/#post-3007a6cb8aa3))

@@ -6,6 +6,10 @@ description: "Carbon Technik Schuster (CTS) two-retort pyrolysis of urban green-
 url: "/directory/ead/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "EAD: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ead.darmstadt.de/"
+company_country: "Germany"
 ---
 
 

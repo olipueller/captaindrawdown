@@ -6,6 +6,11 @@ description: "Develops physical-sorbent-based DAC and post-combustion CO2 captur
 url: "/directory/innosepra/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "InnoSepra: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.innosepra.com/"
+company_linkedin: "https://www.linkedin.com/company/innosepra/"
+company_country: "United States"
 ---
 
 

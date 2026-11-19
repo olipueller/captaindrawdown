@@ -6,6 +6,11 @@ description: "Deploys engineered buoyant/sinking substrates that stimulate nativ
 url: "/directory/gigablue/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Gigablue: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.gigablue.co/"
+company_linkedin: "https://www.linkedin.com/company/gigabluecarbon/"
+company_country: "United States"
 ---
 
 

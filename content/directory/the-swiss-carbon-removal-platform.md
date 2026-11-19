@@ -6,6 +6,11 @@ description: "Runs a membership network with working groups, webinars and policy
 url: "/directory/the-swiss-carbon-removal-platform/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "The Swiss Carbon Removal Platform: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbon-removal.ch"
+company_linkedin: "https://www.linkedin.com/company/swiss-carbon-removal-platform/"
+company_country: "Switzerland"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Carbon project developer partnering with Emisiones Neutras to buil
 url: "/directory/ecogaia/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "EcoGaia: biochar as a side business, Argentina | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.ecogaia.earth/"
+company_linkedin: "https://www.linkedin.com/company/eco2gaia/"
+company_country: "Argentina"
 ---
 
 

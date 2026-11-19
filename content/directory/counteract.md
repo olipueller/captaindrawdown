@@ -6,6 +6,11 @@ description: "Specialist venture capital fund providing pre-seed and seed stage 
 url: "/directory/counteract/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Counteract: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://counteract.vc/"
+company_linkedin: "https://www.linkedin.com/company/wecounteract/"
+company_country: "United Kingdom"
 ---
 
 

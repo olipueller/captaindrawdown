@@ -6,6 +6,11 @@ description: "Operates industrial pyrolysis facilities in southern Africa that c
 url: "/directory/substrate-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Substrate Biochar: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://www.substrate-biochar.com/"
+company_linkedin: "https://www.linkedin.com/company/substrate-biochar/"
+company_country: "United Kingdom"
 ---
 
 

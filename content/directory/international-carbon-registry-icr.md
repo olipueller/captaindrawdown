@@ -6,6 +6,11 @@ description: "ISO 14064-2-aligned carbon crediting program and digital registry 
 url: "/directory/international-carbon-registry-icr/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "International Carbon Registry (ICR): CDR enabling technology, Iceland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbonregistry.com/"
+company_linkedin: "https://www.linkedin.com/company/international-carbon-registry/"
+company_country: "Iceland"
 ---
 
 

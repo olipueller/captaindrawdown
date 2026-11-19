@@ -6,6 +6,9 @@ description: "Plans to pyrolyze biomass (likely agricultural residues) into bioc
 url: "/directory/biocarbon-tech-asia/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Biocarbon Tech Asia: biochar company, Malaysia | Captain Drawdown"
+lastmod: "2026-08-15"
+company_country: "Malaysia"
 ---
 
 

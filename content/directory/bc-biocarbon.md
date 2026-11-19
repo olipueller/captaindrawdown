@@ -6,6 +6,11 @@ description: "Continuous-feed pyrolysis/gasification of forest and wood waste to
 url: "/directory/bc-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BC Biocarbon: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.bcbiocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/bc-biocarbon/"
+company_country: "Canada"
 ---
 
 

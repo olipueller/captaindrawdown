@@ -6,6 +6,11 @@ description: "CapChar develops on-farm pyrolysis kiln systems that convert wood-
 url: "/directory/biochar-production-and-carbon-removal-company/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CapChar: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://capchar.com/"
+company_linkedin: "https://www.linkedin.com/company/capchar/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Produces BioAsphalt™, a cold-mix asphalt made from 100% reclaime
 url: "/directory/verde-resources/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Verde Resources: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-20"
+company_url: "https://www.verderesources.com/"
+company_linkedin: "https://www.linkedin.com/company/verde-resources-inc-vrdr-/"
+company_country: "United States"
 ---
 
 

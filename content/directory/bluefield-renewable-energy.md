@@ -6,6 +6,11 @@ description: "Converts waste biomass into biochar via proprietary advanced pyrol
 url: "/directory/bluefield-renewable-energy/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Bluefield Renewable Energy: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bluefieldrenewable.com/"
+company_linkedin: "https://www.linkedin.com/company/bluefieldrenewable/"
+company_country: "Singapore"
 ---
 
 

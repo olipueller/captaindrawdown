@@ -6,6 +6,11 @@ description: "Spreads crushed basalt from existing German quarries on farmland a
 url: "/directory/zeroex/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "ZeroEx: enhanced weathering company, Germany | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://zeroex.com/en"
+company_linkedin: "https://www.linkedin.com/company/zeroex/"
+company_country: "Germany"
 ---
 
 
@@ -41,6 +46,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
+- **2026-11-18** — News: European Commission Presents Draft Rules for Certifying Enhanced Rock Weathering - EIN Presswire ([source](https://www.einnews.com/pr_news/957361293/european-commission-presents-draft-rules-for-certifying-enhanced-rock-weathering))
 - **2026-11-16** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://registry.isometric.com/supplier/spl_1J6CH94Q61S0DFA8))
 - **2026-11-16** — Reactivated: website reachable again
 - **2026-04-19** — Deactivated: website unreachable

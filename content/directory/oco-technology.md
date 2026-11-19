@@ -6,6 +6,11 @@ description: "Accelerated Carbonation Technology (ACT) reacts CO2 with alkaline 
 url: "/directory/oco-technology/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "O.C.O Technology: mineralization division, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-02"
+company_url: "https://oco.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/o-c-o-technology-ltd/"
+company_country: "United Kingdom"
 ---
 
 

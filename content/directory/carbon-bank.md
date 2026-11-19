@@ -6,6 +6,11 @@ description: "Develops enhanced rock weathering projects spreading basalt dust o
 url: "/directory/carbon-bank/"
 pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
+seo_title: "Carbon Bank: enhanced weathering division, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonbank.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/thecarbonbank/"
+company_country: "United Kingdom"
 ---
 
 

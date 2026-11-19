@@ -6,6 +6,11 @@ description: "Operates a Beston BST-30 pyrolysis plant in Lucena, Andalusia that
 url: "/directory/euthenia-energy-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Euthenia Energy Group: biochar company, Spain | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.euthenia-energy.com"
+company_linkedin: "https://www.linkedin.com/company/euthenia-energy/"
+company_country: "Spain"
 ---
 
 

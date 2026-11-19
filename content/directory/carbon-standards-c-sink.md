@@ -6,6 +6,11 @@ description: "Swiss standards body operating the EBC/WBC biochar certificates an
 url: "/directory/carbon-standards-c-sink/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Standards (C-Sink): CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbon-standards.com/en/home"
+company_linkedin: "https://www.linkedin.com/company/carbon-standards/"
+company_country: "Switzerland"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops biochar- and bioash-based additives for concrete and buil
 url: "/directory/nordiczero/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Nordiczero: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://nordiczero.com/en/"
+company_linkedin: "https://www.linkedin.com/company/nordiczero/"
+company_country: "Sweden"
 ---
 
 

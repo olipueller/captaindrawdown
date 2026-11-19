@@ -6,6 +6,10 @@ description: "Calix sells its electrically heated flash-calcination kiln. Its Le
 url: "/directory/calix/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Calix: direct air capture as a side business, Australia | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://calix.global"
+company_country: "Australia"
 ---
 
 
@@ -29,6 +33,7 @@ Calix Limited is an Australian industrial technology company listed on the ASX a
 
 ## History
 
+- **2026-11-18** — News: Leilac/Calix: A major step forward for low-carbon cement production. Leilac and Adani Cement 's... ([source](https://www.linkedin.com/company/leilac/#post-a20ba15e3da1))
 - **2026-11-16** — Status Active → Moderate
 - **2026-11-16** — Classified as DAC, side business, 🟢 Active ([source](https://calix.global/direct-air-capture/))
 - **2026-11-16** — Added to the directory ([source](https://www.linkedin.com/company/leilac/))

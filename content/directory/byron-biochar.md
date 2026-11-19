@@ -6,6 +6,11 @@ description: "Small Australian biochar reseller and consultancy that distributes
 url: "/directory/byron-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Byron Biochar: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://byronbiochar.com.au/"
+company_linkedin: "https://www.linkedin.com/company/byron-biochar/"
+company_country: "Australia"
 ---
 
 

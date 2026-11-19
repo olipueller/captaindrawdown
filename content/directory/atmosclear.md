@@ -6,6 +6,11 @@ description: "Biomass power plant (sugarcane bagasse and forest residues) with p
 url: "/directory/atmosclear/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "AtmosClear: BECCS division, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://atmosclear.earth/"
+company_linkedin: "https://www.linkedin.com/company/atmosclearearth/"
+company_country: "United States"
 ---
 
 

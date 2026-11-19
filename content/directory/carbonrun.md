@@ -6,6 +6,11 @@ description: "Adds crushed limestone to acidified rivers (River Alkalinity Enhan
 url: "/directory/carbonrun/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "CarbonRun: enhanced weathering company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonrun.io/"
+company_linkedin: "https://www.linkedin.com/company/carbonrun/"
+company_country: "Canada"
 ---
 
 

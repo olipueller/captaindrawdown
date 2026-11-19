@@ -6,6 +6,11 @@ description: "Engineers genetically modified fast-growing cyanobacteria strains 
 url: "/directory/cyanocapture/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "CyanoCapture: BECCS company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://cyanocapture.com/"
+company_linkedin: "https://www.linkedin.com/company/cyanocapture/"
+company_country: "United Kingdom"
 ---
 
 

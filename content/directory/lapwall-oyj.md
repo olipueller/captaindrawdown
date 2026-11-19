@@ -6,6 +6,10 @@ description: "Makes prefabricated wooden roof, wall and facade elements that hol
 url: "/directory/lapwall-oyj/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
+seo_title: "LapWall Oyj: biomass burial as a side business, Finland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://lapwall.fi/en/"
+company_country: "Finland"
 ---
 
 

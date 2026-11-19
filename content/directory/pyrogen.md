@@ -6,6 +6,11 @@ description: "Pyrolyzes invasive/waste biomass into biochar and blends it into p
 url: "/directory/pyrogen/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Pyrogen: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.pyrogen.energy/"
+company_linkedin: "https://www.linkedin.com/company/pyrogen-energy/"
+company_country: "Kenya"
 ---
 
 

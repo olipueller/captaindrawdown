@@ -6,6 +6,10 @@ description: "Sells EBC-certified biochar and feed charcoal made by pyrolysing h
 url: "/directory/herbacarbo/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "HerbaCarbo: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.herbacarbo.com/"
+company_country: "Germany"
 ---
 
 

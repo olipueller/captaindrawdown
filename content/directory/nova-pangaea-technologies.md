@@ -6,6 +6,11 @@ description: "REFNOVA® steam-assisted rapid pyrolysis process converts woody an
 url: "/directory/nova-pangaea-technologies/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Nova Pangaea Technologies: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.novapangaea.com/"
+company_linkedin: "https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/"
+company_country: "United Kingdom"
 ---
 
 

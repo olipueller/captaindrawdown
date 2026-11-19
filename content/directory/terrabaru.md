@@ -6,6 +6,11 @@ description: "Produces engineered biochar (\"TerraKarbon\") via pyrolysis of Ind
 url: "/directory/terrabaru/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "TerraBaru: biochar company, Indonesia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://terrabaru.com/"
+company_linkedin: "https://www.linkedin.com/company/terrabaru/"
+company_country: "Indonesia"
 ---
 
 

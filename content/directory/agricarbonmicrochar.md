@@ -6,6 +6,11 @@ description: "Pyrolysis of biomass into microgranular biochar enriched with orga
 url: "/directory/agricarbonmicrochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "agriCARBON/MicroCHAR: biochar company, Czech Republic | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.microchar.eu/"
+company_linkedin: "https://www.linkedin.com/company/microchar/"
+company_country: "Czech Republic"
 ---
 
 

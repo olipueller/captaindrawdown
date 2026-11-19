@@ -6,6 +6,9 @@ description: "Early-stage startup developing electrochemical direct ocean captur
 url: "/directory/salient-direct-ocean-capture/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Salient Direct Ocean Capture: ocean CDR company | Captain Drawdown"
+lastmod: "2026-10-15"
+company_linkedin: "https://www.linkedin.com/company/salient-doc/"
 ---
 
 

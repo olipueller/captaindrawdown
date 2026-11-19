@@ -6,6 +6,11 @@ description: "Buyer-coalition AMC that pools committed CDR demand from corporate
 url: "/directory/frontier-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Frontier Climate: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://frontierclimate.com/"
+company_linkedin: "https://www.linkedin.com/company/frontierclimate/"
+company_country: "United States"
 ---
 
 
@@ -29,6 +34,7 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 
 ## History
 
+- **2026-11-18** — News: Frontier Climate: Frontier buyers signed $11.7M in offtake agreements with 44.01 to remove 20,932... ([source](https://www.linkedin.com/company/frontierclimate/#post-911cbddddbf3))
 - **2026-10-29** — News: Scaling carbon removal starts long before a single ton goes underground. Scott Litzelman from Fro ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521372109206626304/))
 - **2026-10-16** — News: Frontier Climate buyers ink deal to store CO2 as solid rock | ESG Dive ([source](https://www.esgdive.com/news/frontier-climate-buyers-ink-deal-to-store-co2-as-solid-rock/833250/))
 - **2026-10-12** — News: Frontier Climate: Last August, James Kanoff and I were in the back of a truck in Brazil, rolling… ([source](https://www.linkedin.com/company/frontierclimate/#post-b4f6a03f6847))

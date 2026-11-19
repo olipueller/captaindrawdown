@@ -6,6 +6,11 @@ description: "Spreads crushed basalt (and, via Eion acquisition, olivine) on far
 url: "/directory/terradot/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Terradot: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://terradot.earth/"
+company_linkedin: "https://www.linkedin.com/company/terradot/"
+company_country: "United States"
 ---
 
 
@@ -43,6 +48,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
+- **2026-11-18** — News: The Digest: October 21 – November 17, 2026 ([source](https://riverstoneearth.substack.com/p/the-digest-october-21-november-17))
+- **2026-11-18** — News: Terradot Spain enhanced rock weathering project — Other emerging ([source](https://circularwire.com/articles/terradot-deploys-enhanced-rock-weathering-in-spain))
+- **2026-11-17** — News: EXCLUSIVE: Terradot To Bring Its ERW To Europe In A New CRCF-Aligned Partnership With Climeworks... ([source](https://www.europesays.com/europe/183709/))
+- **2026-11-17** — News: EXCLUSIVE: Terradot To Bring Its ERW To Europe In A New CRCF-Aligned Partnership With Climeworks... ([source](https://carbonherald.com/exclusive-terradot-to-bring-its-erw-to-europe-in-a-new-crcf-aligned-partnership-with-climeworks-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terradot-to-bring-its-erw-to-europe-in-a-new-crcf-aligned-partnership-with-climeworks-solutions))
+- **2026-11-17** — News: Foundation models for predicting enhanced rock weathering at operational scale ([source](https://doi.org/10.5281/zenodo.24156304))
 - **2026-11-16** — News: Microsoft and Terradot Claim 75% Sampling Cut in Rock Weathering Model ([source](https://circularwire.com/articles/microsoft-and-terradot-claim-75-sampling-cut-in-rock-weathering-model))
 - **2026-11-15** — News: Microsoft and Terradot’s AI cuts soil sampling by up to 75% in carbon-removal simulations ([source](https://superpowerdaily.com/posts/microsoft-and-terradot-s-ai-cuts-soil-sampling-by-up-to-75-in-carbon-removal-simulations))
 - **2026-11-13** — News: How a new AI model could help crushed rock fight climate change - Source ([source](https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change/))
@@ -67,12 +78,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-27** — News: 2026-10-27 | Terradot and HASI Close $34M Investment for Carbon Removal Projects | NYSE:HASI |… ([source](https://stockhouse.com/news/press-releases/2026/10/27/terradot-and-hasi-close-34m-investment-for-carbon-removal-projects))
 - **2026-10-27** — News: Terradot secures $34m debt financing for carbon removal projects By Investing.com ([source](https://www.investing.com/news/company-news/terradot-secures-34m-debt-financing-for-carbon-removal-projects-93CH-4976016))
 - **2026-10-27** — News: A million tonnes of rock are set to be spread on farms in the US and Brazil to remove carbon. ([source](https://www.stocktitan.net/news/HASI/terradot-and-hasi-close-34m-investment-for-carbon-removal-pk8dld3l3lx5.html))
-- **2026-10-12** — News: Terradot joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/terradot-joins-the-negative-emissions-platform))
-- **2026-10-12** — News: Frontier Climate: Last August, James Kanoff and I were in the back of a truck in Brazil, rolling… ([source](https://www.linkedin.com/company/frontierclimate/#post-b4f6a03f6847))
-- **2026-10-10** — News: Carbon Removal Alliance: BIG News! Today Terradot and Google are announcing the world’s first… ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-271059d94826))
-- **2026-10-08** — News: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance… ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
-- **2026-10-08** — News: CDR.fyi: September soars with 1M tonnes contracted Following a relatively slow August (128Kt)… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
-- **2026-10-02** — News: Terradot: BIG News! Today Terradot and Google are announcing the world’s first megaton scale… ([source](https://www.linkedin.com/company/terradot/#post-271059d94826))
 
 ---
 

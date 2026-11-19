@@ -6,6 +6,11 @@ description: "Environmental merchant bank/broker structuring offtake, prepay, an
 url: "/directory/clear-sky-ltd/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Clear Sky Ltd: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://clearskyltd.com/"
+company_linkedin: "https://www.linkedin.com/company/clear-sky-limited/"
+company_country: "Switzerland"
 ---
 
 

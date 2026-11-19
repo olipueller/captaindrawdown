@@ -6,6 +6,11 @@ description: "Industrial pyrolysis of agricultural residues (primarily rice husk
 url: "/directory/arukah/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Arukah: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.arukahcapital.com/"
+company_linkedin: "https://www.linkedin.com/company/arukah-capital/"
+company_country: "Singapore"
 ---
 
 

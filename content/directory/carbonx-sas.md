@@ -6,6 +6,11 @@ description: "Buyer-side CDR procurement, market intelligence, finance and portf
 url: "/directory/carbonx-sas/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbonx SAS: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.climefi.com/"
+company_linkedin: "https://www.linkedin.com/company/climefigroup/"
+company_country: "France"
 ---
 
 

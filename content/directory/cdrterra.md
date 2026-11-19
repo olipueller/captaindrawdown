@@ -6,6 +6,11 @@ description: "Government-funded multi-consortium research program investigating 
 url: "/directory/cdrterra/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CDRterra: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://cdrterra.de/en/"
+company_linkedin: "https://www.linkedin.com/company/cdrterra/"
+company_country: "Germany"
 ---
 
 
@@ -31,6 +36,7 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-11-17** — News: Wie die EU dauerhafte CO2-Entnahme zertifiziert - CDRterra ([source](https://cdrterra.de/news/wie-die-eu-dauerhafte-co%e2%82%82-entnahme-zertifiziert/))
 - **2026-11-12** — News: Parlamentarisches Frühstück im Bundestag | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526608245356953603/))
 - **2026-11-11** — News: #cdrterra #climateaction #carbondioxideremoval | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526203394231844864/))
 - **2026-11-09** — News: #cdrterra #cdr #euets | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7525481483965333505/))
@@ -60,7 +66,6 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 - **2026-07-24** — News: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but… ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
 - **2026-07-24** — News: CDRterra: Wie viel Platz braucht CO2-Entnahme eigentlich – und was bedeutet das für die Landnutzung ([source](https://www.linkedin.com/company/cdrterra/#post-82798dbe8556))
 - **2026-07-02** — News: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
-- **2026-06-27** — News: #cdrterra #carbondioxideremoval #cdr #climateresearch | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476209175195222016/))
 
 ---
 

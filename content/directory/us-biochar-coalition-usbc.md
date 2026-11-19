@@ -6,6 +6,11 @@ description: "Industry trade association advocating for federal policy, regulati
 url: "/directory/us-biochar-coalition-usbc/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "US Biochar Coalition (USBC): biochar ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://usbiocharcoalition.org"
+company_linkedin: "https://www.linkedin.com/company/u-s-biochar-coalition/"
+company_country: "United States"
 ---
 
 

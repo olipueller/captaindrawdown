@@ -6,6 +6,11 @@ description: "Retrofits existing biomass power plants and sawmills to co-produce
 url: "/directory/pacific-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Pacific Biochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-12"
+company_url: "https://www.pacificbiochar.com"
+company_linkedin: "https://www.linkedin.com/company/pacific-biochar/"
+company_country: "United States"
 ---
 
 

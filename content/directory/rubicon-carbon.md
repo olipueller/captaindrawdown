@@ -6,6 +6,11 @@ description: "Carbon credit portfolio manager and offtaker that finances and agg
 url: "/directory/rubicon-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Rubicon Carbon: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://rubiconcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/rubicon-carbon/"
+company_country: "United States"
 ---
 
 

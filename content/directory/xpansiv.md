@@ -6,6 +6,11 @@ description: "Operates the CBL spot exchange, Evolution Markets brokerage, and X
 url: "/directory/xpansiv/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Xpansiv: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.xpansiv.com/"
+company_linkedin: "https://www.linkedin.com/company/xpansiv-data-systems/"
+company_country: "United States"
 ---
 
 

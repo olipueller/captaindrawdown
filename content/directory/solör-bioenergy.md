@@ -6,6 +6,11 @@ description: "Retrofits biomass-fired district heating plants with pyrolysis uni
 url: "/directory/solör-bioenergy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Solör Bioenergy: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://solorbioenergi.com/"
+company_linkedin: "https://www.linkedin.com/company/sol%C3%B6r-bioenergi-ab/"
+company_country: "Sweden"
 ---
 
 

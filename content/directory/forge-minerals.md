@@ -6,6 +6,11 @@ description: "Low-energy continuous reactor that converts waste CO2 into high-pu
 url: "/directory/forge-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Forge Minerals: mineralization company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://forgeminerals.com/"
+company_linkedin: "https://www.linkedin.com/company/forge-minerals/"
+company_country: "United Kingdom"
 ---
 
 

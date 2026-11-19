@@ -6,6 +6,11 @@ description: "Pyrolysis of agro-processing waste (bagasse, mango/avocado residue
 url: "/directory/regen-organics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Regen Organics: biochar as a side business, Kenya | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.regenorganics.co/"
+company_linkedin: "https://www.linkedin.com/company/regenorganics/"
+company_country: "Kenya"
 ---
 
 

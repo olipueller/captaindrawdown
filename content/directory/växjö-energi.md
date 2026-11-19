@@ -6,6 +6,11 @@ description: "Post-combustion CO2 capture (hot potassium carbonate / HPC) at a b
 url: "/directory/växjö-energi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Växjö Energi: BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.veab.se/"
+company_linkedin: "https://www.linkedin.com/company/vaxjo-energi-ab/"
+company_country: "Sweden"
 ---
 
 

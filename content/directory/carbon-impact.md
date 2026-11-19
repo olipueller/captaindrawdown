@@ -6,6 +6,11 @@ description: "Develops BECCS projects that capture biogenic CO2 from biomethane 
 url: "/directory/carbon-impact/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Carbon Impact: BECCS company, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbon-impact.net/"
+company_linkedin: "https://www.linkedin.com/company/carbon-impact-france/"
+company_country: "France"
 ---
 
 

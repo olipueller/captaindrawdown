@@ -6,6 +6,11 @@ description: "Produces biochar via slow pyrolysis of forest/agricultural biomass
 url: "/directory/ibero-massa-florestal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Ibero Massa Florestal: biochar company, Portugal | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://en.imflorestal.com/"
+company_linkedin: "https://www.linkedin.com/company/imflorestal/"
+company_country: "Portugal"
 ---
 
 
@@ -29,6 +34,7 @@ Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira d
 
 ## History
 
+- **2026-11-17** — News: Enhanced rock weathering increases crop yield: a global meta-analysis ([source](https://doi.org/10.21203/rs.3.rs-11680921/v1))
 - **2026-11-12** — News: Ibero Massa Florestal, S.A.: New publication Are Europe's land carbon sinks keeping pace with... ([source](https://www.linkedin.com/company/imflorestal/#post-617f47d05eb3))
 - **2026-10-12** — News: Ibero Massa Florestal: New scientific evidence highlights biochar's potential beyond carbon… ([source](https://www.linkedin.com/company/imflorestal/#post-a9e63675e5ab))
 - **2026-09-06** — News: Ibero Massa Florestal: New Publication! My recent review, “Biochar enhances soil hydrological… ([source](https://www.linkedin.com/company/imflorestal/#post-8bd915132d71))

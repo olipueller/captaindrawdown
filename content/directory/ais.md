@@ -6,6 +6,11 @@ description: "Pyrolysis of orchard prunings, landscaping biomass and forest resi
 url: "/directory/ais/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "AiS: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://arbeit-in-selbsthilfe.de/"
+company_linkedin: "https://www.linkedin.com/company/arbeit-in-selbsthilfe-ais-ggmbh/"
+company_country: "Germany"
 ---
 
 

@@ -6,6 +6,11 @@ description: "420MW wood-pellet biomass power station pursuing a post-combustion
 url: "/directory/lynemouth-power-limited/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Lynemouth Power Limited: BECCS as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.lynemouthpower.com/"
+company_linkedin: "https://www.linkedin.com/company/lynemouth-power-limited/"
+company_country: "United Kingdom"
 ---
 
 

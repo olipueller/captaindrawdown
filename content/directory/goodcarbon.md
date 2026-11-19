@@ -6,6 +6,11 @@ description: "Marketplace/advisory platform curating and managing portfolios of 
 url: "/directory/goodcarbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "goodcarbon: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.goodcarbon.earth/"
+company_linkedin: "https://www.linkedin.com/company/goodcarbon/"
+company_country: "Germany"
 ---
 
 

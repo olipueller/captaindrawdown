@@ -6,6 +6,11 @@ description: "Steam-distills eucalyptus oil from mallee plantations, then pyroly
 url: "/directory/fasera-holdings/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Fasera Holdings: biochar as a side business, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://fasera.com/"
+company_linkedin: "https://www.linkedin.com/company/fasera/"
+company_country: "Australia"
 ---
 
 

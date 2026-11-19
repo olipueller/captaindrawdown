@@ -6,6 +6,11 @@ description: "Injects captured CO2 into fresh ready-mix concrete where it instan
 url: "/directory/carboncure/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "CarbonCure: mineralization company, Canada | Captain Drawdown"
+lastmod: "2026-11-13"
+company_url: "https://www.carboncure.com/"
+company_linkedin: "https://www.linkedin.com/company/carboncure-technologies/"
+company_country: "Canada"
 ---
 
 

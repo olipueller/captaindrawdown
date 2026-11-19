@@ -6,6 +6,11 @@ description: "Pyrolyzes post-harvest rapeseed chaff in a PX1500 unit to produce 
 url: "/directory/preol/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Preol: biochar as a side business, Czech Republic | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.preol.cz/"
+company_linkedin: "https://www.linkedin.com/company/aspreol/"
+company_country: "Czech Republic"
 ---
 
 

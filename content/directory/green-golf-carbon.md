@@ -6,6 +6,11 @@ description: "Applies a patented crushed-basalt topdressing sand and soil amendm
 url: "/directory/green-golf-carbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
+seo_title: "Green Golf Carbon: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://greengolfcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/green-golf-carbon/"
+company_country: "United States"
 ---
 
 

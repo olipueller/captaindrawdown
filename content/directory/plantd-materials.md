@@ -6,6 +6,11 @@ description: "Converts farm-grown Arundo donax grass into durable structural pan
 url: "/directory/plantd-materials/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Plantd Materials: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-08"
+company_url: "https://www.plantdmaterials.com/"
+company_linkedin: "https://www.linkedin.com/company/plantdmaterials/"
+company_country: "United States"
 ---
 
 

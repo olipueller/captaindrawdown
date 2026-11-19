@@ -6,6 +6,11 @@ description: "Buys agricultural and bamboo-processing waste biomass from local f
 url: "/directory/carbonthink/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "CarbonThink: biochar company, Thailand | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonthink.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbonthinkthailand/"
+company_country: "Thailand"
 ---
 
 

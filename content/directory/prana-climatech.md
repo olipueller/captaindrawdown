@@ -6,6 +6,9 @@ description: "Uses industrial by-products (rock/mineral residues) and agro-waste
 url: "/directory/prana-climatech/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
+seo_title: "Prana Climatech: enhanced weathering company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "India"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Mobile, modular biomass gasification units (\"Bioservers\") conver
 url: "/directory/v-grid-energy-systems/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "V-Grid Energy Systems: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://vgridenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/vgrid-energy-systems/"
+company_country: "United States"
 ---
 
 

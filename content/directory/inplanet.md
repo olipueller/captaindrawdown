@@ -6,6 +6,11 @@ description: "Spreads finely crushed basalt rock powder on tropical farmland in 
 url: "/directory/inplanet/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "InPlanet: enhanced weathering company, Brazil | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://inplanet.earth/"
+company_linkedin: "https://www.linkedin.com/company/inplanet/"
+company_country: "Brazil"
 ---
 
 
@@ -45,6 +50,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: InPlanet and Idemitsu Americas Holdings Close Non-Recourse Debt Facility, Setting a New Standard... ([source](https://markets.businessinsider.com/news/stocks/inplanet-and-idemitsu-americas-holdings-close-non-recourse-debt-facility-setting-a-new-standard-for-financing-erw-carbon-removal-1036783152))
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
 - **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-11-07** — News: ABREFEN ITMOS | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524529012992397312/))
 - **2026-11-06** — News: Microsoft ↔ InPlanet — erw-ag ([source](https://inplanet.earth/br/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil))
@@ -73,8 +80,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-13** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
 - **2026-08-06** — News: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked… ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
 - **2026-08-03** — News: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business… ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
-- **2026-08-01** — News: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth… ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
-- **2026-08-01** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
 
 ---
 

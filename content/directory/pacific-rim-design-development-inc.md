@@ -6,6 +6,10 @@ description: "Electrochemical capture process turns CO2 from flue gas into sodiu
 url: "/directory/pacific-rim-design-development-inc/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Pacific Rim Design & Development Inc.: ocean CDR as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "http://www.prdd.net"
+company_country: "United States"
 ---
 
 

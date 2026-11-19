@@ -6,6 +6,11 @@ description: "Artisan biochar production from crop residues using Kon-Tiki kilns
 url: "/directory/recycoal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "RecyCoal: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://recycoal.earth/"
+company_linkedin: "https://www.linkedin.com/company/recycoal/"
+company_country: "Germany"
 ---
 
 

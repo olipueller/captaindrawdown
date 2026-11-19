@@ -6,6 +6,11 @@ description: "Uses patented thermal gasification to convert high-ash organic was
 url: "/directory/earthcare-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Earthcare Solutions: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://earthcare-solutions.com/"
+company_linkedin: "https://www.linkedin.com/company/earthcare-solutions-llc/"
+company_country: "United States"
 ---
 
 

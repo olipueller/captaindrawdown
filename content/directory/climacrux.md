@@ -6,6 +6,11 @@ description: "Reseller/broker platform and developer API aggregating CDR credits
 url: "/directory/climacrux/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Climacrux: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://climacrux.com/"
+company_linkedin: "https://www.linkedin.com/company/carbondashboard/"
+company_country: "Switzerland"
 ---
 
 

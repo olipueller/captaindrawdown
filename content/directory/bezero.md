@@ -6,6 +6,11 @@ description: "Independent ratings agency that assesses quality and risk of carbo
 url: "/directory/bezero/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "BeZero: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://bezerocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/bezero-carbon/"
+company_country: "United Kingdom"
 ---
 
 
@@ -30,6 +35,7 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-11-19** — News: InPlanet and Idemitsu Americas Holdings Close Non-Recourse Debt Facility, Setting a New Standard... ([source](https://markets.businessinsider.com/news/stocks/inplanet-and-idemitsu-americas-holdings-close-non-recourse-debt-facility-setting-a-new-standard-for-financing-erw-carbon-removal-1036783152))
 - **2026-11-16** — News: Varaha’s Community Biochar Project Gets BeZero A.pre Rating Ahead of 2027 Credit Issuance • Carbon... ([source](https://carboncredits.com/varahas-community-biochar-project-gets-bezero-a-pre-rating-ahead-of-2027-credit-issuance/))
 - **2026-11-15** — News: Varaha Biochar Project Earns BeZero Carbon A.pre Rating ([source](https://biochartoday.com/news/varaha-and-rainbow-secure-a-pre-bezero-carbon-rating-for-community-led-biochar-project-in-india/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-11-15** — News: Rainbow: Varaha ’s distributed open-kiln biochar project, Agnisparsh, registered with Rainbow has... ([source](https://www.linkedin.com/company/rainbowstandard/#post-6a4bc7c34af8))
@@ -59,7 +65,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-08-22** — News: Anew Climate: Project Quality Spotlight | Gray Wolf Forestry Project The Gray Wolf Forestry Projec ([source](https://www.linkedin.com/company/anewclimate/#post-f2e4a4653c8d))
 - **2026-08-21** — News: Aurora Sustainable Lands: Aurora is excited to announce that our Gray Wolf Forestry Project has… ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-748fcce9a527))
 - **2026-08-20** — News: BeZero Offers A Unique Look Inside Microsoft’s CDR Risk Ratings ([source](https://carbonherald.com/bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings))
-- **2026-08-19** — News: BeZero Carbon: BeZero has published 14 ex ante rating reports on projects from Microsoft 's carbon… ([source](https://www.linkedin.com/company/bezero-carbon/#post-176fa419f995))
 
 ---
 

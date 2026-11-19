@@ -6,6 +6,11 @@ description: "Develops pyrolysis reactors purpose-built for palm oil empty fruit
 url: "/directory/gigafex/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Gigafex: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://gigafex.com/"
+company_linkedin: "https://www.linkedin.com/company/gigafex/"
+company_country: "United States"
 ---
 
 

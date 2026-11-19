@@ -6,6 +6,10 @@ description: "Captures fermentation CO2 from a corn-ethanol plant in Richardton,
 url: "/directory/net-zero-richardton-llc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Net-Zero Richardton LLC: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://gevocarbon.com/"
+company_country: "United States"
 ---
 
 

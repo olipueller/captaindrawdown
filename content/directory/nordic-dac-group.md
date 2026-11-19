@@ -6,6 +6,11 @@ description: "Sells DAC-based carbon removal certificates sourced from partner c
 url: "/directory/nordic-dac-group/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Nordic DAC Group: direct air capture ecosystem company, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.nordicdacgroup.com/"
+company_linkedin: "https://www.linkedin.com/company/nordicdacgroup/"
+company_country: "Sweden"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Corn/milo fuel ethanol plant pursuing an EPA Class VI injection we
 url: "/directory/pratt-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Pratt Energy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-05"
+company_url: "https://prattenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/pratt-energy-llc/"
+company_country: "United States"
 ---
 
 

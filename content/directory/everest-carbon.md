@@ -6,6 +6,11 @@ description: "Builds an in-situ, IoT-enabled alkalinity sensor using ion-exchang
 url: "/directory/everest-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Everest Carbon: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.everestcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/nordran-inc/"
+company_country: "United States"
 ---
 
 

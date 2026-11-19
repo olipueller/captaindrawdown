@@ -6,6 +6,10 @@ description: "Pyrolyzes legacy creosote-treated railroad ties into biochar using
 url: "/directory/international-tie-disposal/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "International Tie Disposal: biochar division, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://tiedisposal.com/"
+company_country: "United States"
 ---
 
 

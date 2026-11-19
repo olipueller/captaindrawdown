@@ -6,6 +6,11 @@ description: "Decentralized pyrolysis of agricultural residues (rice, cotton, ma
 url: "/directory/carboneers/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carboneers: biochar company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.carboneers.earth/"
+company_linkedin: "https://www.linkedin.com/company/carboneersunitedbv/"
+company_country: "Netherlands"
 ---
 
 
@@ -41,6 +46,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-18** — News: Climate Change Blob, of Course, Says “Unlimited Carbon Footprints for Me, But None for Thee” ([source](https://energysecurityfreedom.substack.com/p/climate-change-blob-of-course-says))
+- **2026-11-17** — News: COP 31: Time for Attendee Carbon Credits? - Master Resource ([source](https://www.masterresource.org/carbon-offsets/cop-31-co2-fest/))
 - **2026-09-26** — News: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and… ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-0536d1dafa0f))
 - **2026-08-22** — News: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and… ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-7116fd7801c6))
 - **2026-08-10** — News: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))

@@ -6,6 +6,10 @@ description: "Supplies carbon capture plants for biogenic CO2 from pulp mill and
 url: "/directory/andritz/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "ANDRITZ: BECCS as a side business, Austria | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.andritz.com"
+company_country: "Austria"
 ---
 
 

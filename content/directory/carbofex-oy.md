@@ -6,6 +6,11 @@ description: "Continuous pyrolysis of PEFC-certified spruce wood chips at ~600°
 url: "/directory/carbofex-oy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbofex Oy: biochar company, Finland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbofex.fi/"
+company_linkedin: "https://www.linkedin.com/company/carbofex/"
+company_country: "Finland"
 ---
 
 

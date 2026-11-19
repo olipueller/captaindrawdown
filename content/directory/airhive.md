@@ -6,6 +6,11 @@ description: "Fluidised-bed DAC using a mineral sorbent and an electric calciner
 url: "/directory/airhive/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Airhive: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.airhive.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbonnet-limited/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Thermal conversion (air-curtain incinerator) of landfill-diverted 
 url: "/directory/bella-biochar-corp/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Bella Biochar Corp: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bellabiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/bella-biochar-corporation/"
+company_country: "Canada"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from corn-ethanol fermentation at its Richar
 url: "/directory/gevo-inc/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Gevo, Inc.: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://gevo.com"
+company_linkedin: "https://www.linkedin.com/company/gevo/"
+company_country: "United States"
 ---
 
 

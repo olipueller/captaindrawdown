@@ -6,6 +6,11 @@ description: "Converts secondary biomass into biochar via pyrolysis (including m
 url: "/directory/gobiochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "GoBiochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://gobiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/gobiochar/"
+company_country: "United States"
 ---
 
 

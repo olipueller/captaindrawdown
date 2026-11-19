@@ -6,6 +6,11 @@ description: "Develops and operates biochar carbon removal projects using agricu
 url: "/directory/circular-carbon-pathways/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Circular Carbon Pathways: biochar company, Zambia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ccp.africa/"
+company_linkedin: "https://www.linkedin.com/company/ccpafrica/"
+company_country: "Zambia"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Nonprofit that builds ERW quantification standards, digital tools 
 url: "/directory/cascade-climate/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Cascade Climate: enhanced weathering ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-11-07"
+company_url: "https://cascadeclimate.org/"
+company_linkedin: "https://www.linkedin.com/company/cascade-climate/"
+company_country: "United States"
 ---
 
 

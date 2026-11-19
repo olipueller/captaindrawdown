@@ -6,6 +6,11 @@ description: "Full-stack biochar platform providing hardware, software, financin
 url: "/directory/terraton/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Terraton: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-03"
+company_url: "https://terraton.ai/"
+company_linkedin: "https://www.linkedin.com/company/terraton/"
+company_country: "United States"
 ---
 
 

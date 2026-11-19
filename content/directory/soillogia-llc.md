@@ -6,6 +6,11 @@ description: "Pyrolysis of waste biomass (sewage sludge, invasive species, munic
 url: "/directory/soillogia-llc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "SoilLogia LLC: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://soillogia.com/"
+company_linkedin: "https://www.linkedin.com/company/soillogia-llc/"
+company_country: "United States"
 ---
 
 

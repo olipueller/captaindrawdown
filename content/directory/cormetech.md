@@ -6,6 +6,11 @@ description: "CORMETECH extrudes ceramic honeycomb substrates loaded with amine 
 url: "/directory/cormetech/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CORMETECH: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.cormetech.com/"
+company_linkedin: "https://www.linkedin.com/company/cormetech/"
+company_country: "United States"
 ---
 
 

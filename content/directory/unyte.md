@@ -6,6 +6,11 @@ description: "Produces biochar via pyrolysis of hemp and wood waste through its 
 url: "/directory/unyte/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Unyte: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://unyte.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/unyte-capital/"
+company_country: "United Kingdom"
 ---
 
 

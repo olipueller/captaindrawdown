@@ -6,6 +6,10 @@ description: "Pyrolyzes organic waste streams (sewage, garbage) into biochar sol
 url: "/directory/takatena/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Takatena: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://takatena.com/"
+company_country: "Kenya"
 ---
 
 

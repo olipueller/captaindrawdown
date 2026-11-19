@@ -6,6 +6,9 @@ description: "Modifies Kon-Tiki flame-curtain kilns to cut methane emissions, ru
 url: "/directory/the-big-biochar-company/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "The Big Biochar Company: biochar company | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://thebigbiochar.com/"
 ---
 
 

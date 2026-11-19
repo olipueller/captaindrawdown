@@ -6,6 +6,10 @@ description: "Converted the 392-mile Trailblazer natural gas pipeline to carry b
 url: "/directory/tallgrass-energy/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Tallgrass Energy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://tallgrass.com"
+company_country: "United States"
 ---
 
 

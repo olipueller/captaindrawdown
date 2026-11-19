@@ -6,6 +6,11 @@ description: "National industry network/association coordinating Italian CDR sta
 url: "/directory/italian-carbon-removal-network/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Italian Carbon Removal Network: CDR enabling technology, Italy | Captain Drawdown"
+lastmod: "2026-11-07"
+company_url: "https://www.rirc.it"
+company_linkedin: "https://www.linkedin.com/company/rirc/"
+company_country: "Italy"
 ---
 
 

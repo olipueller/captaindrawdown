@@ -6,6 +6,9 @@ description: "Runs biochar carbon removal projects, turning biomass into stable 
 url: "/directory/earthrevive/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Earthrevive: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "India"
 ---
 
 

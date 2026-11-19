@@ -6,6 +6,11 @@ description: "Runs a Carbo-FORCE pyrolysis plant fed with woodchips that makes b
 url: "/directory/biochar-rendsburg/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Biochar Rendsburg: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://biochar-rd.de/"
+company_linkedin: "https://www.linkedin.com/company/biochar-zero/"
+company_country: "Germany"
 ---
 
 

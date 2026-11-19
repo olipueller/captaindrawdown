@@ -6,6 +6,11 @@ description: "Carbon project developer and credit marketer running a biochar car
 url: "/directory/first-climate/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "First Climate: biochar ecosystem company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.firstclimate.com/"
+company_linkedin: "https://www.linkedin.com/company/first-climate/"
+company_country: "Germany"
 ---
 
 

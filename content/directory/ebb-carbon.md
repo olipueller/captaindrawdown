@@ -6,6 +6,11 @@ description: "Uses bipolar membrane electrodialysis to split desalination brine 
 url: "/directory/ebb-carbon/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Ebb Carbon: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ebbcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/ebb-carbon/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Electrochemical seawater process that removes CO2, precipitates ca
 url: "/directory/electrocean/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Electrocean: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://electrocean.eco/"
+company_linkedin: "https://www.linkedin.com/company/electrocean/"
+company_country: "United States"
 ---
 
 

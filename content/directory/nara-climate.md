@@ -6,6 +6,10 @@ description: "Uses invasive Prosopis wood in artisanal kilns to make biochar, wh
 url: "/directory/nara-climate/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Nara Climate: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://naraclimate.com"
+company_country: "United Kingdom"
 ---
 
 

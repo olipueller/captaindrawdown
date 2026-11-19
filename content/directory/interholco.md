@@ -6,6 +6,11 @@ description: "Pyrolyzes FSC-certified sawmill residues from its Congo timber ope
 url: "/directory/interholco/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Interholco: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.interholco.com/en/"
+company_linkedin: "https://www.linkedin.com/company/interholco-ag/"
+company_country: "Switzerland"
 ---
 
 

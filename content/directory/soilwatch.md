@@ -6,6 +6,11 @@ description: "SoilWatch provides satellite remote sensing and machine-learning-b
 url: "/directory/soilwatch/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Soilwatch: CDR enabling technology, Finland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://soilwatch.eu/"
+company_linkedin: "https://www.linkedin.com/company/soilwatch/"
+company_country: "Finland"
 ---
 
 

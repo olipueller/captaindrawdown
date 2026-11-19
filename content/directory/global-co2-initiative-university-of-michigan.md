@@ -6,6 +6,11 @@ description: "University research program developing TEA/LCA assessment methodol
 url: "/directory/global-co2-initiative-university-of-michigan/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Global CO2 Initiative (University of Michigan): CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.globalco2initiative.org/"
+company_linkedin: "https://www.linkedin.com/company/global-co2-initiative/"
+company_country: "United States"
 ---
 
 

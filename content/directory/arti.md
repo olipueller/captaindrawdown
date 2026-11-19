@@ -6,6 +6,11 @@ description: "Designs and manufactures containerized pyrolysis reactors (Biochar
 url: "/directory/arti/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ARTi: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.arti.com/"
+company_linkedin: "https://www.linkedin.com/company/arti-advanced-renewable-technology-international/"
+company_country: "United States"
 ---
 
 

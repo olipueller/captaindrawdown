@@ -6,6 +6,11 @@ description: "Designs and supplies patented flash pyrolysis reactors that conver
 url: "/directory/frichs-pyrolysis-aps/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Frichs Pyrolysis Aps: biochar company, Denmark | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://frichs-pyrolysis.com/"
+company_linkedin: "https://www.linkedin.com/company/frichs-pyrolysis/"
+company_country: "Denmark"
 ---
 
 

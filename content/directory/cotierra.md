@@ -6,6 +6,11 @@ description: "Builds low-cost mobile pyrolysis reactors deployed on smallholder 
 url: "/directory/cotierra/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Cotierra: biochar company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.cotierra.com/"
+company_linkedin: "https://www.linkedin.com/company/cotierra-ag/"
+company_country: "Switzerland"
 ---
 
 

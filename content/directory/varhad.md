@@ -6,6 +6,11 @@ description: "Varhad Capital operates artisanal Kon-Tiki kilns and industrial py
 url: "/directory/varhad/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Varhad: biochar company, India | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://varhad.in/"
+company_linkedin: "https://www.linkedin.com/company/the-varhad-group/"
+company_country: "India"
 ---
 
 

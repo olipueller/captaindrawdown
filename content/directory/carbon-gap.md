@@ -6,6 +6,11 @@ description: "Non-profit advocacy and research NGO that shapes EU and national C
 url: "/directory/carbon-gap/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Gap: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://carbongap.org/"
+company_linkedin: "https://www.linkedin.com/company/carbongap/"
+company_country: "United Kingdom"
 ---
 
 
@@ -34,6 +39,8 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-11-19** — News: What’s stopping companies buying more carbon removal? At COP31, buyers told us it’s not just price... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7529173037703671809/))
+- **2026-11-17** — News: Pillar II mCDR | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528429239293890562/))
 - **2026-11-13** — News: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University... ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-c7304a5b5cff))
 - **2026-11-12** — News: EIC Funding | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526611001211813888/))
 - **2026-11-10** — News: Pillar I mCDR | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525916180457508864/))
@@ -62,8 +69,6 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 - **2026-10-03** — News: We&amp;#39;re so pleased to welcome Wenru (Wendy) S. to the Carbon Gap team as Demand and Market… ([source](https://www.linkedin.com/feed/update/urn:li:share:7510619111488593920/))
 - **2026-10-03** — News: Policy Summit takeaways: Unlocking corporate demand for carbon removal starts with clear guidance | ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510998925823172609/))
 - **2026-10-03** — News: On 16 September, over 200 policymakers, researchers, and industry leaders joined us in Brussels for ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511703983565152258/))
-- **2026-09-30** — News: Carbon Gap ([source](https://carbongap.org/policy-levers))
-- **2026-09-23** — News: EU CDR Advocates guide | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508449898246311936/))
 
 ---
 

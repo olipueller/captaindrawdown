@@ -6,6 +6,11 @@ description: "Aquafin operates a wastewater treatment utility and is building a 
 url: "/directory/aquafin/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Aquafin: biochar as a side business, Belgium | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.aquafin.be/"
+company_linkedin: "https://www.linkedin.com/company/aquafin/"
+company_country: "Belgium"
 ---
 
 

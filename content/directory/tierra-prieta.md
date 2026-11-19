@@ -6,6 +6,11 @@ description: "Pyrolyzes waste pecan shells into biochar used as agricultural soi
 url: "/directory/tierra-prieta/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Tierra Prieta: biochar company, Mexico | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.tierraprieta.org/en"
+company_linkedin: "https://www.linkedin.com/company/tierra-prieta/"
+company_country: "Mexico"
 ---
 
 

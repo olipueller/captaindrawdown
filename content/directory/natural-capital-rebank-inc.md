@@ -6,6 +6,10 @@ description: "Blockchain-based platform that tokenizes carbon credits, biodivers
 url: "/directory/natural-capital-rebank-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Natural Capital ReBank Inc: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://ncrb.world/"
+company_country: "Canada"
 ---
 
 

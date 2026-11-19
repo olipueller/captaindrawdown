@@ -6,6 +6,11 @@ description: "Syncraft designs and builds wood-gasification \"reverse power plan
 url: "/directory/syncraft/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Syncraft: biochar company, Austria | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.syncraft.at/en/"
+company_linkedin: "https://www.linkedin.com/company/syncraft/"
+company_country: "Austria"
 ---
 
 

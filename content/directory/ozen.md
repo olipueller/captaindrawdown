@@ -6,6 +6,11 @@ description: "Charcoal manufacturer using vertical retort pyrolysis of hardwood,
 url: "/directory/ozen/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Ozen: biochar as a side business, Poland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://ozen.pl/en/homepage/"
+company_linkedin: "https://www.linkedin.com/company/ozen-overseas/"
+company_country: "Poland"
 ---
 
 

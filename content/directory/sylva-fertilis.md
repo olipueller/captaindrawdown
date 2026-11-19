@@ -6,6 +6,11 @@ description: "Slow pyrolysis of French wood pellets from sustainably-managed for
 url: "/directory/sylva-fertilis/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Sylva Fertilis: biochar company, France | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://terrafertilis.com/"
+company_linkedin: "https://www.linkedin.com/company/terra-fertilis/"
+company_country: "France"
 ---
 
 
@@ -32,6 +37,7 @@ Sylva Fertilis is a French biochar producer based in Argentan, Normandy, operati
 
 ## History
 
+- **2026-11-18** — News: Sylva Fertilis: ’ADEME vient de publier son avis d’experts sur les biochars. Voici ce qu’il faut… ([source](https://www.linkedin.com/company/terra-fertilis/#post-7995b128d3e6))
 - **2026-11-15** — Status Active → Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-08-15** — Status Likely Dead → Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-08-13** — News: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))

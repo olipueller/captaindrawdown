@@ -6,6 +6,11 @@ description: "Reactor-based ocean alkalinity enhancement: captures CO2 from poin
 url: "/directory/planeteers/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Planeteers: ocean CDR company, Germany | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://planeteers.de/"
+company_linkedin: "https://www.linkedin.com/company/planeteersgmbh/"
+company_country: "Germany"
 ---
 
 
@@ -45,6 +50,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-18** — News: Please join us in welcoming Eugene Collins, our newest Planeteer! Eugene brings over eight... ([source](https://www.linkedin.com/feed/update/urn:li:share:7526653731229253632/))
+- **2026-11-17** — News: #cop31 | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7528463043161137153/))
 - **2026-11-12** — News: #climatetech #carbonremoval #decarbonisation #techtour #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7526642813774708736/))
 - **2026-11-03** — News: Excited to announce that our co-founder, Frank Rattey, will be speaking at Nerdy4Nature, hosted by… ([source](https://www.linkedin.com/feed/update/urn:li:share:7521922464331952128/))
 - **2026-10-30** — News: #tbewc26 #sos2026 | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7521942764297584640/))
@@ -73,8 +80,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-23** — News: #carbonremoval #cdr #carbonmanagement #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7485967332159406082/))
 - **2026-07-16** — News: #carbonremoval #ccs #cdr #carbonmanagement #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7483430581750407168/))
 - **2026-07-13** — News: #fallingwalls #sciencestartups #innovation #climatetech #sustainability #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7482323324782444544/))
-- **2026-07-07** — News: Please join us in welcoming Mugdha H., our newest Planeteer! Mugdha joins us as a Working Stude ([source](https://www.linkedin.com/feed/update/urn:li:share:7479889015303979008/))
-- **2026-07-02** — News: We’re launching our first series! Starting next week, every Thursday, we’ll share one practical p ([source](https://www.linkedin.com/feed/update/urn:li:share:7478386976690249728/))
 
 ---
 

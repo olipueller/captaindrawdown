@@ -6,6 +6,11 @@ description: "Pyrolyzes willow biomass into porous biochar sold for soil improve
 url: "/directory/carbons-finland/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbons Finland: biochar company, Finland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbons.fi/en/home/"
+company_linkedin: "https://www.linkedin.com/company/carbons-finland-oy/"
+company_country: "Finland"
 ---
 
 

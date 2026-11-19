@@ -6,6 +6,11 @@ description: "Project developer building a large-scale liquid-solvent/electroche
 url: "/directory/carbon-removal-asnordic-dac-group/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Carbon Removal AS/Nordic DAC Group: direct air capture company, Norway | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonremoval.no/"
+company_linkedin: "https://www.linkedin.com/company/carbon-removal/"
+company_country: "Norway"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Markets biochar-based carbon removals produced by parent Standard 
 url: "/directory/carbon-char-store/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Char Store: biochar division, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://carboncharstore.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-char-store/"
+company_country: "United Kingdom"
 ---
 
 

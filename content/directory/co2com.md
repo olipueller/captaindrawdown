@@ -6,6 +6,11 @@ description: "Broker/curator of carbon credit portfolios for corporate net-zero 
 url: "/directory/co2com/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CO2.com: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.co2.com/"
+company_linkedin: "https://www.linkedin.com/company/co2/"
+company_country: "United States"
 ---
 
 

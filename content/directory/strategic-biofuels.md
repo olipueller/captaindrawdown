@@ -6,6 +6,11 @@ description: "Developing the Louisiana Green Fuels (LGF) BECCS facility in Caldw
 url: "/directory/strategic-biofuels/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Strategic Biofuels: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-11-01"
+company_url: "https://strategicbiofuels.com/"
+company_linkedin: "https://www.linkedin.com/company/strategic-biofuels/"
+company_country: "United States"
 ---
 
 

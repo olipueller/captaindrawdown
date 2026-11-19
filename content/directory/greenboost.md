@@ -6,6 +6,11 @@ description: "Advisory/due-diligence services for CDR project selection and ESG/
 url: "/directory/greenboost/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "GreenBoost: CDR enabling technology, Italy | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.greenboost.it/"
+company_linkedin: "https://www.linkedin.com/company/greenboost/"
+company_country: "Italy"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolysis of biomass into biochar for soil application and carbon 
 url: "/directory/waterberg-carbon-co/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Waterberg Carbon Co: biochar company, South Africa | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.linkedin.com/company/waterberg-carbon-co/about/"
+company_linkedin: "https://www.linkedin.com/company/waterberg-carbon-co/"
+company_country: "South Africa"
 ---
 
 

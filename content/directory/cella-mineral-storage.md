@@ -6,6 +6,11 @@ description: "Dissolves captured CO2 in water and injects it into basaltic forma
 url: "/directory/cella-mineral-storage/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Cella Mineral Storage: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.cellamineralstorage.com/"
+company_linkedin: "https://www.linkedin.com/company/cellamineral/"
+company_country: "United States"
 ---
 
 

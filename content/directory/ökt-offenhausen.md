@@ -6,6 +6,11 @@ description: "Operates two wood-chip pyrolysis units producing EBC Agro-Bio bioc
 url: "/directory/ökt-offenhausen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ÖKT Offenhausen: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/"
+company_linkedin: "https://www.linkedin.com/company/biochar-zero/"
+company_country: "Germany"
 ---
 
 

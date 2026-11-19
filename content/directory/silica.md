@@ -6,6 +6,11 @@ description: "Spreads finely ground silicate rocks on Mexican sugarcane fields t
 url: "/directory/silica/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Silica: enhanced weathering company, Mexico | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://silica.earth"
+company_linkedin: "https://www.linkedin.com/company/silicaearth/"
+company_country: "Mexico"
 ---
 
 
@@ -40,6 +45,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-17** — News: Stepwise formation of authigenic clay from biogenic silica: are elemental and alkalinity sinks... ([source](https://www.researchsquare.com/article/rs-11436975/v1))
+- **2026-11-17** — News: Impact of repeated temperature cycling on the low-concentration CO2 adsorption capacity of grafted... ([source](https://doi.org/10.1007/s10450-026-00718-8))
 - **2026-11-13** — News: Impact of repeated temperature cycling on the low-concentration CO2 adsorption capacity of grafted... ([source](https://link.springer.com/article/10.1007/s10450-026-00718-8))
 - **2026-10-30** — News: Cavity-Filling Calcite in the Deccan Traps as a Natural Analogue for Mineral Carbon Sequestration… ([source](https://doi.org/10.53941/esrs.2026.100028))
 - **2026-10-26** — News: Aspiring Materials: This week marks two years since we moved into our Bromley site. In just 24… ([source](https://www.linkedin.com/company/aspiring-materials/#post-cb921fa079f9))
@@ -68,8 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-29** — News: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another… ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
 - **2026-05-28** — News: That's the core mechanism which is known over geological time scales. What's less often discussed i ([source](https://x.com/dpaessler/status/2059983386924417137))
 - **2026-05-14** — News: Carbon sequestration - Wikipedia ([source](https://en.wikipedia.org/wiki/Carbon_sequestration))
-- **2026-05-01** — Status Moderate → Active ([source](N/A))
-- **2026-04-29** — News: A spectropolarimeter for vacuum-ultraviolet emission lines ([source](https://arxiv.org/abs/2604.08191v1))
 
 ---
 

@@ -6,6 +6,11 @@ description: "Digital MRV software platform that ingests machine, sensor and IoT
 url: "/directory/cula/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Cula: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.cula.tech/"
+company_linkedin: "https://www.linkedin.com/company/cula-technologies/"
+company_country: "Germany"
 ---
 
 
@@ -35,6 +40,7 @@ Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) soft
 
 ## History
 
+- **2026-11-18** — News: Cula: 7,142 credits issued for Graphyte Isometric has certified 7,142 carbon removal certificates... ([source](https://www.linkedin.com/company/cula-technologies/#post-874a534d341b))
 - **2026-10-13** — News: Inkoh: Fifth site, different equipment manufacturers, same software stack Inkoh opened Landquart… ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-04a6f1b63e4e))
 - **2026-10-12** — News: Carbo-FORCE: That's a wrap on our CF-1000 Open House &amp; Ribbon Cutting in Price, Utah! On August ([source](https://www.linkedin.com/company/carbo-force/#post-e80ad368858d))
 - **2026-10-11** — News: Cula: Fifth site, different equipment manufacturers, same software stack Inkoh opened Landquart… ([source](https://www.linkedin.com/company/cula-technologies/#post-01ddd67b2dca))

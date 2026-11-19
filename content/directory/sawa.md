@@ -6,6 +6,11 @@ description: "Converts agricultural waste (sugarcane bagasse, palm EFB) into bio
 url: "/directory/sawa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "SAWA: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.sawa.green/"
+company_linkedin: "https://www.linkedin.com/company/sawaecosolutions/"
+company_country: "Singapore"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Converts agricultural waste (corn cob, cocoa pod) into biochar via
 url: "/directory/airsmat/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "AIRSMAT: biochar company, Nigeria | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://airsmat.com"
+company_linkedin: "https://www.linkedin.com/company/airsmat/"
+company_country: "Nigeria"
 ---
 
 

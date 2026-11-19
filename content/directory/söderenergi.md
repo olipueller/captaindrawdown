@@ -6,6 +6,11 @@ description: "Planned post-combustion capture of biogenic CO2 from the Igelsta b
 url: "/directory/söderenergi/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Söderenergi: BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.soderenergi.se/"
+company_linkedin: "https://www.linkedin.com/company/s%C3%B6derenergi-ab/"
+company_country: "Sweden"
 ---
 
 

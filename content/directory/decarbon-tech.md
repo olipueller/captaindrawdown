@@ -6,6 +6,11 @@ description: "Develops solid-amine sorbent materials (from SUSTech lab research)
 url: "/directory/decarbon-tech/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "DeCarbon Tech: direct air capture company, China | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.de-carbon.com.cn/en"
+company_linkedin: "https://www.linkedin.com/company/decarbon-tech/"
+company_country: "China"
 ---
 
 

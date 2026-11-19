@@ -6,6 +6,11 @@ description: "Pyrolysis of waste sugarcane bagasse into biochar, applied to smal
 url: "/directory/carboneyes/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Carboneyes: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboneyes.co/"
+company_linkedin: "https://www.linkedin.com/company/carboneyesltd/"
+company_country: "United Kingdom"
 ---
 
 

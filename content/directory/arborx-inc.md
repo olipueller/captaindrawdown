@@ -6,6 +6,10 @@ description: "Collects wood and vegetative waste at drop-off sites and pyrolyzes
 url: "/directory/arborx-inc/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "ArborX, Inc.: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://arborx.io/"
+company_country: "United States"
 ---
 
 

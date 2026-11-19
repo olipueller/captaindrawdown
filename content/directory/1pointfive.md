@@ -6,6 +6,11 @@ description: "Develops large-scale Direct Air Capture facilities (STRATOS in Ect
 url: "/directory/1pointfive/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "1PointFive: direct air capture division, United States | Captain Drawdown"
+lastmod: "2026-11-11"
+company_url: "https://www.1pointfive.com/"
+company_linkedin: "https://www.linkedin.com/company/1pointfive/"
+company_country: "United States"
 ---
 
 

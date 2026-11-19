@@ -6,6 +6,10 @@ description: "Consumer-facing non-profit that pools monthly contributions from i
 url: "/directory/stichting-co2llectief/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Stichting CO2llectief: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://co2llectief.nl/"
+company_country: "Netherlands"
 ---
 
 

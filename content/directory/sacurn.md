@@ -6,6 +6,11 @@ description: "Voluntary carbon credit developer and trader brokering internation
 url: "/directory/sacurn/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Sacurn: CDR enabling technology, Taiwan | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://sacurn.com/"
+company_linkedin: "https://www.linkedin.com/company/sacurn-carbon/"
+company_country: "Taiwan"
 ---
 
 

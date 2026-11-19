@@ -6,6 +6,11 @@ description: "Modular pyrolysis units converting harvested invasive mesquite bio
 url: "/directory/biomass-projects/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biomass Projects: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://biomassprojects.com.au/"
+company_linkedin: "https://www.linkedin.com/company/biomass-projects/"
+company_country: "Australia"
 ---
 
 

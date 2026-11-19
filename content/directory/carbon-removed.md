@@ -6,6 +6,11 @@ description: "Web/API marketplace that resells CDR credits from a curated set of
 url: "/directory/carbon-removed/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Removed: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carbonremoved.com"
+company_linkedin: "https://www.linkedin.com/company/carbon-removed/"
+company_country: "Switzerland"
 ---
 
 

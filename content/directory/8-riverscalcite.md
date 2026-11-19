@@ -6,6 +6,11 @@ description: "Calcite uses a calcium-looping (calcium sorbent) process: hydrated
 url: "/directory/8-riverscalcite/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "8 Rivers/Calcite: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://8rivers.com/"
+company_linkedin: "https://www.linkedin.com/company/8-rivers-capital/"
+company_country: "United States"
 ---
 
 

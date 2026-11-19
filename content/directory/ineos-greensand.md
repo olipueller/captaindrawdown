@@ -6,6 +6,11 @@ description: "It ships liquefied CO2 through a terminal at Port Esbjerg and inje
 url: "/directory/ineos-greensand/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "INEOS Greensand: BECCS as a side business, Denmark | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.ineos.com/businesses/ineos-energy/"
+company_linkedin: "https://www.linkedin.com/company/ineos/"
+company_country: "Denmark"
 ---
 
 

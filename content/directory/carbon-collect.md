@@ -6,6 +6,11 @@ description: "Carbon Collect builds the MechanicalTree, a passive direct air cap
 url: "/directory/carbon-collect/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Carbon Collect: direct air capture company, Ireland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carboncollect.com/"
+company_linkedin: "https://www.linkedin.com/company/mechanical-tree/"
+company_country: "Ireland"
 ---
 
 

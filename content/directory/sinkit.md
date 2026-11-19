@@ -6,6 +6,11 @@ description: "A cooperative marketplace/project-accelerator that curates, rates 
 url: "/directory/sinkit/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Sinkit: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.sinkit.org"
+company_linkedin: "https://www.linkedin.com/company/sinkit/"
+company_country: "Netherlands"
 ---
 
 

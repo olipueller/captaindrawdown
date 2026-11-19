@@ -6,6 +6,11 @@ description: "Operates SynCraft wood-gasification CHP plants for electricity and
 url: "/directory/forest-energy-inc/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Forest Energy Inc: biochar as a side business, Japan | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://forestenergy.jp/"
+company_linkedin: "https://www.linkedin.com/company/forest-energy/"
+company_country: "Japan"
 ---
 
 

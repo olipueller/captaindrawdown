@@ -6,6 +6,11 @@ description: "Carbon credit registry providing project onboarding, validation, i
 url: "/directory/uk-carbon-registry/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "UK Carbon Registry: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbonregistry.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/uk-carbon-registry/"
+company_country: "United Kingdom"
 ---
 
 

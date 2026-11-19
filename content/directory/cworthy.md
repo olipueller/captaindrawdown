@@ -6,6 +6,11 @@ description: "Builds C-Star, an open-source oceanographic and biogeochemical mod
 url: "/directory/cworthy/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "[C]Worthy: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://cworthy.org/"
+company_linkedin: "https://www.linkedin.com/company/cworthy/"
+company_country: "United States"
 ---
 
 

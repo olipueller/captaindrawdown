@@ -6,6 +6,11 @@ description: "Autonomous subsurface injection of wood-waste slurry 40-60 ft unde
 url: "/directory/terranova/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Terranova: biomass burial as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.terranova.inc/"
+company_linkedin: "https://www.linkedin.com/company/terranova-inc/"
+company_country: "United States"
 ---
 
 
@@ -31,6 +36,7 @@ Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming rob
 
 ## History
 
+- **2026-11-17** — News: Foundation models for predicting enhanced rock weathering at operational scale ([source](https://doi.org/10.5281/zenodo.24156304))
 - **2026-11-14** — News: TerraNova AI models enhanced rock weathering — CASRAI ([source](https://casrai.org/news/microsoft-terradot-terranova-ai-rock-weathering-2026))
 - **2026-08-31** — News: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage… ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
 - **2026-08-31** — News: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra… ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))

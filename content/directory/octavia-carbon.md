@@ -6,6 +6,11 @@ description: "Builds solid-sorbent DAC modules powered by geothermal heat/electr
 url: "/directory/octavia-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Octavia Carbon: direct air capture company, Kenya | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.octaviacarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/octavia-carbon/"
+company_country: "Kenya"
 ---
 
 
@@ -36,6 +41,8 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-11-19** — News: Hosting the UK Minister for Africa at our project site This week, we had the honor of... ([source](https://www.linkedin.com/feed/update/urn:li:share:7529142816443101185/))
+- **2026-11-17** — News: The Download: Jensen Huang’s open-source dilemma and cognitive immortality | MIT Technology Review ([source](https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/))
 - **2026-11-11** — News: COP31: Kenya backs flexible CDR regulation to protect innovation ([source](https://www.qcintel.com/carbon/article/cop31-kenya-backs-flexible-cdr-regulation-to-protect-innovation-77145.html))
 - **2026-11-09** — News: atmosfair gGmbH: Exciting news: we have completed Phase 1 of Project Hummingbird! Meet Carbon... ([source](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/#post-7399ab3051fe))
 - **2026-11-05** — News: Some careers follow a straight line, and some take a turn when the right opportunity comes… ([source](https://www.linkedin.com/feed/update/urn:li:share:7524029556375252992/))
@@ -64,8 +71,6 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 - **2026-08-03** — News: ZEN Carbon: Nairobi's Walkway That Eats Carbon A quiet stretch of pavement in Upper Hill is… ([source](https://www.linkedin.com/company/clitruct/#post-a6d66524bd17))
 - **2026-08-03** — News: Octavia Carbon: ð We are proud to have unveiled Africa's first real-world green concrete… ([source](https://www.linkedin.com/company/octavia-carbon/#post-f9410da87b28))
 - **2026-08-03** — News: Flux: From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. We at CDR.fyi are thrilled to… ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
-- **2026-07-31** — News: Great engineering rarely announces itself. Meet Nathalie Wati, one of our Process Engineers… ([source](https://www.linkedin.com/feed/update/urn:li:share:7488551750455701505/))
-- **2026-07-31** — News: PyroCCS: Direct Air Capture (DAC) wins big for Kenya!! Tencent has announced the winners of… ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
 
 ---
 

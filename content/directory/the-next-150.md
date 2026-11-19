@@ -6,6 +6,11 @@ description: "Produces biochar via high-temperature pyrolysis of farm-gate agric
 url: "/directory/the-next-150/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "The Next 150: biochar company, Switzerland | Captain Drawdown"
+lastmod: "2026-05-01"
+company_url: "https://thenext150.com/"
+company_linkedin: "https://www.linkedin.com/company/thenext150/"
+company_country: "Switzerland"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Digital MRV platform plus marketplace that tracks durable CDR cred
 url: "/directory/carbonfuture/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbonfuture: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.carbonfuture.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbonfuture/"
+company_country: "Switzerland"
 ---
 
 
@@ -36,6 +41,7 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-11-18** — News: 環境部COP31論壇探討碳移除 盼台灣生物炭接軌國際標準 | 報新聞 Mega News ([source](https://www.contentplatform.info/articles/580595/%E7%92%B0%E5%A2%83%E9%83%A8cop31%E8%AB%96%E5%A3%87%E6%8E%A2%E8%A8%8E%E7%A2%B3%E7%A7%BB%E9%99%A4%E3%80%80%E7%9B%BC%E5%8F%B0%E7%81%A3%E7%94%9F%E7%89%A9%E7%82%AD%E6%8E%A5%E8%BB%8C%E5%9C%8B%E9%9A%9B/))
 - **2026-11-13** — News: Carbonfuture: KfW has successfully completed its first proof of concept in the voluntary carbon... ([source](https://www.linkedin.com/company/carbonfuture/#post-8e76f692200a))
 - **2026-11-09** — News: Building Experience in Voluntary Carbon Markets | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525477664988499968/))
 - **2026-11-05** — News: Ist carbonfuture.co Betrug? Bewertung 100/100 ([source](https://malwarehilfe.de/carbonfuture-co-review/))
@@ -65,7 +71,6 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 - **2026-09-18** — News: Exomad Green and Carbonfuture Expand Long-Term Supply as Buyers Prioritize Proven Delivery ([source](https://www.exomadgreen.com/post/exomad-green-and-carbonfuture-expand-long-term-supply-as-buyers-prioritize-proven-delivery))
 - **2026-09-18** — News: Exomad Green and Carbonfuture Expand Long-Term Supply | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7506327115110473728/))
 - **2026-09-16** — News: #climateweeknyc #cdr #climateaction #carbonremoval #netzero #climatetech | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7505616459339825152/))
-- **2026-09-09** — News: #carbonremoval #cdr #climateaction #decarbonization | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503068809122160640/))
 
 ---
 

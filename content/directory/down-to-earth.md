@@ -6,6 +6,11 @@ description: "Sources biochar from partner producers (Nordic farms and Global So
 url: "/directory/down-to-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Down to Earth: biochar company, Norway | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.downcarbon.earth/"
+company_linkedin: "https://www.linkedin.com/company/dte-carbonremoval/"
+company_country: "Norway"
 ---
 
 

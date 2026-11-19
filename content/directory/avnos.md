@@ -6,6 +6,11 @@ description: "Pure-play Direct Air Capture developer using proprietary Hybrid DA
 url: "/directory/avnos/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Avnos: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.avnos.com/"
+company_linkedin: "https://www.linkedin.com/company/avnos-inc/"
+company_country: "United States"
 ---
 
 

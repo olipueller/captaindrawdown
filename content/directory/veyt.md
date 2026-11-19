@@ -6,6 +6,11 @@ description: "Subscription analytics platform providing price data, forecasts, a
 url: "/directory/veyt/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Veyt: CDR enabling technology, Norway | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://veyt.com"
+company_linkedin: "https://www.linkedin.com/company/veyt-no/"
+company_country: "Norway"
 ---
 
 

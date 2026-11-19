@@ -6,6 +6,11 @@ description: "GPU-accelerated multi-scale ocean and biogeochemical modeling inte
 url: "/directory/atdepth/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "atdepth: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://atdepthmrv.com/"
+company_linkedin: "https://www.linkedin.com/company/atdepth-mrv/"
+company_country: "United States"
 ---
 
 

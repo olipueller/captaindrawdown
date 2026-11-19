@@ -6,6 +6,11 @@ description: "Early-stage biochar project developer planning a pyrolysis facilit
 url: "/directory/ecox/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "ecoX: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://eco-x.com/"
+company_linkedin: "https://www.linkedin.com/company/eco-x-llc/"
+company_country: "United States"
 ---
 
 

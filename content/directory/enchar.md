@@ -6,6 +6,11 @@ description: "Commission-based B2B marketplace/broker that matches biochar produ
 url: "/directory/enchar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Enchar: biochar ecosystem company, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://enchar.co/"
+company_linkedin: "https://www.linkedin.com/company/enchar/"
+company_country: "Switzerland"
 ---
 
 

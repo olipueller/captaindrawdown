@@ -6,6 +6,11 @@ description: "Direct air mineralization using alkaline-bearing ores in a proprie
 url: "/directory/anvil/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Anvil: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.anvilcarbon.com"
+company_linkedin: "https://www.linkedin.com/company/anvil-capture-systems/"
+company_country: "United States"
 ---
 
 

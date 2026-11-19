@@ -6,6 +6,11 @@ description: "Produces biochar via pyrolysis of regional organic residues (wood-
 url: "/directory/bionero/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "bionero: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.bionero.de/"
+company_linkedin: "https://www.linkedin.com/company/bionero-gmbh/"
+company_country: "Germany"
 ---
 
 

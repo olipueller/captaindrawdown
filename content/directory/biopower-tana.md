@@ -6,6 +6,11 @@ description: "Pyrolysis of local residual biomass (forestry, dairy, slaughterhou
 url: "/directory/biopower-tana/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Biopower Tana: biochar company, Norway | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biopowertana.no"
+company_linkedin: "https://www.linkedin.com/company/biopower-tana/"
+company_country: "Norway"
 ---
 
 

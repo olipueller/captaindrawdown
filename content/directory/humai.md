@@ -6,6 +6,10 @@ description: "Builds multimodal AI foundation models from satellite remote sensi
 url: "/directory/humai/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "hum.ai: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://hum.ai"
+company_country: "United States"
 ---
 
 

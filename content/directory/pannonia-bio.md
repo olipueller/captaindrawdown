@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from grain fermentation and anaerobic digest
 url: "/directory/pannonia-bio/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Pannonia Bio: BECCS as a side business, Hungary | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.pannoniabio.com/"
+company_linkedin: "https://www.linkedin.com/company/pannonia-bio-zrt/"
+company_country: "Hungary"
 ---
 
 

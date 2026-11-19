@@ -6,6 +6,10 @@ description: "Builds a proprietary on-site modular pyrolysis reactor (STARR) tha
 url: "/directory/recycle-roots/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Recycle Roots: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.recycleroots.com/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Oxy is an oil & gas major whose 1PointFive/Carbon Engineering subs
 url: "/directory/oxy/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Oxy: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.oxy.com/"
+company_linkedin: "https://www.linkedin.com/company/oxy/"
+company_country: "United States"
 ---
 
 

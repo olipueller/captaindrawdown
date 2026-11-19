@@ -6,6 +6,10 @@ description: "Sells consumer subscriptions (Cool Gram) and NFT collectibles (Isl
 url: "/directory/coolpoints-club/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Coolpoints Club: CDR enabling technology, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://coolpoints.club/"
+company_country: "Australia"
 ---
 
 

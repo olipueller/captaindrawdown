@@ -6,6 +6,11 @@ description: "In-house pyrolysis technology converting biomass into biochar for 
 url: "/directory/atlantico2/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "AtlantiCO2: biochar company, Brazil | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://atlantico2.com/"
+company_linkedin: "https://www.linkedin.com/company/atlantico2/"
+company_country: "Brazil"
 ---
 
 

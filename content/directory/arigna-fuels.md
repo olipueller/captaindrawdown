@@ -6,6 +6,10 @@ description: "Operates a ~70,000 tpa pyrolysis plant in Co. Roscommon producing 
 url: "/directory/arigna-fuels/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Arigna Fuels: biochar as a side business, Ireland | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://arignafuels.ie/"
+company_country: "Ireland"
 ---
 
 

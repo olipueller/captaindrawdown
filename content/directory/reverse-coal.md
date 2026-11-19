@@ -6,6 +6,11 @@ description: "Short-rotation willow grown on rewetted peatland is pyrolysed in a
 url: "/directory/reverse-coal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Reverse Coal: biochar division, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-22"
+company_url: "https://www.reversecoal.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/lapwing-energy/"
+company_country: "United Kingdom"
 ---
 
 

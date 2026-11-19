@@ -6,6 +6,11 @@ description: "Humidity-swing DAC using proprietary MSCCM ion-exchange resin (DAB
 url: "/directory/linhe-climate/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Linhe Climate: direct air capture company, China | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.co2loop.com"
+company_linkedin: "https://www.linkedin.com/company/linhe-climate-science-technology-co-ltd/"
+company_country: "China"
 ---
 
 

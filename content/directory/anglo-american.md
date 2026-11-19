@@ -6,6 +6,11 @@ description: "Applies magnesium-rich ferronickel smelter slag from its Brazilian
 url: "/directory/anglo-american/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Anglo American: enhanced weathering as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://www.angloamerican.com"
+company_linkedin: "https://www.linkedin.com/company/anglo-american/"
+company_country: "United Kingdom"
 ---
 
 
@@ -39,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-18** — News: European Commission Presents Draft Rules for Certifying Enhanced Rock Weathering - EIN Presswire ([source](https://www.einnews.com/pr_news/957361293/european-commission-presents-draft-rules-for-certifying-enhanced-rock-weathering))
 - **2026-08-19** — News: Ocean pHix: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary ([source](https://www.linkedin.com/company/exponential-hq/#post-c4c4f281fdfa))
 - **2026-08-12** — News: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary… ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
 - **2026-04-19** — Classified as Enhanced Weathering, side business, 🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))

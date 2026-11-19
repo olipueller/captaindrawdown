@@ -6,6 +6,10 @@ description: "Writes insurance products (invalidation, delivery and Article 6 co
 url: "/directory/oka-the-carbon-insurance-company/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Oka, The Carbon Insurance Company: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carboninsurance.co"
+company_country: "United States"
 ---
 
 

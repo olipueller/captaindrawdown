@@ -6,6 +6,11 @@ description: "MYNO pyrolyzes forest residuals into biochar at large-scale Carbon
 url: "/directory/myno/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "MYNO: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-20"
+company_url: "https://mynocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/myno-carbon/"
+company_country: "United States"
 ---
 
 

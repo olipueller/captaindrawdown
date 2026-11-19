@@ -6,6 +6,11 @@ description: "Low-temperature pyrolysis of sustainably sourced French hardwood r
 url: "/directory/soler-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "SOLER Group: biochar as a side business, France | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://soler-group.com/"
+company_linkedin: "https://www.linkedin.com/company/solergroup/"
+company_country: "France"
 ---
 
 
@@ -30,6 +35,7 @@ SOLER Group is a French family-owned renewable carbon producer (founded 1993, pa
 
 ## History
 
+- **2026-11-19** — News: SOLER Group has been producing charcoal in France since 1993. Two generations later, they’re still... ([source](https://www.linkedin.com/feed/update/urn:li:share:7529107331398209536/))
 - **2026-11-10** — News: Carbonex | Soler Group: 10 000 TONNES DE CO2 STOCKÉES DURABLEMENT ! SOLER Group entreprise... ([source](https://www.linkedin.com/company/carbonex/#post-a3d032e00d10))
 - **2026-11-06** — News: SOLER Group: 10 000 TONNES DE CO2 STOCKÉES DURABLEMENT ! SOLER Group entreprise familiale… ([source](https://www.linkedin.com/company/solergroup/#post-a3d032e00d10))
 - **2026-09-22** — News: SOLER Group: For our most recent team retreat, we toured a climate-conscious champagne house and… ([source](https://www.linkedin.com/company/solergroup/#post-9ecb7283d62e))

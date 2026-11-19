@@ -6,6 +6,11 @@ description: "Indirectly heated electric calciner that separates pure CO2 from l
 url: "/directory/leilaccalix/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Leilac/Calix: direct air capture as a side business, Australia | Captain Drawdown"
+lastmod: "2026-10-18"
+company_url: "https://www.leilac.com/"
+company_linkedin: "https://www.linkedin.com/company/leilac/"
+company_country: "Australia"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Carbon offset broker/marketplace and ETS/CORSIA compliance service
 url: "/directory/azzera/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Azzera: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://azzera.com"
+company_linkedin: "https://www.linkedin.com/company/azzera/"
+company_country: "Switzerland"
 ---
 
 

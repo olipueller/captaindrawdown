@@ -6,6 +6,11 @@ description: "Volunteer nonprofit network running CDR policy advocacy, student i
 url: "/directory/openair-collective/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "OpenAir Collective: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://openaircollective.cc/"
+company_linkedin: "https://www.linkedin.com/company/openair-collective/"
+company_country: "United States"
 ---
 
 

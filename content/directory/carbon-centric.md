@@ -6,6 +6,11 @@ description: "Post-combustion amine-based carbon capture at small- and medium-sc
 url: "/directory/carbon-centric/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Carbon Centric: BECCS company, Norway | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboncentric.no/en"
+company_linkedin: "https://www.linkedin.com/company/carboncentric/"
+company_country: "Norway"
 ---
 
 

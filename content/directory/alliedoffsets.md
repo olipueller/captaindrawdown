@@ -6,6 +6,10 @@ description: "Runs a carbon market data platform that tracks voluntary carbon ma
 url: "/directory/alliedoffsets/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "AlliedOffsets: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.alliedoffsets.com"
+company_country: "United Kingdom"
 ---
 
 

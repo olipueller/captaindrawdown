@@ -6,6 +6,10 @@ description: "Piloting amine-solvent post-combustion capture of biogenic CO2 fro
 url: "/directory/pca/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "PCA: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.packagingcorp.com"
+company_country: "United States"
 ---
 
 

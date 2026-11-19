@@ -6,6 +6,10 @@ description: "Operates off-grid pyrolysis kilns at 400–600°C producing high-c
 url: "/directory/carbono-capital/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Carbono Capital: biochar company, Chile | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.carbono.capital/"
+company_country: "Chile"
 ---
 
 

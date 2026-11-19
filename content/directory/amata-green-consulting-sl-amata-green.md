@@ -6,6 +6,11 @@ description: "Pyrolysis of olive-industry biomass waste (mill waste, pruning res
 url: "/directory/amata-green-consulting-sl-amata-green/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Amata Green Consulting, SL (Amata Green): biochar company, Spain | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.amatagreen.com/"
+company_linkedin: "https://www.linkedin.com/company/amata-green-llc/"
+company_country: "Spain"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Pyrolyzes bamboo and wood processing residues such as sawdust and 
 url: "/directory/bamboo-king-vina-joint-stock-company/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Bamboo King Vina Joint Stock Company: biochar as a side business, Vietnam | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://bambooking.vn/"
+company_country: "Vietnam"
 ---
 
 

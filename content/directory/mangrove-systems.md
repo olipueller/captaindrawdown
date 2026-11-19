@@ -6,6 +6,11 @@ description: "Provides a digital measurement, reporting & verification (dMRV) Sa
 url: "/directory/mangrove-systems/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Mangrove Systems: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-10-30"
+company_url: "https://www.mangrovesystems.com/"
+company_linkedin: "https://www.linkedin.com/company/mangrovesystems/"
+company_country: "Canada"
 ---
 
 

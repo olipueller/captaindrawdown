@@ -6,6 +6,11 @@ description: "Designs, builds, and operates pyrolysis facilities that convert wa
 url: "/directory/nordic-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Nordic Carbon: biochar company, Denmark | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.nordiccarbon.dk/"
+company_linkedin: "https://www.linkedin.com/company/nordic-carbon/"
+company_country: "Denmark"
 ---
 
 
@@ -29,6 +34,7 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
+- **2026-11-19** — News: What’s stopping companies buying more carbon removal? At COP31, buyers told us it’s not just price... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7529173037703671809/))
 - **2026-10-05** — News: Skyrenu: 250 million allowances is not the same as 250 million tonnes removed. In July, the Europe ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-46fd8a853546))
 - **2026-10-03** — News: Policy Summit takeaways: Unlocking corporate demand for carbon removal starts with clear guidance | ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510998925823172609/))
 - **2026-09-28** — News: Nordic Carbon: We're preparing to commission our project in Ghana. Once operational, the facility… ([source](https://www.linkedin.com/company/nordic-carbon/#post-1b430fa45953))

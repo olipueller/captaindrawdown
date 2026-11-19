@@ -6,6 +6,9 @@ description: "Pyrolysis of waste biomass into biochar, with credits verified via
 url: "/directory/capital-link-green/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Capital Link Green: biochar company | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.capital.link/"
 ---
 
 

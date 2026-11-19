@@ -6,6 +6,11 @@ description: "Aqueous catalyst-based CO2 capture from flue gas and ambient air u
 url: "/directory/urjanovac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "UrjanovaC: direct air capture company, India | Captain Drawdown"
+lastmod: "2026-10-09"
+company_url: "https://www.urjanovac.com/"
+company_linkedin: "https://www.linkedin.com/company/urjanovac-pvt-ltd/"
+company_country: "India"
 ---
 
 

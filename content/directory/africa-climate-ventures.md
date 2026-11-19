@@ -6,6 +6,11 @@ description: "Venture builder and early-stage investor that founds and scales Af
 url: "/directory/africa-climate-ventures/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Africa Climate Ventures: CDR enabling technology, Rwanda | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://africaclimateventures.com/"
+company_linkedin: "https://www.linkedin.com/company/africa-climate-ventures/"
+company_country: "Rwanda"
 ---
 
 

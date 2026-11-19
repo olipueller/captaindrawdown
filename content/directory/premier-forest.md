@@ -6,6 +6,11 @@ description: "Pyrolyzes wood-waste from its own sawmilling operations into bioch
 url: "/directory/premier-forest/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Premier Forest: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://premierforest.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/premier-forest-products-ltd/"
+company_country: "United Kingdom"
 ---
 
 

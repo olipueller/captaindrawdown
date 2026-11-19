@@ -6,6 +6,11 @@ description: "Online nonprofit marketplace that curates, vets, and retails third
 url: "/directory/cool-effect-inc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Cool Effect Inc: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-22"
+company_url: "https://www.cooleffect.org/"
+company_linkedin: "https://www.linkedin.com/company/cool-effect-carbon-offset/"
+company_country: "United States"
 ---
 
 

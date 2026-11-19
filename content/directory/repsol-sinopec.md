@@ -6,6 +6,11 @@ description: "Funds and runs DAC R&D (DAC.SI program) with PUCRS and DACMa GmbH,
 url: "/directory/repsol-sinopec/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Repsol Sinopec: direct air capture as a side business, Brazil | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.repsolsinopecbr.com.br/"
+company_linkedin: "https://www.linkedin.com/company/repsol-sinopec-brasil/"
+company_country: "Brazil"
 ---
 
 
@@ -29,6 +34,7 @@ Repsol Sinopec Brasil is an offshore oil and gas exploration and production join
 
 ## History
 
+- **2026-11-19** — News: DACMA GmbH: DACMA is pleased to draw your attention to a particular talk at the GHGT-18 in Perth... ([source](https://www.linkedin.com/company/dacma/#post-bae2df1c5684))
 - **2026-11-16** — Classified as DAC, side business, 🟢 Active ([source](https://datamarnews.com/noticias/port-of-acu-and-repsol-sinopec-brasil-sign-agreement-for-maritime-port-sector-decarbonization-study/))
 - **2026-11-16** — Reactivated: website reachable again
 - **2026-04-19** — Deactivated: website unreachable

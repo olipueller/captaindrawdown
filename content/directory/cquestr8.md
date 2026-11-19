@@ -6,6 +6,10 @@ description: "Reactor-based accelerated weathering of magnesium-rich silicates t
 url: "/directory/cquestr8/"
 pathway: "Mineralization"
 liveliness: "🔴 Likely Dead"
+seo_title: "Cquestr8: mineralization company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://cquestr8.com/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "High-temperature pyrolysis of wood/organic waste producing solid b
 url: "/directory/char-technologies/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CHAR Technologies: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-23"
+company_url: "https://www.chartechnologies.com"
+company_linkedin: "https://www.linkedin.com/company/char-technologies/"
+company_country: "Canada"
 ---
 
 

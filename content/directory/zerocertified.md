@@ -6,6 +6,10 @@ description: "VCM consultancy and methodology-development firm that supported ca
 url: "/directory/zerocertified/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "ZEROCertified: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://zerocertified.com/"
+company_country: "Netherlands"
 ---
 
 

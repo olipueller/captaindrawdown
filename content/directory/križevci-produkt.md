@@ -6,6 +6,11 @@ description: "Traditional hardwood charcoal producer using the CML carbonization
 url: "/directory/križevci-produkt/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "KRIŽEVCI-PRODUKT: biochar as a side business, Croatia | Captain Drawdown"
+lastmod: "2026-11-08"
+company_url: "https://www.krizevci-produkt.hr/en/"
+company_linkedin: "https://www.linkedin.com/company/kri%C5%BEevci-produkt-d-o-o/"
+company_country: "Croatia"
 ---
 
 

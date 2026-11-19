@@ -6,6 +6,11 @@ description: "Electrochemical (battery-based) direct air capture of CO2 using el
 url: "/directory/beyond-captur/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Beyond Captur: direct air capture company, South Korea | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.beyondcaptur.com"
+company_linkedin: "https://www.linkedin.com/company/beyond-captur/"
+company_country: "South Korea"
 ---
 
 

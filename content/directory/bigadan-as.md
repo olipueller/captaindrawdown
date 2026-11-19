@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 separated during biogas-to-biomethane upgrad
 url: "/directory/bigadan-as/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Bigadan A/S: BECCS as a side business, Denmark | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bigadan.com/"
+company_linkedin: "https://www.linkedin.com/company/bigadan/"
+company_country: "Denmark"
 ---
 
 

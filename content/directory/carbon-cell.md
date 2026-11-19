@@ -6,6 +6,11 @@ description: "Combines biochar with natural bio-based polymers to make an expand
 url: "/directory/carbon-cell/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Cell: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboncell.co/"
+company_linkedin: "https://www.linkedin.com/company/carbon-cell/"
+company_country: "United Kingdom"
 ---
 
 

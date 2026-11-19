@@ -6,6 +6,11 @@ description: "Manufactures carbon-negative wallboard by combining ligno-cellulos
 url: "/directory/adaptavate/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Adaptavate: mineralization company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://adaptavate.com/"
+company_linkedin: "https://www.linkedin.com/company/adaptavate-limited/"
+company_country: "United Kingdom"
 ---
 
 

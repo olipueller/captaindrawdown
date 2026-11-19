@@ -6,6 +6,11 @@ description: "Pyrolysis of forestry residues on an agricultural estate to produc
 url: "/directory/hjelmsäters-egendom/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Hjelmsäters Egendom: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.biokol.se/"
+company_linkedin: "https://www.linkedin.com/company/biokol-se/"
+company_country: "Sweden"
 ---
 
 

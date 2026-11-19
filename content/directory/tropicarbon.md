@@ -6,6 +6,11 @@ description: "Spreads custom silicate rock blends on Colombian farmland with pro
 url: "/directory/tropicarbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
+seo_title: "Tropicarbon: enhanced weathering company, Colombia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.tropicarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/tropicarbon/"
+company_country: "Colombia"
 ---
 
 

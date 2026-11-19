@@ -79,7 +79,47 @@
   ]
 }
 </script>
-{{- if .IsPage }}
+{{- if and .IsPage (eq .Type "directory") }}
+{{- /* Company profile (2026-11-19): a WebPage about an Organization, not a
+       BlogPosting with an author. Fields come from generate-directory-pages.py. */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Params.seo_title | default .Title | plainify }},
+  "description": {{ .Description | plainify }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": "en",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "isAccessibleForFree": true,
+  {{- if not .Lastmod.IsZero }}
+  "dateModified": {{ .Lastmod.Format "2006-01-02" }},
+  {{- end }}
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink }}
+  },
+  "about": {
+    "@type": "Organization",
+    "name": {{ .Title | plainify }},
+    {{- with .Params.company_url }}
+    "url": {{ . }},
+    {{- end }}
+    {{- with .Params.company_linkedin }}
+    "sameAs": [{{ . }}],
+    {{- end }}
+    {{- with .Params.company_country }}
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": {{ . }}
+    },
+    {{- end }}
+    "description": {{ .Description | plainify }}
+  }
+}
+</script>
+{{- else if .IsPage }}
 {{- /* Specialize @type by tag (Dirk 2026-05-14): pathway-101 posts get
        TechArticle, everything else stays BlogPosting (PaperMod default). */ -}}
 {{- $tags := .Params.tags | default (slice) -}}

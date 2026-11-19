@@ -6,6 +6,11 @@ description: "Operates biomass-fueled power generation and is developing bioener
 url: "/directory/drax/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Drax: BECCS as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://www.drax.com"
+company_linkedin: "https://www.linkedin.com/company/drax-group/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Proprietary solid-sorbent DAC demonstration at Shell Technology Ce
 url: "/directory/shell/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Shell: direct air capture as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html"
+company_linkedin: "https://www.linkedin.com/company/shell/"
+company_country: "United Kingdom"
 ---
 
 
@@ -31,6 +36,7 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-11-19** — News: Sitos Group: A major milestone for the Sitos–Treehouse biochar project! The Sitos–Treehouse... ([source](https://www.linkedin.com/company/sitos-group/#post-05d668f9f921))
 - **2026-11-07** — News: Carbon Business Council: New initiative to support CDR deployment in Louisiana. Newlab , in... ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-1e5e6e2d13ce))
 - **2026-11-03** — News: Newlab, in collaboration with Shell GameChanger and LA.IO (Louisiana Innovation), is launching the… ([source](https://decarbonfuse.com/posts/louisiana-carbon-dioxide-removal-cdr-initiative))
 - **2026-11-03** — News: New Open Call Is Offering Support For Carbon Removal Deployments In Louisiana ([source](https://carbonherald.com/new-open-call-is-offering-support-for-carbon-removal-deployments-in-louisiana/?utm_source=rss&utm_medium=rss&utm_campaign=new-open-call-is-offering-support-for-carbon-removal-deployments-in-louisiana))
@@ -60,7 +66,6 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 - **2026-08-14** — News: Pyrocal: PROJECT VIDEO // Inside Stahmann Webster’s new carbonisation facility in Leeton, NSW.… ([source](https://www.linkedin.com/company/pyrocal/#post-79849c5e84fa))
 - **2026-08-13** — News: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop… ([source](https://doi.org/10.3389/fsoil.2026.1880824))
 - **2026-08-07** — News: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
-- **2026-08-05** — News: Northern Lights: The CO2 carrier Northern Purpose has arrived in Norway! With the arrival we have… ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
 
 ---
 

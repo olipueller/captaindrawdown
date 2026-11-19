@@ -6,6 +6,11 @@ description: "Converts woody biomass residues into biochar (GreenChar) via propr
 url: "/directory/biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BioCarbon: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.biocarbon.com.au/"
+company_linkedin: "https://www.linkedin.com/company/biocarbon-au/"
+company_country: "Australia"
 ---
 
 
@@ -29,6 +34,7 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 
 ## History
 
+- **2026-11-17** — News: Biochar Classification and Markets - Forisk ([source](https://forisk.com/biochar-classification-and-markets/))
 - **2026-11-13** — News: Envisgas: We are happy to share that we are taking the next step in our collaboration with... ([source](https://www.linkedin.com/company/envigas-ab/#post-1117a5047ffa))
 - **2026-11-12** — News: WAI Environmental Solutions: WAI Environmental Solutions AS has entered a four-year supply… ([source](https://www.linkedin.com/company/wai-environmental-solutions-as/#post-41b29c6d80f8))
 - **2026-11-10** — News: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's... ([source](https://www.linkedin.com/company/carbainc/#post-e128652c81e3))
@@ -58,7 +64,6 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 - **2026-08-15** — News: Brazil publishes regulations for ProBioQAV, the country’s SAF mandate program | Biomass Magazine ([source](https://biomassmagazine.com/articles/brazil-publishes-regulations-for-probioqav-the-countrys-saf-mandate-program))
 - **2026-08-14** — News: RevaTerra closes oversubscribed $1.265 million seed financing led by BlueLake.vc | Biomass Magazine ([source](https://biomassmagazine.com/articles/revaterra-closes-oversubscribed-1265-million-seed-financing-led-by-bluelakevc))
 - **2026-08-13** — News: SUSTAREO partners with Nextchem for Canada’s first large-scale wood waste-to-SAF project | Biomass… ([source](https://biomassmagazine.com/articles/sustareo-partners-with-nextchem-for-canadas-first-large-scale-wood-waste-to-saf-project))
-- **2026-08-12** — News: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary… ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
 
 ---
 

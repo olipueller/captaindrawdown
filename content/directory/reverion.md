@@ -6,6 +6,11 @@ description: "Reverion builds reversible solid oxide fuel cell plants that conve
 url: "/directory/reverion/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Reverion: BECCS company, Germany | Captain Drawdown"
+lastmod: "2026-10-01"
+company_url: "https://reverion.com/en/"
+company_linkedin: "https://www.linkedin.com/company/reverion/"
+company_country: "Germany"
 ---
 
 

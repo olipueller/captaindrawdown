@@ -6,6 +6,11 @@ description: "Retrofits existing waste-wood biomass power plants with MHI's Adva
 url: "/directory/evero-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Evero Energy: BECCS as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://evero.energy/"
+company_linkedin: "https://www.linkedin.com/company/everoenergy/"
+company_country: "United Kingdom"
 ---
 
 

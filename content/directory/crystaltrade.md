@@ -6,6 +6,11 @@ description: "Software platform for digital MRV that combines traceability, IoT 
 url: "/directory/crystaltrade/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Crystaltrade: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://crystalchain.io/crystaltrade"
+company_linkedin: "https://www.linkedin.com/company/crystalchain/"
+company_country: "France"
 ---
 
 

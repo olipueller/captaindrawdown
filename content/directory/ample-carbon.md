@@ -6,6 +6,10 @@ description: "Develops retrofits of retiring U.S. coal power plants into bioener
 url: "/directory/ample-carbon/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Ample Carbon: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://amplecarbon.com/"
+company_country: "United States"
 ---
 
 

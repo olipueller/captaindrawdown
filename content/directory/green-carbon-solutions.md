@@ -6,6 +6,11 @@ description: "Pyrolysis of eucalyptus short-rotation woody crops in a 110-foot r
 url: "/directory/green-carbon-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Green Carbon Solutions: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.greencarbonsolutions.com/"
+company_linkedin: "https://www.linkedin.com/company/green-carbon-solutions/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Runs a forward-crediting standard and registry, built on blockchai
 url: "/directory/covalent/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Covalent: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.covalent.earth/"
+company_linkedin: "https://www.linkedin.com/company/covalentinc/"
+company_country: "United States"
 ---
 
 

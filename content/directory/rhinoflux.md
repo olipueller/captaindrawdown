@@ -6,6 +6,11 @@ description: "Rhinoflux's \"hydro/wet chemical looping\" technology uses redox r
 url: "/directory/rhinoflux/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Rhinoflux: BECCS company, Japan | Captain Drawdown"
+lastmod: "2026-10-03"
+company_url: "https://rhinoflux.com"
+company_linkedin: "https://www.linkedin.com/company/rhinoflux/"
+company_country: "Japan"
 ---
 
 

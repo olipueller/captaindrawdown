@@ -6,6 +6,11 @@ description: "Operates a patented continuous pyrolysis reactor that converts bio
 url: "/directory/carbon-lock-tech/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Lock Tech: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://carbonlocktech.com"
+company_linkedin: "https://www.linkedin.com/company/carbonlocktech/"
+company_country: "Canada"
 ---
 
 

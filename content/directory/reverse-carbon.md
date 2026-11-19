@@ -6,6 +6,11 @@ description: "Pyrolysis of agri-industrial biomass residues in Kenya to produce 
 url: "/directory/reverse-carbon/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Reverse Carbon: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.reversecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/reverse-carbon/"
+company_country: "Sweden"
 ---
 
 

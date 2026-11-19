@@ -6,6 +6,11 @@ description: "Non-profit carbon offset project developer and retailer; CDR portf
 url: "/directory/myclimate/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "myclimate: biochar ecosystem company, Switzerland | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.myclimate.org/"
+company_linkedin: "https://www.linkedin.com/company/myclimate/"
+company_country: "Switzerland"
 ---
 
 

@@ -6,6 +6,11 @@ description: "SaaS platform for carbon project developers providing inventory, d
 url: "/directory/bluelayer/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "BlueLayer: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://bluelayer.io/"
+company_linkedin: "https://www.linkedin.com/company/getbluelayer/"
+company_country: "Germany"
 ---
 
 

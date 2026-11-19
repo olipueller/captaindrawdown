@@ -6,6 +6,11 @@ description: "Manufactures cellulose fiber insulation from recycled wood fiber/n
 url: "/directory/ekovilla/"
 pathway: "Biomass Burial"
 liveliness: "🔴 Likely Dead"
+seo_title: "Ekovilla: biomass burial as a side business, Finland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ekovilla.com"
+company_linkedin: "https://www.linkedin.com/company/ekovilla-oy/"
+company_country: "Finland"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Manufactures continuous biomass pyrolysis equipment and operates a
 url: "/directory/jiaxing-tongao-environmental-technology/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Jiaxing Tongao Environmental Technology: biochar company, China | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "http://www.zjtongao.com/"
+company_country: "China"
 ---
 
 

@@ -6,6 +6,11 @@ description: "High-temperature (up to 850°C) zero-emission pyrolysis of food-gr
 url: "/directory/3r-biophosphate/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "3R-BioPhosphate: biochar as a side business, Hungary | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biophosphate.net/"
+company_linkedin: "https://www.linkedin.com/company/terra-humana-clean-technology-development-engineering-and-manufacturing-ltd./"
+company_country: "Hungary"
 ---
 
 

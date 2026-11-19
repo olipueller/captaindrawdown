@@ -6,6 +6,11 @@ description: "Uses a proprietary hydrometallurgical LOW™ process to extract re
 url: "/directory/exterra/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Exterra: mineralization as a side business, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://exterratechnologies.com/"
+company_linkedin: "https://www.linkedin.com/company/exterratechnologies/"
+company_country: "Canada"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Modular, tech-agnostic DAC integrator that combines multiple third
 url: "/directory/co2zero/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "CO2Zero: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://co2zero.online/"
+company_linkedin: "https://www.linkedin.com/company/co%E2%82%82zero/"
+company_country: "Netherlands"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Procurement and market intelligence platform for the voluntary car
 url: "/directory/abatable/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Abatable: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-07"
+company_url: "https://www.abatable.com/"
+company_linkedin: "https://www.linkedin.com/company/abatable/"
+company_country: "United Kingdom"
 ---
 
 

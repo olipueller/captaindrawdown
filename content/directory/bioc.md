@@ -6,6 +6,11 @@ description: "Operates indirectly-heated gravity-reactor pyrolysis plants that c
 url: "/directory/bioc/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BioC: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://bio-c.com/"
+company_linkedin: "https://www.linkedin.com/company/bioc-global/"
+company_country: "Singapore"
 ---
 
 

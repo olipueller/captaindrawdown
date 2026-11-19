@@ -6,6 +6,11 @@ description: "Engineering-focused biochar project developer that converts agricu
 url: "/directory/biocare/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biocare: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.biocareprojects.com/"
+company_linkedin: "https://www.linkedin.com/company/biocare-projects/"
+company_country: "Australia"
 ---
 
 

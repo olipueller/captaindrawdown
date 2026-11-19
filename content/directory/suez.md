@@ -6,6 +6,11 @@ description: "Solvent-based post-combustion CO2 capture retrofits on energy-from
 url: "/directory/suez/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "SUEZ: BECCS as a side business, France | Captain Drawdown"
+lastmod: "2026-10-12"
+company_url: "https://www.suez.com/en"
+company_linkedin: "https://www.linkedin.com/company/suez/"
+company_country: "France"
 ---
 
 

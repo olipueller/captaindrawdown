@@ -6,6 +6,11 @@ description: "Non-profit convener and advocacy organisation that works to build 
 url: "/directory/rethinking-removal/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Rethinking Removal: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-28"
+company_url: "https://rethinkingremovals.org/"
+company_linkedin: "https://www.linkedin.com/company/rethinking-removals/"
+company_country: "United Kingdom"
 ---
 
 

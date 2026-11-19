@@ -6,6 +6,11 @@ description: "Small-scale pyrolysis of waste wood into biochar plus manufacture 
 url: "/directory/earthly-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Earthly Biochar: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.earthlybiochar.com"
+company_linkedin: "https://www.linkedin.com/company/earthlybiochar/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Designs and deploys wave-powered artificial upwelling pumps that t
 url: "/directory/ocean-based-climate-solutions-inc/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Ocean-based Climate Solutions, Inc.: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://ocean-based.com/"
+company_linkedin: "https://www.linkedin.com/company/ocean-based-climate-solutions-inc/"
+company_country: "United States"
 ---
 
 

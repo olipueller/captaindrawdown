@@ -6,6 +6,11 @@ description: "Paebbl accelerates natural carbon mineralization by reacting captu
 url: "/directory/paebbl/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Paebbl: mineralization company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://paebbl.com/"
+company_linkedin: "https://www.linkedin.com/company/paebbl/"
+company_country: "Netherlands"
 ---
 
 

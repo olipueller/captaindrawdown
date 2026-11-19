@@ -6,6 +6,11 @@ description: "Satellite/AI-based forest inventory (\"Basemap\") powering a marke
 url: "/directory/ncx/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "NCX: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "http://ncx.com"
+company_linkedin: "https://www.linkedin.com/company/ncx-carbon/"
+company_country: "United States"
 ---
 
 

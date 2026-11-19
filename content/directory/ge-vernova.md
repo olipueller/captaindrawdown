@@ -6,6 +6,11 @@ description: "Proprietary solid sorbent Direct Air Capture system leveraging tem
 url: "/directory/ge-vernova/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "GE Vernova: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.gevernova.com/gas-power/future-of-energy/direct-air-capture"
+company_linkedin: "https://www.linkedin.com/company/hitachi-gevernova-nuclear-energy-ltd/"
+company_country: "United States"
 ---
 
 

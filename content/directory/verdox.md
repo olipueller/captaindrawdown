@@ -6,6 +6,11 @@ description: "Verdox develops an all-electric electrochemical (electro-swing ads
 url: "/directory/verdox/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Verdox: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-29"
+company_url: "https://verdox.com/"
+company_linkedin: "https://www.linkedin.com/company/verdox/"
+company_country: "United States"
 ---
 
 

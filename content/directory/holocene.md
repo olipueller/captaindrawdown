@@ -6,6 +6,11 @@ description: "Liquid, low-temperature DAC using an amino-acid solvent to absorb 
 url: "/directory/holocene/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Holocene: direct air capture division, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://theholocene.co/"
+company_linkedin: "https://www.linkedin.com/company/holocene-climate/"
+company_country: "United States"
 ---
 
 

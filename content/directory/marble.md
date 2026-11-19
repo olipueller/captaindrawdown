@@ -6,6 +6,11 @@ description: "Climate-tech venture studio that co-founds and pre-seed-funds deep
 url: "/directory/marble/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Marble: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://marble.studio/"
+company_linkedin: "https://www.linkedin.com/company/marble-climate/"
+company_country: "France"
 ---
 
 

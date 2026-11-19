@@ -6,6 +6,11 @@ description: "Develops small-scale, semi-automated biochar carbonizer equipment 
 url: "/directory/wastex/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "WasteX: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.wastex.io/"
+company_linkedin: "https://www.linkedin.com/company/wastex/"
+company_country: "Singapore"
 ---
 
 

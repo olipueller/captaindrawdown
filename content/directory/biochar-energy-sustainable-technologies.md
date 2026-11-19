@@ -6,6 +6,11 @@ description: "Converts biomass into biochar via pyrolysis, branding proprietary 
 url: "/directory/biochar-energy-sustainable-technologies/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biochar Energy Sustainable Technologies: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.biocharfarmer.com/"
+company_linkedin: "https://www.linkedin.com/company/biocharfarmer/"
+company_country: "United States"
 ---
 
 

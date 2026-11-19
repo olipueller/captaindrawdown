@@ -6,6 +6,11 @@ description: "Develops the Absolute Carbon Standard (ACS), a pathway-agnostic, s
 url: "/directory/absolute-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Absolute Climate: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-12"
+company_url: "https://www.absoluteclimate.com"
+company_linkedin: "https://www.linkedin.com/company/we-are-absolute-climate/"
+company_country: "United States"
 ---
 
 

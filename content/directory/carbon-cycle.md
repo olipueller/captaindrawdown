@@ -6,6 +6,11 @@ description: "Produces biochar via pyrolysis of PEFC-certified untreated wood ch
 url: "/directory/carbon-cycle/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Cycle: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://carbon-cycle.de"
+company_linkedin: "https://www.linkedin.com/company/carbon-cycle-gmbh-%26-co.-kg/"
+company_country: "Germany"
 ---
 
 
@@ -32,6 +37,8 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-11-17** — News: Why Metrology Matters for Ocean Alkalinity Enhancement ([source](https://doi.org/10.1029/2026eo260365))
+- **2026-11-17** — News: Ocean Alkalinity Enhancement Efficiency and Responses of Recalcitrant Dissolved Organic Carbon... ([source](https://doi.org/10.1007/s11802-026-6759-9))
 - **2026-11-11** — News: Enhanced rock weathering for sustainable carbon capture: advances, challenges, and future… ([source](https://doi.org/10.1007/s11157-026-09793-3))
 - **2026-11-05** — News: Additionality of climate benefits from emission reduction and carbon dioxide removal ([source](https://doi.org/10.1088/1748-9326/aebb4e))
 - **2026-11-05** — News: Biochar as a sustainable strategy for greenhouse gas remediation and climate change mitigation ([source](https://doi.org/10.1007/s43621-026-05240-z))
@@ -60,8 +67,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 - **2026-07-28** — News: Exeter climate conference 5 - Plenary: Carbon cycle ([source](https://suenethercott.substack.com/p/exeter-climate-conference-5-plenary))
 - **2026-07-26** — News: Reviews and syntheses: Experimental evidence of phytoplankton responses to Ocean Alkalinity… ([source](https://doi.org/10.5194/egusphere-2026-4055))
 - **2026-07-26** — News: How carbon dioxide removal lost its way: tracing the origin and transformation of the 10-Gt durable ([source](https://cdrxiv.org/preprint/330))
-- **2026-07-23** — News: Frontiers | Harnessing the microbial carbon pump: prospects and challenges for coastal carbon… ([source](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1897665/full))
-- **2026-07-22** — News: In terms of earth science the discovery of the beneficial impact of manufacturing biochar for use… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mraj37fqps2p))
 
 ---
 

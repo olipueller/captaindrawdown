@@ -6,6 +6,11 @@ description: "Planetary doses purified alkaline minerals (e.g. magnesium/calcium
 url: "/directory/planetary/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Planetary: ocean CDR company, Canada | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.planetarytech.com/"
+company_linkedin: "https://www.linkedin.com/company/planetary-tech/"
+company_country: "Canada"
 ---
 
 
@@ -43,6 +48,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: Don’t take our word for it. Take the science’s. For years, we’ve argued that cutting emissions... ([source](https://www.linkedin.com/feed/update/urn:li:share:7529151944498704384/))
+- **2026-11-18** — News: YCNCC News recently caught up with new YCNCC and Yale University Earth &amp… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528816794325815296/))
+- **2026-11-18** — News: Congratulations to Yale University Earth &amp; Planetary Sciences (EPS) Graduate Student... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528827828558209024/))
+- **2026-11-17** — News: Assessing Early-Stage Net CO 2 Fluxes From Soils and Maize Plants During a Short-Term Enhanced... ([source](https://doi.org/10.2475/001c.167596))
 - **2026-11-13** — News: First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry |... ([source](https://www.newsbeep.com/808934/))
 - **2026-11-12** — News: First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry |... ([source](https://www.newsbeep.com/us/914911/))
 - **2026-11-11** — News: Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon… ([source](https://doi.org/10.5194/bg-23-7727-2026))
@@ -69,10 +78,6 @@ Independently verified by carbon-credit registries:
 - **2026-09-18** — News: Biochar as a climate-smart tool for long-term soil carbon sequestration: A comprehensive review ([source](https://doi.org/10.33545/2618060x.2026.v9.i9sc.6562))
 - **2026-09-18** — News: Ocean Alkalinity Enhancement ([source](https://doi.org/10.17226/29342/8.1.0))
 - **2026-09-15** — News: Planetary: Earlier this year, we launched Frontier 's Innovation Program to fund the most critical, ([source](https://www.linkedin.com/company/planetary-tech/#post-9ec7158aa672))
-- **2026-09-12** — News: Engineered ocean bacteria could supercharge CO2 removal by dissolving rocks ([source](https://bioengineer.org/engineered-ocean-bacteria-could-supercharge-co2-removal-by-dissolving-rocks/))
-- **2026-09-11** — News: Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in… ([source](https://cdrxiv.org/preprint/553))
-- **2026-09-06** — News: Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting ([source](https://doi.org/10.70212/cdrxiv.2026533.v2))
-- **2026-09-03** — News: Planetary: We’re proud to share another important milestone in Planetary’s #PAIR journey.… ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-5f5c6a3c64ed))
 
 ---
 

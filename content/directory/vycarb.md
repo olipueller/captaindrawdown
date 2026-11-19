@@ -6,6 +6,11 @@ description: "Deploys modular reactors that add alkaline minerals to high-CO2 co
 url: "/directory/vycarb/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Vycarb: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://www.vy-carb.com/"
+company_linkedin: "https://www.linkedin.com/company/vycarb/"
+company_country: "United States"
 ---
 
 

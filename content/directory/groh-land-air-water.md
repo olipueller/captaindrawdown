@@ -6,6 +6,10 @@ description: "Produces and sells biochar for soil amendment, water filtration an
 url: "/directory/groh-land-air-water/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Groh Land Air & Water: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.grohusa.com/"
+company_country: "United States"
 ---
 
 

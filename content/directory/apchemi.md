@@ -6,6 +6,11 @@ description: "Designs and supplies pyrolysis plants (plastics, tires, and biomas
 url: "/directory/apchemi/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "APChemi: biochar as a side business, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.apchemi.com/"
+company_linkedin: "https://www.linkedin.com/company/apchemi/"
+company_country: "India"
 ---
 
 

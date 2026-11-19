@@ -6,6 +6,11 @@ description: "Produces biochar via pyrolysis of reclaimed construction timber an
 url: "/directory/vital-chemical/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Vital Chemical: biochar as a side business, Australia | Captain Drawdown"
+lastmod: "2026-11-11"
+company_url: "https://vitalindustries.com.au/"
+company_linkedin: "https://www.linkedin.com/company/vitalchemical/"
+company_country: "Australia"
 ---
 
 

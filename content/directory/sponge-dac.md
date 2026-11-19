@@ -6,6 +6,11 @@ description: "Solid-sorbent DAC using a continuously moving web of sorbent mater
 url: "/directory/sponge-dac/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Sponge DAC: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.spongedac.com"
+company_linkedin: "https://www.linkedin.com/company/sponge-dac/"
+company_country: "United States"
 ---
 
 

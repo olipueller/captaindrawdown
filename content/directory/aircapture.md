@@ -6,6 +6,11 @@ description: "Aircapture builds modular, containerized solid-sorbent DAC units d
 url: "/directory/aircapture/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Aircapture: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-10-27"
+company_url: "https://www.aircapture.com/"
+company_linkedin: "https://www.linkedin.com/company/aircapture-llc/"
+company_country: "United States"
 ---
 
 

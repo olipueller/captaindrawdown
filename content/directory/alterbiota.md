@@ -6,6 +6,11 @@ description: "Converts forestry-waste biochar via a patented process into a liqu
 url: "/directory/alterbiota/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "alterBiota: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://alterbiota.com/"
+company_linkedin: "https://www.linkedin.com/company/alterbiotainc/"
+company_country: "Canada"
 ---
 
 

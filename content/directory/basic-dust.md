@@ -6,6 +6,10 @@ description: "Applies finely pulverized alkaline rock powder to water bodies and
 url: "/directory/basic-dust/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "Basic Dust: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://basicdust.com/"
+company_country: "United States"
 ---
 
 

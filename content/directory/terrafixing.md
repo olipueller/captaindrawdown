@@ -6,6 +6,11 @@ description: "Solid-sorbent DAC using structured zeolite packing optimized for c
 url: "/directory/terrafixing/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "TerraFixing: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.terrafixing.com/"
+company_linkedin: "https://www.linkedin.com/company/terrafixing/"
+company_country: "Canada"
 ---
 
 

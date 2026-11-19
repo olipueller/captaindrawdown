@@ -6,6 +6,10 @@ description: "Collects agricultural waste from farmers in China, pyrolyzes it at
 url: "/directory/eversink-limited/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Eversink Limited: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://eversink.com/"
+company_country: "United States"
 ---
 
 

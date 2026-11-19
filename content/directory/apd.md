@@ -6,6 +6,11 @@ description: "Operates a Biomacon C400 pyrolysis unit that converts low-grade wo
 url: "/directory/apd/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "APD: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.a-p-d.ch/"
+company_linkedin: "https://www.linkedin.com/company/apd-wealth-management-llc/"
+company_country: "Switzerland"
 ---
 
 

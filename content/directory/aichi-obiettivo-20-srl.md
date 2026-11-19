@@ -6,6 +6,11 @@ description: "Runs BlockCO2, a scheme that audits biochar projects made from pyr
 url: "/directory/aichi-obiettivo-20-srl/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Aichi Obiettivo 20 srl: biochar ecosystem company, Italy | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.aichio20.it/"
+company_linkedin: "https://www.linkedin.com/company/aichi-obiettivo-20/"
+company_country: "Italy"
 ---
 
 

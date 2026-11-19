@@ -6,6 +6,10 @@ description: "Runs independent field monitoring, MRV and environmental-safety re
 url: "/directory/hourglass-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Hourglass Climate: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.hourglassclimate.org"
+company_country: "United States"
 ---
 
 

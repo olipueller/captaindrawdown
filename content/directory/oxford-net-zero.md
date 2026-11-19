@@ -6,6 +6,11 @@ description: "Academic research programme at the University of Oxford producing 
 url: "/directory/oxford-net-zero/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Oxford Net Zero: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-13"
+company_url: "https://netzeroclimate.org/"
+company_linkedin: "https://www.linkedin.com/company/oxfordnetzero/"
+company_country: "United Kingdom"
 ---
 
 

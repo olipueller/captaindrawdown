@@ -6,6 +6,11 @@ description: "Pyrolyzes residual woody forestry biomass into biochar that is app
 url: "/directory/slíglas/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Slíglas: biochar company, Ireland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://sliglas.com/"
+company_linkedin: "https://www.linkedin.com/company/sliglas/"
+company_country: "Ireland"
 ---
 
 

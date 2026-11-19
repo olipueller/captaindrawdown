@@ -6,6 +6,11 @@ description: "Uses hydrothermal liquefaction (HTL) to convert wet and dry biomas
 url: "/directory/nulife-greentech/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "NULIFE GreenTech: biomass burial company, Canada | Captain Drawdown"
+lastmod: "2026-11-13"
+company_url: "https://nulifegreentech.com/"
+company_linkedin: "https://www.linkedin.com/company/nulife-greentech/"
+company_country: "Canada"
 ---
 
 

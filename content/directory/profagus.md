@@ -6,6 +6,10 @@ description: "Runs an industrial retort plant that carbonises regional beech woo
 url: "/directory/profagus/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "proFagus: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.profagus.de"
+company_country: "Germany"
 ---
 
 

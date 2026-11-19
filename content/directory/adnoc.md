@@ -6,6 +6,11 @@ description: "State-owned oil & gas major investing in and co-developing megaton
 url: "/directory/adnoc/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "ADNOC: direct air capture as a side business, United Arab Emirates | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.adnoc.ae"
+company_linkedin: "https://www.linkedin.com/company/adnoc/"
+company_country: "United Arab Emirates"
 ---
 
 

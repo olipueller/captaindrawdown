@@ -6,6 +6,11 @@ description: "Pyrolyzes clean tree/shrub cuttings at 500–600°C in a PYREG pyr
 url: "/directory/verora/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Verora: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.verora.ch/"
+company_linkedin: "https://www.linkedin.com/company/veroraai/"
+company_country: "Switzerland"
 ---
 
 

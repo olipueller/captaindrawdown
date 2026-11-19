@@ -6,6 +6,11 @@ description: "Pyrolyzes coconut shell/husk biomass in the Philippines into stabl
 url: "/directory/biochar-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biochar Earth: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biochar.earth"
+company_linkedin: "https://www.linkedin.com/company/biochar-earth/"
+company_country: "United States"
 ---
 
 

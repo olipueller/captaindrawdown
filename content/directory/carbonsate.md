@@ -6,6 +6,11 @@ description: "Harvests woody biomass (e.g. encroaching bush) and seals it in eng
 url: "/directory/carbonsate/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Carbonsate: biomass burial company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonsate.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonsate/"
+company_country: "Germany"
 ---
 
 

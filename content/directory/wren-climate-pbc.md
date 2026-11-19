@@ -6,6 +6,11 @@ description: "Subscription-based retail marketplace that aggregates consumer/bus
 url: "/directory/wren-climate-pbc/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Wren Climate, PBC: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.wren.co/"
+company_linkedin: "https://www.linkedin.com/company/project-wren/"
+company_country: "United States"
 ---
 
 

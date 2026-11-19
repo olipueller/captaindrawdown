@@ -6,6 +6,11 @@ description: "Aggregates biogenic CO2 captured at Danish biogas upgrading plants
 url: "/directory/biocarb-solution/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "BioCarb Solution: BECCS company, Denmark | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://biocarb.dk/"
+company_linkedin: "https://www.linkedin.com/company/biocarb-solution/"
+company_country: "Denmark"
 ---
 
 

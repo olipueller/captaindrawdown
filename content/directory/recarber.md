@@ -6,6 +6,11 @@ description: "Software platform and commercial developer that matches biogenic C
 url: "/directory/recarber/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "ReCarber: BECCS ecosystem company, Sweden | Captain Drawdown"
+lastmod: "2026-10-22"
+company_url: "https://recarber.com/"
+company_linkedin: "https://www.linkedin.com/company/recarber/"
+company_country: "Sweden"
 ---
 
 

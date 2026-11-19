@@ -6,6 +6,11 @@ description: "Develops pyrolysis-based biochar projects using agricultural resid
 url: "/directory/carboheroes/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "CarboHeroes: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboheroes.com/"
+company_linkedin: "https://www.linkedin.com/company/carboheroes/"
+company_country: "Germany"
 ---
 
 

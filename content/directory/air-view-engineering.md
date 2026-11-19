@@ -6,6 +6,11 @@ description: "Develops modular solid-sorbent DAC units using 3D-printed carbon-f
 url: "/directory/air-view-engineering/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Air View Engineering: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.airviewengineering.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/air-view-engineering-ltd/"
+company_country: "United Kingdom"
 ---
 
 

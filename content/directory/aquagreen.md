@@ -6,6 +6,11 @@ description: "Integrated superheated-steam drying plus pyrolysis at 650°C that 
 url: "/directory/aquagreen/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "AquaGreen: biochar company, Denmark | Captain Drawdown"
+lastmod: "2026-10-18"
+company_url: "https://aquagreen.dk/"
+company_linkedin: "https://www.linkedin.com/company/aquagreenaps/"
+company_country: "Denmark"
 ---
 
 

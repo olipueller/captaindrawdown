@@ -6,6 +6,10 @@ description: "Pyrolyzes biomass into biochar and blends it with compost and bene
 url: "/directory/sirius-regenerative-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Sirius Regenerative Solutions: biochar company, Colombia | Captain Drawdown"
+lastmod: "2026-10-06"
+company_url: "https://www.siriusregenerative.co/"
+company_country: "Colombia"
 ---
 
 

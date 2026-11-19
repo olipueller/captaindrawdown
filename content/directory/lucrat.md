@@ -6,6 +6,11 @@ description: "Makes and sells EBC-certified biochar products, mainly as additive
 url: "/directory/lucrat/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Lucrat: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.lucrat.de/"
+company_linkedin: "https://www.linkedin.com/company/lucrat/"
+company_country: "Germany"
 ---
 
 

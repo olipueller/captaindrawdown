@@ -6,6 +6,11 @@ description: "Produces site-specific biochar from agricultural biomass and appli
 url: "/directory/húmica/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Húmica: biochar company, Mexico | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://humica.mx/"
+company_linkedin: "https://www.linkedin.com/company/h%C3%BAmica/"
+company_country: "Mexico"
 ---
 
 

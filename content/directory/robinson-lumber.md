@@ -6,6 +6,11 @@ description: "Pyrolyzes waste wood from its lumber milling/processing operations
 url: "/directory/robinson-lumber/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Robinson Lumber: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://www.roblumco.com/"
+company_linkedin: "https://www.linkedin.com/company/roblumco/"
+company_country: "United States"
 ---
 
 

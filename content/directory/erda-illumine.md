@@ -6,6 +6,10 @@ description: "Develops carbon projects, including a biochar initiative that pyro
 url: "/directory/erda-illumine/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Erda Illumine: biochar as a side business, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://erdaillumine.com/"
+company_country: "India"
 ---
 
 

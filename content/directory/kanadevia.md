@@ -6,6 +6,11 @@ description: "Supplies amine-scrubbing post-combustion carbon capture as EPC con
 url: "/directory/kanadevia/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Kanadevia: BECCS as a side business, Japan | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.kanadevia.com/english/"
+company_linkedin: "https://www.linkedin.com/company/kanadevia/"
+company_country: "Japan"
 ---
 
 

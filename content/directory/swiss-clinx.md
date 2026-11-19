@@ -6,6 +6,9 @@ description: "Sells and runs ClinX wood-fired micro gas turbine combined heat-an
 url: "/directory/swiss-clinx/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Swiss ClinX: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "Switzerland"
 ---
 
 

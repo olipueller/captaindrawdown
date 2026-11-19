@@ -6,6 +6,11 @@ description: "Blockchain-based platform/marketplace for nature-based carbon remo
 url: "/directory/trusted-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Trusted Carbon: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://trustedcarbon.org/"
+company_linkedin: "https://www.linkedin.com/company/trusted-carbon/"
+company_country: "United States"
 ---
 
 

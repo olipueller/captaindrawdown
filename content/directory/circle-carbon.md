@@ -6,6 +6,11 @@ description: "Kon-Tiki kiln pyrolysis of organic/garden waste biomass into bioch
 url: "/directory/circle-carbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Circle Carbon: biochar company, Spain | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://circlecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/circlecarbon/"
+company_country: "Spain"
 ---
 
 
@@ -30,6 +35,7 @@ Circle Carbon Labs is a small social enterprise in Mallorca, Spain producing bio
 
 ## History
 
+- **2026-11-18** — News: Circle Carbon: Aperam BioEnergia and Circle Carbon partnering to advance circular innovation and... ([source](https://www.linkedin.com/company/circlecarbon/#post-dea2f83e47a1))
 - **2026-05-01** — Status Suspect → Moderate
 - **2026-04-19** — Classified as Biochar, supplier, 🟠 Suspect ([source](https://circlecarbon.com/))
 - **2026-04-19** — Classified as Biochar, supplier, 🟡 Moderate ([source](https://circlecarbon.com/))

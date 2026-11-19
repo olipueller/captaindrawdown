@@ -6,6 +6,11 @@ description: "Pyrolysis of croton nut-processing residues into biochar via a Ter
 url: "/directory/ecofix/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "EcoFix: biochar as a side business, Kenya | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.efk.co.ke/"
+company_linkedin: "https://www.linkedin.com/company/ecofix-kenya/"
+company_country: "Kenya"
 ---
 
 

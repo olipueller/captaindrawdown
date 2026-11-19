@@ -6,6 +6,11 @@ description: "Takes soil cores with hydraulic coring vehicles and runs them thro
 url: "/directory/agricarbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "agriCARBON: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.agricarbon.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/agricarbon-earth/"
+company_country: "United Kingdom"
 ---
 
 

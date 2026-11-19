@@ -6,6 +6,11 @@ description: "Digital platform offering equipment selection software, project fi
 url: "/directory/grain-ecosystem/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Grain Ecosystem: biochar ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://grainecosystem.com/"
+company_linkedin: "https://www.linkedin.com/company/grain-ecosystem/"
+company_country: "United States"
 ---
 
 

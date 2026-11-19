@@ -6,6 +6,11 @@ description: "Develops a proprietary non-amine solvent-based post-combustion CO2
 url: "/directory/c-capture-ltd/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "C-Capture Ltd: BECCS company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://c-capture.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/c-capture-ltd-university-of-leeds/"
+company_country: "United Kingdom"
 ---
 
 

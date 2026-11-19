@@ -6,6 +6,10 @@ description: "Conference and events organizer hosting annual carbon removal indu
 url: "/directory/carbon-unbound/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Unbound: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonunboundeurope.com/"
+company_country: "United Kingdom"
 ---
 
 

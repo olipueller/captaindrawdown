@@ -6,6 +6,11 @@ description: "Develops and finances biochar projects in the Global South, such a
 url: "/directory/atmosfair-ggmbh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "atmosfair gGmbH: biochar as a side business, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.atmosfair.de/en/"
+company_linkedin: "https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/"
+company_country: "Germany"
 ---
 
 

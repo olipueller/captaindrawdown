@@ -6,6 +6,11 @@ description: "Pyrolyzes organic waste into biochar, then combines it with plant-
 url: "/directory/caligenia/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Caligenia: biochar company, Argentina | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.caligenia.com/"
+company_linkedin: "https://www.linkedin.com/company/caligenia/"
+company_country: "Argentina"
 ---
 
 

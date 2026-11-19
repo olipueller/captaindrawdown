@@ -6,6 +6,11 @@ description: "Pyrolyzes biomass into biochar for use as a soil amendment and car
 url: "/directory/enrzi/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Enrzi: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.enrzi.com/"
+company_linkedin: "https://www.linkedin.com/company/enrzibio/"
+company_country: "India"
 ---
 
 

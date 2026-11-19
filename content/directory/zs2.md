@@ -6,6 +6,11 @@ description: "Manufactures magnesium-oxide cement building products (boards, pan
 url: "/directory/zs2/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "ZS2: mineralization as a side business, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://zs2technologies.com/"
+company_linkedin: "https://www.linkedin.com/company/zs2-technologies/"
+company_country: "Canada"
 ---
 
 

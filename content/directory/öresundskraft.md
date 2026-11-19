@@ -6,6 +6,11 @@ description: "Amine-based post-combustion carbon capture on a waste-fired combin
 url: "/directory/öresundskraft/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Öresundskraft: BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.oresundskraft.se/"
+company_linkedin: "https://www.linkedin.com/company/oresundskraft/"
+company_country: "Sweden"
 ---
 
 

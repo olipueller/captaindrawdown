@@ -6,6 +6,11 @@ description: "Biochar project developer and aggregator that partners with pyroly
 url: "/directory/greenchar-climate-solutions/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "GreenChar Climate Solutions: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.greenchar.co/"
+company_linkedin: "https://www.linkedin.com/company/greenchar-climate-solutions/"
+company_country: "Singapore"
 ---
 
 

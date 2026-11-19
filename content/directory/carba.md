@@ -6,6 +6,11 @@ description: "Carba uses a patented autothermal low-temperature pyrolysis (torre
 url: "/directory/carba/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carba: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carba.com/"
+company_linkedin: "https://www.linkedin.com/company/carbainc/"
+company_country: "United States"
 ---
 
 

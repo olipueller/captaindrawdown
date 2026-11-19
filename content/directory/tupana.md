@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural waste into biochar and applies it to soil, 
 url: "/directory/tupana/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Tupana: biochar company, Brazil | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.tupana.earth/"
+company_linkedin: "https://www.linkedin.com/company/tupana-earth/"
+company_country: "Brazil"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates a carbon credit registry/trading platform (with a blockch
 url: "/directory/carbon-vault-sdn-bhd/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Vault Sdn Bhd: CDR enabling technology, Malaysia | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://co2bank.asia/"
+company_linkedin: "https://www.linkedin.com/company/carbonbank/"
+company_country: "Malaysia"
 ---
 
 

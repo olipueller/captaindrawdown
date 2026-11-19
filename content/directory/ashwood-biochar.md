@@ -6,6 +6,11 @@ description: "Gasification/pyrolysis of woody biomass waste to produce biochar s
 url: "/directory/ashwood-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Ashwood Biochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ashwoodbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/ashwood-trinity/"
+company_country: "United States"
 ---
 
 

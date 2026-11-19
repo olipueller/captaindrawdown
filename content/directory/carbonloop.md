@@ -6,6 +6,11 @@ description: "Builds and runs on-site biomass pyrolysis/gasification units (Haff
 url: "/directory/carbonloop/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbonloop: biochar company, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonloop.energy"
+company_linkedin: "https://www.linkedin.com/company/haffner-energy/"
+company_country: "France"
 ---
 
 

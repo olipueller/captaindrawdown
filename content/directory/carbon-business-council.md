@@ -6,6 +6,11 @@ description: "A tech-neutral CDR industry trade association providing policy adv
 url: "/directory/carbon-business-council/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Business Council: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-09"
+company_url: "https://www.carbonbusinesscouncil.org/"
+company_linkedin: "https://www.linkedin.com/company/carbonbusinesscouncil/"
+company_country: "United States"
 ---
 
 

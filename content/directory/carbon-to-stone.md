@@ -6,6 +6,11 @@ description: "Reactive crystallization that mineralizes captured CO2 with alkali
 url: "/directory/carbon-to-stone/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carbon To Stone: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbontostone.com/"
+company_linkedin: "https://www.linkedin.com/company/revoramaterials/"
+company_country: "United States"
 ---
 
 

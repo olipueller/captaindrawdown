@@ -6,6 +6,11 @@ description: "Deploys engineered porous substrates on the seafloor to catalyze o
 url: "/directory/blusink/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Blusink: ocean CDR company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.blusink.com/"
+company_linkedin: "https://www.linkedin.com/company/blusink/"
+company_country: "United Kingdom"
 ---
 
 

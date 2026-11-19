@@ -6,6 +6,11 @@ description: "Operates patented pyrolysis units on-site at municipal yard-waste 
 url: "/directory/recap/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Recap: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://www.recapcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/recap-carbon/"
+company_country: "United States"
 ---
 
 

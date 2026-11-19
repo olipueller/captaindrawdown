@@ -6,6 +6,11 @@ description: "Membrane-free redox electrochemical process that processes alkalin
 url: "/directory/blueshift/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "BlueShift: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.buildblueshift.com/"
+company_linkedin: "https://www.linkedin.com/company/buildblueshift/"
+company_country: "United States"
 ---
 
 

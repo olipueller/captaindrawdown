@@ -6,6 +6,11 @@ description: "Produces a biochar-based concrete/asphalt additive (Clim@Add) that
 url: "/directory/carstorcon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CarStorCon: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carstorcon.technology/en/"
+company_linkedin: "https://www.linkedin.com/company/carstorcon-technologies/"
+company_country: "Germany"
 ---
 
 

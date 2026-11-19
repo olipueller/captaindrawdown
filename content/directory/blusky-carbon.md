@@ -6,6 +6,11 @@ description: "Designs and operates Vulcan biomass pyrolysis systems to produce b
 url: "/directory/blusky-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "BluSky Carbon: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-23"
+company_url: "https://bluskycarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/blu-sky-creative/"
+company_country: "Canada"
 ---
 
 

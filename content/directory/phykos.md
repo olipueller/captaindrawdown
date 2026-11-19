@@ -6,6 +6,11 @@ description: "Develops solar-powered, autonomous robotic platforms that grow sea
 url: "/directory/phykos/"
 pathway: "Ocean CDR"
 liveliness: "🔴 Likely Dead"
+seo_title: "Phykos: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.phykos.co/"
+company_linkedin: "https://www.linkedin.com/company/phykos-pbc/"
+company_country: "United States"
 ---
 
 

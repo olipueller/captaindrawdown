@@ -6,6 +6,11 @@ description: "Industrial Pyreg pyrolysis units carbonize agricultural residues, 
 url: "/directory/skånefrö/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Skånefrö: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://skanefro.se/"
+company_linkedin: "https://www.linkedin.com/company/skanefro/"
+company_country: "Sweden"
 ---
 
 

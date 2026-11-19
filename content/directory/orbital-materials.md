@@ -6,6 +6,10 @@ description: "AI-designed solid sorbent DAC system integrated into data centers,
 url: "/directory/orbital-materials/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Orbital Materials: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.orbitalmaterials.com"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Pyrolyses wood waste in retorts to make biochar and pyroligneous a
 url: "/directory/retort-biofuels/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Retort Biofuels: biochar as a side business, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.indiamart.com/retort-biofuels/"
+company_country: "India"
 ---
 
 

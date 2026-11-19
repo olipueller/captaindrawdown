@@ -6,6 +6,10 @@ description: "Industry coalition/platform coordinating CDR policy proposals, res
 url: "/directory/japan-cdr-coalition/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Japan CDR Coalition: CDR enabling technology, Japan | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://icf.mri.co.jp/j-cdr/"
+company_country: "Japan"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Fluidized-bed and downdraft gasification of biosolids and wood was
 url: "/directory/aries-clean-technologies/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Aries Clean Technologies: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ariescleantech.com/"
+company_linkedin: "https://www.linkedin.com/company/aries-clean-tech/"
+company_country: "United States"
 ---
 
 

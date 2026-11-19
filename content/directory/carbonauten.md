@@ -6,6 +6,11 @@ description: "Pyrolyzes woody biomass residues (and bamboo in China) in a modula
 url: "/directory/carbonauten/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbonauten: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonauten.com/en/"
+company_linkedin: "https://www.linkedin.com/company/carbonauten-polymers/"
+company_country: "Germany"
 ---
 
 

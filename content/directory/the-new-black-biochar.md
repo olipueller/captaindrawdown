@@ -6,6 +6,10 @@ description: "Produces biochar via pyrolysis kiln from sawmill/timber waste stre
 url: "/directory/the-new-black-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "The New Black Biochar: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://linktr.ee/thenewblackbiochar"
+company_country: "Australia"
 ---
 
 

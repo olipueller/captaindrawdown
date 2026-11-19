@@ -6,6 +6,11 @@ description: "Harvests free-floating Sargassum macroalgae in the open Atlantic a
 url: "/directory/macrocarbon/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Macrocarbon: ocean CDR company, Spain | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.macrocarbon.world/"
+company_linkedin: "https://www.linkedin.com/company/macrocarbon/"
+company_country: "Spain"
 ---
 
 

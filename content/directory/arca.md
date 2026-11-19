@@ -6,6 +6,11 @@ description: "Accelerates carbon mineralization in ultramafic mine tailings via 
 url: "/directory/arca/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Arca: mineralization company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://arcaclimate.com/"
+company_linkedin: "https://www.linkedin.com/company/arcaclimate/"
+company_country: "Canada"
 ---
 
 

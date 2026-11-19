@@ -6,6 +6,11 @@ description: "Svante manufactures nanoengineered solid-sorbent filters and modul
 url: "/directory/svantecarbon-alpha/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Svante/Carbon Alpha: BECCS company, Canada | Captain Drawdown"
+lastmod: "2026-10-07"
+company_url: "https://www.svanteinc.com/"
+company_linkedin: "https://www.linkedin.com/company/svantesolutions/"
+company_country: "Canada"
 ---
 
 

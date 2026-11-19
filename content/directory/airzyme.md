@@ -6,6 +6,11 @@ description: "Develops enzymatic biocatalysts using Carbonic Anhydrase to accele
 url: "/directory/airzyme/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "AirZyme: direct air capture company, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://airzy.me/"
+company_linkedin: "https://www.linkedin.com/company/airzyme/"
+company_country: "Sweden"
 ---
 
 

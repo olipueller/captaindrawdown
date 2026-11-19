@@ -6,6 +6,11 @@ description: "Blockchain-based platform for managing, monitoring, tokenizing, an
 url: "/directory/carbonable/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Carbonable: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbonable.io/"
+company_linkedin: "https://www.linkedin.com/company/carbonable/"
+company_country: "France"
 ---
 
 

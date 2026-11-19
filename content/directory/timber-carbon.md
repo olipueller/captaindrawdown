@@ -6,6 +6,11 @@ description: "Develops Verra/ICROA methodology and issues carbon removal credits
 url: "/directory/timber-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Timber Carbon: biomass burial ecosystem company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://timbercarbon.ch/"
+company_linkedin: "https://www.linkedin.com/company/timbercarbon/"
+company_country: "Switzerland"
 ---
 
 
@@ -29,6 +34,7 @@ Timber Carbon (Timber Carbon Solutions AG) is a Zurich-based Swiss firm that dev
 
 ## History
 
+- **2026-11-17** — News: Timber Carbon: A building made of concrete and steel still contains wood. A credible baseline has... ([source](https://www.linkedin.com/company/timbercarbon/#post-77c4c8a63049))
 - **2026-11-16** — company correction: Timber Carbon is the carbon entity (timbercarbon.ch, linkedin timbercarbon); reactivated, Timber Finance record merged…
 - **2026-04-19** — Classified as Biomass Burial, ecosystem, 🟢 Active ([source](https://timberfinance.ch/en/carbon/))
 - **2026-04-19** — Added to the directory ([source](https://www.cdrjobs.earth/job-board))

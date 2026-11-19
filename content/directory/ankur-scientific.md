@@ -6,6 +6,11 @@ description: "Builds biomass and MSW gasifiers and pyro-gasifiers that produce s
 url: "/directory/ankur-scientific/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Ankur Scientific: biochar as a side business, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.ankurscientific.com"
+company_linkedin: "https://www.linkedin.com/company/ankur-scientific-energy-technologies-pvt-ltd/"
+company_country: "India"
 ---
 
 

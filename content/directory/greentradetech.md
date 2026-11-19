@@ -6,6 +6,11 @@ description: "Blockchain-based marketplace and forward-financing platform that c
 url: "/directory/greentradetech/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "greentrade.tech: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://greentrade.tech/"
+company_linkedin: "https://www.linkedin.com/company/greentradetech/"
+company_country: "Germany"
 ---
 
 

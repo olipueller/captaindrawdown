@@ -6,6 +6,11 @@ description: "Uses a proprietary zero-emission limestone kiln and low-intensity 
 url: "/directory/origen/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Origen: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-21"
+company_url: "https://www.origencarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/origen-carbon-solution/"
+company_country: "United Kingdom"
 ---
 
 

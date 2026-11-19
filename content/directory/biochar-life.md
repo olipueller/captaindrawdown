@@ -6,6 +6,11 @@ description: "Trains smallholder farmers in Thailand, Kenya, Malawi, and Indones
 url: "/directory/biochar-life/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biochar Life: biochar company, Thailand | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://biochar.life/"
+company_linkedin: "https://www.linkedin.com/company/biochar-life/"
+company_country: "Thailand"
 ---
 
 

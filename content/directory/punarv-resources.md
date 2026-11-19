@@ -6,6 +6,11 @@ description: "Pyrolysis of agricultural crop residues (cotton stalk, pigeon pea 
 url: "/directory/punarv-resources/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Punarv Resources: biochar company, India | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.punarv.com"
+company_linkedin: "https://www.linkedin.com/company/punarv-resources-pvt-ltd/"
+company_country: "India"
 ---
 
 

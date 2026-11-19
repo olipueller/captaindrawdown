@@ -6,6 +6,10 @@ description: "Retailer/broker of third-party certified carbon credits combined w
 url: "/directory/nordic-offset/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Nordic Offset: CDR enabling technology, Finland | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://nordicoffset.fi/"
+company_country: "Finland"
 ---
 
 

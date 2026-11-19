@@ -6,6 +6,9 @@ description: "Develops small modular biomass \"micro-factories\" that turn agric
 url: "/directory/regenovation-ltd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Regenovation Ltd: biochar company | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://regenovation.net/"
 ---
 
 

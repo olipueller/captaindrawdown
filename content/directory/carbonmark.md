@@ -6,6 +6,11 @@ description: "Blockchain-based open marketplace and API for issuing, buying, sel
 url: "/directory/carbonmark/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbonmark: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-19"
+company_url: "https://www.carbonmark.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonmarkcom/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from five of its eight biogas/biomethane pla
 url: "/directory/biocirc/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "BioCirc: BECCS as a side business, Denmark | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://biocirc.com/"
+company_linkedin: "https://www.linkedin.com/company/biocirc/"
+company_country: "Denmark"
 ---
 
 

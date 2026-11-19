@@ -6,6 +6,10 @@ description: "Online searchable database and dashboard that tracks CDR deals, pr
 url: "/directory/carbon-curve-intelligence/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Carbon Curve Intelligence: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://intelligence.carboncurve.co"
+company_country: "Canada"
 ---
 
 
@@ -27,6 +31,25 @@ Carbon Curve Intelligence is a carbon removal market-intelligence platform launc
 
 ## History
 
+- **2026-11-19** — News: National standing offers for carbon dioxide removal credits ([source](https://www.canada.ca/en/treasury-board-secretariat/news/2026/11/national-standing-offers-for-carbon-dioxide-removal-credits.html))
+- **2026-11-19** — News: Colorado Gains Sole Authority to Approve Underground Carbon Storage Projects → Policy ([source](https://news.sustainability-directory.com/policy/colorado-gains-sole-authority-to-approve-underground-carbon-storage-projects))
+- **2026-11-19** — News: The European Commission presented its Carbon Removals Expert Group with draft provisions for an... ([source](https://circularwire.com/articles/eight-developers-shape-eu-methodology-for-enhanced-rock-weathering))
+- **2026-11-18** — News: VEAS wastewater treatment plant BECCS value chain — BECCS ([source](https://www.inheritcs.com/insight/what-is-a-carbon-removal-credit))
+- **2026-11-18** — News: CBI and Boomitra Bring Carbon Footprint Insights and Voluntary Soil Carbon Removal to Everyday... ([source](https://boomitra.com/cbi-and-boomitra))
+- **2026-11-18** — News: Commission invites public to shape new carbon storage certification for buildings ([source](https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en))
+- **2026-11-18** — News: Europe’s Net-Zero Pledges Face €68 Billion Annual Carbon Removal Bill ([source](https://foundernews.eu/europes-net-zero-pledges-face-e68-billion-annual-carbon-removal-bill))
+- **2026-11-18** — News: Terradot Spain enhanced rock weathering project — Other emerging ([source](https://circularwire.com/articles/terradot-deploys-enhanced-rock-weathering-in-spain))
+- **2026-11-18** — News: North Kalimantan blue carbon project — Other emerging ([source](https://en.antaranews.com/news/443343/indonesia-launches-three-blue-carbon-projects-at-cop31))
+- **2026-11-17** — News: Enhancing the Marine Carbonate System for Durable CDR — a Q&A with YCNCC s Noah Planavsky and... ([source](https://naturalcarboncapture.yale.edu/posts/2026-11-02-enhancing-the-marine-carbonate-system-for-durable-cdr-a-qa-with-ycnccs-noah))
+- **2026-11-17** — News: Individuals Retire 344 Tonnes of Carbon Removal in Platform's First Year ([source](https://circularwire.com/articles/individuals-retire-344-tonnes-of-carbon-removal-in-platform-s-first-year))
+- **2026-11-17** — News: Open-Access Toolkit Launched to Evaluate Nations Carbon Removal Capacity ([source](https://carbontier.de/open-access-toolkit-launched-to-evaluate-nations-carbon-removal-capacity))
+- **2026-11-17** — News: Enhanced Rock Weathering: Can Rock Dust on Farms Remove CO2? ([source](https://scibeat.com/articles/rock-dust-on-farmland-could-pull-billions-of-tons-of-co2-but-the-money-is-ahead))
+- **2026-11-17** — News: COP31: Carbon removal gains ground as concerns grow over climate overshoot ([source](https://www.carboncopy.info/is-the-world-preparing-to-live-with-climate-overshoot))
+- **2026-11-17** — News: Durable CDR purchases fall 74% in 2026 Q1-Q3 as Microsoft volumes drop ([source](https://www.carbon.fyi/news/c104b4ea))
+- **2026-11-17** — News: The afterburner that makes biomass power carbon-negative ([source](https://blog.sintef.com/energy/the-afterburner-that-makes-biomass-power-carbon-negative))
+- **2026-11-17** — News: Biochar Carbon Removal Project — Biochar ([source](https://environews.asia/indonesia-unveils-climate-partnership-offers-14-carbon-projects))
+- **2026-11-16** — News: Releaf Earth Iwuru biochar facility — Biochar ([source](https://news.sustainability-directory.com/innovation/industrial-biochar-plant-turns-agricultural-waste-into-stable-carbon-removal))
+- **2026-11-16** — News: Senken: Net-Zero Carbon Removals Could Cost European Companies €60B a Year ([source](https://onestopesg.com/esg-news/senken-carbon-removal-costs-europe-pace-of-change-2026-report))
 - **2026-11-16** — Status Active → Moderate
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟢 Active ([source](https://carboncurve.substack.com/p/introducing-carbon-curve-intelligence))
 - **2026-11-16** — Classified as Enabling Tech, review needed, 🟡 Moderate

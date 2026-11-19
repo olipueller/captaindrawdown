@@ -6,6 +6,11 @@ description: "Uses retort kiln technology to convert invasive acacia encroacher 
 url: "/directory/carbon-capital/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbon Capital: biochar company, Namibia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboncapital.com.na/"
+company_linkedin: "https://www.linkedin.com/company/carboncapitalnamibia/"
+company_country: "Namibia"
 ---
 
 

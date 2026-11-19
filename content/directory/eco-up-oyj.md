@@ -6,6 +6,10 @@ description: "Its Ekovilla subsidiary makes cellulose insulation from recycled p
 url: "/directory/eco-up-oyj/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
+seo_title: "Eco Up Oyj: biomass burial as a side business, Finland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://ecoup.fi"
+company_country: "Finland"
 ---
 
 

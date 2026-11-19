@@ -6,6 +6,11 @@ description: "Operates a digital, blockchain-based exchange and clearing house f
 url: "/directory/acx-aircarbon-exchange/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ACX (AirCarbon Exchange): CDR enabling technology, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://acx.net/"
+company_linkedin: "https://www.linkedin.com/company/aircarbon-exchange-acx/"
+company_country: "Singapore"
 ---
 
 

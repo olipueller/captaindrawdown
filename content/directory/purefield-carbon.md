@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from wheat-starch ethanol fermentation at Ru
 url: "/directory/purefield-carbon/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "PureField Carbon: BECCS division, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.purefield.com/"
+company_linkedin: "https://www.linkedin.com/company/purefield-ingredients/"
+company_country: "United States"
 ---
 
 

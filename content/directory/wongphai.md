@@ -6,6 +6,9 @@ description: "Converts bamboo offcuts and residues from local markets into bioch
 url: "/directory/wongphai/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Wongphai: biochar company, Thailand | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "Thailand"
 ---
 
 

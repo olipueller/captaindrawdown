@@ -6,6 +6,11 @@ description: "Blends third-party-pyrolyzed Southern Yellow Pine biochar (NAKED C
 url: "/directory/american-biochar-company/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "American BioChar Company: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ambiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/stand-coalition/"
+company_country: "United States"
 ---
 
 

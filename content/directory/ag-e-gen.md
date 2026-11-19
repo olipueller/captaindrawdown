@@ -6,6 +6,10 @@ description: "Developing a mobile, on-farm unit that pyrolyzes manure, hemp and 
 url: "/directory/ag-e-gen/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Ag-e-Gen: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.ag-e-gen.com"
+company_country: "United States"
 ---
 
 

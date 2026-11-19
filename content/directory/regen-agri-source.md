@@ -6,6 +6,10 @@ description: "Sells high-grade biochar and biochar/poultry-litter pellets as agr
 url: "/directory/regen-agri-source/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Regen Agri-Source: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.ragris.com/"
+company_country: "United States"
 ---
 
 

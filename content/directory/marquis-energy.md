@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from corn ethanol fermentation at the Hennep
 url: "/directory/marquis-energy/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Marquis Energy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://marquisinc.com/"
+company_linkedin: "https://www.linkedin.com/company/marquis-inc/"
+company_country: "United States"
 ---
 
 

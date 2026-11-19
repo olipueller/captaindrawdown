@@ -6,6 +6,11 @@ description: "High-temperature auto-thermal pyrolysis of pine sawmill and forest
 url: "/directory/envirapac/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "EnviraPAC: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://envira-pac.com/"
+company_linkedin: "https://www.linkedin.com/company/envirapac-monticello-llc/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "University-based research and innovation lab running CDR accelerat
 url: "/directory/suslab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "sus.lab: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.suslab.ch/"
+company_linkedin: "https://www.linkedin.com/company/sustainability-in-business-lab/"
+company_country: "Switzerland"
 ---
 
 

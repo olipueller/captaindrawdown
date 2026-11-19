@@ -6,6 +6,11 @@ description: "Operates small-scale pyrolysis/gasification plants that convert wa
 url: "/directory/svec/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "SVEC: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://scottsvalleyenergycompany.com/"
+company_linkedin: "https://www.linkedin.com/company/microsoft-learn-student-club-svec/"
+company_country: "United States"
 ---
 
 

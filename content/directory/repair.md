@@ -6,6 +6,11 @@ description: "Develops a solid-state electrochemical cell (battery/fuel-cell ins
 url: "/directory/repair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "RepAir: direct air capture company, Israel | Captain Drawdown"
+lastmod: "2026-10-30"
+company_url: "https://www.repair-carbon.com/"
+company_linkedin: "https://www.linkedin.com/company/repair-carbon/"
+company_country: "Israel"
 ---
 
 

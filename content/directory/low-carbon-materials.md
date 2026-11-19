@@ -6,6 +6,11 @@ description: "Manufactures biochar-mineral matrix aggregates (OSTO® for concret
 url: "/directory/low-carbon-materials/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Low Carbon Materials: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.lowcarbonmaterials.com/"
+company_linkedin: "https://www.linkedin.com/company/lowcarbonmaterials/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Builds Ovi, a compact indoor DAC appliance that uses a gypsum-base
 url: "/directory/atalanta-climate/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Atalanta Climate: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.atalantaclimate.co/"
+company_linkedin: "https://www.linkedin.com/company/atalanta-climate/"
+company_country: "Canada"
 ---
 
 

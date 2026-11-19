@@ -6,6 +6,11 @@ description: "Nonprofit convener, funder, and knowledge-producer for marine CDR 
 url: "/directory/ocean/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Ocean: ocean CDR ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://oceanvisions.org/"
+company_linkedin: "https://www.linkedin.com/company/ocean-visions/"
+company_country: "United States"
 ---
 
 
@@ -30,6 +35,22 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-11-19** — News: COP31 carbon removal push could threaten African farmland, fisheries, activist warns ([source](https://www.premiumtimesng.com/news/top-news/926406-cop31-carbon-removal-push-could-threaten-african-farmland-fisheries-activist-warns.html))
+- **2026-11-19** — News: Africa: COP31 Carbon Removal Push Could Threaten African Farmland, Fisheries, Activist Warns |... ([source](https://pressnewsagency.org/africa-cop31-carbon-removal-push-could-threaten-african-farmland-fisheries-activist-warns/))
+- **2026-11-19** — News: Africa: COP31 Carbon Removal Push Could Threaten African Farmland, Fisheries, Activist Warns... ([source](https://allafrica.com/stories/202611190333.html))
+- **2026-11-19** — News: COP31 carbon capture target raises fears of prolonged fossil fuel dependence ([source](https://www.premiumtimesng.com/news/top-news/926351-cop31-carbon-capture-target-raises-fears-of-prolonged-fossil-fuel-dependence.html))
+- **2026-11-19** — News: Nigeria: COP31 Carbon Capture Target Raises Fears of Prolonged Fossil Fuel Dependence... ([source](https://allafrica.com/stories/202611190154.html))
+- **2026-11-19** — News: Kogi announces ₦7 billion upgrade of PHCs but won't provide details while clinics remain... ([source](https://ng.headtopics.com/news/kogi-announces-7-billion-upgrade-of-phcs-but-won-t-provide-89988639))
+- **2026-11-18** — News: Welcome! You are invited to join a meeting: Introduction to C-Star | Webinar. After registering... ([source](https://us06web.zoom.us/meeting/register/EFDT3SlTSX6rskcu_gRJNQ#/registration))
+- **2026-11-18** — News: COP31 must not lead to marine geoengineering, ocean advocates say ([source](https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/))
+- **2026-11-17** — News: YCNCC Research Scientist Kevin Kroeger joined Jacob Boyd, CPM and the North Carolina... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528480840377540608/))
+- **2026-11-17** — News: Stepwise formation of authigenic clay from biogenic silica: are elemental and alkalinity sinks... ([source](https://www.researchsquare.com/article/rs-11436975/v1))
+- **2026-11-17** — News: On the Efficiency and Durability of Ocean Iron Fertilization as a Carbon Dioxide Removal Solution ([source](https://doi.org/10.31223/x51v6m))
+- **2026-11-17** — News: Why Metrology Matters for Ocean Alkalinity Enhancement ([source](https://doi.org/10.1029/2026eo260365))
+- **2026-11-17** — News: Ocean liming in climate overshoot: coupling with international shipping and peak temperature… ([source](https://doi.org/10.5281/zenodo.24156666))
+- **2026-11-17** — News: Is Anthropogenic Climate Change Reversible? Results from CDRMIP on transient Earth system response... ([source](https://doi.org/10.5194/egusphere-2026-5520))
+- **2026-11-17** — News: Ocean Alkalinity Enhancement Efficiency and Responses of Recalcitrant Dissolved Organic Carbon... ([source](https://doi.org/10.1007/s11802-026-6759-9))
+- **2026-11-17** — News: Trace-metal responses to enhanced rock weathering with basalt in agricultural and riparian soils ([source](https://doi.org/10.1007/s10705-026-10544-7))
 - **2026-11-16** — News: Carbon dioxide removal and environmental impacts from the suspended sediment fraction of a... ([source](https://cdrxiv.org/preprint/585))
 - **2026-11-14** — News: New Guidelines Target Ocean Geoengineering as Carbon Removal Projects Expand ([source](https://www.envirolink.org/2026/11/13/new-guidelines-target-ocean-geoengineering-as-carbon-removal-projects-expand))
 - **2026-11-13** — News: First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry |... ([source](https://www.newsbeep.com/808934/))
@@ -44,22 +65,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-11-11** — News: Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon… ([source](https://doi.org/10.5194/bg-23-7727-2026))
 - **2026-11-11** — News: Accounting for Microbial–DOC Feedbacks Reveal Ecological Constraints on Artificial Upwelling for... ([source](https://doi.org/10.5194/egusphere-2026-6818))
 - **2026-11-11** — News: Enhanced rock weathering for sustainable carbon capture: advances, challenges, and future… ([source](https://doi.org/10.1007/s11157-026-09793-3))
-- **2026-11-11** — News: 154th Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/154th-edition))
-- **2026-11-11** — News: A Decisive Key to Ending Global Warming? The Miracle That Happened After Pouring 'Red Solution'... ([source](https://news.sbs.co.kr/english/article.do?news_id=N1008840397))
-- **2026-11-10** — News: Pillar I mCDR | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525916180457508864/))
-- **2026-11-10** — News: Carbon Removal Technology Market to Reach USD 2.49 Billion by 2035 as Direct Air Capture and... ([source](https://www.openpr.com/news/4686114/carbon-removal-technology-market-to-reach-usd-2-49-billion))
-- **2026-11-09** — News: Ocean Visions Launches Comprehensive Knowledge Platform on mCDR to Advance Information Access and... ([source](https://oceanvisions.org/news/ocean-visions-launches-comprehensive-knowledge-platform-on-mcdr-to-advance-information-access-and-transparency))
-- **2026-11-09** — News: EU Backs Carbon Removal With $55M in 2027 Innovation Funding | Impactful Ninja ([source](https://impactful.ninja/eu-backs-carbon-removal-with-55m-innovation-funding-for-2027/))
-- **2026-11-09** — News: Limenet: On October 6, the OAE Data Commons officially went live, and Limenet is part of it.... ([source](https://www.linkedin.com/company/limenet-tech/#post-9aab59545724))
-- **2026-11-09** — News: Carbon to Sea Initiative: A new report from Carbon Gap outlines a roadmap for advancing novel... ([source](https://www.linkedin.com/company/carbontosea/#post-81cca7de127b))
-- **2026-11-06** — News: Enhanced weathering in China’s acidic rice fields offers potential agronomic co-benefits ([source](https://cdrxiv.org/preprint/583))
-- **2026-11-06** — News: Assessing the effectiveness of ocean alkalinity enhancement on carbon sequestration and ocean... ([source](https://rsc-src.ca/en/voices/assessing-effectiveness-ocean-alkalinity-enhancement-carbon-sequestration-and-ocean))
-- **2026-11-05** — News: Ocean Alkalinity Enhancement,CO2 Absorption | Eco discussion ([source](https://ecodiscussion.com/ocean-alkalinity-enhancement-absorb-co2/))
-- **2026-11-05** — News: Setting the course for the novel marine carbon removal in the EU ([source](https://carbongap.org/insights/setting-the-course-for-the-novel-marine-carbon-removal-in-the-eu))
-- **2026-11-05** — News: I signed an open letter urging the European Commission to set up a Roadmap for novel marine CDR... ([source](https://bsky.app/profile/jpgattuso.bsky.social/post/3mzklzhqcj22k))
-- **2026-11-05** — News: New Report: Ocean Carbon Removal Shows Promise, But Big Questions Remain ([source](https://news.climate.columbia.edu/2026/09/21/new-report-ocean-carbon-removal-shows-promise-but-big-questions-remain))
-- **2026-11-05** — News: Additionality of climate benefits from emission reduction and carbon dioxide removal ([source](https://doi.org/10.1088/1748-9326/aebb4e))
-- **2026-11-05** — News: Certified enclosures of the CO2 uptake per unit alkalinity in seawater equilibrium chemistry (a… ([source](https://doi.org/10.5281/zenodo.23848688))
 
 ---
 

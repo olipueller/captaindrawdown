@@ -6,6 +6,11 @@ description: "Pyrolysis of woody biomass residuals (forestry and sawmill waste) 
 url: "/directory/circularity2/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Circularity2: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.circularity2.com/"
+company_linkedin: "https://www.linkedin.com/company/c2carbon/"
+company_country: "United States"
 ---
 
 

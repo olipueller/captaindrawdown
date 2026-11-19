@@ -6,6 +6,11 @@ description: "Applies crushed basalt rock dust (quarry byproduct) to US farmland
 url: "/directory/lithos/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Lithos: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.lithoscarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/lithoscarbon/"
+company_country: "United States"
 ---
 
 
@@ -44,6 +49,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
 - **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-11-07** — News: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to... ([source](https://www.linkedin.com/company/lithoscarbon/#post-9fddbf3aecfa))
 - **2026-10-12** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
@@ -73,7 +79,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-24** — News: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has… ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
 - **2026-07-22** — News: Lithos: Lithos has issued our first batch of Isometric -verified carbon removal credits from the… ([source](https://www.linkedin.com/company/lithoscarbon/#post-c72d5d77bc8c))
 - **2026-07-22** — News: Lithos: Today we’re announcing that Frontier has raised an additional $915M for carbon removal… ([source](https://www.linkedin.com/company/lithoscarbon/#post-e3e7a0ff2985))
-- **2026-07-22** — News: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to… ([source](https://www.linkedin.com/company/lithoscarbon/#post-2fc3b5595412))
 
 ---
 

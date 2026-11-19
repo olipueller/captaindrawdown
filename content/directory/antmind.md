@@ -6,6 +6,11 @@ description: "Steam gasification of forestry wood waste to produce hydrogen, wit
 url: "/directory/antmind/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "AntMind: BECCS company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.antmind.io/"
+company_linkedin: "https://www.linkedin.com/company/antmindenergy/"
+company_country: "Canada"
 ---
 
 

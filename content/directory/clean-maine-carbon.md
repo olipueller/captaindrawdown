@@ -6,6 +6,11 @@ description: "Pyrolyzes woody biomass in a BET 24-PRD rotary kiln to produce bio
 url: "/directory/clean-maine-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Clean Maine Carbon: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://cleanmainecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/clean-maine-carbon/"
+company_country: "United States"
 ---
 
 

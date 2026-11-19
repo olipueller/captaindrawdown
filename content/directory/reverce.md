@@ -6,6 +6,11 @@ description: "Develops an end-to-end ERW process chain — matching silicate roc
 url: "/directory/reverce/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "reverce: enhanced weathering company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://reverce.com/"
+company_linkedin: "https://www.linkedin.com/company/reverce-carbon/"
+company_country: "Germany"
 ---
 
 

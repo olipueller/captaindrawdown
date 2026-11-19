@@ -6,6 +6,11 @@ description: "Retail/SMB-focused CDR portfolio aggregator offering subscription 
 url: "/directory/zopeful-climate/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Zopeful Climate: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://zopeful.com/"
+company_linkedin: "https://www.linkedin.com/company/zopeful/"
+company_country: "United Kingdom"
 ---
 
 

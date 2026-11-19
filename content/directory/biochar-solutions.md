@@ -6,6 +6,10 @@ description: "Designs continuous-process pyrolysis equipment that turns wood was
 url: "/directory/biochar-solutions/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Biochar Solutions: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.biocharsolutions.com/"
+company_country: "United States"
 ---
 
 

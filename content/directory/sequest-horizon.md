@@ -6,6 +6,9 @@ description: "Stores leftover agricultural biomass in engineered above-ground ch
 url: "/directory/sequest-horizon/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
+seo_title: "Sequest Horizon: biomass burial company, Saudi Arabia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "Saudi Arabia"
 ---
 
 

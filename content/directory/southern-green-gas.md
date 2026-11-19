@@ -6,6 +6,11 @@ description: "Develops modular, solar-powered direct air capture units using met
 url: "/directory/southern-green-gas/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Southern Green Gas: direct air capture company, Australia | Captain Drawdown"
+lastmod: "2026-10-22"
+company_url: "https://www.southerngreengas.com.au/"
+company_linkedin: "https://www.linkedin.com/company/southern-green-gas/"
+company_country: "Australia"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Stiesdal SkyClean designs and operates 20 MW updraft pyrolysis pla
 url: "/directory/stiesdal/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Stiesdal: biochar division, Denmark | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.stiesdal.com/skyclean/"
+company_linkedin: "https://www.linkedin.com/company/stiesdal/"
+company_country: "Denmark"
 ---
 
 

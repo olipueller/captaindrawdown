@@ -6,6 +6,11 @@ description: "Project development venture/systems integrator aggregating renewab
 url: "/directory/great-carbon-valley/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "Great Carbon Valley: direct air capture company, Kenya | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.greatcarbonvalley.com/"
+company_linkedin: "https://www.linkedin.com/company/great-carbon-valley/"
+company_country: "Kenya"
 ---
 
 

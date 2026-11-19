@@ -6,6 +6,11 @@ description: "Cultivates native diatoms in photobioreactors and releases them in
 url: "/directory/lillianah-technologies/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
+seo_title: "Lillianah Technologies: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.lillianah.com/"
+company_linkedin: "https://www.linkedin.com/company/lillianah-technologies/"
+company_country: "United States"
 ---
 
 

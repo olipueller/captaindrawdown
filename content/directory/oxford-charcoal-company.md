@@ -6,6 +6,11 @@ description: "Operates charcoal kilns that pyrolyze sustainably-sourced British 
 url: "/directory/oxford-charcoal-company/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Oxford Charcoal Company: biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.oxfordcharcoal.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/the-oxford-charcoal-company-ltd/"
+company_country: "United Kingdom"
 ---
 
 

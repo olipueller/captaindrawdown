@@ -6,6 +6,11 @@ description: "Industry alliance/coalition convening CDR developers, researchers,
 url: "/directory/carbon-removal-india-alliance/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Removal India Alliance: CDR enabling technology, India | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.cria.earth/"
+company_linkedin: "https://www.linkedin.com/company/cria-earth/"
+company_country: "India"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Decentralized mid-size pyrolysis plants (>600°C) processing tropi
 url: "/directory/netzero/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "NetZero: biochar company, France | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://netzero.green/en/"
+company_linkedin: "https://www.linkedin.com/company/netzero/"
+company_country: "France"
 ---
 
 
@@ -42,6 +47,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-18** — News: Circle Carbon: Aperam BioEnergia and Circle Carbon partnering to advance circular innovation and... ([source](https://www.linkedin.com/company/circlecarbon/#post-dea2f83e47a1))
 - **2026-10-27** — News: Onnu: We’re pleased to announce that, following a rigorous validation of our CarboFlow technology… ([source](https://www.linkedin.com/company/onnuhq/#post-21cbe8dd2c30))
 - **2026-10-22** — News: Southern Green Gas: Capturing CO2 directly from the atmosphere is a vital step for decarbonising… ([source](https://www.linkedin.com/company/southern-green-gas/#post-dc61a5d1dd94))
 - **2026-10-21** — News: NetZero: Last Friday, NetZero inaugurated its fourth biochar factory. Located in Brazil's largest… ([source](https://www.linkedin.com/company/netzero/#post-41ca1b9d5ca5))
@@ -71,7 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-22** — News: NetZero: We are thrilled to announce the expansion of our operations to sugarcane – a major… ([source](https://www.linkedin.com/company/netzerogreen/#post-414f7da1e205))
 - **2026-07-22** — News: NetZero: We are proud to announce the signature of a MOU with Atvos , one of the largest biofuel… ([source](https://www.linkedin.com/company/netzerogreen/#post-1f61473e373c))
 - **2026-07-22** — News: NetZero: Last Friday, NetZero inaugurated its fourth biochar factory. Located in Brazil's largest… ([source](https://www.linkedin.com/company/netzerogreen/#post-d24bc5388ed6))
-- **2026-07-21** — News: #carbonremoval #cdr #rainbow #dmrv #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7485259060120907776/))
 
 ---
 

@@ -6,6 +6,11 @@ description: "Operates Class VI geologic CO2 sequestration hub in Wyoming, aggre
 url: "/directory/frontier-infrastructure-holdings/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Frontier Infrastructure Holdings: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://frontierholdings.com/"
+company_linkedin: "https://www.linkedin.com/company/frontier-infra-holdings/"
+company_country: "United States"
 ---
 
 

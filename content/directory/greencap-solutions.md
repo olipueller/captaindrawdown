@@ -6,6 +6,11 @@ description: "Patented zeolite solid-sorbent adsorption DAC with physical (non-c
 url: "/directory/greencap-solutions/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "GreenCap Solutions: direct air capture company, Norway | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://greencap-solutions.com/"
+company_linkedin: "https://www.linkedin.com/company/greencap-solutions-as/"
+company_country: "Norway"
 ---
 
 

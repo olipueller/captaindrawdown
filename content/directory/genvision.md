@@ -6,6 +6,11 @@ description: "AI/ML software company providing satellite-based MRV for nature-ba
 url: "/directory/genvision/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Genvision: CDR enabling technology, Belgium | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://genvision.com/"
+company_linkedin: "https://www.linkedin.com/company/genvision-ai/"
+company_country: "Belgium"
 ---
 
 

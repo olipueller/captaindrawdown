@@ -6,6 +6,11 @@ description: "Carbon removal registry and verification platform (Certify) issuin
 url: "/directory/isometric/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Isometric: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://isometric.com/"
+company_linkedin: "https://www.linkedin.com/company/exponential-hq/"
+company_country: "United Kingdom"
 ---
 
 
@@ -34,6 +39,10 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-11-18** — News: Cula: 7,142 credits issued for Graphyte Isometric has certified 7,142 carbon removal certificates... ([source](https://www.linkedin.com/company/cula-technologies/#post-874a534d341b))
+- **2026-11-17** — News: CDRexperts: How close is mineral carbonation (MC) to commercial-scale carbon removal? We checked... ([source](https://www.linkedin.com/company/cdrexperts/#post-b6a69920a794))
+- **2026-11-17** — News: CO2-Sync: https://lnkd.in/grH_sxNf A major milestone for CO2-Sync, Carbo-FORCE—and what we believe... ([source](https://www.linkedin.com/company/co2-sync/#post-7cdf002df5be))
+- **2026-11-17** — News: Corporate Carbon: Isometric has certified the Savanna Fire Management (SFM) Protocol, following a... ([source](https://www.linkedin.com/company/corporate-carbon-advisory-pty-ltd/#post-230b014e2142))
 - **2026-11-13** — News: Isometric’s Lukas May recently joined Gordon Bennett of ICE at the NYSE to discuss what it will... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526956568660062208/))
 - **2026-11-13** — News: Varaha Climate AG: Agnisparsh, our community-led biochar project in Western India, has been... ([source](https://www.linkedin.com/company/meta-carbontech/#post-9e7ad31fd479))
 - **2026-11-13** — News: Bioenergie Frauenfeld: More than 70% of all biochar carbon removal delivered worldwide in… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-542926d6ae99))
@@ -60,10 +69,6 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 - **2026-10-27** — News: Onnu: We’re pleased to announce that, following a rigorous validation of our CarboFlow technology… ([source](https://www.linkedin.com/company/onnuhq/#post-21cbe8dd2c30))
 - **2026-10-26** — News: Offstream: Congratulations to Terraton and EcoFix Kenya Ltd (EFK) on their first carbon removal… ([source](https://www.linkedin.com/company/useoffstream/#post-208cf8b9f2c3))
 - **2026-10-26** — News: Substrate Biochar: BIG NEWS - Charworks 01, our first site in South Africa, is now operational. Our ([source](https://www.linkedin.com/company/substrate-biochar/#post-d0966624a72c))
-- **2026-10-26** — News: Longstraw Carbon: Our 16th newsletter is live- We have news from the fields. In July and August… ([source](https://www.linkedin.com/company/longstraw-carbon/#post-aa05373e1669))
-- **2026-10-25** — News: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident… ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
-- **2026-10-23** — News: Terraton Issues First Verified Biochar Carbon Removal Credits And Signs Agreements Covering Up To… ([source](https://www.ccarbon.info/news/terraton-issues-first-verified-biochar-carbon-removal-credits-and-signs-agreements-covering-up-to-97240-tonnes/))
-- **2026-10-22** — News: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits… ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))
 
 ---
 

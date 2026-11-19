@@ -6,6 +6,11 @@ description: "Small-scale pyrolysis of locally sourced waste wood into biochar, 
 url: "/directory/green-state-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Green State Biochar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://greenstatebiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/green-state-biochar/"
+company_country: "United States"
 ---
 
 

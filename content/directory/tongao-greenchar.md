@@ -6,6 +6,9 @@ description: "Pyrolyzes agricultural and forestry residues into durable biochar,
 url: "/directory/tongao-greenchar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Tongao Greenchar: biochar company, China | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "China"
 ---
 
 

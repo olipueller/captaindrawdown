@@ -6,6 +6,11 @@ description: "Prospective biochar production from agricultural residues in Ghana
 url: "/directory/sanbra-foods/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Sanbra Foods: biochar as a side business, Ghana | Captain Drawdown"
+lastmod: "2026-10-13"
+company_url: "https://sanbrafoods-ghana.com/"
+company_linkedin: "https://www.linkedin.com/company/sanbrafoods/"
+company_country: "Ghana"
 ---
 
 

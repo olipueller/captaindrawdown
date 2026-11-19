@@ -6,6 +6,11 @@ description: "Solar-powered autonomous marine robots (AlgaRay) that collect floa
 url: "/directory/seagen/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "SeaGen: ocean CDR company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.seagen.io/"
+company_linkedin: "https://www.linkedin.com/company/seaweed-generation/"
+company_country: "United Kingdom"
 ---
 
 

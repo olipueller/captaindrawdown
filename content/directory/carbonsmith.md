@@ -6,6 +6,11 @@ description: "Runs an online, data-driven marketplace for buying and selling car
 url: "/directory/carbonsmith/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Carbonsmith: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carbonsmith.io/"
+company_linkedin: "https://www.linkedin.com/company/carbonsmith/"
+company_country: "United States"
 ---
 
 

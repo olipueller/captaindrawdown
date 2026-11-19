@@ -6,6 +6,11 @@ description: "Converts agricultural crop residues (stubble) in South Asia into b
 url: "/directory/onepoint5/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "OnePoint5: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.onepoint5.org/"
+company_linkedin: "https://www.linkedin.com/company/onepoint5-climate-tech/"
+company_country: "India"
 ---
 
 

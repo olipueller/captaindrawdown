@@ -6,6 +6,11 @@ description: "Cultivates microalgae in photobioreactors using sunlight, then bur
 url: "/directory/arrhenius/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Arrhenius: biomass burial company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://arrhenius.com/"
+company_linkedin: "https://www.linkedin.com/company/arrhenius-ag/"
+company_country: "Switzerland"
 ---
 
 

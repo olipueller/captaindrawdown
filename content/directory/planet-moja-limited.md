@@ -6,6 +6,11 @@ description: "Carbon credit broker/curator offering portfolios of verified avoid
 url: "/directory/planet-moja-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Planet Moja Limited: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://planetmoja.com/"
+company_linkedin: "https://www.linkedin.com/company/planet-moja/"
+company_country: "United Kingdom"
 ---
 
 

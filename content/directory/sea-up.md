@@ -6,6 +6,11 @@ description: "Deploys wave-energy-powered artificial upwelling pumps with 200-60
 url: "/directory/sea-up/"
 pathway: "Ocean CDR"
 liveliness: "🔴 Likely Dead"
+seo_title: "Sea-Up: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.sea-up.life/"
+company_linkedin: "https://www.linkedin.com/company/the-sea-upwelling-company/"
+company_country: "United States"
 ---
 
 

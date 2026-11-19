@@ -6,6 +6,11 @@ description: "Pyrolyzes biogenic residues (wood, grape pomace, miscanthus, urban
 url: "/directory/swiss-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Swiss Biochar: biochar company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.swiss-biochar.com/"
+company_linkedin: "https://www.linkedin.com/company/swissbiochar/"
+company_country: "Switzerland"
 ---
 
 

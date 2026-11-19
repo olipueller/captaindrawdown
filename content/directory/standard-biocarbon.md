@@ -6,6 +6,11 @@ description: "Pyreg-technology pyrolysis of softwood sawmill residuals into high
 url: "/directory/standard-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Standard Biocarbon: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.standardbiocarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/standardbiocarbon/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops Ocean Alkalinity Enhancement (OAE) projects for verifiabl
 url: "/directory/nuwa-solutions/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
+seo_title: "NuWa Solutions: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.nuwasolutions.org/"
+company_linkedin: "https://www.linkedin.com/company/nuwasolutions/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Converts sawmill wood residues into biochar via pyrolysis in South
 url: "/directory/renuearth/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "renu.earth: biochar company, United States | Captain Drawdown"
+lastmod: "2026-05-01"
+company_url: "https://renu.earth/"
+company_linkedin: "https://www.linkedin.com/company/renu-earth/"
+company_country: "United States"
 ---
 
 

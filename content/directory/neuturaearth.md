@@ -6,6 +6,11 @@ description: "Pyrolyzes palm oil empty fruit bunches (EFB) and other agri-waste 
 url: "/directory/neuturaearth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Neutura.Earth: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://neutura.earth/"
+company_linkedin: "https://www.linkedin.com/company/neutura-earth/"
+company_country: "Singapore"
 ---
 
 

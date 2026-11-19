@@ -6,6 +6,11 @@ description: "Submersible seaweed cultivation platforms with renewable-powered d
 url: "/directory/marine-permaculture-by-climate-foundation/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Marine Permaculture by Climate Foundation: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.climatefoundation.org/"
+company_linkedin: "https://www.linkedin.com/company/climate-foundation/"
+company_country: "United States"
 ---
 
 

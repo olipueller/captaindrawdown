@@ -6,6 +6,11 @@ description: "Electrochemical cell installed on seawater-cooled power plants tha
 url: "/directory/ceal/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Ceal: mineralization company, Israel | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ceal.earth/"
+company_linkedin: "https://www.linkedin.com/company/ceal-minerals/"
+company_country: "Israel"
 ---
 
 

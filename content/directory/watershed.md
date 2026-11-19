@@ -6,6 +6,11 @@ description: "Enterprise carbon accounting/reporting SaaS combined with a curate
 url: "/directory/watershed/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Watershed: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-29"
+company_url: "https://watershed.com/"
+company_linkedin: "https://www.linkedin.com/company/watershedclimate/"
+company_country: "United States"
 ---
 
 

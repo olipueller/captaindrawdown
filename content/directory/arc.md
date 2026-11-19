@@ -6,6 +6,10 @@ description: "Amine/solvent-based post-combustion carbon capture retrofit on the
 url: "/directory/arc/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "ARC: BECCS as a side business, Denmark | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://a-r-c.dk/"
+company_country: "Denmark"
 ---
 
 

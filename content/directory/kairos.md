@@ -6,6 +6,11 @@ description: "Uses a self-sustaining supercritical water oxidation reactor to ox
 url: "/directory/kairos/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Kairos: BECCS company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.kairoscarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/kairos-carbon/"
+company_country: "United Kingdom"
 ---
 
 

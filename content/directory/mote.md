@@ -6,6 +6,11 @@ description: "Gasifies woody waste into clean hydrogen while capturing and perma
 url: "/directory/mote/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Mote: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.motehydrogen.com/"
+company_linkedin: "https://www.linkedin.com/company/motehydrogen/"
+company_country: "United States"
 ---
 
 

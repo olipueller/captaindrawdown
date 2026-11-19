@@ -6,6 +6,11 @@ description: "Operates controlled gasification units that convert cashew shell w
 url: "/directory/revata-carbon-pte-ltd/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Revata Carbon PTE LTD: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://revatacarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/revatacarbon/"
+company_country: "Singapore"
 ---
 
 

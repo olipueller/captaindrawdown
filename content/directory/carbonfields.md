@@ -6,6 +6,11 @@ description: "Converts agricultural/biomass waste into biochar and bioproducts v
 url: "/directory/carbonfields/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CarbonFields: biochar company, Spain | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonfields.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbon-fields/"
+company_country: "Spain"
 ---
 
 

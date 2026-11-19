@@ -6,6 +6,11 @@ description: "Non-profit accelerator program offering coaching, purchase agreeme
 url: "/directory/remove/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "remove: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://remove.global/"
+company_linkedin: "https://www.linkedin.com/company/remove-accelerator/"
+company_country: "Netherlands"
 ---
 
 
@@ -30,6 +35,15 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-11-19** — News: Remove Carbon Today: Remove Carbon Today celebrates its first year with 344 tonnes of CDR retired.... ([source](https://www.linkedin.com/company/remove-carbon-today/#post-05889156d5af))
+- **2026-11-19** — News: Peatland Code Carbon Units UK | ActivoGo ([source](https://www.activogo.com/carbon-offset/carbon-offsets/uk-peatland-carbon-units/))
+- **2026-11-18** — News: Carbon180 Advances Climate Action with Federal Policy Wins, Community Partnerships, and New Carbon... ([source](https://www.financialcontent.com/article/gnwcq-2026-11-18-carbon180-advances-climate-action-with-federal-policy-wins-community-partnerships-and-new-carbon-removal-frameworks))
+- **2026-11-18** — News: COP31 must not lead to marine geoengineering, ocean advocates say ([source](https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/))
+- **2026-11-18** — News: Explore carbon removal for individuals | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528754606533677057/))
+- **2026-11-18** — News: Jonathan doubles down on the linear model: If only, if only people KNEW novel carbon removal is... ([source](https://bsky.app/profile/richardtol.bsky.social/post/3n2l2i5ti222b))
+- **2026-11-18** — News: Frontier Climate: Frontier buyers signed $11.7M in offtake agreements with 44.01 to remove 20,932... ([source](https://www.linkedin.com/company/frontierclimate/#post-911cbddddbf3))
+- **2026-11-17** — News: Enhanced Rock Weathering: Can Rock Dust on Farms Remove CO2? ([source](https://scibeat.com/articles/rock-dust-on-farmland-could-pull-billions-of-tons-of-co2-but-the-money-is-ahead))
+- **2026-11-17** — News: Dark Earth - ARS facility - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/dark-earth-ars-facility/))
 - **2026-11-16** — News: Carbon dioxide removal and environmental impacts from the suspended sediment fraction of a... ([source](https://cdrxiv.org/preprint/585))
 - **2026-11-16** — News: Introducing Pace of Change 2026: our annual report on the CSRD climate statements of the Fortune... ([source](https://www.senken.io/blog/pace-of-change-2026))
 - **2026-11-16** — News: UN climate talks hear calls for efforts to remove carbon directly from the atmosphere ([source](https://www.irishexaminer.com/world/arid-41938098.html))
@@ -51,15 +65,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 - **2026-11-07** — News: This new concrete is stronger and pulls CO2 from the air | ScienceDaily ([source](https://www.sciencedaily.com/releases/2026/09/260921081105.htm))
 - **2026-11-06** — News: Sunlight-powered technology aims to remove carbon dioxide from the atmosphere - Caribbean... ([source](https://www.cbc.bb/main-stories/sunlight-powered-technology-aims-to-remove-carbon-dioxide-from-the-atmosphere/))
 - **2026-11-06** — News: Enhanced weathering in China’s acidic rice fields offers potential agronomic co-benefits ([source](https://cdrxiv.org/preprint/583))
-- **2026-11-06** — News: !!Carbon removal has a new route to EU funding!! For the first time ever, carbon removal is a... ([source](https://www.linkedin.com/feed/update/urn:li:share:7524433512209534977/))
-- **2026-11-06** — News: Reposit Carbon: Canada's carbon removal sector is building, but not fast enough. Our new report... ([source](https://www.linkedin.com/company/reposit-carbon/#post-2f94eecc49b6))
-- **2026-11-06** — News: Heirloom: ETH: How cement plants can remove CO2 from the atmosphere ETH Zürich researchers show... ([source](https://www.linkedin.com/company/heirloom-carbon/#post-9be40016ce85))
-- **2026-11-05** — News: Evaneos will invest more than one million in cutting emissions | Demócrata ([source](https://www.democrata.es/en/economy/evaneos-will-allocate-more-than-one-million-euros-until-2030-to-reduce-emissions-from-its-tourism-activity/))
-- **2026-11-05** — News: Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits… ([source](https://doi.org/10.70212/cdrxiv.2026570.v1))
-- **2026-11-05** — News: Clean the Sky - National Removal Planning Tools ([source](https://www.cleanthesky.com/innovation/carbon-gap))
-- **2026-11-03** — News: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
-- **2026-11-02** — News: Biochar Life Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/biocharlife))
-- **2026-10-31** — News: COP31 could broach carbon removals following UN declaration of 1.5C overshoot, says Oxford academic ([source](https://carbon-pulse.com/566164/))
 
 ---
 

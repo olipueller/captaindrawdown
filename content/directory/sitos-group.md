@@ -6,6 +6,11 @@ description: "Slow-pyrolysis biochar production using agricultural residues (alm
 url: "/directory/sitos-group/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Sitos Group: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.sitos.earth/"
+company_linkedin: "https://www.linkedin.com/company/sitos-group/"
+company_country: "United States"
 ---
 
 
@@ -38,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: Sitos Group: A major milestone for the Sitos–Treehouse biochar project! The Sitos–Treehouse... ([source](https://www.linkedin.com/company/sitos-group/#post-05d668f9f921))
 - **2026-11-02** — News: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for… ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
 - **2026-10-20** — News: Treehouse California Almonds Partners with Sitos Group to Launch State-of-the-Art Slow Pyrolysis… ([source](https://perishablenews.com/produce/treehouse-california-almonds-partners-with-sitos-group-to-launch-state-of-the-art-slow-pyrolysis-biochar-facility/))
 - **2026-10-19** — News: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano, ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))

@@ -6,6 +6,11 @@ description: "Decentralized smallholder biochar production using low-tech Kon-Ti
 url: "/directory/kalp-climate-tech/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Kalp Climate Tech: biochar company, India | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.krishecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/krishe-carbon/"
+company_country: "India"
 ---
 
 

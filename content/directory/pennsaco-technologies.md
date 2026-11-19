@@ -6,6 +6,10 @@ description: "Patented thermal conversion / gasification of biomass, plastic, an
 url: "/directory/pennsaco-technologies/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "PENNSACO TECHNOLOGIES: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://pennsaco.com/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Accelerated ex-situ carbonation of alkaline industrial residues (s
 url: "/directory/sequestra/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Sequestra: mineralization company, Austria | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://sequestra.tech/"
+company_linkedin: "https://www.linkedin.com/company/sequestra-tech/"
+company_country: "Austria"
 ---
 
 

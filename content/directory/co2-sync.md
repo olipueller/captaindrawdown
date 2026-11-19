@@ -6,6 +6,10 @@ description: "Uses a German Carbo-FORCE pyrolysis unit to turn forest biomass (b
 url: "/directory/co2-sync/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "CO2-Sync: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-17"
+company_linkedin: "https://www.linkedin.com/company/co2-sync/"
+company_country: "United States"
 ---
 
 
@@ -26,6 +30,7 @@ CO2-Sync is a biochar producer based in Utah's Wasatch Back and led by CEO Darre
 
 ## History
 
+- **2026-11-17** — News: CO2-Sync: https://lnkd.in/grH_sxNf A major milestone for CO2-Sync, Carbo-FORCE—and what we believe... ([source](https://www.linkedin.com/company/co2-sync/#post-7cdf002df5be))
 - **2026-11-16** — Status Active → Moderate
 - **2026-11-16** — Classified as Biochar, supplier, 🟢 Active ([source](https://carbonherald.com/co2-sync-officially-launches-new-biochar-clean-energy-plant-in-utah/))
 - **2026-11-16** — Added to the directory ([source](https://www.linkedin.com/company/carbo-force/))

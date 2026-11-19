@@ -6,6 +6,11 @@ description: "Electrochemical salt-splitting cell (\"electrosynthesizer\") that 
 url: "/directory/edac-labs/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "EDAC Labs: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://edaclabs.com/"
+company_linkedin: "https://www.linkedin.com/company/edac-labs/"
+company_country: "United States"
 ---
 
 

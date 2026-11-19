@@ -6,6 +6,11 @@ description: "Electrochemical direct air capture integrated with water electroly
 url: "/directory/parallel-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Parallel Carbon: direct air capture company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-10"
+company_url: "https://www.parallelcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/parallel-carbon/"
+company_country: "United Kingdom"
 ---
 
 

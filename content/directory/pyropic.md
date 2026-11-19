@@ -6,6 +6,10 @@ description: "Pyropic designs and builds turn-key pyrolysis systems that convert
 url: "/directory/pyropic/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Pyropic: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://pyropic.com"
+company_country: "United States"
 ---
 
 

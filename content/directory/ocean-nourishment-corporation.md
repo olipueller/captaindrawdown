@@ -6,6 +6,11 @@ description: "Develops ocean fertilization technology using a proprietary macron
 url: "/directory/ocean-nourishment-corporation/"
 pathway: "Ocean CDR"
 liveliness: "🔴 Likely Dead"
+seo_title: "Ocean Nourishment Corporation: ocean CDR company, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.oceannourishment.com/"
+company_linkedin: "https://www.linkedin.com/company/ocean-nourishment-corporation/"
+company_country: "Australia"
 ---
 
 

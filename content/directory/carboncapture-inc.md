@@ -6,6 +6,11 @@ description: "Designs modular solid-sorbent direct air capture systems (Leo Seri
 url: "/directory/carboncapture-inc/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "CarbonCapture Inc.: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carboncapture.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-capture-inc/"
+company_country: "United States"
 ---
 
 

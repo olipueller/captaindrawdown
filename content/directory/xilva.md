@@ -6,6 +6,11 @@ description: "Digital due-diligence, rating and risk-monitoring platform (GRADE/
 url: "/directory/xilva/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Xilva: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://xilva.global/"
+company_linkedin: "https://www.linkedin.com/company/xilva/"
+company_country: "Switzerland"
 ---
 
 

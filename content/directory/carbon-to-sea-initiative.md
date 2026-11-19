@@ -6,6 +6,11 @@ description: "Non-profit philanthropic initiative that funds scientific research
 url: "/directory/carbon-to-sea-initiative/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Carbon to Sea Initiative: ocean CDR ecosystem company, United States | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://carbontosea.org/"
+company_linkedin: "https://www.linkedin.com/company/carbontosea/"
+company_country: "United States"
 ---
 
 
@@ -31,6 +36,7 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 
 ## History
 
+- **2026-11-17** — News: Is Anthropogenic Climate Change Reversible? Results from CDRMIP on transient Earth system response... ([source](https://doi.org/10.5194/egusphere-2026-5520))
 - **2026-11-16** — News: Submarine Scientific: We’re excited to announce the launch of the OAE Data Commons, developed by... ([source](https://www.linkedin.com/company/submarinescientific/#post-a8135d664b19))
 - **2026-11-11** — News: 154th Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/154th-edition))
 - **2026-11-09** — News: Limenet: On October 6, the OAE Data Commons officially went live, and Limenet is part of it.... ([source](https://www.linkedin.com/company/limenet-tech/#post-9aab59545724))
@@ -60,7 +66,6 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 - **2026-07-29** — News: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions… ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
 - **2026-07-23** — News: Carbon to Sea Initiative: A new paper featuring Carbon to Sea co-authors has been published on… ([source](https://www.linkedin.com/company/carbontosea/#post-02ef9501f0cb))
 - **2026-07-23** — News: Carbon to Sea Initiative: Today at the 11th Our Ocean Conference in Kenya, Carbon to Sea… ([source](https://www.linkedin.com/company/carbontosea/#post-3bdae23ae046))
-- **2026-05-06** — News: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
 
 ---
 

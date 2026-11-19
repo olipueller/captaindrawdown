@@ -6,6 +6,11 @@ description: "Uses microalgae in solar-powered pods to treat polluted water and 
 url: "/directory/airbuild/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Airbuild: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-03"
+company_url: "https://www.airbuildinc.com/"
+company_linkedin: "https://www.linkedin.com/company/airbuild/"
+company_country: "United States"
 ---
 
 

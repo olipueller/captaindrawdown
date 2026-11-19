@@ -6,6 +6,10 @@ description: "Pyrolysis of forestry and industrial wood residues into biocarbon 
 url: "/directory/climatecarbon/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "ClimateCarbon: biochar division, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.climatecarbon.de/"
+company_country: "Germany"
 ---
 
 

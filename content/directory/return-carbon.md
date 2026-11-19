@@ -6,6 +6,11 @@ description: "Project developer that integrates partner DAC/mineralization tech 
 url: "/directory/return-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Return Carbon: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-09-29"
+company_url: "https://returncarbon.nl/"
+company_linkedin: "https://www.linkedin.com/company/returncarbon/"
+company_country: "Netherlands"
 ---
 
 

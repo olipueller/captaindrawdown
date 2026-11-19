@@ -6,6 +6,11 @@ description: "Climate Vault Solutions is a Chicago-based CDR portfolio manager a
 url: "/directory/climate-vault-solutions/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Climate Vault Solutions: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://climatevault.com"
+company_linkedin: "https://www.linkedin.com/company/climatevault/"
+company_country: "United States"
 ---
 
 

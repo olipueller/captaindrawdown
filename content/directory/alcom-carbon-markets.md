@@ -6,6 +6,11 @@ description: "Operates rice-husk pyrolysis/gasification plants in the Philippine
 url: "/directory/alcom-carbon-markets/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Alcom Carbon Markets: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://alcomcm.com"
+company_linkedin: "https://www.linkedin.com/company/alcom-pte-ltd/"
+company_country: "Singapore"
 ---
 
 

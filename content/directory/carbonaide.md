@@ -6,6 +6,11 @@ description: "Ex-situ CO₂ curing process that mineralizes biogenic CO₂ into 
 url: "/directory/carbonaide/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carbonaide: mineralization company, Finland | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://carbonaide.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonaide/"
+company_country: "Finland"
 ---
 
 
@@ -34,6 +39,7 @@ Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-sit
 
 ## History
 
+- **2026-11-17** — News: Carbonaide: What better time to get selected for EIC Accelerator funding than the day before... ([source](https://www.linkedin.com/company/carbonaide/#post-bcbdf8eb8349))
 - **2026-10-17** — News: Carbonaide: Vuonna 2027 kaikki Rakennusbetonin pihakivet ja harkot valmistetaan hyödyntäen… ([source](https://www.linkedin.com/company/carbonaide/#post-3dac8ced84dd))
 - **2026-07-26** — News: Carbonway: [Communiqué de presse FR] - Carbonaide et Carbonway ont conclu un partenariat pour… ([source](https://www.linkedin.com/company/carbonwayorg/#post-588f6dc5efd3))
 - **2026-04-19** — Classified as Mineralization, supplier, 🟢 Active ([source](https://carbonaide.com/news-en/finnish-concrete-producer-lakka-adopts-carbonaides-technology/))

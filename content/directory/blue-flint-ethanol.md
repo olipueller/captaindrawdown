@@ -6,6 +6,11 @@ description: "Corn ethanol plant captures biogenic CO2 from fermentation, liquef
 url: "/directory/blue-flint-ethanol/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Blue Flint Ethanol: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://harvestonelcp.com/fccp-blue-flint-19634"
+company_linkedin: "https://www.linkedin.com/company/harvestonelcp/"
+company_country: "United States"
 ---
 
 

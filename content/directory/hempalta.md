@@ -6,6 +6,11 @@ description: "Generates carbon removal credits by combining industrial hemp cult
 url: "/directory/hempalta/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "HEMPALTA: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.hempalta.com/"
+company_linkedin: "https://www.linkedin.com/company/hemp-alta/"
+company_country: "Canada"
 ---
 
 

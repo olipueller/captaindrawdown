@@ -6,6 +6,11 @@ description: "Tech-agnostic project developer that captures biogenic CO2 from bi
 url: "/directory/carbonway/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carbonway: mineralization company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonway.org/"
+company_linkedin: "https://www.linkedin.com/company/carbonwayorg/"
+company_country: "France"
 ---
 
 

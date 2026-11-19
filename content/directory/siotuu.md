@@ -6,6 +6,10 @@ description: "Pyrolyzes residual Alpine wood via Syncraft technology to co-produ
 url: "/directory/siotuu/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "SIOTUU: biochar company, Austria | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://siotuu.com/en/home-e/"
+company_country: "Austria"
 ---
 
 

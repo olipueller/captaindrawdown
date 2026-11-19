@@ -6,6 +6,11 @@ description: "Mati spreads crushed basalt on smallholder farmland so that atmosp
 url: "/directory/mati/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Mati: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.mati.earth/"
+company_linkedin: "https://www.linkedin.com/company/maticarbonremovals/"
+company_country: "United States"
 ---
 
 
@@ -38,6 +43,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-19** — News: MATI-Associate – HR Compliance &amp; Payroll | Mati Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7529116776316551168/))
+- **2026-11-19** — News: MATI-Senior Accountant – Accounts &amp; Finance | Mati Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7529120241797488640/))
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
+- **2026-11-18** — News: ERW-Joint-Press-Release.pdf | Mati Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528749904085630978/))
 - **2026-11-16** — News: MATI, from the field - Hiralal Baghel describes the changes in his soil, his harvest and his input... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528076545517793285/))
 - **2026-11-16** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://carbonherald.com/cop31-mati-and-iita-to-generate-erw-performace-evidence-in-africa/))
 - **2026-11-16** — Classified as Enhanced Weathering, supplier, 🟢 Active ([source](https://en.wikipedia.org/wiki/Mati_Carbon))

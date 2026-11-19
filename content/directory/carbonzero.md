@@ -6,6 +6,11 @@ description: "Pyrolyzes almond-shell agricultural waste into biochar that is mix
 url: "/directory/carbonzero/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CarbonZero: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonzero.eco/"
+company_linkedin: "https://www.linkedin.com/company/carbonzero-eco/"
+company_country: "United States"
 ---
 
 

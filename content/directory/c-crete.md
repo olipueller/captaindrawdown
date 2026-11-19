@@ -6,6 +6,11 @@ description: "C-Crete makes a Portland-cement-free concrete binder from non-carb
 url: "/directory/c-crete/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "C-Crete: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://ccretetech.com/"
+company_linkedin: "https://www.linkedin.com/company/c_crete-technologies-llc/"
+company_country: "United States"
 ---
 
 

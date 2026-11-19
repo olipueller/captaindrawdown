@@ -6,6 +6,11 @@ description: "Digital marketplace/engagement platform that curates vetted CDR an
 url: "/directory/pinwheel-messier-holdings-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Pinwheel (Messier Holdings Limited): CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.pinwheel.earth/"
+company_linkedin: "https://www.linkedin.com/company/pinwheelworld/"
+company_country: "United Kingdom"
 ---
 
 

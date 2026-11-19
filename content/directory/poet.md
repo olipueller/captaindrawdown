@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from corn-ethanol fermentation at its biopro
 url: "/directory/poet/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "POET: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://poet.com/"
+company_linkedin: "https://www.linkedin.com/company/poet/"
+company_country: "United States"
 ---
 
 

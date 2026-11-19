@@ -6,6 +6,11 @@ description: "Broker/retailer of BECCS-derived Carbon Removal Certificates sourc
 url: "/directory/catch-23/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Catch 23: BECCS ecosystem company, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://catch23.se/"
+company_linkedin: "https://www.linkedin.com/company/catch-23se/"
+company_country: "Sweden"
 ---
 
 

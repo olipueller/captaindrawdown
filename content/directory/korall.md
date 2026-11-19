@@ -6,6 +6,11 @@ description: "Liquid-solvent Direct Air Capture with dynamically scalable power 
 url: "/directory/korall/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "KORALL: direct air capture company, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.korall.cc/"
+company_linkedin: "https://www.linkedin.com/company/korallcc/"
+company_country: "Sweden"
 ---
 
 

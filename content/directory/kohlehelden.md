@@ -6,6 +6,10 @@ description: "Operates a BIOMACON pyrolysis unit converting regional wood chips 
 url: "/directory/kohlehelden/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "KohleHelden: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://kohlehelden.de/"
+company_country: "Germany"
 ---
 
 

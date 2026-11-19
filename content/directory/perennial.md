@@ -6,6 +6,11 @@ description: "Digital soil mapping MRV platform combining satellite remote sensi
 url: "/directory/perennial/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Perennial: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-21"
+company_url: "https://www.perennial.earth/"
+company_linkedin: "https://www.linkedin.com/company/perennial-earth/"
+company_country: "United States"
 ---
 
 

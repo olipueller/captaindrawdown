@@ -6,6 +6,11 @@ description: "Carbon credit retailer/broker that vets and bundles third-party of
 url: "/directory/compensate/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Compensate: CDR enabling technology, Finland | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.compensate.com/"
+company_linkedin: "https://www.linkedin.com/company/compensate-foundation/"
+company_country: "Finland"
 ---
 
 
@@ -31,6 +36,7 @@ Compensate is a Helsinki-based carbon offset broker/retailer that curates a port
 
 ## History
 
+- **2026-11-17** — News: Ocean liming in climate overshoot: coupling with international shipping and peak temperature… ([source](https://doi.org/10.5281/zenodo.24156666))
 - **2026-10-24** — News: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency… ([source](https://doi.org/10.5194/egusphere-2026-5784))
 - **2026-10-14** — News: Can Seaweed Farming Compensate for Kelp Forest Losses? ([source](https://biochartoday.com/news/university-of-western-australia-and-bedford-institute-of-oceanography-researchers-evaluate-seaweed-carbon-removal-limits-against-climate-driven-kelp-loss/))
 - **2026-10-09** — News: Consulting local communities and scientific experts in the planning of projects was the strongest ([source](https://bsky.app/profile/liviafritz.bsky.social/post/3mxgof7dtus2w))

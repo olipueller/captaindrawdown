@@ -6,6 +6,10 @@ description: "Concept-stage passive direct air capture pods combining a propriet
 url: "/directory/sosna-metelyk/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Sosna Metelyk: direct air capture company, Ukraine | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://sosnametelyk.com/"
+company_country: "Ukraine"
 ---
 
 

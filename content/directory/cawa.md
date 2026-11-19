@@ -6,6 +6,11 @@ description: "API-based carbon credit marketplace/broker connecting corporate bu
 url: "/directory/cawa/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CAWA: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.cawa.tech/"
+company_linkedin: "https://www.linkedin.com/company/cawa-tech/"
+company_country: "Netherlands"
 ---
 
 

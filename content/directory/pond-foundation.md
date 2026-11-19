@@ -6,6 +6,11 @@ description: "Non-profit providing GHG accounting/advisory services and a transp
 url: "/directory/pond-foundation/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Pond Foundation: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.pond.foundation/"
+company_linkedin: "https://www.linkedin.com/company/my-carbon-zero/"
+company_country: "Switzerland"
 ---
 
 

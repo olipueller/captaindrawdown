@@ -6,6 +6,11 @@ description: "Modular solid-sorbent Direct Air Capture units, powered by renewab
 url: "/directory/sirona-technologies/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Sirona Technologies: direct air capture company, Belgium | Captain Drawdown"
+lastmod: "2026-10-30"
+company_url: "https://www.sirona.tech/"
+company_linkedin: "https://www.linkedin.com/company/sirona-technologies/"
+company_country: "Belgium"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops MOF-based solid sorbent Direct Air Capture in modular con
 url: "/directory/stathmos/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Stathmos: direct air capture company, France | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://stathmos.earth/"
+company_linkedin: "https://www.linkedin.com/company/stathmos-balance-the-climate/"
+company_country: "France"
 ---
 
 

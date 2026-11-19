@@ -6,6 +6,11 @@ description: "Climate consultancy and carbon credit broker that originates, mana
 url: "/directory/3degrees/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "3Degrees: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-24"
+company_url: "https://3degreesinc.com/"
+company_linkedin: "https://www.linkedin.com/company/3degrees/"
+company_country: "United States"
 ---
 
 

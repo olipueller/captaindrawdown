@@ -6,6 +6,11 @@ description: "Pyrolyzes agricultural residues (rice husks) into biochar at an in
 url: "/directory/scg-cement/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "SCG Cement: biochar as a side business, Thailand | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/"
+company_linkedin: "https://www.linkedin.com/company/scg-international/"
+company_country: "Thailand"
 ---
 
 

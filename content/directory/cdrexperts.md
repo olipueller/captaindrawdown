@@ -6,6 +6,11 @@ description: "Consultancy offering CDR R&D, project management, carbon-credit ce
 url: "/directory/cdrexperts/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CDRexperts: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://cdrexperts.earth/"
+company_linkedin: "https://www.linkedin.com/company/cdrexperts/"
+company_country: "Germany"
 ---
 
 
@@ -33,6 +38,7 @@ CDRexperts is a Bremen-based carbon dioxide removal consultancy led by geochemis
 
 ## History
 
+- **2026-11-17** — News: CDRexperts: How close is mineral carbonation (MC) to commercial-scale carbon removal? We checked... ([source](https://www.linkedin.com/company/cdrexperts/#post-b6a69920a794))
 - **2026-11-16** — Status Moderate → Active ([source](https://cdrexperts.com/))
 - **2026-11-16** — Classified as Enabling Tech, ecosystem, 🟡 Moderate ([source](https://cdrexperts.org/))
 - **2026-11-16** — Reactivated: website reachable again

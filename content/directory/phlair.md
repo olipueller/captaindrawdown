@@ -6,6 +6,11 @@ description: "Electrochemical pH-swing DAC using a hydrolyzer to generate acid/b
 url: "/directory/phlair/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Phlair: direct air capture company, Germany | Captain Drawdown"
+lastmod: "2026-09-17"
+company_url: "https://phlair.com/"
+company_linkedin: "https://www.linkedin.com/company/phlair/"
+company_country: "Germany"
 ---
 
 

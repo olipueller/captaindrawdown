@@ -6,6 +6,11 @@ description: "Solid-sorbent DAC using microporous zeolite molecular sieves; CO2 
 url: "/directory/removr/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Removr: direct air capture company, Norway | Captain Drawdown"
+lastmod: "2026-09-28"
+company_url: "https://www.removr.com/"
+company_linkedin: "https://www.linkedin.com/company/removr/"
+company_country: "Norway"
 ---
 
 

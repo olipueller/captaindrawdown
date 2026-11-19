@@ -6,6 +6,11 @@ description: "Pyrolyzes regional forestry wood residues into EBC-certified bioch
 url: "/directory/eoc-energy-ocean/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "eoc energy ocean: biochar company, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://energyocean.ch/"
+company_linkedin: "https://www.linkedin.com/company/eoc-energy-ocean-gmbh/"
+company_country: "Switzerland"
 ---
 
 

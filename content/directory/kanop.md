@@ -6,6 +6,11 @@ description: "AI + satellite (optical/SAR/LiDAR) MRV platform for nature-based c
 url: "/directory/kanop/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Kanop: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.kanop.io/"
+company_linkedin: "https://www.linkedin.com/company/kanop/"
+company_country: "France"
 ---
 
 

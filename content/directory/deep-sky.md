@@ -6,6 +6,11 @@ description: "Tech-agnostic DAC-to-storage project developer aggregating multipl
 url: "/directory/deep-sky/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Deep Sky: direct air capture company, Canada | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.deepskyclimate.com/"
+company_linkedin: "https://www.linkedin.com/company/deep-sky-climate/"
+company_country: "Canada"
 ---
 
 
@@ -44,6 +49,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-16** — News: Carbon capture makes bold new moves In Central Alberta town - The Albertan News ([source](https://www.thealbertan.com/innisfail-news/deep-sky-alpha-makes-bold-new-carbon-capture-moves-in-innisfail-12985599))
 - **2026-11-16** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.... ([source](https://www.linkedin.com/company/dacworx/#post-0c4824587573))
 - **2026-11-13** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on... ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-3298dc86737b))
 - **2026-11-04** — News: Deep Sky Alpha (Innisfail, Alberta) — 3k t/yr · dac ([source](https://www.rbc.com/en/thought-leadership/ai-technology-and-innovation/clear-skies-direct-air-capture-and-canadas-advantage))
@@ -73,7 +79,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-10** — News: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
 - **2026-08-06** — News: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important… ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
 - **2026-08-03** — News: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
-- **2026-08-03** — News: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon.… ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
 
 ---
 

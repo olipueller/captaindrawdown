@@ -6,6 +6,11 @@ description: "Spreads waste basalt rock dust from Rajmahal Traps on tea and rice
 url: "/directory/alt-carbon/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Alt Carbon: enhanced weathering company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://altcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/alt-carbon/"
+company_country: "India"
 ---
 
 

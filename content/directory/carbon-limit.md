@@ -6,6 +6,11 @@ description: "Powder additive (blend of active minerals + reactive catalyst) add
 url: "/directory/carbon-limit/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Carbon Limit: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbonlimit.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonlimit/"
+company_country: "United States"
 ---
 
 

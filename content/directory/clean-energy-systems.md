@@ -6,6 +6,11 @@ description: "CES develops oxy-fuel combustion systems based on rocket-engine te
 url: "/directory/clean-energy-systems/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Clean Energy Systems: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.cleanenergysystems.com/"
+company_linkedin: "https://www.linkedin.com/company/parimal-clean-energy-systems/"
+company_country: "United States"
 ---
 
 

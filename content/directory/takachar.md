@@ -6,6 +6,11 @@ description: "Portable, tractor/truck-mounted oxygen-lean torrefaction/pyrolysis
 url: "/directory/takachar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Takachar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-17"
+company_url: "https://takachar.com/"
+company_linkedin: "https://www.linkedin.com/company/takachar/"
+company_country: "United States"
 ---
 
 

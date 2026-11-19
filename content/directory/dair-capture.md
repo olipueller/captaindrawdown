@@ -6,6 +6,11 @@ description: "Sorbent-based direct air capture technology originally developed a
 url: "/directory/dair-capture/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Dair Capture: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://daircapture.com/"
+company_linkedin: "https://www.linkedin.com/company/dair-capture/"
+company_country: "United States"
 ---
 
 

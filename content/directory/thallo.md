@@ -6,6 +6,11 @@ description: "Blockchain-based carbon credit marketplace and API for buying, sel
 url: "/directory/thallo/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Thallo: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.thallo.io/"
+company_linkedin: "https://www.linkedin.com/company/thallo-io/"
+company_country: "United Kingdom"
 ---
 
 

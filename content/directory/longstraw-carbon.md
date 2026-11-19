@@ -6,6 +6,11 @@ description: "Pyrolyzes rice husk and crop residues via their RiceLoop/STS pyrol
 url: "/directory/longstraw-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Longstraw Carbon: biochar company, India | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://longstraw.earth/"
+company_linkedin: "https://www.linkedin.com/company/longstraw-carbon/"
+company_country: "India"
 ---
 
 

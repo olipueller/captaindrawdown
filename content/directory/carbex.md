@@ -6,6 +6,11 @@ description: "Produces EBC-certified biochar and biochar-based products for agri
 url: "/directory/carbex/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbex: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbex.one/"
+company_linkedin: "https://www.linkedin.com/company/carbex-gmbh/"
+company_country: "Germany"
 ---
 
 

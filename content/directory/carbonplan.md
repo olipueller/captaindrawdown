@@ -6,6 +6,11 @@ description: "Nonprofit analyst/transparency organization building open datasets
 url: "/directory/carbonplan/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CarbonPlan: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-25"
+company_url: "https://carbonplan.org/"
+company_linkedin: "https://www.linkedin.com/company/carbonplan/"
+company_country: "United States"
 ---
 
 

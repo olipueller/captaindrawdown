@@ -6,6 +6,11 @@ description: "CarpeCarbon is developing a proprietary energy-efficient solid-sor
 url: "/directory/carpecarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "CarpeCarbon: direct air capture company, Italy | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carpecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/carpecarbon/"
+company_country: "Italy"
 ---
 
 

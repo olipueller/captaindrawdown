@@ -6,6 +6,11 @@ description: "Broker/marketplace platform selling CO2 removal certificates from 
 url: "/directory/greencarbon/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Greencarbon: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.greencarbon.nl"
+company_linkedin: "https://www.linkedin.com/company/greencarbon-bv/"
+company_country: "Netherlands"
 ---
 
 

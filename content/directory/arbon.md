@@ -6,6 +6,11 @@ description: "Humidity/moisture-swing solid sorbent DAC that releases captured C
 url: "/directory/arbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Arbon: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.arboncorp.com/"
+company_linkedin: "https://www.linkedin.com/company/arbon-corp/"
+company_country: "United States"
 ---
 
 

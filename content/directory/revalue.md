@@ -6,6 +6,11 @@ description: "Platform and services provider for nature-based carbon project dev
 url: "/directory/revalue/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Revalue: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.revalue.earth/"
+company_linkedin: "https://www.linkedin.com/company/revalue-nature/"
+company_country: "United Kingdom"
 ---
 
 

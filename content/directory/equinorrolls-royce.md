@@ -6,6 +6,11 @@ description: "Operates an amine-based liquid-solvent DAC demonstrator acquired f
 url: "/directory/equinorrolls-royce/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Equinor/Rolls Royce: direct air capture as a side business, Norway | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.equinor.com/"
+company_linkedin: "https://www.linkedin.com/company/equinor/"
+company_country: "Norway"
 ---
 
 

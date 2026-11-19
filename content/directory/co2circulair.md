@@ -6,6 +6,11 @@ description: "Passive wind-driven DAC using membrane gas absorption with KOH sol
 url: "/directory/co2circulair/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "CO2CirculAir: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.co2circulair.com/"
+company_linkedin: "https://www.linkedin.com/company/co2circulair/"
+company_country: "Netherlands"
 ---
 
 

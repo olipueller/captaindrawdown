@@ -6,6 +6,11 @@ description: "Converts desalination/industrial waste brine into a solvent that c
 url: "/directory/capture6/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Capture6: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://capture6.org/"
+company_linkedin: "https://www.linkedin.com/company/capture6/"
+company_country: "United States"
 ---
 
 

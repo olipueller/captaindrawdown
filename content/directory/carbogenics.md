@@ -6,6 +6,11 @@ description: "Produces engineered biochar (CreChar) via pyrolysis of difficult-t
 url: "/directory/carbogenics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbogenics: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbogenics.com/"
+company_linkedin: "https://www.linkedin.com/company/carbogenics-ltd/"
+company_country: "United Kingdom"
 ---
 
 

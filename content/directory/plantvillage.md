@@ -6,6 +6,11 @@ description: "Worker cooperative deploying low-cost, solar-powered \"PyroTower\"
 url: "/directory/plantvillage/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "PlantVillage+: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://plantvillageplus.coop/"
+company_linkedin: "https://www.linkedin.com/company/carbon4good.net/"
+company_country: "United States"
 ---
 
 

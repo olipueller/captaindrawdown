@@ -6,6 +6,11 @@ description: "Processes biomass via pyrolysis into biochar and sells biochar-bas
 url: "/directory/carboverte/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "CarboVerte: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carboverte.de/"
+company_linkedin: "https://www.linkedin.com/company/carboverte-gmbh/"
+company_country: "Germany"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Captures fermentation CO2 from corn-to-ethanol at Decatur, IL and 
 url: "/directory/adm/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "ADM: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.adm.com/en-us/standalone-pages/adm-and-carbon-capture-and-storage/"
+company_linkedin: "https://www.linkedin.com/company/adm/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Plans industrial-scale pyrolysis of waste wood biomass (including 
 url: "/directory/scotia-biochar/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Scotia BioChar: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://ca.linkedin.com/company/scotia-biochar-inc"
+company_linkedin: "https://www.linkedin.com/company/scotia-biochar-inc/"
+company_country: "Canada"
 ---
 
 

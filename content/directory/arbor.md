@@ -6,6 +6,11 @@ description: "Oxy-combustion supercritical CO2 turbine system that gasifies wast
 url: "/directory/arbor/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Arbor: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://arbor.co/"
+company_linkedin: "https://www.linkedin.com/company/arborenergy/"
+company_country: "United States"
 ---
 
 

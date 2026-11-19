@@ -6,6 +6,11 @@ description: "Offshore geological CO2 storage service (transport by ship + pipel
 url: "/directory/northern-lights/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Northern Lights: BECCS division, Norway | Captain Drawdown"
+lastmod: "2026-10-29"
+company_url: "https://norlights.com"
+company_linkedin: "https://www.linkedin.com/company/northern-lights-jv/"
+company_country: "Norway"
 ---
 
 

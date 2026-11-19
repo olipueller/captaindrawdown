@@ -6,6 +6,10 @@ description: "Develops, builds and operates modular patented thermolysis (pyroly
 url: "/directory/ccs42-gmbh/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "CCS42 GmbH: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://ccs42.com/"
+company_country: "Germany"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolysis of PEFC/FSC-certified softwood chips into biochar for ag
 url: "/directory/biochar-gmbh/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "BIOCHAR GmbH: biochar division, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biochar-biokohle.de/"
+company_linkedin: "https://www.linkedin.com/company/biochar-gmbh-%26-co-kg/"
+company_country: "Germany"
 ---
 
 

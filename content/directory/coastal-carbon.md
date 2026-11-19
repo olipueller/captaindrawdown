@@ -6,6 +6,11 @@ description: "AI and remote-sensing platform that quantifies and verifies carbon
 url: "/directory/coastal-carbon/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Coastal Carbon: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://coastalcarbon.ai/"
+company_linkedin: "https://www.linkedin.com/company/coastalcarbonsolutions/"
+company_country: "Canada"
 ---
 
 

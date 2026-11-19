@@ -6,6 +6,11 @@ description: "Pyrolyzes waste wood (beetle-kill pine, pallets, utility poles, wi
 url: "/directory/biochar-now/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biochar Now: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://biocharnow.com/"
+company_linkedin: "https://www.linkedin.com/company/biochar-now-llc/"
+company_country: "United States"
 ---
 
 

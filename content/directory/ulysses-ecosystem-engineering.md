@@ -6,6 +6,10 @@ description: "Autonomous underwater drones that collect, process, and plant seag
 url: "/directory/ulysses-ecosystem-engineering/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Ulysses Ecosystem Engineering: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://ulysses.eco"
+company_country: "United States"
 ---
 
 

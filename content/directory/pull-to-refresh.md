@@ -6,6 +6,11 @@ description: "Pyrolysis of municipal/shredded waste into stable carbon char for 
 url: "/directory/pull-to-refresh/"
 pathway: "Biochar"
 liveliness: "🟠 Suspect"
+seo_title: "Pull to Refresh: biochar company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://pulltorefresh.earth/"
+company_linkedin: "https://www.linkedin.com/company/pulltorefresh/"
+company_country: "United States"
 ---
 
 

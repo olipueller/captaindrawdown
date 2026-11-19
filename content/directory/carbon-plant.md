@@ -6,6 +6,11 @@ description: "FSA-registered carbon credit exchange that tokenizes carbon contra
 url: "/directory/carbon-plant/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Plant: CDR enabling technology, Isle of Man | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://carbon-plant.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-plant/"
+company_country: "Isle of Man"
 ---
 
 

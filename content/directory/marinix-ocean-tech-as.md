@@ -6,6 +6,11 @@ description: "Stimulates marine snow formation via light-spectrum replicator and
 url: "/directory/marinix-ocean-tech-as/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "MARINIX Ocean Tech AS: ocean CDR company, Norway | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://marinix.org/"
+company_linkedin: "https://www.linkedin.com/company/gea-carbon-capture/"
+company_country: "Norway"
 ---
 
 

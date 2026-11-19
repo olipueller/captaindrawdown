@@ -6,6 +6,11 @@ description: "Vacuum pyrolysis of almond shells and other nutshell/orchard bioma
 url: "/directory/corigin/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "corigin: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.corigin.co/"
+company_linkedin: "https://www.linkedin.com/company/corigin-solutions/"
+company_country: "United States"
 ---
 
 

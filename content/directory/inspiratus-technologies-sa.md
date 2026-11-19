@@ -6,6 +6,11 @@ description: "Operates pyrolysis plants that convert agricultural residues (e.g.
 url: "/directory/inspiratus-technologies-sa/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Inspiratus Technologies SA: biochar division, Belgium | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://inspiratus.tech/"
+company_linkedin: "https://www.linkedin.com/company/inspiratus-tech/"
+company_country: "Belgium"
 ---
 
 

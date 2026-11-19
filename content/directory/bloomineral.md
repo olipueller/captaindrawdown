@@ -6,6 +6,11 @@ description: "Uses macroalgae-driven biomineralization in open seawater systems 
 url: "/directory/bloomineral/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Bloomineral: mineralization company, France | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.bloomineral.com/"
+company_linkedin: "https://www.linkedin.com/company/bloomineral/"
+company_country: "France"
 ---
 
 

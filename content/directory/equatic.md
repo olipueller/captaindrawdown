@@ -6,6 +6,11 @@ description: "Uses seawater electrolysis to permanently store atmospheric CO2 as
 url: "/directory/equatic/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Equatic: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.equatic.tech/"
+company_linkedin: "https://www.linkedin.com/company/equatic-tech/"
+company_country: "United States"
 ---
 
 

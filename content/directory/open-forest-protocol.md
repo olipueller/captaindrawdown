@@ -6,6 +6,11 @@ description: "Blockchain-based digital MRV, validator network, and carbon credit
 url: "/directory/open-forest-protocol/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Open Forest Protocol: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.openforestprotocol.org"
+company_linkedin: "https://www.linkedin.com/company/theopenforestprotocol/"
+company_country: "Switzerland"
 ---
 
 

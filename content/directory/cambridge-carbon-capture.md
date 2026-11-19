@@ -6,6 +6,10 @@ description: "Two-stage ex-situ mineralisation process reacting magnesium hydrox
 url: "/directory/cambridge-carbon-capture/"
 pathway: "Mineralization"
 liveliness: "🟡 Moderate"
+seo_title: "Cambridge Carbon Capture: mineralization company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.co2loc.com/"
+company_country: "United Kingdom"
 ---
 
 

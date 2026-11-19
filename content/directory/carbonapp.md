@@ -6,6 +6,11 @@ description: "Carbonapp operates as a mandataire (recognized agent) that develop
 url: "/directory/carbonapp/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbonapp: CDR enabling technology, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonapp.fr/"
+company_linkedin: "https://www.linkedin.com/company/carbonapp-fr/"
+company_country: "France"
 ---
 
 

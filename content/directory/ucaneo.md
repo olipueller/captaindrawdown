@@ -6,6 +6,11 @@ description: "Electrochemical direct air capture using a biomimetic solvent that
 url: "/directory/ucaneo/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Ucaneo: direct air capture company, Germany | Captain Drawdown"
+lastmod: "2026-11-14"
+company_url: "https://www.ucaneo.com/"
+company_linkedin: "https://www.linkedin.com/company/ucaneo/"
+company_country: "Germany"
 ---
 
 

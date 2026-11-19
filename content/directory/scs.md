@@ -6,6 +6,11 @@ description: "Continuous pyrolysis of regional woody biomass (prunings, green wa
 url: "/directory/scs/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "SCS: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.scs.earth/"
+company_linkedin: "https://www.linkedin.com/company/scs-gmbh-stuttgart/"
+company_country: "Germany"
 ---
 
 

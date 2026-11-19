@@ -6,6 +6,11 @@ description: "Develops, builds and operates industrial pyrolysis plants that con
 url: "/directory/kurovia-gmbh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "KuroVia GmbH: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://kurovia.de"
+company_linkedin: "https://www.linkedin.com/company/kurovia-gmbh/"
+company_country: "Germany"
 ---
 
 

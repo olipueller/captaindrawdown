@@ -6,6 +6,11 @@ description: "Carbon credit streaming/royalty finance firm that provides upfront
 url: "/directory/carbon-streaming/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Streaming: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbonstreaming.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonstreaming/"
+company_country: "Canada"
 ---
 
 

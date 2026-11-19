@@ -6,6 +6,10 @@ description: "Solid-sorbent DAC system integrated directly into wind turbine bla
 url: "/directory/windcapture-technology/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "WindCapture Technology: direct air capture company, Ireland | Captain Drawdown"
+lastmod: "2026-05-01"
+company_url: "https://www.windcapturetech.com"
+company_country: "Ireland"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops metal-organic framework (MOF) sorbents that selectively b
 url: "/directory/mosaic-materials/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Mosaic Materials: direct air capture division, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://mosaicmaterials.com/"
+company_linkedin: "https://www.linkedin.com/company/mosaicmaterials/"
+company_country: "United States"
 ---
 
 

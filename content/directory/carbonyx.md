@@ -6,6 +6,10 @@ description: "Pyrolyzes unused plantation forestry slash and harvest residues in
 url: "/directory/carbonyx/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Carbonyx: biochar company, New Zealand | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbonyx.co.nz"
+company_country: "New Zealand"
 ---
 
 

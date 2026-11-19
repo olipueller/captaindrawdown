@@ -6,6 +6,11 @@ description: "Biochar project developer that partners with farmers and agricultu
 url: "/directory/reclimate/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Reclimate: biochar company, Malaysia | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://www.reclimate.earth/"
+company_linkedin: "https://www.linkedin.com/company/reclimateglobal/"
+company_country: "Malaysia"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Web-based data platform aggregating publicly announced and partner
 url: "/directory/cdrfyi/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CDR.fyi: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://cdr.fyi"
+company_linkedin: "https://www.linkedin.com/company/cdr-fyi/"
+company_country: "United States"
 ---
 
 
@@ -29,6 +34,7 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-11-19** — News: What’s stopping companies buying more carbon removal? At COP31, buyers told us it’s not just price... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7529173037703671809/))
 - **2026-11-16** — News: Durable CDR Market Update: Bridging the Gap to Compliance Demand ([source](https://www.cdr.fyi/blog/durable-cdr-market-update-carbon-unbound-europe-2026))
 - **2026-11-14** — News: CDR.fyi: This week saw some key developments in durable CDR, as carbon removal was included in... ([source](https://www.linkedin.com/company/cdr-fyi/#post-ae970693ba2c))
 - **2026-11-13** — News: Bioenergie Frauenfeld: More than 70% of all biochar carbon removal delivered worldwide in… ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-542926d6ae99))
@@ -58,7 +64,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-09-04** — News: atmosfair gGmbH: A new chapter begins for atmosfair's carbon removal projects: With our Brazilian… ([source](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/#post-94c103fcc82d))
 - **2026-09-02** — News: CDR.fyi: Huge CDR Deal Alert! Höganäs AB , a Swedish advanced ceramic and metal powders… ([source](https://www.linkedin.com/company/cdr-fyi/#post-61ac825a402f))
 - **2026-09-02** — News: CDR.fyi: This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement… ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
-- **2026-08-31** — News: Who are the top investors in carbon capture? – New Market Pitch ([source](https://newmarketpitch.com/blogs/news/carbon-capture-top-investors))
 
 ---
 

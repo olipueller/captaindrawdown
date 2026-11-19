@@ -6,6 +6,10 @@ description: "Plans post-combustion carbon capture on one of four lines at its S
 url: "/directory/renova/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Renova: BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.renova.se"
+company_country: "Sweden"
 ---
 
 

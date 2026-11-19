@@ -6,6 +6,11 @@ description: "Specialist venture capital firm investing in durable carbon remova
 url: "/directory/carbon-removal-partners/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Removal Partners: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-09"
+company_url: "https://www.carbonremoval.partners"
+company_linkedin: "https://www.linkedin.com/company/carbon-removal-partners/"
+company_country: "Switzerland"
 ---
 
 

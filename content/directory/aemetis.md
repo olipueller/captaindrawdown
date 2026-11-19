@@ -6,6 +6,11 @@ description: "Aemetis Carbon Capture subsidiary is developing Class VI CO2 injec
 url: "/directory/aemetis/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Aemetis: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.aemetis.com"
+company_linkedin: "https://www.linkedin.com/company/aemetis/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Applies finely crushed basalt to agricultural fields in the US Pac
 url: "/directory/goal-300/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "Goal 300: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://goal300.earth/"
+company_linkedin: "https://www.linkedin.com/company/goal300/"
+company_country: "United States"
 ---
 
 

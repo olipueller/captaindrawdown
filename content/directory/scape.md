@@ -6,6 +6,11 @@ description: "Modular coastal seawater reactors that dissolve olivine to permane
 url: "/directory/scape/"
 pathway: "Ocean CDR"
 liveliness: "🟡 Moderate"
+seo_title: "Scape: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.scapecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/scapecarbon/"
+company_country: "United States"
 ---
 
 

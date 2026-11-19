@@ -6,6 +6,11 @@ description: "Proprietary solid-sorbent direct air capture pilot at Baytown, Tex
 url: "/directory/exxonmobil/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "ExxonMobil: direct air capture as a side business, United States | Captain Drawdown"
+lastmod: "2026-10-27"
+company_url: "https://lowcarbon.exxonmobil.com/"
+company_linkedin: "https://www.linkedin.com/company/exxonmobil/"
+company_country: "United States"
 ---
 
 

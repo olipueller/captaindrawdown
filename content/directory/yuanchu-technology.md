@@ -6,6 +6,10 @@ description: "Reacts CO2 (from flue gas or air) with calcium-rich industrial sol
 url: "/directory/yuanchu-technology/"
 pathway: "Mineralization"
 liveliness: "🔴 Likely Dead"
+seo_title: "Yuanchu Technology: mineralization company, China | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "http://www.yuanchutech.cn/en/"
+company_country: "China"
 ---
 
 

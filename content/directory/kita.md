@@ -6,6 +6,11 @@ description: "Provides specialty insurance products (delivery, counterparty, pol
 url: "/directory/kita/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Kita: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.kita.earth/"
+company_linkedin: "https://www.linkedin.com/company/kitaearth/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolysis of Cornish forestry and agricultural waste into biochar 
 url: "/directory/restord/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Restord: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.restord.earth/"
+company_linkedin: "https://www.linkedin.com/company/restord-earth/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Pyrolyzes farm and processing waste such as coconut husks, shells 
 url: "/directory/silk-grass-farms-ltd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Silk Grass Farms. Ltd: biochar as a side business, Belize | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.silkgrassfarms.com"
+company_country: "Belize"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Ex-situ accelerated CO2 mineralization using nanotechnology-enhanc
 url: "/directory/lightnet-carbon-capture/"
 pathway: "Mineralization"
 liveliness: "🟠 Suspect"
+seo_title: "LightNET Carbon Capture: mineralization company, Spain | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.lightnetcc.com/en"
+company_linkedin: "https://www.linkedin.com/company/lightnetcc/"
+company_country: "Spain"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Operates Biomacon pyrolysis reactors converting FSC-certified regi
 url: "/directory/inkoh/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Inkoh: biochar division, Switzerland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://inkoh.swiss/"
+company_linkedin: "https://www.linkedin.com/company/inkoh-biochar-and-beyond/"
+company_country: "Switzerland"
 ---
 
 

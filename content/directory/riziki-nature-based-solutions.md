@@ -6,6 +6,11 @@ description: "Pyrolyzes invasive Prosopis juliflora biomass into biochar for soi
 url: "/directory/riziki-nature-based-solutions/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Riziki Nature Based Solutions: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.nbs-ea.com/"
+company_linkedin: "https://www.linkedin.com/company/riziki-nature-based-solutions/"
+company_country: "Kenya"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes wood and plant biomass in closed batch reactors (~450 °
 url: "/directory/proe-bioenergie/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "ProE Bioenergie: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.proe-bioenergie.de/en/"
+company_linkedin: "https://www.linkedin.com/company/proe-bioenergie-gmbh/"
+company_country: "Germany"
 ---
 
 

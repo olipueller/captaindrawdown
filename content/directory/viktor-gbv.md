@@ -6,6 +6,11 @@ description: "Designs and sells biomass gasification/pyrolysis equipment that pr
 url: "/directory/viktor-gbv/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Viktor G.BV: biochar as a side business, Belgium | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.viktorgoesgreen.be/"
+company_linkedin: "https://www.linkedin.com/company/viktor-goes-green.be/"
+company_country: "Belgium"
 ---
 
 

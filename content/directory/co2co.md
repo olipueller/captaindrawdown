@@ -6,6 +6,11 @@ description: "Grows microalgae in outdoor ponds and converts the biomass via two
 url: "/directory/co2co/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "CO2CO: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.co2co.earth/"
+company_linkedin: "https://www.linkedin.com/company/co2co-ltd/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Academic research institute running marine CDR science programs (C
 url: "/directory/ocean-frontier-institute/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Ocean Frontier Institute: ocean CDR ecosystem company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.ofi.ca/"
+company_linkedin: "https://www.linkedin.com/company/ocean-frontier-institute/"
+company_country: "Canada"
 ---
 
 

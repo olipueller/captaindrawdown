@@ -6,6 +6,11 @@ description: "Partners with Swedish bioenergy facilities to co-produce biochar v
 url: "/directory/biokolprodukter/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Biokolprodukter: biochar company, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biokolprodukter.se/"
+company_linkedin: "https://www.linkedin.com/company/biokolprodukter/"
+company_country: "Sweden"
 ---
 
 

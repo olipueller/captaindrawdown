@@ -6,6 +6,10 @@ description: "Corn ethanol plant (~60M gal/yr, ~180,000 t fermentation CO2 per y
 url: "/directory/iroquois-bio/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Iroquois Bio: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://ibecethanol.com/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Environmental commodities brokerage and carbon project development
 url: "/directory/act-group/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "ACT Group: CDR enabling technology, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.actgroup.com/"
+company_linkedin: "https://www.linkedin.com/company/actgroup/"
+company_country: "Netherlands"
 ---
 
 

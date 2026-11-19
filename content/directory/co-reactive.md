@@ -6,6 +6,11 @@ description: "Continuous ex-situ CO2 mineralization that reacts captured CO2 wit
 url: "/directory/co-reactive/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Co-reactive: mineralization company, Germany | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.co-reactive.com/"
+company_linkedin: "https://www.linkedin.com/company/co-reactive/"
+company_country: "Germany"
 ---
 
 
@@ -31,6 +36,7 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-11-17** — News: #team #processengineering #plantoperations #climatetech #industrialdecarbonisation | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7528350366476783616/))
 - **2026-11-16** — News: It’s a busy week for Co-reactive. On November 18–19, Andreas and Willi are heading to Slush 2026… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528009871770742784/))
 - **2026-11-12** — News: #team #researchanddevelopment #talent #climatetech #industrialdecarbonization | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7526316162956079104/))
 - **2026-11-10** — News: We’re excited to announce a new collaboration with ARDEX Group. ARDEX Group and Co-reactive have... ([source](https://www.linkedin.com/feed/update/urn:li:share:7525815074419187712/))
@@ -60,7 +66,6 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 - **2026-04-29** — News: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA… ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
 - **2026-04-28** — News: #coreactive #demoplant #milestone #carbonnegative #sustainableconstruction #co2utilization… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7454785479666933760/))
 - **2026-04-23** — News: #hellotomorrow2026 | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7453018415709097984/))
-- **2026-04-21** — News: #bilbao #coreactive #decarbonization #energytechsummit #cdlparis... | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452271413689872385/))
 
 ---
 

@@ -6,6 +6,10 @@ description: "BioUrja wants to capture fermentation CO2 from its ethanol plant i
 url: "/directory/biourja/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "BioUrja: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.biourja.com"
+company_country: "United States"
 ---
 
 

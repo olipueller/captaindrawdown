@@ -6,6 +6,11 @@ description: "Tokenizes carbon credits on-chain (Polygon/Base) via bridges to re
 url: "/directory/toucan/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Toucan: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-11-18"
+company_url: "https://toucan.earth"
+company_linkedin: "https://www.linkedin.com/company/toucan-protocol/"
+company_country: "Germany"
 ---
 
 
@@ -31,6 +36,7 @@ Toucan is a blockchain-based carbon market infrastructure provider that tokenize
 
 ## History
 
+- **2026-11-18** — News: #carbonremoval #cdr #environmentalattributes #newhires #teampuro #soilcarbon | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7528823357031665664/))
 - **2026-10-15** — Status Moderate → Active
 - **2026-06-15** — Status Active → Moderate
 - **2026-05-01** — Status Moderate → Active

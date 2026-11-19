@@ -6,6 +6,11 @@ description: "Grinds silicate rock into sand and adds it to the ocean (oceanic e
 url: "/directory/scaled-carbon/"
 pathway: "Ocean CDR"
 liveliness: "🔴 Likely Dead"
+seo_title: "Scaled Carbon: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://scaledcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/scaled-carbon/"
+company_country: "United States"
 ---
 
 

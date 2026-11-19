@@ -6,6 +6,11 @@ description: "Project developer that integrates carbon capture and geological st
 url: "/directory/biorecro/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Biorecro: BECCS company, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.biorecro.com/"
+company_linkedin: "https://www.linkedin.com/company/biorecro/"
+company_country: "Sweden"
 ---
 
 

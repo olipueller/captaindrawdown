@@ -6,6 +6,11 @@ description: "Uses pressurized/transcritical CO₂ to fracture mining ore from w
 url: "/directory/rockburst-technologies/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Rockburst Technologies: mineralization company, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.rockburst.tech/"
+company_linkedin: "https://www.linkedin.com/company/rockburst-technologies/"
+company_country: "Canada"
 ---
 
 

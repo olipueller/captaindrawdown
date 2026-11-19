@@ -6,6 +6,11 @@ description: "Electrochemical Direct Ocean Capture (DOCC) that extracts CO2 from
 url: "/directory/seao2/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "SeaO2: ocean CDR company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-08"
+company_url: "https://www.seao2.com/"
+company_linkedin: "https://www.linkedin.com/company/seao2-io/"
+company_country: "Netherlands"
 ---
 
 

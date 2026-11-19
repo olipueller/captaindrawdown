@@ -6,6 +6,11 @@ description: "Trades and refines third-party EBC-certified biochar into agricult
 url: "/directory/carbuna/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbuna: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbuna.com/"
+company_linkedin: "https://www.linkedin.com/company/carbuna/"
+company_country: "Germany"
 ---
 
 

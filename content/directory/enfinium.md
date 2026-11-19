@@ -6,6 +6,11 @@ description: "Energy-from-waste operator retrofitting CCS (amine solvent and MOF
 url: "/directory/enfinium/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "enfinium: BECCS as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://enfinium.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/enfiniumuk/"
+company_country: "United Kingdom"
 ---
 
 

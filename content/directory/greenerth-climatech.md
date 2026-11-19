@@ -6,6 +6,10 @@ description: "Works with smallholder farmers to turn crop residues that would ot
 url: "/directory/greenerth-climatech/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Greenerth Climatech: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.greenerthsolutions.com/"
+company_country: "India"
 ---
 
 

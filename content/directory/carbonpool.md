@@ -6,6 +6,11 @@ description: "Carbon credit insurance underwriter that pays claims in-kind (repl
 url: "/directory/carbonpool/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CarbonPool: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.carbonpool.earth/"
+company_linkedin: "https://www.linkedin.com/company/carbonpool/"
+company_country: "Switzerland"
 ---
 
 
@@ -30,6 +35,7 @@ CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by 
 
 ## History
 
+- **2026-11-17** — News: CarbonPool: CarbonPool is delighted to announce that we are now backed with underwriting capacity... ([source](https://www.linkedin.com/company/carbonpool/#post-465a751da10c))
 - **2026-10-18** — News: CarbonPool: Big News! CarbonPool and Oka, The Carbon Insurance Company® are announcing today the… ([source](https://www.linkedin.com/company/carbonpool/#post-1d43230a3a81))
 - **2026-10-15** — News: Carbon Insurance Breakthrough Could Free Up Carbon Credits For Sale ([source](https://carbonherald.com/carbon-insurance-breakthrough-could-free-up-carbon-credits-for-sale/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-insurance-breakthrough-could-free-up-carbon-credits-for-sale))
 - **2026-08-28** — News: CarbonPool: We are live! Our Reversal Insurance Policy is officially approved by Verra under the… ([source](https://www.linkedin.com/company/carbonpool/#post-61ec18ed1398))

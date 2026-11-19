@@ -6,6 +6,11 @@ description: "Municipal waste-to-energy operator planning amine-based carbon cap
 url: "/directory/sydskånes-avfallsaktiebolag-sysav/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Sydskånes avfallsaktiebolag (SYSAV): BECCS as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.sysav.se"
+company_linkedin: "https://www.linkedin.com/company/sysav/"
+company_country: "Sweden"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Amine-based (SLB Capturi Just Catch) post-combustion capture retro
 url: "/directory/hafslund-celsio/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Hafslund Celsio: BECCS as a side business, Norway | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs"
+company_linkedin: "https://www.linkedin.com/company/hafslund/"
+company_country: "Norway"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Solvent-based direct air capture coupled with mineralization of in
 url: "/directory/alithic/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Alithic: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://alithic.com/"
+company_linkedin: "https://www.linkedin.com/company/alithic/"
+company_country: "United States"
 ---
 
 

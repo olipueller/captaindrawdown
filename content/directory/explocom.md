@@ -6,6 +6,11 @@ description: "Patented pyrolysis-based carbonization of wood biomass producing b
 url: "/directory/explocom/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Explocom: biochar company, Romania | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://gekka.bio/"
+company_linkedin: "https://www.linkedin.com/company/biogekka/"
+company_country: "Romania"
 ---
 
 

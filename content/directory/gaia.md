@@ -6,6 +6,11 @@ description: "Post-combustion amine-based carbon capture retrofit on a municipal
 url: "/directory/gaia/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Gaia: BECCS division, Denmark | Captain Drawdown"
+lastmod: "2026-11-02"
+company_url: "https://www.gaia-ccs.dk/"
+company_linkedin: "https://www.linkedin.com/company/gaia_3/"
+company_country: "Denmark"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Carbon credit marketplace and procurement platform with a propriet
 url: "/directory/senken/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Senken: CDR enabling technology, Germany | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.senken.io/"
+company_linkedin: "https://www.linkedin.com/company/senken/"
+company_country: "Germany"
 ---
 
 
@@ -30,6 +35,7 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-11-16** — News: Senken: Net-Zero Carbon Removals Could Cost European Companies €60B a Year ([source](https://onestopesg.com/esg-news/senken-carbon-removal-costs-europe-pace-of-change-2026-report))
 - **2026-11-16** — News: The Price of Zero: Europe’s Corporate Giants Face €60bn Annual Carbon Removal Bill, a Report by... ([source](https://www.emeoutlookmag.com/industry-insights/the-price-of-zero-europes-corporate-giants-face-e60bn-annual-carbon-removal-bill-a-report-by-senken-states))
 - **2026-11-16** — News: New Senken Report: The Largest European Companies Will Need $66B Annual CDR Investments For Net… ([source](https://carbonherald.com/new-senken-report-the-largest-european-companies-will-need-66b-annual-cdr-investments-for-net-zero/?utm_source=rss&utm_medium=rss&utm_campaign=new-senken-report-the-largest-european-companies-will-need-66b-annual-cdr-investments-for-net-zero))
 - **2026-11-16** — News: Net Zero Will Cost Europe's Largest Companies €60bn a Year in Carbon Removal, Senken's Pace of... ([source](https://www.prnewswire.co.uk/news-releases/net-zero-will-cost-europes-largest-companies-60bn-a-year-in-carbon-removal-senkens-pace-of-change-2026-report-finds-302936605.html))
@@ -59,7 +65,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 - **2026-07-22** — News: Senken: Most corporate net zero targets are a press release with a date attached, or not? ISO just… ([source](https://www.linkedin.com/company/senken/#post-a0a72af1e879))
 - **2026-07-22** — News: Senken: "Can we still afford carbon removals in 2031?" Your board should be asking this question… ([source](https://www.linkedin.com/company/senken/#post-a539b38bd296))
 - **2026-06-10** — News: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
-- **2026-05-24** — News: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
 
 ---
 

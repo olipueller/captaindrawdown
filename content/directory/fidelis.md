@@ -6,6 +6,11 @@ description: "Develops BECCS (biomass power + CO2 capture using sugarcane bagass
 url: "/directory/fidelis/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Fidelis: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://fidelisinfra.com/"
+company_linkedin: "https://www.linkedin.com/company/fidelisenergy/"
+company_country: "United States"
 ---
 
 

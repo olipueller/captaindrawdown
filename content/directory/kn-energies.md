@@ -6,6 +6,11 @@ description: "Plans a CO2 transshipment terminal at Klaipėda port that would re
 url: "/directory/kn-energies/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "KN Energies: CDR enabling technology, Lithuania | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.kn.lt/en"
+company_linkedin: "https://www.linkedin.com/company/kn-energies/"
+company_country: "Lithuania"
 ---
 
 

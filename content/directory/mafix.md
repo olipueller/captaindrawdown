@@ -6,6 +6,8 @@ description: "Treats silicate minerals so they dissolve much faster than ordinar
 url: "/directory/mafix/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
+seo_title: "Mafix: enhanced weathering company | Captain Drawdown"
+lastmod: "2026-11-16"
 ---
 
 

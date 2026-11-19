@@ -6,6 +6,11 @@ description: "AI/LLM-based scoring pipeline that evaluates carbon credit project
 url: "/directory/carbonmeld/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CarbonMeld: CDR enabling technology, Italy | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonmeld.com"
+company_linkedin: "https://www.linkedin.com/company/carbonmeld/"
+company_country: "Italy"
 ---
 
 

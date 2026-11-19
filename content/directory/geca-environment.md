@@ -6,6 +6,11 @@ description: "Consulting firm advising biochar/pyrolysis project developers on t
 url: "/directory/geca-environment/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "GECA Environment: biochar ecosystem company, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://gecaenviro.com/"
+company_linkedin: "https://www.linkedin.com/company/geca-environnement/"
+company_country: "Canada"
 ---
 
 

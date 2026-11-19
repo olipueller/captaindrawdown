@@ -6,6 +6,11 @@ description: "Leading a consortium developing a novel heat-driven solid-sorbent 
 url: "/directory/sizewell-cedf-energy/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Sizewell C/EDF Energy: direct air capture as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-23"
+company_url: "https://www.sizewellc.com/"
+company_linkedin: "https://www.linkedin.com/company/sizewellc/"
+company_country: "United Kingdom"
 ---
 
 

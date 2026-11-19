@@ -6,6 +6,11 @@ description: "Marine science consultancy providing MRV, modeling, and environmen
 url: "/directory/submarine-scientific/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Submarine Scientific: CDR enabling technology, Canada | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.submarine.earth"
+company_linkedin: "https://www.linkedin.com/company/submarinescientific/"
+company_country: "Canada"
 ---
 
 

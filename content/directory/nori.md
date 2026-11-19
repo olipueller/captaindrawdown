@@ -6,6 +6,11 @@ description: "Operated an integrated carbon removal issuing program, registry, a
 url: "/directory/nori/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Nori: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://nori.com"
+company_linkedin: "https://www.linkedin.com/company/nori-consulting/"
+company_country: "United States"
 ---
 
 

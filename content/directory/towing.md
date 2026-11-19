@@ -6,6 +6,11 @@ description: "Produces Soratan, a near-neutral-pH biochar inoculated with benefi
 url: "/directory/towing/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Towing: biochar company, Japan | Captain Drawdown"
+lastmod: "2026-10-08"
+company_url: "https://towing.co.jp/"
+company_linkedin: "https://www.linkedin.com/company/towing-co-ltd/"
+company_country: "Japan"
 ---
 
 

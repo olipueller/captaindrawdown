@@ -6,6 +6,11 @@ description: "Manufactures containerized pyrolysis refineries that convert high-
 url: "/directory/biomass-controls/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Biomass Controls: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://biomasscontrols.com/"
+company_linkedin: "https://www.linkedin.com/company/biomasscontrols/"
+company_country: "United States"
 ---
 
 

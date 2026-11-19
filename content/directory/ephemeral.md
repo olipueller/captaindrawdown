@@ -6,6 +6,11 @@ description: "Developing coastal ocean alkalinity enhancement by adding ground s
 url: "/directory/ephemeral/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "Ephemeral: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://ephemeralcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/ephemeral-carbon/"
+company_country: "United States"
 ---
 
 

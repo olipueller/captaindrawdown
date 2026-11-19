@@ -6,6 +6,11 @@ description: "Operates mobile in-field pyrolysis machines pulled behind tractors
 url: "/directory/applied-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Applied Carbon: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.appliedcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/applied-carbon/"
+company_country: "United States"
 ---
 
 

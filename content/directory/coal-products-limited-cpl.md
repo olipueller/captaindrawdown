@@ -6,6 +6,11 @@ description: "Uses high-temperature treatment (about 700°C) at its Immingham pl
 url: "/directory/coal-products-limited-cpl/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Coal Products Limited (CPL): biochar as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://cplindustries.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/cpl-industries/"
+company_country: "United Kingdom"
 ---
 
 

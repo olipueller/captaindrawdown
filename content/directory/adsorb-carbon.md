@@ -6,6 +6,11 @@ description: "Pyrolyzes wood-chip waste at 1,000°C to produce biochar and steam
 url: "/directory/adsorb-carbon/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Adsorb Carbon: biochar company, South Africa | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://adsorb.co.za/"
+company_linkedin: "https://www.linkedin.com/company/adsorb-technologies-pty-ltd/"
+company_country: "South Africa"
 ---
 
 

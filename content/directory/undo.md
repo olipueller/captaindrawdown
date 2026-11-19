@@ -6,6 +6,11 @@ description: "UNDO spreads crushed basalt and wollastonite on agricultural field
 url: "/directory/undo/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "UNDO: enhanced weathering company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://un-do.com/"
+company_linkedin: "https://www.linkedin.com/company/undocarbon/"
+company_country: "United Kingdom"
 ---
 
 
@@ -34,6 +39,8 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-11-19** — News: Rock Flour Company: Europe has taken a concrete step towards certifying enhanced rock weathering... ([source](https://www.linkedin.com/company/rockflourcompany/#post-5eeea27f9697))
+- **2026-11-17** — News: #ontariofarming #easternontario #kingston #agriculture | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7528492650258399232/))
 - **2026-11-07** — News: UNDO: A bumper month for spreading, an award-winning CFO, and a closer look at scaling carbon... ([source](https://www.linkedin.com/company/undocarbon/#post-106add182f99))
 - **2026-11-05** — News: Microsoft ↔ UNDO — erw-ag ([source](https://www.datacenterdynamics.com/en/news/microsoft-signs-third-carbon-removal-deal-with-erw-firm-undo))
 - **2026-11-03** — News: UNDO Impact Update | October 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523038855885848577/))
@@ -62,8 +69,6 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 - **2026-07-21** — News: Earlier this month, researchers, project developers, verification bodies, and industry partners… ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485266763698479104/))
 - **2026-07-21** — News: A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration… ([source](https://cdrxiv.org/preprint/496))
 - **2026-07-14** — News: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted.… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
-- **2026-07-09** — News: Inside UNDO&#039;s On-Farm Research: Small Plot Monitoring Sites in Eastern Ontario - UNDO Carbon ([source](https://un-do.com/resources/blog/inside-undos-on-farm-research-small-plot-monitoring-sites-in-eastern-ontario/))
-- **2026-07-06** — News: #enhancedrockweathering #carbonremoval #cdr #mrv #climatetech #undocarbon #erw #soilscience… ([source](https://www.linkedin.com/feed/update/urn:li:share:7479831417557000192/))
 
 ---
 

@@ -6,6 +6,11 @@ description: "Replaces 100% of portland cement in concrete blocks/pavers with EA
 url: "/directory/carbicrete/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "CarbiCrete: mineralization company, Canada | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://carbicrete.com/"
+company_linkedin: "https://www.linkedin.com/company/carbicrete/"
+company_country: "Canada"
 ---
 
 

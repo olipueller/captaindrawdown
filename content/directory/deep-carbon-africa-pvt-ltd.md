@@ -6,6 +6,11 @@ description: "Develops artisanal and community-scale pyrolysis projects that tur
 url: "/directory/deep-carbon-africa-pvt-ltd/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Deep Carbon Africa Pvt Ltd: biochar company, Mauritius | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://parallelsouth.earth/"
+company_linkedin: "https://www.linkedin.com/company/dca-earth/"
+company_country: "Mauritius"
 ---
 
 

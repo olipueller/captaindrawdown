@@ -6,6 +6,11 @@ description: "Harvests encroacher bush biomass in Namibia and converts it into b
 url: "/directory/omiti-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Omiti Biochar: biochar company, Namibia | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://omitibiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/omiti-biochar/"
+company_country: "Namibia"
 ---
 
 

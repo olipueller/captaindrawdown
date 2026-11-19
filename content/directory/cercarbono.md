@@ -6,6 +6,11 @@ description: "Voluntary carbon certification standard/registry that validates me
 url: "/directory/cercarbono/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Cercarbono: CDR enabling technology, Colombia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.cercarbono.com/"
+company_linkedin: "https://www.linkedin.com/company/cercarbono/"
+company_country: "Colombia"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops microbial inoculants that accelerate silicate rock dissol
 url: "/directory/syntopa/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "Syntopa: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://syntopa.com/"
+company_linkedin: "https://www.linkedin.com/company/syntopa/"
+company_country: "United States"
 ---
 
 

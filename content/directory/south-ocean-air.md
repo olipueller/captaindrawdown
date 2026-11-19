@@ -6,6 +6,11 @@ description: "Plasma-treated cellulose acts as a passive solid sorbent that adso
 url: "/directory/south-ocean-air/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "South Ocean Air: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://southoceanair.com/"
+company_linkedin: "https://www.linkedin.com/company/south-ocean-air/"
+company_country: "United States"
 ---
 
 

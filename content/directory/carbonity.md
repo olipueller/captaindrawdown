@@ -6,6 +6,11 @@ description: "Pyrolyzes forest residues (~58,000 t/yr) into biochar using Airex 
 url: "/directory/carbonity/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Carbonity: biochar company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonity.ca/"
+company_linkedin: "https://www.linkedin.com/company/carbonity/"
+company_country: "Canada"
 ---
 
 

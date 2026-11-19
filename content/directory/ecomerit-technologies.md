@@ -6,6 +6,11 @@ description: "Developing the Precipitor, an offshore wind-powered system that el
 url: "/directory/ecomerit-technologies/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Ecomerit Technologies: ocean CDR as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ecomerittech.com/"
+company_linkedin: "https://www.linkedin.com/company/ecomerit-technologies/"
+company_country: "United States"
 ---
 
 

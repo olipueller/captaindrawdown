@@ -6,6 +6,10 @@ description: "Smallholder biochar project developer using flame-curtain pyrolysi
 url: "/directory/srcnatura-sure/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "SRCNatura Sure: biochar company, India | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://srcnaturaproducts.com/"
+company_country: "India"
 ---
 
 

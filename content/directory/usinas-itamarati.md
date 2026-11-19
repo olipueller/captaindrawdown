@@ -6,6 +6,11 @@ description: "Sugarcane biorefinery that generates durable carbon removal credit
 url: "/directory/usinas-itamarati/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Usinas Itamarati: biochar as a side business, Brazil | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://www.uisa.com.br/"
+company_linkedin: "https://www.linkedin.com/company/uisa/"
+company_country: "Brazil"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Electrochemical process that upcycles sulfate waste (e.g. phosphog
 url: "/directory/travertine/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Travertine: mineralization company, United States | Captain Drawdown"
+lastmod: "2026-10-06"
+company_url: "https://travertinetech.com/"
+company_linkedin: "https://www.linkedin.com/company/travertine/"
+company_country: "United States"
 ---
 
 

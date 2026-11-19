@@ -6,6 +6,10 @@ description: "Applies crushed volcanic rock to nutrient-poor smallholder farmlan
 url: "/directory/renual/"
 pathway: "Enhanced Weathering"
 liveliness: "🟡 Moderate"
+seo_title: "Renual: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://renual.earth/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Uses thermal conversion (pyrolysis/carbonization) to turn organic 
 url: "/directory/advanced-resilient-biocarbon/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Advanced Resilient Biocarbon: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.advancedresilientbiocarbon.com"
+company_country: "United States"
 ---
 
 

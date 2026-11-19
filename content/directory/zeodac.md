@@ -6,6 +6,11 @@ description: "Amine-free solid-sorbent DAC using metal-containing MOR-type and m
 url: "/directory/zeodac/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "ZeoDAC: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.zeodac.com/"
+company_linkedin: "https://www.linkedin.com/company/zeodac-inc/"
+company_country: "United States"
 ---
 
 

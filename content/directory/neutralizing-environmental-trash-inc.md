@@ -6,6 +6,11 @@ description: "Converts waste woody biomass into biochar through pyrolysis and se
 url: "/directory/neutralizing-environmental-trash-inc/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Neutralizing Environmental Trash Inc.: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.netforcarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/netforcarbon/"
+company_country: "United States"
 ---
 
 

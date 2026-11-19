@@ -6,6 +6,11 @@ description: "Develops supercapacitor-based electrochemical Direct Air Capture t
 url: "/directory/norma/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Norma: direct air capture company, France | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://norma.tech/"
+company_linkedin: "https://www.linkedin.com/company/norma-tech/"
+company_country: "France"
 ---
 
 

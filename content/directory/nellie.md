@@ -6,6 +6,11 @@ description: "Grows microalgae in proprietary photobioreactors to capture CO2 fr
 url: "/directory/nellie/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Nellie: biochar company, United Kingdom | Captain Drawdown"
+lastmod: "2026-11-05"
+company_url: "https://www.nellie.tech/"
+company_linkedin: "https://www.linkedin.com/company/nellie-tech/"
+company_country: "United Kingdom"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Independent nonprofit R&D lab that researches, pilots, and support
 url: "/directory/carbon-containment-lab/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Containment Lab: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-02"
+company_url: "https://carboncontainmentlab.org/"
+company_linkedin: "https://www.linkedin.com/company/carbon-containment-lab/"
+company_country: "United States"
 ---
 
 

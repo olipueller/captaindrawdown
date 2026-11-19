@@ -6,6 +6,11 @@ description: "Does not remove CO2 itself; it runs the Swiss Carbon Removal Platf
 url: "/directory/stiftung-risiko-dialog/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Stiftung Risiko-Dialog: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.risiko-dialog.ch"
+company_linkedin: "https://www.linkedin.com/company/risk-dialogue-foundation/"
+company_country: "Switzerland"
 ---
 
 

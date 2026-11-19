@@ -6,6 +6,11 @@ description: "Shreds non-recyclable mixed waste (plastic, wood, glass wool, etc.
 url: "/directory/néolithe/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Néolithe: biomass burial as a side business, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://neolithe.com/"
+company_linkedin: "https://www.linkedin.com/company/neolithe/"
+company_country: "France"
 ---
 
 

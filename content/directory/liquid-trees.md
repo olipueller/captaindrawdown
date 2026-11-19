@@ -6,6 +6,11 @@ description: "Researches and advocates for ocean iron fertilization (OIF) in hig
 url: "/directory/liquid-trees/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Liquid Trees: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-09-27"
+company_url: "https://www.liquidtrees.org/"
+company_linkedin: "https://www.linkedin.com/company/liquidtrees/"
+company_country: "United States"
 ---
 
 

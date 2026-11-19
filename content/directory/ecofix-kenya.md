@@ -6,6 +6,9 @@ description: "Pyrolyzes croton nut husks, a waste stream from its existing agric
 url: "/directory/ecofix-kenya/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "EcoFix Kenya: biochar as a side business, Kenya | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "Kenya"
 ---
 
 

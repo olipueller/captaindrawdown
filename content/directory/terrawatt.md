@@ -6,6 +6,11 @@ description: "Pyrolysis of green/wood waste produces biochar for soil amendment 
 url: "/directory/terrawatt/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "TerraWatt: biochar company, France | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://terrawatt.earth/"
+company_linkedin: "https://www.linkedin.com/company/terrawatt-sas/"
+company_country: "France"
 ---
 
 

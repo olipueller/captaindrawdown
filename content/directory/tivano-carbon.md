@@ -6,6 +6,11 @@ description: "Harvests invasive encroacher bush from Namibian savannas and store
 url: "/directory/tivano-carbon/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Tivano Carbon: biomass burial company, Namibia | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://www.tivano-carbon.com/"
+company_linkedin: "https://www.linkedin.com/company/tivano-carbon/"
+company_country: "Namibia"
 ---
 
 
@@ -30,6 +35,7 @@ Tivano Carbon restores Namibia's savanna rangelands by converting invasive encro
 
 ## History
 
+- **2026-11-17** — News: Tivano Carbon: Congratulations to Tivano , an UPortunity - the ETH Start-up Accelerator fellow... ([source](https://www.linkedin.com/company/tivano-carbon/#post-9ef682014388))
 - **2026-10-16** — News: Tivano Carbon: Tivano applies Swiss expertise to carbon dioxide removal (CDR) and underground… ([source](https://www.linkedin.com/company/tivano-carbon/#post-68db978754a5))
 - **2026-10-14** — News: Startup & venture capital news | Dealroom.co ([source](https://dealroom.co/news/))
 - **2026-04-19** — Classified as Biomass Burial, supplier, 🟢 Active ([source](https://www.tivano-carbon.com/))

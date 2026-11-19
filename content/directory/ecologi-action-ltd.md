@@ -6,6 +6,11 @@ description: "Online carbon credit marketplace and climate-action subscription p
 url: "/directory/ecologi-action-ltd/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Ecologi Action Ltd: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://ecologi.com/"
+company_linkedin: "https://www.linkedin.com/company/ecologihq/"
+company_country: "United Kingdom"
 ---
 
 

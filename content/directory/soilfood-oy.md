@@ -6,6 +6,10 @@ description: "Spreads fibre-based soil amendments made from industrial side-stre
 url: "/directory/soilfood-oy/"
 pathway: "Biomass Burial"
 liveliness: "🟡 Moderate"
+seo_title: "Soilfood Oy: biomass burial as a side business, Finland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.soilfood.fi"
+company_country: "Finland"
 ---
 
 

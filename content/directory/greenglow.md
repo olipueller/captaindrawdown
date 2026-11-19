@@ -6,6 +6,11 @@ description: "Slow pyrolysis of Southeast Asian agricultural waste and forestry 
 url: "/directory/greenglow/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "GreenGlow: biochar company, Malaysia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://greenglow.earth/"
+company_linkedin: "https://www.linkedin.com/company/greenglowasia/"
+company_country: "Malaysia"
 ---
 
 

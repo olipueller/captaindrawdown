@@ -6,6 +6,11 @@ description: "DACMA designs and manufactures modular solid-sorbent Direct Air Ca
 url: "/directory/dacma-gmbh/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "DACMA GmbH: direct air capture company, Germany | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://dacma.com/"
+company_linkedin: "https://www.linkedin.com/company/dacma/"
+company_country: "Germany"
 ---
 
 
@@ -33,6 +38,7 @@ DACMA GmbH is a Hamburg, Germany-headquartered manufacturer of Direct Air Captur
 
 ## History
 
+- **2026-11-19** — News: DACMA GmbH: DACMA is pleased to draw your attention to a particular talk at the GHGT-18 in Perth... ([source](https://www.linkedin.com/company/dacma/#post-bae2df1c5684))
 - **2026-10-19** — News: DACMA GmbH: Today is the day: The DACMA Competence Center is officially open. Together with… ([source](https://www.linkedin.com/company/dacma/#post-08d286ef5a33))
 - **2026-07-24** — News: DACMA GmbH: DACMA Sets the Course for Its Next Phase of Growth A new shareholder structure and a… ([source](https://www.linkedin.com/company/dacma/#post-f1feff4546cc))
 - **2026-04-19** — Classified as DAC, supplier, 🟢 Active ([source](https://dacma.com/))

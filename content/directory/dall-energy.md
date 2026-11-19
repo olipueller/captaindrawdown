@@ -6,6 +6,10 @@ description: "Builds updraft biomass gasification furnaces for district heating 
 url: "/directory/dall-energy/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Dall Energy: biochar as a side business, Denmark | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.dallenergy.com"
+company_country: "Denmark"
 ---
 
 

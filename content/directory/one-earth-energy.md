@@ -6,6 +6,11 @@ description: "Capture of high-purity fermentation CO2 from a corn ethanol plant,
 url: "/directory/one-earth-energy/"
 pathway: "BECCS"
 liveliness: "🔴 Likely Dead"
+seo_title: "One Earth Energy: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.oneearthenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/one-earth-enegry/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolysis of biomass into biochar for carbon sequestration and soi
 url: "/directory/viochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Viochar: biochar company, Denmark | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://viochar.com/"
+company_linkedin: "https://www.linkedin.com/company/viochar/"
+company_country: "Denmark"
 ---
 
 

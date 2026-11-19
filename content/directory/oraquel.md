@@ -6,6 +6,10 @@ description: "Oraquel builds modular, solar-powered Hi-DAC reactors that capture
 url: "/directory/oraquel/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Oraquel: direct air capture company, Poland | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.oraquel.com/"
+company_country: "Poland"
 ---
 
 

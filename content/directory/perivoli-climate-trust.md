@@ -6,6 +6,10 @@ description: "Pyrolyzes encroacher bush biomass from Namibian rangelands into bi
 url: "/directory/perivoli-climate-trust/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Perivoli Climate Trust: biochar company, Namibia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://perivoliclimate.com/"
+company_country: "Namibia"
 ---
 
 

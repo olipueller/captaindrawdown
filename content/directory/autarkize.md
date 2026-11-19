@@ -6,6 +6,11 @@ description: "Containerized pyrolysis reactors (up to 2.5 MW) that convert bioma
 url: "/directory/autarkize/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "autarkize: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-12"
+company_url: "https://www.autarkize.com"
+company_linkedin: "https://www.linkedin.com/company/autarkize/"
+company_country: "Germany"
 ---
 
 

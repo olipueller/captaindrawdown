@@ -6,6 +6,11 @@ description: "North Star will add a post-combustion carbon capture plant to the 
 url: "/directory/north-star-ccs/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "North Star CCS: BECCS division, Canada | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.carbonalpha.com/northstar"
+company_linkedin: "https://www.linkedin.com/company/carbon-alpha/"
+company_country: "Canada"
 ---
 
 

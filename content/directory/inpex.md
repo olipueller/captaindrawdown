@@ -6,6 +6,9 @@ description: "Develops geological CO2 storage hubs (Bonaparte CCS offshore Austr
 url: "/directory/inpex/"
 pathway: "Mineralization"
 liveliness: "🟡 Moderate"
+seo_title: "INPEX: mineralization as a side business, Japan | Captain Drawdown"
+lastmod: "2026-11-16"
+company_country: "Japan"
 ---
 
 

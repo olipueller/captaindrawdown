@@ -6,6 +6,11 @@ description: "Ex-situ carbon mineralization via processing (heating, acid leachi
 url: "/directory/baie-minerals/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "BAIE Minerals: mineralization company, Canada | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.baieminerals.com/"
+company_linkedin: "https://www.linkedin.com/company/baie-minerals-inc/"
+company_country: "Canada"
 ---
 
 

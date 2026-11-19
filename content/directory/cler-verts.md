@@ -6,6 +6,11 @@ description: "Operates a pyrolysis unit (installed 2024) that converts woody res
 url: "/directory/cler-verts/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Cler-Verts: biochar as a side business, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.cler-verts.fr"
+company_linkedin: "https://www.linkedin.com/company/cler-verts/"
+company_country: "France"
 ---
 
 

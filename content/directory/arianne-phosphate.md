@@ -6,6 +6,10 @@ description: "Through a joint venture with Travertine Technologies, Arianne plan
 url: "/directory/arianne-phosphate/"
 pathway: "Mineralization"
 liveliness: "🟡 Moderate"
+seo_title: "Arianne Phosphate: mineralization as a side business, Canada | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.arianne-inc.com"
+company_country: "Canada"
 ---
 
 

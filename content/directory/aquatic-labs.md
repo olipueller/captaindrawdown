@@ -6,6 +6,11 @@ description: "Builds solid-state carbon/alkalinity sensors and eDNA samplers for
 url: "/directory/aquatic-labs/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Aquatic Labs: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.aquatic-labs.com/"
+company_linkedin: "https://www.linkedin.com/company/aquatic-labs/"
+company_country: "United States"
 ---
 
 

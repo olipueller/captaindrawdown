@@ -6,6 +6,11 @@ description: "Deploys finely ground olivine sand into coastal/nearshore waters t
 url: "/directory/vesta/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Vesta: ocean CDR company, United States | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://www.vesta.earth/"
+company_linkedin: "https://www.linkedin.com/company/vestaearth/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Hybrid electrochemical/thermal liquid-sorbent DAC using pH and low
 url: "/directory/yama/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Yama: direct air capture company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://yamacarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/yamacarbon/"
+company_country: "France"
 ---
 
 

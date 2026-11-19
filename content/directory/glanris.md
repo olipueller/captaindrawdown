@@ -6,6 +6,11 @@ description: "Pyrolyzes rice hulls (and testing nut shells) into silica-rich bio
 url: "/directory/glanris/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Glanris: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.glanris.com/"
+company_linkedin: "https://www.linkedin.com/company/glanris/"
+company_country: "United States"
 ---
 
 

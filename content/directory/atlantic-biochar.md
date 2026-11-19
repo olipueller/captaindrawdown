@@ -6,6 +6,10 @@ description: "Plans to pyrolyze Moroccan agricultural residues, mainly olive pom
 url: "/directory/atlantic-biochar/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Atlantic Biochar: biochar company, Morocco | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://atlanticbiochar.org/"
+company_country: "Morocco"
 ---
 
 

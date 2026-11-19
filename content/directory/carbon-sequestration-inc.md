@@ -6,6 +6,11 @@ description: "Buries woody biomass waste in engineered low-permeability clay vau
 url: "/directory/carbon-sequestration-inc/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Carbon Sequestration Inc: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonsequestration-inc.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-sequestration-inc/"
+company_country: "United States"
 ---
 
 

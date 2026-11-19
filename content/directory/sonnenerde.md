@@ -6,6 +6,11 @@ description: "Pyrolysis of woody composting residues (sieve residues) into EBC-c
 url: "/directory/sonnenerde/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Sonnenerde: biochar as a side business, Austria | Captain Drawdown"
+lastmod: "2026-10-05"
+company_url: "https://www.sonnenerde.at"
+company_linkedin: "https://www.linkedin.com/company/sonnenerde/"
+company_country: "Austria"
 ---
 
 

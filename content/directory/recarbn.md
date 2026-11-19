@@ -6,6 +6,11 @@ description: "Solid-sorbent direct air capture using a patent-pending circulatin
 url: "/directory/recarbn/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "ReCarbn: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://recarbn.eu/"
+company_linkedin: "https://www.linkedin.com/company/recarbneu/"
+company_country: "Netherlands"
 ---
 
 

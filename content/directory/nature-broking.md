@@ -6,6 +6,11 @@ description: "Carbon credit brokerage and portfolio management firm offering due
 url: "/directory/nature-broking/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Nature Broking: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.naturebroking.com/"
+company_linkedin: "https://www.linkedin.com/company/nature-broking/"
+company_country: "United Kingdom"
 ---
 
 

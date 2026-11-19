@@ -6,6 +6,11 @@ description: "Policy advocacy and trade-association coalition for permanent carb
 url: "/directory/carbon-removal-alliance/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Removal Alliance: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://www.carbonremovalalliance.org/"
+company_linkedin: "https://www.linkedin.com/company/carbon-removal-alliance/"
+company_country: "United States"
 ---
 
 

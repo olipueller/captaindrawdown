@@ -6,6 +6,11 @@ description: "Aymium uses a proprietary non-combustion pyrolysis process to conv
 url: "/directory/aymium/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Aymium: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://aymium.com/"
+company_linkedin: "https://www.linkedin.com/company/aymium/"
+company_country: "United States"
 ---
 
 

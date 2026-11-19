@@ -6,6 +6,10 @@ description: "Develops carbon storage infrastructure (Class VI wells) in Wyoming
 url: "/directory/frontier-carbon-solutions/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Frontier Carbon Solutions: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://frontierccus.com/"
+company_country: "United States"
 ---
 
 

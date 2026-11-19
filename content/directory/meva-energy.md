@@ -6,6 +6,11 @@ description: "Entrained-flow biomass gasification of fine-fraction wood/agricult
 url: "/directory/meva-energy/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Meva Energy: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-19"
+company_url: "https://mevaenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/meva-energy/"
+company_country: "Sweden"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Solid-sorbent DAC using a novel Cu(II)-coordinated chelating weak-
 url: "/directory/jeevan-climate-solutions/"
 pathway: "DAC"
 liveliness: "🟠 Suspect"
+seo_title: "Jeevan Climate Solutions: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://jeevanclimate.com/"
+company_country: "United States"
 ---
 
 

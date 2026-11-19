@@ -6,6 +6,11 @@ description: "Operates industrial pyrolysis hubs converting Indian agricultural 
 url: "/directory/ground-up/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Ground Up: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.ground-up.in"
+company_linkedin: "https://www.linkedin.com/company/ground-up-in/"
+company_country: "India"
 ---
 
 

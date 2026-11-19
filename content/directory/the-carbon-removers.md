@@ -6,6 +6,11 @@ description: "Captures biogenic CO₂ from fermentation (whisky distilleries) an
 url: "/directory/the-carbon-removers/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "The Carbon Removers: BECCS company, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://thecarbonremovers.com/"
+company_linkedin: "https://www.linkedin.com/company/thecarbonremovers/"
+company_country: "United Kingdom"
 ---
 
 

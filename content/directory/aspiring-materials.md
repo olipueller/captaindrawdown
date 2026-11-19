@@ -6,6 +6,11 @@ description: "Uses a patented acid digestion + electrolysis process to convert o
 url: "/directory/aspiring-materials/"
 pathway: "Mineralization"
 liveliness: "🟢 Active"
+seo_title: "Aspiring Materials: mineralization company, New Zealand | Captain Drawdown"
+lastmod: "2026-10-26"
+company_url: "https://www.aspiringmaterials.com/"
+company_linkedin: "https://www.linkedin.com/company/aspiring-materials/"
+company_country: "New Zealand"
 ---
 
 

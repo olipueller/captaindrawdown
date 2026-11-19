@@ -6,6 +6,11 @@ description: "Pyrolyzes woody biomass residues (cleared trees, paper/pulp mill w
 url: "/directory/wakefield-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Wakefield BioChar: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-04"
+company_url: "https://wakefieldbiochar.com/"
+company_linkedin: "https://www.linkedin.com/company/wakefieldbiochar/"
+company_country: "United States"
 ---
 
 

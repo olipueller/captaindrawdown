@@ -6,6 +6,11 @@ description: "Develops biochar CDR projects (pyrolysis of agricultural residues)
 url: "/directory/green-carbon/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Green Carbon: biochar company, Japan | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://green-carbon.co.jp/"
+company_linkedin: "https://www.linkedin.com/company/green-carbon-inc/"
+company_country: "Japan"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Uses a patent-pending vibration-based micro-injection system to in
 url: "/directory/sinkco-labs/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Sinkco Labs: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.sinkcolabs.com/"
+company_linkedin: "https://www.linkedin.com/company/sinkco-labs/"
+company_country: "United States"
 ---
 
 

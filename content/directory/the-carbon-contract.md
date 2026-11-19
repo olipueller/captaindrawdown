@@ -6,6 +6,10 @@ description: "Online marketplace that sells certified biochar carbon removal cre
 url: "/directory/the-carbon-contract/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "The Carbon Contract: CDR enabling technology, Sweden | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://thecarboncontract.com/"
+company_country: "Sweden"
 ---
 
 

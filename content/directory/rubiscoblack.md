@@ -6,6 +6,11 @@ description: "Developing microbial technologies to accelerate olivine rock weath
 url: "/directory/rubiscoblack/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "RubiscoBlack: enhanced weathering company, India | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://rubiscoblack.com/"
+company_linkedin: "https://www.linkedin.com/company/rubiscoblack/"
+company_country: "India"
 ---
 
 

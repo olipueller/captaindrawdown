@@ -6,6 +6,11 @@ description: "Pyrolyzes wood chips and garden/park waste in modified solid-fuel 
 url: "/directory/bussme-biochar/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Bussme Biochar: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.bussmeenergy.se/biokol/"
+company_linkedin: "https://www.linkedin.com/company/bussme-energy/"
+company_country: "Sweden"
 ---
 
 

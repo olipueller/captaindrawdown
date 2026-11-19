@@ -6,6 +6,11 @@ description: "Develops ex-situ Enhanced Rock Weathering using crushed antigorite
 url: "/directory/green-sequest/"
 pathway: "Enhanced Weathering"
 liveliness: "🔴 Likely Dead"
+seo_title: "Green Sequest: enhanced weathering company, Poland | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://greensequest.earth/"
+company_linkedin: "https://www.linkedin.com/company/green-sequest/"
+company_country: "Poland"
 ---
 
 

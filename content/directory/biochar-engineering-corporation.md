@@ -6,6 +6,10 @@ description: "Designed and built small, mobile industrial-scale pyrolysis units 
 url: "/directory/biochar-engineering-corporation/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Biochar Engineering Corporation: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.forsale.dynadot.com/biocharengineering.com"
+company_country: "United States"
 ---
 
 

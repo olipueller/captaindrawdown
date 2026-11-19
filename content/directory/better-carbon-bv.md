@@ -6,6 +6,11 @@ description: "Produces biochar via pyrolysis of local biomass waste and develops
 url: "/directory/better-carbon-bv/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Better Carbon BV: biochar company, Netherlands | Captain Drawdown"
+lastmod: "2026-10-23"
+company_url: "https://bettercarbon.eu/"
+company_linkedin: "https://www.linkedin.com/company/better-carbon/"
+company_country: "Netherlands"
 ---
 
 

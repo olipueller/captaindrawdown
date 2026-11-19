@@ -6,6 +6,11 @@ description: "Offshore floating DAC powered by renewable energy, with captured C
 url: "/directory/solid-carbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Solid Carbon: direct air capture division, Canada | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://solidcarbon.ca/"
+company_linkedin: "https://www.linkedin.com/company/solidcarbon/"
+company_country: "Canada"
 ---
 
 

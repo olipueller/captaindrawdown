@@ -6,6 +6,11 @@ description: "Develops and supplies nano-porous carbon and polymer-based (p-AMP)
 url: "/directory/dotz-nano/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Dotz Nano: direct air capture as a side business, Israel | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://dotz.tech/"
+company_linkedin: "https://www.linkedin.com/company/dotznano/"
+company_country: "Israel"
 ---
 
 

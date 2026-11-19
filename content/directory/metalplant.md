@@ -6,6 +6,11 @@ description: "Grinds olivine and spreads it on serpentine soils in Albania where
 url: "/directory/metalplant/"
 pathway: "Enhanced Weathering"
 liveliness: "🟠 Suspect"
+seo_title: "Metalplant: enhanced weathering company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://metalplant.com/"
+company_linkedin: "https://www.linkedin.com/company/phytomining/"
+company_country: "United States"
 ---
 
 

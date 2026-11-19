@@ -6,6 +6,11 @@ description: "HUSK operates pyrolysis plants co-located with rice mills in Cambo
 url: "/directory/husk/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Husk: biochar company, Singapore | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.huskventures.com/"
+company_linkedin: "https://www.linkedin.com/company/huskventures/"
+company_country: "Singapore"
 ---
 
 

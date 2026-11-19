@@ -6,6 +6,11 @@ description: "Develops the ZEUS liquid-solvent carbon capture process for DAC, f
 url: "/directory/hovyu/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Hovyu: direct air capture company, Netherlands | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://hovyu.com/"
+company_linkedin: "https://www.linkedin.com/company/hovyu-bv/"
+company_country: "Netherlands"
 ---
 
 

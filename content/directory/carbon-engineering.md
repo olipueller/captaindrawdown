@@ -6,6 +6,11 @@ description: "Liquid-solvent (potassium hydroxide) direct air capture technology
 url: "/directory/carbon-engineering/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Carbon Engineering: direct air capture division, Canada | Captain Drawdown"
+lastmod: "2026-10-27"
+company_url: "https://carbonengineering.com/"
+company_linkedin: "https://www.linkedin.com/company/carbonengineering/"
+company_country: "Canada"
 ---
 
 

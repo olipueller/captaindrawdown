@@ -6,6 +6,11 @@ description: "Uses high-altitude balloons carrying payloads to the stratosphere 
 url: "/directory/high-hopes-labs/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "High Hopes Labs: direct air capture company, Israel | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.highopeslabs.com/"
+company_linkedin: "https://www.linkedin.com/company/high-hopes-labs/"
+company_country: "Israel"
 ---
 
 

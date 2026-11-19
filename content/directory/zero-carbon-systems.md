@@ -6,6 +6,11 @@ description: "Solid-sorbent direct air capture using Global Thermostat's monolit
 url: "/directory/zero-carbon-systems/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Zero Carbon Systems: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-09-25"
+company_url: "https://www.zerocarbonsystems.com/"
+company_linkedin: "https://www.linkedin.com/company/zero-carbon-systems/"
+company_country: "United States"
 ---
 
 

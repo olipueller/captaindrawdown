@@ -6,6 +6,11 @@ description: "Develops DAC modules that retrofit onto existing industrial coolin
 url: "/directory/captur-tower/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Captur Tower: direct air capture company, Spain | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.capturtower.com/"
+company_linkedin: "https://www.linkedin.com/company/captur-tower/"
+company_country: "Spain"
 ---
 
 

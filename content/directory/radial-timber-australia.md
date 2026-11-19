@@ -6,6 +6,10 @@ description: "Runs a government-funded pilot pyrolysis plant at its Yarram mill 
 url: "/directory/radial-timber-australia/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Radial Timber Australia: biochar as a side business, Australia | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://radialtimbers.com.au/"
+company_country: "Australia"
 ---
 
 

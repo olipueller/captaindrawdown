@@ -6,6 +6,11 @@ description: "Wind-driven, fan-free 'blade' air contactor with a liquid solvent 
 url: "/directory/carbon-blade/"
 pathway: "DAC"
 liveliness: "🟡 Moderate"
+seo_title: "Carbon Blade: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.carbon-blade.com/"
+company_linkedin: "https://www.linkedin.com/company/carbon-blade-dac/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Conceptual design of autonomous offshore spar platforms using OTEC
 url: "/directory/kepler-recapture/"
 pathway: "Ocean CDR"
 liveliness: "🟠 Suspect"
+seo_title: "Kepler ReCapture: ocean CDR division, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://keplerrecapture.com/"
+company_linkedin: "https://www.linkedin.com/company/kepler-recapture/"
+company_country: "United States"
 ---
 
 

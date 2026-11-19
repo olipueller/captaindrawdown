@@ -6,6 +6,11 @@ description: "Converts agricultural residues into certified biochar via pyrolysi
 url: "/directory/olneo/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "OLNEO: biochar company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.olneo.green/"
+company_linkedin: "https://www.linkedin.com/company/olneo-%E2%80%A2-biochar-carbone/"
+company_country: "France"
 ---
 
 

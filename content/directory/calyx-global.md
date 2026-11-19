@@ -6,6 +6,11 @@ description: "Independent ratings agency providing expert-led GHG integrity and 
 url: "/directory/calyx-global/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Calyx Global: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://calyxglobal.com/"
+company_linkedin: "https://www.linkedin.com/company/calyx-global/"
+company_country: "United States"
 ---
 
 

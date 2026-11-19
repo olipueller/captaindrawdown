@@ -6,6 +6,11 @@ description: "Reacts CO2 with hydrated lime and seawater in a reactor to produce
 url: "/directory/limenet/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Limenet: ocean CDR company, Italy | Captain Drawdown"
+lastmod: "2026-11-09"
+company_url: "https://limenet.tech/en/"
+company_linkedin: "https://www.linkedin.com/company/limenet-tech/"
+company_country: "Italy"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Software/finance platform for sourcing, diligence, pooled-fund fin
 url: "/directory/opna/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Opna: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://opna.earth"
+company_linkedin: "https://www.linkedin.com/company/opna-earth/"
+company_country: "United Kingdom"
 ---
 
 

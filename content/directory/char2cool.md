@@ -6,6 +6,11 @@ description: "Char2Cool supports local entrepreneurs in Africa and Peru in using
 url: "/directory/char2cool/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Char2Cool: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://char2cool.org"
+company_linkedin: "https://www.linkedin.com/company/char2cool-e-v/"
+company_country: "Germany"
 ---
 
 

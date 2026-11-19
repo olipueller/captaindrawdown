@@ -6,6 +6,11 @@ description: "Runs Project Carbdown — multi-year ERW field and greenhouse expe
 url: "/directory/carbon-drawdown-initiative/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "Carbon Drawdown Initiative: enhanced weathering ecosystem company, Germany | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.carbon-drawdown.de"
+company_linkedin: "https://www.linkedin.com/company/carbon-drawdown-initiative/"
+company_country: "Germany"
 ---
 
 
@@ -30,6 +35,8 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-11-19** — News: Laboratoire de Météorologie Dynamique: Great things come in waves. For months, we've been building... ([source](https://www.linkedin.com/company/laboratoire-des-sciences-du-climat-et-de-l-environnement/#post-ffe2840483dc))
+- **2026-11-19** — News: Carbon Drawdown Initiative: Carbon dioxide removal made it into the draft COP31 deal Huge news... ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-ee9dc01caf9f))
 - **2026-11-09** — News: Cotierra: Big news from Cotierra: we’ve raised USD 3 million to make tropical agriculture more... ([source](https://www.linkedin.com/company/cotierra-ag/#post-93394e764835))
 - **2026-11-05** — News: Systematic comparison of major enhanced rock weathering feedstocks highlights agronomic benefits… ([source](https://doi.org/10.70212/cdrxiv.2026570.v1))
 - **2026-11-01** — News: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz… ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
@@ -58,8 +65,6 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 - **2026-08-19** — News: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried… ([source](https://www.linkedin.com/feed/update/urn:li:share:7495826821377200130/))
 - **2026-08-19** — News: The soil breathes: how temperature and CO2 drive the weathering signal &mdash; Carbon Drawdown… ([source](https://www.carbon-drawdown.de/blog/2026-7-19-the-soil-breathes-how-temperature-and-co-drive-the-weathering-signal))
 - **2026-08-16** — News: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
-- **2026-08-14** — News: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
-- **2026-08-14** — News: The 1,400-day German basalt trial returning zero measurable CO2 removal isn't just another… ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeynp7fz2e))
 
 ---
 

@@ -6,6 +6,11 @@ description: "Slurry injection of organic waste (biosolids, manure, paper sludge
 url: "/directory/vaulted-deep/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Vaulted Deep: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://vaulteddeep.com/"
+company_linkedin: "https://www.linkedin.com/company/vaulted-deep/"
+company_country: "United States"
 ---
 
 

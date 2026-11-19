@@ -6,6 +6,11 @@ description: "Mobile pyrolysis unit converts forestry residue hardwood into bioc
 url: "/directory/carbonchip/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "CarbonChip: biochar company, Australia | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.carbonchip.com.au/"
+company_linkedin: "https://www.linkedin.com/company/carbonchip-pty-ltd/"
+company_country: "Australia"
 ---
 
 

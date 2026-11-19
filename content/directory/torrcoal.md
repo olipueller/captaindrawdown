@@ -6,6 +6,11 @@ description: "Torrefaction technology that thermally converts waste wood and bio
 url: "/directory/torrcoal/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "TorrCoal: biochar division, Belgium | Captain Drawdown"
+lastmod: "2026-07-15"
+company_url: "https://www.torrcoal.com/"
+company_linkedin: "https://www.linkedin.com/company/torr-coal-international-bv/"
+company_country: "Belgium"
 ---
 
 

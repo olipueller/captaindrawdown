@@ -6,6 +6,11 @@ description: "Nonprofit carbon offset registry that develops crediting protocols
 url: "/directory/climate-action-reserve-car/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Climate Action Reserve (CAR): CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.climateactionreserve.org/"
+company_linkedin: "https://www.linkedin.com/company/climate-action-reserve/"
+company_country: "United States"
 ---
 
 

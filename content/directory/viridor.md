@@ -6,6 +6,11 @@ description: "Post-combustion amine-based CO2 capture (Shell CANSOLV via Technip
 url: "/directory/viridor/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "Viridor: BECCS as a side business, United Kingdom | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.viridor.co.uk/"
+company_linkedin: "https://www.linkedin.com/company/viridor/"
+company_country: "United Kingdom"
 ---
 
 

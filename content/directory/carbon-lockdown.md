@@ -6,6 +6,11 @@ description: "Buries sustainably-sourced coarse woody biomass in engineered unde
 url: "/directory/carbon-lockdown/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Carbon Lockdown: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonlockdown.net/"
+company_linkedin: "https://www.linkedin.com/company/carbon-lockdown/"
+company_country: "United States"
 ---
 
 

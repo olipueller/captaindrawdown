@@ -6,6 +6,10 @@ description: "Retail e-commerce reseller that bundles individual consumer purcha
 url: "/directory/remove-carbon-today/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Remove Carbon Today: CDR enabling technology | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.removecarbontoday.com/"
+company_linkedin: "https://www.linkedin.com/company/remove-carbon-today/"
 ---
 
 
@@ -30,6 +34,7 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
+- **2026-11-19** — News: Remove Carbon Today: Remove Carbon Today celebrates its first year with 344 tonnes of CDR retired.... ([source](https://www.linkedin.com/company/remove-carbon-today/#post-05889156d5af))
 - **2026-11-11** — News: Remove Carbon Today Celebrates First Year With 344 Tonnes Of Retired CDR Purchased By Individuals ([source](https://carbonherald.com/remove-carbon-today-celebrates-first-year-with-344-tonnes-of-retired-cdr-purchased-by-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=remove-carbon-today-celebrates-first-year-with-344-tonnes-of-retired-cdr-purchased-by-individuals))
 - **2026-11-10** — News: 344 Tonnes Retired in Year One as Individuals Turn to Durable Carbon Removal ([source](https://www.einpresswire.com/article/955673300/344-tonnes-retired-in-year-one-as-individuals-turn-to-durable-carbon-removal))
 - **2026-09-10** — News: Meet Our Partners ([source](https://www.removecarbontoday.com/pages/partners))

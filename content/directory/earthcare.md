@@ -6,6 +6,11 @@ description: "Gasifies biosolids, manure, food waste and MSW digestate into stab
 url: "/directory/earthcare/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Earthcare: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.earthcarellc.com"
+company_linkedin: "https://www.linkedin.com/company/earthcarellc/"
+company_country: "United States"
 ---
 
 

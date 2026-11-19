@@ -6,6 +6,11 @@ description: "Pyrolyzes corn crop residues (stalks, leaves, cobs) from local far
 url: "/directory/enable-earth/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Enable Earth: biochar company, Thailand | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://enableearth.eco/"
+company_linkedin: "https://www.linkedin.com/company/enable-earth/"
+company_country: "Thailand"
 ---
 
 

@@ -6,6 +6,10 @@ description: "Develops and operates biomass pyrolysis projects that produce bioc
 url: "/directory/recarbono/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "Recarbono: biochar company, Portugal | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.recarbono.com"
+company_country: "Portugal"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Develops onshore geological CO2 storage (saline sandstone and coal
 url: "/directory/australian-carbon-vault/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Australian Carbon Vault: direct air capture company, Australia | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://acvault.au"
+company_linkedin: "https://www.linkedin.com/company/australian-carbon-vault/"
+company_country: "Australia"
 ---
 
 
@@ -30,6 +35,7 @@ Australian Carbon Vault Pty Ltd is an Adelaide-based company, registered in 2023
 
 ## History
 
+- **2026-11-17** — News: Australian Carbon Vault: Big news! Australian Carbon Vault (ACV) has been awarded a $10m grant... ([source](https://www.linkedin.com/company/australian-carbon-vault/#post-47715be2577f))
 - **2026-11-16** — Classified as DAC, supplier, 🟢 Active ([source](https://acvault.au/about-us/))
 - **2026-11-16** — Added to the directory ([source](https://www.linkedin.com/company/carbonnet-limited/))
 

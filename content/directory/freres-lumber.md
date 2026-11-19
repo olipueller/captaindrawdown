@@ -6,6 +6,11 @@ description: "Produces biochar as a byproduct of a 100%-biomass-fired rotary bed
 url: "/directory/freres-lumber/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Freres Lumber: biochar as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://frereswood.com"
+company_linkedin: "https://www.linkedin.com/company/freres-engineered-wood/"
+company_country: "United States"
 ---
 
 

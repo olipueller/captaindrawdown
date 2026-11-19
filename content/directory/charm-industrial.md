@@ -6,6 +6,11 @@ description: "Fast pyrolysis of agricultural/forestry residues into bio-oil that
 url: "/directory/charm-industrial/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Charm Industrial: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-11-17"
+company_url: "https://charmindustrial.com/"
+company_linkedin: "https://www.linkedin.com/company/charm-industrial/"
+company_country: "United States"
 ---
 
 
@@ -45,6 +50,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-17** — News: Building carbon removal at scale takes more than what happens inside our facility. It takes strong... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528322547050864641/))
 - **2026-11-13** — News: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has... ([source](https://www.linkedin.com/company/nulife-greentech/#post-e66e2e377376))
 - **2026-11-06** — News: Google ↔ Charm Industrial — biochar ([source](https://www.datacenterdynamics.com/en/news/google-signs-biochar-carbon-removal-deal-with-charm-industrial))
 - **2026-11-06** — News: Good projects start with listening. Last week, members of the Charm team were in Mississippi... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7524482219969564674/))
@@ -74,7 +80,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-13** — News: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed… ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
 - **2026-08-13** — News: What happens to the wood that can’t become lumber? Wildfire mitigation and forest health projects ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493147994209378304/))
 - **2026-08-10** — News: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux .… ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
-- **2026-08-06** — News: Supporting stronger communities takes more than one approach. At Charm, we&amp;#39;re working to re ([source](https://www.linkedin.com/feed/update/urn:li:share:7490269260112510976/))
 
 ---
 

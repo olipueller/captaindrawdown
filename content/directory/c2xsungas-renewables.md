@@ -6,6 +6,11 @@ description: "Biomass (forestry residue) gasification via SunGas S1000 fluidized
 url: "/directory/c2xsungas-renewables/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "C2X/SunGas Renewables: BECCS as a side business, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://sungasrenewables.com/"
+company_linkedin: "https://www.linkedin.com/company/sungas-renewables/"
+company_country: "United States"
 ---
 
 

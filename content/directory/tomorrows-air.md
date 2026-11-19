@@ -6,6 +6,11 @@ description: "Travel-industry CDR marketplace/aggregator that channels traveler 
 url: "/directory/tomorrows-air/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Tomorrow's Air: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.tomorrowsair.com/"
+company_linkedin: "https://www.linkedin.com/company/tomorrows-air/"
+company_country: "United States"
 ---
 
 

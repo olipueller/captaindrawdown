@@ -6,6 +6,11 @@ description: "Manufactures solid MOF-based fiber sorbents (DCF-1) and modular st
 url: "/directory/decarbon/"
 pathway: "DAC"
 liveliness: "🟢 Active"
+seo_title: "Decarbon: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.decarbon.tech/"
+company_linkedin: "https://www.linkedin.com/company/decarbontek/"
+company_country: "United States"
 ---
 
 

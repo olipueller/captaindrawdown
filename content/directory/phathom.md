@@ -6,6 +6,11 @@ description: "Captures biogenic CO2 from coastal biomass power plants and reacts
 url: "/directory/phathom/"
 pathway: "BECCS"
 liveliness: "🟢 Active"
+seo_title: "pHathom: BECCS company, Canada | Captain Drawdown"
+lastmod: "2026-11-01"
+company_url: "https://phathom.tech/"
+company_linkedin: "https://www.linkedin.com/company/phathomtech/"
+company_country: "Canada"
 ---
 
 

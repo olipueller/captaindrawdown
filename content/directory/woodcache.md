@@ -6,6 +6,11 @@ description: "Buries unmerchantable waste woody biomass (wildfire-mitigation res
 url: "/directory/woodcache/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Woodcache: biomass burial company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.woodcache.org/"
+company_linkedin: "https://www.linkedin.com/company/wood-cache-pbc/"
+company_country: "United States"
 ---
 
 

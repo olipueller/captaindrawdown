@@ -6,6 +6,11 @@ description: "Co-owns Bioenergie Frauenfeld AG, a SynCraft wood-pyrolysis CHP pl
 url: "/directory/energie-360/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Energie 360°: biochar as a side business, Switzerland | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.energie360.ch/"
+company_linkedin: "https://www.linkedin.com/company/energie360/"
+company_country: "Switzerland"
 ---
 
 

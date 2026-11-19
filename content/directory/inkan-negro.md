@@ -6,6 +6,11 @@ description: "Produces biochar soil amendments by pyrolyzing urban green and agr
 url: "/directory/inkan-negro/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Inkan Negro: biochar company, Peru | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://inkannegro.com/"
+company_linkedin: "https://www.linkedin.com/company/inkan-negro/"
+company_country: "Peru"
 ---
 
 

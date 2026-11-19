@@ -6,6 +6,11 @@ description: "Solid-sorbent DAC using a plate-and-heat-exchanger gas/solid react
 url: "/directory/cleancapture-tech/"
 pathway: "DAC"
 liveliness: "🔴 Likely Dead"
+seo_title: "CleanCapture Tech: direct air capture company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://cleancapturetech.com/"
+company_linkedin: "https://www.linkedin.com/company/cleancapturetech/"
+company_country: "United States"
 ---
 
 

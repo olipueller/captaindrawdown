@@ -6,6 +6,11 @@ description: "Produces biochar and bio-carbon from bamboo and agri-residues via 
 url: "/directory/crbnfix/"
 pathway: "Biochar"
 liveliness: "🟡 Moderate"
+seo_title: "crbnfix: biochar company, India | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://crbnfix.com/"
+company_linkedin: "https://www.linkedin.com/company/crbnfix/"
+company_country: "India"
 ---
 
 

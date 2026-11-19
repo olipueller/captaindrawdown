@@ -6,6 +6,11 @@ description: "Pumps water (sea, brackish, fresh, waste) through a fluidized-bed 
 url: "/directory/carbonblue/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "CarbonBlue: ocean CDR company, Israel | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://carbonblue.cc/"
+company_linkedin: "https://www.linkedin.com/company/carbonblue-cc/"
+company_country: "Israel"
 ---
 
 

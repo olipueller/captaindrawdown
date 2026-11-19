@@ -6,6 +6,11 @@ description: "Pyrolysis of urban garden/wood waste via Vow BioGreen reactor prod
 url: "/directory/nordvästra-skånes-renhållnings/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Nordvästra Skånes Renhållnings: biochar as a side business, Sweden | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://nsr.se/"
+company_linkedin: "https://www.linkedin.com/company/nsr-ab/"
+company_country: "Sweden"
 ---
 
 

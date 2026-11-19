@@ -6,6 +6,11 @@ description: "CDR offtake financier deploying structured capital to purchase Pur
 url: "/directory/altitude/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Altitude: CDR enabling technology, Switzerland | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://www.altitudecarbon.com/"
+company_linkedin: "https://www.linkedin.com/company/altitude-sustainable/"
+company_country: "Switzerland"
 ---
 
 

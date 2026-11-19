@@ -6,6 +6,11 @@ description: "Operates pyrolysis-based Carbon Removal Parks that turn biogenic r
 url: "/directory/novocarbo/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Novocarbo: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-29"
+company_url: "https://www.novocarbo.com/"
+company_linkedin: "https://www.linkedin.com/company/novocarbo/"
+company_country: "Germany"
 ---
 
 

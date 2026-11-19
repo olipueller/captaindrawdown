@@ -6,6 +6,11 @@ description: "Operated a torrefaction/pyrolysis plant converting small-diameter 
 url: "/directory/restoration-fuels/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Restoration Fuels: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://restorationfuels.com/"
+company_linkedin: "https://www.linkedin.com/company/restoration-fuels/"
+company_country: "United States"
 ---
 
 

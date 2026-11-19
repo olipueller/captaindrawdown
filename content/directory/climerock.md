@@ -6,6 +6,11 @@ description: "Spreads finely ground basalt sourced from Massif Central quarries 
 url: "/directory/climerock/"
 pathway: "Enhanced Weathering"
 liveliness: "🟢 Active"
+seo_title: "ClimeRock: enhanced weathering company, France | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://climerock.com/"
+company_linkedin: "https://www.linkedin.com/company/climerock/"
+company_country: "France"
 ---
 
 

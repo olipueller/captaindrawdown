@@ -6,6 +6,11 @@ description: "Manufactures biomass gasification and low-temperature pyrolysis/ca
 url: "/directory/shanghai-haiqi-environmental-technology/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Shanghai HaiQi Environmental Technology: biochar as a side business, China | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.haiqienvtech.com/"
+company_linkedin: "https://www.linkedin.com/company/haiqigroup/"
+company_country: "China"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pyrolyzes Thai agricultural residues (rice, sugarcane, rubber, oil
 url: "/directory/happy-ground/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Happy Ground: biochar company, Thailand | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://happyground.org/"
+company_linkedin: "https://www.linkedin.com/company/happy-ground/"
+company_country: "Thailand"
 ---
 
 

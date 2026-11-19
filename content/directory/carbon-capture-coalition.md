@@ -6,6 +6,11 @@ description: "A US policy advocacy coalition of companies, unions, and NGOs that
 url: "/directory/carbon-capture-coalition/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Carbon Capture Coalition: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-10"
+company_url: "https://carboncapturecoalition.org/"
+company_linkedin: "https://www.linkedin.com/company/carbon-capture-coalition/"
+company_country: "United States"
 ---
 
 

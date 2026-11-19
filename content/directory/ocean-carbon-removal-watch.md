@@ -6,6 +6,10 @@ description: "A journalism and data platform that tracks marine CDR investments,
 url: "/directory/ocean-carbon-removal-watch/"
 pathway: "Enabling Tech"
 liveliness: "🟡 Moderate"
+seo_title: "Ocean Carbon Removal Watch: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-16"
+company_url: "https://oceancdrwatch.org/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Early-stage biomass-based CO2 extraction/carbon-removal waste mana
 url: "/directory/minera-systems/"
 pathway: "Biomass Burial"
 liveliness: "🟢 Active"
+seo_title: "Minera Systems: biomass burial company, Canada | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://minerasystems.com/"
+company_linkedin: "https://www.linkedin.com/company/minera-systems/"
+company_country: "Canada"
 ---
 
 

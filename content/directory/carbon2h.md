@@ -6,6 +6,10 @@ description: "Designs and deploys modular, container-housed biomass gasification
 url: "/directory/carbon2h/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Carbon2H: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.carbon2h.com/"
+company_country: "Germany"
 ---
 
 

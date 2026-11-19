@@ -6,6 +6,11 @@ description: "Decentralized village-scale pyrolysis of rice husks and crop resid
 url: "/directory/safi-organics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Safi Organics: biochar company, Kenya | Captain Drawdown"
+lastmod: "2026-10-04"
+company_url: "https://safiorganics.co.ke/"
+company_linkedin: "https://www.linkedin.com/company/safi-organics-ltd/"
+company_country: "Kenya"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Industry association / policy advocacy body representing CDR devel
 url: "/directory/negative-emissions-platform/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Negative Emissions Platform: CDR enabling technology, Belgium | Captain Drawdown"
+lastmod: "2026-11-19"
+company_url: "https://www.negative-emissions.org"
+company_linkedin: "https://www.linkedin.com/company/negative-emissions-platform/"
+company_country: "Belgium"
 ---
 
 
@@ -29,6 +34,7 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-11-19** — News: Don’t take our word for it. Take the science’s. For years, we’ve argued that cutting emissions... ([source](https://www.linkedin.com/feed/update/urn:li:share:7529151944498704384/))
 - **2026-11-13** — News: BREAKING Carbon dioxide removal has entered the COP31 cover decision conversation. Today the... ([source](https://www.linkedin.com/feed/update/urn:li:share:7526913302829113345/))
 - **2026-11-12** — News: What does a day in carbon removal actually look like? Welcome to A Day in Removals, a new NEP... ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7526564013783261184/))
 - **2026-11-10** — News: 2031 sounds far away. For carbon removal, it’s basically tomorrow. That’s the argument from… ([source](https://www.linkedin.com/feed/update/urn:li:share:7525862615030444032/))
@@ -58,7 +64,6 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 - **2026-09-09** — News: Sysav joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/sysav-joins-the-negative-emissions-platform))
 - **2026-09-09** — News: The Negative Emissions Platform has published a new position paper on integrating permanent carbon… ([source](https://www.negative-emissions.org/updates/the-negative-emissions-platform-has-published-a-new-position-paper-on-integrating-permanent-carbon-removals-into-the-eu-ets))
 - **2026-09-07** — News: Pre-2031 CDR delivery timeline | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7502683295449628673/))
-- **2026-09-02** — News: Now is the time to enter Europe’s carbon removal market. The business case has never been stronger ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500493306318086144/))
 
 ---
 

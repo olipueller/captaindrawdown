@@ -6,6 +6,11 @@ description: "Software platform and expert services aggregating carbon credit pr
 url: "/directory/patch/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "Patch: CDR enabling technology, United States | Captain Drawdown"
+lastmod: "2026-11-06"
+company_url: "https://www.patch.io/"
+company_linkedin: "https://www.linkedin.com/company/usepatch/"
+company_country: "United States"
 ---
 
 

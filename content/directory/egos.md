@@ -6,6 +6,11 @@ description: "Operates a BImSchG-permitted pyrolysis plant converting biomass in
 url: "/directory/egos/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "EGoS: biochar company, Germany | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.pflanzenkohle24.de/"
+company_linkedin: "https://www.linkedin.com/company/3-1-2-egos-productions/"
+company_country: "Germany"
 ---
 
 

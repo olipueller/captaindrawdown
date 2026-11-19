@@ -6,6 +6,11 @@ description: "Mobile pyrolysis (Tigercat carbonizers) of forest slash on-site in
 url: "/directory/earth-foundries/"
 pathway: "Biochar"
 liveliness: "🔴 Likely Dead"
+seo_title: "Earth Foundries: biochar company, United States | Captain Drawdown"
+lastmod: "2026-11-15"
+company_url: "https://www.earthfoundriesinc.com/"
+company_linkedin: "https://www.linkedin.com/company/earth-foundries-inc/"
+company_country: "United States"
 ---
 
 

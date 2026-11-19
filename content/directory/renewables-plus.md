@@ -6,6 +6,11 @@ description: "Builds Blue Flame™ downdraft biomass gasification systems for en
 url: "/directory/renewables-plus/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Renewables Plus: biochar as a side business, Malaysia | Captain Drawdown"
+lastmod: "2026-09-15"
+company_url: "https://www.renewablesplus.com/"
+company_linkedin: "https://www.linkedin.com/company/renewables-plus/"
+company_country: "Malaysia"
 ---
 
 

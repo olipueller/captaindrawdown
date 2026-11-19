@@ -6,6 +6,11 @@ description: "Integrated biomass gasification + Fischer-Tropsch SAF plant with B
 url: "/directory/pathway-energy/"
 pathway: "BECCS"
 liveliness: "🟡 Moderate"
+seo_title: "Pathway Energy: BECCS company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://pathwayenergy.com/"
+company_linkedin: "https://www.linkedin.com/company/pathway-energy/"
+company_country: "United States"
 ---
 
 

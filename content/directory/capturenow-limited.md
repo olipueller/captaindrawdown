@@ -6,6 +6,11 @@ description: "Financial intermediary structuring long-duration prepaid/deferred 
 url: "/directory/capturenow-limited/"
 pathway: "Enabling Tech"
 liveliness: "🟢 Active"
+seo_title: "CAPTURENOW LIMITED: CDR enabling technology, United Kingdom | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://www.capturenow.ai/"
+company_linkedin: "https://www.linkedin.com/company/capture-now-ai/"
+company_country: "United Kingdom"
 ---
 
 

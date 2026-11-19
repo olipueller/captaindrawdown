@@ -6,6 +6,11 @@ description: "Methane pyrolysis of biogas producing fuel-cell-grade hydrogen plu
 url: "/directory/hago-energetics/"
 pathway: "Biochar"
 liveliness: "🟢 Active"
+seo_title: "Hago Energetics: biochar company, United States | Captain Drawdown"
+lastmod: "2026-10-15"
+company_url: "https://hagoenergetics.com/"
+company_linkedin: "https://www.linkedin.com/company/hago-energetics/"
+company_country: "United States"
 ---
 
 

@@ -6,6 +6,11 @@ description: "Pronoe builds van-sized electrochemical water-treatment units that
 url: "/directory/pronoe/"
 pathway: "Ocean CDR"
 liveliness: "🟢 Active"
+seo_title: "Pronoe: ocean CDR company, France | Captain Drawdown"
+lastmod: "2026-11-02"
+company_url: "https://www.pronoe.earth/"
+company_linkedin: "https://www.linkedin.com/company/pronoe-earth/"
+company_country: "France"
 ---
 
 
